@@ -1,10 +1,6 @@
-# cloud-skills
+# claude-skills
 
-[![GitHub Stars](https://img.shields.io/github/stars/ssrjkk/claude-skills?style=social)](https://github.com/ssrjkk/claude-skills)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/ssrjkk/claude-skills)](https://github.com/ssrjkk/claude-skills)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-**Внутренняя инженерная база знаний для Cloud-инженеров, SRE, DevOps и архитекторов.**  
+**Внутренняя инженерная база знаний для Claude-инженеров, SRE, DevOps и архитекторов.**  
 Практический справочник без воды. Только use-cases, trade-offs и готовые решения.
 
 ---
