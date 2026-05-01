@@ -1,4 +1,4 @@
-# 🤝 Contributing Guide
+# Contributing Guide
 
 ## 📋 Чеклист перед PR
 - [ ] `name` в kebab-case, ≤64 символов
