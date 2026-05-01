@@ -2,11 +2,9 @@ name: Validate Skills
 
 on:
   push:
-    paths:
-      - '.claude/skills/**'
+    branches: [main]
   pull_request:
-    paths:
-      - '.claude/skills/**'
+    branches: [main]
 
 jobs:
   validate:
@@ -23,5 +21,4 @@ jobs:
         run: python scripts/validate-skills.py
       
       - name: Check JSON catalog
-        run: |
-          python -c "import json; f=open('skills_catalog.json'); data=json.load(f); print('Total skills:', data['metadata']['total_skills'])"
+        run: python -c "import json; f=open('skills_catalog.json'); data=json.load(f); print('Total skills:', data['metadata']['total_skills'])"
