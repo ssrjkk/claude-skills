@@ -1,6 +1,11 @@
 ---
 name: test-reporting
 description: Генерирует отчеты о результатах тестирования с использованием Allure и pytest. Используется для визуализации результатов тестов, отслеживания багов и совместной работы QA-команды.
+category: qa
+tags: [testing, reporting, allure, pytest, qa, metrics]
+models: [sonnet, opus]
+version: 1.0.0
+created: 2026-04-29
 ---
 # Test Reporting
 

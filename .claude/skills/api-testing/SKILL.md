@@ -1,6 +1,11 @@
 ---
 name: api-testing
 description: Тестирует REST и GraphQL API с использованием pytest и библиотеки requests. Используется для проверки эндпоинтов, валидации HTTP-ответов и написания автоматизированных API тестов.
+category: qa
+tags: [api, testing, rest, graphql, pytest, requests]
+models: [haiku, sonnet, opus]
+version: 1.0.0
+created: 2026-04-29
 ---
 # API Testing
 

@@ -1,6 +1,11 @@
 ---
 name: database-migration
 description: Управляет миграциями баз данных PostgreSQL с помощью Alembic. Используется для создания, применения и отката миграций схемы БД в QA-окружениях.
+category: qa
+tags: [database, migration, postgresql, alembic, qa, schema]
+models: [haiku, sonnet, opus]
+version: 1.0.0
+created: 2026-04-29
 ---
 # Database Migration
 

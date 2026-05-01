@@ -1,6 +1,11 @@
 ---
 name: ci-cd-setup
 description: Настраивает CI/CD пайплайны для тестирования с использованием GitHub Actions. Используется для автоматизации запуска тестов, сборки и деплоя в QA-окружения.
+category: qa
+tags: [ci-cd, github-actions, automation, testing, pytest, qa]
+models: [haiku, sonnet, opus]
+version: 1.0.0
+created: 2026-04-29
 ---
 # CI/CD Setup
 
