@@ -25,8 +25,7 @@ def validate_skill(skill_path):
     # Check SKILL.md exists
     skill_md = skill_path / "SKILL.md"
     if not skill_md.exists():
-        errors.append(f"Missing SKILL.md in {skill_name}")
-        return errors
+        return errors  # Skip directories without SKILL.md
     
     # Parse YAML frontmatter
     content = skill_md.read_text(encoding='utf-8')
@@ -39,8 +38,6 @@ def validate_skill(skill_path):
             desc = desc_match.group(1).strip()
             if len(desc) > MAX_DESC_LEN:
                 errors.append(f"Description too long in {skill_name}")
-            if not desc[0].isupper() and not desc[0].islower():
-                pass  # Description should be in 3rd person
         else:
             errors.append(f"Missing description in {skill_name}")
     
@@ -48,11 +45,19 @@ def validate_skill(skill_path):
 
 def main():
     all_errors = []
-    for skill_dir in SKILLS_DIR.iterdir():
-        if skill_dir.is_dir() and not skill_dir.name.startswith('.'):
-            errors = validate_skill(skill_dir)
-            if errors:
-                all_errors.extend(errors)
+    
+    def traverse(directory):
+        for item in directory.iterdir():
+            if item.is_dir() and not item.name.startswith('.'):
+                # Check if this is a skill directory (has SKILL.md)
+                if (item / "SKILL.md").exists():
+                    errors = validate_skill(item)
+                    all_errors.extend(errors)
+                else:
+                    # Traverse subdirectories
+                    traverse(item)
+    
+    traverse(SKILLS_DIR)
     
     if all_errors:
         print("Validation FAILED:")
