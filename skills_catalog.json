@@ -1,9 +1,9 @@
 {
   "metadata": {
     "schema_version": "2.0",
-    "generated_at": "2026-04-29T12:00:00Z",
-    "total_skills": 44,
-    "domains": ["backend", "frontend", "mobile", "devops", "data", "ai", "qa", "product", "security"]
+    "generated_at": "2026-05-01T17:00:00Z",
+    "total_skills": 63,
+    "domains": ["backend", "frontend", "mobile", "devops", "data", "ai", "qa", "product", "security", "block", "gamedev", "iot", "design"]
   },
   "skills": [
     {
@@ -43,6 +43,24 @@
       "path": ".claude/skills/backend/java-spring"
     },
     {
+      "name": "django-rest",
+      "description": "Создает REST API на Django с Django REST Framework.",
+      "category": "backend",
+      "tags": ["django", "drf", "rest", "python", "admin"],
+      "models": ["sonnet", "opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/backend/django-rest"
+    },
+    {
+      "name": "laravel",
+      "description": "Создает веб-приложения на Laravel с Eloquent ORM и Blade шаблонами.",
+      "category": "backend",
+      "tags": ["laravel", "php", "eloquent", "blade", "mvc"],
+      "models": ["sonnet", "opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/backend/laravel"
+    },
+    {
       "name": "react-typescript",
       "description": "Создает компоненты React с TypeScript, типизацией props и хуками.",
       "category": "frontend",
@@ -77,6 +95,24 @@
       "models": ["sonnet", "opus"],
       "version": "1.0.0",
       "path": ".claude/skills/frontend/svelte-kit"
+    },
+    {
+      "name": "angular-typescript",
+      "description": "Создает Angular приложения с TypeScript, компонентами и сервисами.",
+      "category": "frontend",
+      "tags": ["angular", "typescript", "frontend", "components", "rxjs"],
+      "models": ["opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/frontend/angular-typescript"
+    },
+    {
+      "name": "astro-ssg",
+      "description": "Создает статические сайты с Astro, поддерживающим любые UI фреймворки.",
+      "category": "frontend",
+      "tags": ["astro", "ssg", "static-site", "markdown", "mdx"],
+      "models": ["sonnet", "opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/frontend/astro-ssg"
     },
     {
       "name": "flutter-clean-arch",
@@ -178,6 +214,24 @@
       "path": ".claude/skills/devops/gitops-argocd"
     },
     {
+      "name": "jenkins-pipeline",
+      "description": "Создает Jenkins pipeline скрипты для CI/CD с поддержкой declarative и scripted синтаксиса.",
+      "category": "devops",
+      "tags": ["jenkins", "pipeline", "ci-cd", "groovy", "automation"],
+      "models": ["sonnet", "opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/devops/jenkins-pipeline"
+    },
+    {
+      "name": "argocd-rollback",
+      "description": "Выполняет автоматический и ручной откат (rollback) деплоев в Kubernetes через ArgoCD.",
+      "category": "devops",
+      "tags": ["argocd", "rollback", "kubernetes", "gitops", "recovery"],
+      "models": ["opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/devops/argocd-rollback"
+    },
+    {
       "name": "security-scan",
       "description": "Интегрирует сканирование уязвимостей (Trivy, Snyk) в CI/CD пайплайны.",
       "category": "devops",
@@ -223,6 +277,24 @@
       "path": ".claude/skills/data/data-validation"
     },
     {
+      "name": "airflow-dags",
+      "description": "Создает DAGs для Apache Airflow с задачами и расписанием.",
+      "category": "data",
+      "tags": ["airflow", "dags", "orchestration", "etl", "python"],
+      "models": ["sonnet", "opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/data/airflow-dags"
+    },
+    {
+      "name": "kafka-streams",
+      "description": "Обрабатывает потоковые данные с Apache Kafka Streams.",
+      "category": "data",
+      "tags": ["kafka", "streams", "real-time", "events", "java", "scala"],
+      "models": ["opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/data/kafka-streams"
+    },
+    {
       "name": "prompt-engineering",
       "description": "Оптимизирует промпты для LLM с техниками few-shot, chain-of-thought и структурированным выводом.",
       "category": "ai",
@@ -265,7 +337,7 @@
       "tags": ["api", "testing", "rest", "graphql", "pytest", "requests"],
       "models": ["haiku", "sonnet"],
       "version": "1.0.0",
-      "path": ".claude/skills/api-testing"
+      "path": ".claude/skills/qa/api-testing"
     },
     {
       "name": "database-migration",
@@ -274,7 +346,7 @@
       "tags": ["database", "migration", "postgresql", "alembic"],
       "models": ["haiku", "sonnet"],
       "version": "1.0.0",
-      "path": ".claude/skills/database-migration"
+      "path": ".claude/skills/qa/database-migration"
     },
     {
       "name": "ci-cd-setup",
@@ -283,7 +355,7 @@
       "tags": ["ci-cd", "github-actions", "automation", "testing"],
       "models": ["haiku", "sonnet"],
       "version": "1.0.0",
-      "path": ".claude/skills/ci-cd-setup"
+      "path": ".claude/skills/qa/ci-cd-setup"
     },
     {
       "name": "test-reporting",
@@ -292,7 +364,7 @@
       "tags": ["testing", "reporting", "allure", "pytest"],
       "models": ["sonnet", "opus"],
       "version": "1.0.0",
-      "path": ".claude/skills/test-reporting"
+      "path": ".claude/skills/qa/test-reporting"
     },
     {
       "name": "e2e-playwright",
@@ -329,6 +401,24 @@
       "models": ["opus"],
       "version": "1.0.0",
       "path": ".claude/skills/qa/security-owasp"
+    },
+    {
+      "name": "selenium-grid",
+      "description": "Настраивает Selenium Grid для распределенного тестирования веб-приложений.",
+      "category": "qa",
+      "tags": ["selenium", "grid", "testing", "parallel", "webdriver"],
+      "models": ["sonnet", "opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/qa/selenium-grid"
+    },
+    {
+      "name": "cypress-e2e",
+      "description": "Создает E2E тесты с Cypress для современных веб-приложений.",
+      "category": "qa",
+      "tags": ["cypress", "e2e", "testing", "javascript", "typescript"],
+      "models": ["sonnet", "opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/qa/cypress-e2e"
     },
     {
       "name": "user-story-mapping",
@@ -401,6 +491,114 @@
       "models": ["opus"],
       "version": "1.0.0",
       "path": ".claude/skills/security/compliance-gdpr"
+    },
+    {
+      "name": "solidity",
+      "description": "Разрабатывает смарт-контракты на Solidity для Ethereum и EVM-совместимых блокчейнов.",
+      "category": "block",
+      "tags": ["solidity", "ethereum", "smart-contracts", "evm", "blockchain"],
+      "models": ["opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/blockchain/solidity"
+    },
+    {
+      "name": "web3js",
+      "description": "Интегрирует Web3.js для взаимодействия с Ethereum блокчейном из JavaScript/TypeScript.",
+      "category": "block",
+      "tags": ["web3", "ethereum", "dapp", "javascript", "typescript"],
+      "models": ["sonnet", "opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/blockchain/web3js"
+    },
+    {
+      "name": "smart-contracts",
+      "description": "Создает, тестирует и деплоит смарт-контракты с использованием Hardhat или Foundry.",
+      "category": "block",
+      "tags": ["smart-contracts", "solidity", "hardhat", "foundry", "testing"],
+      "models": ["opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/blockchain/smart-contracts"
+    },
+    {
+      "name": "unity",
+      "description": "Разрабатывает игры на Unity с использованием C# скриптов и компонентной архитектуры.",
+      "category": "gamedev",
+      "tags": ["unity", "csharp", "game-dev", "2d", "3d"],
+      "models": ["opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/gamedev/unity"
+    },
+    {
+      "name": "unreal",
+      "description": "Создает игры на Unreal Engine с Blueprints или C++.",
+      "category": "gamedev",
+      "tags": ["unreal", "cpp", "blueprint", "game-dev", "aaa"],
+      "models": ["opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/gamedev/unreal"
+    },
+    {
+      "name": "godot",
+      "description": "Разрабатывает 2D/3D игры на Godot Engine с GDScript.",
+      "category": "gamedev",
+      "tags": ["godot", "gdscript", "game-dev", "2d", "3d", "open-source"],
+      "models": ["sonnet", "opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/gamedev/godot"
+    },
+    {
+      "name": "esp32",
+      "description": "Программирует ESP32 микроконтроллеры на C/C++ или MicroPython.",
+      "category": "iot",
+      "tags": ["esp32", "iot", "microcontroller", "wifi", "bluetooth", "micropython"],
+      "models": ["sonnet", "opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/iot/esp32"
+    },
+    {
+      "name": "arduino",
+      "description": "Программирует Arduino платы для аппаратных проектов и прототипирования.",
+      "category": "iot",
+      "tags": ["arduino", "iot", "microcontroller", "c", "prototyping"],
+      "models": ["haiku", "sonnet"],
+      "version": "1.0.0",
+      "path": ".claude/skills/iot/arduino"
+    },
+    {
+      "name": "mqtt",
+      "description": "Настраивает MQTT брокеры и клиенты для обмена сообщениями в IoT системах.",
+      "category": "iot",
+      "tags": ["mqtt", "iot", "messaging", "broker", "mosquitto"],
+      "models": ["sonnet", "opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/iot/mqtt"
+    },
+    {
+      "name": "figma-plugin",
+      "description": "Разрабатывает плагины для Figma с использованием TypeScript и Figma Plugin API.",
+      "category": "design",
+      "tags": ["figma", "plugin", "typescript", "design", "automation"],
+      "models": ["sonnet", "opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/design/figma-plugin"
+    },
+    {
+      "name": "design-tokens",
+      "description": "Управляет дизайн-токенами с использованием Style Dictionary или Theo.",
+      "category": "design",
+      "tags": ["design-tokens", "design-system", "style-dictionary", "theming"],
+      "models": ["sonnet", "opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/design/design-tokens"
+    },
+    {
+      "name": "accessibility",
+      "description": "Проверяет и улучшает доступность веб-приложений по стандартам WCAG.",
+      "category": "design",
+      "tags": ["accessibility", "wcag", "a11y", "inclusive-design"],
+      "models": ["sonnet", "opus"],
+      "version": "1.0.0",
+      "path": ".claude/skills/design/accessibility"
     }
   ]
 }

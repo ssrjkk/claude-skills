@@ -1,0 +1,32 @@
+name: Validate Skills
+
+on:
+  push:
+    paths:
+      - '.claude/skills/**'
+  pull_request:
+    paths:
+      - '.claude/skills/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Run validation
+        run: python scripts/validate-skills.py
+      
+      - name: Check JSON catalog
+        run: |
+          python -c "
+          import json
+          with open('skills_catalog.json') as f:
+              data = json.load(f)
+          print(f'Total skills: {data[\"metadata\"][\"total_skills\"]}')
+          "
