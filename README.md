@@ -1,6 +1,4 @@
-Here's the **clean, professional English README.md** with `->` arrows and no emojis/stickers:
 
-```markdown
 # Claude Skills Library
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
