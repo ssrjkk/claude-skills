@@ -1,6 +1,6 @@
 ---
 name: argocd-rollback
-description: Выполняет автоматический и ручной откат (rollback) деплоев в Kubernetes через ArgoCD. Используется для быстрого восстановления при сбоях.
+description: Performs automatic and manual rollback of deployments in Kubernetes via ArgoCD. Use for quick recovery from failures.
 category: devops
 tags: [argocd, rollback, kubernetes, gitops, recovery]
 models: [opus]
@@ -9,45 +9,46 @@ created: 2026-05-01
 ---
 # ArgoCD Rollback
 
-> Быстрый откат деплоев в Kubernetes через ArgoCD.
+> Quick rollback of deployments in Kubernetes via ArgoCD.
 
 ## 🚀 Quick Start
 ```bash
-# Просмотр истории деплоев
+# View deployment history
 argocd app history myapp
 
-# Ручной откат к предыдущей версии
+# Manual rollback to previous version
 argocd app rollback myapp
 
-# Откат к конкретной ревизии
+# Rollback to specific revision
 argocd app rollback myapp 3
 ```
 
-## 📋 Когда использовать
-- ✅ Сбой деплоя в production
-- ✅ Нужен быстрый откат к стабильной версии
-- ❌ Не использовать без ArgoCD и Kubernetes
+## 📋 When to Use
+- ✅ Deployment failure in production
+- ✅ Need quick rollback to stable version
+- ❌ Not without ArgoCD and Kubernetes
 
-## 🔧 Пошаговая инструкция
-1. Проверь статус приложения: `argocd app get myapp`
-2. Посмотри историю: `argocd app history myapp`
-3. Выполни откат: `argocd app rollback myapp [REV]`
-4. Убедись в восстановлении: `argocd app sync myapp`
+## 🔧 Step-by-Step Instructions
+1. Check app status: `argocd app get myapp`
+2. View history: `argocd app history myapp`
+3. Perform rollback: `argocd app rollback myapp [REV]`
+4. Verify recovery: `argocd app sync myapp`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
-# Установить ArgoCD CLI
-# https://argo-cd.readthedocs.io/en/stable/cli_installation/
+# Install ArgoCD CLI
+# https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_rollback/
 ```
 
-## 🧪 Примеры
-Input: `argocd app rollback myapp` → Output: Приложение откачено к предыдущей версии
+## 🧪 Examples
+Input: `argocd app rollback myapp`
+Output: Application rolled back to previous version
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [ArgoCD Rollback](https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_rollback/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Откат выполняется без ошибок
-2. Приложение работает стабильно
-3. Git история синхронизирована
+## ✅ Validation
+1. Rollback executes without errors
+2. Application working stably
+3. Git history synchronized

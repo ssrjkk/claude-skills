@@ -1,6 +1,6 @@
 ---
 name: logging-elk
-description: Настраивает централизованный сбор и анализ логов с ELK стеком (Elasticsearch, Logstash, Kibana). Используется для отладки и мониторинга логов.
+description: Sets up centralized log collection and analysis with ELK stack. Use for debugging and log monitoring.
 category: devops
 tags: [elk, elasticsearch, logstash, kibana, logging]
 models: [opus]
@@ -9,7 +9,7 @@ created: 2026-04-29
 ---
 # Logging ELK
 
-> Централизованный сбор, хранение и анализ логов с ELK стеком.
+> Centralized logging with ELK stack.
 
 ## 🚀 Quick Start
 ```yaml
@@ -26,31 +26,31 @@ services:
       - "5601:5601"
 ```
 
-## 📋 Когда использовать
-- ✅ Централизованный сбор логов с множества сервисов
-- ✅ Нужен поиск и анализ логов
-- ❌ Не использовать для простых приложений с одним лог-файлом
+## 📋 When to Use
+- ✅ Centralized logging from multiple services
+- ✅ Need log search and analysis
+- ❌ Not for simple single log file apps
 
-## 🔧 Пошаговая инструкция
-1. Запусти ELK через docker-compose
-2. Настрой логирование приложения в JSON формате
-3. Настрой Logstash pipeline для парсинга
-4. Создавай дашборды в Kibana
+## 🔧 Step-by-Step Instructions
+1. Start ELK via docker-compose
+2. Configure application logging in JSON format
+3. Set up Logstash pipeline for parsing
+4. Create dashboards in Kibana
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 docker-compose up -d
 ```
 
-## 🧪 Примеры
-Input: Логи приложения отправляются в Logstash
-Output: Логи индексируются в Elasticsearch и видны в Kibana
+## 🧪 Examples
+Input: App logs sent to Logstash
+Output: Logs indexed in Elasticsearch, visible in Kibana
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [ELK Stack Docs](https://www.elastic.co/guide/index.html)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Elasticsearch отвечает на запросы
-2. Логи появляются в Kibana
-3. Поиск по логам работает корректно
+## ✅ Validation
+1. Elasticsearch responds to queries
+2. Logs appear in Kibana
+3. Log search works correctly

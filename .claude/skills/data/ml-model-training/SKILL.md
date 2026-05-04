@@ -1,15 +1,15 @@
 ---
 name: ml-model-training
-description: Создает пайплайны обучения ML моделей с scikit-learn и трекингом экспериментов. Используется для обучения и оценки моделей машинного обучения.
+description: Creates ML model training pipelines with scikit-learn and experiment tracking. Use for training and evaluating machine learning models.
 category: data
 tags: [ml, scikit-learn, training, model, pandas]
 models: [opus]
 version: 1.0.0
 created: 2026-04-29
 ---
-# ML Model Training
+# ML Model Training#
 
-> Обучение и оценка ML моделей с трекингом экспериментов.
+> Train and evaluate ML models with experiment tracking.
 
 ## 🚀 Quick Start
 ```python
@@ -17,43 +17,43 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 
-# Загрузка данных
+# Load data
 X, y = load_data()
 X_train, X_test, y_train, y_test = train_test_split(X, y)
 
-# Обучение
+# Train
 model = RandomForestClassifier()
 model.fit(X_train, y_train)
 
-# Оценка
+# Evaluate
 predictions = model.predict(X_test)
 print(f"Accuracy: {accuracy_score(y_test, predictions)}")
 ```
 
-## 📋 Когда использовать
-- ✅ Обучение классических ML моделей
-- ✅ Нужен трекинг экспериментов
-- ❌ Не использовать для глубокого обучения (лучше PyTorch/TensorFlow)
+## 📋 When to Use
+- ✅ Training classical ML models
+- ✅ Need experiment tracking
+- ❌ Not for deep learning (better PyTorch/TensorFlow)
 
-## 🔧 Пошаговая инструкция
-1. Подготовь данные и раздели на train/test
-2. Выбери алгоритм и гиперпараметры
-3. Обучи модель и оцени качество
-4. Сохрани модель: `joblib.dump(model, 'model.pkl')`
+## 🔧 Step-by-Step Instructions
+1. Prepare data and split train/test
+2. Choose algorithm and hyperparameters
+3. Train model and evaluate quality
+4. Save model: `joblib.dump(model, 'model.pkl')`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 pip install scikit-learn pandas numpy
 ```
 
-## 🧪 Примеры
-Input: Данные клиентов → Output: Модель предсказания оттока с accuracy 0.85
+## 🧪 Examples
+Input: Customer data → Output: Churn prediction model with 0.85 accuracy
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Scikit-learn Docs](https://scikit-learn.org/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Модель обучается без ошибок
-2. Метрики качества в ожидаемом диапазоне
-3. Модель сохраняется и загружается корректно
+## ✅ Validation
+1. Model trains without errors
+2. Quality metrics in expected range
+3. Model saves and loads correctly

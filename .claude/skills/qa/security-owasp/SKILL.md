@@ -1,6 +1,6 @@
 ---
 name: security-owasp
-description: Проводит проверку веб-приложений на соответствие OWASP Top 10. Используется для security-тестирования.
+description: Checks web applications for OWASP Top 10 compliance. Use for security testing.
 category: qa
 tags: [security, owasp, testing, vulnerability]
 models: [opus]
@@ -9,39 +9,39 @@ created: 2026-04-29
 ---
 # Security OWASP
 
-> Проверка безопасности веб-приложений по OWASP Top 10.
+> Web application security testing with OWASP Top 10.
 
-## 🚀 Quick Start
+## Quick Start
 ```bash
-# Сканирование с OWASP ZAP
-docker run -t owasp/zap2docker zap-baseline.py \
+# Scan with OWASP ZAP
+docker run -t ghcr.io/zaproxy/zaproxy:stable zap-baseline.py \
   -t https://example.com
 ```
 
-## 📋 Когда использовать
-- ✅ Security-аудит веб-приложений
-- ✅ Проверка на OWASP Top 10 уязвимости
-- ❌ Не использовать для нагрузочного тестирования
+## When to Use
+- ✅ Security audit of web applications
+- ✅ Check for OWASP Top 10 vulnerabilities
+- ❌ Not for load testing
 
-## 🔧 Пошаговая инструкция
-1. Запусти ZAP baseline scan
-2. Проанализируй отчет на уязвимости
-3. Исправь найденные проблемы
-4. Проведи повторное сканирование
+## Step-by-Step Instructions
+1. Run ZAP baseline scan
+2. Analyze report for vulnerabilities
+3. Fix identified issues
+4. Run rescan
 
-## 📦 Зависимости
+## Dependencies
 ```bash
-docker pull owasp/zap2docker
+docker pull ghcr.io/zaproxy/zaproxy:stable
 ```
 
-## 🧪 Примеры
-Input: `zap-baseline.py -t https://myapp.com` → Output: Отчет с найденными уязвимостями
+## Examples
+Input: `zap-baseline.py -t https://myapp.com` → Output: Report with found vulnerabilities
 
-## 🔗 Ресурсы
+## Resources
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Сканер находит известные уязвимости
-2. Отчеты генерируются в машиночитаемом формате
-3. Повторный скан показывает исправления
+## Validation
+1. Scanner finds known vulnerabilities
+2. Reports generated in machine-readable format
+3. Rescan shows fixes applied

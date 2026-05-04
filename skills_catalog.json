@@ -8,7 +8,7 @@
   "skills": [
     {
       "name": "python-fastapi",
-      "description": "Создает шаблоны для REST API на FastAPI с валидацией Pydantic и авто-документацией.",
+      "description": "Creates REST API templates with FastAPI, Pydantic validation, and auto-generated documentation.",
       "category": "backend",
       "tags": ["python", "fastapi", "rest", "pydantic", "async"],
       "models": ["sonnet", "opus"],
@@ -17,7 +17,7 @@
     },
     {
       "name": "nodejs-express",
-      "description": "Генерирует boilerplate для Express.js приложений с TypeScript и middleware.",
+      "description": "Generates boilerplate for Express.js applications with TypeScript and middleware.",
       "category": "backend",
       "tags": ["nodejs", "express", "typescript", "javascript", "rest"],
       "models": ["haiku", "sonnet"],
@@ -26,7 +26,7 @@
     },
     {
       "name": "go-gin",
-      "description": "Создает высокопроизводительные HTTP API на Go с использованием фреймворка Gin.",
+      "description": "Creates high-performance HTTP APIs on Go using the Gin framework.",
       "category": "backend",
       "tags": ["go", "gin", "rest", "microservice", "high-performance"],
       "models": ["sonnet", "opus"],
@@ -35,7 +35,7 @@
     },
     {
       "name": "java-spring",
-      "description": "Генерирует структуру Spring Boot приложений с REST контроллерами и JPA репозиториями.",
+      "description": "Generates Spring Boot application structure with REST controllers and JPA repositories.",
       "category": "backend",
       "tags": ["java", "spring", "spring-boot", "rest", "jpa"],
       "models": ["opus"],
@@ -44,7 +44,7 @@
     },
     {
       "name": "django-rest",
-      "description": "Создает REST API на Django с Django REST Framework.",
+      "description": "Creates REST APIs on Django with Django REST Framework.",
       "category": "backend",
       "tags": ["django", "drf", "rest", "python", "admin"],
       "models": ["sonnet", "opus"],
@@ -53,7 +53,7 @@
     },
     {
       "name": "laravel",
-      "description": "Создает веб-приложения на Laravel с Eloquent ORM и Blade шаблонами.",
+      "description": "Creates web applications on Laravel with Eloquent ORM and Blade templates.",
       "category": "backend",
       "tags": ["laravel", "php", "eloquent", "blade", "mvc"],
       "models": ["sonnet", "opus"],
@@ -62,7 +62,7 @@
     },
     {
       "name": "react-typescript",
-      "description": "Создает компоненты React с TypeScript, типизацией props и хуками.",
+      "description": "Creates React components with TypeScript, props typing, and hooks.",
       "category": "frontend",
       "tags": ["react", "typescript", "frontend", "components", "hooks"],
       "models": ["sonnet", "opus"],
@@ -71,7 +71,7 @@
     },
     {
       "name": "vue-composition",
-      "description": "Создает Vue 3 компоненты с Composition API и TypeScript.",
+      "description": "Creates Vue 3 components with Composition API and TypeScript.",
       "category": "frontend",
       "tags": ["vue", "composition-api", "typescript", "frontend"],
       "models": ["sonnet", "opus"],
@@ -80,7 +80,7 @@
     },
     {
       "name": "nextjs-ssr",
-      "description": "Генерирует Next.js приложения с SSR, SSG и API роутами.",
+      "description": "Generates Next.js applications with SSR, SSG, and API routes.",
       "category": "frontend",
       "tags": ["nextjs", "react", "ssr", "ssg", "seo"],
       "models": ["opus"],
@@ -89,7 +89,7 @@
     },
     {
       "name": "svelte-kit",
-      "description": "Создает SvelteKit приложения с файловой маршрутизацией и серверным рендерингом.",
+      "description": "Creates SvelteKit applications with file-based routing and server-side rendering.",
       "category": "frontend",
       "tags": ["svelte", "sveltekit", "frontend", "ssr"],
       "models": ["sonnet", "opus"],
@@ -98,7 +98,7 @@
     },
     {
       "name": "angular-typescript",
-      "description": "Создает Angular приложения с TypeScript, компонентами и сервисами.",
+      "description": "Creates Angular applications with TypeScript, components, and services.",
       "category": "frontend",
       "tags": ["angular", "typescript", "frontend", "components", "rxjs"],
       "models": ["opus"],
@@ -107,7 +107,7 @@
     },
     {
       "name": "astro-ssg",
-      "description": "Создает статические сайты с Astro, поддерживающим любые UI фреймворки.",
+      "description": "Creates static sites with Astro, supporting any UI framework.",
       "category": "frontend",
       "tags": ["astro", "ssg", "static-site", "markdown", "mdx"],
       "models": ["sonnet", "opus"],
@@ -116,7 +116,7 @@
     },
     {
       "name": "flutter-clean-arch",
-      "description": "Создает Flutter приложения с Clean Architecture и разделением на слои.",
+      "description": "Creates Flutter applications with Clean Architecture and layered structure.",
       "category": "mobile",
       "tags": ["flutter", "clean-arch", "mobile", "dart"],
       "models": ["opus"],
@@ -125,7 +125,7 @@
     },
     {
       "name": "react-native-expo",
-      "description": "Генерирует React Native приложения с использованием Expo и TypeScript.",
+      "description": "Generates React Native applications using Expo and TypeScript.",
       "category": "mobile",
       "tags": ["react-native", "expo", "mobile", "typescript"],
       "models": ["sonnet", "opus"],
@@ -134,7 +134,7 @@
     },
     {
       "name": "ios-swiftui",
-      "description": "Создает iOS приложения с использованием SwiftUI и современных паттернов Apple.",
+      "description": "Creates iOS applications using SwiftUI and modern Apple patterns.",
       "category": "mobile",
       "tags": ["ios", "swiftui", "swift", "apple", "mobile"],
       "models": ["opus"],
@@ -143,7 +143,7 @@
     },
     {
       "name": "android-kotlin",
-      "description": "Генерирует Android приложения с использованием Kotlin и Jetpack Compose.",
+      "description": "Generates Android applications using Kotlin and Jetpack Compose.",
       "category": "mobile",
       "tags": ["android", "kotlin", "jetpack-compose", "mobile"],
       "models": ["opus"],
@@ -152,7 +152,7 @@
     },
     {
       "name": "docker-optimization",
-      "description": "Оптимизирует Docker образы с multi-stage сборкой, кэшированием слоев и уменьшением размера.",
+      "description": "Optimizes Docker images with multi-stage builds, layer caching, and size reduction.",
       "category": "devops",
       "tags": ["docker", "optimization", "multi-stage", "caching"],
       "models": ["sonnet", "opus"],
@@ -161,7 +161,7 @@
     },
     {
       "name": "k8s-helm-deploy",
-      "description": "Разворачивает приложения в Kubernetes с использованием Helm чартов и values оверрайдов.",
+      "description": "Deploys applications to Kubernetes using Helm charts and values overrides.",
       "category": "devops",
       "tags": ["kubernetes", "helm", "deploy", "devops"],
       "models": ["opus"],
@@ -170,7 +170,7 @@
     },
     {
       "name": "terraform-aws",
-      "description": "Провизионит инфраструктуру в AWS с использованием Terraform модулей.",
+      "description": "Provisions infrastructure in AWS using Terraform modules.",
       "category": "devops",
       "tags": ["terraform", "aws", "iac", "infrastructure"],
       "models": ["sonnet", "opus"],
@@ -179,7 +179,7 @@
     },
     {
       "name": "ansible-automation",
-      "description": "Автоматизирует настройку серверов и деплой с использованием Ansible playbooks.",
+      "description": "Automates server configuration and deployment using Ansible playbooks.",
       "category": "devops",
       "tags": ["ansible", "automation", "configuration-management", "devops"],
       "models": ["sonnet", "opus"],
@@ -188,7 +188,7 @@
     },
     {
       "name": "monitoring-prometheus",
-      "description": "Настраивает мониторинг приложений и инфраструктуры с Prometheus и Grafana.",
+      "description": "Sets up application and infrastructure monitoring with Prometheus and Grafana.",
       "category": "devops",
       "tags": ["prometheus", "grafana", "monitoring", "metrics"],
       "models": ["sonnet", "opus"],
@@ -197,7 +197,7 @@
     },
     {
       "name": "logging-elk",
-      "description": "Настраивает централизованный сбор и анализ логов с ELK стеком.",
+      "description": "Sets up centralized log collection and analysis with ELK stack.",
       "category": "devops",
       "tags": ["elk", "elasticsearch", "logstash", "kibana", "logging"],
       "models": ["opus"],
@@ -206,7 +206,7 @@
     },
     {
       "name": "gitops-argocd",
-      "description": "Реализует GitOps подход для Kubernetes с ArgoCD, автоматически синхронизируя состояние кластера с Git.",
+      "description": "Implements GitOps approach for Kubernetes with ArgoCD.",
       "category": "devops",
       "tags": ["argocd", "gitops", "kubernetes", "continuous-delivery"],
       "models": ["opus"],
@@ -215,7 +215,7 @@
     },
     {
       "name": "jenkins-pipeline",
-      "description": "Создает Jenkins pipeline скрипты для CI/CD с поддержкой declarative и scripted синтаксиса.",
+      "description": "Creates Jenkins pipeline scripts for CI/CD with declarative and scripted syntax.",
       "category": "devops",
       "tags": ["jenkins", "pipeline", "ci-cd", "groovy", "automation"],
       "models": ["sonnet", "opus"],
@@ -224,7 +224,7 @@
     },
     {
       "name": "argocd-rollback",
-      "description": "Выполняет автоматический и ручной откат (rollback) деплоев в Kubernetes через ArgoCD.",
+      "description": "Performs automatic and manual rollback of deployments in Kubernetes via ArgoCD.",
       "category": "devops",
       "tags": ["argocd", "rollback", "kubernetes", "gitops", "recovery"],
       "models": ["opus"],
@@ -233,7 +233,7 @@
     },
     {
       "name": "security-scan",
-      "description": "Интегрирует сканирование уязвимостей (Trivy, Snyk) в CI/CD пайплайны.",
+      "description": "Integrates vulnerability scanning (Trivy, Snyk) into CI/CD pipelines.",
       "category": "devops",
       "tags": ["security", "scanning", "trivy", "snyk", "devops"],
       "models": ["sonnet", "opus"],
@@ -242,7 +242,7 @@
     },
     {
       "name": "etl-pipeline",
-      "description": "Строит ETL пайплайны на Python с Pandas и SQLAlchemy.",
+      "description": "Builds ETL pipelines with Python, Pandas, and SQLAlchemy.",
       "category": "data",
       "tags": ["etl", "python", "pandas", "sqlalchemy", "data-pipeline"],
       "models": ["sonnet", "opus"],
@@ -251,7 +251,7 @@
     },
     {
       "name": "ml-model-training",
-      "description": "Создает пайплайны обучения ML моделей с scikit-learn и трекингом экспериментов.",
+      "description": "Creates ML model training pipelines with scikit-learn and experiment tracking.",
       "category": "data",
       "tags": ["ml", "scikit-learn", "training", "model", "pandas"],
       "models": ["opus"],
@@ -260,7 +260,7 @@
     },
     {
       "name": "vector-db-rag",
-      "description": "Строит RAG пайплайны с векторными базами данных (Chroma, Pinecone) и embedding моделями.",
+      "description": "Builds RAG pipelines with vector databases (Chroma, Pinecone) and embedding models.",
       "category": "data",
       "tags": ["rag", "vector-db", "embeddings", "llm", "semantic-search"],
       "models": ["opus"],
@@ -269,7 +269,7 @@
     },
     {
       "name": "data-validation",
-      "description": "Валидирует качество данных с Great Expectations и Pandera.",
+      "description": "Validates data quality with Great Expectations and Pandera.",
       "category": "data",
       "tags": ["validation", "data-quality", "great-expectations", "pandera"],
       "models": ["sonnet", "opus"],
@@ -278,7 +278,7 @@
     },
     {
       "name": "airflow-dags",
-      "description": "Создает DAGs для Apache Airflow с задачами и расписанием.",
+      "description": "Creates DAGs for Apache Airflow with tasks and scheduling.",
       "category": "data",
       "tags": ["airflow", "dags", "orchestration", "etl", "python"],
       "models": ["sonnet", "opus"],
@@ -287,7 +287,7 @@
     },
     {
       "name": "kafka-streams",
-      "description": "Обрабатывает потоковые данные с Apache Kafka Streams.",
+      "description": "Processes real-time data streams with Apache Kafka Streams.",
       "category": "data",
       "tags": ["kafka", "streams", "real-time", "events", "java", "scala"],
       "models": ["opus"],
@@ -296,7 +296,7 @@
     },
     {
       "name": "prompt-engineering",
-      "description": "Оптимизирует промпты для LLM с техниками few-shot, chain-of-thought и структурированным выводом.",
+      "description": "Optimizes prompts for LLMs with few-shot, chain-of-thought, and structured output techniques.",
       "category": "ai",
       "tags": ["prompt", "llm", "engineering", "few-shot", "chain-of-thought"],
       "models": ["opus"],
@@ -305,7 +305,7 @@
     },
     {
       "name": "llm-eval",
-      "description": "Оценивает качество работы LLM с использованием метрик BLEU, ROUGE и LLM-as-judge.",
+      "description": "Evaluates LLM performance using BLEU, ROUGE metrics and LLM-as-judge.",
       "category": "ai",
       "tags": ["llm", "evaluation", "metrics", "bleu", "rouge"],
       "models": ["opus"],
@@ -314,7 +314,7 @@
     },
     {
       "name": "embedding-chunking",
-      "description": "Разбивает документы на чанки и создает embeddings для семантического поиска.",
+      "description": "Splits documents into chunks and creates embeddings for semantic search.",
       "category": "ai",
       "tags": ["embeddings", "chunking", "rag", "semantic-search"],
       "models": ["sonnet", "opus"],
@@ -323,7 +323,7 @@
     },
     {
       "name": "agent-design",
-      "description": "Проектирует LLM-агентов с памятью, инструментами и циклом reasoning.",
+      "description": "Designs LLM agents with memory, tools, and reasoning cycle.",
       "category": "ai",
       "tags": ["agent", "llm", "tools", "memory", "reasoning"],
       "models": ["opus"],
@@ -332,7 +332,7 @@
     },
     {
       "name": "api-testing",
-      "description": "Тестирует REST и GraphQL API с использованием pytest и библиотеки requests.",
+      "description": "Tests REST and GraphQL APIs using pytest and requests library.",
       "category": "qa",
       "tags": ["api", "testing", "rest", "graphql", "pytest", "requests"],
       "models": ["haiku", "sonnet"],
@@ -341,7 +341,7 @@
     },
     {
       "name": "database-migration",
-      "description": "Управляет миграциями баз данных PostgreSQL с помощью Alembic.",
+      "description": "Manages database migrations for PostgreSQL using Alembic.",
       "category": "qa",
       "tags": ["database", "migration", "postgresql", "alembic"],
       "models": ["haiku", "sonnet"],
@@ -350,7 +350,7 @@
     },
     {
       "name": "ci-cd-setup",
-      "description": "Настраивает CI/CD пайплайны для тестирования с использованием GitHub Actions.",
+      "description": "Sets up CI/CD pipelines for testing using GitHub Actions.",
       "category": "qa",
       "tags": ["ci-cd", "github-actions", "automation", "testing"],
       "models": ["haiku", "sonnet"],
@@ -359,7 +359,7 @@
     },
     {
       "name": "test-reporting",
-      "description": "Генерирует отчеты о результатах тестирования с использованием Allure и pytest.",
+      "description": "Generates test result reports using Allure and pytest.",
       "category": "qa",
       "tags": ["testing", "reporting", "allure", "pytest"],
       "models": ["sonnet", "opus"],
@@ -368,7 +368,7 @@
     },
     {
       "name": "e2e-playwright",
-      "description": "Создает E2E тесты с Playwright и генерацией Allure отчетов.",
+      "description": "Creates E2E tests with Playwright and Allure report generation.",
       "category": "qa",
       "tags": ["e2e", "playwright", "testing", "allure"],
       "models": ["sonnet", "opus"],
@@ -377,7 +377,7 @@
     },
     {
       "name": "contract-testing-pact",
-      "description": "Реализует контрактное тестирование API с Pact.",
+      "description": "Implements contract testing for APIs with Pact.",
       "category": "qa",
       "tags": ["contract-testing", "pact", "api", "testing"],
       "models": ["sonnet", "opus"],
@@ -386,7 +386,7 @@
     },
     {
       "name": "performance-k6",
-      "description": "Проводит нагрузочное тестирование API и веб-приложений с k6.",
+      "description": "Conducts load testing of APIs and web applications with k6.",
       "category": "qa",
       "tags": ["performance", "k6", "load-testing", "qa"],
       "models": ["sonnet", "opus"],
@@ -395,7 +395,7 @@
     },
     {
       "name": "security-owasp",
-      "description": "Проводит проверку веб-приложений на соответствие OWASP Top 10.",
+      "description": "Checks web applications for OWASP Top 10 compliance.",
       "category": "qa",
       "tags": ["security", "owasp", "testing", "vulnerability"],
       "models": ["opus"],
@@ -404,7 +404,7 @@
     },
     {
       "name": "selenium-grid",
-      "description": "Настраивает Selenium Grid для распределенного тестирования веб-приложений.",
+      "description": "Sets up Selenium Grid for distributed web application testing.",
       "category": "qa",
       "tags": ["selenium", "grid", "testing", "parallel", "webdriver"],
       "models": ["sonnet", "opus"],
@@ -413,7 +413,7 @@
     },
     {
       "name": "cypress-e2e",
-      "description": "Создает E2E тесты с Cypress для современных веб-приложений.",
+      "description": "Creates E2E tests with Cypress for modern web applications.",
       "category": "qa",
       "tags": ["cypress", "e2e", "testing", "javascript", "typescript"],
       "models": ["sonnet", "opus"],
@@ -422,7 +422,7 @@
     },
     {
       "name": "user-story-mapping",
-      "description": "Фасилитирует создание User Story Mapping сессий и структурирование требований.",
+      "description": "Facilitates User Story Mapping sessions and requirement structuring.",
       "category": "product",
       "tags": ["user-story", "agile", "product", "planning"],
       "models": ["sonnet", "opus"],
@@ -431,7 +431,7 @@
     },
     {
       "name": "prd-template",
-      "description": "Генерирует структурированные PRD с целями, функциями и критериями успеха.",
+      "description": "Generates structured PRDs with goals, features, and success criteria.",
       "category": "product",
       "tags": ["prd", "product", "requirements", "documentation"],
       "models": ["sonnet", "opus"],
@@ -440,7 +440,7 @@
     },
     {
       "name": "sprint-retro",
-      "description": "Фасилитирует Sprint Retrospective с структурированными блоками и action items.",
+      "description": "Facilitates Sprint Retrospective with structured blocks and action items.",
       "category": "product",
       "tags": ["agile", "scrum", "retro", "sprint"],
       "models": ["sonnet", "opus"],
@@ -449,7 +449,7 @@
     },
     {
       "name": "metrics-dora",
-      "description": "Рассчитывает DORA метрики для оценки эффективности DevOps.",
+      "description": "Calculates DORA metrics for evaluating DevOps effectiveness.",
       "category": "product",
       "tags": ["dora", "metrics", "devops", "performance"],
       "models": ["sonnet", "opus"],
@@ -458,7 +458,7 @@
     },
     {
       "name": "secrets-management",
-      "description": "Управляет секретами приложений с HashiCorp Vault или AWS Secrets Manager.",
+      "description": "Manages application secrets with HashiCorp Vault or AWS Secrets Manager.",
       "category": "security",
       "tags": ["secrets", "vault", "security", "credentials"],
       "models": ["sonnet", "opus"],
@@ -467,7 +467,7 @@
     },
     {
       "name": "sbom-generation",
-      "description": "Генерирует Software Bill of Materials для отслеживания зависимостей и уязвимостей.",
+      "description": "Generates Software Bill of Materials for tracking dependencies and vulnerabilities.",
       "category": "security",
       "tags": ["sbom", "supply-chain", "security", "dependencies"],
       "models": ["sonnet", "opus"],
@@ -476,7 +476,7 @@
     },
     {
       "name": "pentest-checklist",
-      "description": "Предоставляет чеклисты для проведения penetration testing веб-приложений и инфраструктуры.",
+      "description": "Provides checklists for conducting penetration testing of web applications and infrastructure.",
       "category": "security",
       "tags": ["pentest", "checklist", "security", "testing"],
       "models": ["opus"],
@@ -485,7 +485,7 @@
     },
     {
       "name": "compliance-gdpr",
-      "description": "Проверяет соответствие приложений требованиям GDPR.",
+      "description": "Checks application compliance with GDPR requirements.",
       "category": "security",
       "tags": ["gdpr", "compliance", "privacy", "legal"],
       "models": ["opus"],
@@ -494,7 +494,7 @@
     },
     {
       "name": "solidity",
-      "description": "Разрабатывает смарт-контракты на Solidity для Ethereum и EVM-совместимых блокчейнов.",
+      "description": "Develops smart contracts on Solidity for Ethereum and EVM-compatible blockchains.",
       "category": "block",
       "tags": ["solidity", "ethereum", "smart-contracts", "evm", "blockchain"],
       "models": ["opus"],
@@ -503,7 +503,7 @@
     },
     {
       "name": "web3js",
-      "description": "Интегрирует Web3.js для взаимодействия с Ethereum блокчейном из JavaScript/TypeScript.",
+      "description": "Integrates Web3.js for interacting with Ethereum blockchain from JavaScript/TypeScript.",
       "category": "block",
       "tags": ["web3", "ethereum", "dapp", "javascript", "typescript"],
       "models": ["sonnet", "opus"],
@@ -512,7 +512,7 @@
     },
     {
       "name": "smart-contracts",
-      "description": "Создает, тестирует и деплоит смарт-контракты с использованием Hardhat или Foundry.",
+      "description": "Creates, tests, and deploys smart contracts using Hardhat or Foundry.",
       "category": "block",
       "tags": ["smart-contracts", "solidity", "hardhat", "foundry", "testing"],
       "models": ["opus"],
@@ -521,7 +521,7 @@
     },
     {
       "name": "unity",
-      "description": "Разрабатывает игры на Unity с использованием C# скриптов и компонентной архитектуры.",
+      "description": "Develops games on Unity using C# scripts and component architecture.",
       "category": "gamedev",
       "tags": ["unity", "csharp", "game-dev", "2d", "3d"],
       "models": ["opus"],
@@ -530,7 +530,7 @@
     },
     {
       "name": "unreal",
-      "description": "Создает игры на Unreal Engine с Blueprints или C++.",
+      "description": "Creates games on Unreal Engine with Blueprints or C++.",
       "category": "gamedev",
       "tags": ["unreal", "cpp", "blueprint", "game-dev", "aaa"],
       "models": ["opus"],
@@ -539,7 +539,7 @@
     },
     {
       "name": "godot",
-      "description": "Разрабатывает 2D/3D игры на Godot Engine с GDScript.",
+      "description": "Develops 2D/3D games on Godot Engine with GDScript.",
       "category": "gamedev",
       "tags": ["godot", "gdscript", "game-dev", "2d", "3d", "open-source"],
       "models": ["sonnet", "opus"],
@@ -548,7 +548,7 @@
     },
     {
       "name": "esp32",
-      "description": "Программирует ESP32 микроконтроллеры на C/C++ или MicroPython.",
+      "description": "Programs ESP32 microcontrollers in C/C++ or MicroPython.",
       "category": "iot",
       "tags": ["esp32", "iot", "microcontroller", "wifi", "bluetooth", "micropython"],
       "models": ["sonnet", "opus"],
@@ -557,7 +557,7 @@
     },
     {
       "name": "arduino",
-      "description": "Программирует Arduino платы для аппаратных проектов и прототипирования.",
+      "description": "Programs Arduino boards for hardware projects and prototyping.",
       "category": "iot",
       "tags": ["arduino", "iot", "microcontroller", "c", "prototyping"],
       "models": ["haiku", "sonnet"],
@@ -566,7 +566,7 @@
     },
     {
       "name": "mqtt",
-      "description": "Настраивает MQTT брокеры и клиенты для обмена сообщениями в IoT системах.",
+      "description": "Sets up MQTT brokers and clients for messaging in IoT systems.",
       "category": "iot",
       "tags": ["mqtt", "iot", "messaging", "broker", "mosquitto"],
       "models": ["sonnet", "opus"],
@@ -575,7 +575,7 @@
     },
     {
       "name": "figma-plugin",
-      "description": "Разрабатывает плагины для Figma с использованием TypeScript и Figma Plugin API.",
+      "description": "Develops Figma plugins using TypeScript and Figma Plugin API.",
       "category": "design",
       "tags": ["figma", "plugin", "typescript", "design", "automation"],
       "models": ["sonnet", "opus"],
@@ -584,7 +584,7 @@
     },
     {
       "name": "design-tokens",
-      "description": "Управляет дизайн-токенами с использованием Style Dictionary или Theo.",
+      "description": "Manages design tokens with Style Dictionary or Theo.",
       "category": "design",
       "tags": ["design-tokens", "design-system", "style-dictionary", "theming"],
       "models": ["sonnet", "opus"],
@@ -593,7 +593,7 @@
     },
     {
       "name": "accessibility",
-      "description": "Проверяет и улучшает доступность веб-приложений по стандартам WCAG.",
+      "description": "Checks and improves web application accessibility per WCAG standards.",
       "category": "design",
       "tags": ["accessibility", "wcag", "a11y", "inclusive-design"],
       "models": ["sonnet", "opus"],

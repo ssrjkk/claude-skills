@@ -1,6 +1,6 @@
 ---
 name: gitops-argocd
-description: Реализует GitOps подход для Kubernetes с ArgoCD, автоматически синхронизируя состояние кластера с Git репозиторием.
+description: Implements GitOps approach for Kubernetes with ArgoCD, automatically syncing cluster state with Git.
 category: devops
 tags: [argocd, gitops, kubernetes, continuous-delivery]
 models: [opus]
@@ -9,44 +9,44 @@ created: 2026-04-29
 ---
 # GitOps ArgoCD
 
-> Автоматический деплой в Kubernetes через GitOps с ArgoCD.
+> Automatic deployment to Kubernetes via GitOps with ArgoCD.
 
 ## 🚀 Quick Start
 ```bash
-# Установка ArgoCD в K8s
+# Install ArgoCD in K8s
 kubectl create namespace argocd
 kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
 
-# Доступ к UI
+# Access UI
 kubectl port-forward svc/argocd-server -n argocd 8080:443
 ```
 
-## 📋 Когда использовать
-- ✅ GitOps workflow для K8s
-- ✅ Автоматический деплой при изменениях в Git
-- ❌ Не использовать без Kubernetes
+## 📋 When to Use
+- ✅ GitOps workflow for K8s
+- ✅ Automatic deployment on Git changes
+- ❌ Not without Kubernetes
 
-## 🔧 Пошаговая инструкция
-1. Установи ArgoCD в кластер
-2. Создай Application манифест с ссылкой на Git repo
-3. Настрой синхронизацию (автоматическую или ручную)
-4. Мониторь статус в ArgoCD UI
+## 🔧 Step-by-Step Instructions
+1. Install ArgoCD in cluster
+2. Create Application manifest pointing to Git repo
+3. Configure sync (automatic or manual)
+4. Monitor status in ArgoCD UI
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
-# Установить ArgoCD CLI
+# Install ArgoCD CLI
 # https://argo-cd.readthedocs.io/en/stable/cli_installation/
 ```
 
-## 🧪 Примеры
-Input: Пуш изменений в Git репозиторий с манифестами
-Output: ArgoCD автоматически обновляет деплой в K8s
+## 🧪 Examples
+Input: Push changes to Git repo with manifests
+Output: ArgoCD automatically updates deployment in K8s
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [ArgoCD Docs](https://argo-cd.readthedocs.io/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. ArgoCD синхронизируется с Git репозиторием
-2. Приложения задеплоены в кластер
-3. Rollback работает корректно
+## ✅ Validation
+1. ArgoCD syncs with Git repository
+2. Applications deployed to cluster
+3. Rollback works correctly

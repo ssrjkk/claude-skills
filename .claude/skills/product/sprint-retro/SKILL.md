@@ -1,6 +1,6 @@
 ---
 name: sprint-retro
-description: Фасилитирует Sprint Retrospective с структурированными блоками и action items. Используется Scrum мастерами и командами.
+description: Facilitates Sprint Retrospective with structured blocks and action items. Use by Scrum masters and teams.
 category: product
 tags: [agile, scrum, retro, sprint]
 models: [sonnet, opus]
@@ -9,49 +9,49 @@ created: 2026-04-29
 ---
 # Sprint Retro
 
-> Структурированные ретроспективы для непрерывного улучшения.
+> Structured retrospectives for continuous improvement.
 
-## 🚀 Quick Start
+## Quick Start
 ```
-Sprint Retrospective Темплейт:
+Sprint Retrospective Template:
 
 ## What Went Well
-- [Позитивный момент 1]
-- [Позитивный момент 2]
+- [Positive point 1]
+- [Positive point 2]
 
 ## What Could Be Improved
-- [Проблема 1]
-- [Проблема 2]
+- [Problem 1]
+- [Problem 2]
 
 ## Action Items
-- [ ] [Действие 1] @owner
-- [ ] [Действие 2] @owner
+- [ ] [Action 1] @owner
+- [ ] [Action 2] @owner
 ```
 
-## 📋 Когда использовать
-- ✅ Конец спринта в Scrum
-- ✅ Нужен структурированный фидбек
-- ❌ Не использовать для технического ревью кода
+## When to Use
+- ✅ End of sprint in Scrum
+- ✅ Need structured feedback
+- ❌ Not for technical code review
 
-## 🔧 Пошаговая инструкция
-1. Собери команду и создай безопасную среду
-2. Собери фидбек (Well/Didn't Go/Improve)
-3. Выдели топ проблем
-4. Назначь action items с ответственными
+## Step-by-Step Instructions
+1. Gather team and create safe environment
+2. Collect feedback (Well/Didn't Go/Improve)
+3. Highlight top problems
+4. Assign action items with owners
 
-## 📦 Зависимости
+## Dependencies
 ```bash
-# Инструменты: RetroTool, Miro, или просто доска
+# Tools: RetroTool, Miro, or just a board
 ```
 
-## 🧪 Примеры
-Input: Спринт 15 → Output: 3 успеха, 2 проблемы, 2 действия
+## Examples
+Input: Sprint 15 → Output: 3 successes, 2 problems, 2 actions
 
-## 🔗 Ресурсы
+## Resources
 - [Agile Retrospectives Book](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Все участники высказались
-2. Action items конкретны и назначены
-3. Результаты сохранены и отслеживаются
+## Validation
+1. All participants spoke up
+2. Action items are specific and assigned
+3. Results are saved and tracked

@@ -1,6 +1,6 @@
 ---
 name: astro-ssg
-description: Создает статические сайты с Astro, поддерживающим любые UI фреймворки. Используется для быстрых контент-ориентированных сайтов.
+description: Creates static sites with Astro, supporting any UI framework. Use for fast content-oriented sites.
 category: frontend
 tags: [astro, ssg, static-site, markdown, mdx]
 models: [sonnet, opus]
@@ -9,7 +9,7 @@ created: 2026-05-01
 ---
 # Astro SSG
 
-> Быстрые статические сайты с Astro и любыми UI фреймворками.
+> Fast static sites with Astro and any UI framework.
 
 ## 🚀 Quick Start
 ```astro
@@ -25,30 +25,30 @@ const title = "Hello Astro";
 </html>
 ```
 
-## 📋 Когда использовать
-- ✅ Контент-сайты (блоги, документация)
-- ✅ Нужна максимальная производительность
-- ❌ Не использовать для сложных SPA с много состоянием
+## 📋 When to Use
+- ✅ Content sites (blogs, documentation)
+- ✅ Need maximum performance
+- ❌ Not for complex SPAs with heavy state
 
-## 🔧 Пошаговая инструкция
-1. Создай проект: `npm create astro@latest`
-2. Добавь интеграции (React, Vue, Svelte)
-3. Создай страницы в `src/pages/`
-4. Запусти: `npm run dev`
+## 🔧 Step-by-Step Instructions
+1. Create project: `npm create astro@latest`
+2. Add integrations (React, Vue, Svelte)
+3. Create pages in `src/pages/`
+4. Run: `npm run dev`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 npm create astro@latest
 ```
 
-## 🧪 Примеры
-Input: Создание MDX страницы → Output: Статическая HTML страница
+## 🧪 Examples
+Input: Create MDX page → Output: Static HTML page
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Astro Docs](https://docs.astro.build/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Сайт собирается в статические HTML файлы
-2. Markdown/MDX обрабатывается корректно
-3. Интеграции с UI фреймворками работают
+## ✅ Validation
+1. Site builds to static HTML files
+2. Markdown/MDX processed correctly
+3. UI framework integrations work

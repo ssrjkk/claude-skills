@@ -1,6 +1,6 @@
 ---
 name: svelte-kit
-description: Создает SvelteKit приложения с файловой маршрутизацией и серверным рендерингом. Используется для легковесных, быстрых веб-приложений.
+description: Creates SvelteKit applications with file-based routing and server-side rendering. Use for lightweight, fast web applications.
 category: frontend
 tags: [svelte, sveltekit, frontend, ssr]
 models: [sonnet, opus]
@@ -9,7 +9,7 @@ created: 2026-04-29
 ---
 # SvelteKit
 
-> Быстрый фреймворк для создания Svelte приложений с серверным рендерингом.
+> Fast framework for creating Svelte applications with server-side rendering.
 
 ## 🚀 Quick Start
 ```svelte
@@ -26,30 +26,30 @@ created: 2026-04-29
 </button>
 ```
 
-## 📋 Когда использовать
-- ✅ Легковесные, производительные приложения
-- ✅ Нужен SSR с минимальным JS бандлом
-- ❌ Не использовать если команда знает только React/Vue
+## 📋 When to Use
+- ✅ Lightweight, high-performance applications
+- ✅ Need SSR with minimal JS bundle
+- ❌ Not if team only knows React/Vue
 
-## 🔧 Пошаговая инструкция
-1. Создай проект: `npm create svelte@latest my-app`
-2. Создай роуты в `src/routes/`
-3. Добавь серверную логику в `+page.server.js`
-4. Запусти: `npm run dev`
+## 🔧 Step-by-Step Instructions
+1. Create project: `npm create svelte@latest my-app`
+2. Create routes in `src/routes/`
+3. Add server logic in `+page.server.js`
+4. Run: `npm run dev`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 npm create svelte@latest my-app
 ```
 
-## 🧪 Примеры
-Input: Клик по кнопке → счетчик увеличивается реактивно
+## 🧪 Examples
+Input: Button click → counter increments reactively
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [SvelteKit Docs](https://kit.svelte.dev/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Приложение собирается без ошибок
-2. Роутинг работает по файловой структуре
-3. Реактивность Svelte функционирует
+## ✅ Validation
+1. App builds without errors
+2. Routing works via file structure
+3. Svelte reactivity functions

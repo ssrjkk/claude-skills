@@ -1,6 +1,6 @@
 ---
 name: react-native-expo
-description: Генерирует React Native приложения с использованием Expo и TypeScript. Используется для кроссплатформенной мобильной разработки.
+description: Generates React Native applications using Expo and TypeScript. Use for cross-platform mobile development.
 category: mobile
 tags: [react-native, expo, mobile, typescript]
 models: [sonnet, opus]
@@ -9,7 +9,7 @@ created: 2026-04-29
 ---
 # React Native Expo
 
-> Кроссплатформенная мобильная разработка с React Native и Expo.
+> Cross-platform mobile development with React Native and Expo.
 
 ## 🚀 Quick Start
 ```typescript
@@ -30,31 +30,31 @@ const styles = StyleSheet.create({
 });
 ```
 
-## 📋 Когда использовать
-- ✅ Кроссплатформенные мобильные приложения (iOS + Android)
-- ✅ Быстрый старт с Expo managed workflow
-- ❌ Не использовать для нативных модулей без Expo
+## 📋 When to Use
+- ✅ Cross-platform mobile apps (iOS + Android)
+- ✅ Quick start with Expo managed workflow
+- ❌ Not for native modules without Expo
 
-## 🔧 Пошаговая инструкция
-1. Создай проект: `npx create-expo-app@latest my-app`
-2. Напиши компоненты с React Native API
-3. Тестируй на устройстве или симуляторе
-4. Запусти: `npx expo start`
+## 🔧 Step-by-Step Instructions
+1. Create project: `npx create-expo-app@latest my-app`
+2. Write components with React Native API
+3. Test on device or simulator
+4. Run: `npx expo start`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 npx create-expo-app@latest my-app
 ```
 
-## 🧪 Примеры
-Input: Запуск приложения → отображается "Hello React Native!"
+## 🧪 Examples
+Input: App launch → Output: "Hello React Native!" displayed
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [React Native Docs](https://reactnative.dev/)
 - [Expo Docs](https://docs.expo.dev/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Приложение запускается в симуляторе/устройстве
-2. Hot reload работает корректно
-3. Стили применяются правильно
+## ✅ Validation
+1. App runs in simulator/device
+2. Hot reload works correctly
+3. Styles applied properly

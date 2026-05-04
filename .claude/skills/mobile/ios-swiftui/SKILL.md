@@ -1,6 +1,6 @@
 ---
 name: ios-swiftui
-description: Создает iOS приложения с использованием SwiftUI и современных паттернов Apple. Используется для нативной разработки под iOS.
+description: Creates iOS applications using SwiftUI and modern Apple patterns. Use for native iOS development.
 category: mobile
 tags: [ios, swiftui, swift, apple, mobile]
 models: [opus]
@@ -9,7 +9,7 @@ created: 2026-04-29
 ---
 # iOS SwiftUI
 
-> Современный фреймворк Apple для создания нативных iOS интерфейсов декларативно.
+> Modern declarative UI framework for native iOS apps.
 
 ## 🚀 Quick Start
 ```swift
@@ -29,28 +29,28 @@ struct ContentView: View {
 }
 ```
 
-## 📋 Когда использовать
-- ✅ Нативная iOS разработка
-- ✅ Нужен современный декларативный UI
-- ❌ Не использовать для Android или кроссплатформенных проектов
+## 📋 When to Use
+- ✅ Native iOS development
+- ✅ Modern declarative UI
+- ❌ Not for Android or cross-platform
 
-## 🔧 Пошаговая инструкция
-1. Открой Xcode и создай новый SwiftUI проект
-2. Определи View структуры с модификаторами
-3. Добавь состояние через `@State` или `@ObservableObject`
-4. Запусти в симуляторе: Cmd + R
+## 🔧 Step-by-Step Instructions
+1. Open Xcode and create new SwiftUI project
+2. Define View structures with modifiers
+3. Add state with `@State` or `@ObservableObject`
+4. Run in simulator: Cmd + R
 
-## 📦 Зависимости
-Установи Xcode из App Store
+## 📦 Dependencies
+Install Xcode from App Store
 
-## 🧪 Примеры
-Input: Нажатие на кнопку → счетчик увеличивается на 1
+## 🧪 Examples
+Input: Button tap → Counter increments by 1
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [SwiftUI Docs](https://developer.apple.com/xcode/swiftui/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Проект собирается в Xcode без ошибок
-2. Preview работает корректно
-3. Состояние обновляется реактивно
+## ✅ Validation
+1. Project builds in Xcode without errors
+2. Preview works correctly
+3. State updates reactively

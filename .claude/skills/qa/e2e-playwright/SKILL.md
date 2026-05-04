@@ -1,6 +1,6 @@
 ---
 name: e2e-playwright
-description: Создает E2E тесты с Playwright и генерацией Allure отчетов. Используется для автоматизированного тестирования пользовательских сценариев.
+description: Creates E2E tests with Playwright and Allure report generation. Use for automated user scenario testing.
 category: qa
 tags: [e2e, playwright, testing, allure]
 models: [sonnet, opus]
@@ -9,9 +9,9 @@ created: 2026-04-29
 ---
 # E2E Playwright
 
-> Автоматизированное E2E тестирование с Playwright и Allure.
+> Automated E2E testing with Playwright and Allure.
 
-## 🚀 Quick Start
+## Quick Start
 ```typescript
 import { test, expect } from '@playwright/test';
 
@@ -21,31 +21,31 @@ test('basic test', async ({ page }) => {
 });
 ```
 
-## 📋 Когда использовать
-- ✅ E2E тестирование веб-приложений
-- ✅ Нужны скриншоты и видео при падениях
-- ❌ Не использовать для unit-тестов
+## When to Use
+- ✅ E2E testing of web applications
+- ✅ Need screenshots and videos on failures
+- ❌ Not for unit tests
 
-## 🔧 Пошаговая инструкция
-1. Установи: `npm init playwright@latest`
-2. Создай тесты в `tests/` папке
-3. Запусти: `npx playwright test`
-4. Сгенерируй Allure отчет
+## Step-by-Step Instructions
+1. Install: `npm init playwright@latest`
+2. Create tests in `tests/` folder
+3. Run: `npx playwright test`
+4. Generate Allure report
 
-## 📦 Зависимости
+## Dependencies
 ```bash
 npm init playwright@latest
 npm install allure-playwright
 ```
 
-## 🧪 Примеры
-Input: Запуск теста → Output: Успешный проход, скриншот сохранен
+## Examples
+Input: Test run → Output: Success, screenshot saved
 
-## 🔗 Ресурсы
+## Resources
 - [Playwright Docs](https://playwright.dev/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Тесты проходят без ошибок
-2. Allure отчеты генерируются корректно
-3. Скриншоты/видео сохраняются при падениях
+## Validation
+1. Tests pass without errors
+2. Allure reports generated correctly
+3. Screenshots/videos saved on failures

@@ -1,15 +1,15 @@
 ---
 name: kafka-streams
-description: Обрабатывает потоковые данные с Apache Kafka Streams. Используется для real-time обработки событий.
+description: Processes real-time data streams with Apache Kafka Streams. Use for real-time event processing.
 category: data
 tags: [kafka, streams, real-time, events, java, scala]
 models: [opus]
 version: 1.0.0
 created: 2026-05-01
 ---
-# Kafka Streams
+# Kafka Streams#
 
-> Обработка потоковых данных в реальном времени с Kafka Streams.
+> Real-time stream processing with Kafka Streams.
 
 ## 🚀 Quick Start
 ```java
@@ -22,18 +22,18 @@ KafkaStreams streams = new KafkaStreams(builder.build(), config);
 streams.start();
 ```
 
-## 📋 Когда использовать
-- ✅ Real-time обработка событий
-- ✅ Потоковая аналитика
-- ❌ Не использовать для batch обработки
+## 📋 When to Use
+- ✅ Real-time event processing
+- ✅ Stream analytics
+- ❌ Not for batch processing#
 
-## 🔧 Пошаговая инструкция
-1. Добавь зависимость Kafka Streams
-2. Создай StreamsBuilder с топиками
-3. Определи трансформации
-4. Запусти KafkaStreams приложение
+## 🔧 Step-by-Step Instructions
+1. Add Kafka Streams dependency
+2. Create StreamsBuilder with topics
+3. Define transformations
+4. Start KafkaStreams application
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```xml
 <dependency>
     <groupId>org.apache.kafka</groupId>
@@ -42,14 +42,14 @@ streams.start();
 </dependency>
 ```
 
-## 🧪 Примеры
-Input: Сообщение в "input-topic" → Output: UPPERCASE в "output-topic"
+## 🧪 Examples
+Input: Message in "input-topic" → Output: UPPERCASE in "output-topic"
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Kafka Streams Docs](https://kafka.apache.org/documentation/streams/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Приложение подключается к Kafka
-2. Сообщения обрабатываются в реальном времени
-3. Ошибки обработки отлавливаются
+## ✅ Validation
+1. Application connects to Kafka
+2. Messages processed in real-time
+3. Processing errors caught

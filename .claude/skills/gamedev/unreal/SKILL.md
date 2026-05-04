@@ -1,6 +1,6 @@
 ---
 name: unreal
-description: Создает игры на Unreal Engine с Blueprints или C++. Используется для AAA-качества и высокопроизводительных игр.
+description: Creates games on Unreal Engine with Blueprints or C++. Use for AAA-quality and high-performance games.
 category: gamedev
 tags: [unreal, cpp, blueprint, game-dev, aaa]
 models: [opus]
@@ -9,9 +9,9 @@ created: 2026-05-01
 ---
 # Unreal Engine
 
-> Профессиональный движок для AAA игр с Blueprints и C++.
+> Professional engine for AAA games with Blueprints and C++.
 
-## 🚀 Quick Start
+## Quick Start
 ```cpp
 // MyActor.cpp
 #include "MyActor.h"
@@ -23,28 +23,28 @@ void AMyActor::BeginPlay()
 }
 ```
 
-## 📋 Когда использовать
-- ✅ AAA игры с высокой графикой
-- ✅ Сложные игровые механики
-- ❌ Не использовать для простых мобильных игр (лучше Unity)
+## When to Use
+- ✅ AAA games with high-end graphics
+- ✅ Complex game mechanics
+- ❌ Not for simple mobile games (better use Unity)
 
-## 🔧 Пошаговая инструкция
-1. Установи Unreal Engine через Epic Games Launcher
-2. Создай проект (Blueprint или C++)
-3. Используй Blueprints для быстрого прототипирования
-4. Пиши C++ для производительности
+## Step-by-Step Instructions
+1. Install Unreal Engine via Epic Games Launcher
+2. Create project (Blueprint or C++)
+3. Use Blueprints for rapid prototyping
+4. Write C++ for performance
 
-## 📦 Зависимости
-Установи Unreal Engine через Epic Games Launcher
+## Dependencies
+Install Unreal Engine via Epic Games Launcher
 
-## 🧪 Примеры
-Input: Событие BeginPlay → Output: Сообщение в логе
+## Examples
+Input: BeginPlay event → Output: Message in log
 
-## 🔗 Ресурсы
+## Resources
 - [Unreal Docs](https://docs.unrealengine.com/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Проект компилируется без ошибок
-2. Blueprints работают корректно
-3. Игра запускается в Editor Mode
+## Validation
+1. Project compiles without errors
+2. Blueprints work correctly
+3. Game launches in Editor Mode

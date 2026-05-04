@@ -1,6 +1,6 @@
 ---
 name: contract-testing-pact
-description: Реализует контрактное тестирование API с Pact. Используется для проверки совместимости между сервисами.
+description: Implements contract testing for APIs with Pact. Use for checking compatibility between services.
 category: qa
 tags: [contract-testing, pact, api, testing]
 models: [sonnet, opus]
@@ -9,9 +9,9 @@ created: 2026-04-29
 ---
 # Contract Testing Pact
 
-> Контрактное тестирование API между микросервисами с Pact.
+> Contract testing between microservices with Pact.
 
-## 🚀 Quick Start
+## Quick Start
 ```python
 from pact import Consumer, Provider
 
@@ -26,30 +26,30 @@ def test_user_api():
         .will_respond_with(200, body={'id': 1, 'name': 'John'})
 ```
 
-## 📋 Когда использовать
-- ✅ Микросервисная архитектура
-- ✅ Проверка контрактов API
-- ❌ Не использовать для монолитов
+## When to Use
+- ✅ Microservice architecture
+- ✅ API contract verification
+- ❌ Not for monoliths
 
-## 🔧 Пошаговая инструкция
-1. Установи: `pip install pact-python`
-2. Определи ожидания потребителя
-3. Создай мок провайдера
-4. Верифицируй контракт
+## Step-by-Step Instructions
+1. Install: `pip install pact`
+2. Define consumer expectations
+3. Create provider mock
+4. Verify contract
 
-## 📦 Зависимости
+## Dependencies
 ```bash
-pip install pact-python pytest
+pip install pact pytest
 ```
 
-## 🧪 Примеры
-Input: Тест контракта → Output: Pact файл соглашения
+## Examples
+Input: Contract test → Output: Pact agreement file
 
-## 🔗 Ресурсы
+## Resources
 - [Pact Docs](https://docs.pact.io/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Контракты генерируются корректно
-2. Верификация проходит успешно
-3. Несовместимость контрактов обнаруживается
+## Validation
+1. Contracts generated correctly
+2. Verification passes successfully
+3. Contract incompatibilities detected

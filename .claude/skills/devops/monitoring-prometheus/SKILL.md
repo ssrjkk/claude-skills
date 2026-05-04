@@ -1,6 +1,6 @@
 ---
 name: monitoring-prometheus
-description: Настраивает мониторинг приложений и инфраструктуры с Prometheus и Grafana. Используется для сбора метрик и алертинга.
+description: Sets up application and infrastructure monitoring with Prometheus and Grafana. Use for metrics collection and alerting.
 category: devops
 tags: [prometheus, grafana, monitoring, metrics]
 models: [sonnet, opus]
@@ -9,7 +9,7 @@ created: 2026-04-29
 ---
 # Monitoring Prometheus
 
-> Сбор метрик, алертинг и визуализация с Prometheus + Grafana.
+> Metrics, alerting, and visualization with Prometheus + Grafana.
 
 ## 🚀 Quick Start
 ```yaml
@@ -24,36 +24,36 @@ scrape_configs:
 ```
 
 ```bash
-# Запуск Prometheus
+# Start Prometheus
 docker run -p 9090:9090 -v prometheus.yml:/etc/prometheus/prometheus.yml prom/prometheus
 ```
 
-## 📋 Когда использовать
-- ✅ Нужен мониторинг приложений
-- ✅ Сбор временных рядов метрик
-- ❌ Не использовать для логирования (лучше ELK)
+## 📋 When to Use
+- ✅ Need application monitoring
+- ✅ Collecting time-series metrics
+- ❌ Not for logging (better use ELK)
 
-## 🔧 Пошаговая инструкция
-1. Настрой экспортеры метрик в приложении
-2. Создай prometheus.yml с scrape configs
-3. Запусти Prometheus и Grafana контейнеры
-4. Настрой дашборды в Grafana
+## 🔧 Step-by-Step Instructions
+1. Set up metrics exporters in your app
+2. Create prometheus.yml with scrape configs
+3. Start Prometheus and Grafana containers
+4. Configure dashboards in Grafana
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 docker run -p 9090:9090 prom/prometheus
 docker run -p 3000:3000 grafana/grafana
 ```
 
-## 🧪 Примеры
-Input: HTTP запрос к `/metrics` эндпоинту
-Output: Метрики в формате Prometheus
+## 🧪 Examples
+Input: HTTP request to `/metrics` endpoint
+Output: Metrics in Prometheus format
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Prometheus Docs](https://prometheus.io/docs/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Prometheus собирает метрики с таргетов
-2. Алерты срабатывают при условиях
-3. Графики в Grafana отображают данные
+## ✅ Validation
+1. Prometheus scrapes targets successfully
+2. Alerts trigger on conditions
+3. Grafana dashboards show data

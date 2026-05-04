@@ -1,6 +1,6 @@
 ---
 name: go-gin
-description: Создает высокопроизводительные HTTP API на Go с использованием фреймворка Gin. Используется для микросервисов, требующих высокой пропускной способности.
+description: Creates high-performance HTTP APIs on Go using Gin framework. Use for microservices requiring high throughput.
 category: backend
 tags: [go, gin, rest, microservice, high-performance]
 models: [sonnet, opus]
@@ -9,7 +9,7 @@ created: 2026-04-29
 ---
 # Go Gin
 
-> Быстрый HTTP веб-фреймворк для Go с поддержкой middleware и маршрутизации.
+> Fast HTTP web framework for Go with middleware and routing.
 
 ## 🚀 Quick Start
 ```go
@@ -28,31 +28,31 @@ func main() {
 }
 ```
 
-## 📋 Когда использовать
-- ✅ Высоконагруженные API сервисы на Go
-- ✅ Микросервисы с минимальными накладными расходами
-- ❌ Не использовать для простых скриптов или CLI工具
+## 📋 When to Use
+- ✅ High-load API services on Go
+- ✅ Microservices with minimal overhead
+- ❌ Not for simple scripts or CLI tools
 
-## 🔧 Пошаговая инструкция
-1. Инициализируй Go модуль: `go mod init myapp`
-2. Установи Gin: `go get github.com/gin-gonic/gin`
-3. Создай `main.go` с маршрутами
-4. Запусти: `go run main.go`
+## 🔧 Step-by-Step Instructions
+1. Init Go module: `go mod init myapp`
+2. Install Gin: `go get github.com/gin-gonic/gin`
+3. Create `main.go` with routes
+4. Run: `go run main.go`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 go get github.com/gin-gonic/gin
 ```
 
-## 🧪 Примеры
+## 🧪 Examples
 Input: `GET /ping`
 Output: `{"message": "pong"}`
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Gin Documentation](https://gin-gonic.com/docs/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Приложение компилируется без ошибок
-2. Сервер отвечает на запросы корректно
-3. Middleware работает как ожидается
+## ✅ Validation
+1. Application compiles without errors
+2. Server responds to requests correctly
+3. Middleware works as expected

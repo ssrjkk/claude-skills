@@ -1,6 +1,6 @@
 ---
 name: jenkins-pipeline
-description: Создает Jenkins pipeline скрипты для CI/CD с поддержкой declarative и scripted синтаксиса. Используется для автоматизации сборки и деплоя.
+description: Creates Jenkins pipeline scripts for CI/CD with declarative and scripted syntax support. Use for automation of builds and deployments.
 category: devops
 tags: [jenkins, pipeline, ci-cd, groovy, automation]
 models: [sonnet, opus]
@@ -9,7 +9,7 @@ created: 2026-05-01
 ---
 # Jenkins Pipeline
 
-> CI/CD автоматизация с Jenkins Pipeline (Declarative/Groovy).
+> CI/CD automation with Jenkins Pipeline (Declarative/Groovy).
 
 ## 🚀 Quick Start
 ```groovy
@@ -30,28 +30,29 @@ pipeline {
 }
 ```
 
-## 📋 Когда использовать
-- ✅ CI/CD в корпоративной среде с Jenkins
-- ✅ Сложные пайплайны с условиями и параллелизмом
-- ❌ Не использовать для простых проектов (лучше GitHub Actions)
+## 📋 When to Use
+- ✅ CI/CD in corporate environment with Jenkins
+- ✅ Complex pipelines with conditions and parallelism
+- ❌ Not for simple projects (better use GitHub Actions)
 
-## 🔧 Пошаговая инструкция
-1. Установи Jenkins и необходимые плагины
-2. Создай `Jenkinsfile` в корне проекта
-3. Настрой pipeline в Jenkins UI
-4. Запусти сборку
+## 🔧 Step-by-Step Instructions
+1. Install Jenkins and necessary plugins
+2. Create `Jenkinsfile` in project root
+3. Configure pipeline in Jenkins UI
+4. Run build
 
-## 📦 Зависимости
-Скачай Jenkins с https://www.jenkins.io/download/
+## 📦 Dependencies
+Download Jenkins from https://www.jenkins.io/download/
 
-## 🧪 Примеры
-Input: Запуск пайплайна → Output: Все стадии проходят успешно
+## 🧪 Examples
+Input: Pipeline run
+Output: All stages pass successfully
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Jenkins Docs](https://www.jenkins.io/doc/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Pipeline выполняется без ошибок
-2. Стадии выполняются в правильном порядке
-3. Артефакты сохраняются корректно
+## ✅ Validation
+1. Pipeline executes without errors
+2. Stages execute in correct order
+3. Artifacts saved correctly

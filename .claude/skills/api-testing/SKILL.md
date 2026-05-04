@@ -1,6 +1,6 @@
 ---
 name: api-testing
-description: Тестирует REST и GraphQL API с использованием pytest и библиотеки requests. Используется для проверки эндпоинтов, валидации HTTP-ответов и написания автоматизированных API тестов.
+description: Tests REST and GraphQL APIs using pytest and requests library. Use for endpoint validation, HTTP response verification, and automated API test writing.
 category: qa
 tags: [api, testing, rest, graphql, pytest, requests]
 models: [haiku, sonnet, opus]
@@ -8,6 +8,8 @@ version: 1.0.0
 created: 2026-04-29
 ---
 # API Testing
+
+> Automated API testing with pytest and requests for REST/GraphQL endpoints.
 
 ## 🚀 Quick Start
 ```python
@@ -20,21 +22,31 @@ def test_get_user():
     assert "id" in response.json()
 ```
 
-## 📋 Инструкция
-1. Установи зависимости: `pip install pytest requests`
-2. Создай тестовый файл `test_api.py`
-3. Напиши тесты с проверкой статус-кодов, тела ответа, заголовков
-4. Запусти тесты: `pytest test_api.py -v`
+## 📋 When to Use
+- ✅ Testing REST or GraphQL APIs
+- ✅ Validating HTTP responses and headers
+- ❌ Not for UI testing (use E2E tools instead)
 
-## 🔧 Скрипты/Инструменты
-- `scripts/api_client.py` — обертка над requests для повторного использования
-- `scripts/assertions.py` — кастомные проверки для API ответов
+## 🔧 Step-by-Step Instructions
+1. Install: `pip install pytest requests`
+2. Create test file `test_api.py`
+3. Write tests with status code and response validation
+4. Run: `pytest test_api.py -v`
 
-## 📚 Ресурсы
-- `reference.md` — полный список HTTP-статусов и методов проверки
-- `examples.md` — примеры тестов для REST и GraphQL
+## 📦 Dependencies
+```bash
+pip install pytest requests
+```
 
-## ✅ Валидация
-1. Все тесты проходят без ошибок: `pytest --tb=short`
-2. Покрытие эндпоинтов соответствует требованиям
-3. Нет ложноположительных результатов
+## 🧪 Examples
+Input: `GET /users/1` with valid API
+Output: Response 200, JSON contains user data
+
+## 🔗 Resources
+- [requests docs](https://docs.python-requests.org/)
+- [pytest docs](https://docs.pytest.org/)
+
+## ✅ Validation
+1. All tests pass: `pytest --tb=short`
+2. Endpoints covered as required
+3. No false positives

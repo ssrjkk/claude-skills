@@ -1,6 +1,6 @@
 ---
 name: llm-eval
-description: Оценивает качество работы LLM с использованием метрик BLEU, ROUGE и LLM-as-judge. Используется для тестирования моделей.
+description: Evaluates LLM performance using BLEU, ROUGE metrics and LLM-as-judge. Use for model testing.
 category: ai
 tags: [llm, evaluation, metrics, bleu, rouge]
 models: [opus]
@@ -9,9 +9,9 @@ created: 2026-04-29
 ---
 # LLM Evaluation
 
-> Оценка качества LLM ответов с автоматическими метриками и LLM-as-judge.
+> Evaluate LLM response quality with automatic metrics and LLM-as-judge.
 
-## 🚀 Quick Start
+## Quick Start
 ```python
 from rouge import Rouge
 
@@ -21,30 +21,30 @@ def evaluate_summary(reference, candidate):
     return scores[0]['rouge-l']['f']
 ```
 
-## 📋 Когда использовать
-- ✅ Тестирование качества LLM
-- ✅ Сравнение разных моделей
-- ❌ Не использовать для оценки точности классификаторов
+## When to Use
+- ✅ Testing LLM quality
+- ✅ Comparing different models
+- ❌ Not for evaluating classifier accuracy
 
-## 🔧 Пошаговая инструкция
-1. Подготовь тестовый датасет с эталонными ответами
-2. Сгенерируй ответы тестируемой моделью
-3. Посчитай метрики (BLEU, ROUGE, BERTScore)
-4. Проведи LLM-as-judge оценку
+## Step-by-Step Instructions
+1. Prepare test dataset with reference answers
+2. Generate responses with model under test
+3. Calculate metrics (BLEU, ROUGE, BERTScore)
+4. Conduct LLM-as-judge evaluation
 
-## 📦 Зависимости
+## Dependencies
 ```bash
 pip install rouge-score bert-score openai
 ```
 
-## 🧪 Примеры
-Input: reference="Привет", candidate="Привет!" → Output: ROUGE-L F1 = 0.95
+## Examples
+Input: reference="Hello", candidate="Hello!" → Output: ROUGE-L F1 = 0.95
 
-## 🔗 Ресурсы
+## Resources
 - [BLEU Score](https://en.wikipedia.org/wiki/BLEU)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Метрики считаются корректно
-2. Высокая корреляция с человеческой оценкой
-3. Отчеты генерируются автоматически
+## Validation
+1. Metrics calculated correctly
+2. High correlation with human judgment
+3. Reports generated automatically

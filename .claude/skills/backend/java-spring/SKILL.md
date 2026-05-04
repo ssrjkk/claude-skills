@@ -1,6 +1,6 @@
 ---
 name: java-spring
-description: Генерирует структуру Spring Boot приложений с REST контроллерами и JPA репозиториями. Используется для создания enterprise-grade Java приложений.
+description: Generates Spring Boot application structure with REST controllers and JPA repositories. Use for creating enterprise-grade Java applications.
 category: backend
 tags: [java, spring, spring-boot, rest, jpa]
 models: [opus]
@@ -9,7 +9,7 @@ created: 2026-04-29
 ---
 # Java Spring Boot
 
-> Enterprise Java framework для создания production-ready приложений с минимальной конфигурацией.
+> Enterprise Java framework for production-ready applications with minimal configuration.
 
 ## 🚀 Quick Start
 ```java
@@ -31,18 +31,18 @@ public class Application {
 }
 ```
 
-## 📋 Когда использовать
-- ✅ Enterprise Java приложения
-- ✅ Нужна интеграция с БД через JPA/Hibernate
-- ❌ Не использовать для простых скриптов или микросервисов на других языках
+## 📋 When to Use
+- ✅ Enterprise Java applications
+- ✅ Need JPA/Hibernate database integration
+- ❌ Not for simple scripts or microservices in other languages
 
-## 🔧 Пошаговая инструкция
-1. Сгенерируй проект через [Spring Initializr](https://start.spring.io)
-2. Добавь зависимости: Spring Web, Spring Data JPA
-3. Создай контроллеры и сущности
-4. Запусти: `mvn spring-boot:run`
+## 🔧 Step-by-Step Instructions
+1. Generate project via [Spring Initializr](https://start.spring.io)
+2. Add dependencies: Spring Web, Spring Data JPA
+3. Create controllers and entities
+4. Run: `mvn spring-boot:run`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```xml
 <!-- pom.xml -->
 <dependency>
@@ -51,15 +51,15 @@ public class Application {
 </dependency>
 ```
 
-## 🧪 Примеры
+## 🧪 Examples
 Input: `GET /api/users/1`
 Output: `{"id": 1, "name": "John"}`
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Spring Boot Docs](https://spring.io/projects/spring-boot)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Приложение запускается без ошибок контекста
-2. Эндпоинты доступны и работают корректно
-3. БД подключается успешно (если настроена)
+## ✅ Validation
+1. Application starts without context errors
+2. Endpoints accessible and working correctly
+3. Database connects successfully (if configured)

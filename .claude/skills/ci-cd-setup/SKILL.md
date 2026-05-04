@@ -1,6 +1,6 @@
 ---
 name: ci-cd-setup
-description: Настраивает CI/CD пайплайны для тестирования с использованием GitHub Actions. Используется для автоматизации запуска тестов, сборки и деплоя в QA-окружения.
+description: Sets up CI/CD pipelines for testing using GitHub Actions. Use for automating test runs, builds, and deployments to QA environments.
 category: qa
 tags: [ci-cd, github-actions, automation, testing, pytest, qa]
 models: [haiku, sonnet, opus]
@@ -8,6 +8,8 @@ version: 1.0.0
 created: 2026-04-29
 ---
 # CI/CD Setup
+
+> Automated testing pipelines with GitHub Actions.
 
 ## 🚀 Quick Start
 ```yaml
@@ -24,21 +26,32 @@ jobs:
       - run: pytest
 ```
 
-## 📋 Инструкция
-1. Создай папку `.github/workflows/` в корне репозитория
-2. Напиши YAML-файл пайплайна с шагами установки зависимостей и запуска тестов
-3. Добавь шаги для настройки PostgreSQL и Allure (если используется)
-4. Закоммить файл, пайплайн запустится автоматически
+## 📋 When to Use
+- ✅ Automating test execution
+- ✅ Building and deploying to QA environments
+- ❌ Not for production deployments (use dedicated CD)
 
-## 🔧 Скрипты/Инструменты
-- `scripts/setup_env.sh` — настройка окружения в CI
-- `scripts/run_tests.sh` — запуск тестов с параметрами
+## 🔧 Step-by-Step Instructions
+1. Create `.github/workflows/` folder in repo root
+2. Write YAML pipeline with setup and test steps
+3. Add PostgreSQL, Allure setup if needed
+4. Commit and push - pipeline runs automatically
 
-## 📚 Ресурсы
-- `reference.md` — синтаксис GitHub Actions и доступные раннеры
-- `examples.md` — примеры пайплайнов для pytest и Allure
+## 📦 Dependencies
+```bash
+# GitHub Actions (built-in)
+# No installation needed
+```
 
-## ✅ Валидация
-1. Пайплайн успешно проходит при пуше в ветку
-2. Тесты запускаются корректно, результаты доступны в интерфейсе GitHub
-3. Нет ошибок конфигурации YAML
+## 🧪 Examples
+Input: Push to main branch
+Output: Tests run automatically, results in GitHub UI
+
+## 🔗 Resources
+- [GitHub Actions Docs](https://docs.github.com/en/actions)
+- [Examples](./examples/)
+
+## ✅ Validation
+1. Pipeline passes on push to branch
+2. Tests run correctly, results visible
+3. No YAML configuration errors

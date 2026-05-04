@@ -1,6 +1,6 @@
 ---
 name: nextjs-ssr
-description: Генерирует Next.js приложения с SSR, SSG и API роутами. Используется для SEO-оптимизированных React приложений.
+description: Generates Next.js applications with SSR, SSG, and API routes. Use for SEO-optimized React applications.
 category: frontend
 tags: [nextjs, react, ssr, ssg, seo]
 models: [opus]
@@ -9,7 +9,7 @@ created: 2026-04-29
 ---
 # Next.js SSR
 
-> React framework для production с SSR, SSG и оптимизацией производительности.
+> React framework for production with SSR, SSG and SEO optimization.
 
 ## 🚀 Quick Start
 ```typescript
@@ -28,30 +28,30 @@ export async function getServerSideProps() {
 }
 ```
 
-## 📋 Когда использовать
-- ✅ SEO-критичные React приложения
-- ✅ Нужен SSR или статическая генерация
-- ❌ Не использовать для простых SPA без SSR
+## 📋 When to Use
+- ✅ SEO-critical React applications
+- ✅ Need SSR or static generation
+- ❌ Not for simple SPAs without SSR
 
-## 🔧 Пошаговая инструкция
-1. Создай проект: `npx create-next-app@latest`
-2. Создай страницы в `pages/` или `app/`
-3. Добавь API роуты в `pages/api/`
-4. Запусти: `npm run dev`
+## 🔧 Step-by-Step Instructions
+1. Create project: `npx create-next-app@latest`
+2. Create pages in `pages/` or `app/`
+3. Add API routes in `pages/api/`
+4. Run: `npm run dev`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 npx create-next-app@latest
 ```
 
-## 🧪 Примеры
-Input: `GET /users` → SSR страница со списком пользователей
+## 🧪 Examples
+Input: `GET /users` → SSR page with user list
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Next.js Docs](https://nextjs.org/docs)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Страницы генерируются на сервере
-2. API роуты отвечают корректно
-3. SEO метаданные присутствуют
+## ✅ Validation
+1. Pages generate correctly on server
+2. API routes respond properly
+3. SEO metadata present

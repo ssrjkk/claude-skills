@@ -1,6 +1,6 @@
 ---
 name: sbom-generation
-description: Генерирует Software Bill of Materials (SBOM) для отслеживания зависимостей и уязвимостей. Используется для supply chain безопасности.
+description: Generates Software Bill of Materials (SBOM) for tracking dependencies and vulnerabilities. Use for supply chain security.
 category: security
 tags: [sbom, supply-chain, security, dependencies]
 models: [sonnet, opus]
@@ -9,43 +9,43 @@ created: 2026-04-29
 ---
 # SBOM Generation
 
-> Генерация Software Bill of Materials для отслеживания компонентов.
+> Generate Software Bill of Materials for component tracking.
 
-## 🚀 Quick Start
+## Quick Start
 ```bash
-# Генерация SBOM с Syft
+# Generate SBOM with Syft
 syft dir:. -o cyclonedx-json=sbom.json
 
-# Проверка SBOM
+# Check SBOM
 cat sbom.json | jq '.components[] | .name'
 ```
 
-## 📋 Когда использовать
-- ✅ Supply chain безопасность
-- ✅ Комплаенс требования (US Executive Order)
-- ❌ Не использовать как замену dependency scanning
+## When to Use
+- ✅ Supply chain security
+- ✅ Compliance requirements (US Executive Order)
+- ❌ Not as replacement for dependency scanning
 
-## 🔧 Пошаговая инструкция
-1. Установи Syft или Anchore
-2. Сгенерируй SBOM для проекта/образа
-3. Проверь структуру (CycloneDX, SPDX)
-4. Интегрируй в CI/CD
+## Step-by-Step Instructions
+1. Install Syft or Anchore
+2. Generate SBOM for project/image
+3. Check structure (CycloneDX, SPDX)
+4. Integrate into CI/CD
 
-## 📦 Зависимости
+## Dependencies
 ```bash
 brew install syft
-# или
+# or
 curl -sSfL https://raw.githubusercontent.com/anchore/syft/main/install.sh | sh -s -- -b /usr/local/bin
 ```
 
-## 🧪 Примеры
-Input: `syft dir:.` → Output: JSON с списком всех зависимостей
+## Examples
+Input: `syft dir:.` → Output: JSON with all dependencies list
 
-## 🔗 Ресурсы
+## Resources
 - [SBOM Guide](https://www.cisa.gov/sbom)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. SBOM содержит все прямые и транзитивные зависимости
-2. Формат соответствует CycloneDX/SPDX
-3. SBOM успешно парсится инструментами
+## Validation
+1. SBOM contains all direct and transitive dependencies
+2. Format complies with CycloneDX/SPDX
+3. SBOM successfully parsed by tools

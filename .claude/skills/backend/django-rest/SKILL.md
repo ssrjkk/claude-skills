@@ -1,6 +1,6 @@
 ---
 name: django-rest
-description: Создает REST API на Django с Django REST Framework. Используется для Python веб-приложений с мощной админкой.
+description: Creates REST APIs on Django with Django REST Framework. Use for Python web applications with powerful admin interface.
 category: backend
 tags: [django, drf, rest, python, admin]
 models: [sonnet, opus]
@@ -9,7 +9,7 @@ created: 2026-05-01
 ---
 # Django REST Framework
 
-> REST API на Django с мощной админкой и ORM.
+> REST API on Django with powerful admin panel and ORM.
 
 ## 🚀 Quick Start
 ```python
@@ -29,30 +29,31 @@ class UserViewSet(viewsets.ModelViewSet):
     serializer_class = UserSerializer
 ```
 
-## 📋 Когда использовать
-- ✅ Сложные веб-приложения на Python
-- ✅ Нужна встроенная админка
-- ❌ Не использовать для микросервисов (лучше FastAPI)
+## 📋 When to Use
+- ✅ Complex web applications on Python
+- ✅ Need built-in admin interface
+- ❌ Not for microservices (better use FastAPI)
 
-## 🔧 Пошаговая инструкция
-1. Установи: `pip install django djangorestframework`
-2. Создай проект: `django-admin startproject myproject`
-3. Добавь DRF и создай API views
-4. Запусти: `python manage.py runserver`
+## 🔧 Step-by-Step Instructions
+1. Install: `pip install django djangorestframework`
+2. Create project: `django-admin startproject myproject`
+3. Add DRF and create API views
+4. Run: `python manage.py runserver`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 pip install django djangorestframework
 ```
 
-## 🧪 Примеры
-Input: `GET /api/users/` → Output: JSON список пользователей
+## 🧪 Examples
+Input: `GET /api/users/` 
+Output: JSON array of users
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [DRF Docs](https://www.django-rest-framework.org/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. API отвечает корректно
-2. Админка доступна по `/admin/`
-3. ORM запросы работают без ошибок
+## ✅ Validation
+1. API responds correctly
+2. Admin available at `/admin/`
+3. ORM queries work without errors

@@ -1,6 +1,6 @@
 ---
 name: angular-typescript
-description: Создает Angular приложения с TypeScript, компонентами и сервисами. Используется для enterprise frontend разработки.
+description: Creates Angular applications with TypeScript, components, and services. Use for enterprise frontend development.
 category: frontend
 tags: [angular, typescript, frontend, components, rxjs]
 models: [opus]
@@ -9,7 +9,7 @@ created: 2026-05-01
 ---
 # Angular TypeScript
 
-> Структурированные enterprise приложения на Angular с TypeScript.
+> Structured enterprise applications with Angular and TypeScript.
 
 ## 🚀 Quick Start
 ```typescript
@@ -26,30 +26,30 @@ export class UserComponent {
 }
 ```
 
-## 📋 Когда использовать
-- ✅ Enterprise Angular проекты
-- ✅ Нужна строгая структура и dependency injection
-- ❌ Не использовать для простых SPA (лучше React/Vue)
+## 📋 When to Use
+- ✅ Enterprise Angular projects
+- ✅ Need strict structure and dependency injection
+- ❌ Not for simple SPAs (better React/Vue)
 
-## 🔧 Пошаговая инструкция
-1. Установи CLI: `npm install -g @angular/cli`
-2. Создай проект: `ng new myproject`
-3. Генерируй компоненты: `ng generate component user`
-4. Запусти: `ng serve`
+## 🔧 Step-by-Step Instructions
+1. Install CLI: `npm install -g @angular/cli`
+2. Create project: `ng new myproject`
+3. Generate components: `ng generate component user`
+4. Run: `ng serve`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 npm install -g @angular/cli
 ```
 
-## 🧪 Примеры
-Input: `ng generate component hero` → Output: Созданы файлы HeroComponent
+## 🧪 Examples
+Input: `ng generate component hero` → Output: HeroComponent files created
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Angular Docs](https://angular.io/docs)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Приложение собирается без ошибок TypeScript
-2. Компоненты рендерятся корректно
-3. Сервисы инжектятся правильно
+## ✅ Validation
+1. App builds without TypeScript errors
+2. Components render correctly
+3. Services injected properly

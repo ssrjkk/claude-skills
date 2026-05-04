@@ -1,6 +1,6 @@
 ---
 name: python-fastapi
-description: Создает шаблоны для REST API на FastAPI с валидацией Pydantic и авто-документацией. Используется при создании новых микросервисов или API эндпоинтов.
+description: Creates REST API templates with FastAPI, Pydantic validation, and auto-generated documentation. Use for building new microservices or API endpoints.
 category: backend
 tags: [python, fastapi, rest, pydantic, async]
 models: [sonnet, opus]
@@ -9,7 +9,7 @@ created: 2026-04-29
 ---
 # Python FastAPI
 
-> Быстрый старт REST API с автоматической документацией и валидацией типов.
+> FastAPI with auto-generated docs and type validation.
 
 ## 🚀 Quick Start
 ```python
@@ -27,31 +27,31 @@ async def create_user(user: User):
     return {"message": "User created", "user": user}
 ```
 
-## 📋 Когда использовать
-- ✅ Создание нового REST API на Python
-- ✅ Нужна авто-документация (Swagger/OpenAPI)
-- ❌ Не использовать для монолитных приложений без API
+## 📋 When to Use
+- ✅ Building new REST APIs on Python
+- ✅ Need auto-generated OpenAPI docs
+- ❌ Not for monoliths without API layer
 
-## 🔧 Пошаговая инструкция
-1. Установи зависимости: `pip install fastapi uvicorn`
-2. Создай файл `main.py` с кодом FastAPI
-3. Определи модели данных через Pydantic
-4. Запусти сервер: `uvicorn main:app --reload`
+## 🔧 Step-by-Step Instructions
+1. Install: `pip install fastapi uvicorn`
+2. Create `main.py` with FastAPI code
+3. Define data models with Pydantic
+4. Run: `uvicorn main:app --reload`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 pip install fastapi uvicorn pydantic
 ```
 
-## 🧪 Примеры
-Input: `POST /users/` с JSON `{"name": "John", "email": "john@example.com"}`
-Output: `{"message": "User created", "user": {"name": "John", "email": "john@example.com"}}`
+## 🧪 Examples
+Input: `POST /users/` with `{"name": "John", "email": "john@example.com"}`
+Output: `{"message": "User created", "user": {...}}`
 
-## 🔗 Ресурсы
-- [Официальная документация FastAPI](https://fastapi.tiangolo.com)
-- [Примеры кода](./examples/)
+## 🔗 Resources
+- [FastAPI Docs](https://fastapi.tiangolo.com)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Сервер запускается без ошибок: `uvicorn main:app --reload`
-2. Документация доступна по адресу `http://localhost:8000/docs`
-3. Запросы валидируются корректно
+## ✅ Validation
+1. Server starts without errors: `uvicorn main:app --reload`
+2. Docs available at `http://localhost:8000/docs`
+3. Requests validated correctly

@@ -1,6 +1,6 @@
 ---
 name: cypress-e2e
-description: Создает E2E тесты с Cypress для современных веб-приложений. Используется для быстрого тестирования с отладкой.
+description: Creates E2E tests with Cypress for modern web applications. Use for fast testing with debugging.
 category: qa
 tags: [cypress, e2e, testing, javascript, typescript]
 models: [sonnet, opus]
@@ -9,9 +9,9 @@ created: 2026-05-01
 ---
 # Cypress E2E
 
-> E2E тестирование с Cypress для современных веб-приложений.
+> E2E testing with Cypress for modern web applications.
 
-## 🚀 Quick Start
+## Quick Start
 ```javascript
 describe('My First Test', () => {
   it('Does not do much!', () => {
@@ -21,30 +21,30 @@ describe('My First Test', () => {
 })
 ```
 
-## 📋 Когда использовать
-- ✅ E2E тестирование современных веб-приложений
-- ✅ Нужна отладка в реальном времени
-- ❌ Не использовать для мобильных приложений
+## When to Use
+- ✅ E2E testing of modern web apps
+- ✅ Need real-time debugging
+- ❌ Not for mobile applications
 
-## 🔧 Пошаговая инструкция
-1. Установи: `npm install cypress --save-dev`
-2. Открой Cypress: `npx cypress open`
-3. Создай тесты в `cypress/e2e/`
-4. Запусти: `npx cypress run`
+## Step-by-Step Instructions
+1. Install: `npm install cypress --save-dev`
+2. Open Cypress: `npx cypress open`
+3. Create tests in `cypress/e2e/`
+4. Run: `npx cypress run`
 
-## 📦 Зависимости
+## Dependencies
 ```bash
 npm install cypress --save-dev
 ```
 
-## 🧪 Примеры
-Input: Запуск теста → Output: Тест проходит, скриншоты сохраняются
+## Examples
+Input: Test run → Output: Test passes, screenshots saved
 
-## 🔗 Ресурсы
+## Resources
 - [Cypress Docs](https://docs.cypress.io/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Тесты проходят без ошибок
-2. Скриншоты/видео сохраняются
-3. Отладка работает в реальном времени
+## Validation
+1. Tests pass without errors
+2. Screenshots/videos saved
+3. Real-time debugging works

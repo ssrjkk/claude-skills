@@ -1,6 +1,6 @@
 ---
 name: user-story-mapping
-description: Фасилитирует создание User Story Mapping сесий и структурирование требований. Используется для планирования продуктов.
+description: Facilitates User Story Mapping sessions and requirement structuring. Use for product planning.
 category: product
 tags: [user-story, agile, product, planning]
 models: [sonnet, opus]
@@ -9,11 +9,11 @@ created: 2026-04-29
 ---
 # User Story Mapping
 
-> Визуализация и структурирование требований через User Story Mapping.
+> Visualize and structure requirements through User Story Mapping.
 
-## 🚀 Quick Start
+## Quick Start
 ```
-User Story Mapping Структура:
+User Story Mapping Structure:
 
 [User Activity]
   ├── [User Task 1]
@@ -23,30 +23,30 @@ User Story Mapping Структура:
       └── As a user, I want to view dashboard (P0)
 ```
 
-## 📋 Когда использовать
-- ✅ Планирование нового продукта/фичи
-- ✅ Выделение MVP (Minimum Viable Product)
-- ❌ Не использовать для технической документации
+## When to Use
+- ✅ Planning new product/feature
+- ✅ Defining MVP (Minimum Viable Product)
+- ❌ Not for technical documentation
 
-## 🔧 Пошаговая инструкция
-1. Собери стейкхолдеров для сессии
-2. Определи основные пользовательские активности
-3. Разбей на задачи и истории
-4. Приоритизируй для MVP
+## Step-by-Step Instructions
+1. Gather stakeholders for session
+2. Define main user activities
+3. Break down into tasks and stories
+4. Prioritize for MVP
 
-## 📦 Зависимости
+## Dependencies
 ```bash
-# Инструменты: Miro, Jira, или обычный стикеры
+# Tools: Miro, Jira, or just sticky notes
 ```
 
-## 🧪 Примеры
-Input: Цель "Система заказов" → Output: Карта с активностями "Поиск", "Корзина", "Оплата"
+## Examples
+Input: Goal "Order System" → Output: Map with activities "Search", "Cart", "Payment"
 
-## 🔗 Ресурсы
+## Resources
 - [User Story Mapping Book](https://www.jpattonassociates.com/user-story-mapping/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Все пользовательские пути покрыты
-2. Приоритеты расставлены корректно
-3. MVP четко выделен
+## Validation
+1. All user paths covered
+2. Priorities assigned correctly
+3. MVP clearly defined

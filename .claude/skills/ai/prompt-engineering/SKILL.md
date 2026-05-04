@@ -1,6 +1,6 @@
 ---
 name: prompt-engineering
-description: Оптимизирует промпты для LLM с техниками few-shot, chain-of-thought и структурированным выводом. Используется для улучшения качества ответов.
+description: Optimizes prompts for LLMs with few-shot, chain-of-thought, and structured output techniques. Use for improving response quality.
 category: ai
 tags: [prompt, llm, engineering, few-shot, chain-of-thought]
 models: [opus]
@@ -9,48 +9,48 @@ created: 2026-04-29
 ---
 # Prompt Engineering
 
-> Техники написания эффективных промптов для LLM.
+> Techniques for writing effective LLM prompts.
 
-## 🚀 Quick Start
+## Quick Start
 ```
 # Few-shot prompting
-Примеры:
+Examples:
 Q: 2+2=? A: 4
 Q: 3+5=? A: 8
 Q: 10+7=? A:
 
 # Chain-of-Thought
-Реши пошагово:
-1. Проанализируй входные данные
-2. Выдели ключевые факты
-3. Сформулируй ответ
+Solve step by step:
+1. Analyze input data
+2. Extract key facts
+3. Formulate answer
 ```
 
-## 📋 Когда использовать
-- ✅ Улучшение качества ответов LLM
-- ✅ Нужна структурированная генерация
-- ❌ Не использовать для простых одношаговых задач
+## When to Use
+- ✅ Improving LLM response quality
+- ✅ Need structured generation
+- ❌ Not for simple one-step tasks
 
-## 🔧 Пошаговая инструкция
-1. Определи задачу и желаемый формат вывода
-2. Добавь примеры (few-shot) если нужно
-3. Используй CoT для сложных рассуждений
-4. Тестируй с разными моделями
+## Step-by-Step Instructions
+1. Define task and desired output format
+2. Add examples (few-shot) if needed
+3. Use CoT for complex reasoning
+4. Test with different models
 
-## 📦 Зависимости
+## Dependencies
 ```bash
 pip install openai anthropic
 ```
 
-## 🧪 Примеры
-Input: "Классифицируй: Отличный сервис!" с промптом для sentiment
+## Examples
+Input: "Classify: Great service!" with sentiment prompt
 Output: `{"sentiment": "positive", "confidence": 0.95}`
 
-## 🔗 Ресурсы
+## Resources
 - [OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Ответы соответствуют заданному формату
-2. Качество выше базового промпта
-3. Модель следует инструкциям стабильно
+## Validation
+1. Responses match specified format
+2. Quality higher than baseline prompt
+3. Model follows instructions consistently

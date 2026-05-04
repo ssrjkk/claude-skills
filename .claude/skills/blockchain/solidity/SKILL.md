@@ -1,6 +1,6 @@
 ---
 name: solidity
-description: Разрабатывает смарт-контракты на Solidity для Ethereum и EVM-совместимых блокчейнов. Используется для создания децентрализованных приложений.
+description: Develops smart contracts on Solidity for Ethereum and EVM-compatible blockchains. Use for decentralized applications.
 category: block
 tags: [solidity, ethereum, smart-contracts, evm, blockchain]
 models: [opus]
@@ -9,12 +9,12 @@ created: 2026-05-01
 ---
 # Solidity
 
-> Разработка смарт-контрактов на Solidity для Ethereum и EVM.
+> Smart contract development on Solidity for Ethereum and EVM.
 
-## 🚀 Quick Start
+## Quick Start
 ```solidity
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.20;
 
 contract SimpleStorage {
     uint256 private storedData;
@@ -29,30 +29,30 @@ contract SimpleStorage {
 }
 ```
 
-## 📋 Когда использовать
-- ✅ Создание смарт-контрактов для Ethereum
-- ✅ Разработка DeFi протоколов
-- ❌ Не использовать для не-блокчейн приложений
+## When to Use
+- ✅ Creating smart contracts for Ethereum
+- ✅ Developing DeFi protocols
+- ❌ Not for non-blockchain applications
 
-## 🔧 Пошаговая инструкция
-1. Установи Hardhat или Foundry: `npm install --save-dev hardhat`
-2. Создай контракт в папке `contracts/`
-3. Напиши тесты в `test/`
-4. Деплой: `npx hardhat run scripts/deploy.js`
+## Step-by-Step Instructions
+1. Install Hardhat or Foundry: `npm install --save-dev hardhat`
+2. Create contract in `contracts/` folder
+3. Write tests in `test/`
+4. Deploy: `npx hardhat run scripts/deploy.js`
 
-## 📦 Зависимости
+## Dependencies
 ```bash
 npm install --save-dev hardhat @nomicfoundation/hardhat-toolbox
 ```
 
-## 🧪 Примеры
-Input: Вызов `set(100)` → Output: `get()` возвращает 100
+## Examples
+Input: Call `set(100)` → Output: `get()` returns 100
 
-## 🔗 Ресурсы
+## Resources
 - [Solidity Docs](https://docs.soliditylang.org/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Контракт компилируется без ошибок
-2. Тесты проходят успешно
-3. Газо-оптимизированные функции
+## Validation
+1. Contract compiles without errors
+2. Tests pass successfully
+3. Gas-optimized functions

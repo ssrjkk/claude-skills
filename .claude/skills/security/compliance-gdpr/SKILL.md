@@ -1,6 +1,6 @@
 ---
 name: compliance-gdpr
-description: Проверяет соответствие приложений требованиям GDPR (General Data Protection Regulation). Используется для compliance аудита.
+description: Checks application compliance with GDPR (General Data Protection Regulation) requirements. Use for compliance audit.
 category: security
 tags: [gdpr, compliance, privacy, legal]
 models: [opus]
@@ -9,47 +9,47 @@ created: 2026-04-29
 ---
 # Compliance GDPR
 
-> Проверка соответствия GDPR требованиям для обработки персональных данных.
+> Check GDPR compliance for personal data processing.
 
-## 🚀 Quick Start
+## Quick Start
 ```
 GDPR Compliance Checklist:
 
 Data Collection:
-  [ ] Есть согласие пользователя (consent)
-  [ ] Данные собираются законно и справедливо
-  [ ] Указана цель сбора данных
+  [ ] User consent obtained
+  [ ] Data collected lawfully and fairly
+  [ ] Purpose of data collection specified
 
 User Rights:
-  [ ] Право на доступ к данным
-  [ ] Право на удаление (right to be forgotten)
-  [ ] Право на перенос данных
+  [ ] Right to access data
+  [ ] Right to erasure (right to be forgotten)
+  [ ] Right to data portability
 ```
 
-## 📋 Когда использовать
-- ✅ Обработка персональных данных EU граждан
-- ✅ Compliance аудит
-- ❌ Не использовать для анонимных данных без PII
+## When to Use
+- ✅ Processing personal data of EU citizens
+- ✅ Compliance audit
+- ❌ Not for anonymous data without PII
 
-## 🔧 Пошаговая инструкция
-1. Проведи Data Protection Impact Assessment (DPIA)
-2. Проверь наличие cookie banner и privacy policy
-3. Убедись в реализации user rights
-4. Настрой breach notification процесс
+## Step-by-Step Instructions
+1. Conduct Data Protection Impact Assessment (DPIA)
+2. Check presence of cookie banner and privacy policy
+3. Ensure implementation of user rights
+4. Setup breach notification process
 
-## 📦 Зависимости
+## Dependencies
 ```bash
-# Инструменты: OneTrust, TrustArc
+# Tools: OneTrust, TrustArc
 ```
 
-## 🧪 Примеры
-Input: Аудит веб-сайта → Output: 3 нарушения GDPR найдено
+## Examples
+Input: Website audit → Output: 3 GDPR violations found
 
-## 🔗 Ресурсы
+## Resources
 - [GDPR Official Text](https://gdpr-info.eu/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Приложение соблюдает принципы GDPR
-2. Пользователь может реализовать свои права
-3. DPIA документирован корректно
+## Validation
+1. Application follows GDPR principles
+2. Users can exercise their rights
+3. DPIA documented correctly

@@ -1,15 +1,15 @@
 ---
 name: etl-pipeline
-description: Строит ETL пайплайны на Python с Pandas и SQLAlchemy. Используется для извлечения, трансформации и загрузки данных между системами.
+description: Builds ETL pipelines with Python, Pandas, and SQLAlchemy. Use for extracting, transforming, and loading data between systems.
 category: data
 tags: [etl, python, pandas, sqlalchemy, data-pipeline]
 models: [sonnet, opus]
 version: 1.0.0
 created: 2026-04-29
 ---
-# ETL Pipeline
+# ETL Pipeline#
 
-> Построение ETL процессов для обработки и миграции данных.
+> Build ETL processes for data processing and migration.
 
 ## 🚀 Quick Start
 ```python
@@ -28,30 +28,30 @@ def etl_process():
     df.to_sql('target_table', engine, if_exists='append')
 ```
 
-## 📋 Когда использовать
-- ✅ Миграция данных между БД
-- ✅ Трансформация данных перед загрузкой
-- ❌ Не использовать для потоковой обработки (лучше Kafka)
+## 📋 When to Use
+- ✅ Data migration between databases
+- ✅ Transforming data before loading
+- ❌ Not for streaming processing (better Kafka)
 
-## 🔧 Пошаговая инструкция
-1. Установи зависимости: `pip install pandas sqlalchemy`
-2. Определи источник и приемник данных
-3. Напиши функции extract, transform, load
-4. Запусти: `python etl.py`
+## 🔧 Step-by-Step Instructions
+1. Install: `pip install pandas sqlalchemy`
+2. Define source and target systems
+3. Write extract, transform, load functions
+4. Run: `python etl.py`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 pip install pandas sqlalchemy psycopg2-binary
 ```
 
-## 🧪 Примеры
-Input: CSV файл с данными → Output: Данные в PostgreSQL таблице
+## 🧪 Examples
+Input: CSV file with data → Output: Data in PostgreSQL table
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Pandas Docs](https://pandas.pydata.org/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Данные успешно извлекаются из источника
-2. Трансформации применяются корректно
-3. Данные загружаются в целевую систему
+## ✅ Validation
+1. Data extracted successfully from source
+2. Transformations applied correctly
+3. Data loaded into target system

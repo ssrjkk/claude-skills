@@ -1,6 +1,6 @@
 ---
 name: design-tokens
-description: Управляет дизайн-токенами с использованием Style Dictionary или Theo. Используется для поддержания консистентности дизайн-систем.
+description: Manages design tokens with Style Dictionary or Theo. Use for maintaining design system consistency.
 category: design
 tags: [design-tokens, design-system, style-dictionary, theming]
 models: [sonnet, opus]
@@ -9,9 +9,9 @@ created: 2026-05-01
 ---
 # Design Tokens
 
-> Управление дизайн-токенами для консистентных UI систем.
+> Manage design tokens for consistent UI systems.
 
-## 🚀 Quick Start
+## Quick Start
 ```json
 {
   "color": {
@@ -25,30 +25,30 @@ created: 2026-05-01
 }
 ```
 
-## 📋 Когда использовать
-- ✅ Дизайн-системы с множеством платформ
-- ✅ Нужна консистентность цветов, отступов, шрифтов
-- ❌ Не использовать для одноразовых проектов
+## When to Use
+- ✅ Design systems across multiple platforms
+- ✅ Need consistency in colors, spacing, fonts
+- ❌ Not for one-off projects
 
-## 🔧 Пошаговая инструкция
-1. Определи токены в JSON/YAML файле
-2. Настрой Style Dictionary конфигурацию
-3. Сгенерируй платформ-специфичные файлы
-4. Интегрируй в проект
+## Step-by-Step Instructions
+1. Define tokens in JSON/YAML file
+2. Configure Style Dictionary
+3. Generate platform-specific files
+4. Integrate into project
 
-## 📦 Зависимости
+## Dependencies
 ```bash
 npm install style-dictionary
 ```
 
-## 🧪 Примеры
-Input: Токен `color.primary` → Output: CSS переменная `--color-primary: #007AFF;`
+## Examples
+Input: Token `color.primary` → Output: CSS variable `--color-primary: #007AFF;`
 
-## 🔗 Ресурсы
+## Resources
 - [Style Dictionary](https://amzn.github.io/style-dictionary/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Токены сгенерированы для всех платформ
-2. Значения применяются корректно
-3. Темы (light/dark) переключаются
+## Validation
+1. Tokens generated for all platforms
+2. Values applied correctly
+3. Themes (light/dark) switch properly

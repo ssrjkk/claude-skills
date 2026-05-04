@@ -1,6 +1,6 @@
 ---
 name: performance-k6
-description: Проводит нагрузочное тестирование API и веб-приложений с k6. Используется для проверки производительности под нагрузкой.
+description: Conducts load testing of APIs and web applications with k6. Use for performance validation under load.
 category: qa
 tags: [performance, k6, load-testing, qa]
 models: [sonnet, opus]
@@ -9,9 +9,9 @@ created: 2026-04-29
 ---
 # Performance k6
 
-> Нагрузочное тестирование с k6 и анализом метрик производительности.
+> Load testing with k6 and performance metrics analysis.
 
-## 🚀 Quick Start
+## Quick Start
 ```javascript
 import http from 'k6/http';
 import { check, sleep } from 'k6';
@@ -23,32 +23,32 @@ export default function() {
 }
 ```
 
-## 📋 Когда использовать
-- ✅ Нагрузочное тестирование API
-- ✅ Проверка производительности под нагрузкой
-- ❌ Не использовать для функционального тестирования
+## When to Use
+- ✅ Load testing APIs
+- ✅ Performance validation under load
+- ❌ Not for functional testing
 
-## 🔧 Пошаговая инструкция
-1. Установи k6: `brew install k6`
-2. Напиши сценарий нагрузки
-3. Запусти: `k6 run script.js`
-4. Анализируй метрики в отчете
+## Step-by-Step Instructions
+1. Install k6: `brew install k6`
+2. Write load scenario
+3. Run: `k6 run script.js`
+4. Analyze metrics in report
 
-## 📦 Зависимости
+## Dependencies
 ```bash
 # Windows: https://k6.io/docs/getting-started/installation/
 # Mac: brew install k6
 # Linux: sudo apt-get install k6
 ```
 
-## 🧪 Примеры
-Input: `k6 run load-test.js` → Output: Метрики: avg response time, p95, error rate
+## Examples
+Input: `k6 run load-test.js` → Output: Metrics: avg response time, p95, error rate
 
-## 🔗 Ресурсы
+## Resources
 - [k6 Docs](https://k6.io/docs/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Тест запускается без ошибок
-2. Метрики собираются корректно
-3. Thresholds срабатывают при превышении лимитов
+## Validation
+1. Test runs without errors
+2. Metrics collected correctly
+3. Thresholds trigger when limits exceeded

@@ -1,6 +1,6 @@
 ---
 name: secrets-management
-description: Управляет секретами приложений с HashiCorp Vault или AWS Secrets Manager. Используется для безопасного хранения учетных данных.
+description: Manages application secrets with HashiCorp Vault or AWS Secrets Manager. Use for secure credential storage.
 category: security
 tags: [secrets, vault, security, credentials]
 models: [sonnet, opus]
@@ -9,29 +9,29 @@ created: 2026-04-29
 ---
 # Secrets Management
 
-> Безопасное хранение и ротация секретов приложений.
+> Secure storage and rotation of application secrets.
 
-## 🚀 Quick Start
+## Quick Start
 ```bash
-# Vault: запись секрета
+# Vault: write secret
 vault kv put secret/myapp api_key=12345
 
-# Vault: чтение секрета
+# Vault: read secret
 vault kv get secret/myapp
 ```
 
-## 📋 Когда использовать
-- ✅ Хранение API ключей, паролей БД
-- ✅ Ротация секретов
-- ❌ Не использовать для хранения пользовательских файлов
+## When to Use
+- ✅ Storing API keys, DB passwords
+- ✅ Secret rotation
+- ❌ Not for storing user files
 
-## 🔧 Пошаговая инструкция
-1. Разверни Vault или настрой AWS Secrets Manager
-2. Определи политики доступа
-3. Интегрируй чтение секретов в приложение
-4. Настрой ротацию
+## Step-by-Step Instructions
+1. Deploy Vault or setup AWS Secrets Manager
+2. Define access policies
+3. Integrate secret reading into application
+4. Setup rotation
 
-## 📦 Зависимости
+## Dependencies
 ```bash
 # Vault
 brew install vault
@@ -39,14 +39,14 @@ brew install vault
 pip install awscli
 ```
 
-## 🧪 Примеры
+## Examples
 Input: `vault kv get secret/myapp` → Output: `api_key=12345`
 
-## 🔗 Ресурсы
+## Resources
 - [Vault Docs](https://www.vaultproject.io/docs)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Секреты читаются приложением без ошибок
-2. Доступ ограничен политиками
-3. Ротация проходит без downtime
+## Validation
+1. Secrets read by application without errors
+2. Access restricted by policies
+3. Rotation happens without downtime

@@ -1,6 +1,6 @@
 ---
 name: laravel
-description: Создает веб-приложения на Laravel с Eloquent ORM и Blade шаблонами. Используется для PHP веб-разработки.
+description: Creates web applications on Laravel with Eloquent ORM and Blade templates. Use for PHP web development.
 category: backend
 tags: [laravel, php, eloquent, blade, mvc]
 models: [sonnet, opus]
@@ -9,7 +9,7 @@ created: 2026-05-01
 ---
 # Laravel
 
-> PHP framework для веб-приложений с элегантным синтаксисом.
+> PHP framework for web applications with elegant syntax.
 
 ## 🚀 Quick Start
 ```php
@@ -25,30 +25,31 @@ class User extends Model
 }
 ```
 
-## 📋 Когда использовать
-- ✅ Веб-приложения на PHP
-- ✅ Нужна встроенная аутентификация и Blade шаблоны
-- ❌ Не использовать для микросервисов без рендеринга
+## 📋 When to Use
+- ✅ Web applications on PHP
+- ✅ Need built-in authentication and Blade templates
+- ❌ Not for microservices without rendering
 
-## 🔧 Пошаговая инструкция
-1. Установи Laravel: `composer create-project laravel/laravel myproject`
-2. Настрой .env с параметрами БД
-3. Создай модели и миграции
-4. Запусти: `php artisan serve`
+## 🔧 Step-by-Step Instructions
+1. Install Laravel: `composer create-project laravel/laravel myproject`
+2. Configure .env with DB parameters
+3. Create models and migrations
+4. Run: `php artisan serve`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 composer create-project laravel/laravel myproject
 ```
 
-## 🧪 Примеры
-Input: `GET /users` → Output: JSON массив пользователей
+## 🧪 Examples
+Input: `GET /users` 
+Output: JSON array of users
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Laravel Docs](https://laravel.com/docs)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Приложение запускается без ошибок
-2. Eloquent модели работают корректно
-3. Blade шаблоны рендерятся
+## ✅ Validation
+1. Application starts without errors
+2. Eloquent models work correctly
+3. Blade templates render properly

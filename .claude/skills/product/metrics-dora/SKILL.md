@@ -1,6 +1,6 @@
 ---
 name: metrics-dora
-description: Рассчитывает DORA метрики (Deployment Frequency, Lead Time, MTTR, CFR) для команд. Используется для оценки эффективности DevOps.
+description: Calculates DORA metrics (Deployment Frequency, Lead Time, MTTR, CFR) for teams. Use for evaluating DevOps effectiveness.
 category: product
 tags: [dora, metrics, devops, performance]
 models: [sonnet, opus]
@@ -9,11 +9,11 @@ created: 2026-04-29
 ---
 # Metrics DORA
 
-> Расчет и анализ DORA метрик для оценки производительности команды.
+> Calculate and analyze DORA metrics for team performance evaluation.
 
-## 🚀 Quick Start
+## Quick Start
 ```python
-# Расчет DORA метрик
+# Calculate DORA metrics
 deployments_per_day = 5
 lead_time_hours = 24
 mttr_hours = 2
@@ -25,30 +25,30 @@ print(f"MTTR: {mttr_hours}h")
 print(f"CFR: {change_failure_rate*100}%")
 ```
 
-## 📋 Когда использовать
-- ✅ Оценка DevOps зрелости
-- ✅ Трекинг улучшений команды
-- ❌ Не использовать для оценки отдельных разработчиков
+## When to Use
+- ✅ Evaluate DevOps maturity
+- ✅ Track team improvements
+- ❌ Not for evaluating individual developers
 
-## 🔧 Пошаговая инструкция
-1. Собери данные из CI/CD и incident management
-2. Рассчитай 4 DORA метрики
-3. Сравни с индустриальными бенчмарками
-4. Создай план улучшений
+## Step-by-Step Instructions
+1. Collect data from CI/CD and incident management
+2. Calculate 4 DORA metrics
+3. Compare with industry benchmarks
+4. Create improvement plan
 
-## 📦 Зависимости
+## Dependencies
 ```bash
 pip install pandas matplotlib
 ```
 
-## 🧪 Примеры
-Input: Данные за квартал → Output: "Elite" уровень по DORA
+## Examples
+Input: Quarterly data → Output: "Elite" level on DORA
 
-## 🔗 Ресурсы
+## Resources
 - [DORA Research](https://cloud.google.com/devops/state-of-devops/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Метрики рассчитаны корректно
-2. Данные собраны из надежных источников
-3. Сравнение с бенчмарками проведено
+## Validation
+1. Metrics calculated correctly
+2. Data collected from reliable sources
+3. Comparison with benchmarks done

@@ -1,6 +1,6 @@
 ---
 name: nodejs-express
-description: Генерирует boilerplate для Express.js приложений с TypeScript и middleware. Используется при создании Node.js API или веб-сервисов.
+description: Generates boilerplate for Express.js applications with TypeScript and middleware. Use for building Node.js APIs or web services.
 category: backend
 tags: [nodejs, express, typescript, javascript, rest]
 models: [haiku, sonnet]
@@ -9,7 +9,7 @@ created: 2026-04-29
 ---
 # Node.js Express
 
-> Минималистичный веб-фреймворк для Node.js с поддержкой TypeScript.
+> Minimalist web framework for Node.js with TypeScript support.
 
 ## 🚀 Quick Start
 ```typescript
@@ -25,31 +25,31 @@ app.get('/api/users', (req: Request, res: Response) => {
 app.listen(3000, () => console.log('Server running on port 3000'));
 ```
 
-## 📋 Когда использовать
-- ✅ Создание REST API на Node.js
-- ✅ Нужна простая и гибкая настройка middleware
-- ❌ Не использовать для сложных GraphQL серверов (лучше Apollo)
+## 📋 When to Use
+- ✅ Building REST APIs on Node.js
+- ✅ Need simple and flexible middleware setup
+- ❌ Not for complex GraphQL servers (use Apollo)
 
-## 🔧 Пошаговая инструкция
-1. Инициализируй проект: `npm init -y`
-2. Установи зависимости: `npm install express typescript @types/node`
-3. Создай `tsconfig.json` и файл сервера
-4. Запусти: `npx tsc && node dist/server.js`
+## 🔧 Step-by-Step Instructions
+1. Initialize: `npm init -y`
+2. Install: `npm install express typescript @types/node`
+3. Create `tsconfig.json` and server file
+4. Run: `npx tsc && node dist/server.js`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 npm install express typescript @types/express @types/node ts-node
 ```
 
-## 🧪 Примеры
+## 🧪 Examples
 Input: `GET /api/users`
 Output: `[{"id": 1, "name": "John"}]`
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Express.js Documentation](https://expressjs.com)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Сервер запускается без ошибок компиляции TypeScript
-2. Эндпоинты отвечают корректно
-3. JSON парсинг работает правильно
+## ✅ Validation
+1. Server starts without compilation errors
+2. Endpoints respond correctly
+3. JSON parsing works properly

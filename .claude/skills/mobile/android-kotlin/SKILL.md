@@ -1,6 +1,6 @@
 ---
 name: android-kotlin
-description: Генерирует Android приложения с использованием Kotlin и Jetpack Compose. Используется для современной нативной разработки под Android.
+description: Generates Android applications using Kotlin and Jetpack Compose. Use for modern native Android development.
 category: mobile
 tags: [android, kotlin, jetpack-compose, mobile]
 models: [opus]
@@ -9,7 +9,7 @@ created: 2026-04-29
 ---
 # Android Kotlin
 
-> Современная разработка Android приложений с Kotlin и Jetpack Compose.
+> Modern Android development with Kotlin and Jetpack Compose.
 
 ## 🚀 Quick Start
 ```kotlin
@@ -25,28 +25,28 @@ fun Greeting(name: String) {
 }
 ```
 
-## 📋 Когда использовать
-- ✅ Нативная Android разработка
-- ✅ Нужен современный UI с Jetpack Compose
-- ❌ Не использовать для iOS или кроссплатформенных проектов
+## 📋 When to Use
+- ✅ Native Android development
+- ✅ Modern UI with Jetpack Compose
+- ❌ Not for iOS or cross-platform
 
-## 🔧 Пошаговая инструкция
-1. Открой Android Studio и создай новый проект с Compose
-2. Определи Composable функции
-3. Добавь состояние через `remember` и `mutableStateOf`
-4. Запусти на эмуляторе или устройстве
+## 🔧 Step-by-Step Instructions
+1. Install Android Studio and create new Compose project
+2. Define Composable functions
+3. Add state with `remember` and `mutableStateOf`
+4. Run on emulator or device
 
-## 📦 Зависимости
-Установи Android Studio
+## 📦 Dependencies
+Install Android Studio
 
-## 🧪 Примеры
-Input: Вызов `Greeting("Android")` → отображается "Hello Android!"
+## 🧪 Examples
+Input: `Greeting("Android")` → Output: "Hello Android!" displayed
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Android Developers](https://developer.android.com/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Приложение собирается в Android Studio
-2. Compose Preview отображает UI
-3. Состояние обновляется корректно
+## ✅ Validation
+1. Project compiles in Android Studio
+2. Compose Preview shows UI
+3. State updates correctly

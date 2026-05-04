@@ -1,6 +1,6 @@
 ---
 name: selenium-grid
-description: Настраивает Selenium Grid для распределенного тестирования веб-приложений. Используется для параллельного запуска тестов.
+description: Sets up Selenium Grid for distributed web application testing. Use for parallel test execution.
 category: qa
 tags: [selenium, grid, testing, parallel, webdriver]
 models: [sonnet, opus]
@@ -9,50 +9,53 @@ created: 2026-05-01
 ---
 # Selenium Grid
 
-> Параллельное выполнение тестов с Selenium Grid.
+> Parallel test execution with Selenium Grid.
 
-## 🚀 Quick Start
+## Quick Start
 ```bash
-# Запуск Selenium Grid
-java -jar selenium-server.jar hub
+# Start Selenium Grid
+docker run -d -p 4444:4444 --name selenium-hub selenium/hub:4
 
-# Регистрация ноды
-java -jar selenium-server.jar node --hub http://localhost:4444
+# Register Chrome node
+docker run -d --link selenium-hub:hub selenium/node-chrome:4
 ```
 
 ```python
 from selenium import webdriver
-from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+from selenium.webdriver.chrome.options import Options
 
-caps = DesiredCapabilities.CHROME.copy()
-driver = webdriver.Remote(command_executor='http://localhost:4444/wd/hub', desired_capabilities=caps)
+options = Options()
+driver = webdriver.Remote(
+    command_executor='http://localhost:4444/wd/hub',
+    options=options
+)
 ```
 
-## 📋 Когда использовать
-- ✅ Параллельное выполнение тестов
-- ✅ Кросс-браузерное тестирование
-- ❌ Не использовать для простых E2E тестов (лучше Playwright)
+## When to Use
+- ✅ Parallel test execution
+- ✅ Cross-browser testing
+- ❌ Not for simple E2E tests (better use Playwright)
 
-## 🔧 Пошаговая инструкция
-1. Скачай Selenium Server
-2. Запусти Hub и ноды
-3. Настрой тесты для Remote WebDriver
-4. Запусти тесты параллельно
+## Step-by-Step Instructions
+1. Download Selenium Server
+2. Start Hub and nodes
+3. Configure tests for Remote WebDriver
+4. Run tests in parallel
 
-## 📦 Зависимости
+## Dependencies
 ```bash
 pip install selenium
-# Скачать selenium-server.jar
+# Download selenium-server.jar or use Docker
 ```
 
-## 🧪 Примеры
-Input: Запуск 10 тестов → Output: Выполняются параллельно на нодах
+## Examples
+Input: Running 10 tests → Output: Executed in parallel on nodes
 
-## 🔗 Ресурсы
+## Resources
 - [Selenium Grid Docs](https://www.selenium.dev/documentation/grid/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Grid доступен по HTTP
-2. Ноды регистрируются успешно
-3. Тесты выполняются параллельно
+## Validation
+1. Grid accessible via HTTP
+2. Nodes register successfully
+3. Tests execute in parallel

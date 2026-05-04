@@ -1,6 +1,6 @@
 ---
 name: flutter-clean-arch
-description: Создает Flutter приложения с Clean Architecture и разделением на слои. Используется для масштабируемых мобильных приложений.
+description: Creates Flutter applications with Clean Architecture and layer separation. Use for scalable mobile applications.
 category: mobile
 tags: [flutter, clean-arch, mobile, dart]
 models: [opus]
@@ -9,7 +9,7 @@ created: 2026-04-29
 ---
 # Flutter Clean Architecture
 
-> Структура Flutter приложения с соблюдением принципов Clean Architecture.
+> Flutter apps with Clean Architecture separation of concerns.
 
 ## 🚀 Quick Start
 ```dart
@@ -29,30 +29,30 @@ class UserPage extends StatelessWidget {
 }
 ```
 
-## 📋 Когда использовать
-- ✅ Масштабируемые Flutter приложения
-- ✅ Нужно четкое разделение слоев (domain, data, presentation)
-- ❌ Не использовать для простых прототипов или демо
+## 📋 When to Use
+- ✅ Scalable Flutter applications
+- ✅ Need clear layer separation (domain, data, presentation)
+- ❌ Not for simple prototypes
 
-## 🔧 Пошаговая инструкция
-1. Создай Flutter проект: `flutter create my_app`
-2. Организуй папки: `domain/`, `data/`, `presentation/`
-3. Определи сущности и use cases
-4. Запусти: `flutter run`
+## 🔧 Step-by-Step Instructions
+1. Create Flutter project: `flutter create my_app`
+2. Organize folders: `domain/`, `data/`, `presentation/`
+3. Define entities and use cases
+4. Run: `flutter run`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 flutter create my_app
 ```
 
-## 🧪 Примеры
-Input: Навигация на UserPage → отображается страница пользователя
+## 🧪 Examples
+Input: Navigation to UserPage → Output: User page displayed
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Flutter Docs](https://flutter.dev/docs)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Проект собирается без ошибок
-2. Слои изолированы корректно
-3. Навигация работает между страницами
+## ✅ Validation
+1. Project compiles without errors
+2. Layers properly isolated
+3. Navigation works between pages

@@ -1,6 +1,6 @@
 ---
 name: agent-design
-description: Проектирует LLM-агентов с памятью, инструментами и циклом reasoning. Используется для создания автономных AI-ассистентов.
+description: Designs LLM agents with memory, tools, and reasoning cycle. Use for creating autonomous AI assistants.
 category: ai
 tags: [agent, llm, tools, memory, reasoning]
 models: [opus]
@@ -9,50 +9,58 @@ created: 2026-04-29
 ---
 # Agent Design
 
-> Проектирование LLM-агентов с памятью и инструментами.
+> Design LLM agents with memory and tools.
 
-## 🚀 Quick Start
+## Quick Start
 ```python
-from langchain.agents import initialize_agent, Tool
-from langchain.llms import OpenAI
+from langchain_openai import ChatOpenAI
+from langchain.agents import create_tool_calling_agent, AgentExecutor
+from langchain_core.tools import tool
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 
-tools = [
-    Tool(name="Search", func=search_func, description="Поиск в web"),
-]
+@tool
+def search(query: str) -> str:
+    """Search the web for information."""
+    return f"Results for: {query}"
 
-agent = initialize_agent(
-    tools, 
-    OpenAI(temperature=0), 
-    agent="zero-shot-react-description",
-    verbose=True
-)
-agent.run("Найди информацию о Python")
+tools = [search]
+
+prompt = ChatPromptTemplate.from_messages([
+    ("system", "You are a helpful assistant."),
+    ("human", "{input}"),
+    MessagesPlaceholder("agent_scratchpad"),
+])
+
+llm = ChatOpenAI(model="gpt-4o", temperature=0)
+agent = create_tool_calling_agent(llm, tools, prompt)
+executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
+executor.invoke({"input": "Find information about Python"})
 ```
 
-## 📋 Когда использовать
-- ✅ Автономные AI-ассистенты
-- ✅ Нужен reasoning и использование инструментов
-- ❌ Не использовать для простых Q&A задач
+## When to Use
+- ✅ Autonomous AI assistants
+- ✅ Need reasoning and tool usage
+- ❌ Not for simple Q&A tasks
 
-## 🔧 Пошаговая инструкция
-1. Определи инструменты (search, calculator, API)
-2. Настрой системный промпт с ролью агента
-3. Добавь память (buffer, summary)
-4. Тестируй цикл reasoning
+## Step-by-Step Instructions
+1. Define tools (search, calculator, API)
+2. Setup system prompt with agent role
+3. Add memory (buffer, summary)
+4. Test reasoning cycle
 
-## 📦 Зависимости
+## Dependencies
 ```bash
-pip install langchain openai
+pip install langchain langchain-openai langchain-core
 ```
 
-## 🧪 Примеры
-Input: "Какая погода в Москве?" → Output: Агент вызывает weather API, возвращает ответ
+## Examples
+Input: "What's the weather in Moscow?" → Output: Agent calls weather API, returns answer
 
-## 🔗 Ресурсы
+## Resources
 - [LangChain Agents](https://python.langchain.com/docs/modules/agents/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Агент выбирает правильные инструменты
-2. Память сохраняет контекст диалога
-3. Reasoning цепочка логична и завершена
+## Validation
+1. Agent selects correct tools
+2. Memory preserves dialogue context
+3. Reasoning chain is logical and complete

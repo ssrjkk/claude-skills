@@ -1,6 +1,6 @@
 ---
 name: react-typescript
-description: Создает компоненты React с TypeScript, типизацией props и хуками. Используется для разработки типобезопасного UI.
+description: Creates React components with TypeScript, props typing, and hooks. Use for type-safe UI development.
 category: frontend
 tags: [react, typescript, frontend, components, hooks]
 models: [sonnet, opus]
@@ -9,7 +9,7 @@ created: 2026-04-29
 ---
 # React TypeScript
 
-> Типобезопасные React компоненты с полной поддержкой TypeScript.
+> Type-safe React components with full TypeScript support.
 
 ## 🚀 Quick Start
 ```typescript
@@ -31,31 +31,31 @@ export const UserCard: React.FC<UserCardProps> = ({ name, email, onSelect }) => 
 };
 ```
 
-## 📋 Когда использовать
-- ✅ Новые React проекты с TypeScript
-- ✅ Нужна строгая типизация props и состояния
-- ❌ Не использовать для простых HTML страниц без интерактивности
+## 📋 When to Use
+- ✅ New React projects with TypeScript
+- ✅ Need strict props and state typing
+- ❌ Not for simple HTML pages without interactivity
 
-## 🔧 Пошаговая инструкция
-1. Создай проект: `npx create-react-app my-app --template typescript`
-2. Определи интерфейсы для props
-3. Создай компоненты с типизацией
-4. Запусти: `npm start`
+## 🔧 Step-by-Step Instructions
+1. Create project: `npx create-react-app my-app --template typescript`
+2. Define interfaces for props
+3. Create components with typing
+4. Run: `npm start`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 npx create-react-app my-app --template typescript
 ```
 
-## 🧪 Примеры
+## 🧪 Examples
 Input: `<UserCard name="John" email="john@test.com" onSelect={console.log} />`
-Output: Отрисованная карточка пользователя с обработчиком клика
+Output: Rendered user card with click handler
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [React TypeScript Docs](https://react-typescript-cheatsheet.netlify.app/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Проект компилируется без ошибок TypeScript
-2. Props валидируются корректно
-3. IntelliSense предлагает правильные типы
+## ✅ Validation
+1. Project compiles without TypeScript errors
+2. Props validated correctly
+3. IntelliSense provides correct types

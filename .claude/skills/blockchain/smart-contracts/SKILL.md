@@ -1,6 +1,6 @@
 ---
 name: smart-contracts
-description: Создает, тестирует и деплоит смарт-контракты с использованием Hardhat или Foundry. Используется для полного цикла разработки на блокчейне.
+description: Creates, tests, and deploys smart contracts using Hardhat or Foundry. Use for full blockchain development lifecycle.
 category: block
 tags: [smart-contracts, solidity, hardhat, foundry, testing]
 models: [opus]
@@ -9,49 +9,49 @@ created: 2026-05-01
 ---
 # Smart Contracts
 
-> Полный цикл разработки смарт-контрактов: от написания до деплоя.
+> Full smart contract development lifecycle: from coding to deployment.
 
-## 🚀 Quick Start
+## Quick Start
 ```javascript
 // hardhat.config.js
 require("@nomicfoundation/hardhat-toolbox");
 
 module.exports = {
-  solidity: "0.8.20",
+  solidity: "0.8.28",
   networks: {
-    goerli: {
-      url: process.env.GOERLI_URL,
+    sepolia: {
+      url: process.env.SEPOLIA_URL,
       accounts: [process.env.PRIVATE_KEY]
     }
   }
 };
 ```
 
-## 📋 Когда использовать
-- ✅ Разработка DApps на Ethereum
-- ✅ Тестирование смарт-контрактов
-- ❌ Не использовать для обычных веб-приложений
+## When to Use
+- ✅ Building DApps on Ethereum
+- ✅ Testing smart contracts
+- ❌ Not for regular web applications
 
-## 🔧 Пошаговая инструкция
-1. Инициализируй проект: `npx hardhat init`
-2. Напиши контракты в `contracts/`
-3. Создай тесты в `test/`
-4. Деплой: `npx hardhat run scripts/deploy.js --network goerli`
+## Step-by-Step Instructions
+1. Initialize project: `npx hardhat init`
+2. Write contracts in `contracts/`
+3. Create tests in `test/`
+4. Deploy: `npx hardhat run scripts/deploy.js --network sepolia`
 
-## 📦 Зависимости
+## Dependencies
 ```bash
 npm install --save-dev hardhat @nomicfoundation/hardhat-toolbox
 ```
 
-## 🧪 Примеры
-Input: `npx hardhat test` → Output: Все тесты проходят успешно
+## Examples
+Input: `npx hardhat test` → Output: All tests pass successfully
 
-## 🔗 Ресурсы
+## Resources
 - [Hardhat Docs](https://hardhat.org/docs)
 - [Foundry Book](https://book.getfoundry.sh/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Все тесты проходят
-2. Контракты деплоятся без ошибок
-3. Верификация на Etherscan проходит
+## Validation
+1. All tests pass
+2. Contracts deploy without errors
+3. Verification on Etherscan succeeds

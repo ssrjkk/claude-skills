@@ -1,6 +1,6 @@
 ---
 name: unity
-description: Разрабатывает игры на Unity с использованием C# скриптов и компонентной архитектуры. Используется для 2D/3D игр под множество платформ.
+description: Develops games on Unity using C# scripts and component architecture. Use for 2D/3D games across multiple platforms.
 category: gamedev
 tags: [unity, csharp, game-dev, 2d, 3d]
 models: [opus]
@@ -9,9 +9,9 @@ created: 2026-05-01
 ---
 # Unity
 
-> Кроссплатформенная разработка игр на Unity с C#.
+> Cross-platform game development with Unity and C#.
 
-## 🚀 Quick Start
+## Quick Start
 ```csharp
 using UnityEngine;
 
@@ -27,28 +27,28 @@ public class PlayerController : MonoBehaviour
 }
 ```
 
-## 📋 Когда использовать
-- ✅ Разработка 2D/3D игр
-- ✅ Кроссплатформенный деплой (PC, Mobile, Console)
-- ❌ Не использовать для простых приложений без графики
+## When to Use
+- ✅ Developing 2D/3D games
+- ✅ Cross-platform deploy (PC, Mobile, Console)
+- ❌ Not for non-graphics applications
 
-## 🔧 Пошаговая инструкция
-1. Установи Unity Hub и выбери версию Unity
-2. Создай проект (2D/3D Template)
-3. Напиши C# скрипты в папке `Assets/Scripts/`
-4. Тестируй в Play Mode
+## Step-by-Step Instructions
+1. Install Unity Hub and select Unity version
+2. Create project (2D/3D Template)
+3. Write C# scripts in `Assets/Scripts/`
+4. Test in Play Mode
 
-## 📦 Зависимости
-Установи Unity Hub с https://unity.com/download
+## Dependencies
+Install Unity Hub from https://unity.com/download
 
-## 🧪 Примеры
-Input: Нажатие клавиши W → Output: Персонаж движется вперед
+## Examples
+Input: Press W key → Output: Character moves forward
 
-## 🔗 Ресурсы
+## Resources
 - [Unity Docs](https://docs.unity3d.com/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Сцена запускается без ошибок
-2. Скрипты компилируются успешно
-3. Игровые механики работают корректно
+## Validation
+1. Scene starts without errors
+2. Scripts compile successfully
+3. Game mechanics work correctly

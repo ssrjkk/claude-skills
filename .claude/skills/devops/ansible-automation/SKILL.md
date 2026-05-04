@@ -1,6 +1,6 @@
 ---
 name: ansible-automation
-description: Автоматизирует настройку серверов и деплой с использованием Ansible playbooks. Используется для конфигурации инфраструктуры как кода.
+description: Automates server configuration and deployment using Ansible playbooks. Use for configuration management.
 category: devops
 tags: [ansible, automation, configuration-management, devops]
 models: [sonnet, opus]
@@ -9,7 +9,7 @@ created: 2026-04-29
 ---
 # Ansible Automation
 
-> Управление конфигурацией серверов через декларативные playbooks.
+> Declarative configuration management for servers.
 
 ## 🚀 Quick Start
 ```yaml
@@ -30,31 +30,31 @@ created: 2026-04-29
         state: started
 ```
 
-## 📋 Когда использовать
-- ✅ Настройка множества серверов
-- ✅ Деплой приложений на bare-metal или VPS
-- ❌ Не использовать для одного локального компьютера
+## 📋 When to Use
+- ✅ Configuring multiple servers
+- ✅ Deploying applications to bare-metal or VPS
+- ❌ Not for single local computer
 
-## 🔧 Пошаговая инструкция
-1. Установи Ansible: `pip install ansible`
-2. Создай inventory файл с хостами
-3. Напиши playbook.yml с задачами
-4. Запусти: `ansible-playbook -i inventory playbook.yml`
+## 🔧 Step-by-Step Instructions
+1. Install Ansible: `pip install ansible`
+2. Create inventory file with hosts
+3. Write playbook.yml with tasks
+4. Run: `ansible-playbook -i inventory playbook.yml`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 pip install ansible
 ```
 
-## 🧪 Примеры
+## 🧪 Examples
 Input: `ansible-playbook -i hosts site.yml`
-Output: Nginx установлен и запущен на всех серверах из группы webservers
+Output: Nginx installed and started on all webservers
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Ansible Docs](https://docs.ansible.com/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Playbook выполняется без ошибок
-2. Сервисы запущены на целевых хостах
-3. Idempotency соблюдена (повторный запуск не меняет состояние)
+## ✅ Validation
+1. Playbook runs without errors
+2. Services running on target hosts
+3. Idempotency maintained (re-run doesn't change state)

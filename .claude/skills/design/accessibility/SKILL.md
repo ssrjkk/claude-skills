@@ -1,6 +1,6 @@
 ---
 name: accessibility
-description: Проверяет и улучшает доступность веб-приложений по стандартам WCAG. Используется для создания инклюзивного дизайна.
+description: Checks and improves web application accessibility per WCAG standards. Use for creating inclusive design.
 category: design
 tags: [accessibility, wcag, a11y, inclusive-design]
 models: [sonnet, opus]
@@ -9,43 +9,43 @@ created: 2026-05-01
 ---
 # Accessibility (A11y)
 
-> Обеспечение доступности веб-приложений по стандартам WCAG.
+> Ensure web application accessibility per WCAG standards.
 
-## 🚀 Quick Start
+## Quick Start
 ```html
-<!-- Правильно -->
-<button aria-label="Закрыть" onclick="closeModal()">
+<!-- Correct -->
+<button aria-label="Close" onclick="closeModal()">
   <span aria-hidden="true">×</span>
 </button>
 
-<!-- Для скринридеров -->
-<img src="chart.png" alt="График продаж за 2024 год">
+<!-- For screen readers -->
+<img src="chart.png" alt="Sales chart for 2024">
 ```
 
-## 📋 Когда использовать
-- ✅ Веб-приложения с широкой аудиторией
-- ✅ Compliance с законодательством (ADA, Section 508)
-- ❌ Не использовать для внутренних админок без пользователей с ОВЗ
+## When to Use
+- ✅ Web applications with broad audience
+- ✅ Compliance with legislation (ADA, Section 508)
+- ❌ Not for internal admin panels without users with disabilities
 
-## 🔧 Пошаговая инструкция
-1. Проведи аудит с axe DevTools
-2. Добавь ARIA атрибуты где нужно
-3. Обеспечь навигацию с клавиатуры
-4. Проверь контрастность цветов
+## Step-by-Step Instructions
+1. Conduct audit with axe DevTools
+2. Add ARIA attributes where needed
+3. Ensure keyboard navigation
+4. Check color contrast
 
-## 📦 Зависимости
+## Dependencies
 ```bash
 npm install @axe-core/cli pa11y
 ```
 
-## 🧪 Примеры
-Input: Проверка формы → Output: 3 ошибки контрастности исправлены
+## Examples
+Input: Form check → Output: 3 contrast errors fixed
 
-## 🔗 Ресурсы
+## Resources
 - [WCAG Guidelines](https://www.w3.org/WAI/WCAG21/quickref/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Сканеры не находят критических нарушений
-2. Навигация с клавиатуры работает
-3. Скринридеры корректно читают контент
+## Validation
+1. Scanners find no critical violations
+2. Keyboard navigation works
+3. Screen readers read content correctly

@@ -1,6 +1,6 @@
 ---
 name: web3js
-description: Интегрирует Web3.js для взаимодействия с Ethereum блокчейном из JavaScript/TypeScript. Используется для создания фронтенда DApps.
+description: Integrates Web3.js for interacting with Ethereum blockchain from JavaScript/TypeScript. Use for DApp frontend development.
 category: block
 tags: [web3, ethereum, dapp, javascript, typescript]
 models: [sonnet, opus]
@@ -9,43 +9,43 @@ created: 2026-05-01
 ---
 # Web3.js
 
-> Взаимодействие с Ethereum блокчейном из JavaScript приложений.
+> Interact with the Ethereum blockchain from JavaScript applications.
 
-## 🚀 Quick Start
+## Quick Start
 ```javascript
 import Web3 from 'web3';
 
 const web3 = new Web3('https://mainnet.infura.io/v3/YOUR_INFURA_KEY');
 
-// Получение баланса
+// Get balance
 const balance = await web3.eth.getBalance('0x...');
 console.log(web3.utils.fromWei(balance, 'ether'));
 ```
 
-## 📋 Когда использовать
-- ✅ Создание фронтенда для DApps
-- ✅ Чтение данных из смарт-контрактов
-- ❌ Не использовать для бэкенда на Python
+## When to Use
+- ✅ Building DApp frontends
+- ✅ Reading data from smart contracts
+- ❌ Not for Python backends
 
-## 🔧 Пошаговая инструкция
-1. Установи: `npm install web3`
-2. Создай инстанс Web3 с провайдером
-3. Взаимодействуй с контрактами через ABI
-4. Подпиши транзакции через кошелек
+## Step-by-Step Instructions
+1. Install: `npm install web3`
+2. Create Web3 instance with provider
+3. Interact with contracts via ABI
+4. Sign transactions via wallet
 
-## 📦 Зависимости
+## Dependencies
 ```bash
 npm install web3
 ```
 
-## 🧪 Примеры
-Input: `getBalance(address)` → Output: Баланс в Wei, конвертируемый в ETH
+## Examples
+Input: `getBalance(address)` → Output: Balance in Wei, convertible to ETH
 
-## 🔗 Ресурсы
+## Resources
 - [Web3.js Docs](https://web3js.readthedocs.io/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Подключение к ноде устанавливается
-2. Чтение данных работает корректно
-3. Транзакции подписываются и отправляются
+## Validation
+1. Connection to node established
+2. Reading data works correctly
+3. Transactions are signed and sent

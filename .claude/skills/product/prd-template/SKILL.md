@@ -1,6 +1,6 @@
 ---
 name: prd-template
-description: Генерирует структурированные PRD (Product Requirements Document) с целями, функциями и критериями успеха. Используется для документирования требований.
+description: Generates structured PRD (Product Requirements Document) with goals, features, and success criteria. Use for documenting requirements.
 category: product
 tags: [prd, product, requirements, documentation]
 models: [sonnet, opus]
@@ -9,18 +9,18 @@ created: 2026-04-29
 ---
 # PRD Template
 
-> Шаблон Product Requirements Document для структурирования требований.
+> Product Requirements Document template for structuring requirements.
 
-## 🚀 Quick Start
+## Quick Start
 ```markdown
 # PRD: [Feature Name]
 
 ## Problem Statement
-[Описание проблемы]
+[Description of the problem]
 
 ## Goals
-- Цель 1
-- Цель 2
+- Goal 1
+- Goal 2
 
 ## Features
 ### F1: [Feature Name]
@@ -29,30 +29,30 @@ created: 2026-04-29
 - Metrics: ...
 ```
 
-## 📋 Когда использовать
-- ✅ Документирование новых фич
-- ✅ Согласование требований с командой
-- ❌ Не использовать для технического дизайна (лучше TDD)
+## When to Use
+- ✅ Documenting new features
+- ✅ Aligning requirements with team
+- ❌ Not for technical design (better use TDD)
 
-## 🔧 Пошаговая инструкция
-1. Опиши проблему и контекст
-2. Сформулируй цели и успех
-3. Детализируй функции с приоритетами
-4. Добавь метрики и критерии готовности
+## Step-by-Step Instructions
+1. Describe problem and context
+2. Formulate goals and success criteria
+3. Detail features with priorities
+4. Add metrics and readiness criteria
 
-## 📦 Зависимости
+## Dependencies
 ```bash
-# Шаблон в Markdown
+# Template in Markdown
 ```
 
-## 🧪 Примеры
-Input: "Создать PRD для корзины" → Output: Готовый PRD документ
+## Examples
+Input: "Create PRD for shopping cart" → Output: Complete PRD document
 
-## 🔗 Ресурсы
+## Resources
 - [PRD Guide](https://www.productplan.com/glossary/product-requirements-document/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Документ содержит все обязательные секции
-2. Цели измеримы и достижимы
-3. Функции приоритизированы
+## Validation
+1. Document contains all required sections
+2. Goals are measurable and achievable
+3. Features are prioritized

@@ -1,6 +1,6 @@
 ---
 name: embedding-chunking
-description: Разбивает документы на чанки и создает embeddings для семантического поиска. Используется в RAG пайплайнах.
+description: Splits documents into chunks and creates embeddings for semantic search. Use in RAG pipelines.
 category: ai
 tags: [embeddings, chunking, rag, semantic-search]
 models: [sonnet, opus]
@@ -9,44 +9,44 @@ created: 2026-04-29
 ---
 # Embedding & Chunking
 
-> Оптимальное разбиение текста и создание векторных представлений.
+> Optimal text splitting and vector representation creation.
 
-## 🚀 Quick Start
+## Quick Start
 ```python
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.embeddings import OpenAIEmbeddings
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_openai import OpenAIEmbeddings
 
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
 chunks = text_splitter.split_text(long_document)
 
-embeddings = OpenAIEmbeddings()
+embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
 vectors = [embeddings.embed_query(chunk) for chunk in chunks]
 ```
 
-## 📋 Когда использовать
-- ✅ Подготовка документов для RAG
-- ✅ Семантический поиск по тексту
-- ❌ Не использовать для коротких запросов
+## When to Use
+- ✅ Preparing documents for RAG
+- ✅ Semantic search over text
+- ❌ Not for short queries
 
-## 🔧 Пошаговая инструкция
-1. Выберите стратегию чанкинга (fixed, semantic, recursive)
-2. Настройте размер и перекрытие чанков
-3. Сгенерируйте embeddings через API
-4. Сохраните в векторную БД
+## Step-by-Step Instructions
+1. Choose chunking strategy (fixed, semantic, recursive)
+2. Configure chunk size and overlap
+3. Generate embeddings via API
+4. Store in vector database
 
-## 📦 Зависимости
+## Dependencies
 ```bash
-pip install langchain openai tiktoken
+pip install langchain-text-splitters langchain-openai tiktoken
 ```
 
-## 🧪 Примеры
-Input: Документ 10000 символов → Output: 20 чанков по 500 символов с embeddings
+## Examples
+Input: 10000 character document → Output: 20 chunks of 500 chars with embeddings
 
-## 🔗 Ресурсы
+## Resources
 - [OpenAI Embeddings](https://platform.openai.com/docs/guides/embeddings)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Чанки не теряют контекста на границах
-2. Embeddings имеют ожидаемую размерность
-3. Поиск возвращает релевантные чанки
+## Validation
+1. Chunks don't lose context at boundaries
+2. Embeddings have expected dimensionality
+3. Search returns relevant chunks

@@ -1,6 +1,6 @@
 ---
 name: mqtt
-description: Настраивает MQTT брокеры и клиенты для обмена сообщениями в IoT системах. Используется для легковесного messaging в IoT.
+description: Sets up MQTT brokers and clients for messaging in IoT systems. Use for lightweight messaging in IoT.
 category: iot
 tags: [mqtt, iot, messaging, broker, mosquitto]
 models: [sonnet, opus]
@@ -9,45 +9,45 @@ created: 2026-05-01
 ---
 # MQTT
 
-> Легковесный протокол messaging для IoT систем.
+> Lightweight messaging protocol for IoT systems.
 
-## 🚀 Quick Start
+## Quick Start
 ```bash
-# Установка Mosquitto брокера
+# Install Mosquitto broker
 sudo apt-get install mosquitto mosquitto-clients
 
-# Подписка на топик
+# Subscribe to topic
 mosquitto_sub -h localhost -t "sensors/temperature"
 
-# Публикация сообщения
+# Publish message
 mosquitto_pub -h localhost -t "sensors/temperature" -m "23.5"
 ```
 
-## 📋 Когда использовать
-- ✅ IoT устройства с ограниченными ресурсами
-- ✅ Pub/Sub паттерн для обмена данными
-- ❌ Не использовать для больших файлов или сложных RPC
+## When to Use
+- ✅ IoT devices with limited resources
+- ✅ Pub/Sub pattern for data exchange
+- ❌ Not for large files or complex RPC
 
-## 🔧 Пошаговая инструкция
-1. Установи MQTT брокер (Mosquitto)
-2. Настрой конфигурацию брокера
-3. Подключай клиентов к брокеру
-4. Публикуй и подписывайся на топики
+## Step-by-Step Instructions
+1. Install MQTT broker (Mosquitto)
+2. Configure broker settings
+3. Connect clients to broker
+4. Publish and subscribe to topics
 
-## 📦 Зависимости
+## Dependencies
 ```bash
 sudo apt-get install mosquitto mosquitto-clients
-# или для Python: pip install paho-mqtt
+# or for Python: pip install paho-mqtt
 ```
 
-## 🧪 Примеры
-Input: `mosquitto_pub -t "test" -m "hello"` → Output: Подписчик получает "hello"
+## Examples
+Input: `mosquitto_pub -t "test" -m "hello"` → Output: Subscriber receives "hello"
 
-## 🔗 Ресурсы
+## Resources
 - [MQTT Docs](https://mqtt.org/documentation/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Брокер запускается и слушает порт 1883
-2. Сообщения доставляются между клиентами
-3. QoS уровни работают корректно
+## Validation
+1. Broker starts and listens on port 1883
+2. Messages delivered between clients
+3. QoS levels work correctly

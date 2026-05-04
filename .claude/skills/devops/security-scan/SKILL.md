@@ -1,6 +1,6 @@
 ---
 name: security-scan
-description: Интегрирует сканирование уязвимостей (Trivy, Snyk) в CI/CD пайплайны. Используется для проверки Docker образов и зависимостей.
+description: Integrates vulnerability scanning (Trivy, Snyk) into CI/CD pipelines. Use for checking Docker images and dependencies.
 category: devops
 tags: [security, scanning, trivy, snyk, devops]
 models: [sonnet, opus]
@@ -9,29 +9,29 @@ created: 2026-04-29
 ---
 # Security Scan
 
-> Сканирование уязвимостей в образах и зависимостях.
+> Vulnerability scanning for images and dependencies.
 
 ## 🚀 Quick Start
 ```bash
-# Сканирование Docker образа с Trivy
+# Scan Docker image with Trivy
 trivy image myapp:latest
 
-# Сканирование зависимостей с Snyk
+# Scan dependencies with Snyk
 snyk test
 ```
 
-## 📋 Когда использовать
-- ✅ Проверка образов перед деплоем
-- ✅ Сканирование зависимостей на CVE
-- ❌ Не использовать как единственный метод защиты
+## 📋 When to Use
+- ✅ Checking images before deployment
+- ✅ Scanning dependencies for CVEs
+- ❌ Not as sole security measure
 
-## 🔧 Пошаговая инструкция
-1. Установи сканеры (Trivy, Snyk)
-2. Добавь шаги сканирования в CI/CD
-3. Настрой политики (fail on critical)
-4. Анализируй отчеты и исправляй уязвимости
+## 🔧 Step-by-Step Instructions
+1. Install scanners (Trivy, Snyk)
+2. Add scanning steps to CI/CD
+3. Configure policies (fail on critical)
+4. Analyze reports and fix vulnerabilities
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 # Trivy
 brew install trivy
@@ -40,16 +40,16 @@ brew install trivy
 npm install -g snyk
 ```
 
-## 🧪 Примеры
+## 🧪 Examples
 Input: `trivy image myapp:latest`
-Output: Список уязвимостей с уровнями критичности
+Output: List of vulnerabilities with severity levels
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Trivy Docs](https://trivy.dev/)
 - [Snyk Docs](https://docs.snyk.io/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Сканеры находят известные уязвимости
-2. CI падает при критических уязвимостях
-3. Отчеты генерируются в машиночитаемом формате
+## ✅ Validation
+1. Scanners find known vulnerabilities
+2. CI fails on critical vulnerabilities
+3. Reports generated in machine-readable format

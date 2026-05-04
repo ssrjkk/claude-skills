@@ -1,6 +1,6 @@
 ---
 name: vector-db-rag
-description: Строит RAG пайплайны с векторными базами данных (Chroma, Pinecone) и embedding моделями. Используется для семантического поиска и LLM приложений.
+description: Builds RAG pipelines with vector databases (Chroma, Pinecone) and embedding models. Use for semantic search and LLM applications.
 category: data
 tags: [rag, vector-db, embeddings, llm, semantic-search]
 models: [opus]
@@ -9,45 +9,45 @@ created: 2026-04-29
 ---
 # Vector DB RAG
 
-> RAG пайплайны с векторными базами и LLM для семантического поиска.
+> RAG pipelines with vector databases and LLMs for semantic search.
 
-## 🚀 Quick Start
+## Quick Start
 ```python
-from langchain.embeddings import OpenAIEmbeddings
-from langchain.vectorstores import Chroma
+from langchain_openai import OpenAIEmbeddings
+from langchain_chroma import Chroma
 
-# Создание векторной БД
-embeddings = OpenAIEmbeddings()
+# Create vector DB
+embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
 db = Chroma.from_documents(documents, embeddings)
 
-# Семантический поиск
+# Semantic search
 docs = db.similarity_search("query about documents")
 ```
 
-## 📋 Когда использовать
-- ✅ Семантический поиск по документам
-- ✅ RAG архитектура для LLM
-- ❌ Не использовать для точного поиска по ID
+## When to Use
+- ✅ Semantic search over documents
+- ✅ RAG architecture for LLM
+- ❌ Not for exact ID lookup
 
-## 🔧 Пошаговая инструкция
-1. Подготовь документы и разбей на чанки
-2. Создай embeddings через OpenAI/Cohere
-3. Сохрани в векторную БД (Chroma/Pinecone)
-4. Настрой retrieval для LLM
+## Step-by-Step Instructions
+1. Prepare documents and split into chunks
+2. Create embeddings via OpenAI/Cohere
+3. Store in vector DB (Chroma/Pinecone)
+4. Setup retrieval for LLM
 
-## 📦 Зависимости
+## Dependencies
 ```bash
-pip install langchain chromadb openai
+pip install langchain langchain-chroma langchain-openai
 ```
 
-## 🧪 Примеры
-Input: "How to use FastAPI?" → Output: Релевантные фрагменты документации
+## Examples
+Input: "How to use FastAPI?" → Output: Relevant document fragments
 
-## 🔗 Ресурсы
+## Resources
 - [LangChain Docs](https://python.langchain.com/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Векторы создаются корректно
-2. Поиск возвращает релевантные результаты
-3. RAG пайплайн работает end-to-end
+## Validation
+1. Vectors created correctly
+2. Search returns relevant results
+3. RAG pipeline works end-to-end

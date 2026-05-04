@@ -1,15 +1,15 @@
 ---
 name: data-validation
-description: Валидирует качество данных с Great Expectations и Pandera. Используется для проверки данных в пайплайнах и обеспечения качества.
+description: Validates data quality with Great Expectations and Pandera. Use for data pipeline quality checks.
 category: data
 tags: [validation, data-quality, great-expectations, pandera]
 models: [sonnet, opus]
 version: 1.0.0
 created: 2026-04-29
 ---
-# Data Validation
+# Data Validation#
 
-> Проверка качества и соответствия данных схемам и ожиданиям.
+> Check data quality and schema compliance.
 
 ## 🚀 Quick Start
 ```python
@@ -25,31 +25,31 @@ df = pd.read_csv("data.csv")
 validated_df = schema.validate(df)
 ```
 
-## 📋 Когда использовать
-- ✅ Валидация данных на входе пайплайна
-- ✅ Проверка соответствия схеме БД
-- ❌ Не использовать для валидации кода
+## 📋 When to Use
+- ✅ Data validation at pipeline entry
+- ✅ Schema compliance checks
+- ❌ Not for code validation
 
-## 🔧 Пошаговая инструкция
-1. Определи ожидания от данных (схемы, диапазоны)
-2. Настрой валидаторы с Great Expectations или Pandera
-3. Запускай проверки перед обработкой
-4. Анализируй отчеты о качестве
+## 🔧 Step-by-Step Instructions
+1. Define expectations for data (schemas, ranges)
+2. Setup validators with Great Expectations or Pandera
+3. Run checks before processing
+4. Analyze quality reports
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 pip install pandera great-expectations pandas
 ```
 
-## 🧪 Примеры
-Input: DataFrame с некорректным возрастом → Output: Ошибка валидации
+## 🧪 Examples
+Input: DataFrame with invalid age → Output: Validation error
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Pandera Docs](https://pandera.readthedocs.io/)
 - [Great Expectations](https://docs.greatexpectations.io/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Некорректные данные отлавливаются
-2. Отчеты генерируются корректно
-3. Валидация не пропускает аномалии
+## ✅ Validation
+1. Invalid data caught by validators
+2. Reports generated correctly
+3. Validation doesn't miss anomalies

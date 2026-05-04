@@ -1,6 +1,6 @@
 ---
 name: terraform-aws
-description: Провизионит инфраструктуру в AWS с использованием Terraform модулей. Используется для IaC управления облачными ресурсами.
+description: Provisions infrastructure in AWS using Terraform modules. Use for IaC management of cloud resources.
 category: devops
 tags: [terraform, aws, iac, infrastructure]
 models: [sonnet, opus]
@@ -9,7 +9,7 @@ created: 2026-04-29
 ---
 # Terraform AWS
 
-> Infrastructure as Code для AWS с модульным подходом.
+> Infrastructure as Code for AWS with modular approach.
 
 ## 🚀 Quick Start
 ```hcl
@@ -27,36 +27,36 @@ resource "aws_instance" "web" {
 }
 ```
 
-## 📋 Когда использовать
-- ✅ Создание/управление AWS ресурсами
-- ✅ Нужна версионируемая инфраструктура
-- ❌ Не использовать для одноразовых локальных скриптов
+## 📋 When to Use
+- ✅ Creating/managing AWS resources
+- ✅ Need version-controlled infrastructure
+- ❌ Not for one-off local scripts
 
-## 🔧 Пошаговая инструкция
-1. Установи Terraform и настрой AWS CLI
-2. Создай `main.tf` с провайдером и ресурсами
-3. Инициализируй: `terraform init`
-4. Применяй: `terraform apply`
+## 🔧 Step-by-Step Instructions
+1. Install Terraform and configure AWS CLI
+2. Create `main.tf` with provider and resources
+3. Initialize: `terraform init`
+4. Apply: `terraform apply`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
-# Установить Terraform
+# Install Terraform
 # https://developer.hashicorp.com/terraform/install
 
-# Настроить AWS CLI
+# Configure AWS CLI
 pip install awscli
 aws configure
 ```
 
-## 🧪 Примеры
-Input: `terraform apply` в папке с конфигом
-Output: EC2 инстанс создан в AWS
+## 🧪 Examples
+Input: `terraform apply` in folder with config
+Output: EC2 instance created in AWS
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Terraform AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. Terraform план создается без ошибок
-2. Ресурсы появляются в AWS Console
-3. State файл корректно обновляется
+## ✅ Validation
+1. Terraform plan creates without errors
+2. Resources appear in AWS Console
+3. State file updates correctly

@@ -1,15 +1,15 @@
 ---
 name: airflow-dags
-description: Создает DAGs для Apache Airflow с задачами и расписанием. Используется для оркестрации ETL пайплайнов.
+description: Creates DAGs for Apache Airflow with tasks and scheduling. Use for ETL pipeline orchestration.
 category: data
 tags: [airflow, dags, orchestration, etl, python]
 models: [sonnet, opus]
 version: 1.0.0
 created: 2026-05-01
 ---
-# Airflow DAGs
+# Airflow DAGs#
 
-> Оркестрация рабочих процессов с Apache Airflow.
+> Orchestrate workflows with Apache Airflow.
 
 ## 🚀 Quick Start
 ```python
@@ -33,30 +33,30 @@ task = PythonOperator(
 )
 ```
 
-## 📋 Когда использовать
-- ✅ Оркестрация сложных ETL процессов
-- ✅ Расписание задач с зависимостями
-- ❌ Не использовать для простых скриптов
+## 📋 When to Use
+- ✅ Orchestrating complex ETL processes
+- ✅ Scheduling tasks with dependencies
+- ❌ Not for simple scripts#
 
-## 🔧 Пошаговая инструкция
-1. Установи Airflow: `pip install apache-airflow`
-2. Инициализируй БД: `airflow db init`
-3. Создай DAG файл в `dags/`
-4. Запусти веб-сервер: `airflow webserver`
+## 🔧 Step-by-Step Instructions
+1. Install Airflow: `pip install apache-airflow`
+2. Initialize DB: `airflow db init`
+3. Create DAG file in `dags/`
+4. Start webserver: `airflow webserver`
 
-## 📦 Зависимости
+## 📦 Dependencies
 ```bash
 pip install apache-airflow
 ```
 
-## 🧪 Примеры
-Input: Запуск DAG → Output: Задачи выполняются по расписанию
+## 🧪 Examples
+Input: Trigger DAG → Output: Tasks execute on schedule
 
-## 🔗 Ресурсы
+## 🔗 Resources
 - [Airflow Docs](https://airflow.apache.org/docs/)
-- [Примеры кода](./examples/)
+- [Examples](./examples/)
 
-## ✅ Валидация
-1. DAG валидируется без ошибок
-2. Задачи выполняются в правильном порядке
-3. Расписание работает корректно
+## ✅ Validation
+1. DAG validates without errors
+2. Tasks execute in correct order#
+3. Schedule works correctly
