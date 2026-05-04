@@ -17,13 +17,4 @@
 2. Add 'domain-index.md' with the domain description
 3. Update 'skills_catalog.json' and 'README.md'
 
-## Skill structure
-'''
-.claude/skills/{skill-name}/
-├── SKILL.md # Main skill file
-├── examples.md # Examples of use
-├── reference.md # Help information
-└── scripts/ # Auxiliary scripts
-'''
-
 Thank you for your contribution!
