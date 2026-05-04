@@ -1,29 +1,29 @@
 # Contributing Guide
 
-## Чеклист перед PR
-- [ ] `name` в kebab-case, ≤64 символов
-- [ ] `description` в 3-м лице, ≤1024 символов
-- [ ] `SKILL.md` соответствует шаблону
-- [ ] Добавлены теги и категория
-- [ ] Протестировано в Claude (min. sonnet)
+## Checklist before PR
+- [ ] 'name' in kebab-case, ≤64 characters
+- [ ] 'description' in 3rd person, ≤1024 characters
+- [ ] 'SKILL.md' follows the pattern
+- [ ] Tags and category added
+- [ ] Tested in Claude (min. sonnet)
 
-## Тестирование скилла
-1. Открой Claude → подключи локальную папку
-2. Вызови скилл: "Используй скилл {name} для {задача}"
-3. Проверь: точность, полнота, отсутствие галлюцинаций
+## Skill testing
+1. Open Claude → connect your local folder
+2. Call the skill: 'Use the {name} skill for {task}'
+3. Check: accuracy, completeness, absence of hallucinations
 
-## Добавление нового домена
-1. Создай папку `.claude/skills/{domain}/`
-2. Добавь `domain-index.md` с описанием домена
-3. Обнови `skills_catalog.json` и `README.md`
+## Adding a new domain
+1. Create a folder '.claude/skills/{domain}/'
+2. Add 'domain-index.md' with the domain description
+3. Update 'skills_catalog.json' and 'README.md'
 
-## Структура скилла
-```
+## Skill structure
+'''
 .claude/skills/{skill-name}/
-├── SKILL.md           # Основной файл скилла
-├── examples.md        # Примеры использования
-├── reference.md       # Справочная информация
-└── scripts/          # Вспомогательные скрипты
-```
+├── SKILL.md # Main skill file
+├── examples.md # Examples of use
+├── reference.md # Help information
+└── scripts/ # Auxiliary scripts
+'''
 
-Спасибо за вклад!
+Thank you for your contribution!
