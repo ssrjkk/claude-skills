@@ -1,29 +1,20 @@
 # Contributing Guide
 
-## Checklist Before PR
-- [ ] `name` in kebab-case, ≤64 characters
-- [ ] `description` in 3rd person, ≤1024 characters
-- [ ] `SKILL.md` follows the template
+## Checklist before PR
+- [ ] 'name' in kebab-case, ≤64 characters
+- [ ] 'description' in 3rd person, ≤1024 characters
+- [ ] 'SKILL.md' follows the pattern
 - [ ] Tags and category added
 - [ ] Tested in Claude (min. sonnet)
 
-## Testing a Skill
-1. Open Claude → connect local folder
-2. Invoke skill: "Use skill {name} for {task}"
-3. Verify: accuracy, completeness, no hallucinations
+## Skill testing
+1. Open Claude → connect your local folder
+2. Call the skill: 'Use the {name} skill for {task}'
+3. Check: accuracy, completeness, absence of hallucinations
 
-## Adding a New Domain
-1. Create folder `.claude/skills/{domain}/`
-2. Add `domain-index.md` with domain description
-3. Update `skills_catalog.json` and `README.md`
+## Adding a new domain
+1. Create a folder '.claude/skills/{domain}/'
+2. Add 'domain-index.md' with the domain description
+3. Update 'skills_catalog.json' and 'README.md'
 
-## Skill Structure
-```
-.claude/skills/{skill-name}/
-├── SKILL.md           # Main skill file
-├── examples.md        # Usage examples
-├── reference.md       # Reference information
-└── scripts/          # Helper scripts
-```
-
-Thanks for your contribution!
+Thank you for your contribution!

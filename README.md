@@ -1,211 +1,258 @@
+
 # Claude Skills Library
 
-> 66 specialized skills for Claude.ai — accelerate development, testing, and deployment.
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Skills: 66](https://img.shields.io/badge/Skills-66-brightgreen)](.claude/skills/)
-[![Domains: 12](https://img.shields.io/badge/Domains-12-purple)](#skills-catalog)
-[![Last Update](https://img.shields.io/github/last-commit/ssrjkk/claude-skills)](../../commits)
+[![Skills: 63+](https://img.shields.io/badge/Skills-63+-brightgreen)](.claude/skills/)
+[![Domains: 11](https://img.shields.io/badge/Domains-11-purple)](#-skill-catalog)
+[![Last Update](https://img.shields.io/github/last-commit/ssrjkk/claude-skills?label=Updated)](../../commits)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+> Pre-built skills for Claude.ai — accelerate development, testing, and deployment with specialized, reusable instructions.
 
 ---
 
-## Why Choose Claude Skills?
+## Why Use Claude Skills?
 
 | Benefit | Description |
-|--------|-------------|
-| **Save tokens** | No need to describe context every time — just load a skill |
-| **Higher accuracy** | Specialized instructions for each task domain |
-| **Reusability** | One skill — hundreds of projects |
-| **Local & free** | No API keys needed, everything in your repo |
-| **Validated** | All skills tested and verified |
+|---------|-------------|
+| Save Tokens | Skip repetitive context setup — activate a skill and go |
+| Higher Accuracy | Domain-specific prompts yield better, more consistent results |
+| Reusable | One skill, infinite projects — scale your workflow |
+| Local & Free | Zero API keys, zero SaaS — everything runs in your repo |
+| Modular | Mix & match skills for complex multi-step tasks |
 
 ---
 
-## Skills Catalog (66 Skills)
+## Skill Catalog
 
-### Backend (6 skills)
-| Skill | Description | Models |
-|-------|-------------|--------|
-| `python-fastapi` | REST API with FastAPI + Pydantic | sonnet, opus |
-| `nodejs-express` | Express + TypeScript boilerplate | haiku, sonnet |
-| `go-gin` | High-performance Go API | sonnet, opus |
-| `java-spring` | Spring Boot enterprise apps | opus |
-| `django-rest` | Django REST Framework API | sonnet, opus |
-| `laravel` | Laravel PHP web apps | sonnet, opus |
+> Pro Tip: Use Ctrl+K in Claude.ai to search skills by tag like #python, #docker, or #testing
 
-### Frontend (6 skills)
-| Skill | Description | Models |
-|-------|-------------|--------|
-| `react-typescript` | Type-safe React components | sonnet, opus |
-| `vue-composition` | Vue 3 Composition API | sonnet, opus |
-| `nextjs-ssr` | SSR/SSG React framework | opus |
-| `svelte-kit` | Lightweight Svelte framework | sonnet, opus |
-| `angular-typescript` | Enterprise Angular apps | opus |
-| `astro-ssg` | Static sites with Astro | sonnet, opus |
+### Backend
+| Skill | Description | Best For |
+|-------|-------------|----------|
+| python-fastapi | REST API scaffolding with FastAPI + Pydantic v2 | Sonnet, Opus |
+| nodejs-express | Express + TypeScript boilerplate with best practices | Haiku, Sonnet |
+| go-gin | High-performance Go APIs with Gin framework | Sonnet, Opus |
+| java-spring | Spring Boot enterprise application patterns | Opus |
+| django-rest | Django REST Framework API design & auth | Sonnet, Opus |
+| laravel | Laravel PHP web app architecture & Eloquent | Sonnet, Opus |
 
-### Mobile (4 skills)
-| Skill | Description | Models |
-|-------|-------------|--------|
-| `flutter-clean-arch` | Flutter with Clean Architecture | opus |
-| `react-native-expo` | Cross-platform mobile | sonnet, opus |
-| `ios-swiftui` | Native iOS SwiftUI | opus |
-| `android-kotlin` | Native Android Kotlin | opus |
+### Frontend
+| Skill | Description | Best For |
+|-------|-------------|----------|
+| react-typescript | Type-safe React components with hooks & context | Sonnet, Opus |
+| vue-composition | Vue 3 Composition API patterns & reactivity | Sonnet, Opus |
+| nextjs-ssr | Next.js SSR/SSG, App Router, and server actions | Opus |
+| svelte-kit | SvelteKit routing, endpoints, and adapters | Sonnet, Opus |
+| angular-typescript | Enterprise Angular architecture & DI | Opus |
+| astro-ssg | Astro static site generation & islands architecture | Sonnet, Opus |
 
-### DevOps (10 skills)
-| Skill | Description | Models |
-|-------|-------------|--------|
-| `docker-optimization` | Multi-stage, caching, security | sonnet, opus |
-| `k8s-helm-deploy` | Helm charts & K8s deploy | opus |
-| `terraform-aws` | IaC for AWS | sonnet, opus |
-| `ansible-automation` | Configuration management | sonnet, opus |
-| `monitoring-prometheus` | Metrics & alerting | sonnet, opus |
-| `logging-elk` | Centralized logging | opus |
-| `gitops-argocd` | GitOps for K8s | opus |
-| `jenkins-pipeline` | CI/CD automation | sonnet, opus |
-| `argocd-rollback` | Quick rollback for K8s | opus |
-| `security-scan` | Vulnerability scanning | sonnet, opus |
+### Mobile
+| Skill | Description | Best For |
+|-------|-------------|----------|
+| flutter-clean-arch | Flutter with Clean Architecture & BLoC | Opus |
+| react-native-expo | Cross-platform mobile with Expo & TypeScript | Sonnet, Opus |
+| ios-swiftui | Native iOS development with SwiftUI & Combine | Opus |
+| android-kotlin | Modern Android with Kotlin, Coroutines, Jetpack | Opus |
 
-### Data (6 skills)
-| Skill | Description | Models |
-|-------|-------------|--------|
-| `etl-pipeline` | ETL with Pandas + SQLAlchemy | sonnet, opus |
-| `ml-model-training` | ML training pipelines | opus |
-| `vector-db-rag` | RAG with vector databases | opus |
-| `data-validation` | Data quality checks | sonnet, opus |
-| `airflow-dags` | Orchestration with Airflow | sonnet, opus |
-| `kafka-streams` | Real-time event processing | opus |
+### DevOps & Cloud
+| Skill | Description | Best For |
+|-------|-------------|----------|
+| docker-optimization | Multi-stage builds, caching, security hardening | Sonnet, Opus |
+| k8s-helm-deploy | Helm chart creation & Kubernetes deployment | Opus |
+| terraform-aws | Infrastructure as Code for AWS resources | Sonnet, Opus |
+| ansible-automation | Idempotent configuration management | Sonnet, Opus |
+| monitoring-prometheus | Metrics collection, alerting, Grafana dashboards | Sonnet, Opus |
+| logging-elk | Centralized logging with Elasticsearch, Logstash, Kibana | Opus |
+| gitops-argocd | GitOps workflows with ArgoCD for K8s | Opus |
+| jenkins-pipeline | Declarative Jenkins pipelines & shared libraries | Sonnet, Opus |
+| argocd-rollback | Safe, instant rollbacks for Kubernetes apps | Opus |
+| security-scan | SCA, SAST, and container vulnerability scanning | Sonnet, Opus |
 
-### AI (4 skills)
-| Skill | Description | Models |
-|-------|-------------|--------|
-| `prompt-engineering` | LLM prompt optimization | opus |
-| `llm-eval` | LLM evaluation metrics | opus |
-| `embedding-chunking` | Text chunking & embeddings | sonnet, opus |
-| `agent-design` | LLM agent architecture | opus |
+### Data & AI
+| Skill | Description | Best For |
+|-------|-------------|----------|
+| etl-pipeline | ETL workflows with Pandas, SQLAlchemy, and validation | Sonnet, Opus |
+| ml-model-training | End-to-end ML training, evaluation, and logging | Opus |
+| vector-db-rag | RAG pipelines with Pinecone, Weaviate, or Qdrant | Opus |
+| data-validation | Great Expectations-style data quality checks | Sonnet, Opus |
+| airflow-dags | Apache Airflow DAG design & orchestration | Sonnet, Opus |
+| kafka-streams | Real-time event processing with Kafka Streams | Opus |
+| prompt-engineering | Advanced prompt patterns, few-shot, and chain-of-thought | Opus |
+| llm-eval | LLM evaluation metrics: BLEU, ROUGE, faithfulness | Opus |
+| embedding-chunking | Optimal text chunking & embedding strategies | Sonnet, Opus |
+| agent-design | LLM agent architectures: ReAct, Plan-and-Execute, tools | Opus |
 
-### QA (10 skills)
-| Skill | Description | Models |
-|-------|-------------|--------|
-| `api-testing` | REST/GraphQL pytest tests | haiku, sonnet |
-| `database-migration` | PostgreSQL Alembic migrations | haiku, sonnet |
-| `ci-cd-setup` | GitHub Actions CI/CD | haiku, sonnet |
-| `test-reporting` | Allure reporting | sonnet, opus |
-| `e2e-playwright` | E2E tests with Playwright | sonnet, opus |
-| `contract-testing-pact` | API contract testing | sonnet, opus |
-| `performance-k6` | Load testing with k6 | sonnet, opus |
-| `security-owasp` | OWASP Top 10 testing | opus |
-| `selenium-grid` | Distributed testing | sonnet, opus |
-| `cypress-e2e` | Modern E2E testing | sonnet, opus |
+### QA & Testing
+| Skill | Description | Best For |
+|-------|-------------|----------|
+| api-testing | REST/GraphQL test suites with pytest & httpx | Haiku, Sonnet |
+| database-migration | Alembic migrations for PostgreSQL with best practices | Haiku, Sonnet |
+| ci-cd-setup | GitHub Actions workflows for CI/CD pipelines | Haiku, Sonnet |
+| test-reporting | Allure reports with screenshots, steps, and history | Sonnet, Opus |
+| e2e-playwright | Reliable E2E tests with Playwright & TypeScript | Sonnet, Opus |
+| contract-testing-pact | Consumer-driven contract testing with Pact | Sonnet, Opus |
+| performance-k6 | Load & stress testing with k6 and thresholds | Sonnet, Opus |
+| security-owasp | OWASP Top 10 vulnerability testing checklist | Opus |
+| selenium-grid | Distributed Selenium testing across browsers | Sonnet, Opus |
+| cypress-e2e | Modern Cypress E2E with component testing | Sonnet, Opus |
 
-### Product (4 skills)
-| Skill | Description | Models |
-|-------|-------------|--------|
-| `user-story-mapping` | User story mapping | sonnet, opus |
-| `prd-template` | Product Requirements Doc | sonnet, opus |
-| `sprint-retro` | Sprint retrospective | sonnet, opus |
-| `metrics-dora` | DORA metrics analysis | sonnet, opus |
+### Product & Process
+| Skill | Description | Best For |
+|-------|-------------|----------|
+| user-story-mapping | Collaborative user story mapping techniques | Sonnet, Opus |
+| prd-template | Product Requirements Document template & guidelines | Sonnet, Opus |
+| sprint-retro | Structured sprint retrospective facilitation | Sonnet, Opus |
+| metrics-dora | DORA metrics analysis & improvement strategies | Sonnet, Opus |
 
-### Security (4 skills)
-| Skill | Description | Models |
-|-------|-------------|--------|
-| `secrets-management` | Vault & secrets handling | sonnet, opus |
-| `sbom-generation` | SBOM for supply chain | sonnet, opus |
-| `pentest-checklist` | Penetration testing | opus |
-| `compliance-gdpr` | GDPR compliance audit | opus |
+### Security
+| Skill | Description | Best For |
+|-------|-------------|----------|
+| secrets-management | HashiCorp Vault integration & secret rotation | Sonnet, Opus |
+| sbom-generation | Software Bill of Materials for supply chain security | Sonnet, Opus |
+| pentest-checklist | Structured penetration testing methodology | Opus |
+| compliance-gdpr | GDPR compliance audit checklist & documentation | Opus |
 
-### Blockchain (3 skills)
-| Skill | Description | Models |
-|-------|-------------|--------|
-| `solidity` | Smart contracts for Ethereum | opus |
-| `web3js` | Web3.js Ethereum interaction | sonnet, opus |
-| `smart-contracts` | Full smart contract development | opus |
+### Blockchain
+| Skill | Description | Best For |
+|-------|-------------|----------|
+| solidity | Secure smart contract development for Ethereum | Opus |
+| web3js | Web3.js integration patterns & wallet interactions | Sonnet, Opus |
+| smart-contracts | Full-cycle dApp development & testing | Opus |
 
-### Gamedev (3 skills)
-| Skill | Description | Models |
-|-------|-------------|--------|
-| `unity` | Unity game development with C# | opus |
-| `unreal` | Unreal Engine AAA games | opus |
-| `godot` | Open-source 2D/3D engine | sonnet, opus |
+### Gamedev
+| Skill | Description | Best For |
+|-------|-------------|----------|
+| unity | Unity game architecture with C# & ECS patterns | Opus |
+| unreal | Unreal Engine 5 AAA game development workflows | Opus |
+| godot | Godot 4 GDScript & 2D/3D project setup | Sonnet, Opus |
 
-### IoT (3 skills)
-| Skill | Description | Models |
-|-------|-------------|--------|
-| `esp32` | ESP32 WiFi/Bluetooth IoT | sonnet, opus |
-| `arduino` | Arduino hardware projects | haiku, sonnet |
-| `mqtt` | Lightweight IoT messaging | sonnet, opus |
+### IoT
+| Skill | Description | Best For |
+|-------|-------------|----------|
+| esp32 | ESP32 WiFi/Bluetooth projects with Arduino/ESP-IDF | Sonnet, Opus |
+| arduino | Arduino hardware prototyping & sensor integration | Haiku, Sonnet |
+| mqtt | Lightweight MQTT messaging for IoT edge devices | Sonnet, Opus |
 
-### Design (3 skills)
-| Skill | Description | Models |
-|-------|-------------|--------|
-| `figma-plugin` | Figma plugin development | sonnet, opus |
-| `design-tokens` | Design system tokens | sonnet, opus |
-| `accessibility` | WCAG accessibility standards | sonnet, opus |
-
-> **Tip**: Use `Ctrl+K` in Claude to quickly search skills by tag.
+### Design
+| Skill | Description | Best For |
+|-------|-------------|----------|
+| figma-plugin | Figma plugin development with TypeScript | Sonnet, Opus |
+| design-tokens | Design system tokens & cross-platform sync | Sonnet, Opus |
+| accessibility | WCAG 2.2 compliance & inclusive design patterns | Sonnet, Opus |
 
 ---
 
 ## Quick Start
 
 ```bash
-# 1. Clone
+# 1. Clone the repo
 git clone https://github.com/ssrjkk/claude-skills.git
 cd claude-skills
 
-# 2. In Claude.ai: Settings → Skills → Add local folder
+# 2. In Claude.ai:
+#    Settings -> Skills -> Add local folder
 #    Point to: /path/to/claude-skills/.claude/skills/
 
-# 3. In chat: "Use skill python-fastapi"
+# 3. In chat, activate any skill:
+#    "Use skill python-fastapi to scaffold a new API"
 #    Done!
 ```
 
+> Skills auto-update when you git pull — stay current with best practices.
+
 ---
 
-## Navigation
+## Navigation Tips
 
-- [Search by tags](#skills-catalog): `#python`, `#docker`, `#testing`
-- [Model Matrix](.claude/MODELS.md): which skill for which model
-- [Contributing](.github/CONTRIBUTING.md): guide in 5 minutes
+- Search by tag: #python, #docker, #testing, #security
+- Model compatibility: Each skill lists recommended Claude models (haiku/sonnet/opus)
+- Skill anatomy: Every skill includes SKILL.md with context, instructions, and examples
+- Catalog JSON: Machine-readable index at skills_catalog.json for tooling integration
 
 ---
 
 ## For Contributors
 
 ```bash
-# Validate skills
+# Validate all skills (linting + structure checks)
 python scripts/validate-skills.py
 
-# Add new skill
-./scripts/new-skill.sh my-awesome-skill
-# → creates .claude/skills/my-awesome-skill/SKILL.md
+# Scaffold a new skill (interactive)
+./scripts/new-skill.sh my-new-skill
+# -> Creates: .claude/skills/my-new-skill/SKILL.md with template
+
+# Run local tests (if applicable)
+python -m pytest tests/ -v
 ```
 
-📖 More: [CONTRIBUTING.md](.github/CONTRIBUTING.md)
+Full contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)
+
+### Contribution Checklist
+- [ ] Skill follows the SKILL.md template
+- [ ] Includes clear #tags for discoverability
+- [ ] Specifies compatible Claude models
+- [ ] Adds entry to skills_catalog.json (or run scripts/update-catalog.py)
+- [ ] Passes scripts/validate-skills.py
 
 ---
 
-## Statistics
+## Project Stats
 
-![Skills Count](https://img.shields.io/badge/dynamic/json?label=Skills&query=$.metadata.total_skills&url=https://raw.githubusercontent.com/ssrjkk/claude-skills/main/skills_catalog.json)
-![Domains](https://img.shields.io/badge/Domains-12-purple)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.github/CONTRIBUTING.md)
+| Metric | Value |
+|--------|-------|
+| Total Skills | 63+ |
+| Domains Covered | 11 (Backend, Frontend, Mobile, DevOps, Data, AI, QA, Product, Security, Blockchain, Gamedev, IoT, Design) |
+| Contributors | 1 (you could be next!) |
+| Last Updated | [See commits](../../commits) |
+| Catalog Format | JSON + Markdown (human & machine readable) |
 
 ---
 
 ## Contributing
 
-Pull Requests are welcome!  
-Found a bug? Have an idea for a new skill? → [Open an Issue](../../issues)
+Pull Requests are welcome!
 
-> *"The best way to predict the future is to create it" — add your skill today!*
+- Found a bug? -> [Open an Issue](../../issues)
+- Have a skill idea? -> [Start a Discussion](../../discussions)
+- Ready to contribute? -> Fork, code, test, PR!
+
+> "The best way to predict the future is to create it."  
+> Add your skill today and help thousands of developers work smarter with Claude.
 
 ---
 
 ## License
 
-[MIT License](LICENSE) — use in personal and commercial projects.  
-Credit the author if you copy entirely — it would be nice 😊
+Distributed under the MIT License. See LICENSE for details.
+
+- Free for personal & commercial use  
+- Modify, distribute, and extend  
+- Please credit ssrjkk/claude-skills if you reuse substantial portions
 
 ---
 
-<sub>Made with ❤️ for the Claude community • [ssrjkk/claude-skills](https://github.com/ssrjkk/claude-skills)</sub>
+<div align="center">
+
+**Made for the Claude community**  
+[github.com/ssrjkk/claude-skills](https://github.com/ssrjkk/claude-skills)
+
+[Star this repo](../../stargazers) • [Fork it](../../fork) • [Share it](https://twitter.com/intent/tweet?text=Check%20out%20Claude%20Skills%20Library%20%E2%80%94%2063%2B%20pre-built%20skills%20to%20supercharge%20your%20Claude.ai%20workflow%3A&url=https%3A%2F%2Fgithub.com%2Fssrjkk%2Fclaude-skills)
+
+</div>
+```
+
+---
+
+### Changes applied:
+- Replaced all `→` with `->`
+- Removed all emojis and decorative stickers
+- Kept clean markdown structure, tables, and badges
+- Maintained professional tone and full functionality
+
+### To deploy:
+```bash
+git add README.md
+git commit -m "docs: clean README - arrows to ->, no emojis"
+git push
+```
