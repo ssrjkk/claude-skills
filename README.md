@@ -1,9 +1,9 @@
 # Claude Skills Library
-### 66 Pre-Built Skills That Supercharge Your Claude.ai
+### 84 Pre-Built Skills That Supercharge Your Claude.ai
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Skills: 66](https://img.shields.io/badge/Skills-66-brightgreen)](.claude/skills/)
-[![Domains: 12](https://img.shields.io/badge/Domains-12-purple)](#whats-inside)
+[![Skills: 84](https://img.shields.io/badge/Skills-84-brightgreen)](.claude/skills/)
+[![Domains: 16](https://img.shields.io/badge/Domains-16-purple)](#whats-inside)
 [![Last Update](https://img.shields.io/github/last-commit/ssrjkk/claude-skills)](../../commits)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.github/CONTRIBUTING.md)
 

@@ -1,0 +1,74 @@
+---
+name: llm-finetuning
+description: Fine-tunes open-source LLMs (Llama, Mistral, Qwen) using LoRA/QLoRA with HuggingFace and Unsloth. Use for domain-specific model adaptation.
+category: ai
+tags: [finetuning, lora, llama, mistral, unsloth, llm]
+models: [opus]
+version: 1.0.0
+created: 2026-05-14
+---
+# LLM Fine-Tuning
+
+> Fine-tune open-source LLMs with LoRA/QLoRA for domain-specific tasks.
+
+## Quick Start
+```python
+from unsloth import FastLanguageModel
+from datasets import load_dataset
+from trl import SFTTrainer
+
+# Load model with LoRA
+model, tokenizer = FastLanguageModel.from_pretrained(
+    model_name="unsloth/Meta-Llama-3.1-8B",
+    max_seq_length=2048,
+    load_in_4bit=True,  # QLoRA
+)
+
+model = FastLanguageModel.get_peft_model(
+    model,
+    r=16,
+    target_modules=["q_proj", "k_proj", "v_proj", "o_proj"],
+    lora_alpha=16,
+    lora_dropout=0,
+)
+
+# Train
+dataset = load_dataset("json", data_files="training_data.json")
+trainer = SFTTrainer(
+    model=model,
+    tokenizer=tokenizer,
+    train_dataset=dataset,
+    dataset_text_field="text",
+    max_seq_length=2048,
+)
+trainer.train()
+```
+
+## When to Use
+- ✅ Domain-specific model adaptation
+- ✅ Task-specific fine-tuning (chat, code, classification)
+- ❌ Not for simple prompt engineering tasks
+
+## Step-by-Step Instructions
+1. Choose base model (Llama 3, Mistral, Qwen)
+2. Prepare training dataset in chat format
+3. Configure LoRA/QLoRA parameters
+4. Train and save adapter
+
+## Dependencies
+```bash
+pip install unsloth transformers datasets trl accelerate
+```
+
+## Examples
+Input: Training dataset of 1000 examples → Output: Fine-tuned LoRA adapter (50MB)
+
+## Resources
+- [Unsloth](https://github.com/unslothai/unsloth)
+- [HuggingFace SFT](https://huggingface.co/docs/trl/sft_trainer)
+- [Examples](./examples/)
+
+## Validation
+1. Training loss decreases consistently
+2. Model generates coherent responses post-training
+3. Adapter merges successfully (if needed)

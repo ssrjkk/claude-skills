@@ -1,604 +1,783 @@
 {
   "metadata": {
     "schema_version": "2.0",
-    "generated_at": "2026-05-01T17:00:00Z",
-    "total_skills": 63,
-    "domains": ["backend", "frontend", "mobile", "devops", "data", "ai", "qa", "product", "security", "block", "gamedev", "iot", "design"]
+    "generated_at": "2026-05-14T12:00:00Z",
+    "total_skills": 84,
+    "domains": [
+      "ai",
+      "backend",
+      "block",
+      "data",
+      "database",
+      "design",
+      "desktop",
+      "devops",
+      "frontend",
+      "gamedev",
+      "iot",
+      "mobile",
+      "payments",
+      "product",
+      "qa",
+      "security"
+    ]
   },
   "skills": [
     {
-      "name": "python-fastapi",
-      "description": "Creates REST API templates with FastAPI, Pydantic validation, and auto-generated documentation.",
-      "category": "backend",
-      "tags": ["python", "fastapi", "rest", "pydantic", "async"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/backend/python-fastapi"
-    },
-    {
-      "name": "nodejs-express",
-      "description": "Generates boilerplate for Express.js applications with TypeScript and middleware.",
-      "category": "backend",
-      "tags": ["nodejs", "express", "typescript", "javascript", "rest"],
-      "models": ["haiku", "sonnet"],
-      "version": "1.0.0",
-      "path": ".claude/skills/backend/nodejs-express"
-    },
-    {
-      "name": "go-gin",
-      "description": "Creates high-performance HTTP APIs on Go using the Gin framework.",
-      "category": "backend",
-      "tags": ["go", "gin", "rest", "microservice", "high-performance"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/backend/go-gin"
-    },
-    {
-      "name": "java-spring",
-      "description": "Generates Spring Boot application structure with REST controllers and JPA repositories.",
-      "category": "backend",
-      "tags": ["java", "spring", "spring-boot", "rest", "jpa"],
-      "models": ["opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/backend/java-spring"
-    },
-    {
-      "name": "django-rest",
-      "description": "Creates REST APIs on Django with Django REST Framework.",
-      "category": "backend",
-      "tags": ["django", "drf", "rest", "python", "admin"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/backend/django-rest"
-    },
-    {
-      "name": "laravel",
-      "description": "Creates web applications on Laravel with Eloquent ORM and Blade templates.",
-      "category": "backend",
-      "tags": ["laravel", "php", "eloquent", "blade", "mvc"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/backend/laravel"
-    },
-    {
-      "name": "react-typescript",
-      "description": "Creates React components with TypeScript, props typing, and hooks.",
-      "category": "frontend",
-      "tags": ["react", "typescript", "frontend", "components", "hooks"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/frontend/react-typescript"
-    },
-    {
-      "name": "vue-composition",
-      "description": "Creates Vue 3 components with Composition API and TypeScript.",
-      "category": "frontend",
-      "tags": ["vue", "composition-api", "typescript", "frontend"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/frontend/vue-composition"
-    },
-    {
-      "name": "nextjs-ssr",
-      "description": "Generates Next.js applications with SSR, SSG, and API routes.",
-      "category": "frontend",
-      "tags": ["nextjs", "react", "ssr", "ssg", "seo"],
-      "models": ["opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/frontend/nextjs-ssr"
-    },
-    {
-      "name": "svelte-kit",
-      "description": "Creates SvelteKit applications with file-based routing and server-side rendering.",
-      "category": "frontend",
-      "tags": ["svelte", "sveltekit", "frontend", "ssr"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/frontend/svelte-kit"
-    },
-    {
-      "name": "angular-typescript",
-      "description": "Creates Angular applications with TypeScript, components, and services.",
-      "category": "frontend",
-      "tags": ["angular", "typescript", "frontend", "components", "rxjs"],
-      "models": ["opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/frontend/angular-typescript"
-    },
-    {
-      "name": "astro-ssg",
-      "description": "Creates static sites with Astro, supporting any UI framework.",
-      "category": "frontend",
-      "tags": ["astro", "ssg", "static-site", "markdown", "mdx"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/frontend/astro-ssg"
-    },
-    {
-      "name": "flutter-clean-arch",
-      "description": "Creates Flutter applications with Clean Architecture and layered structure.",
-      "category": "mobile",
-      "tags": ["flutter", "clean-arch", "mobile", "dart"],
-      "models": ["opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/mobile/flutter-clean-arch"
-    },
-    {
-      "name": "react-native-expo",
-      "description": "Generates React Native applications using Expo and TypeScript.",
-      "category": "mobile",
-      "tags": ["react-native", "expo", "mobile", "typescript"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/mobile/react-native-expo"
-    },
-    {
-      "name": "ios-swiftui",
-      "description": "Creates iOS applications using SwiftUI and modern Apple patterns.",
-      "category": "mobile",
-      "tags": ["ios", "swiftui", "swift", "apple", "mobile"],
-      "models": ["opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/mobile/ios-swiftui"
-    },
-    {
-      "name": "android-kotlin",
-      "description": "Generates Android applications using Kotlin and Jetpack Compose.",
-      "category": "mobile",
-      "tags": ["android", "kotlin", "jetpack-compose", "mobile"],
-      "models": ["opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/mobile/android-kotlin"
-    },
-    {
-      "name": "docker-optimization",
-      "description": "Optimizes Docker images with multi-stage builds, layer caching, and size reduction.",
-      "category": "devops",
-      "tags": ["docker", "optimization", "multi-stage", "caching"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/devops/docker-optimization"
-    },
-    {
-      "name": "k8s-helm-deploy",
-      "description": "Deploys applications to Kubernetes using Helm charts and values overrides.",
-      "category": "devops",
-      "tags": ["kubernetes", "helm", "deploy", "devops"],
-      "models": ["opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/devops/k8s-helm-deploy"
-    },
-    {
-      "name": "terraform-aws",
-      "description": "Provisions infrastructure in AWS using Terraform modules.",
-      "category": "devops",
-      "tags": ["terraform", "aws", "iac", "infrastructure"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/devops/terraform-aws"
-    },
-    {
-      "name": "ansible-automation",
-      "description": "Automates server configuration and deployment using Ansible playbooks.",
-      "category": "devops",
-      "tags": ["ansible", "automation", "configuration-management", "devops"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/devops/ansible-automation"
-    },
-    {
-      "name": "monitoring-prometheus",
-      "description": "Sets up application and infrastructure monitoring with Prometheus and Grafana.",
-      "category": "devops",
-      "tags": ["prometheus", "grafana", "monitoring", "metrics"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/devops/monitoring-prometheus"
-    },
-    {
-      "name": "logging-elk",
-      "description": "Sets up centralized log collection and analysis with ELK stack.",
-      "category": "devops",
-      "tags": ["elk", "elasticsearch", "logstash", "kibana", "logging"],
-      "models": ["opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/devops/logging-elk"
-    },
-    {
-      "name": "gitops-argocd",
-      "description": "Implements GitOps approach for Kubernetes with ArgoCD.",
-      "category": "devops",
-      "tags": ["argocd", "gitops", "kubernetes", "continuous-delivery"],
-      "models": ["opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/devops/gitops-argocd"
-    },
-    {
-      "name": "jenkins-pipeline",
-      "description": "Creates Jenkins pipeline scripts for CI/CD with declarative and scripted syntax.",
-      "category": "devops",
-      "tags": ["jenkins", "pipeline", "ci-cd", "groovy", "automation"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/devops/jenkins-pipeline"
-    },
-    {
-      "name": "argocd-rollback",
-      "description": "Performs automatic and manual rollback of deployments in Kubernetes via ArgoCD.",
-      "category": "devops",
-      "tags": ["argocd", "rollback", "kubernetes", "gitops", "recovery"],
-      "models": ["opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/devops/argocd-rollback"
-    },
-    {
-      "name": "security-scan",
-      "description": "Integrates vulnerability scanning (Trivy, Snyk) into CI/CD pipelines.",
-      "category": "devops",
-      "tags": ["security", "scanning", "trivy", "snyk", "devops"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/devops/security-scan"
-    },
-    {
-      "name": "etl-pipeline",
-      "description": "Builds ETL pipelines with Python, Pandas, and SQLAlchemy.",
-      "category": "data",
-      "tags": ["etl", "python", "pandas", "sqlalchemy", "data-pipeline"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/data/etl-pipeline"
-    },
-    {
-      "name": "ml-model-training",
-      "description": "Creates ML model training pipelines with scikit-learn and experiment tracking.",
-      "category": "data",
-      "tags": ["ml", "scikit-learn", "training", "model", "pandas"],
-      "models": ["opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/data/ml-model-training"
-    },
-    {
-      "name": "vector-db-rag",
-      "description": "Builds RAG pipelines with vector databases (Chroma, Pinecone) and embedding models.",
-      "category": "data",
-      "tags": ["rag", "vector-db", "embeddings", "llm", "semantic-search"],
-      "models": ["opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/data/vector-db-rag"
-    },
-    {
-      "name": "data-validation",
-      "description": "Validates data quality with Great Expectations and Pandera.",
-      "category": "data",
-      "tags": ["validation", "data-quality", "great-expectations", "pandera"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/data/data-validation"
-    },
-    {
-      "name": "airflow-dags",
-      "description": "Creates DAGs for Apache Airflow with tasks and scheduling.",
-      "category": "data",
-      "tags": ["airflow", "dags", "orchestration", "etl", "python"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/data/airflow-dags"
-    },
-    {
-      "name": "kafka-streams",
-      "description": "Processes real-time data streams with Apache Kafka Streams.",
-      "category": "data",
-      "tags": ["kafka", "streams", "real-time", "events", "java", "scala"],
-      "models": ["opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/data/kafka-streams"
-    },
-    {
-      "name": "prompt-engineering",
-      "description": "Optimizes prompts for LLMs with few-shot, chain-of-thought, and structured output techniques.",
+      "name": "agent-design",
+      "description": "Designs LLM agents with memory, tools, and reasoning cycle. Use for creating autonomous AI assistants.",
       "category": "ai",
-      "tags": ["prompt", "llm", "engineering", "few-shot", "chain-of-thought"],
-      "models": ["opus"],
+      "tags": "[agent, llm, tools, memory, reasoning]",
+      "models": "[opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/ai/prompt-engineering"
-    },
-    {
-      "name": "llm-eval",
-      "description": "Evaluates LLM performance using BLEU, ROUGE metrics and LLM-as-judge.",
-      "category": "ai",
-      "tags": ["llm", "evaluation", "metrics", "bleu", "rouge"],
-      "models": ["opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/ai/llm-eval"
+      "path": ".claude/skills/.claude/skills/ai/agent-design"
     },
     {
       "name": "embedding-chunking",
-      "description": "Splits documents into chunks and creates embeddings for semantic search.",
+      "description": "Splits documents into chunks and creates embeddings for semantic search. Use in RAG pipelines.",
       "category": "ai",
-      "tags": ["embeddings", "chunking", "rag", "semantic-search"],
-      "models": ["sonnet", "opus"],
+      "tags": "[embeddings, chunking, rag, semantic-search]",
+      "models": "[sonnet, opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/ai/embedding-chunking"
+      "path": ".claude/skills/.claude/skills/ai/embedding-chunking"
     },
     {
-      "name": "agent-design",
-      "description": "Designs LLM agents with memory, tools, and reasoning cycle.",
+      "name": "huggingface",
+      "description": "Loads, fine-tunes, and deploys models from HuggingFace Hub for NLP, CV, and audio tasks.",
       "category": "ai",
-      "tags": ["agent", "llm", "tools", "memory", "reasoning"],
-      "models": ["opus"],
+      "tags": "[huggingface, transformers, nlp, fine-tuning, llm]",
+      "models": "[opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/ai/agent-design"
+      "path": ".claude/skills/.claude/skills/ai/huggingface"
+    },
+    {
+      "name": "langchain-rag",
+      "description": "Builds advanced RAG (Retrieval-Augmented Generation) pipelines with LangChain, multiple retrievers, and document chains.",
+      "category": "ai",
+      "tags": "[langchain, rag, llm, retrieval, embeddings]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/langchain-rag"
+    },
+    {
+      "name": "llm-eval",
+      "description": "Evaluates LLM performance using BLEU, ROUGE metrics and LLM-as-judge. Use for model testing.",
+      "category": "ai",
+      "tags": "[llm, evaluation, metrics, bleu, rouge]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/llm-eval"
+    },
+    {
+      "name": "llm-finetuning",
+      "description": "Fine-tunes open-source LLMs (Llama, Mistral, Qwen) using LoRA/QLoRA with HuggingFace and Unsloth. Use for domain-specific model adaptation.",
+      "category": "ai",
+      "tags": "[finetuning, lora, llama, mistral, unsloth, llm]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/llm-finetuning"
+    },
+    {
+      "name": "prompt-engineering",
+      "description": "Optimizes prompts for LLMs with few-shot, chain-of-thought, and structured output techniques. Use for improving response quality.",
+      "category": "ai",
+      "tags": "[prompt, llm, engineering, few-shot, chain-of-thought]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/prompt-engineering"
     },
     {
       "name": "api-testing",
-      "description": "Tests REST and GraphQL APIs using pytest and requests library.",
+      "description": "Tests REST and GraphQL APIs using pytest and requests library. Use for endpoint validation, HTTP response verification, and automated API test writing.",
       "category": "qa",
-      "tags": ["api", "testing", "rest", "graphql", "pytest", "requests"],
-      "models": ["haiku", "sonnet"],
+      "tags": "[api, testing, rest, graphql, pytest, requests]",
+      "models": "[haiku, sonnet, opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/qa/api-testing"
+      "path": ".claude/skills/.claude/skills/api-testing"
     },
     {
-      "name": "database-migration",
-      "description": "Manages database migrations for PostgreSQL using Alembic.",
-      "category": "qa",
-      "tags": ["database", "migration", "postgresql", "alembic"],
-      "models": ["haiku", "sonnet"],
+      "name": "django-rest",
+      "description": "Creates REST APIs on Django with Django REST Framework. Use for Python web applications with powerful admin interface.",
+      "category": "backend",
+      "tags": "[django, drf, rest, python, admin]",
+      "models": "[sonnet, opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/qa/database-migration"
+      "path": ".claude/skills/.claude/skills/backend/django-rest"
     },
     {
-      "name": "ci-cd-setup",
-      "description": "Sets up CI/CD pipelines for testing using GitHub Actions.",
-      "category": "qa",
-      "tags": ["ci-cd", "github-actions", "automation", "testing"],
-      "models": ["haiku", "sonnet"],
+      "name": "dotnet",
+      "description": "Builds ASP.NET Core Web APIs and microservices with C# and Entity Framework. Use for enterprise-grade .NET applications.",
+      "category": "backend",
+      "tags": "[dotnet, csharp, aspnet, entity-framework, backend]",
+      "models": "[sonnet, opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/qa/ci-cd-setup"
+      "path": ".claude/skills/.claude/skills/backend/dotnet"
     },
     {
-      "name": "test-reporting",
-      "description": "Generates test result reports using Allure and pytest.",
-      "category": "qa",
-      "tags": ["testing", "reporting", "allure", "pytest"],
-      "models": ["sonnet", "opus"],
+      "name": "go-gin",
+      "description": "Creates high-performance HTTP APIs on Go using Gin framework. Use for microservices requiring high throughput.",
+      "category": "backend",
+      "tags": "[go, gin, rest, microservice, high-performance]",
+      "models": "[sonnet, opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/qa/test-reporting"
+      "path": ".claude/skills/.claude/skills/backend/go-gin"
     },
     {
-      "name": "e2e-playwright",
-      "description": "Creates E2E tests with Playwright and Allure report generation.",
-      "category": "qa",
-      "tags": ["e2e", "playwright", "testing", "allure"],
-      "models": ["sonnet", "opus"],
+      "name": "graphql-api",
+      "description": "Designs and implements GraphQL APIs with Apollo Server (Node.js). Use for flexible, type-safe API layers.",
+      "category": "backend",
+      "tags": "[graphql, apollo, nodejs, typescript, api]",
+      "models": "[sonnet, opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/qa/e2e-playwright"
+      "path": ".claude/skills/.claude/skills/backend/graphql-api"
     },
     {
-      "name": "contract-testing-pact",
-      "description": "Implements contract testing for APIs with Pact.",
-      "category": "qa",
-      "tags": ["contract-testing", "pact", "api", "testing"],
-      "models": ["sonnet", "opus"],
+      "name": "java-spring",
+      "description": "Generates Spring Boot application structure with REST controllers and JPA repositories. Use for creating enterprise-grade Java applications.",
+      "category": "backend",
+      "tags": "[java, spring, spring-boot, rest, jpa]",
+      "models": "[opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/qa/contract-testing-pact"
+      "path": ".claude/skills/.claude/skills/backend/java-spring"
     },
     {
-      "name": "performance-k6",
-      "description": "Conducts load testing of APIs and web applications with k6.",
-      "category": "qa",
-      "tags": ["performance", "k6", "load-testing", "qa"],
-      "models": ["sonnet", "opus"],
+      "name": "laravel",
+      "description": "Creates web applications on Laravel with Eloquent ORM and Blade templates. Use for PHP web development.",
+      "category": "backend",
+      "tags": "[laravel, php, eloquent, blade, mvc]",
+      "models": "[sonnet, opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/qa/performance-k6"
+      "path": ".claude/skills/.claude/skills/backend/laravel"
     },
     {
-      "name": "security-owasp",
-      "description": "Checks web applications for OWASP Top 10 compliance.",
-      "category": "qa",
-      "tags": ["security", "owasp", "testing", "vulnerability"],
-      "models": ["opus"],
+      "name": "nodejs-express",
+      "description": "Generates boilerplate for Express.js applications with TypeScript and middleware. Use for building Node.js APIs or web services.",
+      "category": "backend",
+      "tags": "[nodejs, express, typescript, javascript, rest]",
+      "models": "[haiku, sonnet]",
       "version": "1.0.0",
-      "path": ".claude/skills/qa/security-owasp"
+      "path": ".claude/skills/.claude/skills/backend/nodejs-express"
     },
     {
-      "name": "selenium-grid",
-      "description": "Sets up Selenium Grid for distributed web application testing.",
-      "category": "qa",
-      "tags": ["selenium", "grid", "testing", "parallel", "webdriver"],
-      "models": ["sonnet", "opus"],
+      "name": "python-fastapi",
+      "description": "Creates REST API templates with FastAPI, Pydantic validation, and auto-generated documentation. Use for building new microservices or API endpoints.",
+      "category": "backend",
+      "tags": "[python, fastapi, rest, pydantic, async]",
+      "models": "[sonnet, opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/qa/selenium-grid"
+      "path": ".claude/skills/.claude/skills/backend/python-fastapi"
     },
     {
-      "name": "cypress-e2e",
-      "description": "Creates E2E tests with Cypress for modern web applications.",
-      "category": "qa",
-      "tags": ["cypress", "e2e", "testing", "javascript", "typescript"],
-      "models": ["sonnet", "opus"],
+      "name": "ruby-rails",
+      "description": "Creates Ruby on Rails applications with ActiveRecord, MVC pattern, and RESTful routes. Use for rapid web application development.",
+      "category": "backend",
+      "tags": "[ruby, rails, active-record, mvc, backend]",
+      "models": "[sonnet, opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/qa/cypress-e2e"
-    },
-    {
-      "name": "user-story-mapping",
-      "description": "Facilitates User Story Mapping sessions and requirement structuring.",
-      "category": "product",
-      "tags": ["user-story", "agile", "product", "planning"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/product/user-story-mapping"
-    },
-    {
-      "name": "prd-template",
-      "description": "Generates structured PRDs with goals, features, and success criteria.",
-      "category": "product",
-      "tags": ["prd", "product", "requirements", "documentation"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/product/prd-template"
-    },
-    {
-      "name": "sprint-retro",
-      "description": "Facilitates Sprint Retrospective with structured blocks and action items.",
-      "category": "product",
-      "tags": ["agile", "scrum", "retro", "sprint"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/product/sprint-retro"
-    },
-    {
-      "name": "metrics-dora",
-      "description": "Calculates DORA metrics for evaluating DevOps effectiveness.",
-      "category": "product",
-      "tags": ["dora", "metrics", "devops", "performance"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/product/metrics-dora"
-    },
-    {
-      "name": "secrets-management",
-      "description": "Manages application secrets with HashiCorp Vault or AWS Secrets Manager.",
-      "category": "security",
-      "tags": ["secrets", "vault", "security", "credentials"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/security/secrets-management"
-    },
-    {
-      "name": "sbom-generation",
-      "description": "Generates Software Bill of Materials for tracking dependencies and vulnerabilities.",
-      "category": "security",
-      "tags": ["sbom", "supply-chain", "security", "dependencies"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/security/sbom-generation"
-    },
-    {
-      "name": "pentest-checklist",
-      "description": "Provides checklists for conducting penetration testing of web applications and infrastructure.",
-      "category": "security",
-      "tags": ["pentest", "checklist", "security", "testing"],
-      "models": ["opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/security/pentest-checklist"
-    },
-    {
-      "name": "compliance-gdpr",
-      "description": "Checks application compliance with GDPR requirements.",
-      "category": "security",
-      "tags": ["gdpr", "compliance", "privacy", "legal"],
-      "models": ["opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/security/compliance-gdpr"
-    },
-    {
-      "name": "solidity",
-      "description": "Develops smart contracts on Solidity for Ethereum and EVM-compatible blockchains.",
-      "category": "block",
-      "tags": ["solidity", "ethereum", "smart-contracts", "evm", "blockchain"],
-      "models": ["opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/blockchain/solidity"
-    },
-    {
-      "name": "web3js",
-      "description": "Integrates Web3.js for interacting with Ethereum blockchain from JavaScript/TypeScript.",
-      "category": "block",
-      "tags": ["web3", "ethereum", "dapp", "javascript", "typescript"],
-      "models": ["sonnet", "opus"],
-      "version": "1.0.0",
-      "path": ".claude/skills/blockchain/web3js"
+      "path": ".claude/skills/.claude/skills/backend/ruby-rails"
     },
     {
       "name": "smart-contracts",
-      "description": "Creates, tests, and deploys smart contracts using Hardhat or Foundry.",
+      "description": "Creates, tests, and deploys smart contracts using Hardhat or Foundry. Use for full blockchain development lifecycle.",
       "category": "block",
-      "tags": ["smart-contracts", "solidity", "hardhat", "foundry", "testing"],
-      "models": ["opus"],
+      "tags": "[smart-contracts, solidity, hardhat, foundry, testing]",
+      "models": "[opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/blockchain/smart-contracts"
+      "path": ".claude/skills/.claude/skills/blockchain/smart-contracts"
     },
     {
-      "name": "unity",
-      "description": "Develops games on Unity using C# scripts and component architecture.",
-      "category": "gamedev",
-      "tags": ["unity", "csharp", "game-dev", "2d", "3d"],
-      "models": ["opus"],
+      "name": "solidity",
+      "description": "Develops smart contracts on Solidity for Ethereum and EVM-compatible blockchains. Use for decentralized applications.",
+      "category": "block",
+      "tags": "[solidity, ethereum, smart-contracts, evm, blockchain]",
+      "models": "[opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/gamedev/unity"
+      "path": ".claude/skills/.claude/skills/blockchain/solidity"
     },
     {
-      "name": "unreal",
-      "description": "Creates games on Unreal Engine with Blueprints or C++.",
-      "category": "gamedev",
-      "tags": ["unreal", "cpp", "blueprint", "game-dev", "aaa"],
-      "models": ["opus"],
+      "name": "web3js",
+      "description": "Integrates Web3.js for interacting with Ethereum blockchain from JavaScript/TypeScript. Use for DApp frontend development.",
+      "category": "block",
+      "tags": "[web3, ethereum, dapp, javascript, typescript]",
+      "models": "[sonnet, opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/gamedev/unreal"
+      "path": ".claude/skills/.claude/skills/blockchain/web3js"
     },
     {
-      "name": "godot",
-      "description": "Develops 2D/3D games on Godot Engine with GDScript.",
-      "category": "gamedev",
-      "tags": ["godot", "gdscript", "game-dev", "2d", "3d", "open-source"],
-      "models": ["sonnet", "opus"],
+      "name": "ci-cd-setup",
+      "description": "Sets up CI/CD pipelines for testing using GitHub Actions. Use for automating test runs, builds, and deployments to QA environments.",
+      "category": "qa",
+      "tags": "[ci-cd, github-actions, automation, testing, pytest, qa]",
+      "models": "[haiku, sonnet, opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/gamedev/godot"
+      "path": ".claude/skills/.claude/skills/ci-cd-setup"
     },
     {
-      "name": "esp32",
-      "description": "Programs ESP32 microcontrollers in C/C++ or MicroPython.",
-      "category": "iot",
-      "tags": ["esp32", "iot", "microcontroller", "wifi", "bluetooth", "micropython"],
-      "models": ["sonnet", "opus"],
+      "name": "airflow-dags",
+      "description": "Creates DAGs for Apache Airflow with tasks and scheduling. Use for ETL pipeline orchestration.",
+      "category": "data",
+      "tags": "[airflow, dags, orchestration, etl, python]",
+      "models": "[sonnet, opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/iot/esp32"
+      "path": ".claude/skills/.claude/skills/data/airflow-dags"
     },
     {
-      "name": "arduino",
-      "description": "Programs Arduino boards for hardware projects and prototyping.",
-      "category": "iot",
-      "tags": ["arduino", "iot", "microcontroller", "c", "prototyping"],
-      "models": ["haiku", "sonnet"],
+      "name": "data-validation",
+      "description": "Validates data quality with Great Expectations and Pandera. Use for data pipeline quality checks.",
+      "category": "data",
+      "tags": "[validation, data-quality, great-expectations, pandera]",
+      "models": "[sonnet, opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/iot/arduino"
+      "path": ".claude/skills/.claude/skills/data/data-validation"
     },
     {
-      "name": "mqtt",
-      "description": "Sets up MQTT brokers and clients for messaging in IoT systems.",
-      "category": "iot",
-      "tags": ["mqtt", "iot", "messaging", "broker", "mosquitto"],
-      "models": ["sonnet", "opus"],
+      "name": "etl-pipeline",
+      "description": "Builds ETL pipelines with Python, Pandas, and SQLAlchemy. Use for extracting, transforming, and loading data between systems.",
+      "category": "data",
+      "tags": "[etl, python, pandas, sqlalchemy, data-pipeline]",
+      "models": "[sonnet, opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/iot/mqtt"
+      "path": ".claude/skills/.claude/skills/data/etl-pipeline"
     },
     {
-      "name": "figma-plugin",
-      "description": "Develops Figma plugins using TypeScript and Figma Plugin API.",
-      "category": "design",
-      "tags": ["figma", "plugin", "typescript", "design", "automation"],
-      "models": ["sonnet", "opus"],
+      "name": "kafka-streams",
+      "description": "Processes real-time data streams with Apache Kafka Streams. Use for real-time event processing.",
+      "category": "data",
+      "tags": "[kafka, streams, real-time, events, java, scala]",
+      "models": "[opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/design/figma-plugin"
+      "path": ".claude/skills/.claude/skills/data/kafka-streams"
     },
     {
-      "name": "design-tokens",
-      "description": "Manages design tokens with Style Dictionary or Theo.",
-      "category": "design",
-      "tags": ["design-tokens", "design-system", "style-dictionary", "theming"],
-      "models": ["sonnet", "opus"],
+      "name": "ml-model-training",
+      "description": "Creates ML model training pipelines with scikit-learn and experiment tracking. Use for training and evaluating machine learning models.",
+      "category": "data",
+      "tags": "[ml, scikit-learn, training, model, pandas]",
+      "models": "[opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/design/design-tokens"
+      "path": ".claude/skills/.claude/skills/data/ml-model-training"
+    },
+    {
+      "name": "vector-db-rag",
+      "description": "Builds RAG pipelines with vector databases (Chroma, Pinecone) and embedding models. Use for semantic search and LLM applications.",
+      "category": "data",
+      "tags": "[rag, vector-db, embeddings, llm, semantic-search]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/data/vector-db-rag"
+    },
+    {
+      "name": "database-migration",
+      "description": "Manages PostgreSQL database migrations using Alembic. Use for creating, applying, and rolling back schema changes in QA environments.",
+      "category": "qa",
+      "tags": "[database, migration, postgresql, alembic, qa, schema]",
+      "models": "[haiku, sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/database-migration"
+    },
+    {
+      "name": "mongodb",
+      "description": "Models data and builds queries with MongoDB aggregation pipelines and indexes. Use for flexible document-based storage.",
+      "category": "database",
+      "tags": "[mongodb, nosql, database, document, aggregation]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/database/mongodb"
+    },
+    {
+      "name": "prisma-orm",
+      "description": "Models databases and writes type-safe queries with Prisma ORM. Use for modern Node.js/TypeScript database access.",
+      "category": "database",
+      "tags": "[prisma, orm, database, typescript, postgresql]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/database/prisma-orm"
+    },
+    {
+      "name": "redis",
+      "description": "Implements caching, session storage, and pub/sub messaging with Redis. Use for high-performance in-memory data.",
+      "category": "database",
+      "tags": "[redis, cache, pubsub, session, database]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/database/redis"
+    },
+    {
+      "name": "supabase",
+      "description": "Builds apps with Supabase backend — PostgreSQL, auth, real-time subscriptions, and storage. Use as a Firebase alternative.",
+      "category": "database",
+      "tags": "[supabase, postgresql, auth, realtime, backend-as-a-service]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/database/supabase"
     },
     {
       "name": "accessibility",
-      "description": "Checks and improves web application accessibility per WCAG standards.",
+      "description": "Checks and improves web application accessibility per WCAG standards. Use for creating inclusive design.",
       "category": "design",
-      "tags": ["accessibility", "wcag", "a11y", "inclusive-design"],
-      "models": ["sonnet", "opus"],
+      "tags": "[accessibility, wcag, a11y, inclusive-design]",
+      "models": "[sonnet, opus]",
       "version": "1.0.0",
-      "path": ".claude/skills/design/accessibility"
+      "path": ".claude/skills/.claude/skills/design/accessibility"
+    },
+    {
+      "name": "design-tokens",
+      "description": "Manages design tokens with Style Dictionary or Theo. Use for maintaining design system consistency.",
+      "category": "design",
+      "tags": "[design-tokens, design-system, style-dictionary, theming]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/design/design-tokens"
+    },
+    {
+      "name": "figma-plugin",
+      "description": "Develops Figma plugins using TypeScript and Figma Plugin API. Use for automating design processes.",
+      "category": "design",
+      "tags": "[figma, plugin, typescript, design, automation]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/design/figma-plugin"
+    },
+    {
+      "name": "electron",
+      "description": "Builds cross-platform desktop applications with Electron, React, and IPC communication. Use for native desktop apps with web tech.",
+      "category": "desktop",
+      "tags": "[electron, desktop, react, native, cross-platform]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/desktop/electron"
+    },
+    {
+      "name": "tauri",
+      "description": "Builds lightweight, secure desktop applications with Tauri, Rust backend, and web frontend. Use for small, fast native apps.",
+      "category": "desktop",
+      "tags": "[tauri, rust, desktop, native, lightweight]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/desktop/tauri"
+    },
+    {
+      "name": "nginx",
+      "description": "Automates server configuration and deployment using Ansible playbooks. Use for configuration management.",
+      "category": "devops",
+      "tags": "[ansible, automation, configuration-management, devops]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/ansible-automation"
+    },
+    {
+      "name": "argocd-rollback",
+      "description": "Performs automatic and manual rollback of deployments in Kubernetes via ArgoCD. Use for quick recovery from failures.",
+      "category": "devops",
+      "tags": "[argocd, rollback, kubernetes, gitops, recovery]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/argocd-rollback"
+    },
+    {
+      "name": "aws-lambda",
+      "description": "Builds and deploys serverless functions with AWS Lambda, API Gateway, and SAM/CDK. Use for event-driven architectures.",
+      "category": "devops",
+      "tags": "[aws, lambda, serverless, api-gateway, sam]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/aws-lambda"
+    },
+    {
+      "name": "docker-optimization",
+      "description": "Optimizes Docker images with multi-stage builds, layer caching, and size reduction. Use for CI/CD acceleration and disk savings.",
+      "category": "devops",
+      "tags": "[docker, optimization, multi-stage, caching]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/docker-optimization"
+    },
+    {
+      "name": "gitops-argocd",
+      "description": "Implements GitOps approach for Kubernetes with ArgoCD, automatically syncing cluster state with Git.",
+      "category": "devops",
+      "tags": "[argocd, gitops, kubernetes, continuous-delivery]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/gitops-argocd"
+    },
+    {
+      "name": "jenkins-pipeline",
+      "description": "Creates Jenkins pipeline scripts for CI/CD with declarative and scripted syntax support. Use for automation of builds and deployments.",
+      "category": "devops",
+      "tags": "[jenkins, pipeline, ci-cd, groovy, automation]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/jenkins-pipeline"
+    },
+    {
+      "name": "k8s-helm-deploy",
+      "description": "Deploys applications to Kubernetes using Helm charts and values overrides. Use for managing releases in K8s.",
+      "category": "devops",
+      "tags": "[kubernetes, helm, deploy, devops]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/k8s-helm-deploy"
+    },
+    {
+      "name": "logging-elk",
+      "description": "Sets up centralized log collection and analysis with ELK stack. Use for debugging and log monitoring.",
+      "category": "devops",
+      "tags": "[elk, elasticsearch, logstash, kibana, logging]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/logging-elk"
+    },
+    {
+      "name": "monitoring-prometheus",
+      "description": "Sets up application and infrastructure monitoring with Prometheus and Grafana. Use for metrics collection and alerting.",
+      "category": "devops",
+      "tags": "[prometheus, grafana, monitoring, metrics]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/monitoring-prometheus"
+    },
+    {
+      "name": "security-scan",
+      "description": "Integrates vulnerability scanning (Trivy, Snyk) into CI/CD pipelines. Use for checking Docker images and dependencies.",
+      "category": "devops",
+      "tags": "[security, scanning, trivy, snyk, devops]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/security-scan"
+    },
+    {
+      "name": "terraform-aws",
+      "description": "Provisions infrastructure in AWS using Terraform modules. Use for IaC management of cloud resources.",
+      "category": "devops",
+      "tags": "[terraform, aws, iac, infrastructure]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/terraform-aws"
+    },
+    {
+      "name": "angular-typescript",
+      "description": "Creates Angular applications with TypeScript, components, and services. Use for enterprise frontend development.",
+      "category": "frontend",
+      "tags": "[angular, typescript, frontend, components, rxjs]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/angular-typescript"
+    },
+    {
+      "name": "astro-ssg",
+      "description": "Creates static sites with Astro, supporting any UI framework. Use for fast content-oriented sites.",
+      "category": "frontend",
+      "tags": "[astro, ssg, static-site, markdown, mdx]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/astro-ssg"
+    },
+    {
+      "name": "nextjs-ssr",
+      "description": "Generates Next.js applications with SSR, SSG, and API routes. Use for SEO-optimized React applications.",
+      "category": "frontend",
+      "tags": "[nextjs, react, ssr, ssg, seo]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/nextjs-ssr"
+    },
+    {
+      "name": "react-typescript",
+      "description": "Creates React components with TypeScript, props typing, and hooks. Use for type-safe UI development.",
+      "category": "frontend",
+      "tags": "[react, typescript, frontend, components, hooks]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/react-typescript"
+    },
+    {
+      "name": "remix",
+      "description": "Builds full-stack web applications with Remix, nested routes, and server-side rendering. Use for modern React apps with SSR.",
+      "category": "frontend",
+      "tags": "[remix, react, ssr, fullstack, web]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/remix"
+    },
+    {
+      "name": "solidjs",
+      "description": "Creates reactive UIs with SolidJS, signals, and fine-grained reactivity. Use for high-performance web applications.",
+      "category": "frontend",
+      "tags": "[solidjs, javascript, reactivity, signals, frontend]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/solidjs"
+    },
+    {
+      "name": "svelte-kit",
+      "description": "Creates SvelteKit applications with file-based routing and server-side rendering. Use for lightweight, fast web applications.",
+      "category": "frontend",
+      "tags": "[svelte, sveltekit, frontend, ssr]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/svelte-kit"
+    },
+    {
+      "name": "tailwind-css",
+      "description": "Creates responsive UIs with Tailwind CSS utility classes and custom design tokens. Use for rapid, consistent styling.",
+      "category": "frontend",
+      "tags": "[tailwind, css, design, responsive, frontend]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/tailwind-css"
+    },
+    {
+      "name": "vue-composition",
+      "description": "Creates Vue 3 components with Composition API and TypeScript. Use for modern Vue applications with reactive state.",
+      "category": "frontend",
+      "tags": "[vue, composition-api, typescript, frontend]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/vue-composition"
+    },
+    {
+      "name": "godot",
+      "description": "Develops 2D/3D games on Godot Engine with GDScript. Use for lightweight cross-platform games.",
+      "category": "gamedev",
+      "tags": "[godot, gdscript, game-dev, 2d, 3d, open-source]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/gamedev/godot"
+    },
+    {
+      "name": "unity",
+      "description": "Develops games on Unity using C# scripts and component architecture. Use for 2D/3D games across multiple platforms.",
+      "category": "gamedev",
+      "tags": "[unity, csharp, game-dev, 2d, 3d]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/gamedev/unity"
+    },
+    {
+      "name": "unreal",
+      "description": "Creates games on Unreal Engine with Blueprints or C++. Use for AAA-quality and high-performance games.",
+      "category": "gamedev",
+      "tags": "[unreal, cpp, blueprint, game-dev, aaa]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/gamedev/unreal"
+    },
+    {
+      "name": "arduino",
+      "description": "Programs Arduino boards for hardware projects and prototyping. Use for simple IoT and robotics projects.",
+      "category": "iot",
+      "tags": "[arduino, iot, microcontroller, c, prototyping]",
+      "models": "[haiku, sonnet]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/iot/arduino"
+    },
+    {
+      "name": "esp32",
+      "description": "Programs ESP32 microcontrollers in C/C++ or MicroPython. Use for IoT projects with WiFi/Bluetooth.",
+      "category": "iot",
+      "tags": "[esp32, iot, microcontroller, wifi, bluetooth, micropython]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/iot/esp32"
+    },
+    {
+      "name": "mqtt",
+      "description": "Sets up MQTT brokers and clients for messaging in IoT systems. Use for lightweight messaging in IoT.",
+      "category": "iot",
+      "tags": "[mqtt, iot, messaging, broker, mosquitto]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/iot/mqtt"
+    },
+    {
+      "name": "android-kotlin",
+      "description": "Generates Android applications using Kotlin and Jetpack Compose. Use for modern native Android development.",
+      "category": "mobile",
+      "tags": "[android, kotlin, jetpack-compose, mobile]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/mobile/android-kotlin"
+    },
+    {
+      "name": "flutter-clean-arch",
+      "description": "Creates Flutter applications with Clean Architecture and layer separation. Use for scalable mobile applications.",
+      "category": "mobile",
+      "tags": "[flutter, clean-arch, mobile, dart]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/mobile/flutter-clean-arch"
+    },
+    {
+      "name": "ios-swiftui",
+      "description": "Creates iOS applications using SwiftUI and modern Apple patterns. Use for native iOS development.",
+      "category": "mobile",
+      "tags": "[ios, swiftui, swift, apple, mobile]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/mobile/ios-swiftui"
+    },
+    {
+      "name": "react-native-expo",
+      "description": "Generates React Native applications using Expo and TypeScript. Use for cross-platform mobile development.",
+      "category": "mobile",
+      "tags": "[react-native, expo, mobile, typescript]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/mobile/react-native-expo"
+    },
+    {
+      "name": "stripe-payments",
+      "description": "Integrates Stripe payment processing — checkout sessions, subscriptions, webhooks, and customer portals.",
+      "category": "payments",
+      "tags": "[stripe, payments, subscriptions, checkout, saas]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/payments/stripe-payments"
+    },
+    {
+      "name": "metrics-dora",
+      "description": "Calculates DORA metrics (Deployment Frequency, Lead Time, MTTR, CFR) for teams. Use for evaluating DevOps effectiveness.",
+      "category": "product",
+      "tags": "[dora, metrics, devops, performance]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/product/metrics-dora"
+    },
+    {
+      "name": "prd-template",
+      "description": "Generates structured PRD (Product Requirements Document) with goals, features, and success criteria. Use for documenting requirements.",
+      "category": "product",
+      "tags": "[prd, product, requirements, documentation]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/product/prd-template"
+    },
+    {
+      "name": "sprint-retro",
+      "description": "Facilitates Sprint Retrospective with structured blocks and action items. Use by Scrum masters and teams.",
+      "category": "product",
+      "tags": "[agile, scrum, retro, sprint]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/product/sprint-retro"
+    },
+    {
+      "name": "user-story-mapping",
+      "description": "Facilitates User Story Mapping sessions and requirement structuring. Use for product planning.",
+      "category": "product",
+      "tags": "[user-story, agile, product, planning]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/product/user-story-mapping"
+    },
+    {
+      "name": "contract-testing-pact",
+      "description": "Implements contract testing for APIs with Pact. Use for checking compatibility between services.",
+      "category": "qa",
+      "tags": "[contract-testing, pact, api, testing]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/qa/contract-testing-pact"
+    },
+    {
+      "name": "cypress-e2e",
+      "description": "Creates E2E tests with Cypress for modern web applications. Use for fast testing with debugging.",
+      "category": "qa",
+      "tags": "[cypress, e2e, testing, javascript, typescript]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/qa/cypress-e2e"
+    },
+    {
+      "name": "e2e-playwright",
+      "description": "Creates E2E tests with Playwright and Allure report generation. Use for automated user scenario testing.",
+      "category": "qa",
+      "tags": "[e2e, playwright, testing, allure]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/qa/e2e-playwright"
+    },
+    {
+      "name": "performance-k6",
+      "description": "Conducts load testing of APIs and web applications with k6. Use for performance validation under load.",
+      "category": "qa",
+      "tags": "[performance, k6, load-testing, qa]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/qa/performance-k6"
+    },
+    {
+      "name": "security-owasp",
+      "description": "Checks web applications for OWASP Top 10 compliance. Use for security testing.",
+      "category": "qa",
+      "tags": "[security, owasp, testing, vulnerability]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/qa/security-owasp"
+    },
+    {
+      "name": "selenium-grid",
+      "description": "Sets up Selenium Grid for distributed web application testing. Use for parallel test execution.",
+      "category": "qa",
+      "tags": "[selenium, grid, testing, parallel, webdriver]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/qa/selenium-grid"
+    },
+    {
+      "name": "compliance-gdpr",
+      "description": "Checks application compliance with GDPR (General Data Protection Regulation) requirements. Use for compliance audit.",
+      "category": "security",
+      "tags": "[gdpr, compliance, privacy, legal]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/security/compliance-gdpr"
+    },
+    {
+      "name": "oauth2-jwt",
+      "description": "Implements OAuth 2.0 authentication and JWT-based authorization with refresh tokens. Use for secure API access.",
+      "category": "security",
+      "tags": "[oauth2, jwt, auth, security, authentication]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/security/oauth2-jwt"
+    },
+    {
+      "name": "pentest-checklist",
+      "description": "Provides checklists for conducting penetration testing of web applications and infrastructure. Use by security testers.",
+      "category": "security",
+      "tags": "[pentest, checklist, security, testing]",
+      "models": "[opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/security/pentest-checklist"
+    },
+    {
+      "name": "sbom-generation",
+      "description": "Generates Software Bill of Materials (SBOM) for tracking dependencies and vulnerabilities. Use for supply chain security.",
+      "category": "security",
+      "tags": "[sbom, supply-chain, security, dependencies]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/security/sbom-generation"
+    },
+    {
+      "name": "secrets-management",
+      "description": "Manages application secrets with HashiCorp Vault or AWS Secrets Manager. Use for secure credential storage.",
+      "category": "security",
+      "tags": "[secrets, vault, security, credentials]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/security/secrets-management"
+    },
+    {
+      "name": "test-reporting",
+      "description": "Generates test reports using Allure and pytest. Use for visualizing test results, tracking bugs, and team collaboration.",
+      "category": "qa",
+      "tags": "[testing, reporting, allure, pytest, qa, metrics]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/test-reporting"
     }
   ]
 }

@@ -1,0 +1,77 @@
+---
+name: oauth2-jwt
+description: Implements OAuth 2.0 authentication and JWT-based authorization with refresh tokens. Use for secure API access.
+category: security
+tags: [oauth2, jwt, auth, security, authentication]
+models: [sonnet, opus]
+version: 1.0.0
+created: 2026-05-14
+---
+# OAuth2 & JWT
+
+> Secure API authentication with OAuth 2.0 and JSON Web Tokens.
+
+## Quick Start
+```typescript
+import jwt from 'jsonwebtoken';
+import bcrypt from 'bcrypt';
+
+// Login
+const user = await db.user.findUnique({ where: { email } });
+const valid = await bcrypt.compare(password, user.password);
+if (!valid) throw new Error('Invalid credentials');
+
+// Generate tokens
+const accessToken = jwt.sign(
+  { userId: user.id, role: user.role },
+  process.env.JWT_SECRET!,
+  { expiresIn: '15m' }
+);
+const refreshToken = jwt.sign(
+  { userId: user.id },
+  process.env.JWT_REFRESH_SECRET!,
+  { expiresIn: '7d' }
+);
+
+// Middleware
+function authMiddleware(req, res, next) {
+  const token = req.headers.authorization?.split(' ')[1];
+  try {
+    const decoded = jwt.verify(token, process.env.JWT_SECRET!);
+    req.user = decoded;
+    next();
+  } catch {
+    res.status(401).json({ error: 'Invalid token' });
+  }
+}
+```
+
+## When to Use
+- ✅ API authentication and authorization
+- ✅ Single sign-on (SSO) with OAuth providers
+- ❌ Not for server-to-server with API keys
+
+## Step-by-Step Instructions
+1. Install packages: `npm install jsonwebtoken bcrypt`
+2. Set up user model with hashed passwords
+3. Create login endpoint returning access + refresh tokens
+4. Add auth middleware to protected routes
+
+## Dependencies
+```bash
+npm install jsonwebtoken bcrypt
+# For OAuth providers: passport, passport-google-oauth20, etc.
+```
+
+## Examples
+Input: Login with email/password → Output: `{ accessToken, refreshToken, expiresIn }`
+
+## Resources
+- [JWT.io](https://jwt.io/)
+- [OAuth 2.0 Spec](https://oauth.net/2/)
+- [Examples](./examples/)
+
+## Validation
+1. Tokens sign and verify correctly
+2. Expired tokens are rejected
+3. Refresh tokens issue new access tokens
