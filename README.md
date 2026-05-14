@@ -57,8 +57,8 @@ Then:
 ### Backend — 11 skills
 `python-fastapi` `flask-python` `nodejs-express` `go-gin` `java-spring` `django-rest` `laravel` `ruby-rails` `dotnet` `graphql-api` `websocket`
 
-### Frontend — 11 skills
-`react-typescript` `vue-composition` `nextjs-ssr` `nuxt` `svelte-kit` `angular-typescript` `astro-ssg` `remix` `solidjs` `tailwind-css` `gatsby`
+### Frontend — 12 skills
+`react-typescript` `vue-composition` `nextjs-ssr` `nuxt` `svelte-kit` `angular-typescript` `astro-ssg` `remix` `solidjs` `tailwind-css` `gatsby` `storybook`
 
 ### Mobile — 5 skills
 `flutter-clean-arch` `react-native-expo` `ios-swiftui` `android-kotlin` `capacitor`
@@ -69,7 +69,7 @@ Then:
 ### Data — 8 skills
 `etl-pipeline` `ml-model-training` `vector-db-rag` `data-validation` `airflow-dags` `kafka-streams` `dbt` `snowflake`
 
-### AI — 10 skills
+### AI — 9 skills
 `prompt-engineering` `llm-eval` `llm-finetuning` `embedding-chunking` `agent-design` `langchain-rag` `huggingface` `openai-api` `ollama`
 
 ### Database — 7 skills
