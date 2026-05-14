@@ -1,8 +1,8 @@
 # Claude Skills Library
-### 84 Pre-Built Skills That Supercharge Your Claude.ai
+### 104 Pre-Built Skills That Supercharge Your Claude.ai
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Skills: 84](https://img.shields.io/badge/Skills-84-brightgreen)](.claude/skills/)
+[![Skills: 104](https://img.shields.io/badge/Skills-104-brightgreen)](.claude/skills/)
 [![Domains: 16](https://img.shields.io/badge/Domains-16-purple)](#whats-inside)
 [![Last Update](https://img.shields.io/github/last-commit/ssrjkk/claude-skills)](../../commits)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.github/CONTRIBUTING.md)
@@ -28,12 +28,12 @@ With one click, Claude loads the exact skill it needs — battle-tested instruct
 
 | | |
 |---|---|
-| **66 specialized skills** | backend, frontend, mobile, devops, data, AI, QA, product, security, blockchain, gamedev, IoT, design |
+| **104 specialized skills** | backend, frontend, mobile, devops, data, database, AI, QA, product, security, blockchain, gamedev, IoT, design, desktop, payments |
 | **Saves you hours** | no prompt engineering, no context repeat |
 | **Production-ready** | validated patterns, best practices baked in |
 | **Zero cost** | runs locally in Claude.ai, no API keys |
 | **Works offline** | everything in your repo, nothing in the cloud |
-| **12 domains** | from FastAPI to Unreal Engine, from Kafka to Solidity |
+| **16 domains** | from FastAPI to Unreal Engine, from Kafka to Solidity |
 
 ---
 
@@ -54,32 +54,44 @@ Then:
 
 ## What's Inside
 
-### Backend — 6 skills
-`python-fastapi` `nodejs-express` `go-gin` `java-spring` `django-rest` `laravel`
+### Backend — 11 skills
+`python-fastapi` `flask-python` `nodejs-express` `go-gin` `java-spring` `django-rest` `laravel` `ruby-rails` `dotnet` `graphql-api` `websocket`
 
-### Frontend — 6 skills
-`react-typescript` `vue-composition` `nextjs-ssr` `svelte-kit` `angular-typescript` `astro-ssg`
+### Frontend — 11 skills
+`react-typescript` `vue-composition` `nextjs-ssr` `nuxt` `svelte-kit` `angular-typescript` `astro-ssg` `remix` `solidjs` `tailwind-css` `gatsby`
 
-### Mobile — 4 skills
-`flutter-clean-arch` `react-native-expo` `ios-swiftui` `android-kotlin`
+### Mobile — 5 skills
+`flutter-clean-arch` `react-native-expo` `ios-swiftui` `android-kotlin` `capacitor`
 
-### DevOps — 10 skills
-`docker-optimization` `k8s-helm-deploy` `terraform-aws` `ansible-automation` `monitoring-prometheus` `logging-elk` `gitops-argocd` `jenkins-pipeline` `argocd-rollback` `security-scan`
+### DevOps — 14 skills
+`docker-optimization` `k8s-helm-deploy` `terraform-aws` `terraform-gcp` `circleci` `gitlab-ci` `aws-lambda` `ansible-automation` `monitoring-prometheus` `logging-elk` `gitops-argocd` `jenkins-pipeline` `argocd-rollback` `security-scan`
 
-### Data — 6 skills
-`etl-pipeline` `ml-model-training` `vector-db-rag` `data-validation` `airflow-dags` `kafka-streams`
+### Data — 8 skills
+`etl-pipeline` `ml-model-training` `vector-db-rag` `data-validation` `airflow-dags` `kafka-streams` `dbt` `snowflake`
 
-### AI — 4 skills
-`prompt-engineering` `llm-eval` `embedding-chunking` `agent-design`
+### AI — 10 skills
+`prompt-engineering` `llm-eval` `llm-finetuning` `embedding-chunking` `agent-design` `langchain-rag` `huggingface` `openai-api` `ollama`
 
-### QA — 10 skills
-`api-testing` `database-migration` `ci-cd-setup` `test-reporting` `e2e-playwright` `contract-testing-pact` `performance-k6` `security-owasp` `selenium-grid` `cypress-e2e`
+### Database — 7 skills
+`postgresql` `mongodb` `redis` `elasticsearch` `dynamodb` `prisma-orm` `supabase`
+
+### Desktop — 2 skills
+`electron` `tauri`
+
+### QA — 12 skills
+`api-testing` `database-migration` `ci-cd-setup` `test-reporting` `e2e-playwright` `jest` `vitest` `contract-testing-pact` `performance-k6` `security-owasp` `selenium-grid` `cypress-e2e`
 
 ### Product — 4 skills
 `user-story-mapping` `prd-template` `sprint-retro` `metrics-dora`
 
-### Security — 4 skills
-`secrets-management` `sbom-generation` `pentest-checklist` `compliance-gdpr`
+### Security — 6 skills
+`secrets-management` `sbom-generation` `pentest-checklist` `compliance-gdpr` `oauth2-jwt` `sonarqube`
+
+### Payments — 1 skill
+`stripe-payments`
+
+### Design — 4 skills
+`figma-plugin` `design-tokens` `accessibility` `shadcn-ui`
 
 ### Blockchain — 3 skills
 `solidity` `web3js` `smart-contracts`
@@ -90,16 +102,13 @@ Then:
 ### IoT — 3 skills
 `esp32` `arduino` `mqtt`
 
-### Design — 3 skills
-`figma-plugin` `design-tokens` `accessibility`
-
 ---
 
 ## By The Numbers
 
-- **66 skills** ready to use
-- **12 domains** from backend to blockchain
-- **13 categories** organized and tagged
+- **104 skills** ready to use
+- **16 domains** from backend to blockchain
+- **16 categories** organized and tagged
 - **0 setup cost** — clone and go
 
 [Full catalog PDF](Claude_Skills_Catalog_Startup.docx) | [Model compatibility](.claude/MODELS.md)

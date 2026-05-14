@@ -2,7 +2,7 @@
   "metadata": {
     "schema_version": "2.0",
     "generated_at": "2026-05-14T12:00:00Z",
-    "total_skills": 84,
+    "total_skills": 104,
     "domains": [
       "ai",
       "backend",
@@ -78,6 +78,24 @@
       "path": ".claude/skills/.claude/skills/ai/llm-finetuning"
     },
     {
+      "name": "ollama",
+      "description": "Runs large language models locally with Ollama, including model management, custom Modelfiles, and API integration. Use for private, offline LLM inference.",
+      "category": "ai",
+      "tags": "[ollama, llm, local, offline, llama]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/ollama"
+    },
+    {
+      "name": "openai-api",
+      "description": "Integrates OpenAI API for chat completions, embeddings, and function calling in applications. Use for adding LLM capabilities.",
+      "category": "ai",
+      "tags": "[openai, gpt, api, llm, embeddings]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/openai-api"
+    },
+    {
       "name": "prompt-engineering",
       "description": "Optimizes prompts for LLMs with few-shot, chain-of-thought, and structured output techniques. Use for improving response quality.",
       "category": "ai",
@@ -112,6 +130,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/backend/dotnet"
+    },
+    {
+      "name": "flask-python",
+      "description": "Creates lightweight web applications and REST APIs with Flask, Jinja2 templates, and SQLAlchemy. Use for simple Python web apps and microservices.",
+      "category": "backend",
+      "tags": "[python, flask, web, jinja, sqlalchemy]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/backend/flask-python"
     },
     {
       "name": "go-gin",
@@ -177,6 +204,15 @@
       "path": ".claude/skills/.claude/skills/backend/ruby-rails"
     },
     {
+      "name": "websocket",
+      "description": "Implements real-time bidirectional communication using WebSockets with Socket.IO, ws, or native WebSocket API. Use for chat, live updates, and collaborative apps.",
+      "category": "backend",
+      "tags": "[websocket, realtime, socketio, nodejs, python]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/backend/websocket"
+    },
+    {
       "name": "smart-contracts",
       "description": "Creates, tests, and deploys smart contracts using Hardhat or Foundry. Use for full blockchain development lifecycle.",
       "category": "block",
@@ -231,6 +267,15 @@
       "path": ".claude/skills/.claude/skills/data/data-validation"
     },
     {
+      "name": "dbt",
+      "description": "Transforms data in warehouses using dbt with SQL models, tests, and documentation. Use for analytics engineering and data transformation.",
+      "category": "data",
+      "tags": "[dbt, sql, data-warehouse, analytics, etl]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/data/dbt"
+    },
+    {
       "name": "etl-pipeline",
       "description": "Builds ETL pipelines with Python, Pandas, and SQLAlchemy. Use for extracting, transforming, and loading data between systems.",
       "category": "data",
@@ -258,6 +303,15 @@
       "path": ".claude/skills/.claude/skills/data/ml-model-training"
     },
     {
+      "name": "snowflake",
+      "description": "Manages data warehousing with Snowflake, including virtual warehouses, clustering, and semi-structured data support. Use for cloud analytics at scale.",
+      "category": "data",
+      "tags": "[snowflake, data-warehouse, cloud, analytics, sql]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/data/snowflake"
+    },
+    {
       "name": "vector-db-rag",
       "description": "Builds RAG pipelines with vector databases (Chroma, Pinecone) and embedding models. Use for semantic search and LLM applications.",
       "category": "data",
@@ -276,6 +330,24 @@
       "path": ".claude/skills/.claude/skills/database-migration"
     },
     {
+      "name": "dynamodb",
+      "description": "Designs NoSQL tables, writes efficient queries, and manages capacity with AWS DynamoDB. Use for serverless applications at scale.",
+      "category": "database",
+      "tags": "[dynamodb, aws, nosql, serverless, database]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/database/dynamodb"
+    },
+    {
+      "name": "elasticsearch",
+      "description": "Indexes, searches, and analyzes data with Elasticsearch, using full-text search, aggregations, and Kibana visualization. Use for search and log analytics.",
+      "category": "database",
+      "tags": "[elasticsearch, search, kibana, analytics, nosql]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/database/elasticsearch"
+    },
+    {
       "name": "mongodb",
       "description": "Models data and builds queries with MongoDB aggregation pipelines and indexes. Use for flexible document-based storage.",
       "category": "database",
@@ -283,6 +355,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/database/mongodb"
+    },
+    {
+      "name": "postgresql",
+      "description": "Models relational data, writes optimized queries, and manages PostgreSQL databases with indexes, views, and CTEs. Use for robust data storage.",
+      "category": "database",
+      "tags": "[postgresql, sql, database, relational, queries]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/database/postgresql"
     },
     {
       "name": "prisma-orm",
@@ -339,6 +420,15 @@
       "path": ".claude/skills/.claude/skills/design/figma-plugin"
     },
     {
+      "name": "shadcn-ui",
+      "description": "Builds modern UI components with shadcn/ui, a collection of re-usable components built with Radix UI and Tailwind CSS. Use for beautiful, accessible React apps.",
+      "category": "design",
+      "tags": "[shadcn-ui, react, tailwind, radix, components]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/design/shadcn-ui"
+    },
+    {
       "name": "electron",
       "description": "Builds cross-platform desktop applications with Electron, React, and IPC communication. Use for native desktop apps with web tech.",
       "category": "desktop",
@@ -384,6 +474,15 @@
       "path": ".claude/skills/.claude/skills/devops/aws-lambda"
     },
     {
+      "name": "circleci",
+      "description": "Configures CI/CD pipelines with CircleCI using orbs, workspaces, and parallelism. Use for automating builds, tests, and deployments.",
+      "category": "devops",
+      "tags": "[circleci, ci-cd, pipelines, automation, devops]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/circleci"
+    },
+    {
       "name": "docker-optimization",
       "description": "Optimizes Docker images with multi-stage builds, layer caching, and size reduction. Use for CI/CD acceleration and disk savings.",
       "category": "devops",
@@ -391,6 +490,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/devops/docker-optimization"
+    },
+    {
+      "name": "gitlab-ci",
+      "description": "Configures GitLab CI/CD pipelines with stages, jobs, and GitLab Runner. Use for Git-native automation and deployment.",
+      "category": "devops",
+      "tags": "[gitlab, ci-cd, pipelines, runner, devops]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/gitlab-ci"
     },
     {
       "name": "gitops-argocd",
@@ -456,6 +564,15 @@
       "path": ".claude/skills/.claude/skills/devops/terraform-aws"
     },
     {
+      "name": "terraform-gcp",
+      "description": "Provisions GCP infrastructure using Terraform modules for compute, networking, and managed services. Use for GCP infrastructure as code.",
+      "category": "devops",
+      "tags": "[terraform, gcp, infrastructure, iac, cloud]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/terraform-gcp"
+    },
+    {
       "name": "angular-typescript",
       "description": "Creates Angular applications with TypeScript, components, and services. Use for enterprise frontend development.",
       "category": "frontend",
@@ -474,6 +591,15 @@
       "path": ".claude/skills/.claude/skills/frontend/astro-ssg"
     },
     {
+      "name": "gatsby",
+      "description": "Builds blazing-fast static sites and progressive web apps with Gatsby, React, and GraphQL. Use for content-driven sites and documentation.",
+      "category": "frontend",
+      "tags": "[gatsby, react, graphql, static-site, pwa]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/gatsby"
+    },
+    {
       "name": "nextjs-ssr",
       "description": "Generates Next.js applications with SSR, SSG, and API routes. Use for SEO-optimized React applications.",
       "category": "frontend",
@@ -481,6 +607,15 @@
       "models": "[opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/frontend/nextjs-ssr"
+    },
+    {
+      "name": "nuxt",
+      "description": "Creates universal Vue applications with Nuxt 3, file-based routing, SSR, and auto-imports. Use for SEO-friendly Vue apps.",
+      "category": "frontend",
+      "tags": "[nuxt, vue, ssr, ssg, vue3]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/nuxt"
     },
     {
       "name": "react-typescript",
@@ -508,6 +643,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/frontend/solidjs"
+    },
+    {
+      "name": "storybook",
+      "description": "Develops UI components in isolation with Storybook, supporting multiple frameworks. Use for building component libraries and design systems.",
+      "category": "frontend",
+      "tags": "[storybook, components, design-system, react, vue]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/storybook"
     },
     {
       "name": "svelte-kit",
@@ -598,6 +742,15 @@
       "models": "[opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/mobile/android-kotlin"
+    },
+    {
+      "name": "capacitor",
+      "description": "Builds cross-platform mobile apps with Capacitor, bridging web apps to native device features. Use for hybrid mobile development.",
+      "category": "mobile",
+      "tags": "[capacitor, mobile, hybrid, ios, android]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/mobile/capacitor"
     },
     {
       "name": "flutter-clean-arch",
@@ -699,6 +852,15 @@
       "path": ".claude/skills/.claude/skills/qa/e2e-playwright"
     },
     {
+      "name": "jest",
+      "description": "Writes unit and integration tests with Jest, including mocks, snapshots, and code coverage. Use for JavaScript/TypeScript testing.",
+      "category": "qa",
+      "tags": "[jest, testing, javascript, typescript, unit-test]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/qa/jest"
+    },
+    {
       "name": "performance-k6",
       "description": "Conducts load testing of APIs and web applications with k6. Use for performance validation under load.",
       "category": "qa",
@@ -724,6 +886,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/qa/selenium-grid"
+    },
+    {
+      "name": "vitest",
+      "description": "Runs fast unit and integration tests with Vitest, featuring Vite-native speed and Jest-compatible API. Use for modern Vite projects.",
+      "category": "qa",
+      "tags": "[vitest, testing, vite, javascript, typescript]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/qa/vitest"
     },
     {
       "name": "compliance-gdpr",
@@ -769,6 +940,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/security/secrets-management"
+    },
+    {
+      "name": "sonarqube",
+      "description": "Analyzes code quality and security with SonarQube, detecting bugs, vulnerabilities, and code smells. Use for continuous code inspection.",
+      "category": "security",
+      "tags": "[sonarqube, code-quality, static-analysis, security, linting]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/security/sonarqube"
     },
     {
       "name": "test-reporting",
