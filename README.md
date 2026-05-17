@@ -1,8 +1,8 @@
 # Claude Skills Library
-### 104 Pre-Built Skills That Supercharge Your Claude.ai
+### 112 Pre-Built Skills That Supercharge Your Claude.ai
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Skills: 104](https://img.shields.io/badge/Skills-104-brightgreen)](.claude/skills/)
+[![Skills: 112](https://img.shields.io/badge/Skills-112-brightgreen)](.claude/skills/)
 [![Domains: 16](https://img.shields.io/badge/Domains-16-purple)](#whats-inside)
 [![Last Update](https://img.shields.io/github/last-commit/ssrjkk/claude-skills)](../../commits)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.github/CONTRIBUTING.md)
@@ -28,7 +28,7 @@ With one click, Claude loads the exact skill it needs — battle-tested instruct
 
 | | |
 |---|---|
-| **104 specialized skills** | backend, frontend, mobile, devops, data, database, AI, QA, product, security, blockchain, gamedev, IoT, design, desktop, payments |
+| **112 specialized skills** | backend, frontend, mobile, devops, data, database, AI, QA, product, security, blockchain, gamedev, IoT, design, desktop, payments |
 | **Saves you hours** | no prompt engineering, no context repeat |
 | **Production-ready** | validated patterns, best practices baked in |
 | **Zero cost** | runs locally in Claude.ai, no API keys |
@@ -69,8 +69,8 @@ Then:
 ### Data — 8 skills
 `etl-pipeline` `ml-model-training` `vector-db-rag` `data-validation` `airflow-dags` `kafka-streams` `dbt` `snowflake`
 
-### AI — 9 skills
-`prompt-engineering` `llm-eval` `llm-finetuning` `embedding-chunking` `agent-design` `langchain-rag` `huggingface` `openai-api` `ollama`
+### AI — 17 skills
+`prompt-engineering` `chain-of-thought` `structured-output` `few-shot-learning` `system-prompt-design` `prompt-testing` `function-calling` `rag-prompting` `prompt-compression` `llm-eval` `llm-finetuning` `embedding-chunking` `agent-design` `langchain-rag` `huggingface` `openai-api` `ollama`
 
 ### Database — 7 skills
 `postgresql` `mongodb` `redis` `elasticsearch` `dynamodb` `prisma-orm` `supabase`
@@ -106,7 +106,7 @@ Then:
 
 ## By The Numbers
 
-- **104 skills** ready to use
+- **112 skills** ready to use
 - **16 domains** from backend to blockchain
 - **16 categories** organized and tagged
 - **0 setup cost** — clone and go

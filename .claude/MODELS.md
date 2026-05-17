@@ -18,23 +18,23 @@ No skills are exclusive to Haiku. Skills compatible with Haiku also work with So
 ### Sonnet (Better)
 - accessibility
 - airflow-dags
-- ansible-automation
 - api-testing
 - arduino
 - astro-ssg
 - aws-lambda
 - capacitor
-- circleci
+- chain-of-thought
 - ci-cd-setup
+- circleci
 - contract-testing-pact
 - cypress-e2e
 - data-validation
 - database-migration
+- dbt
 - design-tokens
 - django-rest
 - docker-optimization
 - dotnet
-- dbt
 - dynamodb
 - e2e-playwright
 - elasticsearch
@@ -42,15 +42,17 @@ No skills are exclusive to Haiku. Skills compatible with Haiku also work with So
 - embedding-chunking
 - esp32
 - etl-pipeline
+- few-shot-learning
 - figma-plugin
 - flask-python
+- function-calling
 - gatsby
 - gitlab-ci
 - go-gin
 - godot
 - graphql-api
-- jest
 - jenkins-pipeline
+- jest
 - laravel
 - metrics-dora
 - mongodb
@@ -66,7 +68,10 @@ No skills are exclusive to Haiku. Skills compatible with Haiku also work with So
 - postgresql
 - prd-template
 - prisma-orm
+- prompt-compression
+- prompt-testing
 - python-fastapi
+- rag-prompting
 - react-native-expo
 - react-typescript
 - redis
@@ -83,8 +88,10 @@ No skills are exclusive to Haiku. Skills compatible with Haiku also work with So
 - sprint-retro
 - storybook
 - stripe-payments
+- structured-output
 - supabase
 - svelte-kit
+- system-prompt-design
 - tailwind-css
 - tauri
 - terraform-aws
@@ -125,9 +132,6 @@ No skills are exclusive to Haiku. Skills compatible with Haiku also work with So
 - vector-db-rag
 
 ## Recommendation
-
 For most users: **Sonnet** provides the best balance of performance and cost.
-
 For complex tasks (architecture, AI agents): Use **Opus**.
-
 For simple, repetitive tasks: **Haiku** is sufficient.

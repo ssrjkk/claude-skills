@@ -2,7 +2,7 @@
   "metadata": {
     "schema_version": "2.0",
     "generated_at": "2026-05-14T12:00:00Z",
-    "total_skills": 104,
+    "total_skills": 112,
     "domains": [
       "ai",
       "backend",
@@ -33,6 +33,15 @@
       "path": ".claude/skills/.claude/skills/ai/agent-design"
     },
     {
+      "name": "chain-of-thought",
+      "description": "Implements step-by-step reasoning with Chain-of-Thought, Tree-of-Thought, and self-consistency techniques. Use for complex multi-step problems.",
+      "category": "ai",
+      "tags": "[prompt, reasoning, chain-of-thought, step-by-step, llm]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/chain-of-thought"
+    },
+    {
       "name": "embedding-chunking",
       "description": "Splits documents into chunks and creates embeddings for semantic search. Use in RAG pipelines.",
       "category": "ai",
@@ -40,6 +49,24 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/ai/embedding-chunking"
+    },
+    {
+      "name": "few-shot-learning",
+      "description": "Designs and curates few-shot examples to guide LLM behavior, including example selection, formatting, and ordering. Use for task specification without fine-tuning.",
+      "category": "ai",
+      "tags": "[prompt, few-shot, examples, in-context-learning, llm]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/few-shot-learning"
+    },
+    {
+      "name": "function-calling",
+      "description": "Designs prompts and schemas for LLM function calling and tool use, enabling structured interactions with external APIs and services.",
+      "category": "ai",
+      "tags": "[prompt, function-calling, tools, api, structured]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/function-calling"
     },
     {
       "name": "huggingface",
@@ -96,6 +123,15 @@
       "path": ".claude/skills/.claude/skills/ai/openai-api"
     },
     {
+      "name": "prompt-compression",
+      "description": "Reduces prompt token usage through compression techniques, summarization, and selective context inclusion while maintaining output quality. Use for cost optimization.",
+      "category": "ai",
+      "tags": "[prompt, compression, tokens, optimization, cost]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/prompt-compression"
+    },
+    {
       "name": "prompt-engineering",
       "description": "Optimizes prompts for LLMs with few-shot, chain-of-thought, and structured output techniques. Use for improving response quality.",
       "category": "ai",
@@ -103,6 +139,42 @@
       "models": "[opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/ai/prompt-engineering"
+    },
+    {
+      "name": "prompt-testing",
+      "description": "Tests and evaluates prompt quality using systematic methods, A/B testing, regression suites, and automated evaluation with LLM-as-judge. Use for prompt optimization.",
+      "category": "ai",
+      "tags": "[prompt, testing, evaluation, llm-as-judge, ab-testing]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/prompt-testing"
+    },
+    {
+      "name": "rag-prompting",
+      "description": "Designs prompts optimized for Retrieval-Augmented Generation systems, including context integration, citation handling, and hallucination reduction. Use for RAG applications.",
+      "category": "ai",
+      "tags": "[prompt, rag, retrieval, context, citations]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/rag-prompting"
+    },
+    {
+      "name": "structured-output",
+      "description": "Guides LLMs to produce structured, schema-validated JSON output with type safety and format constraints. Use for programmatic LLM integration.",
+      "category": "ai",
+      "tags": "[prompt, json, structured-output, schema, parsing]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/structured-output"
+    },
+    {
+      "name": "system-prompt-design",
+      "description": "Designs effective system prompts for LLM agents, chatbots, and assistants with role definition, constraints, and behavioral guidelines. Use for production AI systems.",
+      "category": "ai",
+      "tags": "[prompt, system-prompt, agent, chatbot, persona]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/system-prompt-design"
     },
     {
       "name": "api-testing",
