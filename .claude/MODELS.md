@@ -1,9 +1,5 @@
 # Claude Models Compatibility Matrix
 
-This document shows which Claude models work best with each skill.
-
-## Model Capabilities
-
 | Model | Speed | Context | Best For |
 |-------|-------|---------|----------|
 | Haiku | Fast | 200K | Simple, repetitive tasks |
@@ -13,80 +9,160 @@ This document shows which Claude models work best with each skill.
 ## Skills by Model
 
 ### Haiku (Good)
-No skills are exclusive to Haiku. Skills compatible with Haiku also work with Sonnet.
+No skills are exclusive to Haiku.
 
 ### Sonnet (Better)
+- aarrr-metrics
 - accessibility
+- actix-web
 - airflow-dags
+- alpinejs
+- ant-design
+- anthropic-api
+- apache-flink
+- apache-spark
 - api-testing
 - arduino
+- artillery
+- aspnet-core
 - astro-ssg
+- auth0
+- autogen
 - aws-lambda
+- blender
+- bootstrap
 - capacitor
+- cassandra
+- cert-manager
 - chain-of-thought
 - ci-cd-setup
 - circleci
+- clickhouse
+- cloudflare
+- color-system
 - contract-testing-pact
+- crewai
+- cucumber
 - cypress-e2e
 - data-validation
 - database-migration
 - dbt
 - design-tokens
+- detox
 - django-rest
 - docker-optimization
+- docusaurus
 - dotnet
 - dynamodb
 - e2e-playwright
 - elasticsearch
 - electron
 - embedding-chunking
+- esp-idf
 - esp32
+- ethersjs
 - etl-pipeline
+- fastify
 - few-shot-learning
 - figma-plugin
+- firebase
 - flask-python
+- flutter-desktop
+- framer-motion
 - function-calling
 - gatsby
+- gemini-api
 - gitlab-ci
 - go-gin
 - godot
+- gradio
+- grafana
 - graphql-api
+- great-expectations
+- hardhat
+- haystack
+- helm
+- home-assistant
+- hono
+- htmx
+- influxdb
+- ionic
 - jenkins-pipeline
 - jest
+- jupyter
+- keycloak
+- kubernetes
 - laravel
+- lit
+- llama-index
+- locust
+- mariadb
+- matter-protocol
 - metrics-dora
 - mongodb
 - monitoring-prometheus
 - mqtt
+- mysql
+- neo4j
+- nestjs
+- netlify
 - nginx
+- node-red
 - nodejs-express
 - nuxt
 - oauth2-jwt
+- okr
 - ollama
 - openai-api
+- opentelemetry
+- packer
+- paddle
+- pandas
 - performance-k6
+- perplexity-api
+- phoenix
+- pinecone
+- pocketbase
 - postgresql
 - prd-template
 - prisma-orm
+- procedural-gen
+- product-analytics
 - prompt-compression
 - prompt-testing
+- pulumi
+- puppeteer
+- pyqt
+- pytest
 - python-fastapi
+- pytorch
+- qwik
+- radix-ui
 - rag-prompting
+- raspberry-pi
+- react-native-bare
 - react-native-expo
 - react-typescript
 - redis
 - remix
 - ruby-rails
+- sass-scss
 - sbom-generation
 - secrets-management
+- secrets-vault
 - security-scan
 - selenium-grid
 - shadcn-ui
 - snowflake
+- snyk
 - solidjs
 - sonarqube
 - sprint-retro
+- sqlite
+- ssl-tls
 - storybook
+- strapi
+- streamlit
 - stripe-payments
 - structured-output
 - supabase
@@ -95,13 +171,21 @@ No skills are exclusive to Haiku. Skills compatible with Haiku also work with So
 - tailwind-css
 - tauri
 - terraform-aws
+- terraform-azure
 - terraform-gcp
 - test-reporting
+- threejs
+- typography-system
 - user-story-mapping
+- vagrant
+- vercel
 - vitest
 - vue-composition
+- waf
+- weaviate
 - web3js
 - websocket
+- xamarin
 
 ### Opus (Best)
 - agent-design
@@ -132,6 +216,4 @@ No skills are exclusive to Haiku. Skills compatible with Haiku also work with So
 - vector-db-rag
 
 ## Recommendation
-For most users: **Sonnet** provides the best balance of performance and cost.
-For complex tasks (architecture, AI agents): Use **Opus**.
-For simple, repetitive tasks: **Haiku** is sufficient.
+For most users: **Sonnet**. For complex tasks: **Opus**. For simple tasks: **Haiku**.

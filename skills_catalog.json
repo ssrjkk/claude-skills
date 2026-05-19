@@ -2,7 +2,7 @@
   "metadata": {
     "schema_version": "2.0",
     "generated_at": "2026-05-14T12:00:00Z",
-    "total_skills": 112,
+    "total_skills": 200,
     "domains": [
       "ai",
       "backend",
@@ -33,6 +33,24 @@
       "path": ".claude/skills/.claude/skills/ai/agent-design"
     },
     {
+      "name": "anthropic-api",
+      "description": "Integrates Anthropic's Claude API for chat completions, messages, and tool use in applications.",
+      "category": "ai",
+      "tags": "[anthropic, claude, api, llm, messages]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/anthropic-api"
+    },
+    {
+      "name": "autogen",
+      "description": "Creates multi-agent AI systems with AutoGen, enabling agent conversations, tool use, and group chats.",
+      "category": "ai",
+      "tags": "[autogen, agents, multi-agent, conversation, ai]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/autogen"
+    },
+    {
       "name": "chain-of-thought",
       "description": "Implements step-by-step reasoning with Chain-of-Thought, Tree-of-Thought, and self-consistency techniques. Use for complex multi-step problems.",
       "category": "ai",
@@ -40,6 +58,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/ai/chain-of-thought"
+    },
+    {
+      "name": "crewai",
+      "description": "Orchestrates AI agent teams with CrewAI, role-based agents, tasks, and sequential/parallel workflows.",
+      "category": "ai",
+      "tags": "[crewai, agents, orchestration, tasks, ai]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/crewai"
     },
     {
       "name": "embedding-chunking",
@@ -69,6 +96,33 @@
       "path": ".claude/skills/.claude/skills/ai/function-calling"
     },
     {
+      "name": "gemini-api",
+      "description": "Integrates Google's Gemini API for text generation, vision, embeddings, and function calling.",
+      "category": "ai",
+      "tags": "[gemini, google, api, llm, multimodal]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/gemini-api"
+    },
+    {
+      "name": "gradio",
+      "description": "Creates ML demo interfaces with Gradio, supporting images, text, audio, and video inputs/outputs.",
+      "category": "ai",
+      "tags": "[gradio, python, ml, demo, interactive]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/gradio"
+    },
+    {
+      "name": "haystack",
+      "description": "Builds NLP pipelines with Haystack for document search, QA, and LLM-powered applications.",
+      "category": "ai",
+      "tags": "[haystack, nlp, search, qa, pipelines]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/haystack"
+    },
+    {
       "name": "huggingface",
       "description": "Loads, fine-tunes, and deploys models from HuggingFace Hub for NLP, CV, and audio tasks.",
       "category": "ai",
@@ -85,6 +139,15 @@
       "models": "[opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/ai/langchain-rag"
+    },
+    {
+      "name": "llama-index",
+      "description": "Builds data-augmented LLM applications with LlamaIndex, including indexing, retrieval, and query engines.",
+      "category": "ai",
+      "tags": "[llamaindex, rag, llm, indexing, retrieval]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/llama-index"
     },
     {
       "name": "llm-eval",
@@ -123,6 +186,24 @@
       "path": ".claude/skills/.claude/skills/ai/openai-api"
     },
     {
+      "name": "perplexity-api",
+      "description": "Integrates Perplexity AI's online LLM API for web-connected search and generation with real-time information.",
+      "category": "ai",
+      "tags": "[perplexity, api, search, llm, online]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/perplexity-api"
+    },
+    {
+      "name": "pinecone",
+      "description": "Manages vector embeddings with Pinecone for semantic search, recommendation, and RAG pipelines.",
+      "category": "ai",
+      "tags": "[pinecone, vector-database, embeddings, search, rag]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/pinecone"
+    },
+    {
       "name": "prompt-compression",
       "description": "Reduces prompt token usage through compression techniques, summarization, and selective context inclusion while maintaining output quality. Use for cost optimization.",
       "category": "ai",
@@ -159,6 +240,15 @@
       "path": ".claude/skills/.claude/skills/ai/rag-prompting"
     },
     {
+      "name": "streamlit",
+      "description": "Builds interactive data apps and ML demos with Streamlit, using pure Python widgets and charts.",
+      "category": "ai",
+      "tags": "[streamlit, python, data-app, dashboard, ml]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/streamlit"
+    },
+    {
       "name": "structured-output",
       "description": "Guides LLMs to produce structured, schema-validated JSON output with type safety and format constraints. Use for programmatic LLM integration.",
       "category": "ai",
@@ -177,6 +267,15 @@
       "path": ".claude/skills/.claude/skills/ai/system-prompt-design"
     },
     {
+      "name": "weaviate",
+      "description": "Deploys Weaviate vector database with hybrid search, modules, and GraphQL API.",
+      "category": "ai",
+      "tags": "[weaviate, vector-database, search, graphql, ai]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/weaviate"
+    },
+    {
       "name": "api-testing",
       "description": "Tests REST and GraphQL APIs using pytest and requests library. Use for endpoint validation, HTTP response verification, and automated API test writing.",
       "category": "qa",
@@ -184,6 +283,24 @@
       "models": "[haiku, sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/api-testing"
+    },
+    {
+      "name": "actix-web",
+      "description": "Develops high-performance HTTP APIs in Rust with Actix Web, actors, and middleware. Use for maximum throughput web services.",
+      "category": "backend",
+      "tags": "[rust, actix-web, async, performance, api]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/backend/actix-web"
+    },
+    {
+      "name": "aspnet-core",
+      "description": "Builds web APIs and applications with ASP.NET Core, controllers, Entity Framework, and middleware.",
+      "category": "backend",
+      "tags": "[aspnet, dotnet, csharp, web-api, entity-framework]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/backend/aspnet-core"
     },
     {
       "name": "django-rest",
@@ -202,6 +319,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/backend/dotnet"
+    },
+    {
+      "name": "fastify",
+      "description": "Builds fast and low-overhead Node.js web APIs with Fastify, schema validation, and plugins. Use for high-performance Node.js backends.",
+      "category": "backend",
+      "tags": "[fastify, nodejs, api, performance, validation]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/backend/fastify"
     },
     {
       "name": "flask-python",
@@ -231,6 +357,15 @@
       "path": ".claude/skills/.claude/skills/backend/graphql-api"
     },
     {
+      "name": "hono",
+      "description": "Creates lightweight, fast web APIs with Hono, supporting Cloudflare Workers, Deno, Bun, and Node.js. Use for edge-compatible APIs.",
+      "category": "backend",
+      "tags": "[hono, edge, cloudflare, workers, typescript]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/backend/hono"
+    },
+    {
       "name": "java-spring",
       "description": "Generates Spring Boot application structure with REST controllers and JPA repositories. Use for creating enterprise-grade Java applications.",
       "category": "backend",
@@ -249,6 +384,15 @@
       "path": ".claude/skills/.claude/skills/backend/laravel"
     },
     {
+      "name": "nestjs",
+      "description": "Creates Node.js server-side applications with NestJS, modules, dependency injection, and decorators. Use for enterprise-grade Node.js APIs.",
+      "category": "backend",
+      "tags": "[nestjs, nodejs, typescript, api, decorators]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/backend/nestjs"
+    },
+    {
       "name": "nodejs-express",
       "description": "Generates boilerplate for Express.js applications with TypeScript and middleware. Use for building Node.js APIs or web services.",
       "category": "backend",
@@ -256,6 +400,24 @@
       "models": "[haiku, sonnet]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/backend/nodejs-express"
+    },
+    {
+      "name": "phoenix",
+      "description": "Builds scalable web applications with Phoenix, Elixir, LiveView, and Ecto. Use for real-time, fault-tolerant apps.",
+      "category": "backend",
+      "tags": "[phoenix, elixir, liveview, ecto, realtime]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/backend/phoenix"
+    },
+    {
+      "name": "pocketbase",
+      "description": "Deploys backend-as-a-service with PocketBase, including embedded SQLite, auth, file storage, and real-time subscriptions. Use for rapid prototyping.",
+      "category": "backend",
+      "tags": "[pocketbase, bas, sqlite, auth, realtime]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/backend/pocketbase"
     },
     {
       "name": "python-fastapi",
@@ -276,6 +438,15 @@
       "path": ".claude/skills/.claude/skills/backend/ruby-rails"
     },
     {
+      "name": "strapi",
+      "description": "Creates headless CMS backends with Strapi, content types, roles, and REST/GraphQL APIs. Use for rapid content management.",
+      "category": "backend",
+      "tags": "[strapi, cms, headless, api, content]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/backend/strapi"
+    },
+    {
       "name": "websocket",
       "description": "Implements real-time bidirectional communication using WebSockets with Socket.IO, ws, or native WebSocket API. Use for chat, live updates, and collaborative apps.",
       "category": "backend",
@@ -283,6 +454,24 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/backend/websocket"
+    },
+    {
+      "name": "ethersjs",
+      "description": "Interacts with Ethereum blockchain using ethers.js library for transactions, contracts, and accounts.",
+      "category": "block",
+      "tags": "[ethersjs, web3, ethereum, transactions, contracts]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/block/ethersjs"
+    },
+    {
+      "name": "hardhat",
+      "description": "Develops, tests, and deploys Ethereum smart contracts with Hardhat, including local node and debugging.",
+      "category": "block",
+      "tags": "[hardhat, ethereum, smart-contracts, solidity, testing]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/block/hardhat"
     },
     {
       "name": "smart-contracts",
@@ -330,6 +519,24 @@
       "path": ".claude/skills/.claude/skills/data/airflow-dags"
     },
     {
+      "name": "apache-flink",
+      "description": "Builds real-time stream processing applications with Apache Flink, event time, and exactly-once semantics.",
+      "category": "data",
+      "tags": "[flink, stream-processing, realtime, events, java]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/data/apache-flink"
+    },
+    {
+      "name": "apache-spark",
+      "description": "Processes large-scale data with Apache Spark using DataFrames, RDDs, and Spark SQL. Use for big data ETL and analytics.",
+      "category": "data",
+      "tags": "[spark, big-data, dataframe, pyspark, analytics]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/data/apache-spark"
+    },
+    {
       "name": "data-validation",
       "description": "Validates data quality with Great Expectations and Pandera. Use for data pipeline quality checks.",
       "category": "data",
@@ -357,6 +564,24 @@
       "path": ".claude/skills/.claude/skills/data/etl-pipeline"
     },
     {
+      "name": "great-expectations",
+      "description": "Validates data quality with Great Expectations, creating expectations, suites, and data docs.",
+      "category": "data",
+      "tags": "[great-expectations, data-quality, validation, testing, data-pipeline]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/data/great-expectations"
+    },
+    {
+      "name": "jupyter",
+      "description": "Creates and manages Jupyter notebooks for data analysis, visualization, and reproducible research.",
+      "category": "data",
+      "tags": "[jupyter, notebooks, python, data-science, visualization]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/data/jupyter"
+    },
+    {
       "name": "kafka-streams",
       "description": "Processes real-time data streams with Apache Kafka Streams. Use for real-time event processing.",
       "category": "data",
@@ -373,6 +598,24 @@
       "models": "[opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/data/ml-model-training"
+    },
+    {
+      "name": "pandas",
+      "description": "Manipulates and analyzes data with pandas, including DataFrames, group operations, and time series.",
+      "category": "data",
+      "tags": "[pandas, python, dataframe, data-analysis, csv]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/data/pandas"
+    },
+    {
+      "name": "pytorch",
+      "description": "Builds and trains deep learning models with PyTorch, including tensors, autograd, and neural network modules.",
+      "category": "data",
+      "tags": "[pytorch, deep-learning, neural-networks, tensor, gpu]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/data/pytorch"
     },
     {
       "name": "snowflake",
@@ -402,6 +645,24 @@
       "path": ".claude/skills/.claude/skills/database-migration"
     },
     {
+      "name": "cassandra",
+      "description": "Models and queries data with Apache Cassandra for high-availability, partition-tolerant NoSQL workloads.",
+      "category": "database",
+      "tags": "[cassandra, nosql, wide-column, distributed, database]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/database/cassandra"
+    },
+    {
+      "name": "clickhouse",
+      "description": "Analyzes large datasets with ClickHouse, column-oriented DBMS for real-time analytical queries.",
+      "category": "database",
+      "tags": "[clickhouse, olap, analytics, columnar, sql]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/database/clickhouse"
+    },
+    {
       "name": "dynamodb",
       "description": "Designs NoSQL tables, writes efficient queries, and manages capacity with AWS DynamoDB. Use for serverless applications at scale.",
       "category": "database",
@@ -420,6 +681,33 @@
       "path": ".claude/skills/.claude/skills/database/elasticsearch"
     },
     {
+      "name": "firebase",
+      "description": "Builds serverless applications with Firebase, including Firestore, Auth, Cloud Functions, and Realtime Database.",
+      "category": "database",
+      "tags": "[firebase, google, serverless, realtime, auth]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/database/firebase"
+    },
+    {
+      "name": "influxdb",
+      "description": "Collects and queries time-series data with InfluxDB, Flux language, and continuous queries.",
+      "category": "database",
+      "tags": "[influxdb, time-series, metrics, monitoring, database]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/database/influxdb"
+    },
+    {
+      "name": "mariadb",
+      "description": "Manages MariaDB databases with Galera clustering, performance optimization, and InnoDB tuning.",
+      "category": "database",
+      "tags": "[mariadb, database, mysql, clustering, sql]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/database/mariadb"
+    },
+    {
       "name": "mongodb",
       "description": "Models data and builds queries with MongoDB aggregation pipelines and indexes. Use for flexible document-based storage.",
       "category": "database",
@@ -427,6 +715,24 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/database/mongodb"
+    },
+    {
+      "name": "mysql",
+      "description": "Designs and manages MySQL databases with schemas, indexes, queries, and replication. Use for relational data storage.",
+      "category": "database",
+      "tags": "[mysql, sql, database, relational, queries]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/database/mysql"
+    },
+    {
+      "name": "neo4j",
+      "description": "Models graph data with Neo4j and Cypher query language for connected data and relationship-rich domains.",
+      "category": "database",
+      "tags": "[neo4j, graph, cypher, nosql, relationships]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/database/neo4j"
     },
     {
       "name": "postgresql",
@@ -456,6 +762,15 @@
       "path": ".claude/skills/.claude/skills/database/redis"
     },
     {
+      "name": "sqlite",
+      "description": "Embeds SQLite databases in applications with zero configuration and single-file storage. Use for local data persistence.",
+      "category": "database",
+      "tags": "[sqlite, sql, embedded, database, lightweight]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/database/sqlite"
+    },
+    {
       "name": "supabase",
       "description": "Builds apps with Supabase backend — PostgreSQL, auth, real-time subscriptions, and storage. Use as a Firebase alternative.",
       "category": "database",
@@ -472,6 +787,24 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/design/accessibility"
+    },
+    {
+      "name": "ant-design",
+      "description": "Builds enterprise UIs with Ant Design, including pre-built components, theming, and i18n support.",
+      "category": "design",
+      "tags": "[ant-design, react, ui-library, enterprise, components]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/design/ant-design"
+    },
+    {
+      "name": "color-system",
+      "description": "Designs color systems and design tokens for consistent UI theming across light and dark modes.",
+      "category": "design",
+      "tags": "[color, design-tokens, theming, accessibility, ui]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/design/color-system"
     },
     {
       "name": "design-tokens",
@@ -492,6 +825,24 @@
       "path": ".claude/skills/.claude/skills/design/figma-plugin"
     },
     {
+      "name": "framer-motion",
+      "description": "Creates animations in React with Framer Motion, including layout, gesture, and scroll animations.",
+      "category": "design",
+      "tags": "[framer-motion, animation, react, gestures, ui]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/design/framer-motion"
+    },
+    {
+      "name": "radix-ui",
+      "description": "Builds accessible React UI primitives with Radix UI, including dialogs, dropdowns, and tooltips.",
+      "category": "design",
+      "tags": "[radix-ui, react, accessibility, headless, components]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/design/radix-ui"
+    },
+    {
       "name": "shadcn-ui",
       "description": "Builds modern UI components with shadcn/ui, a collection of re-usable components built with Radix UI and Tailwind CSS. Use for beautiful, accessible React apps.",
       "category": "design",
@@ -501,6 +852,24 @@
       "path": ".claude/skills/.claude/skills/design/shadcn-ui"
     },
     {
+      "name": "threejs",
+      "description": "Creates 3D graphics on the web with Three.js, including scenes, cameras, animations, and WebGL.",
+      "category": "design",
+      "tags": "[threejs, 3d, webgl, graphics, animation]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/design/threejs"
+    },
+    {
+      "name": "typography-system",
+      "description": "Creates scalable typography systems with type scale, line height, and responsive text tokens.",
+      "category": "design",
+      "tags": "[typography, fonts, design-tokens, responsive, type-scale]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/design/typography-system"
+    },
+    {
       "name": "electron",
       "description": "Builds cross-platform desktop applications with Electron, React, and IPC communication. Use for native desktop apps with web tech.",
       "category": "desktop",
@@ -508,6 +877,24 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/desktop/electron"
+    },
+    {
+      "name": "flutter-desktop",
+      "description": "Builds desktop applications with Flutter for Windows, macOS, and Linux from a single codebase.",
+      "category": "desktop",
+      "tags": "[flutter, desktop, cross-platform, dart, gui]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/desktop/flutter-desktop"
+    },
+    {
+      "name": "pyqt",
+      "description": "Creates desktop applications with PyQt6, Qt Widgets, signals/slots, and Qt Designer.",
+      "category": "desktop",
+      "tags": "[pyqt, qt, desktop, python, gui]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/desktop/pyqt"
     },
     {
       "name": "tauri",
@@ -555,6 +942,15 @@
       "path": ".claude/skills/.claude/skills/devops/circleci"
     },
     {
+      "name": "cloudflare",
+      "description": "Configures Cloudflare for CDN, DNS, Workers, D1, R2, and Durable Objects. Use for edge computing and site acceleration.",
+      "category": "devops",
+      "tags": "[cloudflare, cdn, workers, dns, edge]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/cloudflare"
+    },
+    {
       "name": "docker-optimization",
       "description": "Optimizes Docker images with multi-stage builds, layer caching, and size reduction. Use for CI/CD acceleration and disk savings.",
       "category": "devops",
@@ -582,6 +978,24 @@
       "path": ".claude/skills/.claude/skills/devops/gitops-argocd"
     },
     {
+      "name": "grafana",
+      "description": "Creates dashboards and visualizations with Grafana, including Prometheus data sources, alerting, and annotations.",
+      "category": "devops",
+      "tags": "[grafana, monitoring, dashboards, visualization, alerting]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/grafana"
+    },
+    {
+      "name": "helm",
+      "description": "Packages and deploys Kubernetes applications with Helm, including charts, templates, and releases.",
+      "category": "devops",
+      "tags": "[helm, kubernetes, charts, packaging, deployment]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/helm"
+    },
+    {
       "name": "jenkins-pipeline",
       "description": "Creates Jenkins pipeline scripts for CI/CD with declarative and scripted syntax support. Use for automation of builds and deployments.",
       "category": "devops",
@@ -598,6 +1012,15 @@
       "models": "[opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/devops/k8s-helm-deploy"
+    },
+    {
+      "name": "kubernetes",
+      "description": "Deploys and manages containerized applications on Kubernetes with pods, deployments, services, and ingress.",
+      "category": "devops",
+      "tags": "[kubernetes, k8s, containers, orchestration, deployment]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/kubernetes"
     },
     {
       "name": "logging-elk",
@@ -618,6 +1041,42 @@
       "path": ".claude/skills/.claude/skills/devops/monitoring-prometheus"
     },
     {
+      "name": "netlify",
+      "description": "Deploys static sites and serverless functions with Netlify, including forms, identity, and split testing.",
+      "category": "devops",
+      "tags": "[netlify, deployment, static-site, jamstack, serverless]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/netlify"
+    },
+    {
+      "name": "opentelemetry",
+      "description": "Implements observability with OpenTelemetry for distributed tracing, metrics, and logs collection.",
+      "category": "devops",
+      "tags": "[opentelemetry, observability, tracing, metrics, monitoring]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/opentelemetry"
+    },
+    {
+      "name": "packer",
+      "description": "Creates identical machine images for multiple platforms with Packer, including AWS AMIs and Docker images.",
+      "category": "devops",
+      "tags": "[packer, images, ami, iac, immutable]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/packer"
+    },
+    {
+      "name": "pulumi",
+      "description": "Provisions cloud infrastructure with Pulumi using TypeScript, Python, Go, or C#. Use for modern IaC with real programming languages.",
+      "category": "devops",
+      "tags": "[pulumi, iac, typescript, cloud, infrastructure]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/pulumi"
+    },
+    {
       "name": "security-scan",
       "description": "Integrates vulnerability scanning (Trivy, Snyk) into CI/CD pipelines. Use for checking Docker images and dependencies.",
       "category": "devops",
@@ -636,6 +1095,15 @@
       "path": ".claude/skills/.claude/skills/devops/terraform-aws"
     },
     {
+      "name": "terraform-azure",
+      "description": "Provisions Azure infrastructure using Terraform modules for compute, networking, and managed services. Use for Azure IaC.",
+      "category": "devops",
+      "tags": "[terraform, azure, infrastructure, iac, cloud]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/terraform-azure"
+    },
+    {
       "name": "terraform-gcp",
       "description": "Provisions GCP infrastructure using Terraform modules for compute, networking, and managed services. Use for GCP infrastructure as code.",
       "category": "devops",
@@ -643,6 +1111,33 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/devops/terraform-gcp"
+    },
+    {
+      "name": "vagrant",
+      "description": "Creates and manages portable development environments with Vagrant, VirtualBox, and provisioners.",
+      "category": "devops",
+      "tags": "[vagrant, virtualbox, dev-environment, provisioning, vm]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/vagrant"
+    },
+    {
+      "name": "vercel",
+      "description": "Deploys frontend applications with Vercel, including serverless functions, preview deployments, and edge functions.",
+      "category": "devops",
+      "tags": "[vercel, deployment, serverless, frontend, edge]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/vercel"
+    },
+    {
+      "name": "alpinejs",
+      "description": "Adds JavaScript behavior to HTML with Alpine.js, a minimal reactive framework. Use for sprinkling interactivity into server-rendered apps.",
+      "category": "frontend",
+      "tags": "[alpinejs, javascript, reactive, html, lightweight]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/alpinejs"
     },
     {
       "name": "angular-typescript",
@@ -663,6 +1158,24 @@
       "path": ".claude/skills/.claude/skills/frontend/astro-ssg"
     },
     {
+      "name": "bootstrap",
+      "description": "Creates responsive, mobile-first websites with Bootstrap, grid system, components, and utilities.",
+      "category": "frontend",
+      "tags": "[bootstrap, css, responsive, ui, framework]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/bootstrap"
+    },
+    {
+      "name": "docusaurus",
+      "description": "Creates documentation websites with Docusaurus, MDX, versioning, and search. Use for open-source docs and knowledge bases.",
+      "category": "frontend",
+      "tags": "[docusaurus, docs, mdx, documentation, static-site]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/docusaurus"
+    },
+    {
       "name": "gatsby",
       "description": "Builds blazing-fast static sites and progressive web apps with Gatsby, React, and GraphQL. Use for content-driven sites and documentation.",
       "category": "frontend",
@@ -670,6 +1183,24 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/frontend/gatsby"
+    },
+    {
+      "name": "htmx",
+      "description": "Builds dynamic web UIs with htmx, HTML-over-the-Wire, and hypermedia-driven interactions. Use for server-rendered apps with modern UX.",
+      "category": "frontend",
+      "tags": "[htmx, html, hypermedia, ajax, server-rendered]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/htmx"
+    },
+    {
+      "name": "lit",
+      "description": "Builds fast, standard-compliant web components with Lit, reactive properties, and Shadow DOM. Use for framework-agnostic UI.",
+      "category": "frontend",
+      "tags": "[lit, web-components, shadow-dom, reactive, standards]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/lit"
     },
     {
       "name": "nextjs-ssr",
@@ -690,6 +1221,15 @@
       "path": ".claude/skills/.claude/skills/frontend/nuxt"
     },
     {
+      "name": "qwik",
+      "description": "Creates instant-loading web applications with Qwik, resumability, and fine-grained lazy loading. Use for maximum performance SPAs.",
+      "category": "frontend",
+      "tags": "[qwik, resumable, performance, framework, typescript]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/qwik"
+    },
+    {
       "name": "react-typescript",
       "description": "Creates React components with TypeScript, props typing, and hooks. Use for type-safe UI development.",
       "category": "frontend",
@@ -706,6 +1246,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/frontend/remix"
+    },
+    {
+      "name": "sass-scss",
+      "description": "Writes maintainable CSS with Sass/SCSS, including variables, mixins, nesting, and partials. Use for scalable stylesheets.",
+      "category": "frontend",
+      "tags": "[sass, scss, css, preprocessor, styling]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/sass-scss"
     },
     {
       "name": "solidjs",
@@ -753,6 +1302,15 @@
       "path": ".claude/skills/.claude/skills/frontend/vue-composition"
     },
     {
+      "name": "blender",
+      "description": "Creates 3D models, animations, and scenes in Blender using Python scripting and the bpy module.",
+      "category": "gamedev",
+      "tags": "[blender, 3d-modeling, animation, python, bpy]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/gamedev/blender"
+    },
+    {
       "name": "godot",
       "description": "Develops 2D/3D games on Godot Engine with GDScript. Use for lightweight cross-platform games.",
       "category": "gamedev",
@@ -760,6 +1318,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/gamedev/godot"
+    },
+    {
+      "name": "procedural-gen",
+      "description": "Generates game content algorithmically with procedural generation techniques for terrains, dungeons, and textures.",
+      "category": "gamedev",
+      "tags": "[procedural-generation, gamedev, terrain, algorithms, content]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/gamedev/procedural-gen"
     },
     {
       "name": "unity",
@@ -789,6 +1356,15 @@
       "path": ".claude/skills/.claude/skills/iot/arduino"
     },
     {
+      "name": "esp-idf",
+      "description": "Programs ESP32 microcontrollers using ESP-IDF framework with FreeRTOS, Wi-Fi, and Bluetooth.",
+      "category": "iot",
+      "tags": "[esp-idf, esp32, freertos, embedded, c]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/iot/esp-idf"
+    },
+    {
       "name": "esp32",
       "description": "Programs ESP32 microcontrollers in C/C++ or MicroPython. Use for IoT projects with WiFi/Bluetooth.",
       "category": "iot",
@@ -798,6 +1374,24 @@
       "path": ".claude/skills/.claude/skills/iot/esp32"
     },
     {
+      "name": "home-assistant",
+      "description": "Automates smart home devices with Home Assistant, integrations, automations, and custom dashboards.",
+      "category": "iot",
+      "tags": "[home-assistant, smart-home, automation, iot, dashboard]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/iot/home-assistant"
+    },
+    {
+      "name": "matter-protocol",
+      "description": "Builds smart home devices with Matter protocol, the unified standard for IoT interoperability.",
+      "category": "iot",
+      "tags": "[matter, iot, smart-home, connectivity, protocol]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/iot/matter-protocol"
+    },
+    {
       "name": "mqtt",
       "description": "Sets up MQTT brokers and clients for messaging in IoT systems. Use for lightweight messaging in IoT.",
       "category": "iot",
@@ -805,6 +1399,24 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/iot/mqtt"
+    },
+    {
+      "name": "node-red",
+      "description": "Creates IoT and automation flows with Node-RED, visual programming for event-driven applications.",
+      "category": "iot",
+      "tags": "[node-red, flow-based, iot, automation, visual-programming]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/iot/node-red"
+    },
+    {
+      "name": "raspberry-pi",
+      "description": "Configures and deploys applications on Raspberry Pi, including GPIO, camera, and headless setup.",
+      "category": "iot",
+      "tags": "[raspberry-pi, gpio, python, embedded, linux]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/iot/raspberry-pi"
     },
     {
       "name": "android-kotlin",
@@ -834,6 +1446,15 @@
       "path": ".claude/skills/.claude/skills/mobile/flutter-clean-arch"
     },
     {
+      "name": "ionic",
+      "description": "Builds cross-platform mobile apps with Ionic, Angular/React/Vue, and Capacitor. Use for hybrid apps with native-like UI.",
+      "category": "mobile",
+      "tags": "[ionic, mobile, hybrid, angular, capacitor]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/mobile/ionic"
+    },
+    {
       "name": "ios-swiftui",
       "description": "Creates iOS applications using SwiftUI and modern Apple patterns. Use for native iOS development.",
       "category": "mobile",
@@ -841,6 +1462,15 @@
       "models": "[opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/mobile/ios-swiftui"
+    },
+    {
+      "name": "react-native-bare",
+      "description": "Develops React Native applications without Expo, using native modules, libraries, and custom builds. Use for advanced RN projects.",
+      "category": "mobile",
+      "tags": "[react-native, mobile, native-modules, typescript, ios]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/mobile/react-native-bare"
     },
     {
       "name": "react-native-expo",
@@ -852,6 +1482,24 @@
       "path": ".claude/skills/.claude/skills/mobile/react-native-expo"
     },
     {
+      "name": "xamarin",
+      "description": "Builds native mobile apps with Xamarin and .NET MAUI, sharing C# code across iOS, Android, and Windows.",
+      "category": "mobile",
+      "tags": "[xamarin, dotnet, mobile, csharp, maui]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/mobile/xamarin"
+    },
+    {
+      "name": "paddle",
+      "description": "Integrates Paddle for SaaS payment processing, subscriptions, and checkout management.",
+      "category": "payments",
+      "tags": "[paddle, payments, subscriptions, saas, billing]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/payments/paddle"
+    },
+    {
       "name": "stripe-payments",
       "description": "Integrates Stripe payment processing — checkout sessions, subscriptions, webhooks, and customer portals.",
       "category": "payments",
@@ -859,6 +1507,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/payments/stripe-payments"
+    },
+    {
+      "name": "aarrr-metrics",
+      "description": "Tracks startup growth metrics using the AARRR (Pirate Metrics) framework: Acquisition, Activation, Retention, Revenue, Referral.",
+      "category": "product",
+      "tags": "[aarrr, pirate-metrics, growth, saas, metrics]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/product/aarrr-metrics"
     },
     {
       "name": "metrics-dora",
@@ -870,6 +1527,15 @@
       "path": ".claude/skills/.claude/skills/product/metrics-dora"
     },
     {
+      "name": "okr",
+      "description": "Defines Objectives and Key Results (OKRs) for product teams, including goal setting and progress tracking.",
+      "category": "product",
+      "tags": "[okr, goals, metrics, product, objectives]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/product/okr"
+    },
+    {
       "name": "prd-template",
       "description": "Generates structured PRD (Product Requirements Document) with goals, features, and success criteria. Use for documenting requirements.",
       "category": "product",
@@ -877,6 +1543,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/product/prd-template"
+    },
+    {
+      "name": "product-analytics",
+      "description": "Implements product analytics with Mixpanel, Amplitude, or PostHog for user behavior tracking.",
+      "category": "product",
+      "tags": "[analytics, mixpanel, amplitude, product, metrics]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/product/product-analytics"
     },
     {
       "name": "sprint-retro",
@@ -897,6 +1572,15 @@
       "path": ".claude/skills/.claude/skills/product/user-story-mapping"
     },
     {
+      "name": "artillery",
+      "description": "Load tests APIs and applications with Artillery, supporting HTTP, WebSocket, and Socket.io.",
+      "category": "qa",
+      "tags": "[artillery, load-testing, performance, http, websocket]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/qa/artillery"
+    },
+    {
       "name": "contract-testing-pact",
       "description": "Implements contract testing for APIs with Pact. Use for checking compatibility between services.",
       "category": "qa",
@@ -906,6 +1590,15 @@
       "path": ".claude/skills/.claude/skills/qa/contract-testing-pact"
     },
     {
+      "name": "cucumber",
+      "description": "Implements Behavior-Driven Development with Cucumber, Gherkin scenarios, and step definitions.",
+      "category": "qa",
+      "tags": "[cucumber, bdd, gherkin, testing, acceptance]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/qa/cucumber"
+    },
+    {
       "name": "cypress-e2e",
       "description": "Creates E2E tests with Cypress for modern web applications. Use for fast testing with debugging.",
       "category": "qa",
@@ -913,6 +1606,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/qa/cypress-e2e"
+    },
+    {
+      "name": "detox",
+      "description": "Tests React Native applications E2E with Detox, gray box testing, and device synchronization.",
+      "category": "qa",
+      "tags": "[detox, react-native, e2e, mobile-testing, automation]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/qa/detox"
     },
     {
       "name": "e2e-playwright",
@@ -933,6 +1635,15 @@
       "path": ".claude/skills/.claude/skills/qa/jest"
     },
     {
+      "name": "locust",
+      "description": "Performs load testing with Locust, Python-based distributed testing, and real-time web UI.",
+      "category": "qa",
+      "tags": "[locust, load-testing, python, performance, stress-test]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/qa/locust"
+    },
+    {
       "name": "performance-k6",
       "description": "Conducts load testing of APIs and web applications with k6. Use for performance validation under load.",
       "category": "qa",
@@ -940,6 +1651,24 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/qa/performance-k6"
+    },
+    {
+      "name": "puppeteer",
+      "description": "Automates browser testing with Puppeteer, headless Chrome, and page interaction APIs.",
+      "category": "qa",
+      "tags": "[puppeteer, browser, automation, testing, headless]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/qa/puppeteer"
+    },
+    {
+      "name": "pytest",
+      "description": "Writes Python tests with pytest, including fixtures, parameterization, and plugins for coverage.",
+      "category": "qa",
+      "tags": "[pytest, python, testing, fixtures, unit-test]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/qa/pytest"
     },
     {
       "name": "security-owasp",
@@ -969,6 +1698,24 @@
       "path": ".claude/skills/.claude/skills/qa/vitest"
     },
     {
+      "name": "auth0",
+      "description": "Integrates Auth0 for authentication, authorization, and user management with social login and MFA.",
+      "category": "security",
+      "tags": "[auth0, authentication, authorization, sso, identity]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/security/auth0"
+    },
+    {
+      "name": "cert-manager",
+      "description": "Manages TLS certificates in Kubernetes with cert-manager, Let's Encrypt, and auto-renewal.",
+      "category": "security",
+      "tags": "[cert-manager, tls, kubernetes, lets-encrypt, certificates]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/security/cert-manager"
+    },
+    {
       "name": "compliance-gdpr",
       "description": "Checks application compliance with GDPR (General Data Protection Regulation) requirements. Use for compliance audit.",
       "category": "security",
@@ -976,6 +1723,15 @@
       "models": "[opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/security/compliance-gdpr"
+    },
+    {
+      "name": "keycloak",
+      "description": "Configures Keycloak for identity and access management, including SSO, OAuth2, SAML, and user federation.",
+      "category": "security",
+      "tags": "[keycloak, iam, sso, oauth2, authentication]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/security/keycloak"
     },
     {
       "name": "oauth2-jwt",
@@ -1014,6 +1770,24 @@
       "path": ".claude/skills/.claude/skills/security/secrets-management"
     },
     {
+      "name": "secrets-vault",
+      "description": "Manages secrets with HashiCorp Vault for dynamic secrets, encryption, and access policies.",
+      "category": "security",
+      "tags": "[vault, secrets, hashicorp, encryption, security]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/security/secrets-vault"
+    },
+    {
+      "name": "snyk",
+      "description": "Scans dependencies, containers, and IaC for vulnerabilities with Snyk in CI/CD pipelines.",
+      "category": "security",
+      "tags": "[snyk, vulnerability, dependencies, security-scanning, ci-cd]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/security/snyk"
+    },
+    {
       "name": "sonarqube",
       "description": "Analyzes code quality and security with SonarQube, detecting bugs, vulnerabilities, and code smells. Use for continuous code inspection.",
       "category": "security",
@@ -1021,6 +1795,24 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/security/sonarqube"
+    },
+    {
+      "name": "ssl-tls",
+      "description": "Configures SSL/TLS certificates for web servers, including Let's Encrypt, certbot, and HTTPS hardening.",
+      "category": "security",
+      "tags": "[ssl, tls, https, certificates, encryption]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/security/ssl-tls"
+    },
+    {
+      "name": "waf",
+      "description": "Configures Web Application Firewall protection with ModSecurity, CRS rules, and blocking policies.",
+      "category": "security",
+      "tags": "[waf, modsecurity, firewall, rules, protection]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/security/waf"
     },
     {
       "name": "test-reporting",
