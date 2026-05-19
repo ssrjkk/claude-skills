@@ -44,7 +44,7 @@ Use "Respond ONLY with valid JSON" to prevent extra text.
 Specify exact types (string, number, boolean, array, null) for each field.
 
 ### Error Handling
-Request JSON wrapped in ```json blocks for safe parsing.
+Request JSON wrapped in JSON code blocks for safe parsing.
 
 ## Dependencies
 ```python

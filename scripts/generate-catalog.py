@@ -7,9 +7,15 @@ def parse_frontmatter(filepath):
     lines = content.split('\n')
     meta = {}
     in_front = False
+    front_closed = False
     for line in lines:
+        if front_closed:
+            break
         if line.strip() == '---':
-            in_front = not in_front
+            if not in_front:
+                in_front = True
+            else:
+                front_closed = True
             continue
         if in_front and ':' in line:
             key, _, value = line.partition(':')

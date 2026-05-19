@@ -906,7 +906,7 @@
       "path": ".claude/skills/.claude/skills/desktop/tauri"
     },
     {
-      "name": "nginx",
+      "name": "ansible-automation",
       "description": "Automates server configuration and deployment using Ansible playbooks. Use for configuration management.",
       "category": "devops",
       "tags": "[ansible, automation, configuration-management, devops]",
