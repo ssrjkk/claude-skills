@@ -1,0 +1,47 @@
+---
+name: john-scanning
+description: Scanning with John the Ripper. security scanning.
+category: security
+tags: [john, scanning, security, security-tool]
+models: [gpt-4, claude-3]
+version: "1.0"
+---
+
+# John the Ripper Scanning
+
+> Scanning with John the Ripper. security scanning.
+
+## Quick Start
+```bash
+# John the Ripper Scanning
+# See John the Ripper docs
+```
+
+## When to Use
+- Using John the Ripper in your workflow
+- security scanning
+- recon
+
+## Step-by-Step
+1. Install John the Ripper: `# Install John the Ripper`
+2. Set up John the Ripper
+3. Configure Scanning
+4. Implement features
+
+## Dependencies
+- John the Ripper >= latest stable
+- Runtime environment
+
+## Examples
+```bash
+# John the Ripper Scanning
+# See John the Ripper documentation
+```
+
+## Resources
+- Official documentation
+- Community guides and tutorials
+
+## Validation
+- Verify: `john --version`
+- Check expected output

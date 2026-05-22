@@ -3,217 +3,32 @@
 | Model | Speed | Context | Best For |
 |-------|-------|---------|----------|
 | Haiku | Fast | 200K | Simple, repetitive tasks |
-| Sonnet | Balanced | 200K | Most skills |
+| Sonnet | Balanced | 200K | Most skills (34 domains, 6848 skills) |
 | Opus | Powerful | 200K | Complex reasoning, architecture |
 
 ## Skills by Model
 
-### Haiku (Good)
-No skills are exclusive to Haiku.
+All 6848 skills across 38 domains work with **Sonnet** and **Opus**.  
+Skills are organized under `.claude/skills/{domain}/{skill-name}/SKILL.md`.
 
-### Sonnet (Better)
-- aarrr-metrics
-- accessibility
-- actix-web
-- airflow-dags
-- alpinejs
-- ant-design
-- anthropic-api
-- apache-flink
-- apache-spark
-- api-testing
-- arduino
-- artillery
-- aspnet-core
-- astro-ssg
-- auth0
-- autogen
-- aws-lambda
-- blender
-- bootstrap
-- capacitor
-- cassandra
-- cert-manager
-- chain-of-thought
-- ci-cd-setup
-- circleci
-- clickhouse
-- cloudflare
-- color-system
-- contract-testing-pact
-- crewai
-- cucumber
-- cypress-e2e
-- data-validation
-- database-migration
-- dbt
-- design-tokens
-- detox
-- django-rest
-- docker-optimization
-- docusaurus
-- dotnet
-- dynamodb
-- e2e-playwright
-- elasticsearch
-- electron
-- embedding-chunking
-- esp-idf
-- esp32
-- ethersjs
-- etl-pipeline
-- fastify
-- few-shot-learning
-- figma-plugin
-- firebase
-- flask-python
-- flutter-desktop
-- framer-motion
-- function-calling
-- gatsby
-- gemini-api
-- gitlab-ci
-- go-gin
-- godot
-- gradio
-- grafana
-- graphql-api
-- great-expectations
-- hardhat
-- haystack
-- helm
-- home-assistant
-- hono
-- htmx
-- influxdb
-- ionic
-- jenkins-pipeline
-- jest
-- jupyter
-- keycloak
-- kubernetes
-- laravel
-- lit
-- llama-index
-- locust
-- mariadb
-- matter-protocol
-- metrics-dora
-- mongodb
-- monitoring-prometheus
-- mqtt
-- mysql
-- neo4j
-- nestjs
-- netlify
-- nginx
-- node-red
-- nodejs-express
-- nuxt
-- oauth2-jwt
-- okr
-- ollama
-- openai-api
-- opentelemetry
-- packer
-- paddle
-- pandas
-- performance-k6
-- perplexity-api
-- phoenix
-- pinecone
-- pocketbase
-- postgresql
-- prd-template
-- prisma-orm
-- procedural-gen
-- product-analytics
-- prompt-compression
-- prompt-testing
-- pulumi
-- puppeteer
-- pyqt
-- pytest
-- python-fastapi
-- pytorch
-- qwik
-- radix-ui
-- rag-prompting
-- raspberry-pi
-- react-native-bare
-- react-native-expo
-- react-typescript
-- redis
-- remix
-- ruby-rails
-- sass-scss
-- sbom-generation
-- secrets-management
-- secrets-vault
-- security-scan
-- selenium-grid
-- shadcn-ui
-- snowflake
-- snyk
-- solidjs
-- sonarqube
-- sprint-retro
-- sqlite
-- ssl-tls
-- storybook
-- strapi
-- streamlit
-- stripe-payments
-- structured-output
-- supabase
-- svelte-kit
-- system-prompt-design
-- tailwind-css
-- tauri
-- terraform-aws
-- terraform-azure
-- terraform-gcp
-- test-reporting
-- threejs
-- typography-system
-- user-story-mapping
-- vagrant
-- vercel
-- vitest
-- vue-composition
-- waf
-- weaviate
-- web3js
-- websocket
-- xamarin
+### Domains covered
+- ai (637 skills), ar-vr (80), backend (799), blockchain (147), communications (136)
+- data (270), database (449), design (138), desktop (108), devops (653)
+- ecommerce (102), education (68), embedded (88), energy (78), engineering (126)
+- finance (96), frontend (633), gamedev (153), geospatial (96), healthcare (96)
+- hr (112), iot (188), media (102), mobile (108), networking (168)
+- os-admin (200), payments (88), product (150), qa (290), scientific (80)
+- security (253), supply-chain (106), sustainability (48)
+- Legacy: api-testing, ci-cd-setup, database-migration, test-reporting
 
-### Opus (Best)
-- agent-design
-- android-kotlin
-- angular-typescript
-- argocd-rollback
-- compliance-gdpr
-- flutter-clean-arch
-- gitops-argocd
-- huggingface
-- ios-swiftui
-- java-spring
-- k8s-helm-deploy
-- kafka-streams
-- langchain-rag
-- llm-eval
-- llm-finetuning
-- logging-elk
-- ml-model-training
-- nextjs-ssr
-- pentest-checklist
-- prompt-engineering
-- security-owasp
-- smart-contracts
-- solidity
-- unity
-- unreal
-- vector-db-rag
+### Opus (Best) — Complex skills
+Skills requiring deep architectural reasoning:
+- System design, architecture patterns
+- Security and compliance (OWASP, GDPR, PCI DSS)
+- Blockchain, smart contracts, DeFi protocols
+- Game engine architecture (Unity, Unreal)
+- Machine learning pipelines, LLM fine-tuning
+- Distributed systems, consensus algorithms
 
 ## Recommendation
-For most users: **Sonnet**. For complex tasks: **Opus**. For simple tasks: **Haiku**.
+For most users: **Sonnet**. For complex architecture/security tasks: **Opus**. For simple tasks: **Haiku**.

@@ -1,0 +1,47 @@
+---
+name: nessus-reporting
+description: Reporting with Nessus. reports.
+category: security
+tags: [nessus, reporting, security, security-tool]
+models: [gpt-4, claude-3]
+version: "1.0"
+---
+
+# Nessus Reporting
+
+> Reporting with Nessus. reports.
+
+## Quick Start
+```bash
+# Nessus Reporting
+# See Nessus docs
+```
+
+## When to Use
+- Using Nessus in your workflow
+- reports
+- findings
+
+## Step-by-Step
+1. Install Nessus: `# Install Nessus`
+2. Set up Nessus
+3. Configure Reporting
+4. Implement features
+
+## Dependencies
+- Nessus >= latest stable
+- Runtime environment
+
+## Examples
+```bash
+# Nessus Reporting
+# See Nessus documentation
+```
+
+## Resources
+- Official documentation
+- Community guides and tutorials
+
+## Validation
+- Verify: `nessus --version`
+- Check expected output

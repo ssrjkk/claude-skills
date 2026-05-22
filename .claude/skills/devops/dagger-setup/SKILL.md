@@ -1,0 +1,47 @@
+---
+name: dagger-setup
+description: Setup with Dagger. pipeline setup.
+category: devops
+tags: [dagger, setup, devops, ci-cd]
+models: [gpt-4, claude-3]
+version: "1.0"
+---
+
+# Dagger Setup
+
+> Setup with Dagger. pipeline setup.
+
+## Quick Start
+```bash
+# Dagger Setup
+# See Dagger docs
+```
+
+## When to Use
+- Using Dagger in your workflow
+- pipeline setup
+- initial config
+
+## Step-by-Step
+1. Install Dagger: `# Install Dagger`
+2. Set up Dagger
+3. Configure Setup
+4. Implement features
+
+## Dependencies
+- Dagger >= latest stable
+- Runtime environment
+
+## Examples
+```bash
+# Dagger Setup
+# See Dagger documentation
+```
+
+## Resources
+- Official documentation
+- Community guides and tutorials
+
+## Validation
+- Verify: `dagger --version`
+- Check expected output

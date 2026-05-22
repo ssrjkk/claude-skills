@@ -1,9 +1,9 @@
 # Claude Skills Library
-### 200 Pre-Built Skills That Supercharge Your Claude.ai
+### 6848 Pre-Built Skills That Supercharge Your Claude.ai
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Skills: 200](https://img.shields.io/badge/Skills-200-brightgreen)](.claude/skills/)
-[![Domains: 16](https://img.shields.io/badge/Domains-16-purple)](#whats-inside)
+[![Skills: 6848](https://img.shields.io/badge/Skills-6848-brightgreen)](.claude/skills/)
+[![Domains: 38](https://img.shields.io/badge/Domains-38-purple)](#whats-inside)
 [![Last Update](https://img.shields.io/github/last-commit/ssrjkk/claude-skills)](../../commits)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.github/CONTRIBUTING.md)
 
@@ -28,12 +28,12 @@ With one click, Claude loads the exact skill it needs — battle-tested instruct
 
 | | |
 |---|---|
-| **200 specialized skills** | backend, frontend, mobile, devops, data, database, AI, QA, product, security, blockchain, gamedev, IoT, design, desktop, payments |
+| **6848 specialized skills** | backend, frontend, mobile, devops, data, database, AI, QA, product, security, blockchain, gamedev, IoT, design, desktop, payments, networking, embedded, scientific, finance, media, ecommerce, healthcare, education, HR, supply chain, geospatial, sustainability, engineering, OS admin, energy, communications, AR/VR, and more |
 | **Saves you hours** | no prompt engineering, no context repeat |
 | **Production-ready** | validated patterns, best practices baked in |
 | **Zero cost** | runs locally in Claude.ai, no API keys |
 | **Works offline** | everything in your repo, nothing in the cloud |
-| **16 domains** | from FastAPI to Unreal Engine, from Kafka to Solidity |
+| **38 domains** | from FastAPI to Unreal Engine, from Kafka to Solidity |
 
 ---
 
@@ -54,61 +54,51 @@ Then:
 
 ## What's Inside
 
-### Backend — 19 skills
-`python-fastapi` `flask-python` `nestjs` `fastify` `nodejs-express` `go-gin` `java-spring` `django-rest` `laravel` `ruby-rails` `dotnet` `aspnet-core` `graphql-api` `websocket` `hono` `actix-web` `phoenix` `strapi` `pocketbase`
+| Domain | Skills | Examples |
+|--------|-------:|---------|
+| Backend | 799 | django, express, spring-boot, actix-web, laravel, rails, fastify, gin, microservices, cqrs |
+| AI / ML | 637 | langchain, pytorch, tensorflow, spacy, opencv, mlflow, transformers, scikit-learn, llama-index |
+| Frontend | 633 | react, vue, angular, svelte, nextjs, nuxt, tailwind, vite, webpack, redux |
+| DevOps | 653 | docker, kubernetes, terraform, ansible, prometheus, github-actions, aws, helm |
+| Database | 449 | postgresql, mongodb, redis, elasticsearch, neo4j, timescaledb, cassandra |
+| QA / Testing | 290 | pytest, jest, cypress, playwright, k6, selenium, jmeter, locust |
+| Security | 253 | owasp, nmap, wireshark, oauth2, tls, gdpr, trivy, burpsuite |
+| OS Administration | 200 | ubuntu, debian, rhel, systemd, bash, powershell, active-directory |
+| IoT | 188 | arduino, esp32, raspberry-pi, home-assistant, platformio, mqtt |
+| Networking | 168 | tcp/ip, dns, bgp, http, vpn, wireshark, nmap, iptables |
+| Gamedev | 153 | unity, unreal, godot, bevy, phaser, level-design, game-balance |
+| Product | 150 | agile, scrum, kanban, okr, user-stories, design-thinking, roadmapping |
+| Blockchain | 147 | ethereum, solana, cosmos, polygon, arbitrum, zksync, defi |
+| Design | 138 | figma, storybook, tailwind, radix-ui, user-research, prototyping |
+| Communications | 136 | webrtc, voip, sip, twilio, slack-api, discord-bot, sendgrid |
+| Engineering | 126 | code-review, tdd, ddd, uml, system-design, clean-code, refactoring |
+| HR / Recruiting | 112 | workday, bamboohr, greenhouse, linkedin-recruiter, payroll, ats |
+| Desktop | 108 | electron, tauri, qt, javafx, pyqt, tkinter, avalonia |
+| Mobile | 108 | react-native, flutter, swift-ios, kotlin-android, capacitor, xamarin |
+| Supply Chain | 106 | sap, oracle-scm, warehouse-mgmt, transportation, inventory, logistics |
+| Ecommerce | 102 | shopify, magento, woocommerce, commercetools, medusa, bigcommerce |
+| Media | 102 | ffmpeg, hls, davinci, premiere, after-effects, gstreamer, color-grading |
+| Health | 96 | fhir, hipaa, hl7, dicom, ehr, telehealth, population-health |
+| Geospatial | 96 | qgis, arcgis, postgis, leaflet, mapbox, google-maps, geoserver |
+| Finance | 96 | algo-trading, plaid, open-banking, risk-management, backtesting |
+| Embedded | 88 | arm-cortex, risc-v, freertos, zephyr, rtos, bootloader, interrupts |
+| Energy | 78 | scada, plc, modbus, solar-pv, battery-storage, smart-grid, iot-energy |
+| Education | 68 | moodle, canvas, lti, xapi, scorm, open-edx, teachable |
+| AR/VR | 80 | arkit, arcore, webxr, openxr, steamvr, hololens, unity-xr |
+| Payments | 88 | stripe, paypal, square, adyen, paddle, chargebee, subscriptions |
+| Scientific | 80 | numpy, scipy, sympy, matlab, julia, r-lang, signal-processing |
+| Sustainability | 48 | esg, csrd, gri, carbon-accounting, ghg-protocol, sbti |
+| + legacy flat skills | 4 | api-testing, ci-cd-setup, database-migration, test-reporting |
 
-### Frontend — 19 skills
-`react-typescript` `vue-composition` `nextjs-ssr` `nuxt` `svelte-kit` `angular-typescript` `astro-ssg` `remix` `solidjs` `tailwind-css` `gatsby` `storybook` `htmx` `qwik` `lit` `docusaurus` `alpinejs` `bootstrap` `sass-scss`
-
-### Mobile — 8 skills
-`flutter-clean-arch` `react-native-expo` `react-native-bare` `ios-swiftui` `android-kotlin` `capacitor` `ionic` `xamarin`
-
-### DevOps — 25 skills
-`docker-optimization` `k8s-helm-deploy` `helm` `kubernetes` `terraform-aws` `terraform-gcp` `terraform-azure` `pulumi` `circleci` `gitlab-ci` `aws-lambda` `cloudflare` `vercel` `netlify` `ansible-automation` `monitoring-prometheus` `grafana` `opentelemetry` `logging-elk` `gitops-argocd` `jenkins-pipeline` `argocd-rollback` `packer` `vagrant` `security-scan`
-
-### Data — 14 skills
-`etl-pipeline` `ml-model-training` `vector-db-rag` `data-validation` `great-expectations` `airflow-dags` `kafka-streams` `apache-spark` `apache-flink` `pytorch` `pandas` `jupyter` `dbt` `snowflake`
-
-### AI — 28 skills
-`prompt-engineering` `chain-of-thought` `structured-output` `few-shot-learning` `system-prompt-design` `prompt-testing` `function-calling` `rag-prompting` `prompt-compression` `llm-eval` `llm-finetuning` `embedding-chunking` `agent-design` `langchain-rag` `huggingface` `openai-api` `ollama` `anthropic-api` `gemini-api` `perplexity-api` `llama-index` `autogen` `crewai` `haystack` `streamlit` `gradio` `pinecone` `weaviate`
-
-### Database — 15 skills
-`postgresql` `mysql` `mariadb` `sqlite` `mongodb` `redis` `elasticsearch` `cassandra` `neo4j` `influxdb` `clickhouse` `dynamodb` `prisma-orm` `supabase` `firebase`
-
-### Desktop — 4 skills
-`electron` `tauri` `pyqt` `flutter-desktop`
-
-### QA — 18 skills
-`api-testing` `database-migration` `ci-cd-setup` `test-reporting` `e2e-playwright` `jest` `vitest` `pytest` `puppeteer` `detox` `contract-testing-pact` `performance-k6` `locust` `artillery` `cucumber` `security-owasp` `selenium-grid` `cypress-e2e`
-
-### Security — 13 skills
-`secrets-management` `secrets-vault` `sbom-generation` `snyk` `pentest-checklist` `compliance-gdpr` `oauth2-jwt` `keycloak` `auth0` `sonarqube` `cert-manager` `ssl-tls` `waf`
-
-### Payments — 2 skills
-`stripe-payments` `paddle`
-
-### Design — 10 skills
-`figma-plugin` `design-tokens` `color-system` `typography-system` `accessibility` `shadcn-ui` `radix-ui` `ant-design` `framer-motion` `threejs`
-
-### Product — 7 skills
-`user-story-mapping` `prd-template` `sprint-retro` `metrics-dora` `okr` `product-analytics` `aarrr-metrics`
-
-### Blockchain — 5 skills
-`solidity` `ethersjs` `web3js` `smart-contracts` `hardhat`
-
-### Gamedev — 5 skills
-`unity` `unreal` `godot` `blender` `procedural-gen`
-
-### IoT — 8 skills
-`esp32` `esp-idf` `arduino` `mqtt` `raspberry-pi` `home-assistant` `node-red` `matter-protocol`
+**6848 skills. 38 domains. Zero fluff.**
 
 ---
 
 ## By The Numbers
 
-- **200 skills** ready to use
-- **16 domains** from backend to blockchain
-- **16 categories** organized and tagged
+- **6848 skills** ready to use
+- **38 domains** from backend to sustainability
+- **34 categories** organized and tagged
 - **0 setup cost** — clone and go
 
 [Full catalog PDF](Claude_Skills_Catalog_Startup.docx) | [Model compatibility](.claude/MODELS.md)
@@ -132,7 +122,8 @@ Then:
 Found a missing skill? Fixed a bug? Want to add your domain expertise?
 
 ```bash
-python scripts/validate-skills.py
+python scripts/validate-all.py
+python scripts/deep-validate.py
 ```
 
 Then open a PR. 5 minutes, and your skill ships to every user.

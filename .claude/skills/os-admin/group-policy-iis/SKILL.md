@@ -1,0 +1,42 @@
+---
+name: group-policy-iis
+description: IIS with Group Policy. web server.
+category: os-admin
+tags: [group-policy, iis, os-admin, windows]
+models: [gpt-4, claude-3]
+version: "1.0"
+---
+
+# Group Policy IIS
+
+> IIS with Group Policy. web server.
+
+## Quick Start
+# Group Policy IIS
+# See Group Policy docs
+
+## When to Use
+- web server
+- sites
+- app pools
+
+## Step-by-Step
+1. Set up Group Policy
+2. Configure IIS
+3. Implement features
+4. Test and verify
+5. Deploy and monitor
+
+## Dependencies
+No external dependencies required: No external dependencies
+
+## Examples
+# Group Policy IIS
+# See Group Policy documentation
+
+## Resources
+- Best practices and guidelines
+- Industry standards
+
+## Validation
+- group-policy --version
