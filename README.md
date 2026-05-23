@@ -142,17 +142,3 @@ Questions? Ideas? Want to propose a skill?
 | Email | [ray013lefe@gmail.com](mailto:ray013lefe@gmail.com) |
 | GitHub | [github.com/ssrjkk](https://github.com/ssrjkk) |
 
----
-
-## License
-
-MIT — free for personal and commercial use.  
-Built for the Claude community.
-
----
-
-<p align="center">
-  <b>Star the repo</b> • <b>Fork it</b> • <b>Share with your team</b><br>
-  <a href="https://github.com/ssrjkk/claude-skills">github.com/ssrjkk/claude-skills</a><br><br>
-  <a href="https://t.me/ssrjkk">Telegram</a> • <a href="mailto:ray013lefe@gmail.com">Email</a> • <a href="https://github.com/ssrjkk">GitHub</a>
-</p>
