@@ -2,7 +2,7 @@
   "metadata": {
     "schema_version": "2.0",
     "generated_at": "2026-05-14T12:00:00Z",
-    "total_skills": 6848,
+    "total_skills": 6901,
     "domains": [
       "ai",
       "ar-vr",
@@ -139,6 +139,33 @@
       "models": "[opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/ai/agent-design"
+    },
+    {
+      "name": "ai-code-review",
+      "description": "Automated code review with AI agents",
+      "category": "ai",
+      "tags": "[code-review, ai, automation, quality, security]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/ai-code-review"
+    },
+    {
+      "name": "ai-coding-workflow",
+      "description": "Modern AI-assisted development workflow",
+      "category": "ai",
+      "tags": "[workflow, ai-assisted, development, best-practices]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/ai-coding-workflow"
+    },
+    {
+      "name": "ai-safety",
+      "description": "AI safety and responsible AI practices",
+      "category": "ai",
+      "tags": "[ai-safety, responsible-ai, ethics, security, governance]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/ai-safety"
     },
     {
       "name": "albumentations-color-processing",
@@ -708,6 +735,33 @@
       "path": ".claude/skills/.claude/skills/ai/chainer-visualization"
     },
     {
+      "name": "claude-code-customization",
+      "description": "Customizing Claude Code with CLAUDE.md",
+      "category": "ai",
+      "tags": "[claude, configuration, customization, project-setup]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/claude-code-customization"
+    },
+    {
+      "name": "claude-code-workflows",
+      "description": "Advanced Claude Code workflows and automation",
+      "category": "ai",
+      "tags": "[claude, workflows, automation, ci, devops]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/claude-code-workflows"
+    },
+    {
+      "name": "claude-code",
+      "description": "Using Claude Code CLI for autonomous development",
+      "category": "ai",
+      "tags": "[claude, cli, development, automation, terminal]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/claude-code"
+    },
+    {
       "name": "clearml-classification",
       "description": "Classification with Clearml. building classifiers.",
       "category": "ai",
@@ -805,6 +859,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/ai/crewai"
+    },
+    {
+      "name": "cursor-ide",
+      "description": "Using Cursor IDE with advanced AI features",
+      "category": "ai",
+      "tags": "[cursor, ide, ai, editor, development]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/cursor-ide"
     },
     {
       "name": "detectron2-color-processing",
@@ -1176,6 +1239,15 @@
       "path": ".claude/skills/.claude/skills/ai/embedding-chunking"
     },
     {
+      "name": "embedding-models",
+      "description": "Working with embedding models (OpenAI, Cohere, Voyage)",
+      "category": "ai",
+      "tags": "[embeddings, vector, semantic-search, openai, cohere, voyage]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/embedding-models"
+    },
+    {
       "name": "fasttext-dependency-parsing",
       "description": "Dependency Parsing with Fasttext. syntax analysis.",
       "category": "ai",
@@ -1273,6 +1345,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/ai/few-shot-learning"
+    },
+    {
+      "name": "fine-tuning-llm",
+      "description": "Fine-tuning LLMs with LoRA/QLoRA",
+      "category": "ai",
+      "tags": "[fine-tuning, lora, qlora, llm, huggingface, pytorch]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/fine-tuning-llm"
     },
     {
       "name": "flair-dependency-parsing",
@@ -2310,6 +2391,33 @@
       "path": ".claude/skills/.claude/skills/ai/langchain-tool-use"
     },
     {
+      "name": "langgraph-agents",
+      "description": "Building agents with LangGraph",
+      "category": "ai",
+      "tags": "[langgraph, agents, python, llm, graph]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/langgraph-agents"
+    },
+    {
+      "name": "langgraph-multi-agent",
+      "description": "Multi-agent systems with LangGraph",
+      "category": "ai",
+      "tags": "[langgraph, multi-agent, orchestration, coordination, python]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/langgraph-multi-agent"
+    },
+    {
+      "name": "langgraph-workflows",
+      "description": "LangGraph workflow orchestration",
+      "category": "ai",
+      "tags": "[langgraph, workflows, orchestration, pipeline, python]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/langgraph-workflows"
+    },
+    {
       "name": "lightgbm-classification",
       "description": "Classification with Lightgbm. building classifiers.",
       "category": "ai",
@@ -2607,6 +2715,51 @@
       "path": ".claude/skills/.claude/skills/ai/marvin-tool-use"
     },
     {
+      "name": "mcp-client",
+      "description": "MCP client integration for Claude",
+      "category": "ai",
+      "tags": "[mcp, client, integration, claude, protocol]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/mcp-client"
+    },
+    {
+      "name": "mcp-prompts",
+      "description": "MCP prompt templates and management",
+      "category": "ai",
+      "tags": "[mcp, prompts, templates, management, llm]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/mcp-prompts"
+    },
+    {
+      "name": "mcp-resources",
+      "description": "MCP resource providers and patterns",
+      "category": "ai",
+      "tags": "[mcp, resources, data, providers, content]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/mcp-resources"
+    },
+    {
+      "name": "mcp-server",
+      "description": "Model Context Protocol server implementation in Python/TypeScript",
+      "category": "ai",
+      "tags": "[mcp, protocol, ai, integration, python, typescript]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/mcp-server"
+    },
+    {
+      "name": "mcp-tools",
+      "description": "Creating custom MCP tools for Claude",
+      "category": "ai",
+      "tags": "[mcp, tools, custom, integration, python, typescript]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/mcp-tools"
+    },
+    {
       "name": "mlflow-classification",
       "description": "Classification with Mlflow. building classifiers.",
       "category": "ai",
@@ -2785,6 +2938,15 @@
       "models": "[gpt-4, claude-3]",
       "version": "\"1.0\"",
       "path": ".claude/skills/.claude/skills/ai/mmdetection-segmentation"
+    },
+    {
+      "name": "model-evaluation",
+      "description": "LLM evaluation and benchmarking",
+      "category": "ai",
+      "tags": "[evaluation, benchmarking, llm, testing, metrics]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/model-evaluation"
     },
     {
       "name": "mxnet-checkpointing",
@@ -3055,6 +3217,15 @@
       "models": "[gpt-4, claude-3]",
       "version": "\"1.0\"",
       "path": ".claude/skills/.claude/skills/ai/nltk-translation"
+    },
+    {
+      "name": "ollama-deployment",
+      "description": "Local LLM deployment with Ollama",
+      "category": "ai",
+      "tags": "[ollama, local-llm, deployment, docker, inference]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/ollama-deployment"
     },
     {
       "name": "ollama",
@@ -3723,6 +3894,15 @@
       "path": ".claude/skills/.claude/skills/ai/pinecone"
     },
     {
+      "name": "prompt-chaining",
+      "description": "Multi-step prompt chaining strategies",
+      "category": "ai",
+      "tags": "[prompt-chaining, workflow, llm, multi-step]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/prompt-chaining"
+    },
+    {
       "name": "prompt-compression",
       "description": "Reduces prompt token usage through compression techniques, summarization, and selective context inclusion while maintaining output quality. Use for cost optimization.",
       "category": "ai",
@@ -3733,10 +3913,10 @@
     },
     {
       "name": "prompt-engineering",
-      "description": "Optimizes prompts for LLMs with few-shot, chain-of-thought, and structured output techniques. Use for improving response quality.",
+      "description": "Advanced prompt engineering patterns",
       "category": "ai",
-      "tags": "[prompt, llm, engineering, few-shot, chain-of-thought]",
-      "models": "[opus]",
+      "tags": "[prompt-engineering, llm, patterns, techniques]",
+      "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/ai/prompt-engineering"
     },
@@ -4018,6 +4198,15 @@
       "models": "[gpt-4, claude-3]",
       "version": "\"1.0\"",
       "path": ".claude/skills/.claude/skills/ai/pytorch-visualization"
+    },
+    {
+      "name": "rag-advanced",
+      "description": "Advanced RAG patterns (HyDE, multi-hop, agentic RAG)",
+      "category": "ai",
+      "tags": "[rag, retrieval, hyde, multi-hop, agentic]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/rag-advanced"
     },
     {
       "name": "rag-prompting",
@@ -5406,6 +5595,24 @@
       "path": ".claude/skills/.claude/skills/ai/tvm-visualization"
     },
     {
+      "name": "vector-databases",
+      "description": "Vector database integration (Pinecone, Weaviate, Qdrant)",
+      "category": "ai",
+      "tags": "[vector-db, pinecone, weaviate, qdrant, embeddings, search]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/vector-databases"
+    },
+    {
+      "name": "vibe-coding",
+      "description": "Vibe coding methodology and best practices",
+      "category": "ai",
+      "tags": "[vibe-coding, methodology, ai-assisted, workflow]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/vibe-coding"
+    },
+    {
       "name": "vllm-agents",
       "description": "Agents with Vllm. building agents.",
       "category": "ai",
@@ -5593,6 +5800,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/ai/weaviate"
+    },
+    {
+      "name": "windsurf-ide",
+      "description": "Using Windsurf/Cascade IDE",
+      "category": "ai",
+      "tags": "[windsurf, cascade, ide, ai, editor]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/ai/windsurf-ide"
     },
     {
       "name": "xgboost-classification",
@@ -7251,6 +7467,15 @@
       "path": ".claude/skills/.claude/skills/backend/bulkhead-testing"
     },
     {
+      "name": "bun-http",
+      "description": "Bun HTTP server and routing",
+      "category": "backend",
+      "tags": "[bun, http, server, routing, web]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/backend/bun-http"
+    },
+    {
       "name": "cakephp-api",
       "description": "API with CakePHP. APIs.",
       "category": "backend",
@@ -8032,6 +8257,15 @@
       "models": "[gpt-4, claude-3]",
       "version": "\"1.0\"",
       "path": ".claude/skills/.claude/skills/backend/decorator-testing"
+    },
+    {
+      "name": "deno-runtime",
+      "description": "Deno runtime and standard library",
+      "category": "backend",
+      "tags": "[deno, runtime, typescript, javascript, secure]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/backend/deno-runtime"
     },
     {
       "name": "django-auth",
@@ -9175,6 +9409,15 @@
       "models": "[gpt-4, claude-3]",
       "version": "\"1.0\"",
       "path": ".claude/skills/.claude/skills/backend/go-error-handling"
+    },
+    {
+      "name": "go-generics",
+      "description": "Go generics patterns and best practices",
+      "category": "backend",
+      "tags": "[go, golang, generics, types, patterns]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/backend/go-generics"
     },
     {
       "name": "go-gin",
@@ -11229,6 +11472,15 @@
       "path": ".claude/skills/.claude/skills/backend/pyramid-websocket"
     },
     {
+      "name": "python-311",
+      "description": "Python 3.11-3.13 new features",
+      "category": "backend",
+      "tags": "[python, 3.11, 3.12, 3.13, features, typing]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/backend/python-311"
+    },
+    {
       "name": "python-async",
       "description": "Async with Python. async operations.",
       "category": "backend",
@@ -12028,6 +12280,15 @@
       "models": "[gpt-4, claude-3]",
       "version": "\"1.0\"",
       "path": ".claude/skills/.claude/skills/backend/rust-testing"
+    },
+    {
+      "name": "rust-tokio",
+      "description": "Async Rust with Tokio runtime",
+      "category": "backend",
+      "tags": "[rust, tokio, async, concurrency, runtime]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/backend/rust-tokio"
     },
     {
       "name": "rust-web-framework",
@@ -14145,6 +14406,15 @@
       "path": ".claude/skills/.claude/skills/blockchain/cosmos-tokens"
     },
     {
+      "name": "defi-security",
+      "description": "DeFi security audits and best practices",
+      "category": "blockchain",
+      "tags": "[defi, security, audits, smart-contracts, solidity]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/blockchain/defi-security"
+    },
+    {
       "name": "ethereum-bridge",
       "description": "Bridge with Ethereum. cross-chain.",
       "category": "blockchain",
@@ -14730,6 +15000,15 @@
       "path": ".claude/skills/.claude/skills/blockchain/solana-tokens"
     },
     {
+      "name": "solidity-optimization",
+      "description": "Gas optimization in Solidity",
+      "category": "blockchain",
+      "tags": "[solidity, gas-optimization, ethereum, smart-contracts]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/blockchain/solidity-optimization"
+    },
+    {
       "name": "solidity",
       "description": "Develops smart contracts on Solidity for Ethereum and EVM-compatible blockchains. Use for decentralized applications.",
       "category": "block",
@@ -14955,6 +15234,15 @@
       "path": ".claude/skills/.claude/skills/blockchain/tezos-tokens"
     },
     {
+      "name": "web3-frontend",
+      "description": "Web3 dApp frontend with wagmi/viem",
+      "category": "blockchain",
+      "tags": "[web3, dapp, frontend, wagmi, viem, react]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/blockchain/web3-frontend"
+    },
+    {
       "name": "web3js",
       "description": "Integrates Web3.js for interacting with Ethereum blockchain from JavaScript/TypeScript. Use for DApp frontend development.",
       "category": "block",
@@ -14962,6 +15250,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/blockchain/web3js"
+    },
+    {
+      "name": "zk-proofs",
+      "description": "Zero-knowledge proof development",
+      "category": "blockchain",
+      "tags": "[zk-proofs, circom, snarkjs, cryptography, blockchain]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/blockchain/zk-proofs"
     },
     {
       "name": "zksync-bridge",
@@ -21066,6 +21363,15 @@
       "path": ".claude/skills/.claude/skills/database/neo4j"
     },
     {
+      "name": "neon-serverless",
+      "description": "Neon serverless PostgreSQL",
+      "category": "database",
+      "tags": "[neon, postgresql, serverless, database, edge]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/database/neon-serverless"
+    },
+    {
       "name": "nginx-cache-caching",
       "description": "Caching with Nginx Cache. caching strategies.",
       "category": "database",
@@ -22201,9 +22507,9 @@
     },
     {
       "name": "supabase",
-      "description": "Builds apps with Supabase backend — PostgreSQL, auth, real-time subscriptions, and storage. Use as a Firebase alternative.",
+      "description": "Supabase backend-as-a-service",
       "category": "database",
-      "tags": "[supabase, postgresql, auth, realtime, backend-as-a-service]",
+      "tags": "[supabase, postgresql, backend, realtime, auth]",
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/database/supabase"
@@ -25881,6 +26187,15 @@
       "path": ".claude/skills/.claude/skills/devops/circleci"
     },
     {
+      "name": "cloud-native-ai",
+      "description": "Cloud-native AI deployment patterns",
+      "category": "devops",
+      "tags": "[cloud-native, ai, kubernetes, inference, deployment]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/cloud-native-ai"
+    },
+    {
       "name": "cloudflare-compute",
       "description": "Compute with Cloudflare. VM/compute.",
       "category": "devops",
@@ -26392,6 +26707,15 @@
       "models": "[gpt-4, claude-3]",
       "version": "\"1.0\"",
       "path": ".claude/skills/.claude/skills/devops/datadog-tracing"
+    },
+    {
+      "name": "devcontainers",
+      "description": "Development containers with Dev Container spec",
+      "category": "devops",
+      "tags": "[devcontainers, docker, development, environment, vscode]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/devcontainers"
     },
     {
       "name": "digitalocean-compute",
@@ -27060,6 +27384,15 @@
       "path": ".claude/skills/.claude/skills/devops/fastly-storage"
     },
     {
+      "name": "finops",
+      "description": "Cloud FinOps cost optimization",
+      "category": "devops",
+      "tags": "[finops, cloud-cost, optimization, aws, azure, gcp]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/finops"
+    },
+    {
       "name": "flyio-compute",
       "description": "Compute with Fly.io. VM/compute.",
       "category": "devops",
@@ -27274,6 +27607,24 @@
       "models": "[gpt-4, claude-3]",
       "version": "\"1.0\"",
       "path": ".claude/skills/.claude/skills/devops/github-actions-testing"
+    },
+    {
+      "name": "github-copilot",
+      "description": "GitHub Copilot setup and optimization",
+      "category": "devops",
+      "tags": "[github-copilot, ai, code-generation, productivity]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/github-copilot"
+    },
+    {
+      "name": "github-models",
+      "description": "GitHub Models playground and API",
+      "category": "devops",
+      "tags": "[github, models, ai, playground, api, copilot]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/github-models"
     },
     {
       "name": "gitlab-ci-caching",
@@ -28113,6 +28464,15 @@
       "path": ".claude/skills/.claude/skills/devops/kind-storage"
     },
     {
+      "name": "kubernetes-ai",
+      "description": "Running AI workloads on Kubernetes",
+      "category": "devops",
+      "tags": "[kubernetes, ai, ml, gpu, inference, training]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/kubernetes-ai"
+    },
+    {
       "name": "kubernetes-autoscaling",
       "description": "Autoscaling with Kubernetes. HPA.",
       "category": "devops",
@@ -28851,6 +29211,15 @@
       "path": ".claude/skills/.claude/skills/devops/newrelic-tracing"
     },
     {
+      "name": "observability-llm",
+      "description": "LLM observability with Langfuse/LangSmith",
+      "category": "devops",
+      "tags": "[observability, llm, langfuse, langsmith, tracing, monitoring]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/observability-llm"
+    },
+    {
       "name": "openshift-autoscaling",
       "description": "Autoscaling with OpenShift. HPA.",
       "category": "devops",
@@ -29173,6 +29542,15 @@
       "models": "[sonnet, opus]",
       "version": "1.0.0",
       "path": ".claude/skills/.claude/skills/devops/packer"
+    },
+    {
+      "name": "platform-engineering",
+      "description": "Platform engineering with Backstage/Port",
+      "category": "devops",
+      "tags": "[platform-engineering, backstage, port, developer-portal, internal-developer-platform]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/platform-engineering"
     },
     {
       "name": "podman-compose",
@@ -29787,6 +30165,15 @@
       "path": ".claude/skills/.claude/skills/devops/security-scan"
     },
     {
+      "name": "serverless-ai",
+      "description": "Serverless AI inference (Cloudflare Workers, Lambda)",
+      "category": "devops",
+      "tags": "[serverless, ai, inference, cloudflare-workers, lambda, edge]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/serverless-ai"
+    },
+    {
       "name": "signoz-alerts",
       "description": "Alerts with SigNoz. alerting rules.",
       "category": "devops",
@@ -30001,6 +30388,15 @@
       "models": "[gpt-4, claude-3]",
       "version": "\"1.0\"",
       "path": ".claude/skills/.claude/skills/devops/skopeo-volumes"
+    },
+    {
+      "name": "sre-slos",
+      "description": "SRE SLI/SLO/SLA implementation",
+      "category": "devops",
+      "tags": "[sre, sli, slo, sla, reliability, monitoring]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/devops/sre-slos"
     },
     {
       "name": "teamcity-caching",
@@ -32874,6 +33270,15 @@
       "path": ".claude/skills/.claude/skills/embedded/rt-thread-timers"
     },
     {
+      "name": "rust-embedded",
+      "description": "Rust for embedded systems",
+      "category": "embedded",
+      "tags": "[rust, embedded, microcontroller, no-std, arm, risc-v]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/embedded/rust-embedded"
+    },
+    {
       "name": "threadx-debugging",
       "description": "Debugging with ThreadX. debug.",
       "category": "embedded",
@@ -33862,6 +34267,15 @@
       "models": "[gpt-4, claude-3]",
       "version": "\"1.0\"",
       "path": ".claude/skills/.claude/skills/energy/wind-energy-optimization"
+    },
+    {
+      "name": "ai-testing",
+      "description": "AI-powered test generation and validation",
+      "category": "engineering",
+      "tags": "[testing, ai, test-generation, quality, automation]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/engineering/ai-testing"
     },
     {
       "name": "api-design-basics",
@@ -36681,6 +37095,15 @@
       "path": ".claude/skills/.claude/skills/frontend/bulma-utilities"
     },
     {
+      "name": "bun-runtime",
+      "description": "Bun runtime for JavaScript/TypeScript",
+      "category": "frontend",
+      "tags": "[bun, javascript, typescript, runtime, bundler]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/bun-runtime"
+    },
+    {
       "name": "chakra-ui-components",
       "description": "Components with Chakra UI. UI components.",
       "category": "frontend",
@@ -39291,6 +39714,15 @@
       "path": ".claude/skills/.claude/skills/frontend/radix-ui-utilities"
     },
     {
+      "name": "react-19",
+      "description": "React 19 features (Actions, use, etc.)",
+      "category": "frontend",
+      "tags": "[react, react-19, hooks, actions, server-components]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/react-19"
+    },
+    {
       "name": "react-accessibility",
       "description": "Accessibility with React. a11y.",
       "category": "frontend",
@@ -39343,6 +39775,15 @@
       "models": "[gpt-4, claude-3]",
       "version": "\"1.0\"",
       "path": ".claude/skills/.claude/skills/frontend/react-routing"
+    },
+    {
+      "name": "react-server-components",
+      "description": "React Server Components and SSR",
+      "category": "frontend",
+      "tags": "[react, server-components, ssr, nextjs, rsc]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/react-server-components"
     },
     {
       "name": "react-ssr",
@@ -39928,6 +40369,15 @@
       "models": "[gpt-4, claude-3]",
       "version": "\"1.0\"",
       "path": ".claude/skills/.claude/skills/frontend/semantic-ui-utilities"
+    },
+    {
+      "name": "shadcn-ui",
+      "description": "Building with shadcn/ui component library",
+      "category": "frontend",
+      "tags": "[shadcn-ui, react, tailwind, components, design-system]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/shadcn-ui"
     },
     {
       "name": "solid-accessibility",
@@ -40740,6 +41190,15 @@
       "path": ".claude/skills/.claude/skills/frontend/tailwind-utilities"
     },
     {
+      "name": "tailwind-v4",
+      "description": "Tailwind CSS v4 features",
+      "category": "frontend",
+      "tags": "[tailwind, css, v4, design, styling]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/tailwind-v4"
+    },
+    {
       "name": "tsc-bundling",
       "description": "Bundling with TypeScript. code bundling.",
       "category": "frontend",
@@ -41341,6 +41800,15 @@
       "models": "[gpt-4, claude-3]",
       "version": "\"1.0\"",
       "path": ".claude/skills/.claude/skills/frontend/water-utilities"
+    },
+    {
+      "name": "webassembly",
+      "description": "WebAssembly with Rust and JS",
+      "category": "frontend",
+      "tags": "[webassembly, wasm, rust, javascript, performance]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/frontend/webassembly"
     },
     {
       "name": "webpack-bundling",
@@ -48478,6 +48946,15 @@
       "models": "[gpt-4, claude-3]",
       "version": "\"1.0\"",
       "path": ".claude/skills/.claude/skills/mobile/cordova-ui"
+    },
+    {
+      "name": "expo-rn",
+      "description": "Expo SDK for React Native development",
+      "category": "mobile",
+      "tags": "[expo, react-native, mobile, ios, android, cross-platform]",
+      "models": "[sonnet, opus]",
+      "version": "1.0.0",
+      "path": ".claude/skills/.claude/skills/mobile/expo-rn"
     },
     {
       "name": "flutter-clean-arch",

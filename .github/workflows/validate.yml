@@ -1,4 +1,4 @@
-name: Validate Skills
+name: Validate & Deploy
 
 on:
   push:
@@ -6,19 +6,118 @@ on:
   pull_request:
     branches: [main]
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
-      - name: Run validation
+
+      - name: Validate skill structure
         run: python scripts/validate-skills.py
-      
-      - name: Check JSON catalog
-        run: python -c "import json; f=open('skills_catalog.json'); data=json.load(f); print('Total skills:', data['metadata']['total_skills'])"
+
+      - name: Validate JSON catalog
+        run: |
+          python -c "
+          import json
+          with open('skills_catalog.json') as f:
+              data = json.load(f)
+          total = data['metadata']['total_skills']
+          domains = data['metadata']['domains']
+          skills_count = len(data['skills'])
+          print(f'Catalog: {skills_count} skills across {len(domains)} domains')
+          print(f'Declared total: {total}')
+          assert skills_count == total, f'Mismatch: catalog has {skills_count}, metadata says {total}'
+          print('✅ Catalog is consistent')
+          "
+
+      - name: Validate all skills exist on disk
+        run: |
+          python -c "
+          import json, os
+          with open('skills_catalog.json') as f:
+              data = json.load(f)
+          missing = []
+          for skill in data['skills']:
+              skill_path = f\".claude/skills/{skill['category']}/{skill['name']}/SKILL.md\"
+              if not os.path.exists(skill_path):
+                  missing.append(skill_path)
+          if missing:
+              print(f'❌ Missing {len(missing)} skills:')
+              for m in missing[:10]:
+                  print(f'  - {m}')
+              exit(1)
+          print(f'✅ All {len(data[\"skills\"])} skills verified on disk')
+          "
+
+      - name: Generate stats
+        run: |
+          python -c "
+          import json, os
+          from collections import Counter
+
+          catalog_path = 'skills_catalog.json'
+          skills_dir = '.claude/skills'
+
+          # Count from disk
+          domain_counts = {}
+          for domain in os.listdir(skills_dir):
+              domain_path = os.path.join(skills_dir, domain)
+              if os.path.isdir(domain_path):
+                  count = 0
+                  for root, dirs, files in os.walk(domain_path):
+                      for f in files:
+                          if f == 'SKILL.md':
+                              count += 1
+                  if count > 0:
+                      domain_counts[domain] = count
+
+          total = sum(domain_counts.values())
+          sorted_domains = sorted(domain_counts.items(), key=lambda x: -x[1])
+
+          print('📊 SKILL STATS')
+          print('=' * 40)
+          print(f'Total Skills: {total}')
+          print(f'Domains: {len(sorted_domains)}')
+          print()
+          for domain, count in sorted_domains:
+              bar = '█' * (count // 20)
+              print(f'{domain:20s} │ {count:4d} │ {bar}')
+          "
+
+  deploy-stats:
+    if: github.ref == 'refs/heads/main'
+    needs: validate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats badge
+        run: |
+          python -c "
+          import json, os
+          skills_dir = '.claude/skills'
+          total = sum(
+              1 for root, dirs, files in os.walk(skills_dir)
+              for f in files if f == 'SKILL.md'
+          )
+          domains = sum(1 for d in os.listdir(skills_dir) 
+                       if os.path.isdir(os.path.join(skills_dir, d)))
+          print(f'total_skills={total}')
+          print(f'total_domains={domains}')
+          "
+
+      - name: Update repo description
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh repo edit --description "6 848 battle-tested Claude skills across 38 domains — backend, AI/ML, DevOps, frontend, blockchain, security, gamedev, IoT, and more. Clone once, use forever."

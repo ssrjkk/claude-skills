@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# Temp
+tmp/
+temp/
+*.log
+
+# Node (if any)
+node_modules/
+
+# Generated catalog (tracked in git, but ignore local regens)
+# skills_catalog.json

@@ -1,0 +1,22 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Markdown
+*.md text diff=markdown
+
+# Python
+*.py text diff=python
+
+# JSON
+*.json text
+
+# Scripts
+*.sh text eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# Docs
+*.docx binary
+
+# Generated files
+skills_catalog.json text linguist-generated

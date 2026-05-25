@@ -1,0 +1,90 @@
+---
+name: tailwind-v4
+description: Tailwind CSS v4 features
+category: frontend
+tags: [tailwind, css, v4, design, styling]
+models: [sonnet, opus]
+version: 1.0.0
+created: 2026-05-14
+---
+# Tailwind CSS v4
+
+> Harness Tailwind CSS v4's CSS-first configuration, new utilities, and performance improvements.
+
+## Quick Start
+```css
+/* app.css — Tailwind v4 CSS-first configuration */
+@import "tailwindcss";
+
+/* Native CSS custom properties for theme */
+@theme {
+  --color-brand: #6c5ce7;
+  --color-brand-light: #a29bfe;
+  --font-display: "Inter", sans-serif;
+  --breakpoint-3xl: 120rem;
+  --animate-fade-in: fade-in 0.5s ease-in-out;
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* @apply with modern CSS features */
+.btn-primary {
+  @apply bg-brand text-white px-4 py-2 rounded-lg 
+         hover:bg-brand-light transition-colors
+         focus-visible:outline-2 focus-visible:outline-brand;
+}
+
+/* Container queries with @cq-* */
+.card-grid {
+  @apply grid grid-cols-1 gap-4;
+  @container (min-width: 30rem) {
+    @apply grid-cols-2;
+  }
+  @container (min-width: 50rem) {
+    @apply grid-cols-3;
+  }
+}
+```
+
+```html
+<!-- v4 new features -->
+<div class="
+  /* 3D transforms */
+  perspective-1000 rotate-x-45 rotate-y-30
+  
+  /* Scroll-driven animations */
+  scroll-mt-20 scroll-snap-align-start
+  
+  /* New color functions */
+  bg-linear-to-r from-red-500 to-blue-500
+  
+  /* Field sizing */
+  field-sizing-content
+
+  /* Text balancing */
+  text-balance
+  
+  /* Inset shadows */
+  shadow-inner-sm
+
+  /* Container queries */  
+  @max-md:flex-col @min-lg:flex-row
+">
+```
+
+## Key Concepts
+Tailwind v4 is CSS-first (no tailwind.config.js). New features: `@theme` directive, container queries, 3D transforms, scroll-driven animations, CSS `@layer` support, `text-balance`, and `field-sizing`.
+
+## When to Use
+- New projects starting with Tailwind v4
+- Upgrading from v3 for smaller config and new features
+- Projects needing container queries or 3D transforms
+
+## Validation
+1. `@theme` custom properties are available in all utility classes
+2. Container queries respond at correct breakpoints
+3. Build output is smaller than equivalent v3 configuration
+4. No v3 migration warnings during build

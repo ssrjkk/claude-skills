@@ -1,34 +1,76 @@
 # Claude Models Compatibility Matrix
 
-| Model | Speed | Context | Best For |
-|-------|-------|---------|----------|
-| Haiku | Fast | 200K | Simple, repetitive tasks |
-| Sonnet | Balanced | 200K | Most skills (34 domains, 6848 skills) |
-| Opus | Powerful | 200K | Complex reasoning, architecture |
+## Quick Reference
 
-## Skills by Model
+| Model | Speed | Context Window | Best For |
+|-------|:-----:|:--------------:|----------|
+| 🚀 **Haiku** | ⚡ Fastest | 200K tokens | Simple, repetitive tasks, quick code gen |
+| ⚖️ **Sonnet** | 🔄 Balanced | 200K tokens | **Most skills** (recommended default) |
+| 🧠 **Opus** | 🐢 Most powerful | 200K tokens | Complex reasoning, architecture, security |
 
-All 6848 skills across 38 domains work with **Sonnet** and **Opus**.  
-Skills are organized under `.claude/skills/{domain}/{skill-name}/SKILL.md`.
+## Skill Coverage by Model
 
-### Domains covered
-- ai (637 skills), ar-vr (80), backend (799), blockchain (147), communications (136)
-- data (270), database (449), design (138), desktop (108), devops (653)
-- ecommerce (102), education (68), embedded (88), energy (78), engineering (126)
-- finance (96), frontend (633), gamedev (153), geospatial (96), healthcare (96)
-- hr (112), iot (188), media (102), mobile (108), networking (168)
-- os-admin (200), payments (88), product (150), qa (290), scientific (80)
-- security (253), supply-chain (106), sustainability (48)
-- Legacy: api-testing, ci-cd-setup, database-migration, test-reporting
+All **6 848 skills** across **38 domains** are compatible with **Sonnet** and **Opus**.
 
-### Opus (Best) — Complex skills
-Skills requiring deep architectural reasoning:
-- System design, architecture patterns
-- Security and compliance (OWASP, GDPR, PCI DSS)
-- Blockchain, smart contracts, DeFi protocols
-- Game engine architecture (Unity, Unreal)
-- Machine learning pipelines, LLM fine-tuning
-- Distributed systems, consensus algorithms
+| Domain | Skills | Sonnet | Opus | Haiku |
+|--------|:-----:|:------:|:----:|:-----:|
+| Backend | 799 | ✅ | ✅ | ⚠️ |
+| DevOps | 653 | ✅ | ✅ | ⚠️ |
+| AI / ML | 637 | ✅ | ✅ | ❌ |
+| Frontend | 633 | ✅ | ✅ | ⚠️ |
+| Database | 449 | ✅ | ✅ | ⚠️ |
+| QA / Testing | 286 | ✅ | ✅ | ⚠️ |
+| Data | 270 | ✅ | ✅ | ⚠️ |
+| Security | 253 | ✅ | ✅ | ❌ |
+| OS Admin | 200 | ✅ | ✅ | ⚠️ |
+| IoT | 188 | ✅ | ✅ | ⚠️ |
+| Networking | 168 | ✅ | ✅ | ⚠️ |
+| Gamedev | 153 | ✅ | ✅ | ⚠️ |
+| Product | 150 | ✅ | ✅ | ⚠️ |
+| Blockchain | 147 | ✅ | ✅ | ❌ |
+| Design | 138 | ✅ | ✅ | ⚠️ |
+| Communications | 136 | ✅ | ✅ | ⚠️ |
+| Engineering | 126 | ✅ | ✅ | ⚠️ |
+| HR / Recruiting | 112 | ✅ | ✅ | ⚠️ |
+| Desktop | 108 | ✅ | ✅ | ⚠️ |
+| Mobile | 108 | ✅ | ✅ | ⚠️ |
+| Supply Chain | 106 | ✅ | ✅ | ⚠️ |
+| Ecommerce | 102 | ✅ | ✅ | ⚠️ |
+| Media | 102 | ✅ | ✅ | ⚠️ |
+| Healthcare | 96 | ✅ | ✅ | ❌ |
+| Finance | 96 | ✅ | ✅ | ❌ |
+| Geospatial | 96 | ✅ | ✅ | ⚠️ |
+| Payments | 88 | ✅ | ✅ | ⚠️ |
+| Embedded | 88 | ✅ | ✅ | ⚠️ |
+| Scientific | 80 | ✅ | ✅ | ⚠️ |
+| AR/VR | 80 | ✅ | ✅ | ⚠️ |
+| Energy | 78 | ✅ | ✅ | ⚠️ |
+| Education | 68 | ✅ | ✅ | ⚠️ |
+| Sustainability | 48 | ✅ | ✅ | ⚠️ |
+| Legacy | 4 | ✅ | ✅ | ⚠️ |
 
-## Recommendation
-For most users: **Sonnet**. For complex architecture/security tasks: **Opus**. For simple tasks: **Haiku**.
+> ✅ Full support · ⚠️ Partial (simple tasks only) · ❌ Not recommended
+
+## Recommendations
+
+| Use Case | Recommended Model |
+|----------|:-----------------:|
+| Daily development, CRUD, scripting | **Sonnet** |
+| Complex architecture, system design | **Opus** |
+| Simple automation, file operations | **Haiku** |
+| Security audits, penetration testing | **Opus** |
+| Smart contract development | **Opus** |
+| ML pipeline design | **Opus** |
+| Quick code snippets, bash scripts | **Haiku** |
+
+## Legacy Skills
+
+Skills without a domain folder:
+- `api-testing/` — API test methodologies and patterns
+- `ci-cd-setup/` — CI/CD pipeline configuration
+- `database-migration/` — Database migration strategies
+- `test-reporting/` — Test reporting frameworks
+
+---
+
+*Last updated: 2026-05-26*

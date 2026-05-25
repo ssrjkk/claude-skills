@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>⚡ Claude Skills Library - 6901 Skills</title>
+<style>
+/* Reset and base */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0a0a0f; color: #e0e0e0; min-height: 100vh; }
+
+/* Header */
+.header { background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); padding: 3rem 2rem; text-align: center; border-bottom: 1px solid #2a2a4a; position: relative; overflow: hidden; }
+.header::before { content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: radial-gradient(circle at 30% 50%, rgba(101, 78, 163, 0.15) 0%, transparent 50%), radial-gradient(circle at 70% 50%, rgba(0, 180, 216, 0.1) 0%, transparent 50%); }
+.header-content { position: relative; z-index: 1; }
+.header h1 { font-size: 2.8rem; background: linear-gradient(135deg, #c084fc, #60a5fa, #34d399); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 0.5rem; letter-spacing: -1px; }
+.header p { font-size: 1.2rem; color: #94a3b8; margin-bottom: 1rem; }
+.header-stats { display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap; }
+.stat { text-align: center; }
+.stat-value { font-size: 2rem; font-weight: 700; color: #c084fc; }
+.stat-label { font-size: 0.85rem; color: #64748b; text-transform: uppercase; letter-spacing: 1px; }
+.header-badges { margin-top: 1.5rem; display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap; }
+
+/* Controls */
+.controls { position: sticky; top: 0; z-index: 100; background: rgba(10, 10, 15, 0.95); backdrop-filter: blur(20px); padding: 1rem 2rem; border-bottom: 1px solid #1e1e2e; }
+.search-row { display: flex; gap: 1rem; align-items: center; max-width: 1200px; margin: 0 auto; flex-wrap: wrap; }
+.search-box { flex: 1; min-width: 200px; position: relative; }
+.search-box input { width: 100%; padding: 0.8rem 1rem 0.8rem 2.8rem; border-radius: 12px; border: 1px solid #2a2a4a; background: #1a1a2e; color: #e0e0e0; font-size: 1rem; outline: none; transition: all 0.3s; }
+.search-box input:focus { border-color: #c084fc; box-shadow: 0 0 20px rgba(192, 132, 252, 0.15); }
+.search-box .icon { position: absolute; left: 1rem; top: 50%; transform: translateY(-50%); color: #64748b; }
+#resultCount { color: #64748b; font-size: 0.9rem; white-space: nowrap; }
+.filters { display: flex; gap: 0.5rem; flex-wrap: wrap; max-width: 1200px; margin: 0.75rem auto 0; }
+.filter-btn { padding: 0.4rem 1rem; border-radius: 20px; border: 1px solid #2a2a4a; background: transparent; color: #94a3b8; cursor: pointer; font-size: 0.85rem; transition: all 0.2s; }
+.filter-btn:hover { border-color: #c084fc; color: #c084fc; }
+.filter-btn.active { background: #c084fc; color: #fff; border-color: #c084fc; }
+.filter-btn.all { border-color: #c084fc; color: #c084fc; }
+.filter-btn.all.active { background: #c084fc; color: #fff; }
+
+/* Skills Grid */
+.container { max-width: 1200px; margin: 2rem auto; padding: 0 2rem; }
+.skills-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1rem; }
+.skill-card { background: #12121a; border: 1px solid #1e1e2e; border-radius: 12px; padding: 1.25rem; cursor: pointer; transition: all 0.3s; }
+.skill-card:hover { border-color: #c084fc; transform: translateY(-2px); box-shadow: 0 8px 30px rgba(192, 132, 252, 0.1); }
+.skill-card h3 { font-size: 1rem; color: #e0e0e0; margin-bottom: 0.4rem; font-family: 'SF Mono', 'Fira Code', monospace; }
+.skill-card .desc { font-size: 0.85rem; color: #94a3b8; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.skill-card .tags { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-top: 0.75rem; }
+.skill-card .tag { font-size: 0.7rem; padding: 0.2rem 0.6rem; border-radius: 4px; background: rgba(192, 132, 252, 0.1); color: #c084fc; border: 1px solid rgba(192, 132, 252, 0.2); }
+.skill-card .cat-badge { display: inline-block; font-size: 0.65rem; padding: 0.15rem 0.5rem; border-radius: 4px; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 0.5rem; }
+
+/* Category Colors */
+.cat-ai { background: rgba(52, 211, 153, 0.15); color: #34d399; border-color: rgba(52, 211, 153, 0.3); }
+.cat-backend { background: rgba(96, 165, 250, 0.15); color: #60a5fa; border-color: rgba(96, 165, 250, 0.3); }
+.cat-frontend { background: rgba(251, 146, 60, 0.15); color: #fb923c; border-color: rgba(251, 146, 60, 0.3); }
+.cat-devops { background: rgba(244, 63, 94, 0.15); color: #f43f5e; border-color: rgba(244, 63, 94, 0.3); }
+.cat-database { background: rgba(129, 140, 248, 0.15); color: #818cf8; border-color: rgba(129, 140, 248, 0.3); }
+.cat-security { background: rgba(251, 191, 36, 0.15); color: #fbbf24; border-color: rgba(251, 191, 36, 0.3); }
+.cat-qa { background: rgba(232, 121, 249, 0.15); color: #e879f9; border-color: rgba(232, 121, 249, 0.3); }
+
+/* Modal */
+.modal-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.8); backdrop-filter: blur(10px); z-index: 1000; justify-content: center; align-items: center; padding: 2rem; }
+.modal-overlay.open { display: flex; }
+.modal { background: #1a1a2e; border: 1px solid #2a2a4a; border-radius: 16px; max-width: 800px; width: 100%; max-height: 80vh; overflow-y: auto; padding: 2rem; position: relative; }
+.modal-close { position: absolute; top: 1rem; right: 1rem; background: none; border: none; color: #64748b; font-size: 1.5rem; cursor: pointer; width: 2rem; height: 2rem; display: flex; align-items: center; justify-content: center; border-radius: 50%; transition: all 0.2s; }
+.modal-close:hover { background: rgba(255,255,255,0.1); color: #fff; }
+.modal h2 { font-size: 1.5rem; margin-bottom: 0.5rem; color: #e0e0e0; }
+.modal .meta { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+.modal .meta-item { font-size: 0.8rem; color: #94a3b8; }
+.modal .meta-item strong { color: #c084fc; }
+.modal pre { background: #0a0a0f; border: 1px solid #2a2a4a; border-radius: 8px; padding: 1rem; overflow-x: auto; font-size: 0.85rem; line-height: 1.5; }
+.modal .body { color: #cbd5e1; line-height: 1.7; }
+.modal .body h1 { font-size: 1.3rem; margin: 1.5rem 0 0.5rem; color: #e0e0e0; }
+.modal .body h2 { font-size: 1.1rem; margin: 1.25rem 0 0.5rem; color: #e0e0e0; }
+.modal .body h3 { font-size: 1rem; margin: 1rem 0 0.5rem; color: #e0e0e0; }
+.modal .body p { margin: 0.5rem 0; }
+.modal .body ul { margin: 0.5rem 0; padding-left: 1.5rem; }
+.modal .body code { background: rgba(192, 132, 252, 0.1); padding: 0.15rem 0.4rem; border-radius: 4px; font-size: 0.85em; color: #c084fc; }
+.modal .body pre code { background: none; padding: 0; color: inherit; }
+.modal .body blockquote { border-left: 3px solid #c084fc; padding-left: 1rem; margin: 1rem 0; color: #94a3b8; }
+
+/* Loading */
+.loading { text-align: center; padding: 4rem; }
+.spinner { width: 48px; height: 48px; border: 3px solid #2a2a4a; border-top-color: #c084fc; border-radius: 50%; animation: spin 0.8s linear infinite; margin: 0 auto 1rem; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #2a2a4a; border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: #3a3a5a; }
+
+/* Responsive */
+@media (max-width: 768px) {
+  .header h1 { font-size: 2rem; }
+  .controls { padding: 0.75rem 1rem; }
+  .container { padding: 0 1rem; }
+  .skills-grid { grid-template-columns: 1fr; }
+  .modal { padding: 1.5rem; max-height: 90vh; }
+}
+</style>
+</head>
+<body>
+<header class="header">
+  <div class="header-content">
+    <h1>⚡ Claude Skills Library</h1>
+    <p>6901+ pre-built skills for Claude.ai — search, filter, and explore</p>
+    <div class="header-stats">
+      <div class="stat">
+        <div class="stat-value" id="totalSkills">—</div>
+        <div class="stat-label">Skills</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value" id="totalDomains">—</div>
+        <div class="stat-label">Domains</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value" id="githubStars">—</div>
+        <div class="stat-label">★ Stars</div>
+      </div>
+    </div>
+    <div class="header-badges">
+      <a href="https://github.com/ssrjkk/claude-skills"><img src="https://img.shields.io/github/stars/ssrjkk/claude-skills?style=social" alt="Stars"></a>
+      <a href="https://github.com/ssrjkk/claude-skills/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Skills-6901-brightgreen" alt="Skills"></a>
+    </div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="search-row">
+    <div class="search-box">
+      <span class="icon">🔍</span>
+      <input type="text" id="searchInput" placeholder="Search 6901 skills..." autofocus>
+    </div>
+    <span id="resultCount"></span>
+  </div>
+  <div class="filters" id="filters"></div>
+</div>
+
+<div class="container">
+  <div class="loading" id="loading">
+    <div class="spinner"></div>
+    <p>Loading 6901 skills...</p>
+  </div>
+  <div class="skills-grid" id="skillsGrid" style="display:none"></div>
+</div>
+
+<div class="modal-overlay" id="modal">
+  <div class="modal">
+    <button class="modal-close" id="modalClose">✕</button>
+    <div id="modalContent"></div>
+  </div>
+</div>
+
+<script>
+const CATEGORY_COLORS = {
+  'ai': 'cat-ai', 'backend': 'cat-backend', 'frontend': 'cat-frontend',
+  'devops': 'cat-devops', 'database': 'cat-database', 'security': 'cat-security',
+  'qa': 'cat-qa'
+};
+
+let skills = [];
+let catalog = null;
+let activeFilter = 'all';
+let searchTerm = '';
+
+async function init() {
+  try {
+    const res = await fetch('skills_catalog.json?' + Date.now());
+    catalog = await res.json();
+    skills = catalog.skills;
+    document.getElementById('totalSkills').textContent = skills.length;
+    document.getElementById('totalDomains').textContent = catalog.metadata.domains.length;
+    
+    // Fetch GitHub stars
+    try {
+      const starRes = await fetch('https://api.github.com/repos/ssrjkk/claude-skills');
+      const starData = await starRes.json();
+      document.getElementById('githubStars').textContent = starData.stargazers_count || '—';
+    } catch(e) { document.getElementById('githubStars').textContent = '★'; }
+    
+    // Build filters
+    const domains = catalog.metadata.domains;
+    const filtersEl = document.getElementById('filters');
+    let html = '<button class="filter-btn all active" data-cat="all">All</button>';
+    // Emoji map for domains
+    const emojiMap = {
+      'ai':'🤖','backend':'🖥','frontend':'🎨','devops':'🛠','database':'🗄',
+      'qa':'🧪','security':'🔒','data':'📊','mobile':'📱','blockchain':'⛓',
+      'design':'🎨','desktop':'🖥','product':'📋','gamedev':'🎮','iot':'📡',
+      'networking':'🌐','communications':'📞','engineering':'🔧','hr':'👥',
+      'os-admin':'💻','payments':'💳','ecommerce':'🛒','media':'🎬',
+      'healthcare':'🏥','finance':'💰','embedded':'⚙️','energy':'⚡',
+      'education':'📚','ar-vr':'🥽','scientific':'🔬','sustainability':'🌿',
+      'supply-chain':'📦','geospatial':'🗺','block':'🧱'
+    };
+    domains.forEach(d => {
+      const emoji = emojiMap[d] || '📁';
+      html += `<button class="filter-btn" data-cat="${d}">${emoji} ${d}</button>`;
+    });
+    filtersEl.innerHTML = html;
+    
+    // Events
+    document.getElementById('searchInput').addEventListener('input', (e) => {
+      searchTerm = e.target.value.toLowerCase();
+      render();
+    });
+    
+    filtersEl.addEventListener('click', (e) => {
+      const btn = e.target.closest('.filter-btn');
+      if (!btn) return;
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeFilter = btn.dataset.cat;
+      render();
+    });
+    
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('skillsGrid').style.display = 'grid';
+    render();
+  } catch(e) {
+    document.getElementById('loading').innerHTML = `<p>Error loading skills: ${e.message}</p>`;
+  }
+}
+
+function render() {
+  const filtered = skills.filter(s => {
+    if (activeFilter !== 'all' && s.category !== activeFilter) return false;
+    if (searchTerm) {
+      const term = searchTerm.toLowerCase();
+      return s.name.toLowerCase().includes(term) || 
+             s.description.toLowerCase().includes(term) ||
+             (s.tags && s.tags.toLowerCase().includes(term));
+    }
+    return true;
+  });
+  
+  document.getElementById('resultCount').textContent = `${filtered.length} / ${skills.length} skills`;
+  
+  const grid = document.getElementById('skillsGrid');
+  grid.innerHTML = filtered.map(s => {
+    const catClass = CATEGORY_COLORS[s.category] || '';
+    const tags = s.tags ? s.tags.replace(/[\[\]"]/g, '').split(',').slice(0, 3).map(t => t.trim()).filter(Boolean) : [];
+    return `<div class="skill-card" onclick="showSkill('${s.category}', '${s.name}')">
+      <div class="cat-badge ${catClass}">${s.category}</div>
+      <h3>${s.name}</h3>
+      <div class="desc">${s.description}</div>
+      <div class="tags">${tags.slice(0, 3).map(t => `<span class="tag">${t}</span>`).join('')}</div>
+    </div>`;
+  }).join('');
+}
+
+async function showSkill(category, name) {
+  const modal = document.getElementById('modal');
+  const content = document.getElementById('modalContent');
+  content.innerHTML = '<div class="loading"><div class="spinner"></div><p>Loading skill...</p></div>';
+  modal.classList.add('open');
+  
+  try {
+    const res = await fetch(`.claude/skills/${category}/${name}/SKILL.md?t=${Date.now()}`);
+    let md = await res.text();
+    
+    // Parse frontmatter
+    let body = md;
+    let title = name;
+    let desc = '';
+    if (md.startsWith('---')) {
+      const endIdx = md.indexOf('---', 3);
+      if (endIdx > 0) {
+        const fm = md.substring(3, endIdx).trim();
+        body = md.substring(endIdx + 3).trim();
+        // Parse description from frontmatter
+        const descMatch = fm.match(/description:\s*(.+)/);
+        if (descMatch) desc = descMatch[1];
+      }
+    }
+    
+    // Simple markdown to HTML (basic)
+    let html = `<h2>${name}</h2>`;
+    if (desc) html += `<div class="meta"><span class="meta-item"><strong>📁</strong> ${category}</span></div>`;
+    
+    // Convert body markdown to HTML
+    let bodyHtml = body
+      .replace(/^### (.+)$/gm, '<h3>$1</h3>')
+      .replace(/^## (.+)$/gm, '<h2>$1</h2>')
+      .replace(/^# (.+)$/gm, '<h1>$1</h1>')
+      .replace(/^> (.+)$/gm, '<blockquote>$1</blockquote>')
+      .replace(/^- (.+)$/gm, '<li>$1</li>')
+      .replace(/(<li>[\s\S]*?)(?:\n\n|$)/g, '<ul>$1</ul>')
+      .replace(/\n\n/g, '</p><p>')
+      .replace(/`([^`]+)`/g, '<code>$1</code>')
+      .replace(/```(\w*)\n([\s\S]*?)```/g, '<pre><code>$2</code></pre>');
+    
+    html += `<div class="body">${bodyHtml}</div>`;
+    content.innerHTML = html;
+  } catch(e) {
+    content.innerHTML = `<p>Error loading skill: ${e.message}</p>`;
+  }
+}
+
+document.getElementById('modalClose').addEventListener('click', () => {
+  document.getElementById('modal').classList.remove('open');
+});
+document.getElementById('modal').addEventListener('click', (e) => {
+  if (e.target === e.currentTarget) document.getElementById('modal').classList.remove('open');
+});
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') document.getElementById('modal').classList.remove('open');
+});
+
+init();
+</script>
+</body>
+</html>
