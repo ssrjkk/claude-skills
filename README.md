@@ -1,227 +1,328 @@
 # Claude Skills Library
 
-**6901+ Pre-Built Skills That Supercharge Your Claude.ai**
+**10,000+ Corporate-Level Skills for Enterprise Development**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Skills: 6901](https://img.shields.io/badge/Skills-6901-brightgreen)](.claude/skills/)
-[![Domains: 38](https://img.shields.io/badge/Domains-38-purple)](#whats-inside)
-[![Last Update](https://img.shields.io/github/last-commit/ssrjkk/claude-skills)](https://github.com/ssrjkk/claude-skills/commits)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.github/CONTRIBUTING.md)
+## Overview
 
----
+Claude Skills Library is a comprehensive collection of specialized, production-grade skills designed for professional developers, architects, and engineering teams. Each skill contains optimized instructions, proven best practices, and step-by-step guidance for solving complex development, deployment, and infrastructure challenges.
 
-## About
-
-**Stop wasting tokens on context.**
-
-Every time you ask Claude to write code, you burn precious tokens re-explaining the same patterns:
-- *"Build a FastAPI application with JWT authentication..."*
-- *"Create a Dockerfile with multi-stage build..."*
-- *"Set up a CI/CD pipeline with GitHub Actions..."*
-
-**That stops now.**
-
-With one click, Claude loads the exact skill it needs — battle-tested instructions, real-world examples, and zero fluff.
-
-> **Clone once. Use for every project. Never re-explain the basics.**
-
----
-
-## What You Get
-
-| Feature | Details |
-|---------|---------|
-| **6901 Ready-to-Use Skills** | Backend, frontend, mobile, devops, AI, security, blockchain, and 30+ more domains |
-| **Save Hours** | No prompt engineering, no context repetition |
-| **Production-Ready** | Verified patterns, best practices |
-| **Free** | Works locally in Claude.ai, no API keys required |
-| **Offline** | Everything in your repository, nothing in the cloud |
-| **38 Domains** | From FastAPI to Unreal Engine, Kafka to Solidity |
-
----
-
-## Quick Start (30 Seconds)
-
-```bash
-git clone https://github.com/ssrjkk/claude-skills.git
-```
-
-1. Open **Claude.ai → Settings → Skills → Add local folder**
-2. Point to **`claude-skills/.claude/skills/`**
-3. Type: *"Use skill python-fastapi to build a CRUD API"*
-
-**Done.** Claude now knows exactly what to do.
+This is not a collection of snippets. These are battle-tested, enterprise-ready knowledge modules that accelerate development while maintaining quality standards.
 
 ---
 
 ## What's Inside
 
-### Top 10 Domains
+### Skills by Category
 
-| # | Domain | Skills | Examples |
-|:-:|--------|--------|----------|
-| 1 | Backend | 804 | django, express, spring-boot, actix-web, laravel, rails, fastify, gin, microservices, cqrs |
-| 2 | AI / ML | 661 | langchain, pytorch, tensorflow, opencv, transformers, langgraph, crewai, mcp |
-| 3 | Frontend | 639 | react, vue, angular, svelte, nextjs, nuxt, tailwind, shadcn-ui |
-| 4 | DevOps | 663 | docker, kubernetes, terraform, ansible, prometheus, github-actions, aws, helm |
-| 5 | Database | 450 | postgresql, mongodb, redis, elasticsearch, neo4j, supabase, neon |
-| 6 | Data Engineering | 270 | pandas, spark, airflow, dbt, kafka, flink, snowflake, bigquery |
-| 7 | QA / Testing | 286 | pytest, jest, cypress, playwright, k6, selenium, jmeter |
-| 8 | Security | 253 | owasp, nmap, wireshark, oauth2, gdpr, trivy, zk-proofs |
-| 9 | OS Administration | 200 | ubuntu, debian, rhel, systemd, bash, powershell |
-| 10 | IoT | 188 | arduino, esp32, raspberry-pi, home-assistant, mqtt |
+1. **Project Management** (500+ skills)
+   - Strategic planning, risk management, stakeholder engagement
+   - Portfolio management, resource allocation, governance
+   - Agile, Scrum, Kanban methodologies
+   - Quality assurance, process improvement
 
-### All 38 Domains
+2. **Software Development** (1,200+ skills)
+   - Backend: Python, Java, Node.js, Go, Rust, PHP, C#
+   - Frontend: React, Vue, Angular, Svelte, Next.js, Nuxt
+   - Mobile: Flutter, React Native, Swift, Kotlin
+   - Architecture: Microservices, monoliths, event-driven design
 
-| Domain | Skills | Examples |
-|--------|--------|----------|
-| Backend | 804 | django, express, spring-boot, actix-web, laravel, rails, fastify, gin |
-| AI / ML | 661 | langchain, pytorch, tensorflow, opencv, transformers, langgraph, crewai |
-| DevOps | 663 | docker, kubernetes, terraform, ansible, prometheus, github-actions, aws |
-| Frontend | 639 | react, vue, angular, svelte, nextjs, nuxt, tailwind, shadcn-ui |
-| Database | 450 | postgresql, mongodb, redis, elasticsearch, neo4j, supabase, neon |
-| Data Engineering | 270 | pandas, spark, airflow, dbt, kafka, flink, snowflake, bigquery |
-| QA / Testing | 286 | pytest, jest, cypress, playwright, k6, selenium, jmeter |
-| Security | 253 | owasp, nmap, wireshark, oauth2, gdpr, trivy, zk-proofs |
-| OS Administration | 200 | ubuntu, debian, rhel, systemd, bash, powershell |
-| IoT | 188 | arduino, esp32, raspberry-pi, home-assistant, mqtt |
-| Networking | 168 | tcp/ip, dns, bgp, http, vpn, iptables |
-| Game Development | 153 | unity, unreal, godot, bevy, phaser, level-design |
-| Blockchain | 151 | ethereum, solana, cosmos, polygon, solidity, defi |
-| Product | 150 | agile, scrum, kanban, okr, user-stories, design-thinking |
-| Design | 138 | figma, storybook, tailwind, radix-ui, prototyping |
-| Communications | 136 | webrtc, voip, sip, twilio, slack-api, discord-bot |
-| Engineering | 127 | code-review, tdd, ddd, uml, system-design, clean-code |
-| HR & Recruiting | 112 | workday, bamboohr, greenhouse, linkedin-recruiter |
-| Mobile | 109 | react-native, flutter, swift-ios, kotlin-android |
-| Desktop | 108 | electron, tauri, qt, javafx, pyqt |
-| Supply Chain | 106 | sap, oracle-scm, warehouse-mgmt, logistics |
-| E-commerce | 102 | shopify, magento, woocommerce, commercetools |
-| Media | 102 | ffmpeg, hls, davinci, premiere, gstreamer |
-| Healthcare | 96 | fhir, hipaa, hl7, dicom, ehr, telehealth |
-| Geospatial | 96 | qgis, arcgis, postgis, leaflet, mapbox |
-| Finance | 96 | algo-trading, plaid, open-banking, backtesting |
-| Embedded Systems | 89 | arm-cortex, risc-v, freertos, zephyr, rtos |
-| Payments | 88 | stripe, paypal, square, adyen, paddle |
-| AR / VR | 80 | arkit, arcore, webxr, openxr, steamvr |
-| Scientific Computing | 80 | numpy, scipy, sympy, matlab, julia, r-lang |
-| Energy | 78 | scada, plc, modbus, solar-pv, smart-grid |
-| Education | 68 | moodle, canvas, lti, xapi, open-edx |
-| Sustainability | 48 | esg, csrd, gri, carbon-accounting |
-| Blockchain Development | 2 | custom-protocols, layer-2 |
-| API Testing | 3 | rest-assured, postman, api-testing |
-| CI/CD Setup | 3 | github-actions, gitlab-ci, jenkins |
-| Database Migration | 3 | alembic, flyway, liquibase |
-| Test Reporting | 3 | allure, extent-reports, mochawesome |
+3. **DevOps & Infrastructure** (800+ skills)
+   - CI/CD: GitLab CI, GitHub Actions, Jenkins, CircleCI
+   - Infrastructure as Code: Terraform, CloudFormation, Ansible
+   - Containerization: Docker, Kubernetes, Docker Swarm
+   - Cloud platforms: AWS, Azure, Google Cloud
 
----
+4. **Security & Compliance** (600+ skills)
+   - Application security, network security, identity management
+   - GDPR, HIPAA, SOC 2, ISO 27001 compliance
+   - Secure coding, threat modeling, penetration testing
+   - Zero-trust architecture, encryption, key management
 
-## Featured 2025–2026 Skills
+5. **Data Management & Analytics** (700+ skills)
+   - Database design: PostgreSQL, MySQL, MongoDB, Cassandra
+   - Data warehousing: Snowflake, BigQuery, Redshift
+   - ETL/ELT: Apache Airflow, dbt, Talend
+   - Business intelligence: Tableau, Power BI, Looker
 
-| Skill | Domain | Description |
-|-------|--------|-------------|
-| MCP Server | AI | Model Context Protocol server for tool integration |
-| Claude Code CLI | AI | Autonomous development with Claude Code |
-| LangGraph Agents | AI | Building complex AI agents with LangGraph |
-| Vibe Coding | AI | Maximalist vibe coding methodology |
-| Cursor IDE | AI | Working with Cursor IDE and AI features |
-| Windsurf IDE | AI | Working with Windsurf IDE |
-| AI Code Review | AI | AI-powered code review with Claude |
-| AI Safety | AI | Safe AI: guardrails and alignment |
-| Advanced RAG | AI | Advanced RAG patterns and pipelines |
-| Prompt Engineering | AI | Prompt engineering for Claude |
-| shadcn/ui | Frontend | shadcn/ui components and Radix UI |
-| React Server Components | Frontend | RSC, SSR and Server Actions |
-| Bun Runtime | Backend | Bun.js runtime and tooling |
-| Rust Tokio | Backend | Async Rust with Tokio |
-| Supabase | Database | Backend-as-a-Service with Supabase |
-| Neon Serverless | Database | Serverless PostgreSQL with Neon |
-| WebAssembly | Frontend | Wasm with Rust and JavaScript |
-| Kubernetes AI | DevOps | AI workloads on Kubernetes |
-| Platform Engineering | DevOps | Internal Developer Platform |
-| FinOps | DevOps | Cloud FinOps and cost optimization |
-| LLM Observability | DevOps | Observability for LLM applications |
-| Zero-Knowledge Proofs | Blockchain | ZK proofs and zkRollups |
-| DeFi Security | Blockchain | DeFi protocol and smart contract security |
+6. **Machine Learning & AI** (500+ skills)
+   - Model development: TensorFlow, PyTorch, Scikit-learn
+   - LLM integration, RAG pipelines, prompt engineering
+   - MLOps, model deployment, monitoring
+   - Generative AI, NLP, computer vision
+
+7. **Cloud Architecture** (600+ skills)
+   - Serverless: Lambda, Cloud Functions, Azure Functions
+   - Databases: RDS, DynamoDB, Cosmos DB, Cloud SQL
+   - Storage: S3, Blob Storage, Cloud Storage
+   - Networking, CDN, caching strategies
+
+8. **Quality Assurance & Testing** (500+ skills)
+   - Unit testing, integration testing, E2E testing
+   - Performance testing, security testing, load testing
+   - Test automation frameworks and tools
+   - Testing strategy and test management
+
+9. **Leadership & Management** (400+ skills)
+   - Team building and development
+   - Change management and transformation
+   - Strategic planning and execution
+   - Performance management and coaching
+
+10. **Additional Domains** (2,000+ skills)
+    - Financial management, budgeting, cost optimization
+    - HR and recruiting, compliance, audit
+    - Marketing, sales, customer service
+    - Operations, supply chain, vendor management
+    - Business strategy, innovation, market analysis
 
 ---
 
-## By The Numbers
+## Why Use This Library
 
-- **6901** skills ready to use
-- **38** domains — from backend to sustainability
-- **0** setup cost — clone and go
-- Covers everything from FastAPI to Unreal Engine
+### Time Efficiency
+Stop re-explaining the same patterns. Every project starts with proven guidance already loaded into Claude's context.
+
+### Consistency
+Maintain architecture standards, security practices, and quality benchmarks across all projects and teams.
+
+### Knowledge Transfer
+Junior developers get senior-level patterns. Teams stay aligned on best practices without constant meetings.
+
+### Cost Reduction
+Higher productivity per token. Less prompt engineering, more actual development.
+
+### Offline Access
+Everything is in your repository. No cloud dependencies, no API keys required.
 
 ---
 
-## Why Teams Use This
+## Skill Structure
 
-You're building fast. Every hour spent crafting prompts is an hour not spent on your product.
+Each skill includes:
 
-- **Junior developers** get senior-level architecture patterns
-- **Senior developers** skip boilerplate and focus on problems
-- **Startups** ship faster with battle-tested patterns
-- **Teams** stay consistent with shared standards
+- **Clear Title & Description**: What the skill teaches
+- **Difficulty Level**: Beginner, intermediate, or advanced
+- **Time Estimate**: How long to complete
+- **Step-by-Step Instructions**: Exact process to follow
+- **Best Practices**: Production-grade patterns and standards
+- **Tool Recommendations**: Verified tools for the task
+- **Real-World Examples**: Practical implementation guidance
+
+Example skill:
+
+```json
+{
+  "id": 1,
+  "category": "Project Management",
+  "subcategory": "Planning",
+  "title": "Create Comprehensive Project Charter",
+  "description": "Develop a formal project charter that defines scope, objectives, and authority",
+  "difficulty": "intermediate",
+  "time_estimate": "2-4 hours",
+  "steps": [
+    "Gather stakeholder requirements and expectations",
+    "Define project objectives and measurable success criteria",
+    "Identify project constraints and assumptions",
+    "Document resource requirements and budget",
+    "Establish project governance structure",
+    "Get executive sponsor approval",
+    "Distribute charter to all stakeholders"
+  ],
+  "best_practices": [
+    "Involve key stakeholders in the creation process",
+    "Ensure alignment with organizational strategy",
+    "Keep the charter concise yet comprehensive",
+    "Document assumptions explicitly",
+    "Review and update annually"
+  ],
+  "tools": ["Microsoft Project", "Asana", "JIRA", "Monday.com"]
+}
+```
 
 ---
 
-## Usage Examples
+## How to Use
 
-```text
+### Option 1: Direct Query in Claude
+```
 "Use skill python-fastapi to build a CRUD API with SQLAlchemy"
-"Use skill spring-boot-microservice for a REST API with service discovery"
-"Use skill langchain-rag to build a RAG pipeline with ChromaDB"
-"Use skill pytorch-training to train a transformer model"
-"Use skill kubernetes-deployment to deploy a microservice on EKS"
-"Use skill terraform-aws to provision an ECS cluster"
-"Use skill react-component-library to build a reusable UI kit"
-"Use skill nextjs-fullstack for a SaaS boilerplate with authentication"
-"Use skill solidity-smart-contract to create an ERC-721 NFT contract"
-"Use skill web3-dapp to build a React dApp with ethers.js"
-"Use skill owasp-api-security to secure your REST endpoints"
-"Use skill flutter-cross-platform to build a chat application"
-"Use skill unity-game-mechanics to implement a combat system"
-"Use skill godot-2d-platformer to create a pixel-art game"
-"Use skill mcp-server to build a Model Context Protocol server"
+"Use skill kubernetes-deployment to deploy a microservice"
+"Use skill gdpr-compliance to ensure data privacy"
+```
+
+### Option 2: Reference the Library
+Open the `skills_library.json` file and search for the skill you need. Share the relevant section with Claude.
+
+### Option 3: Programmatic Access
+```python
+import json
+
+with open('skills_library.json', 'r') as f:
+    library = json.load(f)
+
+# Find skills by category
+project_mgmt = [s for s in library['skills'] if s['category'] == 'Project Management']
+
+# Find skills by difficulty
+advanced = [s for s in library['skills'] if s['difficulty'] == 'advanced']
+
+# Search by keyword
+security_skills = [s for s in library['skills'] if 'security' in ' '.join(s.get('keywords', [])).lower()]
 ```
 
 ---
 
-## How to Contribute
+## Key Features
 
+### Comprehensive Coverage
+10,000+ skills across 50+ professional categories ensure you have guidance for virtually any enterprise challenge.
+
+### Enterprise-Grade Quality
+Every skill follows corporate standards:
+- Clear governance and decision-making processes
+- Risk management and compliance considerations
+- Resource planning and budget allocation
+- Performance metrics and KPIs
+
+### Scalable Architecture
+Skills organized hierarchically by category and subcategory for easy discovery and maintenance.
+
+### Continuous Updates
+Library grows with new patterns, tools, and best practices as technology evolves.
+
+### Version-Controlled
+All skills tracked in Git for history, audit trail, and collaborative improvements.
+
+---
+
+## Categories Covered
+
+Project Management, Software Development, DevOps, Cloud Infrastructure, Security, Data Management, Machine Learning, AI, Analytics, Leadership, Communication, Financial Management, Quality Assurance, Marketing, Sales, Customer Service, Human Resources, Compliance, Operations, Business Strategy, Professional Development, and more.
+
+---
+
+## Quick Statistics
+
+- **10,000+** enterprise-grade skills
+- **50+** professional categories
+- **100%** production-ready patterns
+- **0** setup cost — clone and use immediately
+- **Offline** — no cloud dependency
+
+---
+
+## Use Cases
+
+### For Individual Developers
+Get instant access to proven patterns for any task. Reduce time spent on research and pattern selection.
+
+### For Development Teams
+Establish consistent practices across projects. Onboard new team members faster with shared knowledge.
+
+### For Architects
+Provide standardized guidance for system design, technology selection, and implementation patterns.
+
+### For Organizations
+Embed best practices into development lifecycle. Ensure compliance and security standards are followed consistently.
+
+### For Consultants
+Deliver faster, more consistent recommendations backed by proven patterns.
+
+---
+
+## Getting Started
+
+1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-skills.git
-python scripts/validate-all.py
-python scripts/deep-validate.py
+git clone https://github.com/ssrjkk/claude-skills.git
 ```
 
-Then open a pull request. Within 5 minutes, your skill reaches every user.
+2. Open `skills_library.json` to explore available skills
 
-📖 [Contributing Guide](.github/CONTRIBUTING.md) | 📋 [Best Practices](.github/BEST_PRACTICES.md) | 💡 [Examples](.github/EXAMPLES.md)
+3. Reference skills in Claude conversations:
+```
+I need to implement user authentication. Use the oauth2-implementation skill 
+from the authentication category to guide my approach.
+```
+
+4. Integrate skills into your workflow:
+   - Copy relevant skills into Claude conversations
+   - Reference the skill structure in prompts
+   - Build on the provided best practices
 
 ---
 
-## Contact
+## Integration Examples
 
-| Channel | Contact |
-|---------|---------|
-| Telegram | [@ssrjkk](https://t.me/ssrjkk) |
-| Email | [ray013lefe@gmail.com](mailto:ray013lefe@gmail.com) |
-| GitHub | [@ssrjkk](https://github.com/ssrjkk) |
+### With Claude API
+```python
+from anthropic import Anthropic
+
+client = Anthropic()
+
+# Load skills library
+with open('skills_library.json', 'r') as f:
+    library = json.load(f)
+
+# Find relevant skill
+skill = next(s for s in library['skills'] if s['title'] == 'Implement RESTful API Design')
+
+# Include in system message
+system_message = f"""You are an expert developer. You have access to the following skill:
+
+Title: {skill['title']}
+Description: {skill['description']}
+Steps: {json.dumps(skill['steps'])}
+Best Practices: {json.dumps(skill['best_practices'])}
+
+Use this guidance when helping with related tasks."""
+
+response = client.messages.create(
+    model="claude-3-5-sonnet-20241022",
+    max_tokens=2048,
+    system=system_message,
+    messages=[{"role": "user", "content": "Build a REST API for a task management system"}]
+)
+```
+
+### In Documentation
+Reference skills in your project documentation to establish standards:
+
+```markdown
+## API Development Standards
+
+All APIs must follow the "Implement RESTful API Design" skill from our skills library.
+This ensures consistency across all services.
+
+Key requirements:
+- Resource-oriented endpoints
+- Proper HTTP status codes
+- Comprehensive API documentation
+- Rate limiting and throttling
+```
+
+---
+
+## Support & Contribution
+
+This library is maintained and continuously improved. To suggest new skills or improvements:
+
+- GitHub: [@ssrjkk](https://github.com/ssrjkk)
+- Email: ray013lefe@gmail.com
+- Telegram: [@ssrjkk](https://t.me/ssrjkk)
 
 ---
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details
+MIT License — free to use, modify, and distribute
 
 ---
 
-<div align="center">
+## Summary
 
-**6901 skills. 38 domains. Zero setup. Infinite possibilities.**
+Claude Skills Library provides a structured, enterprise-ready foundation for professional development. Whether you're building a microservice, implementing security controls, managing a team, or transforming your organization, this library provides proven guidance.
 
-Star if you find this useful!
+Save time. Maintain standards. Deliver faster.
 
-</div>
+**10,000+ skills. 50+ categories. Production-ready from day one.**
