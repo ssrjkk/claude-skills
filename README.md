@@ -1,328 +1,173 @@
 # Claude Skills Library
 
-**10,000+ Corporate-Level Skills for Enterprise Development**
+> 🚀 **Лидерская библиотека специализированных навыков для Claude AI**
 
-## Overview
+Это официальная коллекция 10,000+ высококачественных, проверенных Claude Skills для повышения производительности разработки, тестирования, развертывания и управления.
 
-Claude Skills Library is a comprehensive collection of specialized, production-grade skills designed for professional developers, architects, and engineering teams. Each skill contains optimized instructions, proven best practices, and step-by-step guidance for solving complex development, deployment, and infrastructure challenges.
+## 🎯 Что такое Claude Skills?
 
-This is not a collection of snippets. These are battle-tested, enterprise-ready knowledge modules that accelerate development while maintaining quality standards.
+Claude Skills — это структурированные, пошаговые инструкции, оптимизированные для работы с Claude AI. Каждый навык содержит:
+- ✅ Четкие, атомарные шаги
+- ✅ Примеры использования в реальных проектах
+- ✅ Best practices от индустрии
+- ✅ Проверенные инструменты и альтернативы
 
----
+## 📊 Статистика библиотеки
 
-## What's Inside
+| Метрика | Значение |
+|---------|----------|
+| **Всего навыков** | 10,000+ |
+| **Категорий** | 50 |
+| **Языков** | English, Русский |
+| **Статус** | Production Ready ✅ |
 
-### Skills by Category
+Подробнее: [SKILLS_STATISTICS.md](SKILLS_STATISTICS.md)
 
-1. **Project Management** (500+ skills)
-   - Strategic planning, risk management, stakeholder engagement
-   - Portfolio management, resource allocation, governance
-   - Agile, Scrum, Kanban methodologies
-   - Quality assurance, process improvement
+## 📚 Навигация
 
-2. **Software Development** (1,200+ skills)
-   - Backend: Python, Java, Node.js, Go, Rust, PHP, C#
-   - Frontend: React, Vue, Angular, Svelte, Next.js, Nuxt
-   - Mobile: Flutter, React Native, Swift, Kotlin
-   - Architecture: Microservices, monoliths, event-driven design
+- **[Каталог навыков](SKILLS_LIBRARY.md)** — Полный индекс всех навыков по категориям
+- **[Как начать](CONTRIBUTING.md)** — Руководство для контрибьюторов
+- **[Система валидации](.github/workflows/validate-skills.yml)** — Автоматическая проверка качества
 
-3. **DevOps & Infrastructure** (800+ skills)
-   - CI/CD: GitLab CI, GitHub Actions, Jenkins, CircleCI
-   - Infrastructure as Code: Terraform, CloudFormation, Ansible
-   - Containerization: Docker, Kubernetes, Docker Swarm
-   - Cloud platforms: AWS, Azure, Google Cloud
+## 🏗️ Структура репозитория
 
-4. **Security & Compliance** (600+ skills)
-   - Application security, network security, identity management
-   - GDPR, HIPAA, SOC 2, ISO 27001 compliance
-   - Secure coding, threat modeling, penetration testing
-   - Zero-trust architecture, encryption, key management
+```
+claude-skills/
+├── .github/
+│   ├── copilot-instructions.md        # Claude system prompt
+│   ├── copilot-custom-instructions.md # Copilot context
+│   └── workflows/
+│       └── validate-skills.yml         # CI/CD pipeline
+├── scripts/                            # Инструменты валидации
+│   ├── validate_schema.py             # JSON validation
+│   ├── check_ids.py                   # Duplicate detection
+│   ├── check_skill_fields.py          # Required fields check
+│   ├── detect_anti_patterns.py        # Pattern detection
+│   ├── generate_stats.py              # Statistics generation
+│   ├── generate_index.py              # Index generation
+│   └── test_examples.py               # Example testing
+├── skills/                             # Individual skills directory
+├── skills_library.json                # Main skills catalog
+├── SKILLS_LIBRARY.md                  # Generated index
+├── SKILLS_STATISTICS.md               # Generated stats
+├── CONTRIBUTING.md                    # Contribution guidelines
+├── README.md                          # This file
+└── LICENSE                            # MIT License
+```
 
-5. **Data Management & Analytics** (700+ skills)
-   - Database design: PostgreSQL, MySQL, MongoDB, Cassandra
-   - Data warehousing: Snowflake, BigQuery, Redshift
-   - ETL/ELT: Apache Airflow, dbt, Talend
-   - Business intelligence: Tableau, Power BI, Looker
+## 🚀 Быстрый старт
 
-6. **Machine Learning & AI** (500+ skills)
-   - Model development: TensorFlow, PyTorch, Scikit-learn
-   - LLM integration, RAG pipelines, prompt engineering
-   - MLOps, model deployment, monitoring
-   - Generative AI, NLP, computer vision
+### Для пользователей
+1. Посмотри каталог навыков в [SKILLS_LIBRARY.md](SKILLS_LIBRARY.md)
+2. Найди нужный навык по категории или ключевому слову
+3. Используй инструкции на своем проекте
 
-7. **Cloud Architecture** (600+ skills)
-   - Serverless: Lambda, Cloud Functions, Azure Functions
-   - Databases: RDS, DynamoDB, Cosmos DB, Cloud SQL
-   - Storage: S3, Blob Storage, Cloud Storage
-   - Networking, CDN, caching strategies
+### Для контрибьюторов
+1. Прочитай [CONTRIBUTING.md](CONTRIBUTING.md)
+2. Следуй [системе промптов](.github/copilot-instructions.md)
+3. Запусти валидацию: `python scripts/validate_schema.py skills_library.json`
+4. Отправь PR с новым навыком
 
-8. **Quality Assurance & Testing** (500+ skills)
-   - Unit testing, integration testing, E2E testing
-   - Performance testing, security testing, load testing
-   - Test automation frameworks and tools
-   - Testing strategy and test management
+## ✅ Система контроля качества
 
-9. **Leadership & Management** (400+ skills)
-   - Team building and development
-   - Change management and transformation
-   - Strategic planning and execution
-   - Performance management and coaching
+Каждый навык автоматически проверяется:
+- ✅ **JSON Schema Validation** — структура и обязательные по��я
+- ✅ **Duplicate Detection** — уникальность ID
+- ✅ **Field Verification** — все требуемые поля присутствуют
+- ✅ **Anti-Pattern Detection** — нет вагу-формулировок
+- ✅ **Example Testing** — примеры выполнимы
+- ✅ **Statistics Auto-Generation** — автоматическое обновление статистики
 
-10. **Additional Domains** (2,000+ skills)
-    - Financial management, budgeting, cost optimization
-    - HR and recruiting, compliance, audit
-    - Marketing, sales, customer service
-    - Operations, supply chain, vendor management
-    - Business strategy, innovation, market analysis
+### Запуск проверок локально
 
----
+```bash
+# Проверить JSON схему
+python scripts/validate_schema.py skills_library.json --strict
 
-## Why Use This Library
+# Найти дубликаты
+python scripts/check_ids.py skills_library.json
 
-### Time Efficiency
-Stop re-explaining the same patterns. Every project starts with proven guidance already loaded into Claude's context.
+# Проверить обязательные поля
+python scripts/check_skill_fields.py skills_library.json
 
-### Consistency
-Maintain architecture standards, security practices, and quality benchmarks across all projects and teams.
+# Обнаружить антипаттерны
+python scripts/detect_anti_patterns.py skills_library.json
 
-### Knowledge Transfer
-Junior developers get senior-level patterns. Teams stay aligned on best practices without constant meetings.
+# Генерировать статистику
+python scripts/generate_stats.py skills_library.json
 
-### Cost Reduction
-Higher productivity per token. Less prompt engineering, more actual development.
+# Генерировать индекс
+python scripts/generate_index.py skills_library.json
+```
 
-### Offline Access
-Everything is in your repository. No cloud dependencies, no API keys required.
+## 📖 Форматы
 
----
-
-## Skill Structure
-
-Each skill includes:
-
-- **Clear Title & Description**: What the skill teaches
-- **Difficulty Level**: Beginner, intermediate, or advanced
-- **Time Estimate**: How long to complete
-- **Step-by-Step Instructions**: Exact process to follow
-- **Best Practices**: Production-grade patterns and standards
-- **Tool Recommendations**: Verified tools for the task
-- **Real-World Examples**: Practical implementation guidance
-
-Example skill:
+### Структура Skill в JSON
 
 ```json
 {
-  "id": 1,
-  "category": "Project Management",
-  "subcategory": "Planning",
-  "title": "Create Comprehensive Project Charter",
-  "description": "Develop a formal project charter that defines scope, objectives, and authority",
+  "id": "DEV-PY-042",
+  "category": "Development",
+  "subcategory": "Python",
+  "title": "Implementing Type-Safe Database Queries",
+  "description": "Create ORM-based queries with automatic type validation",
   "difficulty": "intermediate",
-  "time_estimate": "2-4 hours",
+  "time_estimate": "1h",
+  "prerequisites": ["DEV-PY-001"],
   "steps": [
-    "Gather stakeholder requirements and expectations",
-    "Define project objectives and measurable success criteria",
-    "Identify project constraints and assumptions",
-    "Document resource requirements and budget",
-    "Establish project governance structure",
-    "Get executive sponsor approval",
-    "Distribute charter to all stakeholders"
+    "Install SQLAlchemy: pip install sqlalchemy",
+    "Define model with type hints: class User(Base):",
+    "..."
   ],
   "best_practices": [
-    "Involve key stakeholders in the creation process",
-    "Ensure alignment with organizational strategy",
-    "Keep the charter concise yet comprehensive",
-    "Document assumptions explicitly",
-    "Review and update annually"
+    "Always use type hints for columns",
+    "Validate input at query time"
   ],
-  "tools": ["Microsoft Project", "Asana", "JIRA", "Monday.com"]
+  "tools": [
+    "SQLAlchemy (ORM framework)",
+    "PostgreSQL (database)"
+  ],
+  "keywords": ["database", "ORM", "SQLAlchemy"],
+  "examples": [
+    {
+      "scenario": "Build user lookup query",
+      "input": "user_id=42",
+      "output": "User(id=42, name='Alice')",
+      "context": "API endpoint for fetching user profile"
+    }
+  ],
+  "anti_patterns": [
+    "❌ Dynamic query construction without escaping",
+    "❌ N+1 query problems with relationships"
+  ],
+  "related_skills": ["DEV-PY-041", "DEV-PY-043"],
+  "language": "en"
 }
 ```
 
----
+## 🌍 Поддерживаемые категории
 
-## How to Use
+| Категория | Примеры |
+|-----------|---------|
+| **Development** | Python, JavaScript, Go, Rust, Java |
+| **Testing** | Unit, Integration, E2E, Performance |
+| **Deployment** | Docker, Kubernetes, CI/CD |
+| **DevOps** | Monitoring, Logging, Infrastructure |
+| **Security** | Authentication, Encryption, Compliance |
+| **AI** | LLM Integration, Prompt Engineering |
+| **Documentation** | API Docs, Architecture |
 
-### Option 1: Direct Query in Claude
-```
-"Use skill python-fastapi to build a CRUD API with SQLAlchemy"
-"Use skill kubernetes-deployment to deploy a microservice"
-"Use skill gdpr-compliance to ensure data privacy"
-```
+## 🤝 Лицензия
 
-### Option 2: Reference the Library
-Open the `skills_library.json` file and search for the skill you need. Share the relevant section with Claude.
+MIT License — используй свободно в коммерческих и личных проектах.
 
-### Option 3: Programmatic Access
-```python
-import json
+## 💬 Контакт
 
-with open('skills_library.json', 'r') as f:
-    library = json.load(f)
-
-# Find skills by category
-project_mgmt = [s for s in library['skills'] if s['category'] == 'Project Management']
-
-# Find skills by difficulty
-advanced = [s for s in library['skills'] if s['difficulty'] == 'advanced']
-
-# Search by keyword
-security_skills = [s for s in library['skills'] if 'security' in ' '.join(s.get('keywords', [])).lower()]
-```
+- **GitHub Issues** — Для отчетов об ошибках и предложений
+- **Discussions** — Для обсуждения новых идей
 
 ---
 
-## Key Features
+**Миссия**: Создать де-факто стандартную библиотеку Claude Skills, которая будет форкаться и использоваться тысячами разработчиков по всему миру. 🚀
 
-### Comprehensive Coverage
-10,000+ skills across 50+ professional categories ensure you have guidance for virtually any enterprise challenge.
-
-### Enterprise-Grade Quality
-Every skill follows corporate standards:
-- Clear governance and decision-making processes
-- Risk management and compliance considerations
-- Resource planning and budget allocation
-- Performance metrics and KPIs
-
-### Scalable Architecture
-Skills organized hierarchically by category and subcategory for easy discovery and maintenance.
-
-### Continuous Updates
-Library grows with new patterns, tools, and best practices as technology evolves.
-
-### Version-Controlled
-All skills tracked in Git for history, audit trail, and collaborative improvements.
-
----
-
-## Categories Covered
-
-Project Management, Software Development, DevOps, Cloud Infrastructure, Security, Data Management, Machine Learning, AI, Analytics, Leadership, Communication, Financial Management, Quality Assurance, Marketing, Sales, Customer Service, Human Resources, Compliance, Operations, Business Strategy, Professional Development, and more.
-
----
-
-## Quick Statistics
-
-- **10,000+** enterprise-grade skills
-- **50+** professional categories
-- **100%** production-ready patterns
-- **0** setup cost — clone and use immediately
-- **Offline** — no cloud dependency
-
----
-
-## Use Cases
-
-### For Individual Developers
-Get instant access to proven patterns for any task. Reduce time spent on research and pattern selection.
-
-### For Development Teams
-Establish consistent practices across projects. Onboard new team members faster with shared knowledge.
-
-### For Architects
-Provide standardized guidance for system design, technology selection, and implementation patterns.
-
-### For Organizations
-Embed best practices into development lifecycle. Ensure compliance and security standards are followed consistently.
-
-### For Consultants
-Deliver faster, more consistent recommendations backed by proven patterns.
-
----
-
-## Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/ssrjkk/claude-skills.git
-```
-
-2. Open `skills_library.json` to explore available skills
-
-3. Reference skills in Claude conversations:
-```
-I need to implement user authentication. Use the oauth2-implementation skill 
-from the authentication category to guide my approach.
-```
-
-4. Integrate skills into your workflow:
-   - Copy relevant skills into Claude conversations
-   - Reference the skill structure in prompts
-   - Build on the provided best practices
-
----
-
-## Integration Examples
-
-### With Claude API
-```python
-from anthropic import Anthropic
-
-client = Anthropic()
-
-# Load skills library
-with open('skills_library.json', 'r') as f:
-    library = json.load(f)
-
-# Find relevant skill
-skill = next(s for s in library['skills'] if s['title'] == 'Implement RESTful API Design')
-
-# Include in system message
-system_message = f"""You are an expert developer. You have access to the following skill:
-
-Title: {skill['title']}
-Description: {skill['description']}
-Steps: {json.dumps(skill['steps'])}
-Best Practices: {json.dumps(skill['best_practices'])}
-
-Use this guidance when helping with related tasks."""
-
-response = client.messages.create(
-    model="claude-3-5-sonnet-20241022",
-    max_tokens=2048,
-    system=system_message,
-    messages=[{"role": "user", "content": "Build a REST API for a task management system"}]
-)
-```
-
-### In Documentation
-Reference skills in your project documentation to establish standards:
-
-```markdown
-## API Development Standards
-
-All APIs must follow the "Implement RESTful API Design" skill from our skills library.
-This ensures consistency across all services.
-
-Key requirements:
-- Resource-oriented endpoints
-- Proper HTTP status codes
-- Comprehensive API documentation
-- Rate limiting and throttling
-```
-
----
-
-## Support & Contribution
-
-This library is maintained and continuously improved. To suggest new skills or improvements:
-
-- GitHub: [@ssrjkk](https://github.com/ssrjkk)
-- Email: ray013lefe@gmail.com
-- Telegram: [@ssrjkk](https://t.me/ssrjkk)
-
----
-
-## License
-
-MIT License — free to use, modify, and distribute
-
----
-
-## Summary
-
-Claude Skills Library provides a structured, enterprise-ready foundation for professional development. Whether you're building a microservice, implementing security controls, managing a team, or transforming your organization, this library provides proven guidance.
-
-Save time. Maintain standards. Deliver faster.
-
-**10,000+ skills. 50+ categories. Production-ready from day one.**
+**Качество > Количество** — Каждый навык 100% верифицирован.
