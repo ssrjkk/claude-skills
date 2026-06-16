@@ -1,4 +1,5 @@
 import os, sys, glob, re
+sys.stdout.reconfigure(encoding='utf-8') if hasattr(sys.stdout, 'reconfigure') else None
 
 errors = []
 warnings = []

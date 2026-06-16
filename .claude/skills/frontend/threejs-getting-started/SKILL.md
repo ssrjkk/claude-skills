@@ -1,0 +1,40 @@
+---
+name: threejs-getting-started
+description: Getting Started for Threejs: initial setup and first steps
+category: frontend
+tags: [threejs, getting-started, frontend]
+models: [sonnet, opus]
+version: "1.0"
+language: en
+---
+
+# Threejs Getting Started
+
+> initial setup and first steps
+
+## Quick Start
+Begin by setting up Threejs for initial setup and first steps.
+
+## When to Use
+- Working with Threejs in production
+- Implementing getting-started patterns and practices
+- Building reliable solutions
+
+## Step-by-Step
+1. Install and configure Threejs
+2. Follow best practices for getting-started
+3. Test the implementation
+4. Monitor and optimize
+
+## Dependencies
+- Threejs (latest stable version)
+- Development environment
+
+## Resources
+- Official Threejs documentation
+- Community guides and tutorials
+
+## Validation
+- Verify the setup works correctly
+- Run validation tests
+- Check logs and metrics

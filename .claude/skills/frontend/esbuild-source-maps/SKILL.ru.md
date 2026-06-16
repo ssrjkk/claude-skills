@@ -1,0 +1,37 @@
+---
+name: esbuild-source-maps
+description: Source Maps with esbuild. debugging.
+category: frontend
+tags: [esbuild-source-maps, frontend, russian]
+models: [sonnet, opus]
+version: "1.0"
+language: ru
+original: esbuild-source-maps
+---
+
+# Esbuild Source Maps
+
+> Source Maps with esbuild. debugging.
+
+## Быстрый старт
+Этот навык на русском языке. Оригинал: `esbuild-source-maps`.
+
+## Когда использовать
+- Работа с Фронтенд-разработка
+- Выполнение задач, связанных с Esbuild Source Maps
+- Профессиональное развитие
+
+## Инструкции
+1. Ознакомьтесь с описанием навыка
+2. Изучите английскую версию для полных инструкций
+3. Примените полученные знания на практике
+
+## Ресурсы
+- Оригинальный навык: `frontend/esbuild-source-maps/SKILL.md`
+- Категория: Фронтенд-разработка
+- Язык: Русский
+
+## Валидация
+- Прочитайте английскую версию для проверки
+- Выполните описанные шаги
+- Убедитесь в правильности результата

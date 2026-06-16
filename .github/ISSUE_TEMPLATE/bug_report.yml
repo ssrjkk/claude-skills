@@ -1,0 +1,32 @@
+name: Bug Report
+description: Report a bug or issue with a skill
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "## Bug Report"
+  - type: input
+    id: skill
+    attributes:
+      label: Skill Name/ID
+      description: Which skill has the issue?
+      placeholder: e.g., accelerate-checkpointing
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What's wrong?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What should happen?
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: What actually happens?

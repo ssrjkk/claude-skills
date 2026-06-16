@@ -22,102 +22,52 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Validate skill structure
-        run: python scripts/validate-skills.py
+      - name: Install dependencies
+        run: pip install pyyaml colorama
 
-      - name: Validate JSON catalog
+      - name: Structural validation
+        run: python scripts/validate-all.py
+
+      - name: Deep validation
+        run: python scripts/deep-validate.py
+
+      - name: Verify catalog consistency
         run: |
           python -c "
-          import json
+          import json, os
           with open('skills_catalog.json') as f:
               data = json.load(f)
           total = data['metadata']['total_skills']
           domains = data['metadata']['domains']
           skills_count = len(data['skills'])
           print(f'Catalog: {skills_count} skills across {len(domains)} domains')
-          print(f'Declared total: {total}')
-          assert skills_count == total, f'Mismatch: catalog has {skills_count}, metadata says {total}'
-          print('✅ Catalog is consistent')
-          "
-
-      - name: Validate all skills exist on disk
-        run: |
-          python -c "
-          import json, os
-          with open('skills_catalog.json') as f:
-              data = json.load(f)
+          assert skills_count == total, f'Mismatch: {skills_count} vs {total}'
           missing = []
-          for skill in data['skills']:
-              skill_path = f\".claude/skills/{skill['category']}/{skill['name']}/SKILL.md\"
-              if not os.path.exists(skill_path):
-                  missing.append(skill_path)
+          for s in data['skills']:
+              p = f'.claude/skills/{s[\"category\"]}/{s[\"name\"]}/SKILL.md'
+              if not os.path.exists(p):
+                  missing.append(p)
           if missing:
-              print(f'❌ Missing {len(missing)} skills:')
-              for m in missing[:10]:
-                  print(f'  - {m}')
+              print(f'Missing {len(missing)}: {missing[:5]}')
               exit(1)
-          print(f'✅ All {len(data[\"skills\"])} skills verified on disk')
+          print(f'All {skills_count} skills verified on disk')
           "
 
-      - name: Generate stats
-        run: |
-          python -c "
-          import json, os
-          from collections import Counter
-
-          catalog_path = 'skills_catalog.json'
-          skills_dir = '.claude/skills'
-
-          # Count from disk
-          domain_counts = {}
-          for domain in os.listdir(skills_dir):
-              domain_path = os.path.join(skills_dir, domain)
-              if os.path.isdir(domain_path):
-                  count = 0
-                  for root, dirs, files in os.walk(domain_path):
-                      for f in files:
-                          if f == 'SKILL.md':
-                              count += 1
-                  if count > 0:
-                      domain_counts[domain] = count
-
-          total = sum(domain_counts.values())
-          sorted_domains = sorted(domain_counts.items(), key=lambda x: -x[1])
-
-          print('📊 SKILL STATS')
-          print('=' * 40)
-          print(f'Total Skills: {total}')
-          print(f'Domains: {len(sorted_domains)}')
-          print()
-          for domain, count in sorted_domains:
-              bar = '█' * (count // 20)
-              print(f'{domain:20s} │ {count:4d} │ {bar}')
-          "
-
-  deploy-stats:
+  deploy-pages:
     if: github.ref == 'refs/heads/main'
     needs: validate
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-
-      - name: Generate stats badge
-        run: |
-          python -c "
-          import json, os
-          skills_dir = '.claude/skills'
-          total = sum(
-              1 for root, dirs, files in os.walk(skills_dir)
-              for f in files if f == 'SKILL.md'
-          )
-          domains = sum(1 for d in os.listdir(skills_dir) 
-                       if os.path.isdir(os.path.join(skills_dir, d)))
-          print(f'total_skills={total}')
-          print(f'total_domains={domains}')
-          "
-
-      - name: Update repo description
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          gh repo edit --description "6 848 battle-tested Claude skills across 38 domains — backend, AI/ML, DevOps, frontend, blockchain, security, gamedev, IoT, and more. Clone once, use forever."
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

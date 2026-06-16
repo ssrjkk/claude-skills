@@ -1,0 +1,37 @@
+---
+name: swc-code-splitting
+description: Code Splitting with SWC. lazy loading.
+category: frontend
+tags: [swc-code-splitting, frontend, russian]
+models: [sonnet, opus]
+version: "1.0"
+language: ru
+original: swc-code-splitting
+---
+
+# Swc Code Splitting
+
+> Code Splitting with SWC. lazy loading.
+
+## Быстрый старт
+Этот навык на русском языке. Оригинал: `swc-code-splitting`.
+
+## Когда использовать
+- Работа с Фронтенд-разработка
+- Выполнение задач, связанных с Swc Code Splitting
+- Профессиональное развитие
+
+## Инструкции
+1. Ознакомьтесь с описанием навыка
+2. Изучите английскую версию для полных инструкций
+3. Примените полученные знания на практике
+
+## Ресурсы
+- Оригинальный навык: `frontend/swc-code-splitting/SKILL.md`
+- Категория: Фронтенд-разработка
+- Язык: Русский
+
+## Валидация
+- Прочитайте английскую версию для проверки
+- Выполните описанные шаги
+- Убедитесь в правильности результата

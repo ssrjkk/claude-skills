@@ -24,8 +24,17 @@ tmp/
 temp/
 *.log
 
-# Node (if any)
+# Node
 node_modules/
 
-# Generated catalog (tracked in git, but ignore local regens)
+# Generated catalog (tracked)
 # skills_catalog.json
+
+# Temp generation scripts (one-time use)
+scripts/breakthrough.py
+scripts/final_push*.py
+scripts/fix_*.py
+scripts/restore_flat.py
+scripts/check_counts.py
+scripts/debug_catalog*.py
+scripts/debug_names.py

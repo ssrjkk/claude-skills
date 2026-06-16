@@ -1,0 +1,37 @@
+---
+name: pinia-persistence
+description: Persistence with Pinia. state persistence.
+category: frontend
+tags: [pinia-persistence, frontend, russian]
+models: [sonnet, opus]
+version: "1.0"
+language: ru
+original: pinia-persistence
+---
+
+# Pinia Persistence
+
+> Persistence with Pinia. state persistence.
+
+## Быстрый старт
+Этот навык на русском языке. Оригинал: `pinia-persistence`.
+
+## Когда использовать
+- Работа с Фронтенд-разработка
+- Выполнение задач, связанных с Pinia Persistence
+- Профессиональное развитие
+
+## Инструкции
+1. Ознакомьтесь с описанием навыка
+2. Изучите английскую версию для полных инструкций
+3. Примените полученные знания на практике
+
+## Ресурсы
+- Оригинальный навык: `frontend/pinia-persistence/SKILL.md`
+- Категория: Фронтенд-разработка
+- Язык: Русский
+
+## Валидация
+- Прочитайте английскую версию для проверки
+- Выполните описанные шаги
+- Убедитесь в правильности результата

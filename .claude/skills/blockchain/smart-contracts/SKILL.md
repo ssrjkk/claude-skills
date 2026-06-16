@@ -1,7 +1,7 @@
 ---
 name: smart-contracts
 description: Creates, tests, and deploys smart contracts using Hardhat or Foundry. Use for full blockchain development lifecycle.
-category: block
+category: blockchain
 tags: [smart-contracts, solidity, hardhat, foundry, testing]
 models: [opus]
 version: 1.0.0

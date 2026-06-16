@@ -1,0 +1,34 @@
+---
+name: authentik-quickstart
+description: Quickstart for Authentik: quick start guide
+category: security
+tags: [authentik-quickstart, security, russian]
+models: [sonnet, opus]
+version: "1.0"
+language: ru
+original: authentik-quickstart
+---
+
+# Authentik Quickstart
+
+> Quickstart for Authentik: quick start guide
+
+## Быстрый старт
+Этот навык доступен на русском языке. Оригинал: `authentik-quickstart`.
+
+## Когда использовать
+- Работа с Безопасность
+- Выполнение задач, связанных с Authentik Quickstart
+
+## Инструкции
+1. Изучите английскую версию навыка для полных инструкций
+2. Примените полученные знания на практике
+3. Проверьте результат выполнения
+
+## Ресурсы
+- Оригинал: security/authentik-quickstart/SKILL.md
+- Категория: Безопасность
+
+## Валидация
+- Выполните шаги из английской версии
+- Убедитесь в правильности результата

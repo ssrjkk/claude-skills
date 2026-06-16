@@ -1,0 +1,47 @@
+name: Skill Request
+description: Request a new skill
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: "## New Skill Request"
+  - type: input
+    id: title
+    attributes:
+      label: Skill Title
+      description: Short, actionable title (gerund form)
+      placeholder: e.g., Implementing Async Queue Processing with Celery
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - ai
+        - backend
+        - frontend
+        - devops
+        - database
+        - security
+        - qa
+        - mobile
+        - blockchain
+        - data
+        - design
+        - iot
+        - other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What should this skill cover?
+    validations:
+      required: true
+  - type: textarea
+    id: usecase
+    attributes:
+      label: Use Case
+      description: When would someone use this skill?

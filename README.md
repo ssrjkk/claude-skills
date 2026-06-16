@@ -1,173 +1,71 @@
 # Claude Skills Library
 
-> 🚀 **Лидерская библиотека специализированных навыков для Claude AI**
+> **Bilingual Claude Skills — 10,000 EN + 10,000 RU across 39 domains**
 
-Это официальная коллекция 10,000+ высококачественных, проверенных Claude Skills для повышения производительности разработки, тестирования, развертывания и управления.
+A community-driven collection of structured, executable skill definitions for Claude AI. Each skill has parallel English (`SKILL.md`) and Russian (`SKILL.ru.md`) translations with YAML frontmatter, ready-to-use code, and validation steps.
 
-## 🎯 Что такое Claude Skills?
+## Stats
 
-Claude Skills — это структурированные, пошаговые инструкции, оптимизированные для работы с Claude AI. Каждый навык содержит:
-- ✅ Четкие, атомарные шаги
-- ✅ Примеры использования в реальных проектах
-- ✅ Best practices от индустрии
-- ✅ Проверенные инструменты и альтернативы
+| Metric | Value |
+|--------|-------|
+| **English skills** | 10,000 |
+| **Russian skills** | 10,000 |
+| **Domains** | 39 |
+| **Languages** | EN (primary), RU (parallel) |
+| **License** | MIT |
 
-## 📊 Статистика библиотеки
+Browse skills: [GitHub Pages](https://ssrjkk.github.io/claude-skills/)
 
-| Метрика | Значение |
-|---------|----------|
-| **Всего навыков** | 10,000+ |
-| **Категорий** | 50 |
-| **Языков** | English, Русский |
-| **Статус** | Production Ready ✅ |
-
-Подробнее: [SKILLS_STATISTICS.md](SKILLS_STATISTICS.md)
-
-## 📚 Навигация
-
-- **[Каталог навыков](SKILLS_LIBRARY.md)** — Полный индекс всех навыков по категориям
-- **[Как начать](CONTRIBUTING.md)** — Руководство для контрибьюторов
-- **[Система валидации](.github/workflows/validate-skills.yml)** — Автоматическая проверка качества
-
-## 🏗️ Структура репозитория
+## Structure
 
 ```
-claude-skills/
-├── .github/
-│   ├── copilot-instructions.md        # Claude system prompt
-│   ├── copilot-custom-instructions.md # Copilot context
-│   └── workflows/
-│       └── validate-skills.yml         # CI/CD pipeline
-├── scripts/                            # Инструменты валидации
-│   ├── validate_schema.py             # JSON validation
-│   ├── check_ids.py                   # Duplicate detection
-│   ├── check_skill_fields.py          # Required fields check
-│   ├── detect_anti_patterns.py        # Pattern detection
-│   ├── generate_stats.py              # Statistics generation
-│   ├── generate_index.py              # Index generation
-│   └── test_examples.py               # Example testing
-├── skills/                             # Individual skills directory
-├── skills_library.json                # Main skills catalog
-├── SKILLS_LIBRARY.md                  # Generated index
-├── SKILLS_STATISTICS.md               # Generated stats
-├── CONTRIBUTING.md                    # Contribution guidelines
-├── README.md                          # This file
-└── LICENSE                            # MIT License
+.claude/skills/{category}/{skill-name}/SKILL.md
 ```
 
-## 🚀 Быстрый старт
+Example: `.claude/skills/ai/accelerate-checkpointing/SKILL.md`
 
-### Для пользователей
-1. Посмотри каталог навыков в [SKILLS_LIBRARY.md](SKILLS_LIBRARY.md)
-2. Найди нужный навык по категории или ключевому слову
-3. Используй инструкции на своем проекте
-
-### Для контрибьюторов
-1. Прочитай [CONTRIBUTING.md](CONTRIBUTING.md)
-2. Следуй [системе промптов](.github/copilot-instructions.md)
-3. Запусти валидацию: `python scripts/validate_schema.py skills_library.json`
-4. Отправь PR с новым навыком
-
-## ✅ Система контроля качества
-
-Каждый навык автоматически проверяется:
-- ✅ **JSON Schema Validation** — структура и обязательные по��я
-- ✅ **Duplicate Detection** — уникальность ID
-- ✅ **Field Verification** — все требуемые поля присутствуют
-- ✅ **Anti-Pattern Detection** — нет вагу-формулировок
-- ✅ **Example Testing** — примеры выполнимы
-- ✅ **Statistics Auto-Generation** — автоматическое обновление статистики
-
-### Запуск проверок локально
+## Quick Start
 
 ```bash
-# Проверить JSON схему
-python scripts/validate_schema.py skills_library.json --strict
+# Validate all skills
+python scripts/validate-all.py
 
-# Найти дубликаты
-python scripts/check_ids.py skills_library.json
+# Deep validation (sections, code fences, frontmatter)
+python scripts/deep-validate.py
 
-# Проверить обязательные поля
-python scripts/check_skill_fields.py skills_library.json
+# Regenerate catalog from disk
+python scripts/generate-catalog.py
 
-# Обнаружить антипаттерны
-python scripts/detect_anti_patterns.py skills_library.json
-
-# Генерировать статистику
-python scripts/generate_stats.py skills_library.json
-
-# Генерировать индекс
-python scripts/generate_index.py skills_library.json
+# List all skills
+python scripts/list-skills.py
 ```
 
-## 📖 Форматы
+## Validation Pipeline
 
-### Структура Skill в JSON
+| Check | Script | When |
+|-------|--------|------|
+| Frontmatter completeness | `validate-all.py` | Every PR |
+| Deep structure (sections, fences) | `deep-validate.py` | Every PR |
+| Path consistency | `generate-catalog.py` | On push |
+| Anti-pattern detection | `detect_anti_patterns.py` | On push |
 
-```json
-{
-  "id": "DEV-PY-042",
-  "category": "Development",
-  "subcategory": "Python",
-  "title": "Implementing Type-Safe Database Queries",
-  "description": "Create ORM-based queries with automatic type validation",
-  "difficulty": "intermediate",
-  "time_estimate": "1h",
-  "prerequisites": ["DEV-PY-001"],
-  "steps": [
-    "Install SQLAlchemy: pip install sqlalchemy",
-    "Define model with type hints: class User(Base):",
-    "..."
-  ],
-  "best_practices": [
-    "Always use type hints for columns",
-    "Validate input at query time"
-  ],
-  "tools": [
-    "SQLAlchemy (ORM framework)",
-    "PostgreSQL (database)"
-  ],
-  "keywords": ["database", "ORM", "SQLAlchemy"],
-  "examples": [
-    {
-      "scenario": "Build user lookup query",
-      "input": "user_id=42",
-      "output": "User(id=42, name='Alice')",
-      "context": "API endpoint for fetching user profile"
-    }
-  ],
-  "anti_patterns": [
-    "❌ Dynamic query construction without escaping",
-    "❌ N+1 query problems with relationships"
-  ],
-  "related_skills": ["DEV-PY-041", "DEV-PY-043"],
-  "language": "en"
-}
-```
+## Contributing
 
-## 🌍 Поддерживаемые категории
+See [CONTRIBUTING.md](CONTRIBUTING.md). Quick checklist:
+- [ ] SKILL.md follows the template
+- [ ] Frontmatter has: name, description, category, tags, models, version
+- [ ] Code examples are valid
+- [ ] `python scripts/validate-all.py` passes
+- [ ] `python scripts/deep-validate.py` passes
 
-| Категория | Примеры |
-|-----------|---------|
-| **Development** | Python, JavaScript, Go, Rust, Java |
-| **Testing** | Unit, Integration, E2E, Performance |
-| **Deployment** | Docker, Kubernetes, CI/CD |
-| **DevOps** | Monitoring, Logging, Infrastructure |
-| **Security** | Authentication, Encryption, Compliance |
-| **AI** | LLM Integration, Prompt Engineering |
-| **Documentation** | API Docs, Architecture |
+## Domains
 
-## 🤝 Лицензия
+`ai` `ar-vr` `backend` `block` `blockchain` `communications` `data` `database`
+`design` `desktop` `devops` `ecommerce` `education` `embedded` `energy`
+`engineering` `finance` `frontend` `gamedev` `geospatial` `healthcare` `hr`
+`iot` `media` `mobile` `networking` `os-admin` `payments` `product` `qa`
+`scientific` `security` `supply-chain` `sustainability`
 
-MIT License — используй свободно в коммерческих и личных проектах.
+## License
 
-## 💬 Контакт
-
-- **GitHub Issues** — Для отчетов об ошибках и предложений
-- **Discussions** — Для обсуждения новых идей
-
----
-
-**Миссия**: Создать де-факто стандартную библиотеку Claude Skills, которая будет форкаться и использоваться тысячами разработчиков по всему миру. 🚀
-
-**Качество > Количество** — Каждый навык 100% верифицирован.
+MIT

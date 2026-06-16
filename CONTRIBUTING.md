@@ -1,97 +1,89 @@
-# Contribution Guidelines
+# Contributing
 
-Спасибо за желание добавить навык в Claude Skills Library! Следуй этому руководству.
+Thanks for contributing to Claude Skills Library!
 
-## 📋 Требования к Skill
+## Bilingual Structure
 
-Каждый skill ДОЛЖЕН содержать:
+Every skill has two files:
+- `.claude/skills/{category}/{name}/SKILL.md` — English (primary)
+- `.claude/skills/{category}/{name}/SKILL.ru.md` — Russian (parallel translation)
 
-```json
-{
-  "id": "CAT-SUB-###",
-  "category": "Development|Testing|Deployment|DevOps|Security|AI|Documentation|Other",
-  "subcategory": "Конкретная область",
-  "title": "Действие в форме герундия: Implementing X, Building Y",
-  "description": "Одна строка - результат, который получит пользователь",
-  "difficulty": "beginner|intermediate|advanced",
-  "time_estimate": "15min|1h|4h|1d",
-  "prerequisites": ["CAT-SUB-001"],
-  "steps": [
-    "Атомарный шаг 1",
-    "Атомарный шаг 2",
-    "Каждый шаг - 5-15 минут"
-  ],
-  "best_practices": [
-    "Производственный паттерн с источником",
-    "Общая ошибка и как её избежать"
-  ],
-  "tools": [
-    "Основной инструмент",
-    "Альтернатива #1",
-    "Альтернатива #2"
-  ],
-  "keywords": ["keyword1", "keyword2"],
-  "examples": [
-    {
-      "scenario": "Реальный use case",
-      "input": "Входные данные",
-      "output": "Ожидаемый результат",
-      "context": "Когда использовать"
-    }
-  ],
-  "anti_patterns": [
-    "❌ Что НЕ делать и почему",
-    "❌ Частая ошибка"
-  ],
-  "related_skills": ["CAT-SUB-003", "CAT-SUB-004"],
-  "language": "en"
-}
+Both files share the same directory and name prefix. The RU file includes `original:` in frontmatter linking back to the EN version.
+
+## Skill Template (EN)
+
+```yaml
+---
+name: my-skill-name
+description: Clear one-line description of what this skill does
+category: ai|backend|frontend|devops|database|security|qa|...
+tags: [tag1, tag2, tag3]
+models: [sonnet, opus]
+version: "1.0"
+---
 ```
 
-## ✅ Чек-лист перед отправкой
+Required sections: Quick Start, When to Use, Step-by-Step, Dependencies, Examples, Resources, Validation.
 
-- [ ] ID имеет формат `{CATEGORY}-{SUBCATEGORY}-{###}`
-- [ ] Заголовок использует герундий (Implementing, Building, Configuring)
-- [ ] Описание - результат, не процесс
-- [ ] Все шаги атомарные и независимые
-- [ ] Best practices ссылаются на авторитеты (OWASP, AWS, etc.)
-- [ ] Инструменты: 2-3 вариант с ранжированием
-- [ ] Примеры: happy path + edge case
-- [ ] Нет дубликатов в библиотеке
-- [ ] JSON валидируется: `python scripts/validate_schema.py skills_library.json --strict`
+## Skill Template (RU)
 
-## 🔴 Недопустимо
-
-| ❌ Неправильно | ✅ Правильно |
-|---|---|
-| "Learn about X" | "Implementing X with Y in Z minutes" |
-| Расплывчатые шаги | Точные команды: `terraform apply` |
-| Один инструмент | Несколько альтернатив |
-| Платные инструменты | Free tier или open-source |
-| Без примеров | С примерами выполнения |
-
-## 🚀 Процесс обновления
-
-1. **Создай ветку**: `git checkout -b skill/category/descriptive-name`
-2. **Добавь skill** в `skills_library.json` в массив `"skills"`
-3. **Локально проверь**: 
-   ```bash
-   python scripts/validate_schema.py skills_library.json --strict
-   ```
-4. **Отправь PR** с описанием added skill
-5. **Получи review** - проверим по чек-листу
-6. **Merge** - автоматически обновится статистика
-
-## 📝 Примеры навыков
-
-Посмотри существующие skills в `skills_library.json` для вдохновения. Они все следуют одному стандарту.
-
-## 🆘 Вопросы?
-
-- Посмотри [README.md](README.md) для обзора
-- Прочитай `.github/copilot-instructions.md` для деталей
-- Открой issue с вопросом
-
+```yaml
 ---
+name: my-skill-name
+description: Однострочное описание навыка
+category: ai|backend|frontend|devops|database|security|qa|...
+tags: [tag1, tag2, tag3]
+models: [sonnet, opus]
+version: "1.0"
+original: my-skill-name
+language: ru
+---
+```
 
-**Remember**: Качество важнее количества. Один отличный skill лучше 100 посредственных! 🎯
+The `original` field must match the `name` of the corresponding EN skill. The `language: ru` field identifies this as the Russian variant.
+
+## Checklist
+
+- [ ] Name matches directory name (lowercase, hyphen-separated)
+- [ ] Frontmatter has all required fields: name, description, category, tags, models, version
+- [ ] Has Quick Start with runnable code
+- [ ] Has Step-by-Step with actionable instructions
+- [ ] Dependencies are specified with versions
+- [ ] Examples compile/run correctly
+- [ ] Validation section has concrete verification steps
+- [ ] No placeholder content (TODO, FIXME, "See docs")
+- [ ] Body is meaningful (>200 chars)
+- [ ] RU file has `language: ru` and `original:` pointing to EN name
+
+## Validation
+
+```bash
+# Structural check (both languages)
+python scripts/validate-all.py
+
+# Deep validation
+python scripts/deep-validate.py
+
+# Regenerate catalog (auto-detects RU files)
+python scripts/generate-catalog.py
+```
+
+## PR Process
+
+1. Fork and create a branch: `skill/{category}/{name}`
+2. Add your SKILL.md (EN)
+3. Add your SKILL.ru.md (RU) — optional but encouraged
+4. Run validation
+5. Open a PR with description of what the skill does
+6. A maintainer will review within 48h
+
+## Style Guide
+
+- **Names**: lowercase, hyphen-separated: `async-queue-processing`
+- **Descriptions**: start with verb, under 120 chars (EN); Russian equivalents in RU file
+- **Code**: must be runnable or clearly annotated
+- **Steps**: 3-7 actionable steps, each a concrete action
+- **Dependencies**: pin minimum versions
+- **Translations**: keep RU content faithful to EN, localized for Russian-speaking audience
+
+**Remember**: Quality over quantity. One thorough skill is worth 100 templates.

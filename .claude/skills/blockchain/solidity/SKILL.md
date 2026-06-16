@@ -1,7 +1,7 @@
 ---
 name: solidity
 description: Develops smart contracts on Solidity for Ethereum and EVM-compatible blockchains. Use for decentralized applications.
-category: block
+category: blockchain
 tags: [solidity, ethereum, smart-contracts, evm, blockchain]
 models: [opus]
 version: 1.0.0

@@ -1,0 +1,37 @@
+---
+name: vxworks-debugging
+description: Debugging with VxWorks. debug.
+category: embedded
+tags: [vxworks-debugging, embedded, russian]
+models: [sonnet, opus]
+version: "1.0"
+language: ru
+original: vxworks-debugging
+---
+
+# Vxworks Debugging
+
+> Debugging with VxWorks. debug.
+
+## Быстрый старт
+Этот навык на русском языке. Оригинал: `vxworks-debugging`.
+
+## Когда использовать
+- Работа с Встраиваемые системы
+- Выполнение задач, связанных с Vxworks Debugging
+- Профессиональное развитие
+
+## Инструкции
+1. Ознакомьтесь с описанием навыка
+2. Изучите английскую версию для полных инструкций
+3. Примените полученные знания на практике
+
+## Ресурсы
+- Оригинальный навык: `embedded/vxworks-debugging/SKILL.md`
+- Категория: Встраиваемые системы
+- Язык: Русский
+
+## Валидация
+- Прочитайте английскую версию для проверки
+- Выполните описанные шаги
+- Убедитесь в правильности результата
