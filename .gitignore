@@ -27,14 +27,33 @@ temp/
 # Node
 node_modules/
 
+# Environment
+.env
+.env.*
+credentials
+.credentials
+
+# Generated
+*.cert
+*.key
+*.pem
+
+# Cache
+.hypothesis/
+.pytest_cache/
+.benchmarks/
+
 # Generated catalog (tracked)
 # skills_catalog.json
 
-# Temp generation scripts (one-time use)
-scripts/breakthrough.py
-scripts/final_push*.py
-scripts/fix_*.py
-scripts/restore_flat.py
-scripts/check_counts.py
-scripts/debug_catalog*.py
-scripts/debug_names.py
+# One-time scripts (should not be tracked)
+/scripts/breakthrough.py
+/scripts/final_push*.py
+/scripts/fix_*.py
+/scripts/restore_flat.py
+/scripts/check_counts.py
+/scripts/debug_catalog*.py
+/scripts/debug_names.py
+/scripts/gen-batch*.py
+/scripts/gen-5000.py
+/scripts/finalize_10k*.py

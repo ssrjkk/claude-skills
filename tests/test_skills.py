@@ -1,8 +1,6 @@
 """Tests for Claude Skills Library."""
 
 import json
-import os
-import sys
 import glob
 from pathlib import Path
 
@@ -86,7 +84,7 @@ def test_all_skills_have_required_frontmatter_fields():
         missing = [f for f in required if f not in fields]
         if missing:
             errors.append(f'{name}: missing {missing}')
-    assert len(errors) == 0, f'Frontmatter errors:\n' + '\n'.join(errors[:20])
+    assert len(errors) == 0, 'Frontmatter errors:\n' + '\n'.join(errors[:20])
 
 
 def test_catalog_domains_match_disk():
@@ -115,7 +113,7 @@ def test_no_template_placeholders():
         for pat in bad_patterns:
             if pat in content:
                 issues.append(f'{name}: contains "{pat}"')
-    assert len(issues) == 0, f'Templates with placeholders:\n' + '\n'.join(issues[:20])
+    assert len(issues) == 0, 'Templates with placeholders:\n' + '\n'.join(issues[:20])
 
 
 def test_body_length():
@@ -130,4 +128,4 @@ def test_body_length():
         body = content[end + 3:].strip() if end > 0 else content.strip()
         if len(body) < 80:
             short.append(f'{name} ({len(body)} chars)')
-    assert len(short) == 0, f'Very short bodies:\n' + '\n'.join(short[:20])
+    assert len(short) == 0, 'Very short bodies:\n' + '\n'.join(short[:20])

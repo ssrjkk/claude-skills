@@ -1,23 +1,41 @@
-.PHONY: validate test clean catalog
+.PHONY: validate test catalog quality clean install install-dev help
 
-# Validate all skills
+help:
+	@echo "Claude Skills Library — Makefile"
+	@echo "  install       pip install -e . (editable mode)"
+	@echo "  install-dev   pip install -e .[dev]"
+	@echo "  validate      Full validation pipeline"
+	@echo "  quality       Quality analysis report"
+	@echo "  test          Run pytest suite"
+	@echo "  catalog       Regenerate skills_catalog.json"
+	@echo "  stats         Show library statistics"
+	@echo "  clean         Remove Python cache files"
+
+install:
+	pip install -e .
+
+install-dev:
+	pip install -e ".[dev]"
+
 validate:
-	python scripts/validate-all.py
-	python scripts/deep-validate.py
+	python -m claude_skills.cli validate --dir .claude/skills
+	python -m claude_skills.cli quality --dir .claude/skills
 
-# Run tests
+quality:
+	python -m claude_skills.cli quality --dir .claude/skills --json docs/api/quality-report.json
+
 test:
-	pytest scripts/test_examples.py -v
+	python -m pytest tests/ -v --tb=short --cov=src/claude_skills
 
-# Regenerate catalog from SKILL.md files
 catalog:
-	python scripts/generate-catalog.py
+	python -m claude_skills.cli catalog --output skills_catalog.json
 
-# Clean Python cache
+stats:
+	python -m claude_skills.cli stats
+
 clean:
-	find . -type d -name __pycache__ -exec rm -rf {} + 2>/dev/null || true
-	find . -type f -name "*.pyc" -delete 2>/dev/null || true
+	python -c "import pathlib, shutil; [shutil.rmtree(p) for p in pathlib.Path('.').rglob('__pycache__') if p.is_dir()]"
+	python -c "import pathlib; [p.unlink() for p in pathlib.Path('.').rglob('*.pyc') if p.is_file()]"
 
-# Full validation pipeline
 all: validate test catalog
 	@echo "All checks passed!"

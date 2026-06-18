@@ -7,29 +7,48 @@ on:
     branches: [main]
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   validate:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.9", "3.11", "3.12"]
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: ${{ matrix.python-version }}
+          cache: pip
 
       - name: Install dependencies
-        run: pip install pyyaml colorama
+        run: |
+          pip install --upgrade pip
+          pip install -e ".[dev]"
+
+      - name: Lint with ruff
+        run: ruff check src/ tests/
+
+      - name: Type check with mypy
+        run: mypy src/
 
       - name: Structural validation
-        run: python scripts/validate-all.py
+        run: python -m claude_skills.cli validate --dir .claude/skills
 
-      - name: Deep validation
-        run: python scripts/deep-validate.py
+      - name: Quality analysis
+        run: python -m claude_skills.cli quality --dir .claude/skills --json docs/api/quality-report.json
+
+      - name: Run tests with coverage
+        run: python -m pytest tests/ -v --tb=short --cov=src/claude_skills --cov-report=term-missing
 
       - name: Verify catalog consistency
         run: |
@@ -38,9 +57,7 @@ jobs:
           with open('skills_catalog.json') as f:
               data = json.load(f)
           total = data['metadata']['total_skills']
-          domains = data['metadata']['domains']
           skills_count = len(data['skills'])
-          print(f'Catalog: {skills_count} skills across {len(domains)} domains')
           assert skills_count == total, f'Mismatch: {skills_count} vs {total}'
           missing = []
           for s in data['skills']:
@@ -51,6 +68,18 @@ jobs:
               print(f'Missing {len(missing)}: {missing[:5]}')
               exit(1)
           print(f'All {skills_count} skills verified on disk')
+          print(f'Domains: {len(data[\"metadata\"][\"domains\"])}')
+          print(f'RU skills: {data[\"metadata\"][\"total_ru\"]}')
+          "
+
+      - name: Benchmark validation speed
+        run: |
+          python -c "
+          import time, subprocess
+          start = time.time()
+          subprocess.run(['python', '-m', 'claude_skills.cli', 'validate', '--dir', '.claude/skills'], check=True)
+          elapsed = time.time() - start
+          print(f'Validation benchmark: {elapsed:.2f}s')
           "
 
   deploy-pages:
@@ -62,12 +91,15 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

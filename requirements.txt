@@ -1,14 +1,16 @@
 # Core
-pyyaml>=6.0
-colorama>=0.4.6
+pyyaml>=6.0,<7.0
+colorama>=0.4.6,<1.0
 
 # Development
-pytest>=7.0
-pytest-cov>=4.0
+pytest>=7.0,<9.0
+pytest-cov>=4.0,<7.0
+hypothesis>=6.0
+
+# Code quality
+mypy>=1.0
+ruff>=0.1.0
 
 # Documentation
-markdown>=3.4
-jinja2>=3.1
-
-# Validation
-jsonschema>=4.17
+markdown>=3.4,<4.0
+jinja2>=3.1,<4.0

@@ -1,71 +1,133 @@
 # Claude Skills Library
 
-> **Bilingual Claude Skills — 10,000 EN + 10,000 RU across 39 domains**
+> **10,000+ bilingual skills • 39 domains • English + Russian**
 
-A community-driven collection of structured, executable skill definitions for Claude AI. Each skill has parallel English (`SKILL.md`) and Russian (`SKILL.ru.md`) translations with YAML frontmatter, ready-to-use code, and validation steps.
+A community-driven collection of structured, executable skill definitions for AI coding assistants. Build smarter, faster, and more consistently with battle-tested skills.
 
-## Stats
+## 🚀 Quick Start
+
+```bash
+# Install the SDK
+pip install -e .
+
+# Validate all skills
+make validate
+
+# Run quality analysis
+make quality
+
+# Regenerate catalog
+make catalog
+```
+
+## 📊 Stats
 
 | Metric | Value |
 |--------|-------|
-| **English skills** | 10,000 |
-| **Russian skills** | 10,000 |
-| **Domains** | 39 |
-| **Languages** | EN (primary), RU (parallel) |
-| **License** | MIT |
+| Total English skills | **10,000** |
+| Total Russian skills | **10,000** |
+| Domains | **39** |
+| Bilingual coverage | **100%** |
+| Languages | EN (primary), RU (parallel) |
+| License | MIT |
 
-Browse skills: [GitHub Pages](https://ssrjkk.github.io/claude-skills/)
-
-## Structure
+## 🏗 Structure
 
 ```
-.claude/skills/{category}/{skill-name}/SKILL.md
+.claude/skills/{domain}/{skill-name}/
+  ├── SKILL.md        # English skill definition
+  └── SKILL.ru.md     # Russian translation
 ```
 
-Example: `.claude/skills/ai/accelerate-checkpointing/SKILL.md`
+## 📚 SDK
 
-## Quick Start
+### Python
+
+```python
+from claude_skills.catalog import CatalogBuilder
+from claude_skills.validator import ValidationPipeline
+from claude_skills.quality import QualityAnalyzer
+
+# Build catalog from disk
+catalog = CatalogBuilder().build_catalog()
+print(f"{catalog.metadata.total_skills} skills found")
+
+# Validate all skills
+pipeline = ValidationPipeline(Path(".claude/skills"))
+results = pipeline.run_all()
+report = pipeline.report(results)
+print(f"Errors: {report['errors']}, Warnings: {report['warnings']}")
+
+# Quality analysis
+analyzer = QualityAnalyzer()
+for sk_path in Path(".claude/skills").rglob("SKILL.md"):
+    score = analyzer.analyze(SkillFile(en_path=sk_path, en_body=sk_path.read_text()))
+    print(f"{sk_path.parent.name}: {score.overall:.1f}% ({score.grade})")
+```
+
+### CLI
 
 ```bash
 # Validate all skills
-python scripts/validate-all.py
+claude-skills validate
 
-# Deep validation (sections, code fences, frontmatter)
-python scripts/deep-validate.py
+# Quality analysis
+claude-skills quality --json report.json
 
-# Regenerate catalog from disk
-python scripts/generate-catalog.py
+# Build catalog
+claude-skills catalog
 
-# List all skills
-python scripts/list-skills.py
+# Statistics
+claude-skills stats
 ```
 
-## Validation Pipeline
+### TypeScript
 
-| Check | Script | When |
-|-------|--------|------|
-| Frontmatter completeness | `validate-all.py` | Every PR |
-| Deep structure (sections, fences) | `deep-validate.py` | Every PR |
-| Path consistency | `generate-catalog.py` | On push |
-| Anti-pattern detection | `detect_anti_patterns.py` | On push |
+```typescript
+import { Catalog, search, byCategory } from 'claude-skills';
 
-## Contributing
+const catalog: Catalog = await loadCatalog();
+const qaSkills = byCategory(catalog.skills)['qa'];
+const results = search(catalog.skills, 'kubernetes');
+```
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). Quick checklist:
-- [ ] SKILL.md follows the template
-- [ ] Frontmatter has: name, description, category, tags, models, version
-- [ ] Code examples are valid
-- [ ] `python scripts/validate-all.py` passes
-- [ ] `python scripts/deep-validate.py` passes
+## 🧪 Validation Pipeline
 
-## Domains
+```bash
+# Full validation suite
+make validate
 
-`ai` `ar-vr` `backend` `block` `blockchain` `communications` `data` `database`
-`design` `desktop` `devops` `ecommerce` `education` `embedded` `energy`
-`engineering` `finance` `frontend` `gamedev` `geospatial` `healthcare` `hr`
-`iot` `media` `mobile` `networking` `os-admin` `payments` `product` `qa`
-`scientific` `security` `supply-chain` `sustainability`
+# Run tests with coverage
+make test
 
-## License
+# Build catalog
+make catalog
+
+# Quality report
+make quality
+```
+
+## 🤝 Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+Quick checklist:
+- [ ] `SKILL.md` follows the template with frontmatter
+- [ ] `SKILL.ru.md` is a real translation (not auto-generated stub)
+- [ ] Code examples are valid and tested
+- [ ] `/python -m pytest tests/` passes
+- [ ] `ruff check src/` passes
+
+## 📦 Domains
+
+`ai` `ar-vr` `backend` `block` `blockchain` `ci-cd-setup` `cloud` `communications` `data` `database` `database-migration` `design` `desktop` `devops` `ecommerce` `education` `embedded` `energy` `engineering` `finance` `frontend` `gamedev` `geospatial` `healthcare` `hr` `iot` `media` `mobile` `networking` `os-admin` `payments` `product` `qa` `scientific` `security` `supply-chain` `sustainability` `test-reporting`
+
+## 🔗 Links
+
+- [GitHub](https://github.com/ssrjkk/claude-skills)
+- [Documentation](https://ssrjkk.github.io/claude-skills/)
+- [Quality Report](docs/api/quality-report.json)
+
+## 📄 License
 
 MIT

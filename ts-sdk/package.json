@@ -1,0 +1,24 @@
+{
+  "name": "claude-skills",
+  "version": "3.0.0",
+  "description": "Claude Skills Library — 10,000+ bilingual skills SDK",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "lint": "tsc --noEmit && eslint src/",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["claude", "skills", "ai", "library", "bilingual"],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "vitest": "^2.0.0",
+    "eslint": "^9.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
