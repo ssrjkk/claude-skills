@@ -1,20 +1,20 @@
 # Contributing to Claude Skills Library
 
-First off, thanks for taking the time to contribute! 🎉
+First off, thanks for taking the time to contribute! 
 
 ## Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
 - [How Can I Contribute?](#how-can-i-contribute)
-  - [Report a Bug](#report-a-bug)
-  - [Request a Skill](#request-a-skill)
-  - [Submit a Skill](#submit-a-skill)
-  - [Improve Documentation](#improve-documentation)
+ - [Report a Bug](#report-a-bug)
+ - [Request a Skill](#request-a-skill)
+ - [Submit a Skill](#submit-a-skill)
+ - [Improve Documentation](#improve-documentation)
 - [Skill Development Guide](#skill-development-guide)
-  - [Skill Structure](#skill-structure)
-  - [Skill Template](#skill-template)
-  - [Naming Conventions](#naming-conventions)
-  - [Validation](#validation)
+ - [Skill Structure](#skill-structure)
+ - [Skill Template](#skill-template)
+ - [Naming Conventions](#naming-conventions)
+ - [Validation](#validation)
 - [Adding a New Domain](#adding-a-new-domain)
 - [Pull Request Process](#pull-request-process)
 - [Style Guides](#style-guides)
@@ -58,10 +58,10 @@ Each skill lives in its own directory:
 
 ```
 .claude/skills/{domain}/{skill-name}/
-├── SKILL.md           # Main skill file (required)
-├── examples.md        # Usage examples (optional)
-├── reference.md       # Reference docs (optional)
-└── scripts/          # Helper scripts (optional)
+├── SKILL.md # Main skill file (required)
+├── examples.md # Usage examples (optional)
+├── reference.md # Reference docs (optional)
+└── scripts/ # Helper scripts (optional)
 ```
 
 ### Skill Template
@@ -155,4 +155,4 @@ python scripts/list-skills.py
 
 ---
 
-**Thank you for contributing!** Every skill helps the entire community build faster. 🚀
+**Thank you for contributing!** Every skill helps the entire community build faster. 

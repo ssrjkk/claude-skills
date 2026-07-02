@@ -31,6 +31,7 @@ setup(
             "hypothesis>=6.0",
             "mypy>=1.0",
             "ruff>=0.1.0",
+            "types-PyYAML>=6.0",
         ],
     },
     entry_points={

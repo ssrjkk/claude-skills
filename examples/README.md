@@ -2,7 +2,7 @@
 
 This directory contains real-world examples of using skills from the library.
 
-## 🚀 Quick Start Example
+## Quick Start Example
 
 ```bash
 # 1. Clone the library
@@ -19,7 +19,7 @@ claude-skills stats | grep qa
 cat .claude/skills/qa/pytest-basics/SKILL.md
 ```
 
-## 🎯 Before vs After
+## Before vs After
 
 ### Without skill
 ```
@@ -38,7 +38,7 @@ Claude: [activates qa/api-testing skill]
 - Coverage configuration
 ```
 
-## 📊 Domain-Specific Examples
+## Domain-Specific Examples
 
 ### Backend: FastAPI + PostgreSQL
 ```
@@ -61,7 +61,7 @@ Produces: multi-service compose file, health checks, volumes, networks
 Time saved: ~40 min per service
 ```
 
-## 🔧 Workflow Integration
+## Workflow Integration
 
 ### VS Code
 ```json

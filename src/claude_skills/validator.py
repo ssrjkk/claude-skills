@@ -4,7 +4,7 @@ import re
 from pathlib import Path
 from typing import Optional
 
-import yaml
+import yaml  # type: ignore[import-untyped]
 
 from claude_skills.models import Severity, ValidationResult
 

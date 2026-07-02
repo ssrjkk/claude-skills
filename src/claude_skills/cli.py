@@ -51,7 +51,7 @@ def cmd_quality(args: argparse.Namespace) -> int:
 
         end = content.find("---", 3)
         if end > 0:
-            import yaml
+            import yaml  # type: ignore[import-untyped]
             try:
                 skill_file.en_frontmatter = yaml.safe_load(content[3:end].strip()) or {}
             except yaml.YAMLError:

@@ -13,4 +13,4 @@
 
 // Category naming convention: lowercase, single word (ai, backend, frontend, etc.)
 // Skill naming convention: lowercase, hyphen-separated (my-skill-name)
-// All skills go under .claude/skills/{category}/{skill-name}/SKILL.md
+// All skills go under.claude/skills/{category}/{skill-name}/SKILL.md

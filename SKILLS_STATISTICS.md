@@ -59,7 +59,7 @@
 
 ## Quality Pipeline
 
-- ✅ Structural validation (all 10,000 EN + 10,000 RU pass)
-- ✅ Deep validation (frontmatter, sections, code fences)
-- ✅ No phantom paths in catalog
-- ✅ All skills exist on disk
+- Structural validation (all 10,000 EN + 10,000 RU pass)
+- Deep validation (frontmatter, sections, code fences)
+- No phantom paths in catalog
+- All skills exist on disk

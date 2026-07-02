@@ -1,6 +1,6 @@
 # Claude Skills Library — Marketing Plan
 
-## 📢 Platform Strategy
+## Platform Strategy
 
 ### Habr (Russian)
 - **Title**: "Как я создал библиотеку из 10,000 навыков для Claude Code"
@@ -38,7 +38,7 @@
   - 7.8s full validation
   - 93% test coverage
 
-## 📅 Launch Plan
+## Launch Plan
 
 ### Week 1: Polish
 - [ ] Fix top 20 quality issues
@@ -60,7 +60,7 @@
 - [ ] Gather early supporters
 - [ ] Launch
 
-## 🎯 Target Metrics
+## Target Metrics
 
 | Metric | 1 month | 3 months | 6 months | 12 months |
 |--------|---------|----------|----------|-----------|

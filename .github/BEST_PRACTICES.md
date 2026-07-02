@@ -10,8 +10,8 @@ This guide covers best practices, patterns, and tips for getting maximum value f
 
 ### Choose the Right Skill
 ```
-❌ Bad: "Build an API"
-✅ Good: "Use skill backend/fastapi/skill-0089 to build a REST API with JWT auth"
+ Bad: "Build an API"
+ Good: "Use skill backend/fastapi/skill-0089 to build a REST API with JWT auth"
 ```
 
 ### Know Your Domain
@@ -21,9 +21,9 @@ This guide covers best practices, patterns, and tips for getting maximum value f
 
 ### Match Skill to Your Tech Stack
 ```
-For Python backend?       → backend/fastapi or backend/django
-For Node.js?              → backend/express or backend/fastify
-For React frontend?       → frontend/react
+For Python backend? → backend/fastapi or backend/django
+For Node.js? → backend/express or backend/fastify
+For React frontend? → frontend/react
 For Kubernetes deployment? → devops/kubernetes
 ```
 
@@ -139,38 +139,38 @@ skill infrastructure-security/zero-trust/skill-0089"
 ### For APIs
 ```
 Use skills in this order:
-1. architecture/api/skill-*    (design)
+1. architecture/api/skill-* (design)
 2. backend/[framework]/skill-* (implementation)
-3. database/skill-*             (persistence)
-4. testing/skill-*              (validation)
-5. devops/skill-*               (deployment)
+3. database/skill-* (persistence)
+4. testing/skill-* (validation)
+5. devops/skill-* (deployment)
 ```
 
 ### For Web Applications
 ```
 Use skills:
 1. frontend/[framework]/skill-* (UI)
-2. backend/[framework]/skill-*  (API)
-3. devops/docker/skill-*        (containers)
+2. backend/[framework]/skill-* (API)
+3. devops/docker/skill-* (containers)
 4. devops/github-actions/skill-*(CI/CD)
 ```
 
 ### For Data Systems
 ```
 Use skills:
-1. data-engineering/skill-*     (pipelines)
-2. database/skill-*             (storage)
-3. monitoring/skill-*           (observability)
-4. devops/kubernetes/skill-*    (orchestration)
+1. data-engineering/skill-* (pipelines)
+2. database/skill-* (storage)
+3. monitoring/skill-* (observability)
+4. devops/kubernetes/skill-* (orchestration)
 ```
 
 ### For ML Systems
 ```
 Use skills:
-1. ai-ml/[framework]/skill-*    (model)
-2. database/vector-db/skill-*   (embeddings)
-3. devops/kubernetes/skill-*    (serving)
-4. monitoring/skill-*           (metrics)
+1. ai-ml/[framework]/skill-* (model)
+2. database/vector-db/skill-* (embeddings)
+3. devops/kubernetes/skill-* (serving)
+4. monitoring/skill-* (metrics)
 ```
 
 ---
@@ -351,31 +351,31 @@ architecture/microservices/skill-0089
 
 ## 11. Common Mistakes to Avoid
 
-### ❌ Mistake 1: Ignoring Skill Dependencies
+### Mistake 1: Ignoring Skill Dependencies
 ```
 Wrong: Use skill frontend/react/skill-0045 without setup
 Right: Set up build system first, then use the skill
 ```
 
-### ❌ Mistake 2: Skipping Error Handling
+### Mistake 2: Skipping Error Handling
 ```
 Wrong: Copy code example without adding error handling
 Right: Request error handling AND tests
 ```
 
-### ❌ Mistake 3: Not Testing
+### Mistake 3: Not Testing
 ```
 Wrong: Deploy without tests
 Right: Use testing skills before deployment
 ```
 
-### ❌ Mistake 4: Ignoring Performance
+### Mistake 4: Ignoring Performance
 ```
 Wrong: Ship without optimization
 Right: Use performance skills to optimize first
 ```
 
-### ❌ Mistake 5: Security Shortcuts
+### Mistake 5: Security Shortcuts
 ```
 Wrong: Skip authentication/authorization
 Right: Use security skills from day one
@@ -407,13 +407,13 @@ Example:
 ### Tip 3: Create a Checklist
 ```
 Before shipping:
-☐ Used appropriate skill
-☐ Included tests
-☐ Added error handling
-☐ Optimized performance
-☐ Implemented security
-☐ Added logging
-☐ Documented code
+ Used appropriate skill
+ Included tests
+ Added error handling
+ Optimized performance
+ Implemented security
+ Added logging
+ Documented code
 ```
 
 ### Tip 4: Reference Patterns
@@ -497,12 +497,12 @@ python scripts/validate-all.py
 
 ## Resources
 
-- 📖 [Getting Started](.github/GETTING_STARTED.md)
-- 📚 [Full Catalog](.claude/skills/INDEX.md)
-- 🤝 [Contributing](.github/CONTRIBUTING.md)
-- ❓ [FAQ](.github/FAQ.md)
-- 💡 [Examples](.github/EXAMPLES.md)
+- [Getting Started](.github/GETTING_STARTED.md)
+- [Full Catalog](.claude/skills/INDEX.md)
+- [Contributing](.github/CONTRIBUTING.md)
+- [FAQ](.github/FAQ.md)
+- [Examples](.github/EXAMPLES.md)
 
 ---
 
-**These best practices will help you get 3x more value from Claude Skills! 🚀**
+**These best practices will help you get 3x more value from Claude Skills! **
