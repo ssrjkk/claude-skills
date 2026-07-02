@@ -42,7 +42,6 @@ def generate_index(filepath: Path) -> str:
 
 def main() -> int:
     """Main entry point."""
-    import sys
     import argparse
 
     parser = argparse.ArgumentParser(description="Generate skills index")

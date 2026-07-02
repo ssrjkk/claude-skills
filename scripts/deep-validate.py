@@ -13,7 +13,6 @@ import yaml
 
 
 def main() -> int:
-    import os
     skills_dir = Path(".claude/skills")
     analyzer = QualityAnalyzer()
     scores = {}
@@ -43,10 +42,10 @@ def main() -> int:
 
     report = QualityReport(scores)
     print(report.summary())
-    print(f"\nTop 5 skills:")
+    print("\nTop 5 skills:")
     for name, score in report.top_skills(5):
         print(f"  {name}: {score.overall:.1f}% ({score.grade})")
-    print(f"\nBottom 5 skills:")
+    print("\nBottom 5 skills:")
     for name, score in report.bottom_skills(5):
         print(f"  {name}: {score.overall:.1f}% ({score.grade})")
 

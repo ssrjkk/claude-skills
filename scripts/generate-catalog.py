@@ -15,7 +15,7 @@ def main() -> int:
     builder.to_json(catalog, path=Path("skills_catalog.json"))
     print(f"Catalog: {catalog.metadata.total_skills} skills, {len(catalog.metadata.domains)} domains")
     print(f"  RU: {catalog.metadata.total_ru}")
-    print(f"  Saved to skills_catalog.json")
+    print("  Saved to skills_catalog.json")
     return 0
 
 

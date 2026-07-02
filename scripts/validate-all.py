@@ -7,7 +7,6 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
 
 from claude_skills.cli import cmd_validate
-from claude_skills.models import Severity
 
 
 def main() -> int:

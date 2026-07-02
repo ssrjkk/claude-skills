@@ -6,7 +6,6 @@ tests based on your skill types.
 """
 
 import json
-from pathlib import Path
 
 
 def load_skills():

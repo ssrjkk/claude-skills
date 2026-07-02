@@ -8,8 +8,6 @@ production-quality skill content across all 39 domains.
 from __future__ import annotations
 
 import argparse
-import json
-import os
 import sys
 from pathlib import Path
 
@@ -490,7 +488,7 @@ def main() -> int:
         print("Available domain templates:")
         for d in sorted(DOMAIN_TEMPLATES):
             print(f"  {d}")
-        print(f"\n  (other domains use the generic template)")
+        print("\n  (other domains use the generic template)")
         return 0
 
     if not args.domain or not args.name:

@@ -1,4 +1,4 @@
-import os, json
+import os
 
 NEW_SKILLS = [
     # backend

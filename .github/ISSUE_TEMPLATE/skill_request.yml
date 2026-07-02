@@ -1,47 +1,60 @@
-name: Skill Request
-description: Request a new skill
-labels: [enhancement]
+name: "✨ New Skill Request"
+description: Propose a new skill for the library
+labels: ["enhancement"]
 body:
   - type: markdown
     attributes:
-      value: "## New Skill Request"
+      value: |
+        Thanks for contributing! Ensure the skill doesn't already exist: `claude-skills search <name>`
+
   - type: input
-    id: title
+    id: name
     attributes:
-      label: Skill Title
-      description: Short, actionable title (gerund form)
-      placeholder: e.g., Implementing Async Queue Processing with Celery
+      label: "Skill name"
+      description: "kebab-case name (e.g. `terraform-module`)"
+      placeholder: "my-new-skill"
     validations:
       required: true
+
   - type: dropdown
-    id: category
+    id: domain
     attributes:
-      label: Category
+      label: "Domain"
       options:
-        - ai
-        - backend
-        - frontend
-        - devops
-        - database
-        - security
-        - qa
-        - mobile
-        - blockchain
-        - data
-        - design
-        - iot
-        - other
+        - ai, ar-vr, backend, block, blockchain, ci-cd-setup, cloud, communications
+        - data, database, database-migration, design, desktop
+        - devops, ecommerce, education, embedded, energy, engineering
+        - finance, frontend, gamedev, geospatial, healthcare, hr, iot
+        - media, mobile, networking, os-admin, payments, product, qa
+        - scientific, security, supply-chain, sustainability, test-reporting
+        - New domain (specify below)
     validations:
       required: true
+
   - type: textarea
     id: description
     attributes:
-      label: Description
-      description: What should this skill cover?
+      label: "Description"
+      description: "What should this skill do?"
     validations:
       required: true
+
   - type: textarea
-    id: usecase
+    id: sections
     attributes:
-      label: Use Case
-      description: When would someone use this skill?
+      label: "Suggested sections"
+      description: "Quick Start, Step-by-Step, Examples, Validation..."
+      value: |
+        - Quick Start
+        - When to Use
+        - Step-by-Step
+        - Dependencies
+        - Examples
+        - Validation
+
+  - type: checkboxes
+    id: bilingual
+    attributes:
+      label: "Bilingual"
+      options:
+        - label: "Include Russian translation (SKILL.ru.md)"

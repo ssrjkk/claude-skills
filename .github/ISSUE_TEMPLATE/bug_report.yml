@@ -1,32 +1,44 @@
-name: Bug Report
-description: Report a bug or issue with a skill
-labels: [bug]
+name: "🐛 Bug Report"
+description: Report a skill content issue or SDK bug
+labels: ["bug"]
 body:
   - type: markdown
     attributes:
-      value: "## Bug Report"
+      value: |
+        Thanks for reporting! Check if this skill exists first: `claude-skills search <name>`
+
   - type: input
     id: skill
     attributes:
-      label: Skill Name/ID
-      description: Which skill has the issue?
-      placeholder: e.g., accelerate-checkpointing
-    validations:
-      required: true
+      label: "Skill name"
+      description: "Which skill has the issue? (e.g. `api-testing`)"
+      placeholder: "api-testing"
+
   - type: textarea
     id: description
     attributes:
-      label: Description
-      description: What's wrong?
+      label: "What's wrong?"
+      description: "Describe the issue — wrong code example, missing section, broken frontmatter..."
     validations:
       required: true
+
   - type: textarea
     id: expected
     attributes:
-      label: Expected Behavior
-      description: What should happen?
-  - type: textarea
-    id: actual
+      label: "Expected behavior"
+      description: "What should the skill do instead?"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: domain
     attributes:
-      label: Actual Behavior
-      description: What actually happens?
+      label: "Domain"
+      options:
+        - ai, ar-vr, backend, block, blockchain, ci-cd-setup, cloud, communications
+        - data, database, database-migration, design, desktop
+        - devops, ecommerce, education, embedded, energy, engineering
+        - finance, frontend, gamedev, geospatial, healthcare, hr, iot
+        - media, mobile, networking, os-admin, payments, product, qa
+        - scientific, security, supply-chain, sustainability, test-reporting
+        - Other / Not domain-specific

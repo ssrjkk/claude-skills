@@ -2,9 +2,7 @@
 """
 validate-skills.py - Validate structure and content of Claude Skills
 """
-import os
 import re
-import json
 import sys
 from pathlib import Path
 

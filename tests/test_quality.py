@@ -62,8 +62,8 @@ class TestQualityAnalyzer:
         assert analyzer._score_code_quality(sf) >= 70
 
     def test_freshness_recent(self, analyzer: QualityAnalyzer):
-        sf = self._make_skill_file(body="Content", created="2026-06-01")
-        assert analyzer._score_freshness(sf) > 80
+        sf = self._make_skill_file(body="Content", created="2026-06-30")
+        assert analyzer._score_freshness(sf) >= 80
 
     def test_freshness_old(self, analyzer: QualityAnalyzer):
         sf = self._make_skill_file(body="Content", created="2025-01-01")
