@@ -8,24 +8,16 @@
 </p>
 
 <h1 align="center">Claude Skills Library</h1>
-<p align="center"><strong>10,000+ battle-tested skills for Claude Code · 39 domains · English + Russian</strong></p>
-<p align="center">The only bilingual AI skills library — built by developers, for developers</p>
+<p align="center"><strong>10,000+ skills for Claude Code · 39 domains · English + Russian</strong></p>
+<p align="center">Bilingual AI skills library</p>
 
 <!--
-SEO metadata for GitHub
 Keywords: claude skills, claude code, ai skills, prompt engineering, claude templates, developer tools
-Description: 10,000+ battle-tested skills for Claude Code. Boost productivity 60% with ready-to-use prompts for testing, development, and automation. Bilingual EN+RU.
 -->
 
 ---
 
-<!-- GIF demo placeholder — replace with actual recording -->
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/667eea/ffffff?text=Watch+demo:+claude-skills.dev" alt="Demo GIF" width="80%">
-  <br><em>1 install → 10,000 skills → 60% faster development</em>
-</p>
 
----
 
 ## Quick Start
 
@@ -51,11 +43,6 @@ claude-skills quality        # Quality analysis
 | No quality guarantees | 93% tested coverage, multi-dimensional quality scoring |
 | English only | Full English + Russian parallel translations |
 
-**Real impact** (based on user reports):
-- **60% faster** test writing with `api-testing` skills
-- **40% better** code quality with `code-review` skills
-- **100% bilingual** — Russian developers get native-language precision
-
 ## Stats
 
 | Metric | Value |
@@ -68,21 +55,6 @@ claude-skills quality        # Quality analysis
 | Quality grades | A–F scoring |
 | Validation speed | **7.8s** for all 10K files |
 | License | MIT |
-
-## Top 10 Most Used Skills
-
-| # | Skill | Domain | Description |
-|---|-------|--------|-------------|
-| 1 | `api-testing` | QA | REST/GraphQL API testing patterns |
-| 2 | `code-review` | Engineering | Systematic code review workflow |
-| 3 | `react-component` | Frontend | React + TypeScript component scaffold |
-| 4 | `fastapi-api` | Backend | FastAPI production setup with tests |
-| 5 | `docker-compose` | DevOps | Multi-service Docker orchestration |
-| 6 | `sql-optimization` | Database | Query optimization & indexing |
-| 7 | `kubernetes-deploy` | DevOps | K8s deployment & health checks |
-| 8 | `pytest-basics` | QA | Comprehensive pytest configurations |
-| 9 | `oauth2-setup` | Security | OAuth 2.0 / OIDC implementation |
-| 10 | `ci-cd-pipeline` | DevOps | CI/CD with GitHub Actions |
 
 ## Structure
 
@@ -149,23 +121,6 @@ Every skill is scored on 5 dimensions:
 
 `ai` · `ar-vr` · `backend` · `block` · `blockchain` · `ci-cd-setup` · `cloud` · `communications` · `data` · `database` · `database-migration` · `design` · `desktop` · `devops` · `ecommerce` · `education` · `embedded` · `energy` · `engineering` · `finance` · `frontend` · `gamedev` · `geospatial` · `healthcare` · `hr` · `iot` · `media` · `mobile` · `networking` · `os-admin` · `payments` · `product` · `qa` · `scientific` · `security` · `supply-chain` · `sustainability` · `test-reporting`
 
-## What People Say
-
-> *"This skill pack saved me 10+ hours per week — no more writing the same prompts twice."* — **@dev_twitter**
->
-> *"Лучшая библиотека навыков для Claude. Наконец-то есть нормальные русские переводы."* — **Habr comment**
->
-> *"Using this in production since day 1. The api-testing skill alone is worth it."* — **GitHub issue #42**
-
-## Real Impact
-
-| Metric | Value |
-|--------|-------|
-| Skills installed | 10,000+ |
-| Test coverage | 93% |
-| Domains covered | 39 |
-| Languages | English + Russian |
-
 ## Author
 
 **ssrjkk**
@@ -207,5 +162,5 @@ MIT. Free for personal and commercial use.
 
 ---
 
-<p align="center"><strong>The only bilingual AI skills library.</strong>
+<p align="center"><strong>Bilingual AI skills library.</strong>
 </p>
