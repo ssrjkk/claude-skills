@@ -1,0 +1,70 @@
+{
+  "name": "claude-skills",
+  "displayName": "Claude Skills",
+  "description": "10,000+ battle-tested bilingual Claude Code skills — install, search, and manage skills directly from VS Code",
+  "version": "3.0.0",
+  "publisher": "ssrjkk",
+  "license": "MIT",
+  "icon": "resources/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssrjkk/claude-skills.git"
+  },
+  "engines": { "vscode": "^1.85.0" },
+  "categories": ["Other", "Programming Languages"],
+  "keywords": ["claude", "skills", "claude-code", "prompts", "ai"],
+  "activationEvents": ["onView:claudeSkillsCatalog", "onCommand:claudeSkills.install", "onCommand:claudeSkills.search"],
+  "main": "./dist/extension.js",
+  "contributes": {
+    "commands": [
+      { "command": "claudeSkills.install", "title": "Claude Skills: Install Skill" },
+      { "command": "claudeSkills.search", "title": "Claude Skills: Search Catalog" },
+      { "command": "claudeSkills.refresh", "title": "Claude Skills: Refresh Catalog" },
+      { "command": "claudeSkills.openSkill", "title": "Claude Skills: Open Skill" }
+    ],
+    "viewsContainers": {
+      "activitybar": [
+        { "id": "claudeSkillsSidebar", "title": "Claude Skills", "icon": "resources/skill.svg" }
+      ]
+    },
+    "views": {
+      "claudeSkillsSidebar": [
+        { "type": "tree", "id": "claudeSkillsCatalog", "name": "Catalog" },
+        { "type": "tree", "id": "claudeSkillsInstalled", "name": "Installed" }
+      ]
+    },
+    "menus": {
+      "view/title": [
+        { "command": "claudeSkills.refresh", "group": "navigation", "when": "view == claudeSkillsCatalog" }
+      ]
+    },
+    "configuration": {
+      "title": "Claude Skills",
+      "properties": {
+        "claudeSkills.skillsDir": {
+          "type": "string",
+          "default": ".claude/skills",
+          "description": "Path to the skills directory relative to workspace root"
+        },
+        "claudeSkills.catalogUrl": {
+          "type": "string",
+          "default": "https://raw.githubusercontent.com/ssrjkk/claude-skills/main/skills_catalog.json",
+          "description": "URL to the skills catalog JSON"
+        }
+      }
+    }
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "esbuild src/extension.ts --bundle --outfile=dist/extension.js --external:vscode --format=cjs --platform=node",
+    "watch": "esbuild src/extension.ts --bundle --outfile=dist/extension.js --external:vscode --format=cjs --platform=node --watch",
+    "lint": "tsc --noEmit",
+    "package": "vsce package"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.85.0",
+    "esbuild": "^0.24.0",
+    "typescript": "^5.5.0",
+    "@vscode/vsce": "^3.0.0"
+  }
+}

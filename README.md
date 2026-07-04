@@ -28,8 +28,17 @@ curl -fsSL https://raw.githubusercontent.com/ssrjkk/claude-skills/main/install.s
 # Or via pip
 pip install -e .
 
+# Install a skill (from local repo or GitHub)
+claude-skills install k8s-debugger
+
+# Search the catalog
+claude-skills search kubernetes
+
+# Generate a new skill from a prompt
+claude-skills generate "Debug PostgreSQL slow queries"
+
 # Validate & explore
-claude-skills stats          # See library stats
+claude-skills stats          # Library statistics
 claude-skills validate       # Validate all skills
 claude-skills quality        # Quality analysis
 ```
@@ -88,10 +97,14 @@ print(f"Errors: {report['errors']}, Warnings: {report['warnings']}")
 ### CLI
 
 ```bash
-claude-skills validate       # Full validation
+claude-skills install <name>           # Install a skill from catalog/GitHub
+claude-skills search <query>           # Search skills by name, description, tags
+claude-skills generate <prompt>        # Generate a skill via template (or --api for LLM)
+claude-skills share <path>             # Share a skill (--github for issue, --text for summary)
+claude-skills validate                 # Full validation pipeline
 claude-skills quality --json report.json
-claude-skills catalog        # Rebuild catalog
-claude-skills stats          # Library stats
+claude-skills catalog                  # Rebuild catalog JSON
+claude-skills stats                    # Library statistics
 ```
 
 ### TypeScript
@@ -138,10 +151,22 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Quick checklist:
 - [ ] `make test` passes
 - [ ] `ruff check src/` passes
 
+## Product Components
+
+| Component | Description |
+|-----------|-------------|
+| **Python CLI** | `claude-skills` — install, search, generate, validate, quality, catalog, stats |
+| **TypeScript SDK** | `npm install claude-skills` — types + utilities for Node.js |
+| **GitHub Action** | `ssrjkk/claude-skills` — validate skills in CI/CD |
+| **VS Code Extension** | Browse 10K skills, one-click install from sidebar |
+| **Next.js Site** | [ssrjkk.github.io/claude-skills/](https://ssrjkk.github.io/claude-skills/) — 10K+ static pages |
+| **Featured Skills** | 50 curated starter skills across 15 core domains |
+
 ## Links
 
 - [Documentation Site](https://ssrjkk.github.io/claude-skills/) — searchable catalog
-- [Launch Checklist](docs/launch-checklist.md) — what's coming next
+- [Launch Checklist](docs/launch-checklist.md) — launch readiness
+- [Launch Summary](docs/launch/launch-summary.md) — launch plan overview
 - [Growth Metrics](docs/metrics.md) — tracking progress
 - [Quality Report](docs/api/quality-report.json)
 - [Architecture Guide](docs/ARCHITECTURE.md)

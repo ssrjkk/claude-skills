@@ -1,0 +1,756 @@
+{
+  "featured": [
+    {
+      "name": "websocket",
+      "description": "Implements real-time bidirectional communication using WebSockets with Socket.IO, ws, or native WebSocket API. Use for chat, live updates, and collaborative apps.",
+      "category": "backend",
+      "tags": [
+        "[websocket",
+        " realtime",
+        " socketio",
+        " nodejs",
+        " python]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/backend/websocket"
+    },
+    {
+      "name": "pocketbase",
+      "description": "Deploys backend-as-a-service with PocketBase, including embedded SQLite, auth, file storage, and real-time subscriptions. Use for rapid prototyping.",
+      "category": "backend",
+      "tags": [
+        "[pocketbase",
+        " bas",
+        " sqlite",
+        " auth",
+        " realtime]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/backend/pocketbase"
+    },
+    {
+      "name": "python-fastapi",
+      "description": "Creates REST API templates with FastAPI, Pydantic validation, and auto-generated documentation. Use for building new microservices or API endpoints.",
+      "category": "backend",
+      "tags": [
+        "[python",
+        " fastapi",
+        " rest",
+        " pydantic",
+        " async]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/backend/python-fastapi"
+    },
+    {
+      "name": "storybook",
+      "description": "Develops UI components in isolation with Storybook, supporting multiple frameworks. Use for building component libraries and design systems.",
+      "category": "frontend",
+      "tags": [
+        "[storybook",
+        " components",
+        " design-system",
+        " react",
+        " vue]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/frontend/storybook"
+    },
+    {
+      "name": "alpinejs",
+      "description": "Adds JavaScript behavior to HTML with Alpine.js, a minimal reactive framework. Use for sprinkling interactivity into server-rendered apps.",
+      "category": "frontend",
+      "tags": [
+        "[alpinejs",
+        " javascript",
+        " reactive",
+        " html",
+        " lightweight]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/frontend/alpinejs"
+    },
+    {
+      "name": "gatsby",
+      "description": "Builds blazing-fast static sites and progressive web apps with Gatsby, React, and GraphQL. Use for content-driven sites and documentation.",
+      "category": "frontend",
+      "tags": [
+        "[gatsby",
+        " react",
+        " graphql",
+        " static-site",
+        " pwa]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/frontend/gatsby"
+    },
+    {
+      "name": "terraform-gcp",
+      "description": "Provisions GCP infrastructure using Terraform modules for compute, networking, and managed services. Use for GCP infrastructure as code.",
+      "category": "devops",
+      "tags": [
+        "[terraform",
+        " gcp",
+        " infrastructure",
+        " iac",
+        " cloud]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/devops/terraform-gcp"
+    },
+    {
+      "name": "jenkins-pipeline",
+      "description": "Creates Jenkins pipeline scripts for CI/CD with declarative and scripted syntax support. Use for automation of builds and deployments.",
+      "category": "devops",
+      "tags": [
+        "[jenkins",
+        " pipeline",
+        " ci-cd",
+        " groovy",
+        " automation]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/devops/jenkins-pipeline"
+    },
+    {
+      "name": "circleci",
+      "description": "Configures CI/CD pipelines with CircleCI using orbs, workspaces, and parallelism. Use for automating builds, tests, and deployments.",
+      "category": "devops",
+      "tags": [
+        "[circleci",
+        " ci-cd",
+        " pipelines",
+        " automation",
+        " devops]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/devops/circleci"
+    },
+    {
+      "name": "sonarqube",
+      "description": "Analyzes code quality and security with SonarQube, detecting bugs, vulnerabilities, and code smells. Use for continuous code inspection.",
+      "category": "security",
+      "tags": [
+        "[sonarqube",
+        " code-quality",
+        " static-analysis",
+        " security",
+        " linting]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/security/sonarqube"
+    },
+    {
+      "name": "sbom-generation",
+      "description": "Generates Software Bill of Materials (SBOM) for tracking dependencies and vulnerabilities. Use for supply chain security.",
+      "category": "security",
+      "tags": [
+        "[sbom",
+        " supply-chain",
+        " security",
+        " dependencies]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/security/sbom-generation"
+    },
+    {
+      "name": "pentest-checklist",
+      "description": "Provides checklists for conducting penetration testing of web applications and infrastructure. Use by security testers.",
+      "category": "security",
+      "tags": [
+        "[pentest",
+        " checklist",
+        " security",
+        " testing]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/security/pentest-checklist"
+    },
+    {
+      "name": "elasticsearch",
+      "description": "Indexes, searches, and analyzes data with Elasticsearch, using full-text search, aggregations, and Kibana visualization. Use for search and log analytics.",
+      "category": "database",
+      "tags": [
+        "[elasticsearch",
+        " search",
+        " kibana",
+        " analytics",
+        " nosql]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/database/elasticsearch"
+    },
+    {
+      "name": "postgresql",
+      "description": "Models relational data, writes optimized queries, and manages PostgreSQL databases with indexes, views, and CTEs. Use for robust data storage.",
+      "category": "database",
+      "tags": [
+        "[postgresql",
+        " sql",
+        " database",
+        " relational",
+        " queries]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/database/postgresql"
+    },
+    {
+      "name": "dynamodb",
+      "description": "Designs NoSQL tables, writes efficient queries, and manages capacity with AWS DynamoDB. Use for serverless applications at scale.",
+      "category": "database",
+      "tags": [
+        "[dynamodb",
+        " aws",
+        " nosql",
+        " serverless",
+        " database]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/database/dynamodb"
+    },
+    {
+      "name": "vitest",
+      "description": "Runs fast unit and integration tests with Vitest, featuring Vite-native speed and Jest-compatible API. Use for modern Vite projects.",
+      "category": "qa",
+      "tags": [
+        "[vitest",
+        " testing",
+        " vite",
+        " javascript",
+        " typescript]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/qa/vitest"
+    },
+    {
+      "name": "jest",
+      "description": "Writes unit and integration tests with Jest, including mocks, snapshots, and code coverage. Use for JavaScript/TypeScript testing.",
+      "category": "qa",
+      "tags": [
+        "[jest",
+        " testing",
+        " javascript",
+        " typescript",
+        " unit-test]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/qa/jest"
+    },
+    {
+      "name": "playwright-e2e-testing",
+      "description": "Build robust automated E2E test suites using Playwright with cross-browser support and visual regression testing",
+      "category": "qa",
+      "tags": [
+        "[playwright",
+        " e2e",
+        " testing",
+        " automation",
+        " cross-browser]"
+      ],
+      "has_ru": true,
+      "version": "\"1.0\"",
+      "path": ".claude/skills/qa/playwright-e2e-testing"
+    },
+    {
+      "name": "rag-prompting",
+      "description": "Designs prompts optimized for Retrieval-Augmented Generation systems, including context integration, citation handling, and hallucination reduction. Use for RAG applications.",
+      "category": "ai",
+      "tags": [
+        "[prompt",
+        " rag",
+        " retrieval",
+        " context",
+        " citations]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/ai/rag-prompting"
+    },
+    {
+      "name": "prompt-compression",
+      "description": "Reduces prompt token usage through compression techniques, summarization, and selective context inclusion while maintaining output quality. Use for cost optimization.",
+      "category": "ai",
+      "tags": [
+        "[prompt",
+        " compression",
+        " tokens",
+        " optimization",
+        " cost]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/ai/prompt-compression"
+    },
+    {
+      "name": "system-prompt-design",
+      "description": "Designs effective system prompts for LLM agents, chatbots, and assistants with role definition, constraints, and behavioral guidelines. Use for production AI systems.",
+      "category": "ai",
+      "tags": [
+        "[prompt",
+        " system-prompt",
+        " agent",
+        " chatbot",
+        " persona]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/ai/system-prompt-design"
+    },
+    {
+      "name": "react-native-bare",
+      "description": "Develops React Native applications without Expo, using native modules, libraries, and custom builds. Use for advanced RN projects.",
+      "category": "mobile",
+      "tags": [
+        "[react-native",
+        " mobile",
+        " native-modules",
+        " typescript",
+        " ios]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/mobile/react-native-bare"
+    },
+    {
+      "name": "capacitor",
+      "description": "Builds cross-platform mobile apps with Capacitor, bridging web apps to native device features. Use for hybrid mobile development.",
+      "category": "mobile",
+      "tags": [
+        "[capacitor",
+        " mobile",
+        " hybrid",
+        " ios",
+        " android]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/mobile/capacitor"
+    },
+    {
+      "name": "ionic",
+      "description": "Builds cross-platform mobile apps with Ionic, Angular/React/Vue, and Capacitor. Use for hybrid apps with native-like UI.",
+      "category": "mobile",
+      "tags": [
+        "[ionic",
+        " mobile",
+        " hybrid",
+        " angular",
+        " capacitor]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/mobile/ionic"
+    },
+    {
+      "name": "database-migration",
+      "description": "Manages PostgreSQL database migrations using Alembic. Use for creating, applying, and rolling back schema changes in QA environments.",
+      "category": "database-migration",
+      "tags": [
+        "[database",
+        " migration",
+        " postgresql",
+        " alembic",
+        " qa",
+        " schema]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/database-migration/database-migration"
+    },
+    {
+      "name": "prompt-testing",
+      "description": "Tests and evaluates prompt quality using systematic methods, A/B testing, regression suites, and automated evaluation with LLM-as-judge. Use for prompt optimization.",
+      "category": "ai",
+      "tags": [
+        "[prompt",
+        " testing",
+        " evaluation",
+        " llm-as-judge",
+        " ab-testing]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/ai/prompt-testing"
+    },
+    {
+      "name": "few-shot-learning",
+      "description": "Designs and curates few-shot examples to guide LLM behavior, including example selection, formatting, and ordering. Use for task specification without fine-tuning.",
+      "category": "ai",
+      "tags": [
+        "[prompt",
+        " few-shot",
+        " examples",
+        " in-context-learning",
+        " llm]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/ai/few-shot-learning"
+    },
+    {
+      "name": "shadcn-ui",
+      "description": "Builds modern UI components with shadcn/ui, a collection of re-usable components built with Radix UI and Tailwind CSS. Use for beautiful, accessible React apps.",
+      "category": "design",
+      "tags": [
+        "[shadcn-ui",
+        " react",
+        " tailwind",
+        " radix",
+        " components]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/design/shadcn-ui"
+    },
+    {
+      "name": "ollama",
+      "description": "Runs large language models locally with Ollama, including model management, custom Modelfiles, and API integration. Use for private, offline LLM inference.",
+      "category": "ai",
+      "tags": [
+        "[ollama",
+        " llm",
+        " local",
+        " offline",
+        " llama]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/ai/ollama"
+    },
+    {
+      "name": "api-testing",
+      "description": "Tests REST and GraphQL APIs using pytest and requests library. Use for endpoint validation, HTTP response verification, and automated API test writing.",
+      "category": "api-testing",
+      "tags": [
+        "[api",
+        " testing",
+        " rest",
+        " graphql",
+        " pytest",
+        " requests]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/api-testing/api-testing"
+    },
+    {
+      "name": "snowflake",
+      "description": "Manages data warehousing with Snowflake, including virtual warehouses, clustering, and semi-structured data support. Use for cloud analytics at scale.",
+      "category": "data",
+      "tags": [
+        "[snowflake",
+        " data-warehouse",
+        " cloud",
+        " analytics",
+        " sql]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/data/snowflake"
+    },
+    {
+      "name": "flask-python",
+      "description": "Creates lightweight web applications and REST APIs with Flask, Jinja2 templates, and SQLAlchemy. Use for simple Python web apps and microservices.",
+      "category": "backend",
+      "tags": [
+        "[python",
+        " flask",
+        " web",
+        " jinja",
+        " sqlalchemy]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/backend/flask-python"
+    },
+    {
+      "name": "chain-of-thought",
+      "description": "Implements step-by-step reasoning with Chain-of-Thought, Tree-of-Thought, and self-consistency techniques. Use for complex multi-step problems.",
+      "category": "ai",
+      "tags": [
+        "[prompt",
+        " reasoning",
+        " chain-of-thought",
+        " step-by-step",
+        " llm]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/ai/chain-of-thought"
+    },
+    {
+      "name": "structured-output",
+      "description": "Guides LLMs to produce structured, schema-validated JSON output with type safety and format constraints. Use for programmatic LLM integration.",
+      "category": "ai",
+      "tags": [
+        "[prompt",
+        " json",
+        " structured-output",
+        " schema",
+        " parsing]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/ai/structured-output"
+    },
+    {
+      "name": "java-spring",
+      "description": "Generates Spring Boot application structure with REST controllers and JPA repositories. Use for creating enterprise-grade Java applications.",
+      "category": "backend",
+      "tags": [
+        "[java",
+        " spring",
+        " spring-boot",
+        " rest",
+        " jpa]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/backend/java-spring"
+    },
+    {
+      "name": "llm-finetuning",
+      "description": "Fine-tunes open-source LLMs (Llama, Mistral, Qwen) using LoRA/QLoRA with HuggingFace and Unsloth. Use for domain-specific model adaptation.",
+      "category": "ai",
+      "tags": [
+        "[finetuning",
+        " lora",
+        " llama",
+        " mistral",
+        " unsloth",
+        " llm]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/ai/llm-finetuning"
+    },
+    {
+      "name": "nestjs",
+      "description": "Creates Node.js server-side applications with NestJS, modules, dependency injection, and decorators. Use for enterprise-grade Node.js APIs.",
+      "category": "backend",
+      "tags": [
+        "[nestjs",
+        " nodejs",
+        " typescript",
+        " api",
+        " decorators]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/backend/nestjs"
+    },
+    {
+      "name": "dbt",
+      "description": "Transforms data in warehouses using dbt with SQL models, tests, and documentation. Use for analytics engineering and data transformation.",
+      "category": "data",
+      "tags": [
+        "[dbt",
+        " sql",
+        " data-warehouse",
+        " analytics",
+        " etl]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/data/dbt"
+    },
+    {
+      "name": "ml-model-training",
+      "description": "Creates ML model training pipelines with scikit-learn and experiment tracking. Use for training and evaluating machine learning models.",
+      "category": "data",
+      "tags": [
+        "[ml",
+        " scikit-learn",
+        " training",
+        " model",
+        " pandas]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/data/ml-model-training"
+    },
+    {
+      "name": "fastify",
+      "description": "Builds fast and low-overhead Node.js web APIs with Fastify, schema validation, and plugins. Use for high-performance Node.js backends.",
+      "category": "backend",
+      "tags": [
+        "[fastify",
+        " nodejs",
+        " api",
+        " performance",
+        " validation]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/backend/fastify"
+    },
+    {
+      "name": "htmx",
+      "description": "Builds dynamic web UIs with htmx, HTML-over-the-Wire, and hypermedia-driven interactions. Use for server-rendered apps with modern UX.",
+      "category": "frontend",
+      "tags": [
+        "[htmx",
+        " html",
+        " hypermedia",
+        " ajax",
+        " server-rendered]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/frontend/htmx"
+    },
+    {
+      "name": "prd-template",
+      "description": "Generates structured PRD (Product Requirements Document) with goals, features, and success criteria. Use for documenting requirements.",
+      "category": "product",
+      "tags": [
+        "[prd",
+        " product",
+        " requirements",
+        " documentation]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/product/prd-template"
+    },
+    {
+      "name": "function-calling",
+      "description": "Designs prompts and schemas for LLM function calling and tool use, enabling structured interactions with external APIs and services.",
+      "category": "ai",
+      "tags": [
+        "[prompt",
+        " function-calling",
+        " tools",
+        " api",
+        " structured]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/ai/function-calling"
+    },
+    {
+      "name": "pulumi",
+      "description": "Provisions cloud infrastructure with Pulumi using TypeScript, Python, Go, or C#. Use for modern IaC with real programming languages.",
+      "category": "devops",
+      "tags": [
+        "[pulumi",
+        " iac",
+        " typescript",
+        " cloud",
+        " infrastructure]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/devops/pulumi"
+    },
+    {
+      "name": "ci-cd-setup",
+      "description": "Sets up CI/CD pipelines for testing using GitHub Actions. Use for automating test runs, builds, and deployments to QA environments.",
+      "category": "ci-cd-setup",
+      "tags": [
+        "[ci-cd",
+        " github-actions",
+        " automation",
+        " testing",
+        " pytest",
+        " qa]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/ci-cd-setup/ci-cd-setup"
+    },
+    {
+      "name": "electron",
+      "description": "Builds cross-platform desktop applications with Electron, React, and IPC communication. Use for native desktop apps with web tech.",
+      "category": "desktop",
+      "tags": [
+        "[electron",
+        " desktop",
+        " react",
+        " native",
+        " cross-platform]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/desktop/electron"
+    },
+    {
+      "name": "hono",
+      "description": "Creates lightweight, fast web APIs with Hono, supporting Cloudflare Workers, Deno, Bun, and Node.js. Use for edge-compatible APIs.",
+      "category": "backend",
+      "tags": [
+        "[hono",
+        " edge",
+        " cloudflare",
+        " workers",
+        " typescript]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/backend/hono"
+    },
+    {
+      "name": "qwik",
+      "description": "Creates instant-loading web applications with Qwik, resumability, and fine-grained lazy loading. Use for maximum performance SPAs.",
+      "category": "frontend",
+      "tags": [
+        "[qwik",
+        " resumable",
+        " performance",
+        " framework",
+        " typescript]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/frontend/qwik"
+    },
+    {
+      "name": "microservices-architecture",
+      "description": "Design and implement enterprise-grade microservices architectures with service discovery, load balancing, and distributed tracing",
+      "category": "backend",
+      "tags": [
+        "[microservices",
+        " architecture",
+        " backend",
+        " distributed-systems",
+        " service-discovery]"
+      ],
+      "has_ru": true,
+      "version": "\"1.0\"",
+      "path": ".claude/skills/backend/microservices-architecture"
+    },
+    {
+      "name": "ruby-rails",
+      "description": "Creates Ruby on Rails applications with ActiveRecord, MVC pattern, and RESTful routes. Use for rapid web application development.",
+      "category": "backend",
+      "tags": [
+        "[ruby",
+        " rails",
+        " active-record",
+        " mvc",
+        " backend]"
+      ],
+      "has_ru": true,
+      "version": "1.0.0",
+      "path": ".claude/skills/backend/ruby-rails"
+    }
+  ],
+  "total_featured": 50
+}

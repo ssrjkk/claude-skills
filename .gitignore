@@ -42,6 +42,11 @@ credentials
 .hypothesis/
 .pytest_cache/
 .benchmarks/
+.coverage
+
+# Next.js
+web/.next/
+web/out/
 
 # Generated catalog (tracked)
 # skills_catalog.json

@@ -1,0 +1,28 @@
+name: "Claude Skills Action"
+description: "Validate, audit, and catalog Claude Code skills in your repository"
+author: "ssrjkk"
+branding:
+  icon: "book-open"
+  color: "purple"
+
+inputs:
+  command:
+    description: "Command to run (validate, quality, catalog, stats)"
+    required: false
+    default: "validate"
+  target:
+    description: "Path to skills directory"
+    required: false
+    default: ".claude/skills"
+  output:
+    description: "Output path for generated files (catalog JSON, quality report)"
+    required: false
+    default: "skills_catalog.json"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+  args:
+    - ${{ inputs.command }}
+    - --dir
+    - ${{ inputs.target }}

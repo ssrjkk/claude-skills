@@ -135,13 +135,21 @@ class CatalogBuilder:
             domains=meta.get("domains", []),
             bilingual=meta.get("bilingual", True),
         )
+        def _ensure_list(val):
+            if isinstance(val, list):
+                return val
+            if isinstance(val, str):
+                cleaned = val.strip().strip("[]").strip()
+                return [v.strip().strip("\"'") for v in re.split(r"[\s,]+", cleaned) if v.strip()] if cleaned else []
+            return []
+
         skills = [
             Skill(
                 name=s["name"],
                 description=s.get("description", ""),
                 category=s.get("category", ""),
-                tags=s.get("tags", []),
-                models=s.get("models", []),
+                tags=_ensure_list(s.get("tags", [])),
+                models=_ensure_list(s.get("models", [])),
                 version=str(s.get("version", "1.0.0")),
                 path=Path(s.get("path", "")),
                 languages=s.get("languages", ["en"]),
