@@ -48,8 +48,8 @@ credentials
 web/.next/
 web/out/
 
-# Generated catalog (tracked)
-# skills_catalog.json
+# Generated catalog (built by CI)
+skills_catalog.json
 
 # One-time scripts (should not be tracked)
 /scripts/breakthrough.py

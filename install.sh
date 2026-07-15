@@ -37,10 +37,10 @@ fi
 # Install Python SDK
 if command -v pip3 &>/dev/null; then
     echo "🐍 Installing Python SDK..."
-    pip3 install -e "$INSTALL_DIR" 2>/dev/null || true
+    pip3 install "$INSTALL_DIR" 2>/dev/null || true
 elif command -v pip &>/dev/null; then
     echo "🐍 Installing Python SDK..."
-    pip install -e "$INSTALL_DIR" 2>/dev/null || true
+    pip install "$INSTALL_DIR" 2>/dev/null || true
 fi
 
 echo ""
