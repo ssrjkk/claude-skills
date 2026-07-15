@@ -47,6 +47,9 @@ jobs:
       - name: Quality analysis
         run: python -m claude_skills.cli quality --dir .claude/skills --json docs/api/quality-report.json
 
+      - name: Generate catalog
+        run: python -m claude_skills.cli catalog -o skills_catalog.json
+
       - name: Anti-pattern detection
         run: python scripts/detect_anti_patterns.py skills_catalog.json
 
