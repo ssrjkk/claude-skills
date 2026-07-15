@@ -1,6 +1,6 @@
 ---
 name: cassandra-monitoring
-description: Monitoring with Cassandra. monitoring.
+description: "Monitoring with Cassandra. monitoring."
 category: database
 tags: [cassandra-monitoring, database, russian]
 models: [sonnet, opus]

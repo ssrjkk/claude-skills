@@ -1,6 +1,6 @@
 ---
 name: sketch-prototyping
-description: Prototyping with Sketch. prototypes.
+description: "Prototyping with Sketch. prototypes."
 category: design
 tags: [sketch, prototyping, design, design]
 models: [gpt-4, claude-3]

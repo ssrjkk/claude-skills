@@ -1,6 +1,6 @@
 ---
 name: pgbouncer-examples
-description: Examples for Pgbouncer: practical examples
+description: "Examples for Pgbouncer: practical examples"
 category: database
 tags: [pgbouncer-examples, database, russian]
 models: [sonnet, opus]

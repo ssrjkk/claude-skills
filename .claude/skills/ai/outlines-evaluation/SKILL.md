@@ -1,6 +1,6 @@
 ---
 name: outlines-evaluation
-description: Evaluation with Outlines. LLM evaluation.
+description: "Evaluation with Outlines. LLM evaluation."
 category: ai
 tags: [outlines, evaluation, ai, llm]
 models: [gpt-4, claude-3]

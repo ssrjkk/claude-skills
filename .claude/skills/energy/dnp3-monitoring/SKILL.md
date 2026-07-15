@@ -1,6 +1,6 @@
 ---
 name: dnp3-monitoring
-description: Monitoring with DNP3. monitoring.
+description: "Monitoring with DNP3. monitoring."
 category: energy
 tags: [dnp3, monitoring, energy, smart-grid]
 models: [gpt-4, claude-3]

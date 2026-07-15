@@ -1,6 +1,6 @@
 ---
 name: grails-middleware
-description: Middleware with Grails. request processing.
+description: "Middleware with Grails. request processing."
 category: backend
 tags: [grails-middleware, backend, russian]
 models: [sonnet, opus]

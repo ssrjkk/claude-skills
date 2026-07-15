@@ -1,6 +1,6 @@
 ---
 name: user-stories-best-practices
-description: Best Practices with User Stories. tips.
+description: "Best Practices with User Stories. tips."
 category: product
 tags: [user-stories-best-practices, product, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: battery-storage-design
-description: Design with Battery Storage. system design.
+description: "Design with Battery Storage. system design."
 category: energy
 tags: [battery-storage, design, energy, renewable-energy]
 models: [gpt-4, claude-3]

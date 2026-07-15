@@ -1,6 +1,6 @@
 ---
 name: flux-guides
-description: Guides for Flux: how-to guides
+description: "Guides for Flux: how-to guides"
 category: devops
 tags: [flux-guides, devops, russian]
 models: [sonnet, opus]

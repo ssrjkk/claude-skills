@@ -1,6 +1,6 @@
 ---
 name: minitest-mocking
-description: Mocking with Minitest. mocks.
+description: "Mocking with Minitest. mocks."
 category: qa
 tags: [minitest-mocking, qa, russian]
 models: [sonnet, opus]

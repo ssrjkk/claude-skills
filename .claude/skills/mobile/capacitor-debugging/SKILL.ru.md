@@ -1,6 +1,6 @@
 ---
 name: capacitor-debugging
-description: Debugging for Capacitor: debugging and troubleshooting
+description: "Debugging for Capacitor: debugging and troubleshooting"
 category: mobile
 tags: [capacitor-debugging, mobile, russian]
 models: [sonnet, opus]

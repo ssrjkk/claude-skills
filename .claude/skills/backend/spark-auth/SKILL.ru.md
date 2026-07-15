@@ -1,6 +1,6 @@
 ---
 name: spark-auth
-description: Auth with Spark. security.
+description: "Auth with Spark. security."
 category: backend
 tags: [spark-auth, backend, russian]
 models: [sonnet, opus]

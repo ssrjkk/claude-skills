@@ -1,6 +1,6 @@
 ---
 name: dynatrace-dashboards
-description: Dashboards with Dynatrace. dashboards.
+description: "Dashboards with Dynatrace. dashboards."
 category: devops
 tags: [dynatrace-dashboards, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: security-skill-0096
-description: Specialized skill #0096 for security development
+description: "Specialized skill #0096 for security development"
 category: security
 tags: [skill-0096, security, russian]
 models: [sonnet, opus]

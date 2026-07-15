@@ -1,6 +1,6 @@
 ---
 name: airflow-integration
-description: Integration with Airflow. connectors.
+description: "Integration with Airflow. connectors."
 category: data
 tags: [airflow, integration, data, data-engineering]
 models: [gpt-4, claude-3]

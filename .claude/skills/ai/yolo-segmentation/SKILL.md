@@ -1,6 +1,6 @@
 ---
 name: yolo-segmentation
-description: Segmentation with Yolo. image segmentation.
+description: "Segmentation with Yolo. image segmentation."
 category: ai
 tags: [yolo, segmentation, ai, computer-vision]
 models: [gpt-4, claude-3]

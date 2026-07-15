@@ -1,6 +1,6 @@
 ---
 name: cloudformation-modules
-description: Modules with CloudFormation. modules.
+description: "Modules with CloudFormation. modules."
 category: devops
 tags: [cloudformation-modules, devops, russian]
 models: [sonnet, opus]

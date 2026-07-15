@@ -1,6 +1,6 @@
 ---
 name: mmdetection-segmentation
-description: Segmentation with Mmdetection. image segmentation.
+description: "Segmentation with Mmdetection. image segmentation."
 category: ai
 tags: [mmdetection, segmentation, ai, computer-vision]
 models: [gpt-4, claude-3]

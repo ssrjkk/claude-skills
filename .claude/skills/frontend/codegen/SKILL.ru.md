@@ -1,6 +1,6 @@
 ---
 name: codegen
-description: Development with Codegen: tools and best practices
+description: "Development with Codegen: tools and best practices"
 category: frontend
 tags: [codegen, frontend, russian]
 models: [sonnet, opus]

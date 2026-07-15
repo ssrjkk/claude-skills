@@ -1,6 +1,6 @@
 ---
 name: skill-0027
-description: Specialized skill #0027 for cloud development
+description: "Specialized skill #0027 for cloud development"
 category: cloud
 tags: [skill-0027, cloud, russian]
 models: [sonnet, opus]

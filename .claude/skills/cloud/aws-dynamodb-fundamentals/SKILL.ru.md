@@ -1,6 +1,6 @@
 ---
 name: aws-dynamodb-fundamentals
-description: Fundamentals for Aws-Dynamodb: core concepts
+description: "Fundamentals for Aws-Dynamodb: core concepts"
 category: cloud
 tags: [aws-dynamodb-fundamentals, cloud, russian]
 models: [sonnet, opus]

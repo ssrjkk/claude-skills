@@ -1,6 +1,6 @@
 ---
 name: blue-yonder-setup
-description: Setup with Blue Yonder. setup.
+description: "Setup with Blue Yonder. setup."
 category: supply-chain
 tags: [blue-yonder-setup, supply-chain, russian]
 models: [sonnet, opus]

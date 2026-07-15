@@ -1,6 +1,6 @@
 ---
 name: koa-database
-description: Database with Koa. ORM.
+description: "Database with Koa. ORM."
 category: backend
 tags: [koa, database, backend, backend]
 models: [gpt-4, claude-3]

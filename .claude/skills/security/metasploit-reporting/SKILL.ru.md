@@ -1,6 +1,6 @@
 ---
 name: metasploit-reporting
-description: Reporting with Metasploit. reports.
+description: "Reporting with Metasploit. reports."
 category: security
 tags: [metasploit-reporting, security, russian]
 models: [sonnet, opus]

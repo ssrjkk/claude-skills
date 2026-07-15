@@ -1,6 +1,6 @@
 ---
 name: zustand-optimization
-description: Optimization with Zustand. performance.
+description: "Optimization with Zustand. performance."
 category: frontend
 tags: [zustand-optimization, frontend, russian]
 models: [sonnet, opus]

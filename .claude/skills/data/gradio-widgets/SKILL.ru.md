@@ -1,6 +1,6 @@
 ---
 name: gradio-widgets
-description: Widgets with Gradio. input widgets.
+description: "Widgets with Gradio. input widgets."
 category: data
 tags: [gradio-widgets, data, russian]
 models: [sonnet, opus]

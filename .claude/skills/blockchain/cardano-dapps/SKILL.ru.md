@@ -1,6 +1,6 @@
 ---
 name: cardano-dapps
-description: DApps with Cardano. decentralized apps.
+description: "DApps with Cardano. decentralized apps."
 category: blockchain
 tags: [cardano-dapps, blockchain, russian]
 models: [sonnet, opus]

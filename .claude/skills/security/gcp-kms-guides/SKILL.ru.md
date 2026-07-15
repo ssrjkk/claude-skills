@@ -1,6 +1,6 @@
 ---
 name: gcp-kms-guides
-description: Guides for Gcp-Kms: how-to guides
+description: "Guides for Gcp-Kms: how-to guides"
 category: security
 tags: [gcp-kms-guides, security, russian]
 models: [sonnet, opus]

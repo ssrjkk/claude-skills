@@ -1,6 +1,6 @@
 ---
 name: elastic-storage
-description: Storage with Elastic Stack. data retention.
+description: "Storage with Elastic Stack. data retention."
 category: devops
 tags: [elastic, storage, devops, monitoring]
 models: [gpt-4, claude-3]

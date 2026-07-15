@@ -1,6 +1,6 @@
 ---
 name: adyen-fraud
-description: Fraud with Adyen. fraud detection.
+description: "Fraud with Adyen. fraud detection."
 category: payments
 tags: [adyen, fraud, payments, payments]
 models: [gpt-4, claude-3]

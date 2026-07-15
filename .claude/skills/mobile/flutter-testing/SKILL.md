@@ -1,6 +1,6 @@
 ---
 name: flutter-testing
-description: Testing with Flutter. testing.
+description: "Testing with Flutter. testing."
 category: mobile
 tags: [flutter, testing, mobile, mobile]
 models: [gpt-4, claude-3]

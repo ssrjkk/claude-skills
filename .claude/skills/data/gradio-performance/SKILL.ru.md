@@ -1,6 +1,6 @@
 ---
 name: gradio-performance
-description: Performance with Gradio. performance.
+description: "Performance with Gradio. performance."
 category: data
 tags: [gradio-performance, data, russian]
 models: [sonnet, opus]

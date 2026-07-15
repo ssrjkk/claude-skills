@@ -1,6 +1,6 @@
 ---
 name: reportportal-getting-started
-description: Getting Started for Reportportal: initial setup and first steps
+description: "Getting Started for Reportportal: initial setup and first steps"
 category: qa
 tags: [reportportal, getting-started, qa]
 models: [sonnet, opus]

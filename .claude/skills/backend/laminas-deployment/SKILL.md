@@ -1,6 +1,6 @@
 ---
 name: laminas-deployment
-description: Deployment with Laminas. deploy.
+description: "Deployment with Laminas. deploy."
 category: backend
 tags: [laminas, deployment, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: packer-production
-description: Production for Packer: production deployment
+description: "Production for Packer: production deployment"
 category: devops
 tags: [packer-production, devops, russian]
 models: [sonnet, opus]

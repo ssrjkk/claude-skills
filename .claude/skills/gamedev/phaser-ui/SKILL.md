@@ -1,6 +1,6 @@
 ---
 name: phaser-ui
-description: UI with Phaser. game UI.
+description: "UI with Phaser. game UI."
 category: gamedev
 tags: [phaser, ui, gamedev, game-engine]
 models: [gpt-4, claude-3]

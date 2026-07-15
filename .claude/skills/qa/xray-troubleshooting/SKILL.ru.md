@@ -1,6 +1,6 @@
 ---
 name: xray-troubleshooting
-description: Troubleshooting for Xray: troubleshooting common issues
+description: "Troubleshooting for Xray: troubleshooting common issues"
 category: qa
 tags: [xray-troubleshooting, qa, russian]
 models: [sonnet, opus]

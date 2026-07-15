@@ -1,6 +1,6 @@
 ---
 name: tls-testing
-description: Testing with TLS/SSL. security testing.
+description: "Testing with TLS/SSL. security testing."
 category: security
 tags: [tls, testing, security, security]
 models: [gpt-4, claude-3]

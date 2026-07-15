@@ -1,6 +1,6 @@
 ---
 name: prince2-coaching
-description: Coaching with PRINCE2. team coaching.
+description: "Coaching with PRINCE2. team coaching."
 category: product
 tags: [prince2-coaching, product, russian]
 models: [sonnet, opus]

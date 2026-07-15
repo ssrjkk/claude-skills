@@ -1,6 +1,6 @@
 ---
 name: paypal-subscriptions
-description: Subscriptions with PayPal. recurring.
+description: "Subscriptions with PayPal. recurring."
 category: payments
 tags: [paypal, subscriptions, payments, payments]
 models: [gpt-4, claude-3]

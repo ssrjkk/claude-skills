@@ -1,6 +1,6 @@
 ---
 name: aircrack-remediation
-description: Remediation with Aircrack-ng. fixing vulns.
+description: "Remediation with Aircrack-ng. fixing vulns."
 category: security
 tags: [aircrack-remediation, security, russian]
 models: [sonnet, opus]

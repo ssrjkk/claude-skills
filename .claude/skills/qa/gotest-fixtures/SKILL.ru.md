@@ -1,6 +1,6 @@
 ---
 name: gotest-fixtures
-description: Fixtures with Go Test. test fixtures.
+description: "Fixtures with Go Test. test fixtures."
 category: qa
 tags: [gotest-fixtures, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mongodb-basics
-description: Basics for Mongodb: fundamentals and core concepts
+description: "Basics for Mongodb: fundamentals and core concepts"
 category: database
 tags: [mongodb, basics, database]
 models: [sonnet, opus]

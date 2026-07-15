@@ -1,6 +1,6 @@
 ---
 name: openxr-tracking
-description: Tracking with OpenXR. spatial tracking.
+description: "Tracking with OpenXR. spatial tracking."
 category: ar-vr
 tags: [openxr-tracking, ar-vr, russian]
 models: [sonnet, opus]

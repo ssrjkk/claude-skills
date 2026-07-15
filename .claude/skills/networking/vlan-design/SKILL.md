@@ -1,6 +1,6 @@
 ---
 name: vlan-design
-description: Design with VLAN. network design.
+description: "Design with VLAN. network design."
 category: networking
 tags: [vlan, design, networking, networking]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: openlayers-analysis
-description: Analysis with OpenLayers. spatial analysis.
+description: "Analysis with OpenLayers. spatial analysis."
 category: geospatial
 tags: [openlayers-analysis, geospatial, russian]
 models: [sonnet, opus]

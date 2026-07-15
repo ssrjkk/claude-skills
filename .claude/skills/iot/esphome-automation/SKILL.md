@@ -1,6 +1,6 @@
 ---
 name: esphome-automation
-description: Automation with ESPHome. automation.
+description: "Automation with ESPHome. automation."
 category: iot
 tags: [esphome, automation, iot, iot-platform]
 models: [gpt-4, claude-3]

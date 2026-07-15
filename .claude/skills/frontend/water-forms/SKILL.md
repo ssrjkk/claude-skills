@@ -1,6 +1,6 @@
 ---
 name: water-forms
-description: Forms with Water.css. form styling.
+description: "Forms with Water.css. form styling."
 category: frontend
 tags: [water, forms, frontend, css]
 models: [gpt-4, claude-3]

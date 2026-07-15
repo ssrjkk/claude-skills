@@ -1,6 +1,6 @@
 ---
 name: flutter-desktop-ui
-description: UI with Flutter Desktop. UI components.
+description: "UI with Flutter Desktop. UI components."
 category: desktop
 tags: [flutter-desktop-ui, desktop, russian]
 models: [sonnet, opus]

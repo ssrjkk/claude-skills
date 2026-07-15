@@ -1,6 +1,6 @@
 ---
 name: axiom-intro
-description: Intro for Axiom: introduction
+description: "Intro for Axiom: introduction"
 category: devops
 tags: [axiom, intro, devops]
 models: [sonnet, opus]

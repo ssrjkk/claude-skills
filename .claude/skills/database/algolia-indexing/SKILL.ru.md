@@ -1,6 +1,6 @@
 ---
 name: algolia-indexing
-description: Indexing with Algolia. document indexing.
+description: "Indexing with Algolia. document indexing."
 category: database
 tags: [algolia-indexing, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ignite-persistence
-description: Persistence with Apache Ignite. persistence.
+description: "Persistence with Apache Ignite. persistence."
 category: database
 tags: [ignite, persistence, database, caching]
 models: [gpt-4, claude-3]

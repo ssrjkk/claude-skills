@@ -1,6 +1,6 @@
 ---
 name: wireshark-analysis
-description: Analysis with Wireshark. analysis.
+description: "Analysis with Wireshark. analysis."
 category: security
 tags: [wireshark, analysis, security, security-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: jest-api
-description: API for Jest: API development and integration
+description: "API for Jest: API development and integration"
 category: qa
 tags: [jest-api, qa, russian]
 models: [sonnet, opus]

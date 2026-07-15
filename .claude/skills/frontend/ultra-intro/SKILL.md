@@ -1,6 +1,6 @@
 ---
 name: ultra-intro
-description: Intro for Ultra: introduction
+description: "Intro for Ultra: introduction"
 category: frontend
 tags: [ultra, intro, frontend]
 models: [sonnet, opus]

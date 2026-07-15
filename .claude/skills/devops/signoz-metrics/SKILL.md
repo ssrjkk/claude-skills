@@ -1,6 +1,6 @@
 ---
 name: signoz-metrics
-description: Metrics with SigNoz. collecting metrics.
+description: "Metrics with SigNoz. collecting metrics."
 category: devops
 tags: [signoz, metrics, devops, monitoring]
 models: [gpt-4, claude-3]

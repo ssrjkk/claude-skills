@@ -1,6 +1,6 @@
 ---
 name: throttling-testing
-description: Testing with Throttling. testing the pattern.
+description: "Testing with Throttling. testing the pattern."
 category: backend
 tags: [throttling, testing, backend, architecture]
 models: [gpt-4, claude-3]

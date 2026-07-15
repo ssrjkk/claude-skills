@@ -1,6 +1,6 @@
 ---
 name: bulkhead-scaling
-description: Scaling with Bulkhead. scaling considerations.
+description: "Scaling with Bulkhead. scaling considerations."
 category: backend
 tags: [bulkhead, scaling, backend, architecture]
 models: [gpt-4, claude-3]

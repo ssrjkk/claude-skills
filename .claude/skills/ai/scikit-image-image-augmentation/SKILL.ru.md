@@ -1,6 +1,6 @@
 ---
 name: scikit-image-image-augmentation
-description: Image Augmentation with Scikit Image. data augmentation.
+description: "Image Augmentation with Scikit Image. data augmentation."
 category: ai
 tags: [scikit-image-image-augmentation, ai, russian]
 models: [sonnet, opus]

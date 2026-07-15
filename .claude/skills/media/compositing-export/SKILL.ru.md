@@ -1,6 +1,6 @@
 ---
 name: compositing-export
-description: Export with Compositing. export.
+description: "Export with Compositing. export."
 category: media
 tags: [compositing-export, media, russian]
 models: [sonnet, opus]

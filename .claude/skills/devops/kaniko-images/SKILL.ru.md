@@ -1,6 +1,6 @@
 ---
 name: kaniko-images
-description: Images with Kaniko. building images.
+description: "Images with Kaniko. building images."
 category: devops
 tags: [kaniko-images, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mariadb-optimization
-description: Optimization with MariaDB. query tuning.
+description: "Optimization with MariaDB. query tuning."
 category: database
 tags: [mariadb-optimization, database, russian]
 models: [sonnet, opus]

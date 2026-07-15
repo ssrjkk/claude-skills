@@ -1,6 +1,6 @@
 ---
 name: vagrant-best-practices
-description: Best Practices for Vagrant: best practices and patterns
+description: "Best Practices for Vagrant: best practices and patterns"
 category: devops
 tags: [vagrant, best-practices, devops]
 models: [sonnet, opus]

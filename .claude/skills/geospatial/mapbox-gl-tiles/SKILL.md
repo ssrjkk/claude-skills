@@ -1,6 +1,6 @@
 ---
 name: mapbox-gl-tiles
-description: Tiles with Mapbox GL. tile serving.
+description: "Tiles with Mapbox GL. tile serving."
 category: geospatial
 tags: [mapbox-gl, tiles, geospatial, gis]
 models: [gpt-4, claude-3]

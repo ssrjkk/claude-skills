@@ -1,6 +1,6 @@
 ---
 name: bootstrap-grid
-description: Grid with Bootstrap. layout grids.
+description: "Grid with Bootstrap. layout grids."
 category: frontend
 tags: [bootstrap-grid, frontend, russian]
 models: [sonnet, opus]

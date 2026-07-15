@@ -1,6 +1,6 @@
 ---
 name: framer-collaboration
-description: Collaboration with Framer. collaboration.
+description: "Collaboration with Framer. collaboration."
 category: design
 tags: [framer, collaboration, design, design]
 models: [gpt-4, claude-3]

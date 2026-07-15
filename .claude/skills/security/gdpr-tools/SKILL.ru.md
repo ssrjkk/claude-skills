@@ -1,6 +1,6 @@
 ---
 name: gdpr-tools
-description: Tools with GDPR. security tools.
+description: "Tools with GDPR. security tools."
 category: security
 tags: [gdpr-tools, security, russian]
 models: [sonnet, opus]

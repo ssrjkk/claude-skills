@@ -1,6 +1,6 @@
 ---
 name: valtio-store
-description: Store with Valtio. state store.
+description: "Store with Valtio. state store."
 category: frontend
 tags: [valtio-store, frontend, russian]
 models: [sonnet, opus]

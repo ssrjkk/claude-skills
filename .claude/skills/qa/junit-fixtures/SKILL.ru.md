@@ -1,6 +1,6 @@
 ---
 name: junit-fixtures
-description: Fixtures with JUnit. test fixtures.
+description: "Fixtures with JUnit. test fixtures."
 category: qa
 tags: [junit-fixtures, qa, russian]
 models: [sonnet, opus]

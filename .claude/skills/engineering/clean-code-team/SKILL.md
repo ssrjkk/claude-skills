@@ -1,6 +1,6 @@
 ---
 name: clean-code-team
-description: Team with Clean Code. team adoption.
+description: "Team with Clean Code. team adoption."
 category: engineering
 tags: [clean-code, team, engineering, engineering]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: linkerd-automation
-description: Automation for Linkerd: automation and scripting
+description: "Automation for Linkerd: automation and scripting"
 category: devops
 tags: [linkerd, automation, devops]
 models: [sonnet, opus]

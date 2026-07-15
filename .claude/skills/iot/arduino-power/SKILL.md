@@ -1,6 +1,6 @@
 ---
 name: arduino-power
-description: Power with Arduino. power management.
+description: "Power with Arduino. power management."
 category: iot
 tags: [arduino, power, iot, iot]
 models: [gpt-4, claude-3]

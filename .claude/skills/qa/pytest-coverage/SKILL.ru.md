@@ -1,6 +1,6 @@
 ---
 name: pytest-coverage
-description: Coverage with pytest. code coverage.
+description: "Coverage with pytest. code coverage."
 category: qa
 tags: [pytest-coverage, qa, russian]
 models: [sonnet, opus]

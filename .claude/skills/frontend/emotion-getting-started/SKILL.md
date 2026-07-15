@@ -1,6 +1,6 @@
 ---
 name: emotion-getting-started
-description: Getting Started for Emotion: initial setup and first steps
+description: "Getting Started for Emotion: initial setup and first steps"
 category: frontend
 tags: [emotion, getting-started, frontend]
 models: [sonnet, opus]

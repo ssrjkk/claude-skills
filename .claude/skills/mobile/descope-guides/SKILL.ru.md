@@ -1,6 +1,6 @@
 ---
 name: descope-guides
-description: Guides for Descope: how-to guides
+description: "Guides for Descope: how-to guides"
 category: mobile
 tags: [descope-guides, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: csharp-cli-tool
-description: CLI Tool with Csharp. building CLI tools.
+description: "CLI Tool with Csharp. building CLI tools."
 category: backend
 tags: [csharp, cli-tool, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: prefect-integration
-description: Integration with Prefect. connectors.
+description: "Integration with Prefect. connectors."
 category: data
 tags: [prefect-integration, data, russian]
 models: [sonnet, opus]

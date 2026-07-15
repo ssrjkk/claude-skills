@@ -1,6 +1,6 @@
 ---
 name: adonisjs-routing
-description: Routing with AdonisJS. HTTP routing.
+description: "Routing with AdonisJS. HTTP routing."
 category: backend
 tags: [adonisjs, routing, backend, backend]
 models: [gpt-4, claude-3]

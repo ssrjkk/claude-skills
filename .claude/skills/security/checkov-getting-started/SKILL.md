@@ -1,6 +1,6 @@
 ---
 name: checkov-getting-started
-description: Getting Started for Checkov: initial setup and first steps
+description: "Getting Started for Checkov: initial setup and first steps"
 category: security
 tags: [checkov, getting-started, security]
 models: [sonnet, opus]

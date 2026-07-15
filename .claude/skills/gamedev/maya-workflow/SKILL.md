@@ -1,6 +1,6 @@
 ---
 name: maya-workflow
-description: Workflow for Maya: workflow optimization
+description: "Workflow for Maya: workflow optimization"
 category: gamedev
 tags: [maya, workflow, gamedev]
 models: [sonnet, opus]

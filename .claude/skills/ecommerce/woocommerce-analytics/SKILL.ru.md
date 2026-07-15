@@ -1,6 +1,6 @@
 ---
 name: woocommerce-analytics
-description: Analytics with WooCommerce. analytics.
+description: "Analytics with WooCommerce. analytics."
 category: ecommerce
 tags: [woocommerce-analytics, ecommerce, russian]
 models: [sonnet, opus]

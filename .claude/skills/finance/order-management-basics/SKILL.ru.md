@@ -1,6 +1,6 @@
 ---
 name: order-management-basics
-description: Basics with OMS. fundamentals.
+description: "Basics with OMS. fundamentals."
 category: finance
 tags: [order-management-basics, finance, russian]
 models: [sonnet, opus]

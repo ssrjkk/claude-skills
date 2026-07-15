@@ -1,6 +1,6 @@
 ---
 name: recoil-actions
-description: Actions with Recoil. actions.
+description: "Actions with Recoil. actions."
 category: frontend
 tags: [recoil-actions, frontend, russian]
 models: [sonnet, opus]

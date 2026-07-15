@@ -1,6 +1,6 @@
 ---
 name: chakra-ui-typography
-description: Typography with Chakra UI. text styling.
+description: "Typography with Chakra UI. text styling."
 category: frontend
 tags: [chakra-ui, typography, frontend, css]
 models: [gpt-4, claude-3]

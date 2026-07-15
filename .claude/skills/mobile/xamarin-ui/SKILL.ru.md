@@ -1,6 +1,6 @@
 ---
 name: xamarin-ui
-description: UI with Xamarin. UI components.
+description: "UI with Xamarin. UI components."
 category: mobile
 tags: [xamarin-ui, mobile, russian]
 models: [sonnet, opus]

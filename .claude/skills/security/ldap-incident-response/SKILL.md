@@ -1,6 +1,6 @@
 ---
 name: ldap-incident-response
-description: Incident Response with LDAP. incident response.
+description: "Incident Response with LDAP. incident response."
 category: security
 tags: [ldap, incident-response, security, security]
 models: [gpt-4, claude-3]

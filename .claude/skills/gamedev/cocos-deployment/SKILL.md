@@ -1,6 +1,6 @@
 ---
 name: cocos-deployment
-description: Deployment for Cocos: deployment and release
+description: "Deployment for Cocos: deployment and release"
 category: gamedev
 tags: [cocos, deployment, gamedev]
 models: [sonnet, opus]

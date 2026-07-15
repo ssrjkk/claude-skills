@@ -1,6 +1,6 @@
 ---
 name: zod-best-practices
-description: Best Practices for Zod: best practices and patterns
+description: "Best Practices for Zod: best practices and patterns"
 category: frontend
 tags: [zod-best-practices, frontend, russian]
 models: [sonnet, opus]

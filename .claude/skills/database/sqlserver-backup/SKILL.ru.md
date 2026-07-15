@@ -1,6 +1,6 @@
 ---
 name: sqlserver-backup
-description: Backup with SQL Server. backup strategies.
+description: "Backup with SQL Server. backup strategies."
 category: database
 tags: [sqlserver-backup, database, russian]
 models: [sonnet, opus]

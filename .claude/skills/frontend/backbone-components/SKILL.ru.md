@@ -1,6 +1,6 @@
 ---
 name: backbone-components
-description: Components with Backbone. building components.
+description: "Components with Backbone. building components."
 category: frontend
 tags: [backbone-components, frontend, russian]
 models: [sonnet, opus]

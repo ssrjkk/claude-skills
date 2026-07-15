@@ -1,6 +1,6 @@
 ---
 name: pytorch-lightning-face-detection
-description: Face Detection with Pytorch Lightning. facial recognition.
+description: "Face Detection with Pytorch Lightning. facial recognition."
 category: ai
 tags: [pytorch-lightning-face-detection, ai, russian]
 models: [sonnet, opus]

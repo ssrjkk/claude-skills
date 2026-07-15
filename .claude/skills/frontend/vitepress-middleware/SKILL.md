@@ -1,6 +1,6 @@
 ---
 name: vitepress-middleware
-description: Middleware with VitePress. request middleware.
+description: "Middleware with VitePress. request middleware."
 category: frontend
 tags: [vitepress, middleware, frontend, meta-framework]
 models: [gpt-4, claude-3]

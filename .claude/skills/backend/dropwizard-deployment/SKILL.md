@@ -1,6 +1,6 @@
 ---
 name: dropwizard-deployment
-description: Deployment with Dropwizard. build.
+description: "Deployment with Dropwizard. build."
 category: backend
 tags: [dropwizard, deployment, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: less-code-splitting
-description: Code Splitting with Less. lazy loading.
+description: "Code Splitting with Less. lazy loading."
 category: frontend
 tags: [less-code-splitting, frontend, russian]
 models: [sonnet, opus]

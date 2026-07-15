@@ -1,6 +1,6 @@
 ---
 name: allure-best-practices
-description: Best Practices for Allure: best practices and patterns
+description: "Best Practices for Allure: best practices and patterns"
 category: qa
 tags: [allure, best-practices, qa]
 models: [sonnet, opus]

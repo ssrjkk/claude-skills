@@ -1,6 +1,6 @@
 ---
 name: purecss-dark-mode
-description: Dark Mode with Pure.css. dark theme.
+description: "Dark Mode with Pure.css. dark theme."
 category: frontend
 tags: [purecss-dark-mode, frontend, russian]
 models: [sonnet, opus]

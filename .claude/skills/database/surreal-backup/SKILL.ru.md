@@ -1,6 +1,6 @@
 ---
 name: surreal-backup
-description: Backup with SurrealDB. backup.
+description: "Backup with SurrealDB. backup."
 category: database
 tags: [surreal-backup, database, russian]
 models: [sonnet, opus]

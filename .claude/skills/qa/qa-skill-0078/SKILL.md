@@ -1,6 +1,6 @@
 ---
 name: qa-skill-0078
-description: qa specialized skill #0078 for qa development
+description: "qa specialized skill #0078 for qa development"
 category: qa
 tags: [qa, skill, 0078]
 models: [sonnet, opus]

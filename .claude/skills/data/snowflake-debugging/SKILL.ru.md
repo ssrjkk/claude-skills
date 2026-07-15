@@ -1,6 +1,6 @@
 ---
 name: snowflake-debugging
-description: Debugging for Snowflake: debugging and troubleshooting
+description: "Debugging for Snowflake: debugging and troubleshooting"
 category: data
 tags: [snowflake-debugging, data, russian]
 models: [sonnet, opus]

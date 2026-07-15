@@ -1,6 +1,6 @@
 ---
 name: arch-users
-description: Users with Arch Linux. user management.
+description: "Users with Arch Linux. user management."
 category: os-admin
 tags: [arch, users, os-admin, linux]
 models: [gpt-4, claude-3]

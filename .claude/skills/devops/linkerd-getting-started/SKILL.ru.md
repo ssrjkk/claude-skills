@@ -1,6 +1,6 @@
 ---
 name: linkerd-getting-started
-description: Getting Started for Linkerd: initial setup and first steps
+description: "Getting Started for Linkerd: initial setup and first steps"
 category: devops
 tags: [linkerd-getting-started, devops, russian]
 models: [sonnet, opus]

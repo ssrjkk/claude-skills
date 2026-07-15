@@ -1,6 +1,6 @@
 ---
 name: astro-api-routes
-description: API Routes with Astro. API endpoints.
+description: "API Routes with Astro. API endpoints."
 category: frontend
 tags: [astro, api-routes, frontend, meta-framework]
 models: [gpt-4, claude-3]

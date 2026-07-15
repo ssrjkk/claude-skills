@@ -1,6 +1,6 @@
 ---
 name: loopback-auth
-description: Auth with LoopBack. JWT.
+description: "Auth with LoopBack. JWT."
 category: backend
 tags: [loopback-auth, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: live-activity-intro
-description: Intro for Live-Activity: introduction
+description: "Intro for Live-Activity: introduction"
 category: mobile
 tags: [live-activity, intro, mobile]
 models: [sonnet, opus]

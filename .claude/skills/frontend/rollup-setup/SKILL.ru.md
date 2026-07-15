@@ -1,6 +1,6 @@
 ---
 name: rollup-setup
-description: Setup with Rollup. initial setup.
+description: "Setup with Rollup. initial setup."
 category: frontend
 tags: [rollup-setup, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: shiny-setup
-description: Setup with Shiny. installation.
+description: "Setup with Shiny. installation."
 category: data
 tags: [shiny-setup, data, russian]
 models: [sonnet, opus]

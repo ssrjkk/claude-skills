@@ -1,6 +1,6 @@
 ---
 name: tensorflow-api
-description: API for Tensorflow: API development and integration
+description: "API for Tensorflow: API development and integration"
 category: ai
 tags: [tensorflow-api, ai, russian]
 models: [sonnet, opus]

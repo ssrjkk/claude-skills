@@ -1,6 +1,6 @@
 ---
 name: scipy-dataframe
-description: DataFrame with SciPy. data manipulation.
+description: "DataFrame with SciPy. data manipulation."
 category: data
 tags: [scipy, dataframe, data, data-science]
 models: [gpt-4, claude-3]

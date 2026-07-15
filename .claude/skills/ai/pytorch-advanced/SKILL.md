@@ -1,6 +1,6 @@
 ---
 name: pytorch-advanced
-description: Advanced for Pytorch: advanced patterns and techniques
+description: "Advanced for Pytorch: advanced patterns and techniques"
 category: ai
 tags: [pytorch, advanced, ai]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: flyio-storage
-description: Storage with Fly.io. object storage.
+description: "Storage with Fly.io. object storage."
 category: devops
 tags: [flyio, storage, devops, cloud]
 models: [gpt-4, claude-3]

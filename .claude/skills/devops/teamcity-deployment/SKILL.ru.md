@@ -1,6 +1,6 @@
 ---
 name: teamcity-deployment
-description: Deployment with TeamCity. auto-deploy.
+description: "Deployment with TeamCity. auto-deploy."
 category: devops
 tags: [teamcity-deployment, devops, russian]
 models: [sonnet, opus]

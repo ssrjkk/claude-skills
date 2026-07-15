@@ -1,6 +1,6 @@
 ---
 name: aiohttp-websocket
-description: WebSocket with aiohttp. real-time.
+description: "WebSocket with aiohttp. real-time."
 category: backend
 tags: [aiohttp-websocket, backend, russian]
 models: [sonnet, opus]

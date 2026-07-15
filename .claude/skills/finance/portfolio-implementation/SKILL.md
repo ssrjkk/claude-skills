@@ -1,6 +1,6 @@
 ---
 name: portfolio-implementation
-description: Implementation with Portfolio Management. implementation.
+description: "Implementation with Portfolio Management. implementation."
 category: finance
 tags: [portfolio, implementation, finance, trading]
 models: [gpt-4, claude-3]

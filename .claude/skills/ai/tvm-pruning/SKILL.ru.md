@@ -1,6 +1,6 @@
 ---
 name: tvm-pruning
-description: Pruning with Tvm. model pruning.
+description: "Pruning with Tvm. model pruning."
 category: ai
 tags: [tvm-pruning, ai, russian]
 models: [sonnet, opus]

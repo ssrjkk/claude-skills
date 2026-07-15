@@ -1,6 +1,6 @@
 ---
 name: sqlalchemy-workflow
-description: Workflow for Sqlalchemy: workflow optimization
+description: "Workflow for Sqlalchemy: workflow optimization"
 category: backend
 tags: [sqlalchemy-workflow, backend, russian]
 models: [sonnet, opus]

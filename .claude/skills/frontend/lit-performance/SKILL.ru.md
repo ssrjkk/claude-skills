@@ -1,6 +1,6 @@
 ---
 name: lit-performance
-description: Performance with Lit. optimization.
+description: "Performance with Lit. optimization."
 category: frontend
 tags: [lit-performance, frontend, russian]
 models: [sonnet, opus]

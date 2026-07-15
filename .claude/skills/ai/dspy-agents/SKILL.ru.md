@@ -1,6 +1,6 @@
 ---
 name: dspy-agents
-description: Agents with Dspy. building agents.
+description: "Agents with Dspy. building agents."
 category: ai
 tags: [dspy-agents, ai, russian]
 models: [sonnet, opus]

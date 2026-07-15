@@ -1,6 +1,6 @@
 ---
 name: hadoop-streaming
-description: Streaming with Hadoop. real-time.
+description: "Streaming with Hadoop. real-time."
 category: data
 tags: [hadoop-streaming, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: deel-payroll
-description: Payroll with Deel. payroll.
+description: "Payroll with Deel. payroll."
 category: hr
 tags: [deel, payroll, hr, hr-tech]
 models: [gpt-4, claude-3]

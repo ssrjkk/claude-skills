@@ -1,6 +1,6 @@
 ---
 name: code-review-basics
-description: Basics with Code Review. fundamentals.
+description: "Basics with Code Review. fundamentals."
 category: engineering
 tags: [code-review-basics, engineering, russian]
 models: [sonnet, opus]

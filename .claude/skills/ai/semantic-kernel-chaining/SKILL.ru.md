@@ -1,6 +1,6 @@
 ---
 name: semantic-kernel-chaining
-description: Chaining with Semantic Kernel. multi-step workflows.
+description: "Chaining with Semantic Kernel. multi-step workflows."
 category: ai
 tags: [semantic-kernel-chaining, ai, russian]
 models: [sonnet, opus]

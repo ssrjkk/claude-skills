@@ -1,6 +1,6 @@
 ---
 name: pganalyze-guides
-description: Guides for Pganalyze: how-to guides
+description: "Guides for Pganalyze: how-to guides"
 category: database
 tags: [pganalyze-guides, database, russian]
 models: [sonnet, opus]

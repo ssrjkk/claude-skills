@@ -1,6 +1,6 @@
 ---
 name: containerd-compose
-description: Compose with containerd. multi-container.
+description: "Compose with containerd. multi-container."
 category: devops
 tags: [containerd-compose, devops, russian]
 models: [sonnet, opus]

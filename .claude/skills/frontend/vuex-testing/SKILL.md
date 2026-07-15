@@ -1,6 +1,6 @@
 ---
 name: vuex-testing
-description: Testing with Vuex. state testing.
+description: "Testing with Vuex. state testing."
 category: frontend
 tags: [vuex, testing, frontend, state-management]
 models: [gpt-4, claude-3]

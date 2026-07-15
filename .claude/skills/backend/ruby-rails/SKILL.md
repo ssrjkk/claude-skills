@@ -1,6 +1,6 @@
 ---
 name: ruby-rails
-description: Creates Ruby on Rails applications with ActiveRecord, MVC pattern, and RESTful routes. Use for rapid web application development.
+description: "Creates Ruby on Rails applications with ActiveRecord, MVC pattern, and RESTful routes. Use for rapid web application development."
 category: backend
 tags: [ruby, rails, active-record, mvc, backend]
 models: [sonnet, opus]

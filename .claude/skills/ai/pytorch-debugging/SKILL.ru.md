@@ -1,6 +1,6 @@
 ---
 name: pytorch-debugging
-description: Debugging for Pytorch: debugging and troubleshooting
+description: "Debugging for Pytorch: debugging and troubleshooting"
 category: ai
 tags: [pytorch-debugging, ai, russian]
 models: [sonnet, opus]

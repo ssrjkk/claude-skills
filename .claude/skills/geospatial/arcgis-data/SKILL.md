@@ -1,6 +1,6 @@
 ---
 name: arcgis-data
-description: Data with ArcGIS. geospatial data.
+description: "Data with ArcGIS. geospatial data."
 category: geospatial
 tags: [arcgis, data, geospatial, gis]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: csharp-async
-description: Async with Csharp. async operations.
+description: "Async with Csharp. async operations."
 category: backend
 tags: [csharp-async, backend, russian]
 models: [sonnet, opus]

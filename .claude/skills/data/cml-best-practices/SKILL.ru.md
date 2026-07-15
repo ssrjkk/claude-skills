@@ -1,6 +1,6 @@
 ---
 name: cml-best-practices
-description: Best Practices for Cml: best practices and patterns
+description: "Best Practices for Cml: best practices and patterns"
 category: data
 tags: [cml-best-practices, data, russian]
 models: [sonnet, opus]

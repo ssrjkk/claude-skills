@@ -1,6 +1,6 @@
 ---
 name: packer-setup
-description: Setup with Packer. installation.
+description: "Setup with Packer. installation."
 category: devops
 tags: [packer-setup, devops, russian]
 models: [sonnet, opus]

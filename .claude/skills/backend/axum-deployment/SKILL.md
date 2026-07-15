@@ -1,6 +1,6 @@
 ---
 name: axum-deployment
-description: Deployment with Axum. build.
+description: "Deployment with Axum. build."
 category: backend
 tags: [axum, deployment, backend, backend]
 models: [gpt-4, claude-3]

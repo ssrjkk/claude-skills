@@ -1,6 +1,6 @@
 ---
 name: paddle-setup
-description: Setup with Paddle. account setup.
+description: "Setup with Paddle. account setup."
 category: payments
 tags: [paddle-setup, payments, russian]
 models: [sonnet, opus]

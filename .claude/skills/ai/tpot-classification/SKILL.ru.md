@@ -1,6 +1,6 @@
 ---
 name: tpot-classification
-description: Classification with Tpot. building classifiers.
+description: "Classification with Tpot. building classifiers."
 category: ai
 tags: [tpot-classification, ai, russian]
 models: [sonnet, opus]

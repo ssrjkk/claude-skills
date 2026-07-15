@@ -1,6 +1,6 @@
 ---
 name: skopeo-networking
-description: Networking with Skopeo. container networks.
+description: "Networking with Skopeo. container networks."
 category: devops
 tags: [skopeo, networking, devops, container]
 models: [gpt-4, claude-3]

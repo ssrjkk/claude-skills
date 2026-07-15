@@ -1,6 +1,6 @@
 ---
 name: nightwatch-assertions
-description: Assertions with Nightwatch. assertions.
+description: "Assertions with Nightwatch. assertions."
 category: qa
 tags: [nightwatch-assertions, qa, russian]
 models: [sonnet, opus]

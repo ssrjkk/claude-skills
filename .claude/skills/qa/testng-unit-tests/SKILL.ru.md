@@ -1,6 +1,6 @@
 ---
 name: testng-unit-tests
-description: Unit Tests with TestNG. unit testing.
+description: "Unit Tests with TestNG. unit testing."
 category: qa
 tags: [testng-unit-tests, qa, russian]
 models: [sonnet, opus]

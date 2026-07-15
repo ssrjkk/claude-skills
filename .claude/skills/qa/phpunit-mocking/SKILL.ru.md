@@ -1,6 +1,6 @@
 ---
 name: phpunit-mocking
-description: Mocking with PHPUnit. mocks.
+description: "Mocking with PHPUnit. mocks."
 category: qa
 tags: [phpunit-mocking, qa, russian]
 models: [sonnet, opus]

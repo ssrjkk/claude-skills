@@ -1,6 +1,6 @@
 ---
 name: devops-skill-0214
-description: Specialized skill #0214 for devops development
+description: "Specialized skill #0214 for devops development"
 category: devops
 tags: [skill-0214, devops, russian]
 models: [sonnet, opus]

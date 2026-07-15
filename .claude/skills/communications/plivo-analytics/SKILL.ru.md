@@ -1,6 +1,6 @@
 ---
 name: plivo-analytics
-description: Analytics with Plivo. analytics.
+description: "Analytics with Plivo. analytics."
 category: communications
 tags: [plivo-analytics, communications, russian]
 models: [sonnet, opus]

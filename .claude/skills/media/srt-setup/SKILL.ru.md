@@ -1,6 +1,6 @@
 ---
 name: srt-setup
-description: Setup with SRT. setup.
+description: "Setup with SRT. setup."
 category: media
 tags: [srt-setup, media, russian]
 models: [sonnet, opus]

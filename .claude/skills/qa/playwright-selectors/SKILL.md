@@ -1,6 +1,6 @@
 ---
 name: playwright-selectors
-description: Selectors with Playwright. element selectors.
+description: "Selectors with Playwright. element selectors."
 category: qa
 tags: [playwright, selectors, qa, e2e]
 models: [gpt-4, claude-3]

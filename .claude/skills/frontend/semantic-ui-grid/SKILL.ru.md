@@ -1,6 +1,6 @@
 ---
 name: semantic-ui-grid
-description: Grid with Semantic UI. layout grids.
+description: "Grid with Semantic UI. layout grids."
 category: frontend
 tags: [semantic-ui-grid, frontend, russian]
 models: [sonnet, opus]

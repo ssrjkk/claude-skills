@@ -1,6 +1,6 @@
 ---
 name: aesprite-troubleshooting
-description: Troubleshooting for Aesprite: troubleshooting common issues
+description: "Troubleshooting for Aesprite: troubleshooting common issues"
 category: gamedev
 tags: [aesprite, troubleshooting, gamedev]
 models: [sonnet, opus]

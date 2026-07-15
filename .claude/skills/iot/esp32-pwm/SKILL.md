@@ -1,6 +1,6 @@
 ---
 name: esp32-pwm
-description: PWM with ESP32. PWM signals.
+description: "PWM with ESP32. PWM signals."
 category: iot
 tags: [esp32, pwm, iot, iot]
 models: [gpt-4, claude-3]

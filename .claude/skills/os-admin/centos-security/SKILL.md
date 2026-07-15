@@ -1,6 +1,6 @@
 ---
 name: centos-security
-description: Security with CentOS. hardening.
+description: "Security with CentOS. hardening."
 category: os-admin
 tags: [centos, security, os-admin, linux]
 models: [gpt-4, claude-3]

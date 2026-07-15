@@ -1,6 +1,6 @@
 ---
 name: radgame-tools-quickstart
-description: Quickstart for Radgame-Tools: quick start guide
+description: "Quickstart for Radgame-Tools: quick start guide"
 category: gamedev
 tags: [radgame-tools-quickstart, gamedev, russian]
 models: [sonnet, opus]

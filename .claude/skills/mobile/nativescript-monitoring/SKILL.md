@@ -1,6 +1,6 @@
 ---
 name: nativescript-monitoring
-description: Monitoring for Nativescript: monitoring and observability
+description: "Monitoring for Nativescript: monitoring and observability"
 category: mobile
 tags: [nativescript, monitoring, mobile]
 models: [sonnet, opus]

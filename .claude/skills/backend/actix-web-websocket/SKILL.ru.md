@@ -1,6 +1,6 @@
 ---
 name: actix-web-websocket
-description: WebSocket with Actix Web. real-time.
+description: "WebSocket with Actix Web. real-time."
 category: backend
 tags: [actix-web-websocket, backend, russian]
 models: [sonnet, opus]

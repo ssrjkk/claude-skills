@@ -1,6 +1,6 @@
 ---
 name: emr-reporting
-description: Reporting with EMR Systems. reports.
+description: "Reporting with EMR Systems. reports."
 category: healthcare
 tags: [emr, reporting, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

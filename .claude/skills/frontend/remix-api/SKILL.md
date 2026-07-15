@@ -1,6 +1,6 @@
 ---
 name: remix-api
-description: API for Remix: API development and integration
+description: "API for Remix: API development and integration"
 category: frontend
 tags: [remix, api, frontend]
 models: [sonnet, opus]

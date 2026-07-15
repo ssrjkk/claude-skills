@@ -1,6 +1,6 @@
 ---
 name: design-thinking-basics
-description: Basics with Design Thinking. fundamentals.
+description: "Basics with Design Thinking. fundamentals."
 category: product
 tags: [design-thinking, basics, product, product-framework]
 models: [gpt-4, claude-3]

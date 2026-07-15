@@ -1,6 +1,6 @@
 ---
 name: openai-setup
-description: Setup for Openai: installation and configuration
+description: "Setup for Openai: installation and configuration"
 category: ai
 tags: [openai, setup, ai]
 models: [sonnet, opus]

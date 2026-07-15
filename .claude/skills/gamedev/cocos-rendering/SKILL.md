@@ -1,6 +1,6 @@
 ---
 name: cocos-rendering
-description: Rendering with Cocos Creator. graphics.
+description: "Rendering with Cocos Creator. graphics."
 category: gamedev
 tags: [cocos, rendering, gamedev, game-engine]
 models: [gpt-4, claude-3]

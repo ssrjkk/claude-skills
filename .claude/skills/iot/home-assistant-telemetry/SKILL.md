@@ -1,6 +1,6 @@
 ---
 name: home-assistant-telemetry
-description: Telemetry with Home Assistant. data collection.
+description: "Telemetry with Home Assistant. data collection."
 category: iot
 tags: [home-assistant, telemetry, iot, iot-platform]
 models: [gpt-4, claude-3]

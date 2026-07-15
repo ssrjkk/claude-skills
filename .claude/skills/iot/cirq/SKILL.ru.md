@@ -1,6 +1,6 @@
 ---
 name: cirq
-description: Development with Cirq: tools and best practices
+description: "Development with Cirq: tools and best practices"
 category: iot
 tags: [cirq, iot, russian]
 models: [sonnet, opus]

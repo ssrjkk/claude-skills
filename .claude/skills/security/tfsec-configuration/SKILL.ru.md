@@ -1,6 +1,6 @@
 ---
 name: tfsec-configuration
-description: Configuration for Tfsec: configuration and setup
+description: "Configuration for Tfsec: configuration and setup"
 category: security
 tags: [tfsec-configuration, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: frontegg-quickstart
-description: Quickstart for Frontegg: quick start guide
+description: "Quickstart for Frontegg: quick start guide"
 category: mobile
 tags: [frontegg, quickstart, mobile]
 models: [sonnet, opus]

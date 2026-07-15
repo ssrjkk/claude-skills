@@ -1,6 +1,6 @@
 ---
 name: tensorflow-quantization
-description: Quantization with Tensorflow. model quantization.
+description: "Quantization with Tensorflow. model quantization."
 category: ai
 tags: [tensorflow, quantization, ai, deep-learning]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: kubernetes-rbac
-description: RBAC with Kubernetes. access control.
+description: "RBAC with Kubernetes. access control."
 category: devops
 tags: [kubernetes, rbac, devops, kubernetes]
 models: [gpt-4, claude-3]

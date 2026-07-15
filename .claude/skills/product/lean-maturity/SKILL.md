@@ -1,6 +1,6 @@
 ---
 name: lean-maturity
-description: Maturity with Lean. assessment.
+description: "Maturity with Lean. assessment."
 category: product
 tags: [lean, maturity, product, methodology]
 models: [gpt-4, claude-3]

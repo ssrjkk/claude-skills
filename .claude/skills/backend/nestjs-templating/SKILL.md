@@ -1,6 +1,6 @@
 ---
 name: nestjs-templating
-description: Templating with NestJS. Pug.
+description: "Templating with NestJS. Pug."
 category: backend
 tags: [nestjs, templating, backend, backend]
 models: [gpt-4, claude-3]

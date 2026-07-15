@@ -1,6 +1,6 @@
 ---
 name: arbitrum-tokens
-description: Tokens with Arbitrum. token standards.
+description: "Tokens with Arbitrum. token standards."
 category: blockchain
 tags: [arbitrum-tokens, blockchain, russian]
 models: [sonnet, opus]

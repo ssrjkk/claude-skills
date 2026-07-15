@@ -1,6 +1,6 @@
 ---
 name: nestjs
-description: Creates Node.js server-side applications with NestJS, modules, dependency injection, and decorators. Use for enterprise-grade Node.js APIs.
+description: "Creates Node.js server-side applications with NestJS, modules, dependency injection, and decorators. Use for enterprise-grade Node.js APIs."
 category: backend
 tags: [nestjs, backend, russian]
 models: [sonnet, opus]

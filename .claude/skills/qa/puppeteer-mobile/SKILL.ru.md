@@ -1,6 +1,6 @@
 ---
 name: puppeteer-mobile
-description: Mobile with Puppeteer. mobile testing.
+description: "Mobile with Puppeteer. mobile testing."
 category: qa
 tags: [puppeteer-mobile, qa, russian]
 models: [sonnet, opus]

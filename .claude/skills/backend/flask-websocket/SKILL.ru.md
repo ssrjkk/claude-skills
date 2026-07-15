@@ -1,6 +1,6 @@
 ---
 name: flask-websocket
-description: WebSocket with Flask. real-time.
+description: "WebSocket with Flask. real-time."
 category: backend
 tags: [flask-websocket, backend, russian]
 models: [sonnet, opus]

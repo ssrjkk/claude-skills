@@ -1,6 +1,6 @@
 ---
 name: itil-best-practices
-description: Best Practices with ITIL. practices.
+description: "Best Practices with ITIL. practices."
 category: product
 tags: [itil-best-practices, product, russian]
 models: [sonnet, opus]

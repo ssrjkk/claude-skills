@@ -1,6 +1,6 @@
 ---
 name: falcon-deployment
-description: Deployment with Falcon. production deploy.
+description: "Deployment with Falcon. production deploy."
 category: backend
 tags: [falcon-deployment, backend, russian]
 models: [sonnet, opus]

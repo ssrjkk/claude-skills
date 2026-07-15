@@ -1,6 +1,6 @@
 ---
 name: arm
-description: Development with Arm: tools and best practices
+description: "Development with Arm: tools and best practices"
 category: database
 tags: [arm, database, russian]
 models: [sonnet, opus]

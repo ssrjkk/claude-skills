@@ -1,6 +1,6 @@
 ---
 name: expo-basics
-description: Basics for Expo: fundamentals and core concepts
+description: "Basics for Expo: fundamentals and core concepts"
 category: mobile
 tags: [expo-basics, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gstreamer-analytics
-description: Analytics with GStreamer. analytics.
+description: "Analytics with GStreamer. analytics."
 category: media
 tags: [gstreamer-analytics, media, russian]
 models: [sonnet, opus]

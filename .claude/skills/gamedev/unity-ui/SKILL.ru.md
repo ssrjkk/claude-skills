@@ -1,6 +1,6 @@
 ---
 name: unity-ui
-description: UI with Unity. game UI.
+description: "UI with Unity. game UI."
 category: gamedev
 tags: [unity-ui, gamedev, russian]
 models: [sonnet, opus]

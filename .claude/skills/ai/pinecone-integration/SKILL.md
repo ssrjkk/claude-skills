@@ -1,6 +1,6 @@
 ---
 name: pinecone-integration
-description: Integration for Pinecone: integration with other tools
+description: "Integration for Pinecone: integration with other tools"
 category: ai
 tags: [pinecone, integration, ai]
 models: [sonnet, opus]

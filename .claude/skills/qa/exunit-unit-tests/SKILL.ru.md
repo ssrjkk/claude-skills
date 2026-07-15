@@ -1,6 +1,6 @@
 ---
 name: exunit-unit-tests
-description: Unit Tests with ExUnit. unit testing.
+description: "Unit Tests with ExUnit. unit testing."
 category: qa
 tags: [exunit-unit-tests, qa, russian]
 models: [sonnet, opus]

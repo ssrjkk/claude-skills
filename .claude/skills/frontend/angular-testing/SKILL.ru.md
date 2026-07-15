@@ -1,6 +1,6 @@
 ---
 name: angular-testing
-description: Testing with Angular. component testing.
+description: "Testing with Angular. component testing."
 category: frontend
 tags: [angular-testing, frontend, russian]
 models: [sonnet, opus]

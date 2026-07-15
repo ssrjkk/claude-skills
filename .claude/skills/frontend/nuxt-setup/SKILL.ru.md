@@ -1,6 +1,6 @@
 ---
 name: nuxt-setup
-description: Setup for Nuxt: installation and configuration
+description: "Setup for Nuxt: installation and configuration"
 category: frontend
 tags: [nuxt-setup, frontend, russian]
 models: [sonnet, opus]

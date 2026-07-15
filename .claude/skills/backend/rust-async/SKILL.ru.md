@@ -1,6 +1,6 @@
 ---
 name: rust-async
-description: Async with Rust. async operations.
+description: "Async with Rust. async operations."
 category: backend
 tags: [rust-async, backend, russian]
 models: [sonnet, opus]

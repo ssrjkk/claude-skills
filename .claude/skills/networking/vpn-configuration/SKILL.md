@@ -1,6 +1,6 @@
 ---
 name: vpn-configuration
-description: Config with VPN. setup.
+description: "Config with VPN. setup."
 category: networking
 tags: [vpn, configuration, networking, networking]
 models: [gpt-4, claude-3]

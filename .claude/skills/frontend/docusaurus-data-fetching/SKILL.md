@@ -1,6 +1,6 @@
 ---
 name: docusaurus-data-fetching
-description: Data Fetching with Docusaurus. data loading.
+description: "Data Fetching with Docusaurus. data loading."
 category: frontend
 tags: [docusaurus, data-fetching, frontend, meta-framework]
 models: [gpt-4, claude-3]

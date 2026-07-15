@@ -1,6 +1,6 @@
 ---
 name: tokenizers-summarization
-description: Summarization with Tokenizers. text summarization.
+description: "Summarization with Tokenizers. text summarization."
 category: ai
 tags: [tokenizers-summarization, ai, russian]
 models: [sonnet, opus]

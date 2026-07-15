@@ -1,6 +1,6 @@
 ---
 name: responder-middleware
-description: Middleware with Responder. middleware pipelines.
+description: "Middleware with Responder. middleware pipelines."
 category: backend
 tags: [responder, middleware, backend, backend]
 models: [gpt-4, claude-3]

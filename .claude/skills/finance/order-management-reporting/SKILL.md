@@ -1,6 +1,6 @@
 ---
 name: order-management-reporting
-description: Reporting with OMS. reports.
+description: "Reporting with OMS. reports."
 category: finance
 tags: [order-management, reporting, finance, trading]
 models: [gpt-4, claude-3]

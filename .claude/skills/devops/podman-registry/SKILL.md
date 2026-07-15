@@ -1,6 +1,6 @@
 ---
 name: podman-registry
-description: Registry with Podman. image registry.
+description: "Registry with Podman. image registry."
 category: devops
 tags: [podman, registry, devops, container]
 models: [gpt-4, claude-3]

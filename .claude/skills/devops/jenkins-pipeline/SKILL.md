@@ -1,6 +1,6 @@
 ---
 name: jenkins-pipeline
-description: Creates Jenkins pipeline scripts for CI/CD with declarative and scripted syntax support. Use for automation of builds and deployments.
+description: "Creates Jenkins pipeline scripts for CI/CD with declarative and scripted syntax support. Use for automation of builds and deployments."
 category: devops
 tags: [jenkins, pipeline, ci-cd, groovy, automation]
 models: [sonnet, opus]

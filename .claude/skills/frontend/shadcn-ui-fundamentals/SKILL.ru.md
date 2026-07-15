@@ -1,6 +1,6 @@
 ---
 name: shadcn-ui-fundamentals
-description: Fundamentals for Shadcn-Ui: core concepts
+description: "Fundamentals for Shadcn-Ui: core concepts"
 category: frontend
 tags: [shadcn-ui-fundamentals, frontend, russian]
 models: [sonnet, opus]

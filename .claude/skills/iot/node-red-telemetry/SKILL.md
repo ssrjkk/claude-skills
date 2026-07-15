@@ -1,6 +1,6 @@
 ---
 name: node-red-telemetry
-description: Telemetry with Node-RED. data collection.
+description: "Telemetry with Node-RED. data collection."
 category: iot
 tags: [node-red, telemetry, iot, iot-platform]
 models: [gpt-4, claude-3]

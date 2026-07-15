@@ -1,6 +1,6 @@
 ---
 name: stellar-nft
-description: NFT with Stellar. tokens.
+description: "NFT with Stellar. tokens."
 category: blockchain
 tags: [stellar, nft, blockchain, blockchain]
 models: [gpt-4, claude-3]

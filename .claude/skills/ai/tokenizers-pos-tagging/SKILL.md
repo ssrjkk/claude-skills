@@ -1,6 +1,6 @@
 ---
 name: tokenizers-pos-tagging
-description: POS Tagging with Tokenizers. POS tagging.
+description: "POS Tagging with Tokenizers. POS tagging."
 category: ai
 tags: [tokenizers, pos-tagging, ai, nlp]
 models: [gpt-4, claude-3]

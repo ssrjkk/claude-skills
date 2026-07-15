@@ -1,6 +1,6 @@
 ---
 name: user-research-analysis
-description: Analysis with User Research. data analysis.
+description: "Analysis with User Research. data analysis."
 category: design
 tags: [user-research-analysis, design, russian]
 models: [sonnet, opus]

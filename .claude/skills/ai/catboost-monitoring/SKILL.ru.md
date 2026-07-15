@@ -1,6 +1,6 @@
 ---
 name: catboost-monitoring
-description: Monitoring with Catboost. model monitoring.
+description: "Monitoring with Catboost. model monitoring."
 category: ai
 tags: [catboost-monitoring, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: write-effective-business-documentation
-description: Create clear, concise, and professional business documents and communications
+description: "Create clear, concise, and professional business documents and communications"
 category: communications
 tags: [writing, communication, documentation, business]
 models: [sonnet, opus]

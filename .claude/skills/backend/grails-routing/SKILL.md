@@ -1,6 +1,6 @@
 ---
 name: grails-routing
-description: Routing with Grails. HTTP routing.
+description: "Routing with Grails. HTTP routing."
 category: backend
 tags: [grails, routing, backend, backend]
 models: [gpt-4, claude-3]

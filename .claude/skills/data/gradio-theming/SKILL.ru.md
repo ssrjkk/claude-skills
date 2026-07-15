@@ -1,6 +1,6 @@
 ---
 name: gradio-theming
-description: Theming with Gradio. themes.
+description: "Theming with Gradio. themes."
 category: data
 tags: [gradio-theming, data, russian]
 models: [sonnet, opus]

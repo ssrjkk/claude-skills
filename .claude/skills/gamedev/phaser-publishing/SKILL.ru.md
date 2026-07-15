@@ -1,6 +1,6 @@
 ---
 name: phaser-publishing
-description: Publishing with Phaser. publishing.
+description: "Publishing with Phaser. publishing."
 category: gamedev
 tags: [phaser-publishing, gamedev, russian]
 models: [sonnet, opus]

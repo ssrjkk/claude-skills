@@ -1,6 +1,6 @@
 ---
 name: weaviate
-description: Deploys Weaviate vector database with hybrid search, modules, and GraphQL API.
+description: "Deploys Weaviate vector database with hybrid search, modules, and GraphQL API."
 category: ai
 tags: [weaviate, vector-database, search, graphql, ai]
 models: [sonnet, opus]

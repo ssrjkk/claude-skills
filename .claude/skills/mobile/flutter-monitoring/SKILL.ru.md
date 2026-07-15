@@ -1,6 +1,6 @@
 ---
 name: flutter-monitoring
-description: Monitoring for Flutter: monitoring and observability
+description: "Monitoring for Flutter: monitoring and observability"
 category: mobile
 tags: [flutter-monitoring, mobile, russian]
 models: [sonnet, opus]

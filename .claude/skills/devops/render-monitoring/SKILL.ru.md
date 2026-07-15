@@ -1,6 +1,6 @@
 ---
 name: render-monitoring
-description: Monitoring with Render. monitoring.
+description: "Monitoring with Render. monitoring."
 category: devops
 tags: [render-monitoring, devops, russian]
 models: [sonnet, opus]

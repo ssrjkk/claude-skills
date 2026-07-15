@@ -1,6 +1,6 @@
 ---
 name: ionic-push
-description: Push with Ionic. push notifications.
+description: "Push with Ionic. push notifications."
 category: mobile
 tags: [ionic-push, mobile, russian]
 models: [sonnet, opus]

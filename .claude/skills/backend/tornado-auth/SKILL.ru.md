@@ -1,6 +1,6 @@
 ---
 name: tornado-auth
-description: Authentication with Tornado. user auth.
+description: "Authentication with Tornado. user auth."
 category: backend
 tags: [tornado-auth, backend, russian]
 models: [sonnet, opus]

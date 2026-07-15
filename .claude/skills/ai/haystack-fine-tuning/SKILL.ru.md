@@ -1,6 +1,6 @@
 ---
 name: haystack-fine-tuning
-description: Fine-Tuning with Haystack. model customization.
+description: "Fine-Tuning with Haystack. model customization."
 category: ai
 tags: [haystack-fine-tuning, ai, russian]
 models: [sonnet, opus]

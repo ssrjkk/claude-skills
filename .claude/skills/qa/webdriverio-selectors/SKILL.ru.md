@@ -1,6 +1,6 @@
 ---
 name: webdriverio-selectors
-description: Selectors with WebdriverIO. element selectors.
+description: "Selectors with WebdriverIO. element selectors."
 category: qa
 tags: [webdriverio-selectors, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: xtensa-toolchain
-description: Toolchain with Xtensa. compiler.
+description: "Toolchain with Xtensa. compiler."
 category: embedded
 tags: [xtensa-toolchain, embedded, russian]
 models: [sonnet, opus]

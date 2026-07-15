@@ -1,6 +1,6 @@
 ---
 name: exunit-ci
-description: CI with ExUnit. CI integration.
+description: "CI with ExUnit. CI integration."
 category: qa
 tags: [exunit, ci, qa, testing]
 models: [gpt-4, claude-3]

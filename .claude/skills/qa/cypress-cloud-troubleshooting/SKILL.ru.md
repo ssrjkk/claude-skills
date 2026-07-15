@@ -1,6 +1,6 @@
 ---
 name: cypress-cloud-troubleshooting
-description: Troubleshooting for Cypress-Cloud: troubleshooting common issues
+description: "Troubleshooting for Cypress-Cloud: troubleshooting common issues"
 category: qa
 tags: [cypress-cloud-troubleshooting, qa, russian]
 models: [sonnet, opus]

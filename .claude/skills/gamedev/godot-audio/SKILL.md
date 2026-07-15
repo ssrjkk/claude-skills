@@ -1,6 +1,6 @@
 ---
 name: godot-audio
-description: Audio with Godot. audio.
+description: "Audio with Godot. audio."
 category: gamedev
 tags: [godot, audio, gamedev, game-engine]
 models: [gpt-4, claude-3]

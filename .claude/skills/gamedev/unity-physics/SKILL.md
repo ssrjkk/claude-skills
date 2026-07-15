@@ -1,6 +1,6 @@
 ---
 name: unity-physics
-description: Physics with Unity. physics.
+description: "Physics with Unity. physics."
 category: gamedev
 tags: [unity, physics, gamedev, game-engine]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: vpn-automation
-description: Automation with VPN. network automation.
+description: "Automation with VPN. network automation."
 category: networking
 tags: [vpn, automation, networking, networking]
 models: [gpt-4, claude-3]

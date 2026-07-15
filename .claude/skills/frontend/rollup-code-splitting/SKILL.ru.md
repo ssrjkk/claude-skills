@@ -1,6 +1,6 @@
 ---
 name: rollup-code-splitting
-description: Code Splitting with Rollup. lazy loading.
+description: "Code Splitting with Rollup. lazy loading."
 category: frontend
 tags: [rollup-code-splitting, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: level-design-implementation
-description: Implementation with Level Design. implementation.
+description: "Implementation with Level Design. implementation."
 category: gamedev
 tags: [level-design, implementation, gamedev, game-design]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: mbed-ble
-description: BLE with Mbed OS. Bluetooth.
+description: "BLE with Mbed OS. Bluetooth."
 category: iot
 tags: [mbed, ble, iot, iot]
 models: [gpt-4, claude-3]

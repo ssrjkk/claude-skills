@@ -1,6 +1,6 @@
 ---
 name: gpg-basics
-description: Basics for Gpg: fundamentals and core concepts
+description: "Basics for Gpg: fundamentals and core concepts"
 category: security
 tags: [gpg, basics, security]
 models: [sonnet, opus]

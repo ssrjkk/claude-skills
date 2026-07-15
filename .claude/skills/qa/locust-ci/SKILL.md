@@ -1,6 +1,6 @@
 ---
 name: locust-ci
-description: CI with Locust. CI integration.
+description: "CI with Locust. CI integration."
 category: qa
 tags: [locust, ci, qa, performance-testing]
 models: [gpt-4, claude-3]

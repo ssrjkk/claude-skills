@@ -1,6 +1,6 @@
 ---
 name: syncthing-usage
-description: Usage for Syncthing: usage reference
+description: "Usage for Syncthing: usage reference"
 category: data
 tags: [syncthing, usage, data]
 models: [sonnet, opus]

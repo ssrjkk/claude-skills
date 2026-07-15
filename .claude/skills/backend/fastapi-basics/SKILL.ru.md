@@ -1,6 +1,6 @@
 ---
 name: fastapi-basics
-description: Basics for Fastapi: fundamentals and core concepts
+description: "Basics for Fastapi: fundamentals and core concepts"
 category: backend
 tags: [fastapi-basics, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: keycloak-quickstart
-description: Quickstart for Keycloak: quick start guide
+description: "Quickstart for Keycloak: quick start guide"
 category: security
 tags: [keycloak, quickstart, security]
 models: [sonnet, opus]

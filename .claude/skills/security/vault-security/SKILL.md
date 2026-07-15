@@ -1,6 +1,6 @@
 ---
 name: vault-security
-description: Security for Vault: security best practices
+description: "Security for Vault: security best practices"
 category: security
 tags: [vault, security, security]
 models: [sonnet, opus]

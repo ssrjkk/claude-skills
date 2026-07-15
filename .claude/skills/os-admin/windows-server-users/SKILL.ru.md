@@ -1,6 +1,6 @@
 ---
 name: windows-server-users
-description: Users with Windows Server. user mgmt.
+description: "Users with Windows Server. user mgmt."
 category: os-admin
 tags: [windows-server-users, os-admin, russian]
 models: [sonnet, opus]

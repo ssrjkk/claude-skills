@@ -1,6 +1,6 @@
 ---
 name: mysql-migration
-description: Migration with MySQL. schema migrations.
+description: "Migration with MySQL. schema migrations."
 category: database
 tags: [mysql, migration, database, sql]
 models: [gpt-4, claude-3]

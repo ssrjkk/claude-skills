@@ -1,6 +1,6 @@
 ---
 name: celery-workflow
-description: Workflow for Celery: workflow optimization
+description: "Workflow for Celery: workflow optimization"
 category: backend
 tags: [celery, workflow, backend]
 models: [sonnet, opus]

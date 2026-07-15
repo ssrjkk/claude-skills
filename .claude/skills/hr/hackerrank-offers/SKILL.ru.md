@@ -1,6 +1,6 @@
 ---
 name: hackerrank-offers
-description: Offers with HackerRank. offer mgmt.
+description: "Offers with HackerRank. offer mgmt."
 category: hr
 tags: [hackerrank-offers, hr, russian]
 models: [sonnet, opus]

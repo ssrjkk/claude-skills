@@ -1,6 +1,6 @@
 ---
 name: grails-deployment
-description: Deployment with Grails. build.
+description: "Deployment with Grails. build."
 category: backend
 tags: [grails, deployment, backend, backend]
 models: [gpt-4, claude-3]

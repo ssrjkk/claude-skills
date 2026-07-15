@@ -1,6 +1,6 @@
 ---
 name: icd10-basics
-description: Basics with ICD-10. fundamentals.
+description: "Basics with ICD-10. fundamentals."
 category: healthcare
 tags: [icd10, basics, healthcare, healthcare]
 models: [gpt-4, claude-3]

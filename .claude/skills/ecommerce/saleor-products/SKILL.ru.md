@@ -1,6 +1,6 @@
 ---
 name: saleor-products
-description: Products with Saleor. product management.
+description: "Products with Saleor. product management."
 category: ecommerce
 tags: [saleor-products, ecommerce, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: polygon-nft
-description: NFT with Polygon. tokens.
+description: "NFT with Polygon. tokens."
 category: blockchain
 tags: [polygon, nft, blockchain, blockchain]
 models: [gpt-4, claude-3]

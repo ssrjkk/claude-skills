@@ -1,6 +1,6 @@
 ---
 name: pic-dma
-description: DMA with PIC. DMA.
+description: "DMA with PIC. DMA."
 category: embedded
 tags: [pic, dma, embedded, embedded-arch]
 models: [gpt-4, claude-3]

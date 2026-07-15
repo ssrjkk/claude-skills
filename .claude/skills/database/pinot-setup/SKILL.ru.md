@@ -1,6 +1,6 @@
 ---
 name: pinot-setup
-description: Setup with Apache Pinot. installation.
+description: "Setup with Apache Pinot. installation."
 category: database
 tags: [pinot-setup, database, russian]
 models: [sonnet, opus]

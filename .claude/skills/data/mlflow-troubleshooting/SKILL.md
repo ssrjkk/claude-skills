@@ -1,6 +1,6 @@
 ---
 name: mlflow-troubleshooting
-description: Troubleshooting for Mlflow: troubleshooting common issues
+description: "Troubleshooting for Mlflow: troubleshooting common issues"
 category: data
 tags: [mlflow, troubleshooting, data]
 models: [sonnet, opus]

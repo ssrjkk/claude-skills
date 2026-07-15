@@ -1,6 +1,6 @@
 ---
 name: uml-modeling
-description: Modeling with UML. system modeling.
+description: "Modeling with UML. system modeling."
 category: engineering
 tags: [uml, modeling, engineering, modeling]
 models: [gpt-4, claude-3]

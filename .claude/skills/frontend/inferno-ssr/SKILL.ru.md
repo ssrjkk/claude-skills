@@ -1,6 +1,6 @@
 ---
 name: inferno-ssr
-description: SSR with Inferno. server rendering.
+description: "SSR with Inferno. server rendering."
 category: frontend
 tags: [inferno-ssr, frontend, russian]
 models: [sonnet, opus]

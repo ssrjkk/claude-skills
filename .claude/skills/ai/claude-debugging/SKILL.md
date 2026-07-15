@@ -1,6 +1,6 @@
 ---
 name: claude-debugging
-description: Debugging for Claude: debugging and troubleshooting
+description: "Debugging for Claude: debugging and troubleshooting"
 category: ai
 tags: [claude, debugging, ai]
 models: [sonnet, opus]

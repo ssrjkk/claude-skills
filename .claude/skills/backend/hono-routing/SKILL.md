@@ -1,6 +1,6 @@
 ---
 name: hono-routing
-description: Routing with Hono. HTTP routing.
+description: "Routing with Hono. HTTP routing."
 category: backend
 tags: [hono, routing, backend, backend]
 models: [gpt-4, claude-3]

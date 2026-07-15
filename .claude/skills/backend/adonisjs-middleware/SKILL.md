@@ -1,6 +1,6 @@
 ---
 name: adonisjs-middleware
-description: Middleware with AdonisJS. request pipeline.
+description: "Middleware with AdonisJS. request pipeline."
 category: backend
 tags: [adonisjs, middleware, backend, backend]
 models: [gpt-4, claude-3]

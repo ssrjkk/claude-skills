@@ -1,6 +1,6 @@
 ---
 name: yugabyte-querying
-description: Querying with YugabyteDB. SQL queries.
+description: "Querying with YugabyteDB. SQL queries."
 category: database
 tags: [yugabyte-querying, database, russian]
 models: [sonnet, opus]

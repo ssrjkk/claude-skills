@@ -1,6 +1,6 @@
 ---
 name: web-push-intro
-description: Intro for Web-Push: introduction
+description: "Intro for Web-Push: introduction"
 category: frontend
 tags: [web-push-intro, frontend, russian]
 models: [sonnet, opus]

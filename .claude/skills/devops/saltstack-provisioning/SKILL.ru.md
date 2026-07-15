@@ -1,6 +1,6 @@
 ---
 name: saltstack-provisioning
-description: Provisioning with SaltStack. provisioning.
+description: "Provisioning with SaltStack. provisioning."
 category: devops
 tags: [saltstack-provisioning, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gke-monitoring
-description: Monitoring with Google GKE. monitoring.
+description: "Monitoring with Google GKE. monitoring."
 category: devops
 tags: [gke-monitoring, devops, russian]
 models: [sonnet, opus]

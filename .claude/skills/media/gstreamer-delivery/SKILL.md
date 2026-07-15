@@ -1,6 +1,6 @@
 ---
 name: gstreamer-delivery
-description: Delivery with GStreamer. delivery.
+description: "Delivery with GStreamer. delivery."
 category: media
 tags: [gstreamer, delivery, media, media-streaming]
 models: [gpt-4, claude-3]

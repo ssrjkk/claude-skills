@@ -1,6 +1,6 @@
 ---
 name: taipy-charts
-description: Charts with Taipy. charts.
+description: "Charts with Taipy. charts."
 category: data
 tags: [taipy, charts, data, data-apps]
 models: [gpt-4, claude-3]

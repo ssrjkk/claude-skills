@@ -1,6 +1,6 @@
 ---
 name: dwolla-setup
-description: Setup with Dwolla. account setup.
+description: "Setup with Dwolla. account setup."
 category: finance
 tags: [dwolla-setup, finance, russian]
 models: [sonnet, opus]

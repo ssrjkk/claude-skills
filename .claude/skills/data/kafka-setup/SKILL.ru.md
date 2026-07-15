@@ -1,6 +1,6 @@
 ---
 name: kafka-setup
-description: Setup with Kafka. installation.
+description: "Setup with Kafka. installation."
 category: data
 tags: [kafka-setup, data, russian]
 models: [sonnet, opus]

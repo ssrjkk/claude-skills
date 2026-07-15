@@ -1,6 +1,6 @@
 ---
 name: oculus-spatial
-description: Spatial with Oculus SDK. room mapping.
+description: "Spatial with Oculus SDK. room mapping."
 category: ar-vr
 tags: [oculus-spatial, ar-vr, russian]
 models: [sonnet, opus]

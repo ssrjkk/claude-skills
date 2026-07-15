@@ -1,6 +1,6 @@
 ---
 name: streamlit-deployment
-description: Deployment with Streamlit. deploy.
+description: "Deployment with Streamlit. deploy."
 category: data
 tags: [streamlit, deployment, data, data-apps]
 models: [gpt-4, claude-3]

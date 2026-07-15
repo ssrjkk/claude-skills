@@ -1,6 +1,6 @@
 ---
 name: sinatra-testing
-description: Testing with Sinatra. RSpec.
+description: "Testing with Sinatra. RSpec."
 category: backend
 tags: [sinatra-testing, backend, russian]
 models: [sonnet, opus]

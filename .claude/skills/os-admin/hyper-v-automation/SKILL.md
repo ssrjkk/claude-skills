@@ -1,6 +1,6 @@
 ---
 name: hyper-v-automation
-description: Automation with Hyper-V. PowerShell.
+description: "Automation with Hyper-V. PowerShell."
 category: os-admin
 tags: [hyper-v, automation, os-admin, windows]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: neon-best-practices
-description: Best Practices for Neon: best practices and patterns
+description: "Best Practices for Neon: best practices and patterns"
 category: database
 tags: [neon, best-practices, database]
 models: [sonnet, opus]

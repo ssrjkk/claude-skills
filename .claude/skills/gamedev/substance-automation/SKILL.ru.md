@@ -1,6 +1,6 @@
 ---
 name: substance-automation
-description: Automation for Substance: automation and scripting
+description: "Automation for Substance: automation and scripting"
 category: gamedev
 tags: [substance-automation, gamedev, russian]
 models: [sonnet, opus]

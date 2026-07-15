@@ -1,6 +1,6 @@
 ---
 name: zeroheight-components
-description: Components with Zeroheight. components.
+description: "Components with Zeroheight. components."
 category: design
 tags: [zeroheight-components, design, russian]
 models: [sonnet, opus]

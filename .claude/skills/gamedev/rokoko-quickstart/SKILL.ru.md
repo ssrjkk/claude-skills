@@ -1,6 +1,6 @@
 ---
 name: rokoko-quickstart
-description: Quickstart for Rokoko: quick start guide
+description: "Quickstart for Rokoko: quick start guide"
 category: gamedev
 tags: [rokoko-quickstart, gamedev, russian]
 models: [sonnet, opus]

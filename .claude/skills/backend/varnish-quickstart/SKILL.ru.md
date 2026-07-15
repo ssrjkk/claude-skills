@@ -1,6 +1,6 @@
 ---
 name: varnish-quickstart
-description: Quickstart for Varnish: quick start guide
+description: "Quickstart for Varnish: quick start guide"
 category: backend
 tags: [varnish-quickstart, backend, russian]
 models: [sonnet, opus]

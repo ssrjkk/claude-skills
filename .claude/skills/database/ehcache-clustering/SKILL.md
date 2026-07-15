@@ -1,6 +1,6 @@
 ---
 name: ehcache-clustering
-description: Clustering with Ehcache. cluster setup.
+description: "Clustering with Ehcache. cluster setup."
 category: database
 tags: [ehcache, clustering, database, caching]
 models: [gpt-4, claude-3]

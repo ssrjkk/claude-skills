@@ -1,6 +1,6 @@
 ---
 name: pusher-chat
-description: Chat with Pusher. chat.
+description: "Chat with Pusher. chat."
 category: communications
 tags: [pusher, chat, communications, communication-platform]
 models: [gpt-4, claude-3]

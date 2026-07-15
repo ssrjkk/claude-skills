@@ -1,6 +1,6 @@
 ---
 name: commercetools-setup
-description: Setup with commercetools. setup.
+description: "Setup with commercetools. setup."
 category: ecommerce
 tags: [commercetools, setup, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

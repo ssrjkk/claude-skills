@@ -1,6 +1,6 @@
 ---
 name: buildkite-pipeline
-description: Pipeline with Buildkite. pipeline creation.
+description: "Pipeline with Buildkite. pipeline creation."
 category: devops
 tags: [buildkite-pipeline, devops, russian]
 models: [sonnet, opus]

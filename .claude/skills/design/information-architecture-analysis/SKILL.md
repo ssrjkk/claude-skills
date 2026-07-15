@@ -1,6 +1,6 @@
 ---
 name: information-architecture-analysis
-description: Analysis with Information Architecture. data analysis.
+description: "Analysis with Information Architecture. data analysis."
 category: design
 tags: [information-architecture, analysis, design, ux-research]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: vendure-products
-description: Products with Vendure. product management.
+description: "Products with Vendure. product management."
 category: ecommerce
 tags: [vendure-products, ecommerce, russian]
 models: [sonnet, opus]

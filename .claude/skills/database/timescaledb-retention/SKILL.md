@@ -1,6 +1,6 @@
 ---
 name: timescaledb-retention
-description: Retention with TimescaleDB. data retention.
+description: "Retention with TimescaleDB. data retention."
 category: database
 tags: [timescaledb, retention, database, time-series]
 models: [gpt-4, claude-3]

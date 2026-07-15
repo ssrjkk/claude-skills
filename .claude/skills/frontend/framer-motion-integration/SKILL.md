@@ -1,6 +1,6 @@
 ---
 name: framer-motion-integration
-description: Integration for Framer-Motion: integration with other tools
+description: "Integration for Framer-Motion: integration with other tools"
 category: frontend
 tags: [framer-motion, integration, frontend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ses-video
-description: Video with Amazon SES. video calls.
+description: "Video with Amazon SES. video calls."
 category: communications
 tags: [ses-video, communications, russian]
 models: [sonnet, opus]

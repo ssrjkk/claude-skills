@@ -1,6 +1,6 @@
 ---
 name: oracle-monitoring
-description: Monitoring with Oracle. monitoring.
+description: "Monitoring with Oracle. monitoring."
 category: database
 tags: [oracle, monitoring, database, sql]
 models: [gpt-4, claude-3]

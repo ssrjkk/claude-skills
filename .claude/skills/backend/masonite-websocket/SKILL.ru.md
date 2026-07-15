@@ -1,6 +1,6 @@
 ---
 name: masonite-websocket
-description: WebSocket with Masonite. real-time.
+description: "WebSocket with Masonite. real-time."
 category: backend
 tags: [masonite-websocket, backend, russian]
 models: [sonnet, opus]

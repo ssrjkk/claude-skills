@@ -1,6 +1,6 @@
 ---
 name: suricata-integration
-description: Integration for Suricata: integration with other tools
+description: "Integration for Suricata: integration with other tools"
 category: security
 tags: [suricata, integration, security]
 models: [sonnet, opus]

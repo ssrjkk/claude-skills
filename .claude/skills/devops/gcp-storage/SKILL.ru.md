@@ -1,6 +1,6 @@
 ---
 name: gcp-storage
-description: Storage with GCP. object storage.
+description: "Storage with GCP. object storage."
 category: devops
 tags: [gcp-storage, devops, russian]
 models: [sonnet, opus]

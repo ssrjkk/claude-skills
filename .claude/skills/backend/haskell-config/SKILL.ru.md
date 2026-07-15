@@ -1,6 +1,6 @@
 ---
 name: haskell-config
-description: Configuration with Haskell. config management.
+description: "Configuration with Haskell. config management."
 category: backend
 tags: [haskell-config, backend, russian]
 models: [sonnet, opus]

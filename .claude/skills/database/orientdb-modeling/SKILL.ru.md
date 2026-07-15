@@ -1,6 +1,6 @@
 ---
 name: orientdb-modeling
-description: Modeling with OrientDB. graph modeling.
+description: "Modeling with OrientDB. graph modeling."
 category: database
 tags: [orientdb-modeling, database, russian]
 models: [sonnet, opus]

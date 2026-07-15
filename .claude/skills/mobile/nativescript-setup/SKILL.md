@@ -1,6 +1,6 @@
 ---
 name: nativescript-setup
-description: Setup with NativeScript. setup.
+description: "Setup with NativeScript. setup."
 category: mobile
 tags: [nativescript, setup, mobile, mobile]
 models: [gpt-4, claude-3]

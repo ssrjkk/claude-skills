@@ -1,6 +1,6 @@
 ---
 name: d3js-production
-description: Production for D3Js: production deployment
+description: "Production for D3Js: production deployment"
 category: frontend
 tags: [d3js-production, frontend, russian]
 models: [sonnet, opus]

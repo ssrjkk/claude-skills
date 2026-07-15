@@ -1,6 +1,6 @@
 ---
 name: self-hosted-fundamentals
-description: Fundamentals for Self-Hosted: core concepts
+description: "Fundamentals for Self-Hosted: core concepts"
 category: devops
 tags: [self-hosted, fundamentals, devops]
 models: [sonnet, opus]

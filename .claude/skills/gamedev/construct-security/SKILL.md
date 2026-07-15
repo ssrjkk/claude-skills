@@ -1,6 +1,6 @@
 ---
 name: construct-security
-description: Security for Construct: security best practices
+description: "Security for Construct: security best practices"
 category: gamedev
 tags: [construct, security, gamedev]
 models: [sonnet, opus]

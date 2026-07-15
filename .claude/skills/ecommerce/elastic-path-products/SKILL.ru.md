@@ -1,6 +1,6 @@
 ---
 name: elastic-path-products
-description: Products with Elastic Path. product API.
+description: "Products with Elastic Path. product API."
 category: ecommerce
 tags: [elastic-path-products, ecommerce, russian]
 models: [sonnet, opus]

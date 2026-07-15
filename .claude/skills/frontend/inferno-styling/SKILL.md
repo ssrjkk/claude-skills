@@ -1,6 +1,6 @@
 ---
 name: inferno-styling
-description: Styling with Inferno. component styling.
+description: "Styling with Inferno. component styling."
 category: frontend
 tags: [inferno, styling, frontend, frontend]
 models: [gpt-4, claude-3]

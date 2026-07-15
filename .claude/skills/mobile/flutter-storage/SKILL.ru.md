@@ -1,6 +1,6 @@
 ---
 name: flutter-storage
-description: Storage with Flutter. local storage.
+description: "Storage with Flutter. local storage."
 category: mobile
 tags: [flutter-storage, mobile, russian]
 models: [sonnet, opus]

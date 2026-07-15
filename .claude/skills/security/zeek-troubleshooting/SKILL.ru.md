@@ -1,6 +1,6 @@
 ---
 name: zeek-troubleshooting
-description: Troubleshooting for Zeek: troubleshooting common issues
+description: "Troubleshooting for Zeek: troubleshooting common issues"
 category: security
 tags: [zeek-troubleshooting, security, russian]
 models: [sonnet, opus]

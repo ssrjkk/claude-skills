@@ -1,6 +1,6 @@
 ---
 name: singlestore-best-practices
-description: Best Practices for Singlestore: best practices and patterns
+description: "Best Practices for Singlestore: best practices and patterns"
 category: database
 tags: [singlestore-best-practices, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cqrs-testing
-description: Testing with CQRS. testing the pattern.
+description: "Testing with CQRS. testing the pattern."
 category: backend
 tags: [cqrs-testing, backend, russian]
 models: [sonnet, opus]

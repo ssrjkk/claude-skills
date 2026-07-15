@@ -1,6 +1,6 @@
 ---
 name: kpt-quickstart
-description: Quickstart for Kpt: quick start guide
+description: "Quickstart for Kpt: quick start guide"
 category: devops
 tags: [kpt-quickstart, devops, russian]
 models: [sonnet, opus]

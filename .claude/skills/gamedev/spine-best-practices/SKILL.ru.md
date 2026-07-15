@@ -1,6 +1,6 @@
 ---
 name: spine-best-practices
-description: Best Practices for Spine: best practices and patterns
+description: "Best Practices for Spine: best practices and patterns"
 category: gamedev
 tags: [spine-best-practices, gamedev, russian]
 models: [sonnet, opus]

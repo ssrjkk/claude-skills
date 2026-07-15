@@ -1,6 +1,6 @@
 ---
 name: tokenizers-lemmatization
-description: Lemmatization with Tokenizers. word lemmatization.
+description: "Lemmatization with Tokenizers. word lemmatization."
 category: ai
 tags: [tokenizers-lemmatization, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: browserstack-troubleshooting
-description: Troubleshooting for Browserstack: troubleshooting common issues
+description: "Troubleshooting for Browserstack: troubleshooting common issues"
 category: qa
 tags: [browserstack, troubleshooting, qa]
 models: [sonnet, opus]

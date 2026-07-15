@@ -1,6 +1,6 @@
 ---
 name: zuora-compliance
-description: Compliance with Zuora. tax compliance.
+description: "Compliance with Zuora. tax compliance."
 category: payments
 tags: [zuora, compliance, payments, billing]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: planetscale-troubleshooting
-description: Troubleshooting for Planetscale: troubleshooting common issues
+description: "Troubleshooting for Planetscale: troubleshooting common issues"
 category: database
 tags: [planetscale-troubleshooting, database, russian]
 models: [sonnet, opus]

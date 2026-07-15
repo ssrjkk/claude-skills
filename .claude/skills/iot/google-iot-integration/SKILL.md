@@ -1,6 +1,6 @@
 ---
 name: google-iot-integration
-description: Integration with Google IoT. integrations.
+description: "Integration with Google IoT. integrations."
 category: iot
 tags: [google-iot, integration, iot, iot-platform]
 models: [gpt-4, claude-3]

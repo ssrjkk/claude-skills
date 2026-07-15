@@ -1,6 +1,6 @@
 ---
 name: pinot-compression
-description: Compression with Apache Pinot. compression.
+description: "Compression with Apache Pinot. compression."
 category: database
 tags: [pinot, compression, database, time-series]
 models: [gpt-4, claude-3]

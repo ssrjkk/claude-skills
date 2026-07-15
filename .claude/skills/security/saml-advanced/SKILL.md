@@ -1,6 +1,6 @@
 ---
 name: saml-advanced
-description: Advanced for Saml: advanced patterns and techniques
+description: "Advanced for Saml: advanced patterns and techniques"
 category: security
 tags: [saml, advanced, security]
 models: [sonnet, opus]

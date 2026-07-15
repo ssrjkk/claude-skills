@@ -1,6 +1,6 @@
 ---
 name: market-data-reporting
-description: Reporting with Market Data. reports.
+description: "Reporting with Market Data. reports."
 category: finance
 tags: [market-data-reporting, finance, russian]
 models: [sonnet, opus]

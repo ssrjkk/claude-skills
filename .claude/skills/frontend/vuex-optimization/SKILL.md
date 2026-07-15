@@ -1,6 +1,6 @@
 ---
 name: vuex-optimization
-description: Optimization with Vuex. performance.
+description: "Optimization with Vuex. performance."
 category: frontend
 tags: [vuex, optimization, frontend, state-management]
 models: [gpt-4, claude-3]

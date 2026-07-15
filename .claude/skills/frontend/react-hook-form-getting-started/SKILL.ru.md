@@ -1,6 +1,6 @@
 ---
 name: react-hook-form-getting-started
-description: Getting Started for React-Hook-Form: initial setup and first steps
+description: "Getting Started for React-Hook-Form: initial setup and first steps"
 category: frontend
 tags: [react-hook-form-getting-started, frontend, russian]
 models: [sonnet, opus]

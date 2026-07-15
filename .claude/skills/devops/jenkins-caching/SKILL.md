@@ -1,6 +1,6 @@
 ---
 name: jenkins-caching
-description: Caching with Jenkins. dependency caching.
+description: "Caching with Jenkins. dependency caching."
 category: devops
 tags: [jenkins, caching, devops, ci-cd]
 models: [gpt-4, claude-3]

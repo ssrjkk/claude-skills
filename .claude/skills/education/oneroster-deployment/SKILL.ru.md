@@ -1,6 +1,6 @@
 ---
 name: oneroster-deployment
-description: Deployment with OneRoster. deployment.
+description: "Deployment with OneRoster. deployment."
 category: education
 tags: [oneroster-deployment, education, russian]
 models: [sonnet, opus]

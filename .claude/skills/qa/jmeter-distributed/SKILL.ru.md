@@ -1,6 +1,6 @@
 ---
 name: jmeter-distributed
-description: Distributed with JMeter. distributed load.
+description: "Distributed with JMeter. distributed load."
 category: qa
 tags: [jmeter-distributed, qa, russian]
 models: [sonnet, opus]

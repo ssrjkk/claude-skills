@@ -1,6 +1,6 @@
 ---
 name: active-directory-users
-description: Users with Active Directory. user mgmt.
+description: "Users with Active Directory. user mgmt."
 category: os-admin
 tags: [active-directory, users, os-admin, windows]
 models: [gpt-4, claude-3]

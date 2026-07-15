@@ -1,6 +1,6 @@
 ---
 name: janusgraph-clustering
-description: Clustering with JanusGraph. clustering.
+description: "Clustering with JanusGraph. clustering."
 category: database
 tags: [janusgraph, clustering, database, graph-database]
 models: [gpt-4, claude-3]

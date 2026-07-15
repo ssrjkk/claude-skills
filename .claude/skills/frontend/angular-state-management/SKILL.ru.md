@@ -1,6 +1,6 @@
 ---
 name: angular-state-management
-description: State Management with Angular. state handling.
+description: "State Management with Angular. state handling."
 category: frontend
 tags: [angular-state-management, frontend, russian]
 models: [sonnet, opus]

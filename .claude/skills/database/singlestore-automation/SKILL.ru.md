@@ -1,6 +1,6 @@
 ---
 name: singlestore-automation
-description: Automation for Singlestore: automation and scripting
+description: "Automation for Singlestore: automation and scripting"
 category: database
 tags: [singlestore-automation, database, russian]
 models: [sonnet, opus]

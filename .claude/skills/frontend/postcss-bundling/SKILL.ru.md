@@ -1,6 +1,6 @@
 ---
 name: postcss-bundling
-description: Bundling with PostCSS. code bundling.
+description: "Bundling with PostCSS. code bundling."
 category: frontend
 tags: [postcss-bundling, frontend, russian]
 models: [sonnet, opus]

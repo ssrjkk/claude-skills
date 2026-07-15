@@ -1,6 +1,6 @@
 ---
 name: adobe-xd-setup
-description: Setup with Adobe XD. workspace.
+description: "Setup with Adobe XD. workspace."
 category: design
 tags: [adobe-xd-setup, design, russian]
 models: [sonnet, opus]

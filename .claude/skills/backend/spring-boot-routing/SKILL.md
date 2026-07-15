@@ -1,6 +1,6 @@
 ---
 name: spring-boot-routing
-description: Routing with Spring Boot. HTTP routing.
+description: "Routing with Spring Boot. HTTP routing."
 category: backend
 tags: [spring-boot, routing, backend, backend]
 models: [gpt-4, claude-3]

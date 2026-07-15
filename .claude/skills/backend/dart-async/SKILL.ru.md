@@ -1,6 +1,6 @@
 ---
 name: dart-async
-description: Async with Dart. async operations.
+description: "Async with Dart. async operations."
 category: backend
 tags: [dart-async, backend, russian]
 models: [sonnet, opus]

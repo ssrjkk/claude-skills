@@ -1,6 +1,6 @@
 ---
 name: prince2-maturity
-description: Maturity with PRINCE2. assessment.
+description: "Maturity with PRINCE2. assessment."
 category: product
 tags: [prince2-maturity, product, russian]
 models: [sonnet, opus]

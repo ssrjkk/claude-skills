@@ -1,6 +1,6 @@
 ---
 name: rest-assured-examples
-description: Examples for Rest-Assured: practical examples
+description: "Examples for Rest-Assured: practical examples"
 category: qa
 tags: [rest-assured-examples, qa, russian]
 models: [sonnet, opus]

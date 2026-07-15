@@ -1,6 +1,6 @@
 ---
 name: cilium-production
-description: Production for Cilium: production deployment
+description: "Production for Cilium: production deployment"
 category: devops
 tags: [cilium-production, devops, russian]
 models: [sonnet, opus]

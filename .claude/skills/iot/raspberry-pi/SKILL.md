@@ -1,6 +1,6 @@
 ---
 name: raspberry-pi
-description: Configures and deploys applications on Raspberry Pi, including GPIO, camera, and headless setup.
+description: "Configures and deploys applications on Raspberry Pi, including GPIO, camera, and headless setup."
 category: iot
 tags: [raspberry-pi, gpio, python, embedded, linux]
 models: [sonnet, opus]

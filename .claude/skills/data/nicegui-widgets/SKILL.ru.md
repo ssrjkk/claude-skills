@@ -1,6 +1,6 @@
 ---
 name: nicegui-widgets
-description: Widgets with NiceGUI. input widgets.
+description: "Widgets with NiceGUI. input widgets."
 category: data
 tags: [nicegui-widgets, data, russian]
 models: [sonnet, opus]

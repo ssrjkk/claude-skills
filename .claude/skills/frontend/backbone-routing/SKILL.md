@@ -1,6 +1,6 @@
 ---
 name: backbone-routing
-description: Routing with Backbone. client routing.
+description: "Routing with Backbone. client routing."
 category: frontend
 tags: [backbone, routing, frontend, frontend]
 models: [gpt-4, claude-3]

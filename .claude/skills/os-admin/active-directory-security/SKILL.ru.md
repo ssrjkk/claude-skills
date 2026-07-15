@@ -1,6 +1,6 @@
 ---
 name: active-directory-security
-description: Security with Active Directory. security.
+description: "Security with Active Directory. security."
 category: os-admin
 tags: [active-directory-security, os-admin, russian]
 models: [sonnet, opus]

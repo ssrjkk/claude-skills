@@ -1,6 +1,6 @@
 ---
 name: crystal-orm
-description: ORM with Crystal. database access.
+description: "ORM with Crystal. database access."
 category: backend
 tags: [crystal-orm, backend, russian]
 models: [sonnet, opus]

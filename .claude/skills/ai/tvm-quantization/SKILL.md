@@ -1,6 +1,6 @@
 ---
 name: tvm-quantization
-description: Quantization with Tvm. model quantization.
+description: "Quantization with Tvm. model quantization."
 category: ai
 tags: [tvm, quantization, ai, deep-learning]
 models: [gpt-4, claude-3]

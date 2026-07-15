@@ -1,6 +1,6 @@
 ---
 name: material-ui-utilities
-description: Utilities with MUI. utility classes.
+description: "Utilities with MUI. utility classes."
 category: frontend
 tags: [material-ui-utilities, frontend, russian]
 models: [sonnet, opus]

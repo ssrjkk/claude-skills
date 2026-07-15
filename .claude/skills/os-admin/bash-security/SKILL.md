@@ -1,6 +1,6 @@
 ---
 name: bash-security
-description: Security with Bash Scripting. hardening.
+description: "Security with Bash Scripting. hardening."
 category: os-admin
 tags: [bash, security, os-admin, linux]
 models: [gpt-4, claude-3]

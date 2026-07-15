@@ -1,6 +1,6 @@
 ---
 name: debian-processes
-description: Processes with Debian. process management.
+description: "Processes with Debian. process management."
 category: os-admin
 tags: [debian, processes, os-admin, linux]
 models: [gpt-4, claude-3]

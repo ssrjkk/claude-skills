@@ -1,6 +1,6 @@
 ---
 name: user-research-analysis
-description: Analysis with User Research. data analysis.
+description: "Analysis with User Research. data analysis."
 category: design
 tags: [user-research, analysis, design, ux-research]
 models: [gpt-4, claude-3]

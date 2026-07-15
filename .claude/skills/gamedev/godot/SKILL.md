@@ -1,6 +1,6 @@
 ---
 name: godot
-description: Develops 2D/3D games on Godot Engine with GDScript. Use for lightweight cross-platform games.
+description: "Develops 2D/3D games on Godot Engine with GDScript. Use for lightweight cross-platform games."
 category: gamedev
 tags: [godot, gdscript, game-dev, 2d, 3d, open-source]
 models: [sonnet, opus]

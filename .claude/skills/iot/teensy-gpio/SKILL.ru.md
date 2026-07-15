@@ -1,6 +1,6 @@
 ---
 name: teensy-gpio
-description: GPIO with Teensy. digital I/O.
+description: "GPIO with Teensy. digital I/O."
 category: iot
 tags: [teensy-gpio, iot, russian]
 models: [sonnet, opus]

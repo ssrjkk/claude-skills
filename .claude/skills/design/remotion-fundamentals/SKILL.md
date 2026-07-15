@@ -1,6 +1,6 @@
 ---
 name: remotion-fundamentals
-description: Fundamentals for Remotion: core concepts
+description: "Fundamentals for Remotion: core concepts"
 category: design
 tags: [remotion, fundamentals, design]
 models: [sonnet, opus]

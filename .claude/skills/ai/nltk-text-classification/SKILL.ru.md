@@ -1,6 +1,6 @@
 ---
 name: nltk-text-classification
-description: Text Classification with Nltk. document categorization.
+description: "Text Classification with Nltk. document categorization."
 category: ai
 tags: [nltk-text-classification, ai, russian]
 models: [sonnet, opus]

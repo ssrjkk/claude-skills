@@ -1,6 +1,6 @@
 ---
 name: kustomize-fundamentals
-description: Fundamentals for Kustomize: core concepts
+description: "Fundamentals for Kustomize: core concepts"
 category: devops
 tags: [kustomize-fundamentals, devops, russian]
 models: [sonnet, opus]

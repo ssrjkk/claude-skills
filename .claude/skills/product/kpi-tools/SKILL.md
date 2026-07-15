@@ -1,6 +1,6 @@
 ---
 name: kpi-tools
-description: Tools with KPIs. tools.
+description: "Tools with KPIs. tools."
 category: product
 tags: [kpi, tools, product, product-framework]
 models: [gpt-4, claude-3]

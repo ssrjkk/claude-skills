@@ -1,6 +1,6 @@
 ---
 name: strongdm-fundamentals
-description: Fundamentals for Strongdm: core concepts
+description: "Fundamentals for Strongdm: core concepts"
 category: security
 tags: [strongdm, fundamentals, security]
 models: [sonnet, opus]

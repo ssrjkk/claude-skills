@@ -1,6 +1,6 @@
 ---
 name: wind-energy-integration
-description: Integration with Wind Energy. grid integration.
+description: "Integration with Wind Energy. grid integration."
 category: energy
 tags: [wind-energy-integration, energy, russian]
 models: [sonnet, opus]

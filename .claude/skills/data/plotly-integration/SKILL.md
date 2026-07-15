@@ -1,6 +1,6 @@
 ---
 name: plotly-integration
-description: Integration with Plotly. data sources.
+description: "Integration with Plotly. data sources."
 category: data
 tags: [plotly, integration, data, data-science]
 models: [gpt-4, claude-3]

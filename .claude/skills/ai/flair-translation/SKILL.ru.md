@@ -1,6 +1,6 @@
 ---
 name: flair-translation
-description: Translation with Flair. machine translation.
+description: "Translation with Flair. machine translation."
 category: ai
 tags: [flair-translation, ai, russian]
 models: [sonnet, opus]

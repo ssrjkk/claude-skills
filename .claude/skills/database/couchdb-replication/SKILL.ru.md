@@ -1,6 +1,6 @@
 ---
 name: couchdb-replication
-description: Replication with CouchDB. replication.
+description: "Replication with CouchDB. replication."
 category: database
 tags: [couchdb-replication, database, russian]
 models: [sonnet, opus]

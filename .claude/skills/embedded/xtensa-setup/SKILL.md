@@ -1,6 +1,6 @@
 ---
 name: xtensa-setup
-description: Setup with Xtensa. toolchain.
+description: "Setup with Xtensa. toolchain."
 category: embedded
 tags: [xtensa, setup, embedded, embedded-arch]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: postgresql-querying
-description: Querying with PostgreSQL. SQL queries.
+description: "Querying with PostgreSQL. SQL queries."
 category: database
 tags: [postgresql-querying, database, russian]
 models: [sonnet, opus]

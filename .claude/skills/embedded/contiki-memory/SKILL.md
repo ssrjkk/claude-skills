@@ -1,6 +1,6 @@
 ---
 name: contiki-memory
-description: Memory with Contiki-NG. memory management.
+description: "Memory with Contiki-NG. memory management."
 category: embedded
 tags: [contiki, memory, embedded, rtos]
 models: [gpt-4, claude-3]

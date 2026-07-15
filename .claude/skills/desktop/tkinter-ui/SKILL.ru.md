@@ -1,6 +1,6 @@
 ---
 name: tkinter-ui
-description: UI with Tkinter. UI components.
+description: "UI with Tkinter. UI components."
 category: desktop
 tags: [tkinter-ui, desktop, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: leaflet-analysis
-description: Analysis with Leaflet. spatial analysis.
+description: "Analysis with Leaflet. spatial analysis."
 category: geospatial
 tags: [leaflet, analysis, geospatial, gis]
 models: [gpt-4, claude-3]

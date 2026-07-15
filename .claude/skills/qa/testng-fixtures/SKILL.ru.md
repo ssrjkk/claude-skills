@@ -1,6 +1,6 @@
 ---
 name: testng-fixtures
-description: Fixtures with TestNG. test fixtures.
+description: "Fixtures with TestNG. test fixtures."
 category: qa
 tags: [testng-fixtures, qa, russian]
 models: [sonnet, opus]

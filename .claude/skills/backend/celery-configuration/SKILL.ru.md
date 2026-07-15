@@ -1,6 +1,6 @@
 ---
 name: celery-configuration
-description: Configuration for Celery: configuration and setup
+description: "Configuration for Celery: configuration and setup"
 category: backend
 tags: [celery-configuration, backend, russian]
 models: [sonnet, opus]

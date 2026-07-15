@@ -1,6 +1,6 @@
 ---
 name: vonage-setup
-description: Setup with Vonage. account setup.
+description: "Setup with Vonage. account setup."
 category: communications
 tags: [vonage-setup, communications, russian]
 models: [sonnet, opus]

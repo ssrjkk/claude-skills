@@ -1,6 +1,6 @@
 ---
 name: aircrack-setup
-description: Setup with Aircrack-ng. installation.
+description: "Setup with Aircrack-ng. installation."
 category: security
 tags: [aircrack-setup, security, russian]
 models: [sonnet, opus]

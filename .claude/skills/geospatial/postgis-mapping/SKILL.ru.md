@@ -1,6 +1,6 @@
 ---
 name: postgis-mapping
-description: Mapping with PostGIS. mapping.
+description: "Mapping with PostGIS. mapping."
 category: geospatial
 tags: [postgis-mapping, geospatial, russian]
 models: [sonnet, opus]

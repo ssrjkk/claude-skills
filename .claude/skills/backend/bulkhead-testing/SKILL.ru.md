@@ -1,6 +1,6 @@
 ---
 name: bulkhead-testing
-description: Testing with Bulkhead. testing the pattern.
+description: "Testing with Bulkhead. testing the pattern."
 category: backend
 tags: [bulkhead-testing, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: smart-meter-analytics
-description: Analytics with Smart Metering. analytics.
+description: "Analytics with Smart Metering. analytics."
 category: energy
 tags: [smart-meter, analytics, energy, smart-grid]
 models: [gpt-4, claude-3]

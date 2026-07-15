@@ -1,6 +1,6 @@
 ---
 name: junit-unit-tests
-description: Unit Tests with JUnit. unit testing.
+description: "Unit Tests with JUnit. unit testing."
 category: qa
 tags: [junit, unit-tests, qa, testing]
 models: [gpt-4, claude-3]

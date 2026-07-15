@@ -1,6 +1,6 @@
 ---
 name: supabase-auth-guides
-description: Guides for Supabase-Auth: how-to guides
+description: "Guides for Supabase-Auth: how-to guides"
 category: mobile
 tags: [supabase-auth, guides, mobile]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: invision-collaboration
-description: Collaboration with InVision. collaboration.
+description: "Collaboration with InVision. collaboration."
 category: design
 tags: [invision, collaboration, design, design]
 models: [gpt-4, claude-3]

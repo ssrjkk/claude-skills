@@ -1,6 +1,6 @@
 ---
 name: teamcity-secrets
-description: Secrets with TeamCity. secret management.
+description: "Secrets with TeamCity. secret management."
 category: devops
 tags: [teamcity, secrets, devops, ci-cd]
 models: [gpt-4, claude-3]

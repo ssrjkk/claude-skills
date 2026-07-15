@@ -1,6 +1,6 @@
 ---
 name: chainer-optimization
-description: Optimization with Chainer. model optimization.
+description: "Optimization with Chainer. model optimization."
 category: ai
 tags: [chainer, optimization, ai, deep-learning]
 models: [gpt-4, claude-3]

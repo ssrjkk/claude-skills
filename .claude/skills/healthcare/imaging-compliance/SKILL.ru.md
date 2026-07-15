@@ -1,6 +1,6 @@
 ---
 name: imaging-compliance
-description: Compliance with PACS. compliance.
+description: "Compliance with PACS. compliance."
 category: healthcare
 tags: [imaging-compliance, healthcare, russian]
 models: [sonnet, opus]

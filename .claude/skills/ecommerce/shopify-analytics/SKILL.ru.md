@@ -1,6 +1,6 @@
 ---
 name: shopify-analytics
-description: Analytics with Shopify. analytics.
+description: "Analytics with Shopify. analytics."
 category: ecommerce
 tags: [shopify-analytics, ecommerce, russian]
 models: [sonnet, opus]

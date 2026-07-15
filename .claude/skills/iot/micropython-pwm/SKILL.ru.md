@@ -1,6 +1,6 @@
 ---
 name: micropython-pwm
-description: PWM with MicroPython. PWM signals.
+description: "PWM with MicroPython. PWM signals."
 category: iot
 tags: [micropython-pwm, iot, russian]
 models: [sonnet, opus]

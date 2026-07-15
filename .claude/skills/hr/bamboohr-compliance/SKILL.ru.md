@@ -1,6 +1,6 @@
 ---
 name: bamboohr-compliance
-description: Compliance with BambooHR. compliance.
+description: "Compliance with BambooHR. compliance."
 category: hr
 tags: [bamboohr-compliance, hr, russian]
 models: [sonnet, opus]

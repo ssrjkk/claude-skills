@@ -1,6 +1,6 @@
 ---
 name: ethereum-staking
-description: Staking with Ethereum. staking.
+description: "Staking with Ethereum. staking."
 category: blockchain
 tags: [ethereum, staking, blockchain, blockchain]
 models: [gpt-4, claude-3]

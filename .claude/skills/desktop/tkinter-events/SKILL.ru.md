@@ -1,6 +1,6 @@
 ---
 name: tkinter-events
-description: Events with Tkinter. event handling.
+description: "Events with Tkinter. event handling."
 category: desktop
 tags: [tkinter-events, desktop, russian]
 models: [sonnet, opus]

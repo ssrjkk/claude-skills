@@ -1,6 +1,6 @@
 ---
 name: slim-templating
-description: Templating with Slim. Blade.
+description: "Templating with Slim. Blade."
 category: backend
 tags: [slim, templating, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: flyio-networking
-description: Networking with Fly.io. VPC.
+description: "Networking with Fly.io. VPC."
 category: devops
 tags: [flyio-networking, devops, russian]
 models: [sonnet, opus]

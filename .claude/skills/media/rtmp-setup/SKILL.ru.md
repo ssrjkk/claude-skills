@@ -1,6 +1,6 @@
 ---
 name: rtmp-setup
-description: Setup with RTMP. setup.
+description: "Setup with RTMP. setup."
 category: media
 tags: [rtmp-setup, media, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: clickhouse-debugging
-description: Debugging for Clickhouse: debugging and troubleshooting
+description: "Debugging for Clickhouse: debugging and troubleshooting"
 category: database
 tags: [clickhouse, debugging, database]
 models: [sonnet, opus]

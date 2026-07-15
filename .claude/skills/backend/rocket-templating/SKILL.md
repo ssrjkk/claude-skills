@@ -1,6 +1,6 @@
 ---
 name: rocket-templating
-description: Templating with Rocket. templates.
+description: "Templating with Rocket. templates."
 category: backend
 tags: [rocket, templating, backend, backend]
 models: [gpt-4, claude-3]

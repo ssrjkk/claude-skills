@@ -1,6 +1,6 @@
 ---
 name: clang
-description: Development with Clang: tools and best practices
+description: "Development with Clang: tools and best practices"
 category: data
 tags: [clang, data, russian]
 models: [sonnet, opus]

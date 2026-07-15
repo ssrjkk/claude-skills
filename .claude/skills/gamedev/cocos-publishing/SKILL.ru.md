@@ -1,6 +1,6 @@
 ---
 name: cocos-publishing
-description: Publishing with Cocos Creator. publishing.
+description: "Publishing with Cocos Creator. publishing."
 category: gamedev
 tags: [cocos-publishing, gamedev, russian]
 models: [sonnet, opus]

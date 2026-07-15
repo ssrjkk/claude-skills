@@ -1,6 +1,6 @@
 ---
 name: langchain-testing
-description: Testing for Langchain: testing and validation
+description: "Testing for Langchain: testing and validation"
 category: ai
 tags: [langchain, testing, ai]
 models: [sonnet, opus]

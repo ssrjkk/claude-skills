@@ -1,6 +1,6 @@
 ---
 name: oculus-optimization
-description: Optimization with Oculus SDK. performance.
+description: "Optimization with Oculus SDK. performance."
 category: ar-vr
 tags: [oculus-optimization, ar-vr, russian]
 models: [sonnet, opus]

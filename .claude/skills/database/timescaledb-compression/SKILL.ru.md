@@ -1,6 +1,6 @@
 ---
 name: timescaledb-compression
-description: Compression with TimescaleDB. compression.
+description: "Compression with TimescaleDB. compression."
 category: database
 tags: [timescaledb-compression, database, russian]
 models: [sonnet, opus]

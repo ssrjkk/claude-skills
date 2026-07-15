@@ -1,6 +1,6 @@
 ---
 name: nicegui-deployment
-description: Deployment with NiceGUI. deploy.
+description: "Deployment with NiceGUI. deploy."
 category: data
 tags: [nicegui, deployment, data, data-apps]
 models: [gpt-4, claude-3]

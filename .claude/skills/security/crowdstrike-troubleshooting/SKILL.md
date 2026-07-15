@@ -1,6 +1,6 @@
 ---
 name: crowdstrike-troubleshooting
-description: Troubleshooting for Crowdstrike: troubleshooting common issues
+description: "Troubleshooting for Crowdstrike: troubleshooting common issues"
 category: security
 tags: [crowdstrike, troubleshooting, security]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: algolia-aggregations
-description: Aggregations with Algolia. bucket aggs.
+description: "Aggregations with Algolia. bucket aggs."
 category: database
 tags: [algolia-aggregations, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sveltekit-ssr
-description: SSR with SvelteKit. server rendering.
+description: "SSR with SvelteKit. server rendering."
 category: frontend
 tags: [sveltekit, ssr, frontend, meta-framework]
 models: [gpt-4, claude-3]

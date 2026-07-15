@@ -1,6 +1,6 @@
 ---
 name: sentence-transformers-sentiment
-description: Sentiment Analysis with Sentence Transformers. sentiment detection.
+description: "Sentiment Analysis with Sentence Transformers. sentiment detection."
 category: ai
 tags: [sentence-transformers, sentiment, ai, nlp]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: jetpack-compose-production
-description: Production for Jetpack-Compose: production deployment
+description: "Production for Jetpack-Compose: production deployment"
 category: mobile
 tags: [jetpack-compose-production, mobile, russian]
 models: [sonnet, opus]

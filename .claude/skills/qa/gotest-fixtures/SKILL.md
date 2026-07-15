@@ -1,6 +1,6 @@
 ---
 name: gotest-fixtures
-description: Fixtures with Go Test. test fixtures.
+description: "Fixtures with Go Test. test fixtures."
 category: qa
 tags: [gotest, fixtures, qa, testing]
 models: [gpt-4, claude-3]

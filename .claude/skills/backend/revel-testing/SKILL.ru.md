@@ -1,6 +1,6 @@
 ---
 name: revel-testing
-description: Testing with Revel. unit tests.
+description: "Testing with Revel. unit tests."
 category: backend
 tags: [revel-testing, backend, russian]
 models: [sonnet, opus]

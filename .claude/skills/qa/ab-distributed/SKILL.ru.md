@@ -1,6 +1,6 @@
 ---
 name: ab-distributed
-description: Distributed with Apache Bench. distributed load.
+description: "Distributed with Apache Bench. distributed load."
 category: qa
 tags: [ab-distributed, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ansible-modules
-description: Modules with Ansible. modules.
+description: "Modules with Ansible. modules."
 category: devops
 tags: [ansible-modules, devops, russian]
 models: [sonnet, opus]

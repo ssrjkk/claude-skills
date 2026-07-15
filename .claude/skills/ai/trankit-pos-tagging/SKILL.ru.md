@@ -1,6 +1,6 @@
 ---
 name: trankit-pos-tagging
-description: POS Tagging with Trankit. POS tagging.
+description: "POS Tagging with Trankit. POS tagging."
 category: ai
 tags: [trankit-pos-tagging, ai, russian]
 models: [sonnet, opus]

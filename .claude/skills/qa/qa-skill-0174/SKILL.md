@@ -1,6 +1,6 @@
 ---
 name: qa-skill-0174
-description: qa specialized skill #0174 for qa development
+description: "qa specialized skill #0174 for qa development"
 category: qa
 tags: [qa, skill, 0174]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: swift-web-framework
-description: Web Framework with Swift. web dev.
+description: "Web Framework with Swift. web dev."
 category: backend
 tags: [swift-web-framework, backend, russian]
 models: [sonnet, opus]

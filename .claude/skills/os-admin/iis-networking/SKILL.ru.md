@@ -1,6 +1,6 @@
 ---
 name: iis-networking
-description: Networking with IIS. network.
+description: "Networking with IIS. network."
 category: os-admin
 tags: [iis-networking, os-admin, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: supabase-best-practices
-description: Best Practices for Supabase: best practices and patterns
+description: "Best Practices for Supabase: best practices and patterns"
 category: database
 tags: [supabase, best-practices, database]
 models: [sonnet, opus]

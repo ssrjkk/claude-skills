@@ -1,6 +1,6 @@
 ---
 name: bulkhead-migration
-description: Migration with Bulkhead. adopting the pattern.
+description: "Migration with Bulkhead. adopting the pattern."
 category: backend
 tags: [bulkhead, migration, backend, architecture]
 models: [gpt-4, claude-3]

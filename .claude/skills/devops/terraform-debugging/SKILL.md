@@ -1,6 +1,6 @@
 ---
 name: terraform-debugging
-description: Debugging for Terraform: debugging and troubleshooting
+description: "Debugging for Terraform: debugging and troubleshooting"
 category: devops
 tags: [terraform, debugging, devops]
 models: [sonnet, opus]

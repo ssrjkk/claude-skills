@@ -1,6 +1,6 @@
 ---
 name: quarkus-monitoring
-description: Monitoring with Quarkus. metrics.
+description: "Monitoring with Quarkus. metrics."
 category: backend
 tags: [quarkus-monitoring, backend, russian]
 models: [sonnet, opus]

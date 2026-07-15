@@ -1,6 +1,6 @@
 ---
 name: medusa-customers
-description: Customers with Medusa. customer API.
+description: "Customers with Medusa. customer API."
 category: ecommerce
 tags: [medusa, customers, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

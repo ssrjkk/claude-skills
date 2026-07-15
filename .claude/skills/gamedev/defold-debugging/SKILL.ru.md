@@ -1,6 +1,6 @@
 ---
 name: defold-debugging
-description: Debugging for Defold: debugging and troubleshooting
+description: "Debugging for Defold: debugging and troubleshooting"
 category: gamedev
 tags: [defold-debugging, gamedev, russian]
 models: [sonnet, opus]

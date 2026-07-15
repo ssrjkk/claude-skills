@@ -1,6 +1,6 @@
 ---
 name: plasmic-fundamentals
-description: Fundamentals for Plasmic: core concepts
+description: "Fundamentals for Plasmic: core concepts"
 category: design
 tags: [plasmic-fundamentals, design, russian]
 models: [sonnet, opus]

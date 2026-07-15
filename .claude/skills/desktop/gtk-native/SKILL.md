@@ -1,6 +1,6 @@
 ---
 name: gtk-native
-description: Native with GTK. native APIs.
+description: "Native with GTK. native APIs."
 category: desktop
 tags: [gtk, native, desktop, desktop]
 models: [gpt-4, claude-3]

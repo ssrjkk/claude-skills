@@ -1,6 +1,6 @@
 ---
 name: crowdstrike-getting-started
-description: Getting Started for Crowdstrike: initial setup and first steps
+description: "Getting Started for Crowdstrike: initial setup and first steps"
 category: security
 tags: [crowdstrike, getting-started, security]
 models: [sonnet, opus]

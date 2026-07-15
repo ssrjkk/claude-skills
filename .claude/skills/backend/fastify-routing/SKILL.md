@@ -1,6 +1,6 @@
 ---
 name: fastify-routing
-description: Routing with Fastify. HTTP routing.
+description: "Routing with Fastify. HTTP routing."
 category: backend
 tags: [fastify, routing, backend, backend]
 models: [gpt-4, claude-3]

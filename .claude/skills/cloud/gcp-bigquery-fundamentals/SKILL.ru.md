@@ -1,6 +1,6 @@
 ---
 name: gcp-bigquery-fundamentals
-description: Fundamentals for Gcp-Bigquery: core concepts
+description: "Fundamentals for Gcp-Bigquery: core concepts"
 category: cloud
 tags: [gcp-bigquery-fundamentals, cloud, russian]
 models: [sonnet, opus]

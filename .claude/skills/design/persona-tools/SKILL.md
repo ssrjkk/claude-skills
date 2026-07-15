@@ -1,6 +1,6 @@
 ---
 name: persona-tools
-description: Tools with Personas. tools.
+description: "Tools with Personas. tools."
 category: design
 tags: [persona, tools, design, ux-research]
 models: [gpt-4, claude-3]

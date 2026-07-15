@@ -1,6 +1,6 @@
 ---
 name: foundation-forms
-description: Forms with Foundation. form styling.
+description: "Forms with Foundation. form styling."
 category: frontend
 tags: [foundation-forms, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cassandra-advanced
-description: Advanced for Cassandra: advanced patterns and techniques
+description: "Advanced for Cassandra: advanced patterns and techniques"
 category: database
 tags: [cassandra, advanced, database]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: render-storage
-description: Storage with Render. object storage.
+description: "Storage with Render. object storage."
 category: devops
 tags: [render-storage, devops, russian]
 models: [sonnet, opus]

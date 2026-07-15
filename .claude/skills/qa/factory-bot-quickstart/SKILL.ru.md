@@ -1,6 +1,6 @@
 ---
 name: factory-bot-quickstart
-description: Quickstart for Factory-Bot: quick start guide
+description: "Quickstart for Factory-Bot: quick start guide"
 category: qa
 tags: [factory-bot-quickstart, qa, russian]
 models: [sonnet, opus]

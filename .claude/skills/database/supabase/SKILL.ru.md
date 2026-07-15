@@ -1,6 +1,6 @@
 ---
 name: supabase
-description: Supabase backend-as-a-service
+description: "Supabase backend-as-a-service"
 category: database
 tags: [supabase, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: electron-ui
-description: UI with Electron. UI components.
+description: "UI with Electron. UI components."
 category: desktop
 tags: [electron, ui, desktop, desktop]
 models: [gpt-4, claude-3]

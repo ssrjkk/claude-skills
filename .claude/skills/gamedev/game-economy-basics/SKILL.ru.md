@@ -1,6 +1,6 @@
 ---
 name: game-economy-basics
-description: Basics with Game Economy. fundamentals.
+description: "Basics with Game Economy. fundamentals."
 category: gamedev
 tags: [game-economy-basics, gamedev, russian]
 models: [sonnet, opus]

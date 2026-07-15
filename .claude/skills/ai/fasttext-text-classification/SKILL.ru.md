@@ -1,6 +1,6 @@
 ---
 name: fasttext-text-classification
-description: Text Classification with Fasttext. document categorization.
+description: "Text Classification with Fasttext. document categorization."
 category: ai
 tags: [fasttext-text-classification, ai, russian]
 models: [sonnet, opus]

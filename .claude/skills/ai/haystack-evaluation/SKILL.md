@@ -1,6 +1,6 @@
 ---
 name: haystack-evaluation
-description: Evaluation with Haystack. LLM evaluation.
+description: "Evaluation with Haystack. LLM evaluation."
 category: ai
 tags: [haystack, evaluation, ai, llm]
 models: [gpt-4, claude-3]

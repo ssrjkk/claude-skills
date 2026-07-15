@@ -1,6 +1,6 @@
 ---
 name: wandb-automation
-description: Automation for Wandb: automation and scripting
+description: "Automation for Wandb: automation and scripting"
 category: data
 tags: [wandb, automation, data]
 models: [sonnet, opus]

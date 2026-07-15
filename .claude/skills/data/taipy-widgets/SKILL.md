@@ -1,6 +1,6 @@
 ---
 name: taipy-widgets
-description: Widgets with Taipy. input widgets.
+description: "Widgets with Taipy. input widgets."
 category: data
 tags: [taipy, widgets, data, data-apps]
 models: [gpt-4, claude-3]

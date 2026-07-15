@@ -1,6 +1,6 @@
 ---
 name: docker-compose-security
-description: Security with Docker Compose. container security.
+description: "Security with Docker Compose. container security."
 category: devops
 tags: [docker-compose, security, devops, container]
 models: [gpt-4, claude-3]

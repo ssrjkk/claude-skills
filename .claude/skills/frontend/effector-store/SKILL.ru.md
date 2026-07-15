@@ -1,6 +1,6 @@
 ---
 name: effector-store
-description: Store with Effector. state store.
+description: "Store with Effector. state store."
 category: frontend
 tags: [effector-store, frontend, russian]
 models: [sonnet, opus]

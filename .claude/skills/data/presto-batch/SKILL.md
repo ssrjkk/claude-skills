@@ -1,6 +1,6 @@
 ---
 name: presto-batch
-description: Batch with Presto. batch processing.
+description: "Batch with Presto. batch processing."
 category: data
 tags: [presto, batch, data, data-engineering]
 models: [gpt-4, claude-3]

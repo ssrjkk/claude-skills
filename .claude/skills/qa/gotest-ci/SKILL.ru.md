@@ -1,6 +1,6 @@
 ---
 name: gotest-ci
-description: CI with Go Test. CI integration.
+description: "CI with Go Test. CI integration."
 category: qa
 tags: [gotest-ci, qa, russian]
 models: [sonnet, opus]

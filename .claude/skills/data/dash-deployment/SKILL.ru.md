@@ -1,6 +1,6 @@
 ---
 name: dash-deployment
-description: Deployment with Dash. deploy.
+description: "Deployment with Dash. deploy."
 category: data
 tags: [dash-deployment, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: bulkhead-intro
-description: Introduction with Bulkhead. understanding the pattern.
+description: "Introduction with Bulkhead. understanding the pattern."
 category: backend
 tags: [bulkhead-intro, backend, russian]
 models: [sonnet, opus]

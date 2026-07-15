@@ -1,6 +1,6 @@
 ---
 name: thanos-storage
-description: Storage with Thanos. data retention.
+description: "Storage with Thanos. data retention."
 category: devops
 tags: [thanos, storage, devops, monitoring]
 models: [gpt-4, claude-3]

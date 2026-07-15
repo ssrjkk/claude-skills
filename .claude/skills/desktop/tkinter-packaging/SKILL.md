@@ -1,6 +1,6 @@
 ---
 name: tkinter-packaging
-description: Packaging with Tkinter. app packaging.
+description: "Packaging with Tkinter. app packaging."
 category: desktop
 tags: [tkinter, packaging, desktop, desktop]
 models: [gpt-4, claude-3]

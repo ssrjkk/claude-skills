@@ -1,6 +1,6 @@
 ---
 name: ehr-integration
-description: Integration with EHR Systems. system integration.
+description: "Integration with EHR Systems. system integration."
 category: healthcare
 tags: [ehr-integration, healthcare, russian]
 models: [sonnet, opus]

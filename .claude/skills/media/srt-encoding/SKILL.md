@@ -1,6 +1,6 @@
 ---
 name: srt-encoding
-description: Encoding with SRT. encoding.
+description: "Encoding with SRT. encoding."
 category: media
 tags: [srt, encoding, media, media-streaming]
 models: [gpt-4, claude-3]

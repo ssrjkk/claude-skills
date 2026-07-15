@@ -1,6 +1,6 @@
 ---
 name: webdriverio-ci
-description: CI with WebdriverIO. CI integration.
+description: "CI with WebdriverIO. CI integration."
 category: qa
 tags: [webdriverio, ci, qa, e2e]
 models: [gpt-4, claude-3]

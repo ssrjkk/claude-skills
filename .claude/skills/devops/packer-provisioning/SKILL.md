@@ -1,6 +1,6 @@
 ---
 name: packer-provisioning
-description: Provisioning with Packer. provisioning.
+description: "Provisioning with Packer. provisioning."
 category: devops
 tags: [packer, provisioning, devops, iac]
 models: [gpt-4, claude-3]

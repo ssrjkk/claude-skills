@@ -1,6 +1,6 @@
 ---
 name: feathers-templating
-description: Templating with FeathersJS. Pug.
+description: "Templating with FeathersJS. Pug."
 category: backend
 tags: [feathers, templating, backend, backend]
 models: [gpt-4, claude-3]

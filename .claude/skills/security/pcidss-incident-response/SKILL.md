@@ -1,6 +1,6 @@
 ---
 name: pcidss-incident-response
-description: Incident Response with PCI DSS. incident response.
+description: "Incident Response with PCI DSS. incident response."
 category: security
 tags: [pcidss, incident-response, security, security]
 models: [gpt-4, claude-3]

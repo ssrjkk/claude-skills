@@ -1,6 +1,6 @@
 ---
 name: zephyr-timers
-description: Timers with Zephyr. software timers.
+description: "Timers with Zephyr. software timers."
 category: embedded
 tags: [zephyr-timers, embedded, russian]
 models: [sonnet, opus]

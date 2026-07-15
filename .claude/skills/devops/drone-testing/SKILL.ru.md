@@ -1,6 +1,6 @@
 ---
 name: drone-testing
-description: Testing with Drone CI. automated tests.
+description: "Testing with Drone CI. automated tests."
 category: devops
 tags: [drone-testing, devops, russian]
 models: [sonnet, opus]

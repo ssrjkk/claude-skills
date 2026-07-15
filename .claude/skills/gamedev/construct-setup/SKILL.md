@@ -1,6 +1,6 @@
 ---
 name: construct-setup
-description: Setup with Construct. engine setup.
+description: "Setup with Construct. engine setup."
 category: gamedev
 tags: [construct, setup, gamedev, game-engine]
 models: [gpt-4, claude-3]

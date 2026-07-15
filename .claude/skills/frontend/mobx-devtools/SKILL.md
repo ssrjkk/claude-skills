@@ -1,6 +1,6 @@
 ---
 name: mobx-devtools
-description: DevTools with MobX. debugging.
+description: "DevTools with MobX. debugging."
 category: frontend
 tags: [mobx, devtools, frontend, state-management]
 models: [gpt-4, claude-3]

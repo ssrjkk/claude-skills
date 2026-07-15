@@ -1,6 +1,6 @@
 ---
 name: netlify-cost
-description: Cost with Netlify. cost optimization.
+description: "Cost with Netlify. cost optimization."
 category: devops
 tags: [netlify, cost, devops, cloud]
 models: [gpt-4, claude-3]

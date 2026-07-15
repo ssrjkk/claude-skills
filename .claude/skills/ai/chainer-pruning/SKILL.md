@@ -1,6 +1,6 @@
 ---
 name: chainer-pruning
-description: Pruning with Chainer. model pruning.
+description: "Pruning with Chainer. model pruning."
 category: ai
 tags: [chainer, pruning, ai, deep-learning]
 models: [gpt-4, claude-3]

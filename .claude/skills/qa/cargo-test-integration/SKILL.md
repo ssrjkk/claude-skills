@@ -1,6 +1,6 @@
 ---
 name: cargo-test-integration
-description: Integration with Cargo Test. integration tests.
+description: "Integration with Cargo Test. integration tests."
 category: qa
 tags: [cargo-test, integration, qa, testing]
 models: [gpt-4, claude-3]

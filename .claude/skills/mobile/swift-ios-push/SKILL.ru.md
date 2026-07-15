@@ -1,6 +1,6 @@
 ---
 name: swift-ios-push
-description: Push with Swift iOS. push notifications.
+description: "Push with Swift iOS. push notifications."
 category: mobile
 tags: [swift-ios-push, mobile, russian]
 models: [sonnet, opus]

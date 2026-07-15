@@ -1,6 +1,6 @@
 ---
 name: design-and-deploy-aws-infrastructure-as-code
-description: Use Terraform or CloudFormation to define and deploy scalable AWS infrastructure
+description: "Use Terraform or CloudFormation to define and deploy scalable AWS infrastructure"
 category: devops
 tags: [design-and-deploy-aws-infrastructure-as-code, devops, russian]
 models: [sonnet, opus]

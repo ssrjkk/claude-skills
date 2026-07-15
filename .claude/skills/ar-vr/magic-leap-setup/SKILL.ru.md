@@ -1,6 +1,6 @@
 ---
 name: magic-leap-setup
-description: Setup with Magic Leap. SDK setup.
+description: "Setup with Magic Leap. SDK setup."
 category: ar-vr
 tags: [magic-leap-setup, ar-vr, russian]
 models: [sonnet, opus]

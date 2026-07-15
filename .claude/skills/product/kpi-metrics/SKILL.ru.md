@@ -1,6 +1,6 @@
 ---
 name: kpi-metrics
-description: Metrics with KPIs. measurement.
+description: "Metrics with KPIs. measurement."
 category: product
 tags: [kpi-metrics, product, russian]
 models: [sonnet, opus]

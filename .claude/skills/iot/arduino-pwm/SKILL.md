@@ -1,6 +1,6 @@
 ---
 name: arduino-pwm
-description: PWM with Arduino. PWM signals.
+description: "PWM with Arduino. PWM signals."
 category: iot
 tags: [arduino, pwm, iot, iot]
 models: [gpt-4, claude-3]

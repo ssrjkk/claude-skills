@@ -1,6 +1,6 @@
 ---
 name: scala-testing
-description: Testing with Scala. writing tests.
+description: "Testing with Scala. writing tests."
 category: backend
 tags: [scala-testing, backend, russian]
 models: [sonnet, opus]

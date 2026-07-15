@@ -1,6 +1,6 @@
 ---
 name: dbt-integration
-description: Integration with dbt. connectors.
+description: "Integration with dbt. connectors."
 category: data
 tags: [dbt-integration, data, russian]
 models: [sonnet, opus]

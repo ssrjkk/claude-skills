@@ -1,6 +1,6 @@
 ---
 name: srt-packaging
-description: Packaging with SRT. packaging.
+description: "Packaging with SRT. packaging."
 category: media
 tags: [srt, packaging, media, media-streaming]
 models: [gpt-4, claude-3]

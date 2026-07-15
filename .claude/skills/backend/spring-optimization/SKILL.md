@@ -1,6 +1,6 @@
 ---
 name: spring-optimization
-description: Optimization for Spring: performance tuning and optimization
+description: "Optimization for Spring: performance tuning and optimization"
 category: backend
 tags: [spring, optimization, backend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: oculus-audio
-description: Audio with Oculus SDK. spatial audio.
+description: "Audio with Oculus SDK. spatial audio."
 category: ar-vr
 tags: [oculus-audio, ar-vr, russian]
 models: [sonnet, opus]

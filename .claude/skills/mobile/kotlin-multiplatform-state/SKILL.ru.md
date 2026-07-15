@@ -1,6 +1,6 @@
 ---
 name: kotlin-multiplatform-state
-description: State with Kotlin Multiplatform. state management.
+description: "State with Kotlin Multiplatform. state management."
 category: mobile
 tags: [kotlin-multiplatform-state, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ant-design-responsive
-description: Responsive with Ant Design. mobile-first.
+description: "Responsive with Ant Design. mobile-first."
 category: frontend
 tags: [ant-design, responsive, frontend, css]
 models: [gpt-4, claude-3]

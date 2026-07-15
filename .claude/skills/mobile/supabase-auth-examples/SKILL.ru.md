@@ -1,6 +1,6 @@
 ---
 name: supabase-auth-examples
-description: Examples for Supabase-Auth: practical examples
+description: "Examples for Supabase-Auth: practical examples"
 category: mobile
 tags: [supabase-auth-examples, mobile, russian]
 models: [sonnet, opus]

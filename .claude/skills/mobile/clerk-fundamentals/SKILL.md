@@ -1,6 +1,6 @@
 ---
 name: clerk-fundamentals
-description: Fundamentals for Clerk: core concepts
+description: "Fundamentals for Clerk: core concepts"
 category: mobile
 tags: [clerk, fundamentals, mobile]
 models: [sonnet, opus]

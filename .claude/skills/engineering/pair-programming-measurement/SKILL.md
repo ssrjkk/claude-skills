@@ -1,6 +1,6 @@
 ---
 name: pair-programming-measurement
-description: Measurement with Pair Programming. metrics.
+description: "Measurement with Pair Programming. metrics."
 category: engineering
 tags: [pair-programming, measurement, engineering, engineering]
 models: [gpt-4, claude-3]

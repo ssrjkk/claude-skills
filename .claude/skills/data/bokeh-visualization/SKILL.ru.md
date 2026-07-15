@@ -1,6 +1,6 @@
 ---
 name: bokeh-visualization
-description: Visualization with Bokeh. charting.
+description: "Visualization with Bokeh. charting."
 category: data
 tags: [bokeh-visualization, data, russian]
 models: [sonnet, opus]

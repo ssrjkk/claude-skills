@@ -1,6 +1,6 @@
 ---
 name: api-design-measurement
-description: Measurement with API Design. metrics.
+description: "Measurement with API Design. metrics."
 category: engineering
 tags: [api-design-measurement, engineering, russian]
 models: [sonnet, opus]

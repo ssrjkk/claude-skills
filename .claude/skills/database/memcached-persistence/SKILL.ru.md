@@ -1,6 +1,6 @@
 ---
 name: memcached-persistence
-description: Persistence with Memcached. persistence.
+description: "Persistence with Memcached. persistence."
 category: database
 tags: [memcached-persistence, database, russian]
 models: [sonnet, opus]

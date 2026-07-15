@@ -1,6 +1,6 @@
 ---
 name: execution-strategy
-description: Strategy with Execution Systems. strategy dev.
+description: "Strategy with Execution Systems. strategy dev."
 category: finance
 tags: [execution, strategy, finance, trading]
 models: [gpt-4, claude-3]

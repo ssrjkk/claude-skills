@@ -1,6 +1,6 @@
 ---
 name: micronaut-database
-description: Database with Micronaut. DB access.
+description: "Database with Micronaut. DB access."
 category: backend
 tags: [micronaut-database, backend, russian]
 models: [sonnet, opus]

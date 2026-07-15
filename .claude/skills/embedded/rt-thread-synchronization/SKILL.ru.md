@@ -1,6 +1,6 @@
 ---
 name: rt-thread-synchronization
-description: Sync with RT-Thread. mutexes.
+description: "Sync with RT-Thread. mutexes."
 category: embedded
 tags: [rt-thread-synchronization, embedded, russian]
 models: [sonnet, opus]

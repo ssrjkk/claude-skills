@@ -1,6 +1,6 @@
 ---
 name: valgrind
-description: Development with Valgrind: tools and best practices
+description: "Development with Valgrind: tools and best practices"
 category: devops
 tags: [valgrind, devops, development]
 models: [sonnet, opus]

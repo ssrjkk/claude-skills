@@ -1,6 +1,6 @@
 ---
 name: jaeger-dashboards
-description: Dashboards with Jaeger. dashboards.
+description: "Dashboards with Jaeger. dashboards."
 category: devops
 tags: [jaeger, dashboards, devops, monitoring]
 models: [gpt-4, claude-3]

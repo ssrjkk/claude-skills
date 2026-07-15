@@ -1,6 +1,6 @@
 ---
 name: chef-networking
-description: Networking with Chef. network infra.
+description: "Networking with Chef. network infra."
 category: devops
 tags: [chef-networking, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: iptables-performance
-description: Performance with iptables/nftables. benchmarking.
+description: "Performance with iptables/nftables. benchmarking."
 category: networking
 tags: [iptables-performance, networking, russian]
 models: [sonnet, opus]

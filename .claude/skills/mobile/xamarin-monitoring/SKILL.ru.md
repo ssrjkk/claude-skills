@@ -1,6 +1,6 @@
 ---
 name: xamarin-monitoring
-description: Monitoring for Xamarin: monitoring and observability
+description: "Monitoring for Xamarin: monitoring and observability"
 category: mobile
 tags: [xamarin-monitoring, mobile, russian]
 models: [sonnet, opus]

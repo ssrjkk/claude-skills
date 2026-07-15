@@ -1,6 +1,6 @@
 ---
 name: numpy-optimization
-description: Optimization with NumPy. optimization.
+description: "Optimization with NumPy. optimization."
 category: scientific
 tags: [numpy-optimization, scientific, russian]
 models: [sonnet, opus]

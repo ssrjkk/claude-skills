@@ -1,6 +1,6 @@
 ---
 name: xray-automation
-description: Automation for Xray: automation and scripting
+description: "Automation for Xray: automation and scripting"
 category: qa
 tags: [xray, automation, qa]
 models: [sonnet, opus]

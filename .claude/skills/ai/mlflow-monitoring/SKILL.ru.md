@@ -1,6 +1,6 @@
 ---
 name: mlflow-monitoring
-description: Monitoring with Mlflow. model monitoring.
+description: "Monitoring with Mlflow. model monitoring."
 category: ai
 tags: [mlflow-monitoring, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: prisma-workflow
-description: Workflow for Prisma: workflow optimization
+description: "Workflow for Prisma: workflow optimization"
 category: backend
 tags: [prisma-workflow, backend, russian]
 models: [sonnet, opus]

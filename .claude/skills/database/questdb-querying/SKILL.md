@@ -1,6 +1,6 @@
 ---
 name: questdb-querying
-description: Querying with QuestDB. time-series queries.
+description: "Querying with QuestDB. time-series queries."
 category: database
 tags: [questdb, querying, database, time-series]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: tableau-api
-description: API for Tableau: API development and integration
+description: "API for Tableau: API development and integration"
 category: data
 tags: [tableau, api, data]
 models: [sonnet, opus]

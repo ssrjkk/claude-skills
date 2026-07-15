@@ -1,6 +1,6 @@
 ---
 name: flair-summarization
-description: Summarization with Flair. text summarization.
+description: "Summarization with Flair. text summarization."
 category: ai
 tags: [flair-summarization, ai, russian]
 models: [sonnet, opus]

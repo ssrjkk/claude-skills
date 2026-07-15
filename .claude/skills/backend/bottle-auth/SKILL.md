@@ -1,6 +1,6 @@
 ---
 name: bottle-auth
-description: Authentication with Bottle. user auth.
+description: "Authentication with Bottle. user auth."
 category: backend
 tags: [bottle, auth, backend, backend]
 models: [gpt-4, claude-3]

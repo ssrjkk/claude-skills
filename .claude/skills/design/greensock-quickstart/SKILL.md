@@ -1,6 +1,6 @@
 ---
 name: greensock-quickstart
-description: Quickstart for Greensock: quick start guide
+description: "Quickstart for Greensock: quick start guide"
 category: design
 tags: [greensock, quickstart, design]
 models: [sonnet, opus]

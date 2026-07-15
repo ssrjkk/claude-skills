@@ -1,6 +1,6 @@
 ---
 name: spark-routing
-description: Routing with Spark. HTTP routing.
+description: "Routing with Spark. HTTP routing."
 category: backend
 tags: [spark, routing, backend, backend]
 models: [gpt-4, claude-3]

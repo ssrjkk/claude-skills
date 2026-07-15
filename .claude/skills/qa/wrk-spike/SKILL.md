@@ -1,6 +1,6 @@
 ---
 name: wrk-spike
-description: Spike with wrk. spike tests.
+description: "Spike with wrk. spike tests."
 category: qa
 tags: [wrk, spike, qa, performance-testing]
 models: [gpt-4, claude-3]

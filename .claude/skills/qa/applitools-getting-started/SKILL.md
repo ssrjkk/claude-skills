@@ -1,6 +1,6 @@
 ---
 name: applitools-getting-started
-description: Getting Started for Applitools: initial setup and first steps
+description: "Getting Started for Applitools: initial setup and first steps"
 category: qa
 tags: [applitools, getting-started, qa]
 models: [sonnet, opus]

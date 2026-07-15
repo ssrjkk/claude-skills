@@ -1,6 +1,6 @@
 ---
 name: orin
-description: Development with Orin: tools and best practices
+description: "Development with Orin: tools and best practices"
 category: mobile
 tags: [orin, mobile, russian]
 models: [sonnet, opus]

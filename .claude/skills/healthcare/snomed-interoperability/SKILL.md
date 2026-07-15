@@ -1,6 +1,6 @@
 ---
 name: snomed-interoperability
-description: Interop with SNOMED CT. interoperability.
+description: "Interop with SNOMED CT. interoperability."
 category: healthcare
 tags: [snomed, interoperability, healthcare, healthcare]
 models: [gpt-4, claude-3]

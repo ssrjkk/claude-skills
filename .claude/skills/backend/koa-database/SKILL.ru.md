@@ -1,6 +1,6 @@
 ---
 name: koa-database
-description: Database with Koa. ORM.
+description: "Database with Koa. ORM."
 category: backend
 tags: [koa-database, backend, russian]
 models: [sonnet, opus]

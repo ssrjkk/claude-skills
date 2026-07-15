@@ -1,6 +1,6 @@
 ---
 name: unity-publishing
-description: Publishing with Unity. publishing.
+description: "Publishing with Unity. publishing."
 category: gamedev
 tags: [unity, publishing, gamedev, game-engine]
 models: [gpt-4, claude-3]

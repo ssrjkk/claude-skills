@@ -1,6 +1,6 @@
 ---
 name: square-fraud
-description: Fraud with Square. fraud detection.
+description: "Fraud with Square. fraud detection."
 category: payments
 tags: [square-fraud, payments, russian]
 models: [sonnet, opus]

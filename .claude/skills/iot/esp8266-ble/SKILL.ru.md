@@ -1,6 +1,6 @@
 ---
 name: esp8266-ble
-description: BLE with ESP8266. Bluetooth.
+description: "BLE with ESP8266. Bluetooth."
 category: iot
 tags: [esp8266-ble, iot, russian]
 models: [sonnet, opus]

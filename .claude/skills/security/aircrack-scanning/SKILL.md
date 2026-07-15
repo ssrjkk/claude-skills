@@ -1,6 +1,6 @@
 ---
 name: aircrack-scanning
-description: Scanning with Aircrack-ng. security scanning.
+description: "Scanning with Aircrack-ng. security scanning."
 category: security
 tags: [aircrack, scanning, security, security-tool]
 models: [gpt-4, claude-3]

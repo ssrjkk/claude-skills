@@ -1,6 +1,6 @@
 ---
 name: blue-yonder-setup
-description: Setup with Blue Yonder. setup.
+description: "Setup with Blue Yonder. setup."
 category: supply-chain
 tags: [blue-yonder, setup, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

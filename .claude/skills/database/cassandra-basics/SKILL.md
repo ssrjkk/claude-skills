@@ -1,6 +1,6 @@
 ---
 name: cassandra-basics
-description: Basics for Cassandra: fundamentals and core concepts
+description: "Basics for Cassandra: fundamentals and core concepts"
 category: database
 tags: [cassandra, basics, database]
 models: [sonnet, opus]

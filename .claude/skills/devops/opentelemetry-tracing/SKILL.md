@@ -1,6 +1,6 @@
 ---
 name: opentelemetry-tracing
-description: Tracing with OpenTelemetry. distributed tracing.
+description: "Tracing with OpenTelemetry. distributed tracing."
 category: devops
 tags: [opentelemetry, tracing, devops, monitoring]
 models: [gpt-4, claude-3]

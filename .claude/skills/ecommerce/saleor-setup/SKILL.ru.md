@@ -1,6 +1,6 @@
 ---
 name: saleor-setup
-description: Setup with Saleor. setup.
+description: "Setup with Saleor. setup."
 category: ecommerce
 tags: [saleor-setup, ecommerce, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: react-router-integration
-description: Integration for React-Router: integration with other tools
+description: "Integration for React-Router: integration with other tools"
 category: frontend
 tags: [react-router, integration, frontend]
 models: [sonnet, opus]

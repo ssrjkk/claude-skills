@@ -1,6 +1,6 @@
 ---
 name: tezos-smart-contracts
-description: Smart Contracts with Tezos. contracts.
+description: "Smart Contracts with Tezos. contracts."
 category: blockchain
 tags: [tezos, smart-contracts, blockchain, blockchain]
 models: [gpt-4, claude-3]

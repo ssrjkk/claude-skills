@@ -1,6 +1,6 @@
 ---
 name: concourse-caching
-description: Caching with Concourse. dependency caching.
+description: "Caching with Concourse. dependency caching."
 category: devops
 tags: [concourse, caching, devops, ci-cd]
 models: [gpt-4, claude-3]

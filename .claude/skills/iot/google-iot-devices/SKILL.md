@@ -1,6 +1,6 @@
 ---
 name: google-iot-devices
-description: Devices with Google IoT. device management.
+description: "Devices with Google IoT. device management."
 category: iot
 tags: [google-iot, devices, iot, iot-platform]
 models: [gpt-4, claude-3]

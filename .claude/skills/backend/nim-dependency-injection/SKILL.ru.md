@@ -1,6 +1,6 @@
 ---
 name: nim-dependency-injection
-description: DI with Nim. DI containers.
+description: "DI with Nim. DI containers."
 category: backend
 tags: [nim-dependency-injection, backend, russian]
 models: [sonnet, opus]

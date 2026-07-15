@@ -1,6 +1,6 @@
 ---
 name: lean-coaching
-description: Coaching with Lean. team coaching.
+description: "Coaching with Lean. team coaching."
 category: product
 tags: [lean, coaching, product, methodology]
 models: [gpt-4, claude-3]

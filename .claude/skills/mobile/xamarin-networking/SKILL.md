@@ -1,6 +1,6 @@
 ---
 name: xamarin-networking
-description: Networking with Xamarin. API calls.
+description: "Networking with Xamarin. API calls."
 category: mobile
 tags: [xamarin, networking, mobile, mobile]
 models: [gpt-4, claude-3]

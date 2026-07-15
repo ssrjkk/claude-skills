@@ -1,6 +1,6 @@
 ---
 name: cloudformation-provisioning
-description: Provisioning with CloudFormation. provisioning.
+description: "Provisioning with CloudFormation. provisioning."
 category: devops
 tags: [cloudformation-provisioning, devops, russian]
 models: [sonnet, opus]

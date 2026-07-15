@@ -1,6 +1,6 @@
 ---
 name: starknet-dapps
-description: DApps with StarkNet. decentralized apps.
+description: "DApps with StarkNet. decentralized apps."
 category: blockchain
 tags: [starknet-dapps, blockchain, russian]
 models: [sonnet, opus]

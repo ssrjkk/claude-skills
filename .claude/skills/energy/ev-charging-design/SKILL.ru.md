@@ -1,6 +1,6 @@
 ---
 name: ev-charging-design
-description: Design with EV Charging. system design.
+description: "Design with EV Charging. system design."
 category: energy
 tags: [ev-charging-design, energy, russian]
 models: [sonnet, opus]

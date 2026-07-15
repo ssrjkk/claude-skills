@@ -1,6 +1,6 @@
 ---
 name: detectron2-optical-flow
-description: Optical Flow with Detectron2. motion detection.
+description: "Optical Flow with Detectron2. motion detection."
 category: ai
 tags: [detectron2, optical-flow, ai, computer-vision]
 models: [gpt-4, claude-3]

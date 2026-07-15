@@ -1,6 +1,6 @@
 ---
 name: mongodb-api
-description: API for Mongodb: API development and integration
+description: "API for Mongodb: API development and integration"
 category: database
 tags: [mongodb, api, database]
 models: [sonnet, opus]

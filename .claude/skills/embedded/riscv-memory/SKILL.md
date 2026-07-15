@@ -1,6 +1,6 @@
 ---
 name: riscv-memory
-description: Memory with RISC-V. memory layout.
+description: "Memory with RISC-V. memory layout."
 category: embedded
 tags: [riscv, memory, embedded, embedded-arch]
 models: [gpt-4, claude-3]

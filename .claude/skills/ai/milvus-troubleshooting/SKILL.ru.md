@@ -1,6 +1,6 @@
 ---
 name: milvus-troubleshooting
-description: Troubleshooting for Milvus: troubleshooting common issues
+description: "Troubleshooting for Milvus: troubleshooting common issues"
 category: ai
 tags: [milvus-troubleshooting, ai, russian]
 models: [sonnet, opus]

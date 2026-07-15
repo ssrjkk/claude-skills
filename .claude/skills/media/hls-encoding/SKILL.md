@@ -1,6 +1,6 @@
 ---
 name: hls-encoding
-description: Encoding with HLS. encoding.
+description: "Encoding with HLS. encoding."
 category: media
 tags: [hls, encoding, media, media-streaming]
 models: [gpt-4, claude-3]

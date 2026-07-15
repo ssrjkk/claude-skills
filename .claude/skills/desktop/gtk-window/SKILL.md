@@ -1,6 +1,6 @@
 ---
 name: gtk-window
-description: Window with GTK. windows.
+description: "Window with GTK. windows."
 category: desktop
 tags: [gtk, window, desktop, desktop]
 models: [gpt-4, claude-3]

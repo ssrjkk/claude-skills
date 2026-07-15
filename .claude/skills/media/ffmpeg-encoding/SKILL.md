@@ -1,6 +1,6 @@
 ---
 name: ffmpeg-encoding
-description: Encoding with FFmpeg. encoding.
+description: "Encoding with FFmpeg. encoding."
 category: media
 tags: [ffmpeg, encoding, media, media-streaming]
 models: [gpt-4, claude-3]

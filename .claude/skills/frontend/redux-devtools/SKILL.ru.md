@@ -1,6 +1,6 @@
 ---
 name: redux-devtools
-description: DevTools with Redux. debugging.
+description: "DevTools with Redux. debugging."
 category: frontend
 tags: [redux-devtools, frontend, russian]
 models: [sonnet, opus]

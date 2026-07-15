@@ -1,6 +1,6 @@
 ---
 name: ambassador-scaling
-description: Scaling with Ambassador. scaling considerations.
+description: "Scaling with Ambassador. scaling considerations."
 category: backend
 tags: [ambassador-scaling, backend, russian]
 models: [sonnet, opus]

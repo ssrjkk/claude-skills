@@ -1,6 +1,6 @@
 ---
 name: tvm-visualization
-description: Visualization with Tvm. model viz.
+description: "Visualization with Tvm. model viz."
 category: ai
 tags: [tvm-visualization, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: shadcn-ui-examples
-description: Examples for Shadcn-Ui: practical examples
+description: "Examples for Shadcn-Ui: practical examples"
 category: frontend
 tags: [shadcn-ui, examples, frontend]
 models: [sonnet, opus]

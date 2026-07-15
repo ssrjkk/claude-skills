@@ -1,6 +1,6 @@
 ---
 name: solidstart-middleware
-description: Middleware with SolidStart. request middleware.
+description: "Middleware with SolidStart. request middleware."
 category: frontend
 tags: [solidstart, middleware, frontend, meta-framework]
 models: [gpt-4, claude-3]

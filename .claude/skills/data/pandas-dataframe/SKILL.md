@@ -1,6 +1,6 @@
 ---
 name: pandas-dataframe
-description: DataFrame with Pandas. data manipulation.
+description: "DataFrame with Pandas. data manipulation."
 category: data
 tags: [pandas, dataframe, data, data-science]
 models: [gpt-4, claude-3]

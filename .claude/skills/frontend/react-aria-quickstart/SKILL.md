@@ -1,6 +1,6 @@
 ---
 name: react-aria-quickstart
-description: Quickstart for React-Aria: quick start guide
+description: "Quickstart for React-Aria: quick start guide"
 category: frontend
 tags: [react-aria, quickstart, frontend]
 models: [sonnet, opus]

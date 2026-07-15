@@ -1,6 +1,6 @@
 ---
 name: grafana-setup
-description: Setup with Grafana. installation.
+description: "Setup with Grafana. installation."
 category: devops
 tags: [grafana-setup, devops, russian]
 models: [sonnet, opus]

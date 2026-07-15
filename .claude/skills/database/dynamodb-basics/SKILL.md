@@ -1,6 +1,6 @@
 ---
 name: dynamodb-basics
-description: Basics for Dynamodb: fundamentals and core concepts
+description: "Basics for Dynamodb: fundamentals and core concepts"
 category: database
 tags: [dynamodb, basics, database]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: penpot-design-system
-description: Design Systems with Penpot. tokens.
+description: "Design Systems with Penpot. tokens."
 category: design
 tags: [penpot-design-system, design, russian]
 models: [sonnet, opus]

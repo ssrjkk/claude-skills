@@ -1,6 +1,6 @@
 ---
 name: ambassador-testing
-description: Testing with Ambassador. testing the pattern.
+description: "Testing with Ambassador. testing the pattern."
 category: backend
 tags: [ambassador, testing, backend, architecture]
 models: [gpt-4, claude-3]

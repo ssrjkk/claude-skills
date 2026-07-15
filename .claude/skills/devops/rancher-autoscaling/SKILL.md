@@ -1,6 +1,6 @@
 ---
 name: rancher-autoscaling
-description: Autoscaling with Rancher. HPA.
+description: "Autoscaling with Rancher. HPA."
 category: devops
 tags: [rancher, autoscaling, devops, kubernetes]
 models: [gpt-4, claude-3]

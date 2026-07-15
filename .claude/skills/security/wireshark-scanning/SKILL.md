@@ -1,6 +1,6 @@
 ---
 name: wireshark-scanning
-description: Scanning with Wireshark. security scanning.
+description: "Scanning with Wireshark. security scanning."
 category: security
 tags: [wireshark, scanning, security, security-tool]
 models: [gpt-4, claude-3]

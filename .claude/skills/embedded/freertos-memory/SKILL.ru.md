@@ -1,6 +1,6 @@
 ---
 name: freertos-memory
-description: Memory with FreeRTOS. memory management.
+description: "Memory with FreeRTOS. memory management."
 category: embedded
 tags: [freertos-memory, embedded, russian]
 models: [sonnet, opus]

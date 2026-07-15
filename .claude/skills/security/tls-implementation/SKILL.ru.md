@@ -1,6 +1,6 @@
 ---
 name: tls-implementation
-description: Implementation with TLS/SSL. implementation.
+description: "Implementation with TLS/SSL. implementation."
 category: security
 tags: [tls-implementation, security, russian]
 models: [sonnet, opus]

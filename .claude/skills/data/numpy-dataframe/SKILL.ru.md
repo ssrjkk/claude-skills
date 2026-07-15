@@ -1,6 +1,6 @@
 ---
 name: numpy-dataframe
-description: DataFrame with NumPy. data manipulation.
+description: "DataFrame with NumPy. data manipulation."
 category: data
 tags: [numpy-dataframe, data, russian]
 models: [sonnet, opus]

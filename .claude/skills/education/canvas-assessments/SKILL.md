@@ -1,6 +1,6 @@
 ---
 name: canvas-assessments
-description: Assessments with Canvas LMS. quizzes.
+description: "Assessments with Canvas LMS. quizzes."
 category: education
 tags: [canvas, assessments, education, education-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: pyramid-database
-description: Database with Pyramid. DB access.
+description: "Database with Pyramid. DB access."
 category: backend
 tags: [pyramid, database, backend, backend]
 models: [gpt-4, claude-3]

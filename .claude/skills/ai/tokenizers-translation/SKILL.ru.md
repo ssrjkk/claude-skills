@@ -1,6 +1,6 @@
 ---
 name: tokenizers-translation
-description: Translation with Tokenizers. machine translation.
+description: "Translation with Tokenizers. machine translation."
 category: ai
 tags: [tokenizers-translation, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: druid-guides
-description: Guides for Druid: how-to guides
+description: "Guides for Druid: how-to guides"
 category: data
 tags: [druid, guides, data]
 models: [sonnet, opus]

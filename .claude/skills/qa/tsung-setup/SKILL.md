@@ -1,6 +1,6 @@
 ---
 name: tsung-setup
-description: Setup with Tsung. installation.
+description: "Setup with Tsung. installation."
 category: qa
 tags: [tsung, setup, qa, performance-testing]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: zephyr-best-practices
-description: Best Practices for Zephyr: best practices and patterns
+description: "Best Practices for Zephyr: best practices and patterns"
 category: qa
 tags: [zephyr-best-practices, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: hololens-rendering
-description: Rendering with HoloLens. stereoscopic.
+description: "Rendering with HoloLens. stereoscopic."
 category: ar-vr
 tags: [hololens, rendering, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

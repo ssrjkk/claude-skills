@@ -1,6 +1,6 @@
 ---
 name: recurly-analytics
-description: Analytics with Recurly. revenue analytics.
+description: "Analytics with Recurly. revenue analytics."
 category: payments
 tags: [recurly-analytics, payments, russian]
 models: [sonnet, opus]

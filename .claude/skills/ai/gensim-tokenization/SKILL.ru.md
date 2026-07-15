@@ -1,6 +1,6 @@
 ---
 name: gensim-tokenization
-description: Tokenization with Gensim. text tokenization.
+description: "Tokenization with Gensim. text tokenization."
 category: ai
 tags: [gensim-tokenization, ai, russian]
 models: [sonnet, opus]

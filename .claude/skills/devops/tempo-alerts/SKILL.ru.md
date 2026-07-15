@@ -1,6 +1,6 @@
 ---
 name: tempo-alerts
-description: Alerts with Tempo. alerting rules.
+description: "Alerts with Tempo. alerting rules."
 category: devops
 tags: [tempo-alerts, devops, russian]
 models: [sonnet, opus]

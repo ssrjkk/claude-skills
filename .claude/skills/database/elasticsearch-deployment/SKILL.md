@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-deployment
-description: Deployment for Elasticsearch: deployment and release
+description: "Deployment for Elasticsearch: deployment and release"
 category: database
 tags: [elasticsearch, deployment, database]
 models: [sonnet, opus]

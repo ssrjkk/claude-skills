@@ -1,6 +1,6 @@
 ---
 name: ghg-protocol-measurement
-description: Measurement with GHG Protocol. measurement.
+description: "Measurement with GHG Protocol. measurement."
 category: sustainability
 tags: [ghg-protocol, measurement, sustainability, sustainability]
 models: [gpt-4, claude-3]

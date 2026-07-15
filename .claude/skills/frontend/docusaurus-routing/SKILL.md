@@ -1,6 +1,6 @@
 ---
 name: docusaurus-routing
-description: Routing with Docusaurus. file-based routing.
+description: "Routing with Docusaurus. file-based routing."
 category: frontend
 tags: [docusaurus, routing, frontend, meta-framework]
 models: [gpt-4, claude-3]

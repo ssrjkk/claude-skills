@@ -1,6 +1,6 @@
 ---
 name: optuna-experiment-tracking
-description: Experiment Tracking with Optuna. tracking experiments.
+description: "Experiment Tracking with Optuna. tracking experiments."
 category: ai
 tags: [optuna-experiment-tracking, ai, russian]
 models: [sonnet, opus]

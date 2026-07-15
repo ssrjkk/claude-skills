@@ -1,6 +1,6 @@
 ---
 name: nginx-cache-pub-sub
-description: Pub/Sub with Nginx Cache. publish/subscribe.
+description: "Pub/Sub with Nginx Cache. publish/subscribe."
 category: database
 tags: [nginx-cache-pub-sub, database, russian]
 models: [sonnet, opus]

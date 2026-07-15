@@ -1,6 +1,6 @@
 ---
 name: stack-auth-guides
-description: Guides for Stack-Auth: how-to guides
+description: "Guides for Stack-Auth: how-to guides"
 category: mobile
 tags: [stack-auth-guides, mobile, russian]
 models: [sonnet, opus]

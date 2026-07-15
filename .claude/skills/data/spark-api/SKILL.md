@@ -1,6 +1,6 @@
 ---
 name: spark-api
-description: API for Spark: API development and integration
+description: "API for Spark: API development and integration"
 category: data
 tags: [spark, api, data]
 models: [sonnet, opus]

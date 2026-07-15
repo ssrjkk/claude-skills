@@ -1,6 +1,6 @@
 ---
 name: microsplat-guides
-description: Guides for Microsplat: how-to guides
+description: "Guides for Microsplat: how-to guides"
 category: gamedev
 tags: [microsplat-guides, gamedev, russian]
 models: [sonnet, opus]

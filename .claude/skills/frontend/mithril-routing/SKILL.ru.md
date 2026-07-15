@@ -1,6 +1,6 @@
 ---
 name: mithril-routing
-description: Routing with Mithril. client routing.
+description: "Routing with Mithril. client routing."
 category: frontend
 tags: [mithril-routing, frontend, russian]
 models: [sonnet, opus]

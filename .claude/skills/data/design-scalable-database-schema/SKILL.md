@@ -1,6 +1,6 @@
 ---
 name: design-scalable-database-schema
-description: Create normalized and optimized database schemas for business requirements
+description: "Create normalized and optimized database schemas for business requirements"
 category: data
 tags: [database, schema, normalization, SQL]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: lakefs-workflow
-description: Workflow for Lakefs: workflow optimization
+description: "Workflow for Lakefs: workflow optimization"
 category: data
 tags: [lakefs, workflow, data]
 models: [sonnet, opus]

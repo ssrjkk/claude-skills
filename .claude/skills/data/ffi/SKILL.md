@@ -1,6 +1,6 @@
 ---
 name: ffi
-description: Development with Ffi: tools and best practices
+description: "Development with Ffi: tools and best practices"
 category: data
 tags: [ffi, data, development]
 models: [sonnet, opus]

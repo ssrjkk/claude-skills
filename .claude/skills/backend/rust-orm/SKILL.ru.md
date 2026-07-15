@@ -1,6 +1,6 @@
 ---
 name: rust-orm
-description: ORM with Rust. database access.
+description: "ORM with Rust. database access."
 category: backend
 tags: [rust-orm, backend, russian]
 models: [sonnet, opus]

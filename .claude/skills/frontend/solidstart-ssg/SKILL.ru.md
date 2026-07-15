@@ -1,6 +1,6 @@
 ---
 name: solidstart-ssg
-description: SSG with SolidStart. static generation.
+description: "SSG with SolidStart. static generation."
 category: frontend
 tags: [solidstart-ssg, frontend, russian]
 models: [sonnet, opus]

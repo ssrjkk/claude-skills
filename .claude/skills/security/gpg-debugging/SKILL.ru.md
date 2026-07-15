@@ -1,6 +1,6 @@
 ---
 name: gpg-debugging
-description: Debugging for Gpg: debugging and troubleshooting
+description: "Debugging for Gpg: debugging and troubleshooting"
 category: security
 tags: [gpg-debugging, security, russian]
 models: [sonnet, opus]

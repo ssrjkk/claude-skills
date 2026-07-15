@@ -1,6 +1,6 @@
 ---
 name: skill-0052
-description: Specialized skill #0052 for frontend development
+description: "Specialized skill #0052 for frontend development"
 category: frontend
 tags: [frontend, skill, 0052]
 models: [sonnet, opus]

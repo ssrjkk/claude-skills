@@ -1,6 +1,6 @@
 ---
 name: tpot-model-selection
-description: Model Selection with Tpot. choosing models.
+description: "Model Selection with Tpot. choosing models."
 category: ai
 tags: [tpot, model-selection, ai, ml]
 models: [gpt-4, claude-3]

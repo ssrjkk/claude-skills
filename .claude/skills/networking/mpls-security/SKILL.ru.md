@@ -1,6 +1,6 @@
 ---
 name: mpls-security
-description: Security with MPLS. hardening.
+description: "Security with MPLS. hardening."
 category: networking
 tags: [mpls-security, networking, russian]
 models: [sonnet, opus]

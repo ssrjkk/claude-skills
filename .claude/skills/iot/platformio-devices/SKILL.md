@@ -1,6 +1,6 @@
 ---
 name: platformio-devices
-description: Devices with PlatformIO. device management.
+description: "Devices with PlatformIO. device management."
 category: iot
 tags: [platformio, devices, iot, iot-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: thinkific-courses
-description: Courses with Thinkific. course creation.
+description: "Courses with Thinkific. course creation."
 category: education
 tags: [thinkific-courses, education, russian]
 models: [sonnet, opus]

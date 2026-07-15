@@ -1,6 +1,6 @@
 ---
 name: weaviate-indexing
-description: Indexing with Weaviate. document indexing.
+description: "Indexing with Weaviate. document indexing."
 category: database
 tags: [weaviate, indexing, database, search-engine]
 models: [gpt-4, claude-3]

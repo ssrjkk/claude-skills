@@ -1,6 +1,6 @@
 ---
 name: msw-examples
-description: Examples for Msw: practical examples
+description: "Examples for Msw: practical examples"
 category: qa
 tags: [msw, examples, qa]
 models: [sonnet, opus]

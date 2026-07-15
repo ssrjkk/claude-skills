@@ -1,6 +1,6 @@
 ---
 name: stable-diffusion-integration
-description: Integration for Stable-Diffusion: integration with other tools
+description: "Integration for Stable-Diffusion: integration with other tools"
 category: ai
 tags: [stable-diffusion-integration, ai, russian]
 models: [sonnet, opus]

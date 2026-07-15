@@ -1,6 +1,6 @@
 ---
 name: sprint-retro
-description: Facilitates Sprint Retrospective with structured blocks and action items. Use by Scrum masters and teams.
+description: "Facilitates Sprint Retrospective with structured blocks and action items. Use by Scrum masters and teams."
 category: product
 tags: [sprint-retro, product, russian]
 models: [sonnet, opus]

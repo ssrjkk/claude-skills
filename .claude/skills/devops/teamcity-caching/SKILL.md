@@ -1,6 +1,6 @@
 ---
 name: teamcity-caching
-description: Caching with TeamCity. dependency caching.
+description: "Caching with TeamCity. dependency caching."
 category: devops
 tags: [teamcity, caching, devops, ci-cd]
 models: [gpt-4, claude-3]

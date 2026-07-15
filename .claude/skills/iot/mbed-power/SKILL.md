@@ -1,6 +1,6 @@
 ---
 name: mbed-power
-description: Power with Mbed OS. power management.
+description: "Power with Mbed OS. power management."
 category: iot
 tags: [mbed, power, iot, iot]
 models: [gpt-4, claude-3]

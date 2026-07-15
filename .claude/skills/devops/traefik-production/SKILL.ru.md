@@ -1,6 +1,6 @@
 ---
 name: traefik-production
-description: Production for Traefik: production deployment
+description: "Production for Traefik: production deployment"
 category: devops
 tags: [traefik-production, devops, russian]
 models: [sonnet, opus]

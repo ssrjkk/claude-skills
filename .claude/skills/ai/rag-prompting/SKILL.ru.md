@@ -1,6 +1,6 @@
 ---
 name: rag-prompting
-description: Designs prompts optimized for Retrieval-Augmented Generation systems, including context integration, citation handling, and hallucination reduction. Use for RAG applications.
+description: "Designs prompts optimized for Retrieval-Augmented Generation systems, including context integration, citation handling, and hallucination reduction. Use for RAG applications."
 category: ai
 tags: [rag-prompting, ai, russian]
 models: [sonnet, opus]

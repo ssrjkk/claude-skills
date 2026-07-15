@@ -1,6 +1,6 @@
 ---
 name: vultr-security
-description: Security with Vultr. cloud security.
+description: "Security with Vultr. cloud security."
 category: devops
 tags: [vultr, security, devops, cloud]
 models: [gpt-4, claude-3]

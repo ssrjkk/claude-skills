@@ -1,6 +1,6 @@
 ---
 name: gcp-security
-description: Security with GCP. cloud security.
+description: "Security with GCP. cloud security."
 category: devops
 tags: [gcp, security, devops, cloud]
 models: [gpt-4, claude-3]

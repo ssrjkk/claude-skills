@@ -1,6 +1,6 @@
 ---
 name: rails-routing
-description: Routing with Rails. HTTP routing.
+description: "Routing with Rails. HTTP routing."
 category: backend
 tags: [rails-routing, backend, russian]
 models: [sonnet, opus]

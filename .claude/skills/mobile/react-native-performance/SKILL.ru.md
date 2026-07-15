@@ -1,6 +1,6 @@
 ---
 name: react-native-performance
-description: Performance with React Native. optimization.
+description: "Performance with React Native. optimization."
 category: mobile
 tags: [react-native-performance, mobile, russian]
 models: [sonnet, opus]

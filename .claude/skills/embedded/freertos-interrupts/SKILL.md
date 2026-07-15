@@ -1,6 +1,6 @@
 ---
 name: freertos-interrupts
-description: Interrupts with FreeRTOS. ISR handling.
+description: "Interrupts with FreeRTOS. ISR handling."
 category: embedded
 tags: [freertos, interrupts, embedded, rtos]
 models: [gpt-4, claude-3]

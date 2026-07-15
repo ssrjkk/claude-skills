@@ -1,6 +1,6 @@
 ---
 name: cockroachdb-indexing
-description: Indexing with CockroachDB. indexes.
+description: "Indexing with CockroachDB. indexes."
 category: database
 tags: [cockroachdb-indexing, database, russian]
 models: [sonnet, opus]

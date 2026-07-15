@@ -1,6 +1,6 @@
 ---
 name: floating-ui-examples
-description: Examples for Floating-Ui: practical examples
+description: "Examples for Floating-Ui: practical examples"
 category: frontend
 tags: [floating-ui-examples, frontend, russian]
 models: [sonnet, opus]

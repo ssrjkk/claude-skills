@@ -1,6 +1,6 @@
 ---
 name: qgis-routing
-description: Routing with QGIS. routing.
+description: "Routing with QGIS. routing."
 category: geospatial
 tags: [qgis, routing, geospatial, gis]
 models: [gpt-4, claude-3]

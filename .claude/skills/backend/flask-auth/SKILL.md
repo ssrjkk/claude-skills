@@ -1,6 +1,6 @@
 ---
 name: flask-auth
-description: Authentication with Flask. user auth.
+description: "Authentication with Flask. user auth."
 category: backend
 tags: [flask, auth, backend, backend]
 models: [gpt-4, claude-3]

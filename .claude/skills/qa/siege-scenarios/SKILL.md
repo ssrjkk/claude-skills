@@ -1,6 +1,6 @@
 ---
 name: siege-scenarios
-description: Scenarios with Siege. test scenarios.
+description: "Scenarios with Siege. test scenarios."
 category: qa
 tags: [siege, scenarios, qa, performance-testing]
 models: [gpt-4, claude-3]

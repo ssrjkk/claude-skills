@@ -1,6 +1,6 @@
 ---
 name: loopback-middleware
-description: Middleware with LoopBack. request pipeline.
+description: "Middleware with LoopBack. request pipeline."
 category: backend
 tags: [loopback-middleware, backend, russian]
 models: [sonnet, opus]

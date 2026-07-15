@@ -1,6 +1,6 @@
 ---
 name: imgaug-object-detection
-description: Object Detection with Imgaug. detecting objects.
+description: "Object Detection with Imgaug. detecting objects."
 category: ai
 tags: [imgaug-object-detection, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: appium-setup
-description: Setup with Appium. installation.
+description: "Setup with Appium. installation."
 category: qa
 tags: [appium-setup, qa, russian]
 models: [sonnet, opus]

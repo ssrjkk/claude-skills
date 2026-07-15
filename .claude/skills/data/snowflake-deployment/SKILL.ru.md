@@ -1,6 +1,6 @@
 ---
 name: snowflake-deployment
-description: Deployment for Snowflake: deployment and release
+description: "Deployment for Snowflake: deployment and release"
 category: data
 tags: [snowflake-deployment, data, russian]
 models: [sonnet, opus]

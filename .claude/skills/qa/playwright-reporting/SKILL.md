@@ -1,6 +1,6 @@
 ---
 name: playwright-reporting
-description: Reporting with Playwright. reports.
+description: "Reporting with Playwright. reports."
 category: qa
 tags: [playwright, reporting, qa, e2e]
 models: [gpt-4, claude-3]

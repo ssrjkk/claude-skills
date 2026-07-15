@@ -1,6 +1,6 @@
 ---
 name: falco-advanced
-description: Advanced for Falco: advanced patterns and techniques
+description: "Advanced for Falco: advanced patterns and techniques"
 category: security
 tags: [falco, advanced, security]
 models: [sonnet, opus]

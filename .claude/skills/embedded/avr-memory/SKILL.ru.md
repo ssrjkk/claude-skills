@@ -1,6 +1,6 @@
 ---
 name: avr-memory
-description: Memory with AVR. memory layout.
+description: "Memory with AVR. memory layout."
 category: embedded
 tags: [avr-memory, embedded, russian]
 models: [sonnet, opus]

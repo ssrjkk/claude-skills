@@ -1,6 +1,6 @@
 ---
 name: playmaker-guides
-description: Guides for Playmaker: how-to guides
+description: "Guides for Playmaker: how-to guides"
 category: gamedev
 tags: [playmaker, guides, gamedev]
 models: [sonnet, opus]

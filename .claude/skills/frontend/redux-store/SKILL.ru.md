@@ -1,6 +1,6 @@
 ---
 name: redux-store
-description: Store with Redux. state store.
+description: "Store with Redux. state store."
 category: frontend
 tags: [redux-store, frontend, russian]
 models: [sonnet, opus]

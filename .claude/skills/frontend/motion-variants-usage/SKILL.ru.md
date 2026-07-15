@@ -1,6 +1,6 @@
 ---
 name: motion-variants-usage
-description: Usage for Motion-Variants: usage guide
+description: "Usage for Motion-Variants: usage guide"
 category: frontend
 tags: [motion-variants-usage, frontend, russian]
 models: [sonnet, opus]

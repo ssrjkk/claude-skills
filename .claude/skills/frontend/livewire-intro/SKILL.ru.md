@@ -1,6 +1,6 @@
 ---
 name: livewire-intro
-description: Intro for Livewire: introduction
+description: "Intro for Livewire: introduction"
 category: frontend
 tags: [livewire-intro, frontend, russian]
 models: [sonnet, opus]

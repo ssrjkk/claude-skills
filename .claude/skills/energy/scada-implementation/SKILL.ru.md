@@ -1,6 +1,6 @@
 ---
 name: scada-implementation
-description: Implementation with SCADA. deployment.
+description: "Implementation with SCADA. deployment."
 category: energy
 tags: [scada-implementation, energy, russian]
 models: [sonnet, opus]

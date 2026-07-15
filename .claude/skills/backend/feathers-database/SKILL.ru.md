@@ -1,6 +1,6 @@
 ---
 name: feathers-database
-description: Database with FeathersJS. ORM.
+description: "Database with FeathersJS. ORM."
 category: backend
 tags: [feathers-database, backend, russian]
 models: [sonnet, opus]

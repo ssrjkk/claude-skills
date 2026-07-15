@@ -1,6 +1,6 @@
 ---
 name: eleventy-ssr
-description: SSR with Eleventy. server rendering.
+description: "SSR with Eleventy. server rendering."
 category: frontend
 tags: [eleventy, ssr, frontend, meta-framework]
 models: [gpt-4, claude-3]

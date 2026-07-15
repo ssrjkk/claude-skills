@@ -1,6 +1,6 @@
 ---
 name: population-health-integration
-description: Integration with Population Health. system integration.
+description: "Integration with Population Health. system integration."
 category: healthcare
 tags: [population-health-integration, healthcare, russian]
 models: [sonnet, opus]

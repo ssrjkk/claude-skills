@@ -1,6 +1,6 @@
 ---
 name: aks-deployment
-description: Deployment with Azure AKS. apps deployment.
+description: "Deployment with Azure AKS. apps deployment."
 category: devops
 tags: [aks-deployment, devops, russian]
 models: [sonnet, opus]

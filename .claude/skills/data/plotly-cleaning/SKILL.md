@@ -1,6 +1,6 @@
 ---
 name: plotly-cleaning
-description: Cleaning with Plotly. data cleaning.
+description: "Cleaning with Plotly. data cleaning."
 category: data
 tags: [plotly, cleaning, data, data-science]
 models: [gpt-4, claude-3]

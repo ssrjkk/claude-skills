@@ -1,6 +1,6 @@
 ---
 name: garnet-fundamentals
-description: Fundamentals for Garnet: core concepts
+description: "Fundamentals for Garnet: core concepts"
 category: database
 tags: [garnet-fundamentals, database, russian]
 models: [sonnet, opus]

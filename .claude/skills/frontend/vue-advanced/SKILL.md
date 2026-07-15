@@ -1,6 +1,6 @@
 ---
 name: vue-advanced
-description: Advanced for Vue: advanced patterns and techniques
+description: "Advanced for Vue: advanced patterns and techniques"
 category: frontend
 tags: [vue, advanced, frontend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: snort-production
-description: Production for Snort: production deployment
+description: "Production for Snort: production deployment"
 category: security
 tags: [snort, production, security]
 models: [sonnet, opus]

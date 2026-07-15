@@ -1,6 +1,6 @@
 ---
 name: react-hook-form-integration
-description: Integration for React-Hook-Form: integration with other tools
+description: "Integration for React-Hook-Form: integration with other tools"
 category: frontend
 tags: [react-hook-form-integration, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: tailwind-components
-description: Components with Tailwind CSS. UI components.
+description: "Components with Tailwind CSS. UI components."
 category: frontend
 tags: [tailwind, components, frontend, css]
 models: [gpt-4, claude-3]

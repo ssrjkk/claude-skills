@@ -1,6 +1,6 @@
 ---
 name: qt-ui
-description: UI with Qt. UI components.
+description: "UI with Qt. UI components."
 category: desktop
 tags: [qt-ui, desktop, russian]
 models: [sonnet, opus]

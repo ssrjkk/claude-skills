@@ -1,6 +1,6 @@
 ---
 name: clearml-hyperparameter-tuning
-description: Hyperparameter Tuning with Clearml. optimizing params.
+description: "Hyperparameter Tuning with Clearml. optimizing params."
 category: ai
 tags: [clearml-hyperparameter-tuning, ai, russian]
 models: [sonnet, opus]

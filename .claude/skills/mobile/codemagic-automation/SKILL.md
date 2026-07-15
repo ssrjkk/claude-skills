@@ -1,6 +1,6 @@
 ---
 name: codemagic-automation
-description: Automation for Codemagic: automation and scripting
+description: "Automation for Codemagic: automation and scripting"
 category: mobile
 tags: [codemagic, automation, mobile]
 models: [sonnet, opus]

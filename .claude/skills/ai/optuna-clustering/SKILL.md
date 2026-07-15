@@ -1,6 +1,6 @@
 ---
 name: optuna-clustering
-description: Clustering with Optuna. grouping data.
+description: "Clustering with Optuna. grouping data."
 category: ai
 tags: [optuna, clustering, ai, ml]
 models: [gpt-4, claude-3]

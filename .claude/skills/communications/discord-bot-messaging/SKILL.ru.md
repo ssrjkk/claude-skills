@@ -1,6 +1,6 @@
 ---
 name: discord-bot-messaging
-description: Messaging with Discord Bot. sending messages.
+description: "Messaging with Discord Bot. sending messages."
 category: communications
 tags: [discord-bot-messaging, communications, russian]
 models: [sonnet, opus]

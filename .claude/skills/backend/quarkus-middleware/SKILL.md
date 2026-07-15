@@ -1,6 +1,6 @@
 ---
 name: quarkus-middleware
-description: Middleware with Quarkus. request processing.
+description: "Middleware with Quarkus. request processing."
 category: backend
 tags: [quarkus, middleware, backend, backend]
 models: [gpt-4, claude-3]

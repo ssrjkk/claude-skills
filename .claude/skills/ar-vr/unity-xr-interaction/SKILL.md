@@ -1,6 +1,6 @@
 ---
 name: unity-xr-interaction
-description: Interaction with Unity XR. hand tracking.
+description: "Interaction with Unity XR. hand tracking."
 category: ar-vr
 tags: [unity-xr, interaction, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: capacitor-ui
-description: UI with Capacitor. UI components.
+description: "UI with Capacitor. UI components."
 category: mobile
 tags: [capacitor-ui, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: performance-monitor-security
-description: Security with Performance Monitor. security.
+description: "Security with Performance Monitor. security."
 category: os-admin
 tags: [performance-monitor, security, os-admin, windows]
 models: [gpt-4, claude-3]

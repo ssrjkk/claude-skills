@@ -1,6 +1,6 @@
 ---
 name: vultr-serverless
-description: Serverless with Vultr. functions.
+description: "Serverless with Vultr. functions."
 category: devops
 tags: [vultr, serverless, devops, cloud]
 models: [gpt-4, claude-3]

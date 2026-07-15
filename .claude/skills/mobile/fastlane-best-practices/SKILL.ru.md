@@ -1,6 +1,6 @@
 ---
 name: fastlane-best-practices
-description: Best Practices for Fastlane: best practices and patterns
+description: "Best Practices for Fastlane: best practices and patterns"
 category: mobile
 tags: [fastlane-best-practices, mobile, russian]
 models: [sonnet, opus]

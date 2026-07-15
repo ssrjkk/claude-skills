@@ -1,6 +1,6 @@
 ---
 name: drawio-best-practices
-description: Best Practices with Draw.io. practices.
+description: "Best Practices with Draw.io. practices."
 category: engineering
 tags: [drawio-best-practices, engineering, russian]
 models: [sonnet, opus]

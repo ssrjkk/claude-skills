@@ -1,6 +1,6 @@
 ---
 name: optimism-nft
-description: NFT with Optimism. tokens.
+description: "NFT with Optimism. tokens."
 category: blockchain
 tags: [optimism, nft, blockchain, blockchain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: gamedev-skill-0160
-description: Specialized skill #0160 for gamedev development
+description: "Specialized skill #0160 for gamedev development"
 category: gamedev
 tags: [skill-0160, gamedev, russian]
 models: [sonnet, opus]

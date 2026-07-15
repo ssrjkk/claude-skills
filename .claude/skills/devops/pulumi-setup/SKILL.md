@@ -1,6 +1,6 @@
 ---
 name: pulumi-setup
-description: Setup with Pulumi. installation.
+description: "Setup with Pulumi. installation."
 category: devops
 tags: [pulumi, setup, devops, iac]
 models: [gpt-4, claude-3]

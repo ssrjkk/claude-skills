@@ -1,6 +1,6 @@
 ---
 name: geoserver-data
-description: Data with GeoServer. geospatial data.
+description: "Data with GeoServer. geospatial data."
 category: geospatial
 tags: [geoserver-data, geospatial, russian]
 models: [sonnet, opus]

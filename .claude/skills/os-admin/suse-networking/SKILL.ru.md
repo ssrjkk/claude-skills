@@ -1,6 +1,6 @@
 ---
 name: suse-networking
-description: Networking with SUSE. network config.
+description: "Networking with SUSE. network config."
 category: os-admin
 tags: [suse-networking, os-admin, russian]
 models: [sonnet, opus]

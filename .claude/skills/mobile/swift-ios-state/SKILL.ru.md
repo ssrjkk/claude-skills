@@ -1,6 +1,6 @@
 ---
 name: swift-ios-state
-description: State with Swift iOS. state management.
+description: "State with Swift iOS. state management."
 category: mobile
 tags: [swift-ios-state, mobile, russian]
 models: [sonnet, opus]

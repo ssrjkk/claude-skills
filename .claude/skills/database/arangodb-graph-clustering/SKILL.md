@@ -1,6 +1,6 @@
 ---
 name: arangodb-graph-clustering
-description: Clustering with ArangoDB Graph. clustering.
+description: "Clustering with ArangoDB Graph. clustering."
 category: database
 tags: [arangodb-graph, clustering, database, graph-database]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: grid-optimization-protocols
-description: Protocols with Grid Optimization. communication.
+description: "Protocols with Grid Optimization. communication."
 category: energy
 tags: [grid-optimization, protocols, energy, smart-grid]
 models: [gpt-4, claude-3]

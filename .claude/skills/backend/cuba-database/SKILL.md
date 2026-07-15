@@ -1,6 +1,6 @@
 ---
 name: cuba-database
-description: Database with Cuba. ActiveRecord.
+description: "Database with Cuba. ActiveRecord."
 category: backend
 tags: [cuba, database, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: active-directory-security
-description: Security with Active Directory. security.
+description: "Security with Active Directory. security."
 category: os-admin
 tags: [active-directory, security, os-admin, windows]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: contiki-synchronization
-description: Sync with Contiki-NG. mutexes.
+description: "Sync with Contiki-NG. mutexes."
 category: embedded
 tags: [contiki-synchronization, embedded, russian]
 models: [sonnet, opus]

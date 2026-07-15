@@ -1,6 +1,6 @@
 ---
 name: nessie-intro
-description: Intro for Nessie: introduction
+description: "Intro for Nessie: introduction"
 category: data
 tags: [nessie, intro, data]
 models: [sonnet, opus]

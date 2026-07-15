@@ -1,6 +1,6 @@
 ---
 name: varnish-optimization
-description: Optimization with Varnish. performance tuning.
+description: "Optimization with Varnish. performance tuning."
 category: database
 tags: [varnish-optimization, database, russian]
 models: [sonnet, opus]

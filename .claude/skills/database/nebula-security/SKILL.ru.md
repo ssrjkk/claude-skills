@@ -1,6 +1,6 @@
 ---
 name: nebula-security
-description: Security with Nebula Graph. security.
+description: "Security with Nebula Graph. security."
 category: database
 tags: [nebula-security, database, russian]
 models: [sonnet, opus]

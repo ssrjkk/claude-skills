@@ -1,6 +1,6 @@
 ---
 name: linux-security-logging
-description: Logging with Linux Security. logging.
+description: "Logging with Linux Security. logging."
 category: os-admin
 tags: [linux-security-logging, os-admin, russian]
 models: [sonnet, opus]

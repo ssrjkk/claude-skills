@@ -1,6 +1,6 @@
 ---
 name: rspec-integration
-description: Integration with RSpec. integration tests.
+description: "Integration with RSpec. integration tests."
 category: qa
 tags: [rspec-integration, qa, russian]
 models: [sonnet, opus]

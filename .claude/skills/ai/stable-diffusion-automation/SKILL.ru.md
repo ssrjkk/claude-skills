@@ -1,6 +1,6 @@
 ---
 name: stable-diffusion-automation
-description: Automation for Stable-Diffusion: automation and scripting
+description: "Automation for Stable-Diffusion: automation and scripting"
 category: ai
 tags: [stable-diffusion-automation, ai, russian]
 models: [sonnet, opus]

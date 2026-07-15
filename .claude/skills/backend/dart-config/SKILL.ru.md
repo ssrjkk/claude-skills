@@ -1,6 +1,6 @@
 ---
 name: dart-config
-description: Configuration with Dart. config management.
+description: "Configuration with Dart. config management."
 category: backend
 tags: [dart-config, backend, russian]
 models: [sonnet, opus]

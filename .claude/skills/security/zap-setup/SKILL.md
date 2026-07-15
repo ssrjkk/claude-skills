@@ -1,6 +1,6 @@
 ---
 name: zap-setup
-description: Setup with ZAP. installation.
+description: "Setup with ZAP. installation."
 category: security
 tags: [zap, setup, security, security-tool]
 models: [gpt-4, claude-3]

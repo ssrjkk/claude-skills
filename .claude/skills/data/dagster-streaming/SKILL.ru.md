@@ -1,6 +1,6 @@
 ---
 name: dagster-streaming
-description: Streaming with Dagster. real-time.
+description: "Streaming with Dagster. real-time."
 category: data
 tags: [dagster-streaming, data, russian]
 models: [sonnet, opus]

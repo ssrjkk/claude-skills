@@ -1,6 +1,6 @@
 ---
 name: vultr-networking
-description: Networking with Vultr. VPC.
+description: "Networking with Vultr. VPC."
 category: devops
 tags: [vultr-networking, devops, russian]
 models: [sonnet, opus]

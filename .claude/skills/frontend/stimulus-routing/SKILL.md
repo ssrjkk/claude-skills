@@ -1,6 +1,6 @@
 ---
 name: stimulus-routing
-description: Routing with Stimulus. client routing.
+description: "Routing with Stimulus. client routing."
 category: frontend
 tags: [stimulus, routing, frontend, frontend]
 models: [gpt-4, claude-3]

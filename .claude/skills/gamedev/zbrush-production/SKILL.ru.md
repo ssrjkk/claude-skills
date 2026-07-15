@@ -1,6 +1,6 @@
 ---
 name: zbrush-production
-description: Production for Zbrush: production deployment
+description: "Production for Zbrush: production deployment"
 category: gamedev
 tags: [zbrush-production, gamedev, russian]
 models: [sonnet, opus]

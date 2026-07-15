@@ -1,6 +1,6 @@
 ---
 name: clearml-hyperparameter-tuning
-description: Hyperparameter Tuning with Clearml. optimizing params.
+description: "Hyperparameter Tuning with Clearml. optimizing params."
 category: ai
 tags: [clearml, hyperparameter-tuning, ai, ml]
 models: [gpt-4, claude-3]

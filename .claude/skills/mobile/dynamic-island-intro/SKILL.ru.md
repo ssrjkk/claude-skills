@@ -1,6 +1,6 @@
 ---
 name: dynamic-island-intro
-description: Intro for Dynamic-Island: introduction
+description: "Intro for Dynamic-Island: introduction"
 category: mobile
 tags: [dynamic-island-intro, mobile, russian]
 models: [sonnet, opus]

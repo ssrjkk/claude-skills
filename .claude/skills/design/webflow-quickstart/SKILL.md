@@ -1,6 +1,6 @@
 ---
 name: webflow-quickstart
-description: Quickstart for Webflow: quick start guide
+description: "Quickstart for Webflow: quick start guide"
 category: design
 tags: [webflow, quickstart, design]
 models: [sonnet, opus]

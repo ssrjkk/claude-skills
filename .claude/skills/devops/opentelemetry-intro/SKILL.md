@@ -1,6 +1,6 @@
 ---
 name: opentelemetry-intro
-description: Intro for Opentelemetry: introduction
+description: "Intro for Opentelemetry: introduction"
 category: devops
 tags: [opentelemetry, intro, devops]
 models: [sonnet, opus]

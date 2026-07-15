@@ -1,6 +1,6 @@
 ---
 name: mithril-styling
-description: Styling with Mithril. component styling.
+description: "Styling with Mithril. component styling."
 category: frontend
 tags: [mithril-styling, frontend, russian]
 models: [sonnet, opus]

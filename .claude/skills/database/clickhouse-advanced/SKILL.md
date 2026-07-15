@@ -1,6 +1,6 @@
 ---
 name: clickhouse-advanced
-description: Advanced for Clickhouse: advanced patterns and techniques
+description: "Advanced for Clickhouse: advanced patterns and techniques"
 category: database
 tags: [clickhouse, advanced, database]
 models: [sonnet, opus]

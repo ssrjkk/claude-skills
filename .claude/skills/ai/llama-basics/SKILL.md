@@ -1,6 +1,6 @@
 ---
 name: llama-basics
-description: Basics for Llama: fundamentals and core concepts
+description: "Basics for Llama: fundamentals and core concepts"
 category: ai
 tags: [llama, basics, ai]
 models: [sonnet, opus]

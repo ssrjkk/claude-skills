@@ -1,6 +1,6 @@
 ---
 name: docusaurus-deployment
-description: Deployment with Docusaurus. production.
+description: "Deployment with Docusaurus. production."
 category: frontend
 tags: [docusaurus-deployment, frontend, russian]
 models: [sonnet, opus]

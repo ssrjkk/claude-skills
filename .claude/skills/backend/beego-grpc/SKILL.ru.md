@@ -1,6 +1,6 @@
 ---
 name: beego-grpc
-description: gRPC with Beego. gRPC services.
+description: "gRPC with Beego. gRPC services."
 category: backend
 tags: [beego-grpc, backend, russian]
 models: [sonnet, opus]

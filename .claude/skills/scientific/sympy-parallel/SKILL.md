@@ -1,6 +1,6 @@
 ---
 name: sympy-parallel
-description: Parallel with SymPy. parallel computing.
+description: "Parallel with SymPy. parallel computing."
 category: scientific
 tags: [sympy, parallel, scientific, scientific-computing]
 models: [gpt-4, claude-3]

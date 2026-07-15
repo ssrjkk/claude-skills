@@ -1,6 +1,6 @@
 ---
 name: hedera-nft
-description: NFT with Hedera. tokens.
+description: "NFT with Hedera. tokens."
 category: blockchain
 tags: [hedera, nft, blockchain, blockchain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: pytorch-lightning-optical-flow
-description: Optical Flow with Pytorch Lightning. motion detection.
+description: "Optical Flow with Pytorch Lightning. motion detection."
 category: ai
 tags: [pytorch-lightning, optical-flow, ai, computer-vision]
 models: [gpt-4, claude-3]

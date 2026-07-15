@@ -1,6 +1,6 @@
 ---
 name: langgraph-guides
-description: Guides for Langgraph: how-to guides
+description: "Guides for Langgraph: how-to guides"
 category: ai
 tags: [langgraph, guides, ai]
 models: [sonnet, opus]

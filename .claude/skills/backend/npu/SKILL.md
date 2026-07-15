@@ -1,6 +1,6 @@
 ---
 name: npu
-description: Development with Npu: tools and best practices
+description: "Development with Npu: tools and best practices"
 category: backend
 tags: [npu, backend, development]
 models: [sonnet, opus]

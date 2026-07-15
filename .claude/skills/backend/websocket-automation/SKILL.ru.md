@@ -1,6 +1,6 @@
 ---
 name: websocket-automation
-description: Automation for Websocket: automation and scripting
+description: "Automation for Websocket: automation and scripting"
 category: backend
 tags: [websocket-automation, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gitleaks-production
-description: Production for Gitleaks: production deployment
+description: "Production for Gitleaks: production deployment"
 category: security
 tags: [gitleaks, production, security]
 models: [sonnet, opus]

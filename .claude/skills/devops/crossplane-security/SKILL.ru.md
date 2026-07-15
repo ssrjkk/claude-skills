@@ -1,6 +1,6 @@
 ---
 name: crossplane-security
-description: Security with Crossplane. security groups.
+description: "Security with Crossplane. security groups."
 category: devops
 tags: [crossplane-security, devops, russian]
 models: [sonnet, opus]

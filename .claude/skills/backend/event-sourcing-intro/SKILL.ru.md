@@ -1,6 +1,6 @@
 ---
 name: event-sourcing-intro
-description: Introduction with Event Sourcing. understanding the pattern.
+description: "Introduction with Event Sourcing. understanding the pattern."
 category: backend
 tags: [event-sourcing-intro, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: powershell-iis
-description: IIS with PowerShell. web server.
+description: "IIS with PowerShell. web server."
 category: os-admin
 tags: [powershell-iis, os-admin, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: solid-security
-description: Security for Solid: security best practices
+description: "Security for Solid: security best practices"
 category: frontend
 tags: [solid, security, frontend]
 models: [sonnet, opus]

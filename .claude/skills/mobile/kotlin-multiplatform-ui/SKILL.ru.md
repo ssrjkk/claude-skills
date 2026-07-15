@@ -1,6 +1,6 @@
 ---
 name: kotlin-multiplatform-ui
-description: UI with Kotlin Multiplatform. UI components.
+description: "UI with Kotlin Multiplatform. UI components."
 category: mobile
 tags: [kotlin-multiplatform-ui, mobile, russian]
 models: [sonnet, opus]

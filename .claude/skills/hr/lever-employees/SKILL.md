@@ -1,6 +1,6 @@
 ---
 name: lever-employees
-description: Employees with Lever. employee mgmt.
+description: "Employees with Lever. employee mgmt."
 category: hr
 tags: [lever, employees, hr, hr-tech]
 models: [gpt-4, claude-3]

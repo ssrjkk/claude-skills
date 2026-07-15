@@ -1,6 +1,6 @@
 ---
 name: promptflow-rag
-description: RAG with Promptflow. building RAG systems.
+description: "RAG with Promptflow. building RAG systems."
 category: ai
 tags: [promptflow-rag, ai, russian]
 models: [sonnet, opus]

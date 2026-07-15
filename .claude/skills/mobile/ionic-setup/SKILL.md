@@ -1,6 +1,6 @@
 ---
 name: ionic-setup
-description: Setup with Ionic. setup.
+description: "Setup with Ionic. setup."
 category: mobile
 tags: [ionic, setup, mobile, mobile]
 models: [gpt-4, claude-3]

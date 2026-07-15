@@ -1,6 +1,6 @@
 ---
 name: heatmaps-planning
-description: Planning with Heatmaps. study planning.
+description: "Planning with Heatmaps. study planning."
 category: design
 tags: [heatmaps-planning, design, russian]
 models: [sonnet, opus]

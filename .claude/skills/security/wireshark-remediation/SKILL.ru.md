@@ -1,6 +1,6 @@
 ---
 name: wireshark-remediation
-description: Remediation with Wireshark. fixing vulns.
+description: "Remediation with Wireshark. fixing vulns."
 category: security
 tags: [wireshark-remediation, security, russian]
 models: [sonnet, opus]

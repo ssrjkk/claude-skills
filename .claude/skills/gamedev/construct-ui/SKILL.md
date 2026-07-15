@@ -1,6 +1,6 @@
 ---
 name: construct-ui
-description: UI with Construct. game UI.
+description: "UI with Construct. game UI."
 category: gamedev
 tags: [construct, ui, gamedev, game-engine]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: coap-security
-description: Security with CoAP. security.
+description: "Security with CoAP. security."
 category: communications
 tags: [coap, security, communications, communication-protocol]
 models: [gpt-4, claude-3]

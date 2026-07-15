@@ -1,6 +1,6 @@
 ---
 name: cassandra-deployment
-description: Deployment for Cassandra: deployment and release
+description: "Deployment for Cassandra: deployment and release"
 category: database
 tags: [cassandra, deployment, database]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: narrative-planning
-description: Planning with Narrative Design. planning.
+description: "Planning with Narrative Design. planning."
 category: gamedev
 tags: [narrative, planning, gamedev, game-design]
 models: [gpt-4, claude-3]

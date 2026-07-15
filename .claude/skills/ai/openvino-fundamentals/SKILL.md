@@ -1,6 +1,6 @@
 ---
 name: openvino-fundamentals
-description: Fundamentals for Openvino: core concepts
+description: "Fundamentals for Openvino: core concepts"
 category: ai
 tags: [openvino, fundamentals, ai]
 models: [sonnet, opus]

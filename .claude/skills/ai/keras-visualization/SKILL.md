@@ -1,6 +1,6 @@
 ---
 name: keras-visualization
-description: Visualization with Keras. model viz.
+description: "Visualization with Keras. model viz."
 category: ai
 tags: [keras, visualization, ai, deep-learning]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: api-gateway-intro
-description: Introduction with API Gateway. understanding the pattern.
+description: "Introduction with API Gateway. understanding the pattern."
 category: backend
 tags: [api-gateway, intro, backend, architecture]
 models: [gpt-4, claude-3]

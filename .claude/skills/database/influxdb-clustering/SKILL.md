@@ -1,6 +1,6 @@
 ---
 name: influxdb-clustering
-description: Clustering with InfluxDB. clustering.
+description: "Clustering with InfluxDB. clustering."
 category: database
 tags: [influxdb, clustering, database, time-series]
 models: [gpt-4, claude-3]

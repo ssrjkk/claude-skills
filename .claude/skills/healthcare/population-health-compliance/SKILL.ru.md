@@ -1,6 +1,6 @@
 ---
 name: population-health-compliance
-description: Compliance with Population Health. compliance.
+description: "Compliance with Population Health. compliance."
 category: healthcare
 tags: [population-health-compliance, healthcare, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: locust-distributed
-description: Distributed with Locust. distributed load.
+description: "Distributed with Locust. distributed load."
 category: qa
 tags: [locust, distributed, qa, performance-testing]
 models: [gpt-4, claude-3]

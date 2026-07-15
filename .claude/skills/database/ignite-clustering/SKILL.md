@@ -1,6 +1,6 @@
 ---
 name: ignite-clustering
-description: Clustering with Apache Ignite. cluster setup.
+description: "Clustering with Apache Ignite. cluster setup."
 category: database
 tags: [ignite, clustering, database, caching]
 models: [gpt-4, claude-3]

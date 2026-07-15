@@ -1,6 +1,6 @@
 ---
 name: langchain-deployment
-description: Deployment for Langchain: deployment and release
+description: "Deployment for Langchain: deployment and release"
 category: ai
 tags: [langchain-deployment, ai, russian]
 models: [sonnet, opus]

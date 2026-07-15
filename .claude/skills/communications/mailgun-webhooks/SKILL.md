@@ -1,6 +1,6 @@
 ---
 name: mailgun-webhooks
-description: Webhooks with Mailgun. webhooks.
+description: "Webhooks with Mailgun. webhooks."
 category: communications
 tags: [mailgun, webhooks, communications, communication-platform]
 models: [gpt-4, claude-3]

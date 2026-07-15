@@ -1,6 +1,6 @@
 ---
 name: blue-yonder-warehousing
-description: Warehousing with Blue Yonder. WMS.
+description: "Warehousing with Blue Yonder. WMS."
 category: supply-chain
 tags: [blue-yonder-warehousing, supply-chain, russian]
 models: [sonnet, opus]

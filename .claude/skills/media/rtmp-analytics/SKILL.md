@@ -1,6 +1,6 @@
 ---
 name: rtmp-analytics
-description: Analytics with RTMP. analytics.
+description: "Analytics with RTMP. analytics."
 category: media
 tags: [rtmp, analytics, media, media-streaming]
 models: [gpt-4, claude-3]

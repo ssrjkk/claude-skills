@@ -1,6 +1,6 @@
 ---
 name: oneroster-implementation
-description: Implementation with OneRoster. implementation.
+description: "Implementation with OneRoster. implementation."
 category: education
 tags: [oneroster, implementation, education, education-standard]
 models: [gpt-4, claude-3]

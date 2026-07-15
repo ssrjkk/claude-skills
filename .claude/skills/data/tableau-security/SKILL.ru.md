@@ -1,6 +1,6 @@
 ---
 name: tableau-security
-description: Security for Tableau: security best practices
+description: "Security for Tableau: security best practices"
 category: data
 tags: [tableau-security, data, russian]
 models: [sonnet, opus]

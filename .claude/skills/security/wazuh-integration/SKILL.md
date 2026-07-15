@@ -1,6 +1,6 @@
 ---
 name: wazuh-integration
-description: Integration for Wazuh: integration with other tools
+description: "Integration for Wazuh: integration with other tools"
 category: security
 tags: [wazuh, integration, security]
 models: [sonnet, opus]

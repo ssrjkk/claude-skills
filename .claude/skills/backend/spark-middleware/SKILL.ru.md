@@ -1,6 +1,6 @@
 ---
 name: spark-middleware
-description: Middleware with Spark. request processing.
+description: "Middleware with Spark. request processing."
 category: backend
 tags: [spark-middleware, backend, russian]
 models: [sonnet, opus]

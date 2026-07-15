@@ -1,6 +1,6 @@
 ---
 name: istio-configuration
-description: Configuration for Istio: configuration and setup
+description: "Configuration for Istio: configuration and setup"
 category: devops
 tags: [istio-configuration, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: rest-assured-guides
-description: Guides for Rest-Assured: how-to guides
+description: "Guides for Rest-Assured: how-to guides"
 category: qa
 tags: [rest-assured, guides, qa]
 models: [sonnet, opus]

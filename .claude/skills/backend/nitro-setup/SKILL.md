@@ -1,6 +1,6 @@
 ---
 name: nitro-setup
-description: Setup for Nitro: setup guide
+description: "Setup for Nitro: setup guide"
 category: backend
 tags: [nitro, setup, backend]
 models: [sonnet, opus]

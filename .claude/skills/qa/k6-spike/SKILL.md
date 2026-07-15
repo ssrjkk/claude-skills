@@ -1,6 +1,6 @@
 ---
 name: k6-spike
-description: Spike with k6. spike tests.
+description: "Spike with k6. spike tests."
 category: qa
 tags: [k6, spike, qa, performance-testing]
 models: [gpt-4, claude-3]

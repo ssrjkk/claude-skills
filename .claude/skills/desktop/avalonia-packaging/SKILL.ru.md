@@ -1,6 +1,6 @@
 ---
 name: avalonia-packaging
-description: Packaging with Avalonia. app packaging.
+description: "Packaging with Avalonia. app packaging."
 category: desktop
 tags: [avalonia-packaging, desktop, russian]
 models: [sonnet, opus]

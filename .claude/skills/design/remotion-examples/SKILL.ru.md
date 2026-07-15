@@ -1,6 +1,6 @@
 ---
 name: remotion-examples
-description: Examples for Remotion: practical examples
+description: "Examples for Remotion: practical examples"
 category: design
 tags: [remotion-examples, design, russian]
 models: [sonnet, opus]

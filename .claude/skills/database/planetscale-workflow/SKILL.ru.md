@@ -1,6 +1,6 @@
 ---
 name: planetscale-workflow
-description: Workflow for Planetscale: workflow optimization
+description: "Workflow for Planetscale: workflow optimization"
 category: database
 tags: [planetscale-workflow, database, russian]
 models: [sonnet, opus]

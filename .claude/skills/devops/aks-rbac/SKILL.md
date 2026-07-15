@@ -1,6 +1,6 @@
 ---
 name: aks-rbac
-description: RBAC with Azure AKS. access control.
+description: "RBAC with Azure AKS. access control."
 category: devops
 tags: [aks, rbac, devops, kubernetes]
 models: [gpt-4, claude-3]

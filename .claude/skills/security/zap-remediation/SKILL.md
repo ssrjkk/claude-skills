@@ -1,6 +1,6 @@
 ---
 name: zap-remediation
-description: Remediation with ZAP. fixing vulns.
+description: "Remediation with ZAP. fixing vulns."
 category: security
 tags: [zap, remediation, security, security-tool]
 models: [gpt-4, claude-3]

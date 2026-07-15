@@ -1,6 +1,6 @@
 ---
 name: ignite-monitoring
-description: Monitoring with Apache Ignite. monitoring.
+description: "Monitoring with Apache Ignite. monitoring."
 category: database
 tags: [ignite, monitoring, database, caching]
 models: [gpt-4, claude-3]

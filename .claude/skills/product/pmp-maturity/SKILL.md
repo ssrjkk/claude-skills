@@ -1,6 +1,6 @@
 ---
 name: pmp-maturity
-description: Maturity with PMP. assessment.
+description: "Maturity with PMP. assessment."
 category: product
 tags: [pmp, maturity, product, methodology]
 models: [gpt-4, claude-3]

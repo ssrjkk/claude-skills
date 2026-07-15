@@ -1,6 +1,6 @@
 ---
 name: skill-0002
-description: Specialized skill #0002 for backend development
+description: "Specialized skill #0002 for backend development"
 category: backend
 tags: [skill-0002, backend, russian]
 models: [sonnet, opus]

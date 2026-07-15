@@ -1,6 +1,6 @@
 ---
 name: weaviate-clustering
-description: Clustering with Weaviate. cluster setup.
+description: "Clustering with Weaviate. cluster setup."
 category: database
 tags: [weaviate, clustering, database, search-engine]
 models: [gpt-4, claude-3]

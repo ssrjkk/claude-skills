@@ -1,6 +1,6 @@
 ---
 name: cocos-advanced
-description: Advanced for Cocos: advanced patterns and techniques
+description: "Advanced for Cocos: advanced patterns and techniques"
 category: gamedev
 tags: [cocos-advanced, gamedev, russian]
 models: [sonnet, opus]

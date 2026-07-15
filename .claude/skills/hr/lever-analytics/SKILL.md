@@ -1,6 +1,6 @@
 ---
 name: lever-analytics
-description: Analytics with Lever. analytics.
+description: "Analytics with Lever. analytics."
 category: hr
 tags: [lever, analytics, hr, hr-tech]
 models: [gpt-4, claude-3]

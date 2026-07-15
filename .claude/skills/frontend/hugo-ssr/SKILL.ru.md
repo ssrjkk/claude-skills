@@ -1,6 +1,6 @@
 ---
 name: hugo-ssr
-description: SSR with Hugo. server rendering.
+description: "SSR with Hugo. server rendering."
 category: frontend
 tags: [hugo-ssr, frontend, russian]
 models: [sonnet, opus]

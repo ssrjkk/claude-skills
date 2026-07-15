@@ -1,6 +1,6 @@
 ---
 name: postgresql-api
-description: API for Postgresql: API development and integration
+description: "API for Postgresql: API development and integration"
 category: database
 tags: [postgresql-api, database, russian]
 models: [sonnet, opus]

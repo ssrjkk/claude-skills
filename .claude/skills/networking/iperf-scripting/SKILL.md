@@ -1,6 +1,6 @@
 ---
 name: iperf-scripting
-description: Scripting with iperf. automation.
+description: "Scripting with iperf. automation."
 category: networking
 tags: [iperf, scripting, networking, networking-tool]
 models: [gpt-4, claude-3]

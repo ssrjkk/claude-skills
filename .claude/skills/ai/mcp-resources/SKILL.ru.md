@@ -1,6 +1,6 @@
 ---
 name: mcp-resources
-description: MCP resource providers and patterns
+description: "MCP resource providers and patterns"
 category: ai
 tags: [mcp-resources, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: langsmith-best-practices
-description: Best Practices for Langsmith: best practices and patterns
+description: "Best Practices for Langsmith: best practices and patterns"
 category: ai
 tags: [langsmith, best-practices, ai]
 models: [sonnet, opus]

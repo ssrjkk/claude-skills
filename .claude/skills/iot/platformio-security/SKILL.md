@@ -1,6 +1,6 @@
 ---
 name: platformio-security
-description: Security with PlatformIO. device security.
+description: "Security with PlatformIO. device security."
 category: iot
 tags: [platformio, security, iot, iot-platform]
 models: [gpt-4, claude-3]

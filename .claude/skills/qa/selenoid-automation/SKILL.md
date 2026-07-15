@@ -1,6 +1,6 @@
 ---
 name: selenoid-automation
-description: Automation for Selenoid: automation and scripting
+description: "Automation for Selenoid: automation and scripting"
 category: qa
 tags: [selenoid, automation, qa]
 models: [sonnet, opus]

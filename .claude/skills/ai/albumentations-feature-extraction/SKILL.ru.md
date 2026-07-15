@@ -1,6 +1,6 @@
 ---
 name: albumentations-feature-extraction
-description: Feature Extraction with Albumentations. extracting features.
+description: "Feature Extraction with Albumentations. extracting features."
 category: ai
 tags: [albumentations-feature-extraction, ai, russian]
 models: [sonnet, opus]

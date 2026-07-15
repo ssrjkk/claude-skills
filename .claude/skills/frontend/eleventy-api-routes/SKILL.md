@@ -1,6 +1,6 @@
 ---
 name: eleventy-api-routes
-description: API Routes with Eleventy. API endpoints.
+description: "API Routes with Eleventy. API endpoints."
 category: frontend
 tags: [eleventy, api-routes, frontend, meta-framework]
 models: [gpt-4, claude-3]

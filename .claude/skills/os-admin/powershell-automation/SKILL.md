@@ -1,6 +1,6 @@
 ---
 name: powershell-automation
-description: Automation with PowerShell. PowerShell.
+description: "Automation with PowerShell. PowerShell."
 category: os-admin
 tags: [powershell, automation, os-admin, windows]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: numpy-setup
-description: Setup with NumPy. installation.
+description: "Setup with NumPy. installation."
 category: scientific
 tags: [numpy-setup, scientific, russian]
 models: [sonnet, opus]

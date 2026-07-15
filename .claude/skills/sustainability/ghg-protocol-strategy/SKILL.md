@@ -1,6 +1,6 @@
 ---
 name: ghg-protocol-strategy
-description: Strategy with GHG Protocol. strategy.
+description: "Strategy with GHG Protocol. strategy."
 category: sustainability
 tags: [ghg-protocol, strategy, sustainability, sustainability]
 models: [gpt-4, claude-3]

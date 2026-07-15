@@ -1,6 +1,6 @@
 ---
 name: jenkins-debugging
-description: Debugging for Jenkins: debugging and troubleshooting
+description: "Debugging for Jenkins: debugging and troubleshooting"
 category: devops
 tags: [jenkins-debugging, devops, russian]
 models: [sonnet, opus]

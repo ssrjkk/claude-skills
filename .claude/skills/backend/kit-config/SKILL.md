@@ -1,6 +1,6 @@
 ---
 name: kit-config
-description: Config with Go Kit. config management.
+description: "Config with Go Kit. config management."
 category: backend
 tags: [kit, config, backend, backend]
 models: [gpt-4, claude-3]

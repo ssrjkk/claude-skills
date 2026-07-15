@@ -1,6 +1,6 @@
 ---
 name: bevy-basics
-description: Basics for Bevy: fundamentals and core concepts
+description: "Basics for Bevy: fundamentals and core concepts"
 category: gamedev
 tags: [bevy-basics, gamedev, russian]
 models: [sonnet, opus]

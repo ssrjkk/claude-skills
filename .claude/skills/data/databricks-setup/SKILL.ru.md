@@ -1,6 +1,6 @@
 ---
 name: databricks-setup
-description: Setup for Databricks: installation and configuration
+description: "Setup for Databricks: installation and configuration"
 category: data
 tags: [databricks-setup, data, russian]
 models: [sonnet, opus]

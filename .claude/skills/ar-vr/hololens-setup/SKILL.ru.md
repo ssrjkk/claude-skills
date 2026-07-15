@@ -1,6 +1,6 @@
 ---
 name: hololens-setup
-description: Setup with HoloLens. SDK setup.
+description: "Setup with HoloLens. SDK setup."
 category: ar-vr
 tags: [hololens-setup, ar-vr, russian]
 models: [sonnet, opus]

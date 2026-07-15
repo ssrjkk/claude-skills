@@ -1,6 +1,6 @@
 ---
 name: kafka-streaming
-description: Streaming with Kafka. real-time.
+description: "Streaming with Kafka. real-time."
 category: data
 tags: [kafka, streaming, data, data-engineering]
 models: [gpt-4, claude-3]

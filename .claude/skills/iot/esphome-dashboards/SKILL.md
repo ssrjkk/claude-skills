@@ -1,6 +1,6 @@
 ---
 name: esphome-dashboards
-description: Dashboards with ESPHome. dashboards.
+description: "Dashboards with ESPHome. dashboards."
 category: iot
 tags: [esphome, dashboards, iot, iot-platform]
 models: [gpt-4, claude-3]

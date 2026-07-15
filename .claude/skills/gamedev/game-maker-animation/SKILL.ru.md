@@ -1,6 +1,6 @@
 ---
 name: game-maker-animation
-description: Animation with GameMaker. animation.
+description: "Animation with GameMaker. animation."
 category: gamedev
 tags: [game-maker-animation, gamedev, russian]
 models: [sonnet, opus]

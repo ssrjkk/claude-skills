@@ -1,6 +1,6 @@
 ---
 name: unity-ads-configuration
-description: Configuration for Unity-Ads: configuration and setup
+description: "Configuration for Unity-Ads: configuration and setup"
 category: gamedev
 tags: [unity-ads, configuration, gamedev]
 models: [sonnet, opus]

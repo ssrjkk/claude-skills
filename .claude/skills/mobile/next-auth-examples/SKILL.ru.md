@@ -1,6 +1,6 @@
 ---
 name: next-auth-examples
-description: Examples for Next-Auth: practical examples
+description: "Examples for Next-Auth: practical examples"
 category: mobile
 tags: [next-auth-examples, mobile, russian]
 models: [sonnet, opus]

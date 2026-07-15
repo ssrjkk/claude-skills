@@ -1,6 +1,6 @@
 ---
 name: locust-metrics
-description: Metrics with Locust. performance metrics.
+description: "Metrics with Locust. performance metrics."
 category: qa
 tags: [locust, metrics, qa, performance-testing]
 models: [gpt-4, claude-3]

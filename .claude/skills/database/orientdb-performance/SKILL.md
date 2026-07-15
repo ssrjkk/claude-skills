@@ -1,6 +1,6 @@
 ---
 name: orientdb-performance
-description: Performance with OrientDB. optimization.
+description: "Performance with OrientDB. optimization."
 category: database
 tags: [orientdb, performance, database, graph-database]
 models: [gpt-4, claude-3]

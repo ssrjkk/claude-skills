@@ -1,6 +1,6 @@
 ---
 name: zig-error-handling
-description: Error Handling with Zig. error management.
+description: "Error Handling with Zig. error management."
 category: backend
 tags: [zig, error-handling, backend, backend]
 models: [gpt-4, claude-3]

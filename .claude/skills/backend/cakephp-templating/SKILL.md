@@ -1,6 +1,6 @@
 ---
 name: cakephp-templating
-description: Templating with CakePHP. Blade.
+description: "Templating with CakePHP. Blade."
 category: backend
 tags: [cakephp, templating, backend, backend]
 models: [gpt-4, claude-3]

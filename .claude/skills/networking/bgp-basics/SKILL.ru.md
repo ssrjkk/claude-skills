@@ -1,6 +1,6 @@
 ---
 name: bgp-basics
-description: Basics with BGP. fundamentals.
+description: "Basics with BGP. fundamentals."
 category: networking
 tags: [bgp-basics, networking, russian]
 models: [sonnet, opus]

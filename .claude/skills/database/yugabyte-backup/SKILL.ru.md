@@ -1,6 +1,6 @@
 ---
 name: yugabyte-backup
-description: Backup with YugabyteDB. backup strategies.
+description: "Backup with YugabyteDB. backup strategies."
 category: database
 tags: [yugabyte-backup, database, russian]
 models: [sonnet, opus]

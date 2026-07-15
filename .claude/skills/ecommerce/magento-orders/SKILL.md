@@ -1,6 +1,6 @@
 ---
 name: magento-orders
-description: Orders with Magento. order management.
+description: "Orders with Magento. order management."
 category: ecommerce
 tags: [magento, orders, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

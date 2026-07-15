@@ -1,6 +1,6 @@
 ---
 name: mmdetection-optical-flow
-description: Optical Flow with Mmdetection. motion detection.
+description: "Optical Flow with Mmdetection. motion detection."
 category: ai
 tags: [mmdetection-optical-flow, ai, russian]
 models: [sonnet, opus]

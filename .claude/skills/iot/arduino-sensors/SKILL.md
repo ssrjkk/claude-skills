@@ -1,6 +1,6 @@
 ---
 name: arduino-sensors
-description: Sensors with Arduino. sensor integration.
+description: "Sensors with Arduino. sensor integration."
 category: iot
 tags: [arduino, sensors, iot, iot]
 models: [gpt-4, claude-3]

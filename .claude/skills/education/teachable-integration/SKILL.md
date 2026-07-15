@@ -1,6 +1,6 @@
 ---
 name: teachable-integration
-description: Integration with Teachable. LTI.
+description: "Integration with Teachable. LTI."
 category: education
 tags: [teachable, integration, education, education-platform]
 models: [gpt-4, claude-3]

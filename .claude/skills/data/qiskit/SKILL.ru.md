@@ -1,6 +1,6 @@
 ---
 name: qiskit
-description: Development with Qiskit: tools and best practices
+description: "Development with Qiskit: tools and best practices"
 category: data
 tags: [qiskit, data, russian]
 models: [sonnet, opus]

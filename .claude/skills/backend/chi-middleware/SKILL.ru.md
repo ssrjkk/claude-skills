@@ -1,6 +1,6 @@
 ---
 name: chi-middleware
-description: Middleware with Chi. request pipeline.
+description: "Middleware with Chi. request pipeline."
 category: backend
 tags: [chi-middleware, backend, russian]
 models: [sonnet, opus]

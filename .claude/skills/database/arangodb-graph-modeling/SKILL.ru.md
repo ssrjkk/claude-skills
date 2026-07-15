@@ -1,6 +1,6 @@
 ---
 name: arangodb-graph-modeling
-description: Modeling with ArangoDB Graph. graph modeling.
+description: "Modeling with ArangoDB Graph. graph modeling."
 category: database
 tags: [arangodb-graph-modeling, database, russian]
 models: [sonnet, opus]

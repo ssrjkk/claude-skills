@@ -1,6 +1,6 @@
 ---
 name: bottle-templating
-description: Templating with Bottle. server templates.
+description: "Templating with Bottle. server templates."
 category: backend
 tags: [bottle, templating, backend, backend]
 models: [gpt-4, claude-3]

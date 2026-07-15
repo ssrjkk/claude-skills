@@ -1,6 +1,6 @@
 ---
 name: presto-sql
-description: SQL with Presto. SQL queries.
+description: "SQL with Presto. SQL queries."
 category: data
 tags: [presto, sql, data, data-engineering]
 models: [gpt-4, claude-3]

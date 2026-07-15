@@ -1,6 +1,6 @@
 ---
 name: bottle-testing
-description: Testing with Bottle. integration tests.
+description: "Testing with Bottle. integration tests."
 category: backend
 tags: [bottle-testing, backend, russian]
 models: [sonnet, opus]

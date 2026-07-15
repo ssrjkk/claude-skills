@@ -1,6 +1,6 @@
 ---
 name: pgvector-workflow
-description: Workflow for Pgvector: workflow optimization
+description: "Workflow for Pgvector: workflow optimization"
 category: ai
 tags: [pgvector, workflow, ai]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: openhab-integration
-description: Integration with openHAB. integrations.
+description: "Integration with openHAB. integrations."
 category: iot
 tags: [openhab-integration, iot, russian]
 models: [sonnet, opus]

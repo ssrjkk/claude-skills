@@ -1,6 +1,6 @@
 ---
 name: packer-cicd
-description: CI/CD with Packer. pipeline integration.
+description: "CI/CD with Packer. pipeline integration."
 category: devops
 tags: [packer, cicd, devops, iac]
 models: [gpt-4, claude-3]

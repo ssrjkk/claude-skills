@@ -1,6 +1,6 @@
 ---
 name: swc-plugins
-description: Plugins with SWC. plugins.
+description: "Plugins with SWC. plugins."
 category: frontend
 tags: [swc, plugins, frontend, build-tool]
 models: [gpt-4, claude-3]

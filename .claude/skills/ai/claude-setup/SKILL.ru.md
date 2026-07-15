@@ -1,6 +1,6 @@
 ---
 name: claude-setup
-description: Setup for Claude: installation and configuration
+description: "Setup for Claude: installation and configuration"
 category: ai
 tags: [claude-setup, ai, russian]
 models: [sonnet, opus]

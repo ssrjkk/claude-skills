@@ -1,6 +1,6 @@
 ---
 name: bdd-basics
-description: Basics with BDD. fundamentals.
+description: "Basics with BDD. fundamentals."
 category: engineering
 tags: [bdd-basics, engineering, russian]
 models: [sonnet, opus]

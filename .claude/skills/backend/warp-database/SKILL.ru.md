@@ -1,6 +1,6 @@
 ---
 name: warp-database
-description: Database with Warp. DB access.
+description: "Database with Warp. DB access."
 category: backend
 tags: [warp-database, backend, russian]
 models: [sonnet, opus]

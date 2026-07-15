@@ -1,6 +1,6 @@
 ---
 name: vllm-quickstart
-description: Quickstart for Vllm: quick start guide
+description: "Quickstart for Vllm: quick start guide"
 category: ai
 tags: [vllm-quickstart, ai, russian]
 models: [sonnet, opus]

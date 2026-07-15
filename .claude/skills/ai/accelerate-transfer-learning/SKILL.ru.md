@@ -1,6 +1,6 @@
 ---
 name: accelerate-transfer-learning
-description: Transfer Learning with Accelerate. transfer learning.
+description: "Transfer Learning with Accelerate. transfer learning."
 category: ai
 tags: [accelerate-transfer-learning, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: glassdoor-offers
-description: Offers with Glassdoor. offer mgmt.
+description: "Offers with Glassdoor. offer mgmt."
 category: hr
 tags: [glassdoor, offers, hr, recruiting]
 models: [gpt-4, claude-3]

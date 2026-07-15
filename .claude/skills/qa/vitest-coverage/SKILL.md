@@ -1,6 +1,6 @@
 ---
 name: vitest-coverage
-description: Coverage with Vitest. code coverage.
+description: "Coverage with Vitest. code coverage."
 category: qa
 tags: [vitest, coverage, qa, testing]
 models: [gpt-4, claude-3]

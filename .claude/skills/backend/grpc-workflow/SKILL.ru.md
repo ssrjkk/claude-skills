@@ -1,6 +1,6 @@
 ---
 name: grpc-workflow
-description: Workflow for Grpc: workflow optimization
+description: "Workflow for Grpc: workflow optimization"
 category: backend
 tags: [grpc-workflow, backend, russian]
 models: [sonnet, opus]

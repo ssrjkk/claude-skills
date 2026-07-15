@@ -1,6 +1,6 @@
 ---
 name: polars-visualization
-description: Visualization with Polars. charting.
+description: "Visualization with Polars. charting."
 category: data
 tags: [polars, visualization, data, data-science]
 models: [gpt-4, claude-3]

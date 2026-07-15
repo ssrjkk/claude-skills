@@ -1,6 +1,6 @@
 ---
 name: poem-websocket
-description: WebSocket with Poem. real-time.
+description: "WebSocket with Poem. real-time."
 category: backend
 tags: [poem, websocket, backend, backend]
 models: [gpt-4, claude-3]

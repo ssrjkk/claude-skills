@@ -1,6 +1,6 @@
 ---
 name: heatmaps-analysis
-description: Analysis with Heatmaps. data analysis.
+description: "Analysis with Heatmaps. data analysis."
 category: design
 tags: [heatmaps, analysis, design, ux-research]
 models: [gpt-4, claude-3]

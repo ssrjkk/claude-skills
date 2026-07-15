@@ -1,6 +1,6 @@
 ---
 name: svelte-accessibility
-description: Accessibility with Svelte. a11y.
+description: "Accessibility with Svelte. a11y."
 category: frontend
 tags: [svelte-accessibility, frontend, russian]
 models: [sonnet, opus]

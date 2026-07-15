@@ -1,6 +1,6 @@
 ---
 name: tvm-transfer-learning
-description: Transfer Learning with Tvm. transfer learning.
+description: "Transfer Learning with Tvm. transfer learning."
 category: ai
 tags: [tvm-transfer-learning, ai, russian]
 models: [sonnet, opus]

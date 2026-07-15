@@ -1,6 +1,6 @@
 ---
 name: gtk-threading
-description: Threading with GTK. multithreading.
+description: "Threading with GTK. multithreading."
 category: desktop
 tags: [gtk, threading, desktop, desktop]
 models: [gpt-4, claude-3]

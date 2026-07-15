@@ -1,6 +1,6 @@
 ---
 name: altair-dataframe
-description: DataFrame with Altair. data manipulation.
+description: "DataFrame with Altair. data manipulation."
 category: data
 tags: [altair-dataframe, data, russian]
 models: [sonnet, opus]

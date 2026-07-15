@@ -1,6 +1,6 @@
 ---
 name: framer-motion-troubleshooting
-description: Troubleshooting for Framer-Motion: troubleshooting common issues
+description: "Troubleshooting for Framer-Motion: troubleshooting common issues"
 category: frontend
 tags: [framer-motion-troubleshooting, frontend, russian]
 models: [sonnet, opus]

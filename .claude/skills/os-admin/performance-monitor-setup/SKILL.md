@@ -1,6 +1,6 @@
 ---
 name: performance-monitor-setup
-description: Setup with Performance Monitor. installation.
+description: "Setup with Performance Monitor. installation."
 category: os-admin
 tags: [performance-monitor, setup, os-admin, windows]
 models: [gpt-4, claude-3]

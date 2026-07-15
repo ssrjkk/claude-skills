@@ -1,6 +1,6 @@
 ---
 name: stripe-compliance
-description: Compliance with Stripe. PCI DSS.
+description: "Compliance with Stripe. PCI DSS."
 category: payments
 tags: [stripe-compliance, payments, russian]
 models: [sonnet, opus]

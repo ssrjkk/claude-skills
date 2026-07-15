@@ -1,6 +1,6 @@
 ---
 name: optuna-pipeline
-description: Pipeline with Optuna. ML pipelines.
+description: "Pipeline with Optuna. ML pipelines."
 category: ai
 tags: [optuna-pipeline, ai, russian]
 models: [sonnet, opus]

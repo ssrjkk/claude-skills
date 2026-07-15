@@ -1,6 +1,6 @@
 ---
 name: motherduck-workflow
-description: Workflow for Motherduck: workflow optimization
+description: "Workflow for Motherduck: workflow optimization"
 category: database
 tags: [motherduck-workflow, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: backlight-prototyping
-description: Prototyping with Backlight. prototypes.
+description: "Prototyping with Backlight. prototypes."
 category: design
 tags: [backlight, prototyping, design, design]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: jupyter-performance
-description: Performance with Jupyter. optimization.
+description: "Performance with Jupyter. optimization."
 category: data
 tags: [jupyter, performance, data, data-science]
 models: [gpt-4, claude-3]

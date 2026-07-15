@@ -1,6 +1,6 @@
 ---
 name: godot-optimization
-description: Optimization with Godot. performance.
+description: "Optimization with Godot. performance."
 category: gamedev
 tags: [godot-optimization, gamedev, russian]
 models: [sonnet, opus]

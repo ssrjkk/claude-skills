@@ -1,6 +1,6 @@
 ---
 name: nextjs-deployment
-description: Deployment with Next.js. production.
+description: "Deployment with Next.js. production."
 category: frontend
 tags: [nextjs-deployment, frontend, russian]
 models: [sonnet, opus]

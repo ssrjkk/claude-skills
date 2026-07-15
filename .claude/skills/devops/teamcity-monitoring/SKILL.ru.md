@@ -1,6 +1,6 @@
 ---
 name: teamcity-monitoring
-description: Monitoring with TeamCity. monitoring.
+description: "Monitoring with TeamCity. monitoring."
 category: devops
 tags: [teamcity-monitoring, devops, russian]
 models: [sonnet, opus]

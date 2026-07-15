@@ -1,6 +1,6 @@
 ---
 name: blue-yonder-transportation
-description: Transportation with Blue Yonder. TMS.
+description: "Transportation with Blue Yonder. TMS."
 category: supply-chain
 tags: [blue-yonder-transportation, supply-chain, russian]
 models: [sonnet, opus]

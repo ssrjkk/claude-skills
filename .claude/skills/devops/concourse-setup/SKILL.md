@@ -1,6 +1,6 @@
 ---
 name: concourse-setup
-description: Setup with Concourse. pipeline setup.
+description: "Setup with Concourse. pipeline setup."
 category: devops
 tags: [concourse, setup, devops, ci-cd]
 models: [gpt-4, claude-3]

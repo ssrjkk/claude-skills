@@ -1,6 +1,6 @@
 ---
 name: milvus-configuration
-description: Configuration for Milvus: configuration and setup
+description: "Configuration for Milvus: configuration and setup"
 category: ai
 tags: [milvus-configuration, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: octave-setup
-description: Setup with GNU Octave. installation.
+description: "Setup with GNU Octave. installation."
 category: scientific
 tags: [octave, setup, scientific, scientific-computing]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: kind-rbac
-description: RBAC with Kind. access control.
+description: "RBAC with Kind. access control."
 category: devops
 tags: [kind, rbac, devops, kubernetes]
 models: [gpt-4, claude-3]

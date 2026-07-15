@@ -1,6 +1,6 @@
 ---
 name: procedural-generation-tools
-description: Tools with Procedural Generation. tools.
+description: "Tools with Procedural Generation. tools."
 category: gamedev
 tags: [procedural-generation-tools, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: srt-packaging
-description: Packaging with SRT. packaging.
+description: "Packaging with SRT. packaging."
 category: media
 tags: [srt-packaging, media, russian]
 models: [sonnet, opus]

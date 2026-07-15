@@ -1,6 +1,6 @@
 ---
 name: gtk-ui
-description: UI with GTK. UI components.
+description: "UI with GTK. UI components."
 category: desktop
 tags: [gtk-ui, desktop, russian]
 models: [sonnet, opus]

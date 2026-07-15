@@ -1,6 +1,6 @@
 ---
 name: exunit-coverage
-description: Coverage with ExUnit. code coverage.
+description: "Coverage with ExUnit. code coverage."
 category: qa
 tags: [exunit-coverage, qa, russian]
 models: [sonnet, opus]

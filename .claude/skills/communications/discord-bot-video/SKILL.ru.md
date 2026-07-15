@@ -1,6 +1,6 @@
 ---
 name: discord-bot-video
-description: Video with Discord Bot. video calls.
+description: "Video with Discord Bot. video calls."
 category: communications
 tags: [discord-bot-video, communications, russian]
 models: [sonnet, opus]

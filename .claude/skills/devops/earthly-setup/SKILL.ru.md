@@ -1,6 +1,6 @@
 ---
 name: earthly-setup
-description: Setup with Earthly. pipeline setup.
+description: "Setup with Earthly. pipeline setup."
 category: devops
 tags: [earthly-setup, devops, russian]
 models: [sonnet, opus]

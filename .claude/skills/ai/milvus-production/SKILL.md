@@ -1,6 +1,6 @@
 ---
 name: milvus-production
-description: Production for Milvus: production deployment
+description: "Production for Milvus: production deployment"
 category: ai
 tags: [milvus, production, ai]
 models: [sonnet, opus]

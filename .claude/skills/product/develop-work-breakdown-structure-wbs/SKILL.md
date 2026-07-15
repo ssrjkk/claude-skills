@@ -1,6 +1,6 @@
 ---
 name: develop-work-breakdown-structure-wbs
-description: Create a hierarchical decomposition of project scope into manageable deliverables
+description: "Create a hierarchical decomposition of project scope into manageable deliverables"
 category: product
 tags: [WBS, scope, decomposition, deliverables]
 models: [sonnet, opus]

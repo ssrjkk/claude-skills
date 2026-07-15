@@ -1,6 +1,6 @@
 ---
 name: snyk-debugging
-description: Debugging for Snyk: debugging and troubleshooting
+description: "Debugging for Snyk: debugging and troubleshooting"
 category: security
 tags: [snyk-debugging, security, russian]
 models: [sonnet, opus]

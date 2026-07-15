@@ -1,6 +1,6 @@
 ---
 name: argocd-optimization
-description: Optimization for Argocd: performance tuning and optimization
+description: "Optimization for Argocd: performance tuning and optimization"
 category: devops
 tags: [argocd-optimization, devops, russian]
 models: [sonnet, opus]

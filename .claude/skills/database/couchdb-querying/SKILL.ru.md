@@ -1,6 +1,6 @@
 ---
 name: couchdb-querying
-description: Querying with CouchDB. queries.
+description: "Querying with CouchDB. queries."
 category: database
 tags: [couchdb-querying, database, russian]
 models: [sonnet, opus]

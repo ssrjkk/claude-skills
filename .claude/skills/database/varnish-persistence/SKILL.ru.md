@@ -1,6 +1,6 @@
 ---
 name: varnish-persistence
-description: Persistence with Varnish. persistence.
+description: "Persistence with Varnish. persistence."
 category: database
 tags: [varnish-persistence, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: bokeh-dataframe
-description: DataFrame with Bokeh. data manipulation.
+description: "DataFrame with Bokeh. data manipulation."
 category: data
 tags: [bokeh, dataframe, data, data-science]
 models: [gpt-4, claude-3]

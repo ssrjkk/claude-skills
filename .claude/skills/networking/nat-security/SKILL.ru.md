@@ -1,6 +1,6 @@
 ---
 name: nat-security
-description: Security with NAT. hardening.
+description: "Security with NAT. hardening."
 category: networking
 tags: [nat-security, networking, russian]
 models: [sonnet, opus]

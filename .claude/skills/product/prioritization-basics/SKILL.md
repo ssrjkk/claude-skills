@@ -1,6 +1,6 @@
 ---
 name: prioritization-basics
-description: Basics with Prioritization. fundamentals.
+description: "Basics with Prioritization. fundamentals."
 category: product
 tags: [prioritization, basics, product, product-framework]
 models: [gpt-4, claude-3]

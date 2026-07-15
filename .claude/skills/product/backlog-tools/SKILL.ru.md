@@ -1,6 +1,6 @@
 ---
 name: backlog-tools
-description: Tools with Backlog Management. tools.
+description: "Tools with Backlog Management. tools."
 category: product
 tags: [backlog-tools, product, russian]
 models: [sonnet, opus]

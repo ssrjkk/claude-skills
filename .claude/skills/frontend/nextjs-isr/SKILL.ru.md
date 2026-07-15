@@ -1,6 +1,6 @@
 ---
 name: nextjs-isr
-description: ISR with Next.js. incremental.
+description: "ISR with Next.js. incremental."
 category: frontend
 tags: [nextjs-isr, frontend, russian]
 models: [sonnet, opus]

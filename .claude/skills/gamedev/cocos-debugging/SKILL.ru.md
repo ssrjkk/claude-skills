@@ -1,6 +1,6 @@
 ---
 name: cocos-debugging
-description: Debugging for Cocos: debugging and troubleshooting
+description: "Debugging for Cocos: debugging and troubleshooting"
 category: gamedev
 tags: [cocos-debugging, gamedev, russian]
 models: [sonnet, opus]

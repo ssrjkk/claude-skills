@@ -1,6 +1,6 @@
 ---
 name: twilio-webhooks
-description: Webhooks with Twilio. webhooks.
+description: "Webhooks with Twilio. webhooks."
 category: communications
 tags: [twilio-webhooks, communications, russian]
 models: [sonnet, opus]

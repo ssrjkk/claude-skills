@@ -1,6 +1,6 @@
 ---
 name: kanban-basics
-description: Basics with Kanban. fundamentals.
+description: "Basics with Kanban. fundamentals."
 category: product
 tags: [kanban-basics, product, russian]
 models: [sonnet, opus]

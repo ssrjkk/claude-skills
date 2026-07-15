@@ -1,6 +1,6 @@
 ---
 name: tezos-defi
-description: DeFi with Tezos. DeFi.
+description: "DeFi with Tezos. DeFi."
 category: blockchain
 tags: [tezos, defi, blockchain, blockchain]
 models: [gpt-4, claude-3]

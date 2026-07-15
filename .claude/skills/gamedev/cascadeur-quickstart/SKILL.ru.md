@@ -1,6 +1,6 @@
 ---
 name: cascadeur-quickstart
-description: Quickstart for Cascadeur: quick start guide
+description: "Quickstart for Cascadeur: quick start guide"
 category: gamedev
 tags: [cascadeur-quickstart, gamedev, russian]
 models: [sonnet, opus]

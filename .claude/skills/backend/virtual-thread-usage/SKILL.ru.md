@@ -1,6 +1,6 @@
 ---
 name: virtual-thread-usage
-description: Usage for Virtual-Thread: usage reference
+description: "Usage for Virtual-Thread: usage reference"
 category: backend
 tags: [virtual-thread-usage, backend, russian]
 models: [sonnet, opus]

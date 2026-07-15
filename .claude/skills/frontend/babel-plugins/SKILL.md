@@ -1,6 +1,6 @@
 ---
 name: babel-plugins
-description: Plugins with Babel. plugins.
+description: "Plugins with Babel. plugins."
 category: frontend
 tags: [babel, plugins, frontend, build-tool]
 models: [gpt-4, claude-3]

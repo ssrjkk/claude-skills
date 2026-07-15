@@ -1,6 +1,6 @@
 ---
 name: curl-scripting
-description: Scripting with curl. automation.
+description: "Scripting with curl. automation."
 category: networking
 tags: [curl-scripting, networking, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: hono-database
-description: Database with Hono. ORM.
+description: "Database with Hono. ORM."
 category: backend
 tags: [hono, database, backend, backend]
 models: [gpt-4, claude-3]

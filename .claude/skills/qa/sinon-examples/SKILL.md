@@ -1,6 +1,6 @@
 ---
 name: sinon-examples
-description: Examples for Sinon: practical examples
+description: "Examples for Sinon: practical examples"
 category: qa
 tags: [sinon, examples, qa]
 models: [sonnet, opus]

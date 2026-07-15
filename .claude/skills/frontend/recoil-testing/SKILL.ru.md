@@ -1,6 +1,6 @@
 ---
 name: recoil-testing
-description: Testing with Recoil. state testing.
+description: "Testing with Recoil. state testing."
 category: frontend
 tags: [recoil-testing, frontend, russian]
 models: [sonnet, opus]

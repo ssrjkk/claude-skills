@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-api
-description: API for Rpgmaker: API development and integration
+description: "API for Rpgmaker: API development and integration"
 category: gamedev
 tags: [rpgmaker-api, gamedev, russian]
 models: [sonnet, opus]

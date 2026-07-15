@@ -1,6 +1,6 @@
 ---
 name: nestjs-optimization
-description: Optimization for Nestjs: performance tuning and optimization
+description: "Optimization for Nestjs: performance tuning and optimization"
 category: backend
 tags: [nestjs, optimization, backend]
 models: [sonnet, opus]

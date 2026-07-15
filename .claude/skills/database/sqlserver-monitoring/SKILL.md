@@ -1,6 +1,6 @@
 ---
 name: sqlserver-monitoring
-description: Monitoring with SQL Server. monitoring.
+description: "Monitoring with SQL Server. monitoring."
 category: database
 tags: [sqlserver, monitoring, database, sql]
 models: [gpt-4, claude-3]

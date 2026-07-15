@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-animation
-description: Animation with RPG Maker. animation.
+description: "Animation with RPG Maker. animation."
 category: gamedev
 tags: [rpgmaker, animation, gamedev, game-engine]
 models: [gpt-4, claude-3]

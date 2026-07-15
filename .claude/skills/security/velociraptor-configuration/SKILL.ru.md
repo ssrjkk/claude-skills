@@ -1,6 +1,6 @@
 ---
 name: velociraptor-configuration
-description: Configuration for Velociraptor: configuration and setup
+description: "Configuration for Velociraptor: configuration and setup"
 category: security
 tags: [velociraptor-configuration, security, russian]
 models: [sonnet, opus]

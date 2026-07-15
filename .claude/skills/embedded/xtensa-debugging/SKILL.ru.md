@@ -1,6 +1,6 @@
 ---
 name: xtensa-debugging
-description: Debugging with Xtensa. debug.
+description: "Debugging with Xtensa. debug."
 category: embedded
 tags: [xtensa-debugging, embedded, russian]
 models: [sonnet, opus]

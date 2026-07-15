@@ -1,6 +1,6 @@
 ---
 name: express-setup
-description: Setup for Express: installation and configuration
+description: "Setup for Express: installation and configuration"
 category: backend
 tags: [express-setup, backend, russian]
 models: [sonnet, opus]

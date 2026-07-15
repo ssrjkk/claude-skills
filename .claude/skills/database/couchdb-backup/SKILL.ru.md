@@ -1,6 +1,6 @@
 ---
 name: couchdb-backup
-description: Backup with CouchDB. backup.
+description: "Backup with CouchDB. backup."
 category: database
 tags: [couchdb-backup, database, russian]
 models: [sonnet, opus]

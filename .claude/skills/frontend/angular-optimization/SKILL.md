@@ -1,6 +1,6 @@
 ---
 name: angular-optimization
-description: Optimization for Angular: performance tuning and optimization
+description: "Optimization for Angular: performance tuning and optimization"
 category: frontend
 tags: [angular, optimization, frontend]
 models: [sonnet, opus]

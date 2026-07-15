@@ -1,6 +1,6 @@
 ---
 name: vitess-examples
-description: Examples for Vitess: practical examples
+description: "Examples for Vitess: practical examples"
 category: database
 tags: [vitess, examples, database]
 models: [sonnet, opus]

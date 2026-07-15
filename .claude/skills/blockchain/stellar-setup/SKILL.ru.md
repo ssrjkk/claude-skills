@@ -1,6 +1,6 @@
 ---
 name: stellar-setup
-description: Setup with Stellar. node setup.
+description: "Setup with Stellar. node setup."
 category: blockchain
 tags: [stellar-setup, blockchain, russian]
 models: [sonnet, opus]

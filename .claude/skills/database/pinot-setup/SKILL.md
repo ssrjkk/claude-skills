@@ -1,6 +1,6 @@
 ---
 name: pinot-setup
-description: Setup with Apache Pinot. installation.
+description: "Setup with Apache Pinot. installation."
 category: database
 tags: [pinot, setup, database, time-series]
 models: [gpt-4, claude-3]

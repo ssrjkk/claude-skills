@@ -1,6 +1,6 @@
 ---
 name: agile-facilitation
-description: Facilitation with Agile. sessions.
+description: "Facilitation with Agile. sessions."
 category: product
 tags: [agile-facilitation, product, russian]
 models: [sonnet, opus]

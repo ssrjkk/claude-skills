@@ -1,6 +1,6 @@
 ---
 name: jupyter-visualization
-description: Visualization with Jupyter. charting.
+description: "Visualization with Jupyter. charting."
 category: data
 tags: [jupyter, visualization, data, data-science]
 models: [gpt-4, claude-3]

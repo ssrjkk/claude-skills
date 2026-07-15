@@ -1,6 +1,6 @@
 ---
 name: altair-integration
-description: Integration with Altair. data sources.
+description: "Integration with Altair. data sources."
 category: data
 tags: [altair, integration, data, data-science]
 models: [gpt-4, claude-3]

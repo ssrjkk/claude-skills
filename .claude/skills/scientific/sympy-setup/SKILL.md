@@ -1,6 +1,6 @@
 ---
 name: sympy-setup
-description: Setup with SymPy. installation.
+description: "Setup with SymPy. installation."
 category: scientific
 tags: [sympy, setup, scientific, scientific-computing]
 models: [gpt-4, claude-3]

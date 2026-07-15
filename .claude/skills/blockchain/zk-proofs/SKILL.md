@@ -1,6 +1,6 @@
 ---
 name: zk-proofs
-description: Zero-knowledge proof development
+description: "Zero-knowledge proof development"
 category: blockchain
 tags: [zk-proofs, circom, snarkjs, cryptography, blockchain]
 models: [sonnet, opus]

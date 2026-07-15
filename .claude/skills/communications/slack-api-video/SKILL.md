@@ -1,6 +1,6 @@
 ---
 name: slack-api-video
-description: Video with Slack API. video calls.
+description: "Video with Slack API. video calls."
 category: communications
 tags: [slack-api, video, communications, communication-platform]
 models: [gpt-4, claude-3]

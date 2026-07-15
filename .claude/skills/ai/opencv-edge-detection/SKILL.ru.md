@@ -1,6 +1,6 @@
 ---
 name: opencv-edge-detection
-description: Edge Detection with Opencv. edge detection.
+description: "Edge Detection with Opencv. edge detection."
 category: ai
 tags: [opencv-edge-detection, ai, russian]
 models: [sonnet, opus]

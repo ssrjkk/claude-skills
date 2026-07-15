@@ -1,6 +1,6 @@
 ---
 name: cloudflare
-description: Configures Cloudflare for CDN, DNS, Workers, D1, R2, and Durable Objects. Use for edge computing and site acceleration.
+description: "Configures Cloudflare for CDN, DNS, Workers, D1, R2, and Durable Objects. Use for edge computing and site acceleration."
 category: devops
 tags: [cloudflare, cdn, workers, dns, edge]
 models: [sonnet, opus]

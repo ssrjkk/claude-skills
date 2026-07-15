@@ -1,6 +1,6 @@
 ---
 name: framer-prototyping
-description: Prototyping with Framer. prototypes.
+description: "Prototyping with Framer. prototypes."
 category: design
 tags: [framer, prototyping, design, design]
 models: [gpt-4, claude-3]

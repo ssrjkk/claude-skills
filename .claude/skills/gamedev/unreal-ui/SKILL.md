@@ -1,6 +1,6 @@
 ---
 name: unreal-ui
-description: UI with Unreal Engine. game UI.
+description: "UI with Unreal Engine. game UI."
 category: gamedev
 tags: [unreal, ui, gamedev, game-engine]
 models: [gpt-4, claude-3]

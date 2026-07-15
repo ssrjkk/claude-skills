@@ -1,6 +1,6 @@
 ---
 name: emotion-automation
-description: Automation for Emotion: automation and scripting
+description: "Automation for Emotion: automation and scripting"
 category: frontend
 tags: [emotion-automation, frontend, russian]
 models: [sonnet, opus]

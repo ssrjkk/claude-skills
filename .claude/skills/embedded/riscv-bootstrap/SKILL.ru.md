@@ -1,6 +1,6 @@
 ---
 name: riscv-bootstrap
-description: Bootstrap with RISC-V. startup code.
+description: "Bootstrap with RISC-V. startup code."
 category: embedded
 tags: [riscv-bootstrap, embedded, russian]
 models: [sonnet, opus]

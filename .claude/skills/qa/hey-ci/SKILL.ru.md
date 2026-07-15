@@ -1,6 +1,6 @@
 ---
 name: hey-ci
-description: CI with hey. CI integration.
+description: "CI with hey. CI integration."
 category: qa
 tags: [hey-ci, qa, russian]
 models: [sonnet, opus]

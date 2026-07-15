@@ -1,6 +1,6 @@
 ---
 name: okr-best-practices
-description: Best Practices with OKRs. tips.
+description: "Best Practices with OKRs. tips."
 category: product
 tags: [okr, best-practices, product, product-framework]
 models: [gpt-4, claude-3]

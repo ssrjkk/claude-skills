@@ -1,6 +1,6 @@
 ---
 name: docker-setup
-description: Setup with Docker. installation.
+description: "Setup with Docker. installation."
 category: devops
 tags: [docker, setup, devops, container]
 models: [gpt-4, claude-3]

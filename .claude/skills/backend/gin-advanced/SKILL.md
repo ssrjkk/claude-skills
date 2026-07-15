@@ -1,6 +1,6 @@
 ---
 name: gin-advanced
-description: Advanced for Gin: advanced patterns and techniques
+description: "Advanced for Gin: advanced patterns and techniques"
 category: backend
 tags: [gin, advanced, backend]
 models: [sonnet, opus]

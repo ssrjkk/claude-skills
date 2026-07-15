@@ -1,6 +1,6 @@
 ---
 name: dagger-pipeline
-description: Pipeline with Dagger. pipeline creation.
+description: "Pipeline with Dagger. pipeline creation."
 category: devops
 tags: [dagger, pipeline, devops, ci-cd]
 models: [gpt-4, claude-3]

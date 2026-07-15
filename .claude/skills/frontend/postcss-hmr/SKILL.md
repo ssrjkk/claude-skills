@@ -1,6 +1,6 @@
 ---
 name: postcss-hmr
-description: HMR with PostCSS. hot reload.
+description: "HMR with PostCSS. hot reload."
 category: frontend
 tags: [postcss, hmr, frontend, build-tool]
 models: [gpt-4, claude-3]

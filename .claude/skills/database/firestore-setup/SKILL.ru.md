@@ -1,6 +1,6 @@
 ---
 name: firestore-setup
-description: Setup with Firestore. installation.
+description: "Setup with Firestore. installation."
 category: database
 tags: [firestore-setup, database, russian]
 models: [sonnet, opus]

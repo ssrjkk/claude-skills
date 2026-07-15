@@ -1,6 +1,6 @@
 ---
 name: hyperopt-monitoring
-description: Monitoring with Hyperopt. model monitoring.
+description: "Monitoring with Hyperopt. model monitoring."
 category: ai
 tags: [hyperopt, monitoring, ai, ml]
 models: [gpt-4, claude-3]

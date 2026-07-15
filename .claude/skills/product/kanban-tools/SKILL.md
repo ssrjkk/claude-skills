@@ -1,6 +1,6 @@
 ---
 name: kanban-tools
-description: Tools with Kanban. tooling.
+description: "Tools with Kanban. tooling."
 category: product
 tags: [kanban, tools, product, methodology]
 models: [gpt-4, claude-3]

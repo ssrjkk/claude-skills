@@ -1,6 +1,6 @@
 ---
 name: gatsby-deployment
-description: Deployment with Gatsby. production.
+description: "Deployment with Gatsby. production."
 category: frontend
 tags: [gatsby, deployment, frontend, meta-framework]
 models: [gpt-4, claude-3]

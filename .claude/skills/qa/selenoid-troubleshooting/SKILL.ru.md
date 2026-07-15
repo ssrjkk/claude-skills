@@ -1,6 +1,6 @@
 ---
 name: selenoid-troubleshooting
-description: Troubleshooting for Selenoid: troubleshooting common issues
+description: "Troubleshooting for Selenoid: troubleshooting common issues"
 category: qa
 tags: [selenoid-troubleshooting, qa, russian]
 models: [sonnet, opus]

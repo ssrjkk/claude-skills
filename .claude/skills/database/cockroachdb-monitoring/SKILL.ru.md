@@ -1,6 +1,6 @@
 ---
 name: cockroachdb-monitoring
-description: Monitoring with CockroachDB. monitoring.
+description: "Monitoring with CockroachDB. monitoring."
 category: database
 tags: [cockroachdb-monitoring, database, russian]
 models: [sonnet, opus]

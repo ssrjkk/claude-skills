@@ -1,6 +1,6 @@
 ---
 name: apache-quickstart
-description: Quickstart for Apache: quick start guide
+description: "Quickstart for Apache: quick start guide"
 category: backend
 tags: [apache, quickstart, backend]
 models: [sonnet, opus]

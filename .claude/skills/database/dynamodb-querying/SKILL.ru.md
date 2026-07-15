@@ -1,6 +1,6 @@
 ---
 name: dynamodb-querying
-description: Querying with DynamoDB. queries.
+description: "Querying with DynamoDB. queries."
 category: database
 tags: [dynamodb-querying, database, russian]
 models: [sonnet, opus]

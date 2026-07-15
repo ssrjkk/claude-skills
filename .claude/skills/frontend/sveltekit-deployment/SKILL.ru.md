@@ -1,6 +1,6 @@
 ---
 name: sveltekit-deployment
-description: Deployment with SvelteKit. production.
+description: "Deployment with SvelteKit. production."
 category: frontend
 tags: [sveltekit-deployment, frontend, russian]
 models: [sonnet, opus]

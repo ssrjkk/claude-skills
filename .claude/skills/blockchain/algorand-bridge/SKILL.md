@@ -1,6 +1,6 @@
 ---
 name: algorand-bridge
-description: Bridge with Algorand. cross-chain.
+description: "Bridge with Algorand. cross-chain."
 category: blockchain
 tags: [algorand, bridge, blockchain, blockchain]
 models: [gpt-4, claude-3]

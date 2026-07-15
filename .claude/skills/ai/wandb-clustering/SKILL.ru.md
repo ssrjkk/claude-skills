@@ -1,6 +1,6 @@
 ---
 name: wandb-clustering
-description: Clustering with Wandb. grouping data.
+description: "Clustering with Wandb. grouping data."
 category: ai
 tags: [wandb-clustering, ai, russian]
 models: [sonnet, opus]

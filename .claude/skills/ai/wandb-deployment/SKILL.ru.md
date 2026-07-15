@@ -1,6 +1,6 @@
 ---
 name: wandb-deployment
-description: Deployment with Wandb. model serving.
+description: "Deployment with Wandb. model serving."
 category: ai
 tags: [wandb-deployment, ai, russian]
 models: [sonnet, opus]

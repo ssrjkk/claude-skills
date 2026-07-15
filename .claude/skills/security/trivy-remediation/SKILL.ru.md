@@ -1,6 +1,6 @@
 ---
 name: trivy-remediation
-description: Remediation with Trivy. fixing vulns.
+description: "Remediation with Trivy. fixing vulns."
 category: security
 tags: [trivy-remediation, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: lenis-fundamentals
-description: Fundamentals for Lenis: core concepts
+description: "Fundamentals for Lenis: core concepts"
 category: design
 tags: [lenis, fundamentals, design]
 models: [sonnet, opus]

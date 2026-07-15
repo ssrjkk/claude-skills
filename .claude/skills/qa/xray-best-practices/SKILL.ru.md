@@ -1,6 +1,6 @@
 ---
 name: xray-best-practices
-description: Best Practices for Xray: best practices and patterns
+description: "Best Practices for Xray: best practices and patterns"
 category: qa
 tags: [xray-best-practices, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: axum-security
-description: Security for Axum: security best practices
+description: "Security for Axum: security best practices"
 category: backend
 tags: [axum-security, backend, russian]
 models: [sonnet, opus]

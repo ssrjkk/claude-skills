@@ -1,6 +1,6 @@
 ---
 name: capacitor-setup
-description: Setup with Capacitor. setup.
+description: "Setup with Capacitor. setup."
 category: mobile
 tags: [capacitor, setup, mobile, mobile]
 models: [gpt-4, claude-3]

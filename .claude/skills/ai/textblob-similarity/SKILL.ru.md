@@ -1,6 +1,6 @@
 ---
 name: textblob-similarity
-description: Similarity with Textblob. text similarity.
+description: "Similarity with Textblob. text similarity."
 category: ai
 tags: [textblob-similarity, ai, russian]
 models: [sonnet, opus]

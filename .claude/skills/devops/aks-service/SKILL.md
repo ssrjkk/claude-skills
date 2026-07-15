@@ -1,6 +1,6 @@
 ---
 name: aks-service
-description: Service with Azure AKS. services.
+description: "Service with Azure AKS. services."
 category: devops
 tags: [aks, service, devops, kubernetes]
 models: [gpt-4, claude-3]

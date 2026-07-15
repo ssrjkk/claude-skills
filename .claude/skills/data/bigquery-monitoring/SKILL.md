@@ -1,6 +1,6 @@
 ---
 name: bigquery-monitoring
-description: Monitoring for Bigquery: monitoring and observability
+description: "Monitoring for Bigquery: monitoring and observability"
 category: data
 tags: [bigquery, monitoring, data]
 models: [sonnet, opus]

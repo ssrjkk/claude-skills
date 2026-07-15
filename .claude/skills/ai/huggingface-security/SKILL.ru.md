@@ -1,6 +1,6 @@
 ---
 name: huggingface-security
-description: Security for Huggingface: security best practices
+description: "Security for Huggingface: security best practices"
 category: ai
 tags: [huggingface-security, ai, russian]
 models: [sonnet, opus]

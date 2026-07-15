@@ -1,6 +1,6 @@
 ---
 name: xgboost-classification
-description: Classification with Xgboost. building classifiers.
+description: "Classification with Xgboost. building classifiers."
 category: ai
 tags: [xgboost, classification, ai, ml]
 models: [gpt-4, claude-3]

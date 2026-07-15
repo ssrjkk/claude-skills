@@ -1,6 +1,6 @@
 ---
 name: ambassador-implementation
-description: Implementation with Ambassador. practical implementation.
+description: "Implementation with Ambassador. practical implementation."
 category: backend
 tags: [ambassador-implementation, backend, russian]
 models: [sonnet, opus]

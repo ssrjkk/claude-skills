@@ -1,6 +1,6 @@
 ---
 name: circleci-caching
-description: Caching with CircleCI. dependency caching.
+description: "Caching with CircleCI. dependency caching."
 category: devops
 tags: [circleci-caching, devops, russian]
 models: [sonnet, opus]

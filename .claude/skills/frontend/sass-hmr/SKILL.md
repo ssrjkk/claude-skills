@@ -1,6 +1,6 @@
 ---
 name: sass-hmr
-description: HMR with Sass. hot reload.
+description: "HMR with Sass. hot reload."
 category: frontend
 tags: [sass, hmr, frontend, build-tool]
 models: [gpt-4, claude-3]

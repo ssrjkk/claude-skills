@@ -1,6 +1,6 @@
 ---
 name: kafka-connect-production
-description: Production for Kafka-Connect: production deployment
+description: "Production for Kafka-Connect: production deployment"
 category: database
 tags: [kafka-connect-production, database, russian]
 models: [sonnet, opus]

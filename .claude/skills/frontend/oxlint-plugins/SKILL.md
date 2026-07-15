@@ -1,6 +1,6 @@
 ---
 name: oxlint-plugins
-description: Plugins with Oxlint. plugins.
+description: "Plugins with Oxlint. plugins."
 category: frontend
 tags: [oxlint, plugins, frontend, build-tool]
 models: [gpt-4, claude-3]

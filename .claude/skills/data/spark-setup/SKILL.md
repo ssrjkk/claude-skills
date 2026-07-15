@@ -1,6 +1,6 @@
 ---
 name: spark-setup
-description: Setup for Spark: installation and configuration
+description: "Setup for Spark: installation and configuration"
 category: data
 tags: [spark, setup, data]
 models: [sonnet, opus]

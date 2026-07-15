@@ -1,6 +1,6 @@
 ---
 name: elastic-metrics
-description: Metrics with Elastic Stack. collecting metrics.
+description: "Metrics with Elastic Stack. collecting metrics."
 category: devops
 tags: [elastic, metrics, devops, monitoring]
 models: [gpt-4, claude-3]

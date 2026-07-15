@@ -1,6 +1,6 @@
 ---
 name: oauth2-audit
-description: Audit with OAuth 2.0. security audit.
+description: "Audit with OAuth 2.0. security audit."
 category: security
 tags: [oauth2-audit, security, russian]
 models: [sonnet, opus]

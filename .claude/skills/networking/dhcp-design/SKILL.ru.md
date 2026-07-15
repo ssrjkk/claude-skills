@@ -1,6 +1,6 @@
 ---
 name: dhcp-design
-description: Design with DHCP. network design.
+description: "Design with DHCP. network design."
 category: networking
 tags: [dhcp-design, networking, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: argocd-testing
-description: Testing for Argocd: testing and validation
+description: "Testing for Argocd: testing and validation"
 category: devops
 tags: [argocd-testing, devops, russian]
 models: [sonnet, opus]

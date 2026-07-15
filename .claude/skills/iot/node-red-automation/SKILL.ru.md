@@ -1,6 +1,6 @@
 ---
 name: node-red-automation
-description: Automation with Node-RED. automation.
+description: "Automation with Node-RED. automation."
 category: iot
 tags: [node-red-automation, iot, russian]
 models: [sonnet, opus]

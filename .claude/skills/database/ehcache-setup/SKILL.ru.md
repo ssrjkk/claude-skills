@@ -1,6 +1,6 @@
 ---
 name: ehcache-setup
-description: Setup with Ehcache. installation.
+description: "Setup with Ehcache. installation."
 category: database
 tags: [ehcache-setup, database, russian]
 models: [sonnet, opus]

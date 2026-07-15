@@ -1,6 +1,6 @@
 ---
 name: easypost-tracking
-description: Tracking with EasyPost. tracking.
+description: "Tracking with EasyPost. tracking."
 category: supply-chain
 tags: [easypost, tracking, supply-chain, logistics]
 models: [gpt-4, claude-3]

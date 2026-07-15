@@ -1,6 +1,6 @@
 ---
 name: chef-state
-description: State with Chef. state management.
+description: "State with Chef. state management."
 category: devops
 tags: [chef, state, devops, iac]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: csharp-error-handling
-description: Error Handling with Csharp. error management.
+description: "Error Handling with Csharp. error management."
 category: backend
 tags: [csharp, error-handling, backend, backend]
 models: [gpt-4, claude-3]

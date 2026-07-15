@@ -1,6 +1,6 @@
 ---
 name: after-effects-export
-description: Export with After Effects. export.
+description: "Export with After Effects. export."
 category: media
 tags: [after-effects, export, media, media-production]
 models: [gpt-4, claude-3]

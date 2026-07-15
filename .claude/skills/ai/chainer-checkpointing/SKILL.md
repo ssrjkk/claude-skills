@@ -1,6 +1,6 @@
 ---
 name: chainer-checkpointing
-description: Checkpointing with Chainer. model saving.
+description: "Checkpointing with Chainer. model saving."
 category: ai
 tags: [chainer, checkpointing, ai, deep-learning]
 models: [gpt-4, claude-3]

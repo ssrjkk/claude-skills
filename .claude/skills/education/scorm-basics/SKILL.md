@@ -1,6 +1,6 @@
 ---
 name: scorm-basics
-description: Basics with SCORM. fundamentals.
+description: "Basics with SCORM. fundamentals."
 category: education
 tags: [scorm, basics, education, education-standard]
 models: [gpt-4, claude-3]

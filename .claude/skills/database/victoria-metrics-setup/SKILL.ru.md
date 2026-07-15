@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-setup
-description: Setup with VictoriaMetrics. installation.
+description: "Setup with VictoriaMetrics. installation."
 category: database
 tags: [victoria-metrics-setup, database, russian]
 models: [sonnet, opus]

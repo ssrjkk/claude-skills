@@ -1,6 +1,6 @@
 ---
 name: ldtk-automation
-description: Automation for Ldtk: automation and scripting
+description: "Automation for Ldtk: automation and scripting"
 category: gamedev
 tags: [ldtk, automation, gamedev]
 models: [sonnet, opus]

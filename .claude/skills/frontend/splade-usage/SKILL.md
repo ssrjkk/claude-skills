@@ -1,6 +1,6 @@
 ---
 name: splade-usage
-description: Usage for Splade: usage reference
+description: "Usage for Splade: usage reference"
 category: frontend
 tags: [splade, usage, frontend]
 models: [sonnet, opus]

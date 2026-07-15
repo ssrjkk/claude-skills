@@ -1,6 +1,6 @@
 ---
 name: ffmpeg-encoding
-description: Encoding with FFmpeg. encoding.
+description: "Encoding with FFmpeg. encoding."
 category: media
 tags: [ffmpeg-encoding, media, russian]
 models: [sonnet, opus]

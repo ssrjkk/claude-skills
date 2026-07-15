@@ -1,6 +1,6 @@
 ---
 name: gamemaker-advanced
-description: Advanced for Gamemaker: advanced patterns and techniques
+description: "Advanced for Gamemaker: advanced patterns and techniques"
 category: gamedev
 tags: [gamemaker-advanced, gamedev, russian]
 models: [sonnet, opus]

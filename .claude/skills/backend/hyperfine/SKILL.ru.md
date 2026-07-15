@@ -1,6 +1,6 @@
 ---
 name: hyperfine
-description: Development with Hyperfine: tools and best practices
+description: "Development with Hyperfine: tools and best practices"
 category: backend
 tags: [hyperfine, backend, russian]
 models: [sonnet, opus]

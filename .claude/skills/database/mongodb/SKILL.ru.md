@@ -1,6 +1,6 @@
 ---
 name: mongodb
-description: Models data and builds queries with MongoDB aggregation pipelines and indexes. Use for flexible document-based storage.
+description: "Models data and builds queries with MongoDB aggregation pipelines and indexes. Use for flexible document-based storage."
 category: database
 tags: [mongodb, database, russian]
 models: [sonnet, opus]

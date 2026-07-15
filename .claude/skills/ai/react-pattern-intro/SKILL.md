@@ -1,6 +1,6 @@
 ---
 name: react-pattern-intro
-description: Intro for React-Pattern: introduction
+description: "Intro for React-Pattern: introduction"
 category: ai
 tags: [react-pattern, intro, ai]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: manifest-usage
-description: Usage for Manifest: usage reference
+description: "Usage for Manifest: usage reference"
 category: frontend
 tags: [manifest, usage, frontend]
 models: [sonnet, opus]

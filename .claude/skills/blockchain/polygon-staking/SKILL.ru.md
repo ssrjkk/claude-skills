@@ -1,6 +1,6 @@
 ---
 name: polygon-staking
-description: Staking with Polygon. staking.
+description: "Staking with Polygon. staking."
 category: blockchain
 tags: [polygon-staking, blockchain, russian]
 models: [sonnet, opus]

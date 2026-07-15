@@ -1,6 +1,6 @@
 ---
 name: sails-middleware
-description: Middleware with Sails.js. request pipeline.
+description: "Middleware with Sails.js. request pipeline."
 category: backend
 tags: [sails-middleware, backend, russian]
 models: [sonnet, opus]

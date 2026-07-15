@@ -1,6 +1,6 @@
 ---
 name: haproxy-quickstart
-description: Quickstart for Haproxy: quick start guide
+description: "Quickstart for Haproxy: quick start guide"
 category: backend
 tags: [haproxy, quickstart, backend]
 models: [sonnet, opus]

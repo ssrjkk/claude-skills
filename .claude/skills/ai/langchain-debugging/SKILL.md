@@ -1,6 +1,6 @@
 ---
 name: langchain-debugging
-description: Debugging for Langchain: debugging and troubleshooting
+description: "Debugging for Langchain: debugging and troubleshooting"
 category: ai
 tags: [langchain, debugging, ai]
 models: [sonnet, opus]

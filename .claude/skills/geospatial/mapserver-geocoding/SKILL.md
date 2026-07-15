@@ -1,6 +1,6 @@
 ---
 name: mapserver-geocoding
-description: Geocoding with MapServer. geocoding.
+description: "Geocoding with MapServer. geocoding."
 category: geospatial
 tags: [mapserver, geocoding, geospatial, gis]
 models: [gpt-4, claude-3]

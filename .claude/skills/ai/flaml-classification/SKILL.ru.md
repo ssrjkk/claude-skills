@@ -1,6 +1,6 @@
 ---
 name: flaml-classification
-description: Classification with Flaml. building classifiers.
+description: "Classification with Flaml. building classifiers."
 category: ai
 tags: [flaml-classification, ai, russian]
 models: [sonnet, opus]

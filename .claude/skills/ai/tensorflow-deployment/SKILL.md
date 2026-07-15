@@ -1,6 +1,6 @@
 ---
 name: tensorflow-deployment
-description: Deployment for Tensorflow: deployment and release
+description: "Deployment for Tensorflow: deployment and release"
 category: ai
 tags: [tensorflow, deployment, ai]
 models: [sonnet, opus]

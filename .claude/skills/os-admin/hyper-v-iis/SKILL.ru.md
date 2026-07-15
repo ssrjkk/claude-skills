@@ -1,6 +1,6 @@
 ---
 name: hyper-v-iis
-description: IIS with Hyper-V. web server.
+description: "IIS with Hyper-V. web server."
 category: os-admin
 tags: [hyper-v-iis, os-admin, russian]
 models: [sonnet, opus]

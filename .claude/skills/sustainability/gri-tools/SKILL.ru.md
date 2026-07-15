@@ -1,6 +1,6 @@
 ---
 name: gri-tools
-description: Tools with GRI. tools.
+description: "Tools with GRI. tools."
 category: sustainability
 tags: [gri-tools, sustainability, russian]
 models: [sonnet, opus]

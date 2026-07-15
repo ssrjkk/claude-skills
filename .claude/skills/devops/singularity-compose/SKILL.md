@@ -1,6 +1,6 @@
 ---
 name: singularity-compose
-description: Compose with Singularity. multi-container.
+description: "Compose with Singularity. multi-container."
 category: devops
 tags: [singularity, compose, devops, container]
 models: [gpt-4, claude-3]

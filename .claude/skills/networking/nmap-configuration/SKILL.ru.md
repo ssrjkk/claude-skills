@@ -1,6 +1,6 @@
 ---
 name: nmap-configuration
-description: Config with Nmap. advanced config.
+description: "Config with Nmap. advanced config."
 category: networking
 tags: [nmap-configuration, networking, russian]
 models: [sonnet, opus]

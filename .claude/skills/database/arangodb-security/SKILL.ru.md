@@ -1,6 +1,6 @@
 ---
 name: arangodb-security
-description: Security with ArangoDB. security.
+description: "Security with ArangoDB. security."
 category: database
 tags: [arangodb-security, database, russian]
 models: [sonnet, opus]

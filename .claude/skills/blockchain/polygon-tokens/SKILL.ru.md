@@ -1,6 +1,6 @@
 ---
 name: polygon-tokens
-description: Tokens with Polygon. token standards.
+description: "Tokens with Polygon. token standards."
 category: blockchain
 tags: [polygon-tokens, blockchain, russian]
 models: [sonnet, opus]

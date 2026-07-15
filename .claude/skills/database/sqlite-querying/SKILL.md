@@ -1,6 +1,6 @@
 ---
 name: sqlite-querying
-description: Querying with SQLite. SQL queries.
+description: "Querying with SQLite. SQL queries."
 category: database
 tags: [sqlite, querying, database, sql]
 models: [gpt-4, claude-3]

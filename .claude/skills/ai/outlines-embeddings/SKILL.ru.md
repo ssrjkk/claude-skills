@@ -1,6 +1,6 @@
 ---
 name: outlines-embeddings
-description: Embeddings with Outlines. text embeddings.
+description: "Embeddings with Outlines. text embeddings."
 category: ai
 tags: [outlines-embeddings, ai, russian]
 models: [sonnet, opus]

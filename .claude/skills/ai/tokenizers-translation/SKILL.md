@@ -1,6 +1,6 @@
 ---
 name: tokenizers-translation
-description: Translation with Tokenizers. machine translation.
+description: "Translation with Tokenizers. machine translation."
 category: ai
 tags: [tokenizers, translation, ai, nlp]
 models: [gpt-4, claude-3]

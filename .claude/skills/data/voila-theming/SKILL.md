@@ -1,6 +1,6 @@
 ---
 name: voila-theming
-description: Theming with Voila. themes.
+description: "Theming with Voila. themes."
 category: data
 tags: [voila, theming, data, data-apps]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: nextjs-data-fetching
-description: Data Fetching with Next.js. data loading.
+description: "Data Fetching with Next.js. data loading."
 category: frontend
 tags: [nextjs-data-fetching, frontend, russian]
 models: [sonnet, opus]

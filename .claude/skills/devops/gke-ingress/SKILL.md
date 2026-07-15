@@ -1,6 +1,6 @@
 ---
 name: gke-ingress
-description: Ingress with Google GKE. ingress controller.
+description: "Ingress with Google GKE. ingress controller."
 category: devops
 tags: [gke, ingress, devops, kubernetes]
 models: [gpt-4, claude-3]

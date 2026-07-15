@@ -1,6 +1,6 @@
 ---
 name: starrocks-quickstart
-description: Quickstart for Starrocks: quick start guide
+description: "Quickstart for Starrocks: quick start guide"
 category: data
 tags: [starrocks-quickstart, data, russian]
 models: [sonnet, opus]

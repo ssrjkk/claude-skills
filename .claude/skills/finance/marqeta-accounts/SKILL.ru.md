@@ -1,6 +1,6 @@
 ---
 name: marqeta-accounts
-description: Accounts with Marqeta. account linking.
+description: "Accounts with Marqeta. account linking."
 category: finance
 tags: [marqeta-accounts, finance, russian]
 models: [sonnet, opus]

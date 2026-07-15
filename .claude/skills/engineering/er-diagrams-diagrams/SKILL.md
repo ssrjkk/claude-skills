@@ -1,6 +1,6 @@
 ---
 name: er-diagrams-diagrams
-description: Diagrams with ER Diagrams. diagramming.
+description: "Diagrams with ER Diagrams. diagramming."
 category: engineering
 tags: [er-diagrams, diagrams, engineering, modeling]
 models: [gpt-4, claude-3]

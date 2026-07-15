@@ -1,6 +1,6 @@
 ---
 name: penpot-setup
-description: Setup with Penpot. workspace.
+description: "Setup with Penpot. workspace."
 category: design
 tags: [penpot, setup, design, design]
 models: [gpt-4, claude-3]

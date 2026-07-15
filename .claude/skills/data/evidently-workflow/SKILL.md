@@ -1,6 +1,6 @@
 ---
 name: evidently-workflow
-description: Workflow for Evidently: workflow optimization
+description: "Workflow for Evidently: workflow optimization"
 category: data
 tags: [evidently, workflow, data]
 models: [sonnet, opus]

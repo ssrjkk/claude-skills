@@ -1,6 +1,6 @@
 ---
 name: bash-logging
-description: Logging with Bash Scripting. logging.
+description: "Logging with Bash Scripting. logging."
 category: os-admin
 tags: [bash-logging, os-admin, russian]
 models: [sonnet, opus]

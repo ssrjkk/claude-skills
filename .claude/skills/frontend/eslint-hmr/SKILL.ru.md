@@ -1,6 +1,6 @@
 ---
 name: eslint-hmr
-description: HMR with ESLint. hot reload.
+description: "HMR with ESLint. hot reload."
 category: frontend
 tags: [eslint-hmr, frontend, russian]
 models: [sonnet, opus]

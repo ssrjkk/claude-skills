@@ -1,6 +1,6 @@
 ---
 name: actix-advanced
-description: Advanced for Actix: advanced patterns and techniques
+description: "Advanced for Actix: advanced patterns and techniques"
 category: backend
 tags: [actix, advanced, backend]
 models: [sonnet, opus]

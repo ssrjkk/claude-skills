@@ -1,6 +1,6 @@
 ---
 name: codeigniter-testing
-description: Testing with CodeIgniter. PHPUnit.
+description: "Testing with CodeIgniter. PHPUnit."
 category: backend
 tags: [codeigniter-testing, backend, russian]
 models: [sonnet, opus]

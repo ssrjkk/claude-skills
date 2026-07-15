@@ -1,6 +1,6 @@
 ---
 name: accelerate-transfer-learning
-description: Transfer Learning with Accelerate. transfer learning.
+description: "Transfer Learning with Accelerate. transfer learning."
 category: ai
 tags: [accelerate, transfer-learning, ai, deep-learning]
 models: [gpt-4, claude-3]

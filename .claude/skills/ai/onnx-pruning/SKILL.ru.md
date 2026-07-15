@@ -1,6 +1,6 @@
 ---
 name: onnx-pruning
-description: Pruning with Onnx. model pruning.
+description: "Pruning with Onnx. model pruning."
 category: ai
 tags: [onnx-pruning, ai, russian]
 models: [sonnet, opus]

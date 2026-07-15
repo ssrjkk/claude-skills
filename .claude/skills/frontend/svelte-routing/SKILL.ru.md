@@ -1,6 +1,6 @@
 ---
 name: svelte-routing
-description: Routing with Svelte. client routing.
+description: "Routing with Svelte. client routing."
 category: frontend
 tags: [svelte-routing, frontend, russian]
 models: [sonnet, opus]

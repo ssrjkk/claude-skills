@@ -1,6 +1,6 @@
 ---
 name: hey-spike
-description: Spike with hey. spike tests.
+description: "Spike with hey. spike tests."
 category: qa
 tags: [hey, spike, qa, performance-testing]
 models: [gpt-4, claude-3]

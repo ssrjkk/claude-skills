@@ -1,6 +1,6 @@
 ---
 name: sd-wan-troubleshooting
-description: Troubleshooting with SD-WAN. diagnostics.
+description: "Troubleshooting with SD-WAN. diagnostics."
 category: networking
 tags: [sd-wan, troubleshooting, networking, networking]
 models: [gpt-4, claude-3]

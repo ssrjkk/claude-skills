@@ -1,6 +1,6 @@
 ---
 name: voip-security
-description: Security with VoIP. security.
+description: "Security with VoIP. security."
 category: communications
 tags: [voip, security, communications, communication-protocol]
 models: [gpt-4, claude-3]

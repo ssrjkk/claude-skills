@@ -1,6 +1,6 @@
 ---
 name: api-gateway-implementation
-description: Implementation with API Gateway. practical implementation.
+description: "Implementation with API Gateway. practical implementation."
 category: backend
 tags: [api-gateway, implementation, backend, architecture]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: cassandra-schema
-description: Schema Design with Cassandra. schema design.
+description: "Schema Design with Cassandra. schema design."
 category: database
 tags: [cassandra-schema, database, russian]
 models: [sonnet, opus]

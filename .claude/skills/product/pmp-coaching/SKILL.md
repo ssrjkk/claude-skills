@@ -1,6 +1,6 @@
 ---
 name: pmp-coaching
-description: Coaching with PMP. team coaching.
+description: "Coaching with PMP. team coaching."
 category: product
 tags: [pmp, coaching, product, methodology]
 models: [gpt-4, claude-3]

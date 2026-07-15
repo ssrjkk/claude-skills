@@ -1,6 +1,6 @@
 ---
 name: pytest-integration
-description: Integration with pytest. integration tests.
+description: "Integration with pytest. integration tests."
 category: qa
 tags: [pytest-integration, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: phaser-deployment
-description: Deployment for Phaser: deployment and release
+description: "Deployment for Phaser: deployment and release"
 category: gamedev
 tags: [phaser, deployment, gamedev]
 models: [sonnet, opus]

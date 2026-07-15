@@ -1,6 +1,6 @@
 ---
 name: backlog-facilitation
-description: Facilitation with Backlog Management. running.
+description: "Facilitation with Backlog Management. running."
 category: product
 tags: [backlog-facilitation, product, russian]
 models: [sonnet, opus]

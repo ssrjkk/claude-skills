@@ -1,6 +1,6 @@
 ---
 name: transcoding-encoding
-description: Encoding with Transcoding. encoding.
+description: "Encoding with Transcoding. encoding."
 category: media
 tags: [transcoding, encoding, media, media-streaming]
 models: [gpt-4, claude-3]

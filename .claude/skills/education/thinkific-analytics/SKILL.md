@@ -1,6 +1,6 @@
 ---
 name: thinkific-analytics
-description: Analytics with Thinkific. analytics.
+description: "Analytics with Thinkific. analytics."
 category: education
 tags: [thinkific, analytics, education, education-platform]
 models: [gpt-4, claude-3]

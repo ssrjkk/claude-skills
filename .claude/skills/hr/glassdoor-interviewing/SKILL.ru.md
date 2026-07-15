@@ -1,6 +1,6 @@
 ---
 name: glassdoor-interviewing
-description: Interviewing with Glassdoor. interviews.
+description: "Interviewing with Glassdoor. interviews."
 category: hr
 tags: [glassdoor-interviewing, hr, russian]
 models: [sonnet, opus]

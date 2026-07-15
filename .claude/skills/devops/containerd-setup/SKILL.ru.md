@@ -1,6 +1,6 @@
 ---
 name: containerd-setup
-description: Setup with containerd. installation.
+description: "Setup with containerd. installation."
 category: devops
 tags: [containerd-setup, devops, russian]
 models: [sonnet, opus]

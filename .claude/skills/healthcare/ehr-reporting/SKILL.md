@@ -1,6 +1,6 @@
 ---
 name: ehr-reporting
-description: Reporting with EHR Systems. reports.
+description: "Reporting with EHR Systems. reports."
 category: healthcare
 tags: [ehr, reporting, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

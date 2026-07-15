@@ -1,6 +1,6 @@
 ---
 name: valtio-actions
-description: Actions with Valtio. actions.
+description: "Actions with Valtio. actions."
 category: frontend
 tags: [valtio-actions, frontend, russian]
 models: [sonnet, opus]

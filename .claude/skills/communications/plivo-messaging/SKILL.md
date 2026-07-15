@@ -1,6 +1,6 @@
 ---
 name: plivo-messaging
-description: Messaging with Plivo. sending messages.
+description: "Messaging with Plivo. sending messages."
 category: communications
 tags: [plivo, messaging, communications, communication-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: nightwatch-mobile
-description: Mobile with Nightwatch. mobile testing.
+description: "Mobile with Nightwatch. mobile testing."
 category: qa
 tags: [nightwatch-mobile, qa, russian]
 models: [sonnet, opus]

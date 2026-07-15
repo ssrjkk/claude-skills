@@ -1,6 +1,6 @@
 ---
 name: nextjs-ssg
-description: SSG with Next.js. static generation.
+description: "SSG with Next.js. static generation."
 category: frontend
 tags: [nextjs, ssg, frontend, meta-framework]
 models: [gpt-4, claude-3]

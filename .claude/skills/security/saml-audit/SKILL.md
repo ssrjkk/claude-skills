@@ -1,6 +1,6 @@
 ---
 name: saml-audit
-description: Audit with SAML. security audit.
+description: "Audit with SAML. security audit."
 category: security
 tags: [saml, audit, security, security]
 models: [gpt-4, claude-3]

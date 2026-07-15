@@ -1,6 +1,6 @@
 ---
 name: defold-scripting
-description: Scripting with Defold. game logic.
+description: "Scripting with Defold. game logic."
 category: gamedev
 tags: [defold-scripting, gamedev, russian]
 models: [sonnet, opus]

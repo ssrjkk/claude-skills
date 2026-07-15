@@ -1,6 +1,6 @@
 ---
 name: laminas-testing
-description: Testing with Laminas. PHPUnit.
+description: "Testing with Laminas. PHPUnit."
 category: backend
 tags: [laminas, testing, backend, backend]
 models: [gpt-4, claude-3]

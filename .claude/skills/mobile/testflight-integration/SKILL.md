@@ -1,6 +1,6 @@
 ---
 name: testflight-integration
-description: Integration for Testflight: integration with other tools
+description: "Integration for Testflight: integration with other tools"
 category: mobile
 tags: [testflight, integration, mobile]
 models: [sonnet, opus]

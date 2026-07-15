@@ -1,6 +1,6 @@
 ---
 name: databricks-debugging
-description: Debugging for Databricks: debugging and troubleshooting
+description: "Debugging for Databricks: debugging and troubleshooting"
 category: data
 tags: [databricks, debugging, data]
 models: [sonnet, opus]

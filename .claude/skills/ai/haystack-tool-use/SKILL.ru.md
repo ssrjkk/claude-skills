@@ -1,6 +1,6 @@
 ---
 name: haystack-tool-use
-description: Tool Use with Haystack. function calling.
+description: "Tool Use with Haystack. function calling."
 category: ai
 tags: [haystack-tool-use, ai, russian]
 models: [sonnet, opus]

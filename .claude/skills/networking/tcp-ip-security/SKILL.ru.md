@@ -1,6 +1,6 @@
 ---
 name: tcp-ip-security
-description: Security with TCP/IP. hardening.
+description: "Security with TCP/IP. hardening."
 category: networking
 tags: [tcp-ip-security, networking, russian]
 models: [sonnet, opus]

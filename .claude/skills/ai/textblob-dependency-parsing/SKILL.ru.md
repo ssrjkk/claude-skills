@@ -1,6 +1,6 @@
 ---
 name: textblob-dependency-parsing
-description: Dependency Parsing with Textblob. syntax analysis.
+description: "Dependency Parsing with Textblob. syntax analysis."
 category: ai
 tags: [textblob-dependency-parsing, ai, russian]
 models: [sonnet, opus]

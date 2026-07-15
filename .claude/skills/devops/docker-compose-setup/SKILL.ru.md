@@ -1,6 +1,6 @@
 ---
 name: docker-compose-setup
-description: Setup with Docker Compose. installation.
+description: "Setup with Docker Compose. installation."
 category: devops
 tags: [docker-compose-setup, devops, russian]
 models: [sonnet, opus]

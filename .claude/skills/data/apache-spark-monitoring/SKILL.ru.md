@@ -1,6 +1,6 @@
 ---
 name: apache-spark-monitoring
-description: Monitoring with Apache Spark. monitoring.
+description: "Monitoring with Apache Spark. monitoring."
 category: data
 tags: [apache-spark-monitoring, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: open-world-planning
-description: Planning with Open World Design. planning.
+description: "Planning with Open World Design. planning."
 category: gamedev
 tags: [open-world-planning, gamedev, russian]
 models: [sonnet, opus]

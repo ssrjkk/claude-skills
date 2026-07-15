@@ -1,6 +1,6 @@
 ---
 name: cassandra-monitoring
-description: Monitoring with Cassandra. monitoring.
+description: "Monitoring with Cassandra. monitoring."
 category: database
 tags: [cassandra, monitoring, database, nosql]
 models: [gpt-4, claude-3]

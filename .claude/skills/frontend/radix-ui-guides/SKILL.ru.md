@@ -1,6 +1,6 @@
 ---
 name: radix-ui-guides
-description: Guides for Radix-Ui: how-to guides
+description: "Guides for Radix-Ui: how-to guides"
 category: frontend
 tags: [radix-ui-guides, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: embedding-chunking
-description: Splits documents into chunks and creates embeddings for semantic search. Use in RAG pipelines.
+description: "Splits documents into chunks and creates embeddings for semantic search. Use in RAG pipelines."
 category: ai
 tags: [embedding-chunking, ai, russian]
 models: [sonnet, opus]

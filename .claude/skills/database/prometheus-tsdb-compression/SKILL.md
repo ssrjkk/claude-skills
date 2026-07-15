@@ -1,6 +1,6 @@
 ---
 name: prometheus-tsdb-compression
-description: Compression with Prometheus TSDB. compression.
+description: "Compression with Prometheus TSDB. compression."
 category: database
 tags: [prometheus-tsdb, compression, database, time-series]
 models: [gpt-4, claude-3]

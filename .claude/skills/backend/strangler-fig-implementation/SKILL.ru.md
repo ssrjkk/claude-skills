@@ -1,6 +1,6 @@
 ---
 name: strangler-fig-implementation
-description: Implementation with Strangler Fig. practical implementation.
+description: "Implementation with Strangler Fig. practical implementation."
 category: backend
 tags: [strangler-fig-implementation, backend, russian]
 models: [sonnet, opus]

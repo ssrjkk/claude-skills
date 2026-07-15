@@ -1,6 +1,6 @@
 ---
 name: scipy-simulation
-description: Simulation with SciPy. Monte Carlo.
+description: "Simulation with SciPy. Monte Carlo."
 category: scientific
 tags: [scipy-simulation, scientific, russian]
 models: [sonnet, opus]

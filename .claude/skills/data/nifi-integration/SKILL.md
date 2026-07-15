@@ -1,6 +1,6 @@
 ---
 name: nifi-integration
-description: Integration with NiFi. connectors.
+description: "Integration with NiFi. connectors."
 category: data
 tags: [nifi, integration, data, data-engineering]
 models: [gpt-4, claude-3]

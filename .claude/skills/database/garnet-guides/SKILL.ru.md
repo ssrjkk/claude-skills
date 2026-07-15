@@ -1,6 +1,6 @@
 ---
 name: garnet-guides
-description: Guides for Garnet: how-to guides
+description: "Guides for Garnet: how-to guides"
 category: database
 tags: [garnet-guides, database, russian]
 models: [sonnet, opus]

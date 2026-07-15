@@ -1,6 +1,6 @@
 ---
 name: fastlane-automation
-description: Automation for Fastlane: automation and scripting
+description: "Automation for Fastlane: automation and scripting"
 category: mobile
 tags: [fastlane-automation, mobile, russian]
 models: [sonnet, opus]

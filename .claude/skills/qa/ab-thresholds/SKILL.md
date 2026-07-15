@@ -1,6 +1,6 @@
 ---
 name: ab-thresholds
-description: Thresholds with Apache Bench. pass/fail.
+description: "Thresholds with Apache Bench. pass/fail."
 category: qa
 tags: [ab, thresholds, qa, performance-testing]
 models: [gpt-4, claude-3]

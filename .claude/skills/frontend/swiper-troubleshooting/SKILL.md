@@ -1,6 +1,6 @@
 ---
 name: swiper-troubleshooting
-description: Troubleshooting for Swiper: troubleshooting common issues
+description: "Troubleshooting for Swiper: troubleshooting common issues"
 category: frontend
 tags: [swiper, troubleshooting, frontend]
 models: [sonnet, opus]

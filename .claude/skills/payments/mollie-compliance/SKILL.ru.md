@@ -1,6 +1,6 @@
 ---
 name: mollie-compliance
-description: Compliance with Mollie. PCI DSS.
+description: "Compliance with Mollie. PCI DSS."
 category: payments
 tags: [mollie-compliance, payments, russian]
 models: [sonnet, opus]

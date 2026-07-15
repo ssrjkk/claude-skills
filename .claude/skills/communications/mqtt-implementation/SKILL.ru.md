@@ -1,6 +1,6 @@
 ---
 name: mqtt-implementation
-description: Implementation with MQTT. implementation.
+description: "Implementation with MQTT. implementation."
 category: communications
 tags: [mqtt-implementation, communications, russian]
 models: [sonnet, opus]

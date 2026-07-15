@@ -1,6 +1,6 @@
 ---
 name: sasb-basics
-description: Basics with SASB. fundamentals.
+description: "Basics with SASB. fundamentals."
 category: sustainability
 tags: [sasb, basics, sustainability, sustainability]
 models: [gpt-4, claude-3]

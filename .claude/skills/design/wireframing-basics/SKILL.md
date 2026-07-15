@@ -1,6 +1,6 @@
 ---
 name: wireframing-basics
-description: Basics with Wireframing. fundamentals.
+description: "Basics with Wireframing. fundamentals."
 category: design
 tags: [wireframing, basics, design, ux-research]
 models: [gpt-4, claude-3]

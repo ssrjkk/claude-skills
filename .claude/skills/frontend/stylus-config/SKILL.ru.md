@@ -1,6 +1,6 @@
 ---
 name: stylus-config
-description: Config with Stylus. configuration.
+description: "Config with Stylus. configuration."
 category: frontend
 tags: [stylus-config, frontend, russian]
 models: [sonnet, opus]

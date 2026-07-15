@@ -1,6 +1,6 @@
 ---
 name: github-actions-secrets
-description: Secrets with GitHub Actions. secret management.
+description: "Secrets with GitHub Actions. secret management."
 category: devops
 tags: [github-actions-secrets, devops, russian]
 models: [sonnet, opus]

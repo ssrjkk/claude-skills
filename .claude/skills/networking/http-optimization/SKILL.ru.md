@@ -1,6 +1,6 @@
 ---
 name: http-optimization
-description: Optimization with HTTP. tuning.
+description: "Optimization with HTTP. tuning."
 category: networking
 tags: [http-optimization, networking, russian]
 models: [sonnet, opus]

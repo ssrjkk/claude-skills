@@ -1,6 +1,6 @@
 ---
 name: couchdb-optimization
-description: Optimization with CouchDB. performance.
+description: "Optimization with CouchDB. performance."
 category: database
 tags: [couchdb, optimization, database, nosql]
 models: [gpt-4, claude-3]

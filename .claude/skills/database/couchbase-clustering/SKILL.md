@@ -1,6 +1,6 @@
 ---
 name: couchbase-clustering
-description: Clustering with Couchbase. cluster setup.
+description: "Clustering with Couchbase. cluster setup."
 category: database
 tags: [couchbase, clustering, database, caching]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: prometheus-tsdb-retention
-description: Retention with Prometheus TSDB. data retention.
+description: "Retention with Prometheus TSDB. data retention."
 category: database
 tags: [prometheus-tsdb-retention, database, russian]
 models: [sonnet, opus]

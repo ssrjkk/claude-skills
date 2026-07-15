@@ -1,6 +1,6 @@
 ---
 name: express-advanced
-description: Advanced for Express: advanced patterns and techniques
+description: "Advanced for Express: advanced patterns and techniques"
 category: backend
 tags: [express, advanced, backend]
 models: [sonnet, opus]

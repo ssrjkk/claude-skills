@@ -1,6 +1,6 @@
 ---
 name: magic-leap-optimization
-description: Optimization with Magic Leap. performance.
+description: "Optimization with Magic Leap. performance."
 category: ar-vr
 tags: [magic-leap-optimization, ar-vr, russian]
 models: [sonnet, opus]

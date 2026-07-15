@@ -1,6 +1,6 @@
 ---
 name: fasttext-tokenization
-description: Tokenization with Fasttext. text tokenization.
+description: "Tokenization with Fasttext. text tokenization."
 category: ai
 tags: [fasttext, tokenization, ai, nlp]
 models: [gpt-4, claude-3]

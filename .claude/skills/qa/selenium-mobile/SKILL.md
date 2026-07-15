@@ -1,6 +1,6 @@
 ---
 name: selenium-mobile
-description: Mobile with Selenium. mobile testing.
+description: "Mobile with Selenium. mobile testing."
 category: qa
 tags: [selenium, mobile, qa, e2e]
 models: [gpt-4, claude-3]

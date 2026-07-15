@@ -1,6 +1,6 @@
 ---
 name: yii-auth
-description: Auth with Yii. authentication.
+description: "Auth with Yii. authentication."
 category: backend
 tags: [yii-auth, backend, russian]
 models: [sonnet, opus]

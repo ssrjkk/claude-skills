@@ -1,6 +1,6 @@
 ---
 name: earthly-pipeline
-description: Pipeline with Earthly. pipeline creation.
+description: "Pipeline with Earthly. pipeline creation."
 category: devops
 tags: [earthly, pipeline, devops, ci-cd]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: game-maker-physics
-description: Physics with GameMaker. physics.
+description: "Physics with GameMaker. physics."
 category: gamedev
 tags: [game-maker, physics, gamedev, game-engine]
 models: [gpt-4, claude-3]

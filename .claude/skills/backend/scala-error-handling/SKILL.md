@@ -1,6 +1,6 @@
 ---
 name: scala-error-handling
-description: Error Handling with Scala. error management.
+description: "Error Handling with Scala. error management."
 category: backend
 tags: [scala, error-handling, backend, backend]
 models: [gpt-4, claude-3]

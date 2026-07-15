@@ -1,6 +1,6 @@
 ---
 name: invision-versioning
-description: Versioning with InVision. version control.
+description: "Versioning with InVision. version control."
 category: design
 tags: [invision-versioning, design, russian]
 models: [sonnet, opus]

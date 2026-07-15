@@ -1,6 +1,6 @@
 ---
 name: compliance-trading-basics
-description: Basics with Trading Compliance. fundamentals.
+description: "Basics with Trading Compliance. fundamentals."
 category: finance
 tags: [compliance-trading-basics, finance, russian]
 models: [sonnet, opus]

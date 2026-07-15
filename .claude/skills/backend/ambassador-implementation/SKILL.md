@@ -1,6 +1,6 @@
 ---
 name: ambassador-implementation
-description: Implementation with Ambassador. practical implementation.
+description: "Implementation with Ambassador. practical implementation."
 category: backend
 tags: [ambassador, implementation, backend, architecture]
 models: [gpt-4, claude-3]

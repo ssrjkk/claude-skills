@@ -1,6 +1,6 @@
 ---
 name: security-skill-0136
-description: security specialized skill #0136 for security development
+description: "security specialized skill #0136 for security development"
 category: security
 tags: [security, skill, 0136]
 models: [sonnet, opus]

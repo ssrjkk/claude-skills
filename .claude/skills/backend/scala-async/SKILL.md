@@ -1,6 +1,6 @@
 ---
 name: scala-async
-description: Async with Scala. async operations.
+description: "Async with Scala. async operations."
 category: backend
 tags: [scala, async, backend, backend]
 models: [gpt-4, claude-3]

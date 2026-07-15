@@ -1,6 +1,6 @@
 ---
 name: hyperopt-regression
-description: Regression with Hyperopt. predicting values.
+description: "Regression with Hyperopt. predicting values."
 category: ai
 tags: [hyperopt, regression, ai, ml]
 models: [gpt-4, claude-3]

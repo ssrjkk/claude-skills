@@ -1,6 +1,6 @@
 ---
 name: zbrush-configuration
-description: Configuration for Zbrush: configuration and setup
+description: "Configuration for Zbrush: configuration and setup"
 category: gamedev
 tags: [zbrush, configuration, gamedev]
 models: [sonnet, opus]

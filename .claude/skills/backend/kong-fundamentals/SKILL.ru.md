@@ -1,6 +1,6 @@
 ---
 name: kong-fundamentals
-description: Fundamentals for Kong: core concepts
+description: "Fundamentals for Kong: core concepts"
 category: backend
 tags: [kong-fundamentals, backend, russian]
 models: [sonnet, opus]

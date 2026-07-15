@@ -1,6 +1,6 @@
 ---
 name: service-worker-usage
-description: Usage for Service-Worker: usage reference
+description: "Usage for Service-Worker: usage reference"
 category: frontend
 tags: [service-worker, usage, frontend]
 models: [sonnet, opus]

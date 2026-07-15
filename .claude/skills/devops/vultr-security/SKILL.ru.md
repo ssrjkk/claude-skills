@@ -1,6 +1,6 @@
 ---
 name: vultr-security
-description: Security with Vultr. cloud security.
+description: "Security with Vultr. cloud security."
 category: devops
 tags: [vultr-security, devops, russian]
 models: [sonnet, opus]

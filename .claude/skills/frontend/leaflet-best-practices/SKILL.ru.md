@@ -1,6 +1,6 @@
 ---
 name: leaflet-best-practices
-description: Best Practices for Leaflet: best practices and patterns
+description: "Best Practices for Leaflet: best practices and patterns"
 category: frontend
 tags: [leaflet-best-practices, frontend, russian]
 models: [sonnet, opus]

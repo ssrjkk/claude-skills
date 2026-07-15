@@ -1,6 +1,6 @@
 ---
 name: mistral-optimization
-description: Optimization for Mistral: performance tuning and optimization
+description: "Optimization for Mistral: performance tuning and optimization"
 category: ai
 tags: [mistral, optimization, ai]
 models: [sonnet, opus]

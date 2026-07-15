@@ -1,6 +1,6 @@
 ---
 name: data-validation
-description: Validates data quality with Great Expectations and Pandera. Use for data pipeline quality checks.
+description: "Validates data quality with Great Expectations and Pandera. Use for data pipeline quality checks."
 category: data
 tags: [validation, data-quality, great-expectations, pandera]
 models: [sonnet, opus]

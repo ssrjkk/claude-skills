@@ -1,6 +1,6 @@
 ---
 name: vueuse-setup
-description: Setup for Vueuse: setup guide
+description: "Setup for Vueuse: setup guide"
 category: frontend
 tags: [vueuse-setup, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: memcached-persistence
-description: Persistence with Memcached. persistence.
+description: "Persistence with Memcached. persistence."
 category: database
 tags: [memcached, persistence, database, caching]
 models: [gpt-4, claude-3]

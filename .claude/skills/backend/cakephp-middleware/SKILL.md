@@ -1,6 +1,6 @@
 ---
 name: cakephp-middleware
-description: Middleware with CakePHP. pipeline.
+description: "Middleware with CakePHP. pipeline."
 category: backend
 tags: [cakephp, middleware, backend, backend]
 models: [gpt-4, claude-3]

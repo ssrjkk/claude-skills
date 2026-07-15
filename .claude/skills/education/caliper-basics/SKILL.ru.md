@@ -1,6 +1,6 @@
 ---
 name: caliper-basics
-description: Basics with Caliper. fundamentals.
+description: "Basics with Caliper. fundamentals."
 category: education
 tags: [caliper-basics, education, russian]
 models: [sonnet, opus]

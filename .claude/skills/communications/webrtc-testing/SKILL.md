@@ -1,6 +1,6 @@
 ---
 name: webrtc-testing
-description: Testing with WebRTC. testing.
+description: "Testing with WebRTC. testing."
 category: communications
 tags: [webrtc, testing, communications, communication-protocol]
 models: [gpt-4, claude-3]

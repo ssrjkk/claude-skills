@@ -1,6 +1,6 @@
 ---
 name: varnish-caching
-description: Caching with Varnish. caching strategies.
+description: "Caching with Varnish. caching strategies."
 category: database
 tags: [varnish-caching, database, russian]
 models: [sonnet, opus]

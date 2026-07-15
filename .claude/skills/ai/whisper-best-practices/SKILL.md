@@ -1,6 +1,6 @@
 ---
 name: whisper-best-practices
-description: Best Practices for Whisper: best practices and patterns
+description: "Best Practices for Whisper: best practices and patterns"
 category: ai
 tags: [whisper, best-practices, ai]
 models: [sonnet, opus]

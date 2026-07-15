@@ -1,6 +1,6 @@
 ---
 name: php-orm
-description: ORM with Php. database access.
+description: "ORM with Php. database access."
 category: backend
 tags: [php-orm, backend, russian]
 models: [sonnet, opus]

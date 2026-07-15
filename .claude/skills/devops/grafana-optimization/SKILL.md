@@ -1,6 +1,6 @@
 ---
 name: grafana-optimization
-description: Optimization for Grafana: performance tuning and optimization
+description: "Optimization for Grafana: performance tuning and optimization"
 category: devops
 tags: [grafana, optimization, devops]
 models: [sonnet, opus]

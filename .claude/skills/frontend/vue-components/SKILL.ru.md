@@ -1,6 +1,6 @@
 ---
 name: vue-components
-description: Components with Vue. building components.
+description: "Components with Vue. building components."
 category: frontend
 tags: [vue-components, frontend, russian]
 models: [sonnet, opus]

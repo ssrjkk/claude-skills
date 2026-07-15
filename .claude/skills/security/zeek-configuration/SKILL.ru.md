@@ -1,6 +1,6 @@
 ---
 name: zeek-configuration
-description: Configuration for Zeek: configuration and setup
+description: "Configuration for Zeek: configuration and setup"
 category: security
 tags: [zeek-configuration, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: suricata-configuration
-description: Configuration for Suricata: configuration and setup
+description: "Configuration for Suricata: configuration and setup"
 category: security
 tags: [suricata-configuration, security, russian]
 models: [sonnet, opus]

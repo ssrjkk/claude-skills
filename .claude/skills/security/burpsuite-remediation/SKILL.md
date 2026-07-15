@@ -1,6 +1,6 @@
 ---
 name: burpsuite-remediation
-description: Remediation with Burp Suite. fixing vulns.
+description: "Remediation with Burp Suite. fixing vulns."
 category: security
 tags: [burpsuite, remediation, security, security-tool]
 models: [gpt-4, claude-3]

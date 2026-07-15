@@ -1,6 +1,6 @@
 ---
 name: minitest-parameterization
-description: Parameterization with Minitest. parametrized tests.
+description: "Parameterization with Minitest. parametrized tests."
 category: qa
 tags: [minitest-parameterization, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vegeta-distributed
-description: Distributed with Vegeta. distributed load.
+description: "Distributed with Vegeta. distributed load."
 category: qa
 tags: [vegeta-distributed, qa, russian]
 models: [sonnet, opus]

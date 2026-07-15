@@ -1,6 +1,6 @@
 ---
 name: vpn-configuration
-description: Config with VPN. setup.
+description: "Config with VPN. setup."
 category: networking
 tags: [vpn-configuration, networking, russian]
 models: [sonnet, opus]

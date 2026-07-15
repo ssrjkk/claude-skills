@@ -1,6 +1,6 @@
 ---
 name: saga-scaling
-description: Scaling with Saga. scaling considerations.
+description: "Scaling with Saga. scaling considerations."
 category: backend
 tags: [saga-scaling, backend, russian]
 models: [sonnet, opus]

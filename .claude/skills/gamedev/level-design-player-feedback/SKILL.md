@@ -1,6 +1,6 @@
 ---
 name: level-design-player-feedback
-description: Feedback with Level Design. player feedback.
+description: "Feedback with Level Design. player feedback."
 category: gamedev
 tags: [level-design, player-feedback, gamedev, game-design]
 models: [gpt-4, claude-3]

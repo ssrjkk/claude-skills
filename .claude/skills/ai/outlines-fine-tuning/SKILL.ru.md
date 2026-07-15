@@ -1,6 +1,6 @@
 ---
 name: outlines-fine-tuning
-description: Fine-Tuning with Outlines. model customization.
+description: "Fine-Tuning with Outlines. model customization."
 category: ai
 tags: [outlines-fine-tuning, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cockroachdb-quickstart
-description: Quickstart for Cockroachdb: quick start guide
+description: "Quickstart for Cockroachdb: quick start guide"
 category: database
 tags: [cockroachdb, quickstart, database]
 models: [sonnet, opus]

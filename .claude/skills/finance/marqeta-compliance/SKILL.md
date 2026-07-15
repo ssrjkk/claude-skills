@@ -1,6 +1,6 @@
 ---
 name: marqeta-compliance
-description: Compliance with Marqeta. compliance.
+description: "Compliance with Marqeta. compliance."
 category: finance
 tags: [marqeta, compliance, finance, fintech]
 models: [gpt-4, claude-3]

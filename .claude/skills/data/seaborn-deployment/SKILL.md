@@ -1,6 +1,6 @@
 ---
 name: seaborn-deployment
-description: Deployment with Seaborn. app deployment.
+description: "Deployment with Seaborn. app deployment."
 category: data
 tags: [seaborn, deployment, data, data-science]
 models: [gpt-4, claude-3]

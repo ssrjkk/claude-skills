@@ -1,6 +1,6 @@
 ---
 name: less-bundling
-description: Bundling with Less. code bundling.
+description: "Bundling with Less. code bundling."
 category: frontend
 tags: [less-bundling, frontend, russian]
 models: [sonnet, opus]

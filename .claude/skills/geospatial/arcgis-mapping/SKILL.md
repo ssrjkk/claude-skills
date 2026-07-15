@@ -1,6 +1,6 @@
 ---
 name: arcgis-mapping
-description: Mapping with ArcGIS. mapping.
+description: "Mapping with ArcGIS. mapping."
 category: geospatial
 tags: [arcgis, mapping, geospatial, gis]
 models: [gpt-4, claude-3]

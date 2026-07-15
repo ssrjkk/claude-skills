@@ -1,6 +1,6 @@
 ---
 name: cqrs-scaling
-description: Scaling with CQRS. scaling considerations.
+description: "Scaling with CQRS. scaling considerations."
 category: backend
 tags: [cqrs, scaling, backend, architecture]
 models: [gpt-4, claude-3]

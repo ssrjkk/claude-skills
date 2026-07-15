@@ -1,6 +1,6 @@
 ---
 name: nitro-intro
-description: Intro for Nitro: introduction
+description: "Intro for Nitro: introduction"
 category: backend
 tags: [nitro-intro, backend, russian]
 models: [sonnet, opus]

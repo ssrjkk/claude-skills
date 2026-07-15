@@ -1,6 +1,6 @@
 ---
 name: dspy-rag
-description: RAG with Dspy. building RAG systems.
+description: "RAG with Dspy. building RAG systems."
 category: ai
 tags: [dspy, rag, ai, llm]
 models: [gpt-4, claude-3]

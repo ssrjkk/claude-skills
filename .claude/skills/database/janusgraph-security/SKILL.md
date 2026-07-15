@@ -1,6 +1,6 @@
 ---
 name: janusgraph-security
-description: Security with JanusGraph. security.
+description: "Security with JanusGraph. security."
 category: database
 tags: [janusgraph, security, database, graph-database]
 models: [gpt-4, claude-3]

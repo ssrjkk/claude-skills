@@ -1,6 +1,6 @@
 ---
 name: warp-testing
-description: Testing with Warp. unit tests.
+description: "Testing with Warp. unit tests."
 category: backend
 tags: [warp-testing, backend, russian]
 models: [sonnet, opus]

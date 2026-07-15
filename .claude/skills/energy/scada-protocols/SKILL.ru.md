@@ -1,6 +1,6 @@
 ---
 name: scada-protocols
-description: Protocols with SCADA. communication.
+description: "Protocols with SCADA. communication."
 category: energy
 tags: [scada-protocols, energy, russian]
 models: [sonnet, opus]

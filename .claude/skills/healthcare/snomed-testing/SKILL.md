@@ -1,6 +1,6 @@
 ---
 name: snomed-testing
-description: Testing with SNOMED CT. testing.
+description: "Testing with SNOMED CT. testing."
 category: healthcare
 tags: [snomed, testing, healthcare, healthcare]
 models: [gpt-4, claude-3]

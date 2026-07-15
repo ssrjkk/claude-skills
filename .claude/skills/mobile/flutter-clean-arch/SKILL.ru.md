@@ -1,6 +1,6 @@
 ---
 name: flutter-clean-arch
-description: Creates Flutter applications with Clean Architecture and layer separation. Use for scalable mobile applications.
+description: "Creates Flutter applications with Clean Architecture and layer separation. Use for scalable mobile applications."
 category: mobile
 tags: [flutter-clean-arch, mobile, russian]
 models: [sonnet, opus]

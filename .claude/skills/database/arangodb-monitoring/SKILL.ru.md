@@ -1,6 +1,6 @@
 ---
 name: arangodb-monitoring
-description: Monitoring with ArangoDB. monitoring.
+description: "Monitoring with ArangoDB. monitoring."
 category: database
 tags: [arangodb-monitoring, database, russian]
 models: [sonnet, opus]

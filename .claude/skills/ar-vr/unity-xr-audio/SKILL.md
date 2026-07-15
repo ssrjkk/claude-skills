@@ -1,6 +1,6 @@
 ---
 name: unity-xr-audio
-description: Audio with Unity XR. spatial audio.
+description: "Audio with Unity XR. spatial audio."
 category: ar-vr
 tags: [unity-xr, audio, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

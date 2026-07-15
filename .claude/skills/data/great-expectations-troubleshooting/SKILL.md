@@ -1,6 +1,6 @@
 ---
 name: great-expectations-troubleshooting
-description: Troubleshooting for Great-Expectations: troubleshooting common issues
+description: "Troubleshooting for Great-Expectations: troubleshooting common issues"
 category: data
 tags: [great-expectations, troubleshooting, data]
 models: [sonnet, opus]

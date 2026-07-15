@@ -1,6 +1,6 @@
 ---
 name: opencl
-description: Development with Opencl: tools and best practices
+description: "Development with Opencl: tools and best practices"
 category: gamedev
 tags: [opencl, gamedev, russian]
 models: [sonnet, opus]

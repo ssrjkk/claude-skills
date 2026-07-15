@@ -1,6 +1,6 @@
 ---
 name: stylus-hmr
-description: HMR with Stylus. hot reload.
+description: "HMR with Stylus. hot reload."
 category: frontend
 tags: [stylus-hmr, frontend, russian]
 models: [sonnet, opus]

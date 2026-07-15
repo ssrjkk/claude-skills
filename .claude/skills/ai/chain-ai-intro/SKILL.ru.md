@@ -1,6 +1,6 @@
 ---
 name: chain-ai-intro
-description: Intro for Chain-Ai: introduction
+description: "Intro for Chain-Ai: introduction"
 category: ai
 tags: [chain-ai-intro, ai, russian]
 models: [sonnet, opus]

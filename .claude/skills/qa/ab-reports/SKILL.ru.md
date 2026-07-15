@@ -1,6 +1,6 @@
 ---
 name: ab-reports
-description: Reports with Apache Bench. report generation.
+description: "Reports with Apache Bench. report generation."
 category: qa
 tags: [ab-reports, qa, russian]
 models: [sonnet, opus]

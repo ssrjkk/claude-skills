@@ -1,6 +1,6 @@
 ---
 name: esp8266-communication
-description: Comm with ESP8266. I2C.
+description: "Comm with ESP8266. I2C."
 category: iot
 tags: [esp8266, communication, iot, iot]
 models: [gpt-4, claude-3]

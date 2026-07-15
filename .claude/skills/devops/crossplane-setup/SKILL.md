@@ -1,6 +1,6 @@
 ---
 name: crossplane-setup
-description: Setup with Crossplane. installation.
+description: "Setup with Crossplane. installation."
 category: devops
 tags: [crossplane, setup, devops, iac]
 models: [gpt-4, claude-3]

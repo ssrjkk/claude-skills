@@ -1,6 +1,6 @@
 ---
 name: indeed-sourcing
-description: Sourcing with Indeed. candidate sourcing.
+description: "Sourcing with Indeed. candidate sourcing."
 category: hr
 tags: [indeed, sourcing, hr, recruiting]
 models: [gpt-4, claude-3]

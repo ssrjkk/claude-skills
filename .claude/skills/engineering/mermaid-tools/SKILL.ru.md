@@ -1,6 +1,6 @@
 ---
 name: mermaid-tools
-description: Tools with Mermaid.js. tooling.
+description: "Tools with Mermaid.js. tooling."
 category: engineering
 tags: [mermaid-tools, engineering, russian]
 models: [sonnet, opus]

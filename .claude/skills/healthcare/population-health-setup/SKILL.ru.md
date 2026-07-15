@@ -1,6 +1,6 @@
 ---
 name: population-health-setup
-description: Setup with Population Health. implementation.
+description: "Setup with Population Health. implementation."
 category: healthcare
 tags: [population-health-setup, healthcare, russian]
 models: [sonnet, opus]

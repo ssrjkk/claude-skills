@@ -1,6 +1,6 @@
 ---
 name: marvin-prompting
-description: Prompt Engineering with Marvin. prompt templates.
+description: "Prompt Engineering with Marvin. prompt templates."
 category: ai
 tags: [marvin, prompting, ai, llm]
 models: [gpt-4, claude-3]

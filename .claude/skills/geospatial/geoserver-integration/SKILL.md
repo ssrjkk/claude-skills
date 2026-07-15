@@ -1,6 +1,6 @@
 ---
 name: geoserver-integration
-description: Integration with GeoServer. integration.
+description: "Integration with GeoServer. integration."
 category: geospatial
 tags: [geoserver, integration, geospatial, gis]
 models: [gpt-4, claude-3]

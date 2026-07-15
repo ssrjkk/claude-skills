@@ -1,6 +1,6 @@
 ---
 name: milligram-components
-description: Components with Milligram. UI components.
+description: "Components with Milligram. UI components."
 category: frontend
 tags: [milligram, components, frontend, css]
 models: [gpt-4, claude-3]

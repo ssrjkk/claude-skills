@@ -1,6 +1,6 @@
 ---
 name: paypal-setup
-description: Setup with PayPal. account setup.
+description: "Setup with PayPal. account setup."
 category: payments
 tags: [paypal, setup, payments, payments]
 models: [gpt-4, claude-3]

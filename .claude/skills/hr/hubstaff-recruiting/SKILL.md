@@ -1,6 +1,6 @@
 ---
 name: hubstaff-recruiting
-description: Recruiting with Hubstaff. ATS.
+description: "Recruiting with Hubstaff. ATS."
 category: hr
 tags: [hubstaff, recruiting, hr, hr-tech]
 models: [gpt-4, claude-3]

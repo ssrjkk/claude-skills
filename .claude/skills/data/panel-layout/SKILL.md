@@ -1,6 +1,6 @@
 ---
 name: panel-layout
-description: Layout with Panel. app layout.
+description: "Layout with Panel. app layout."
 category: data
 tags: [panel, layout, data, data-apps]
 models: [gpt-4, claude-3]

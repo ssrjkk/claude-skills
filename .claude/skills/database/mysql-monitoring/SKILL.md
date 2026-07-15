@@ -1,6 +1,6 @@
 ---
 name: mysql-monitoring
-description: Monitoring with MySQL. monitoring.
+description: "Monitoring with MySQL. monitoring."
 category: database
 tags: [mysql, monitoring, database, sql]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: evidently-integration
-description: Integration for Evidently: integration with other tools
+description: "Integration for Evidently: integration with other tools"
 category: data
 tags: [evidently, integration, data]
 models: [sonnet, opus]

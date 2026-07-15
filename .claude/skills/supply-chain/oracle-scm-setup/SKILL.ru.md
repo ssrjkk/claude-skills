@@ -1,6 +1,6 @@
 ---
 name: oracle-scm-setup
-description: Setup with Oracle SCM. setup.
+description: "Setup with Oracle SCM. setup."
 category: supply-chain
 tags: [oracle-scm-setup, supply-chain, russian]
 models: [sonnet, opus]

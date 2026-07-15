@@ -1,6 +1,6 @@
 ---
 name: tezos-dapps
-description: DApps with Tezos. decentralized apps.
+description: "DApps with Tezos. decentralized apps."
 category: blockchain
 tags: [tezos-dapps, blockchain, russian]
 models: [sonnet, opus]

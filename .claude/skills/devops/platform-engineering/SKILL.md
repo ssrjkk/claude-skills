@@ -1,6 +1,6 @@
 ---
 name: platform-engineering
-description: Platform engineering with Backstage/Port
+description: "Platform engineering with Backstage/Port"
 category: devops
 tags: [platform-engineering, backstage, port, developer-portal, internal-developer-platform]
 models: [sonnet, opus]

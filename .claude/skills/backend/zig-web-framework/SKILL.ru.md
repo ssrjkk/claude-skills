@@ -1,6 +1,6 @@
 ---
 name: zig-web-framework
-description: Web Framework with Zig. web dev.
+description: "Web Framework with Zig. web dev."
 category: backend
 tags: [zig-web-framework, backend, russian]
 models: [sonnet, opus]

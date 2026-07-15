@@ -1,6 +1,6 @@
 ---
 name: test-reporting
-description: Generates test reports using Allure and pytest. Use for visualizing test results, tracking bugs, and team collaboration.
+description: "Generates test reports using Allure and pytest. Use for visualizing test results, tracking bugs, and team collaboration."
 category: test-reporting
 tags: [test-reporting, test-reporting, russian]
 models: [sonnet, opus]

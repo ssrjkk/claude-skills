@@ -1,6 +1,6 @@
 ---
 name: actix-security
-description: Security for Actix: security best practices
+description: "Security for Actix: security best practices"
 category: backend
 tags: [actix, security, backend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: daisyui-forms
-description: Forms with daisyUI. form styling.
+description: "Forms with daisyUI. form styling."
 category: frontend
 tags: [daisyui-forms, frontend, russian]
 models: [sonnet, opus]

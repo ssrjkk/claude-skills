@@ -1,6 +1,6 @@
 ---
 name: linkedin-recruiter-screening
-description: Screening with LinkedIn Recruiter. resume screening.
+description: "Screening with LinkedIn Recruiter. resume screening."
 category: hr
 tags: [linkedin-recruiter, screening, hr, recruiting]
 models: [gpt-4, claude-3]

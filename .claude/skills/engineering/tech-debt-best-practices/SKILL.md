@@ -1,6 +1,6 @@
 ---
 name: tech-debt-best-practices
-description: Best Practices with Tech Debt Management. tips.
+description: "Best Practices with Tech Debt Management. tips."
 category: engineering
 tags: [tech-debt, best-practices, engineering, engineering]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: marqeta-payments
-description: Payments with Marqeta. payments.
+description: "Payments with Marqeta. payments."
 category: finance
 tags: [marqeta, payments, finance, fintech]
 models: [gpt-4, claude-3]

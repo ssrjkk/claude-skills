@@ -1,6 +1,6 @@
 ---
 name: singularity-images
-description: Images with Singularity. building images.
+description: "Images with Singularity. building images."
 category: devops
 tags: [singularity, images, devops, container]
 models: [gpt-4, claude-3]

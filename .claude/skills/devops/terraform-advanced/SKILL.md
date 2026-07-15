@@ -1,6 +1,6 @@
 ---
 name: terraform-advanced
-description: Advanced for Terraform: advanced patterns and techniques
+description: "Advanced for Terraform: advanced patterns and techniques"
 category: devops
 tags: [terraform, advanced, devops]
 models: [sonnet, opus]

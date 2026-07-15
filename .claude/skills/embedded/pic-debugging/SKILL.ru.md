@@ -1,6 +1,6 @@
 ---
 name: pic-debugging
-description: Debugging with PIC. debug.
+description: "Debugging with PIC. debug."
 category: embedded
 tags: [pic-debugging, embedded, russian]
 models: [sonnet, opus]

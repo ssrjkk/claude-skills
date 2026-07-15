@@ -1,6 +1,6 @@
 ---
 name: iot-skill-0210
-description: iot specialized skill #0210 for iot development
+description: "iot specialized skill #0210 for iot development"
 category: iot
 tags: [iot, skill, 0210]
 models: [sonnet, opus]

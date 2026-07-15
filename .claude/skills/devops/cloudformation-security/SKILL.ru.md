@@ -1,6 +1,6 @@
 ---
 name: cloudformation-security
-description: Security with CloudFormation. security groups.
+description: "Security with CloudFormation. security groups."
 category: devops
 tags: [cloudformation-security, devops, russian]
 models: [sonnet, opus]

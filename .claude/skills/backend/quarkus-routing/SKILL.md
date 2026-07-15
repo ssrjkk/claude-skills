@@ -1,6 +1,6 @@
 ---
 name: quarkus-routing
-description: Routing with Quarkus. HTTP routing.
+description: "Routing with Quarkus. HTTP routing."
 category: backend
 tags: [quarkus, routing, backend, backend]
 models: [gpt-4, claude-3]

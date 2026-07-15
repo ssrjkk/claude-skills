@@ -1,6 +1,6 @@
 ---
 name: tive-integration
-description: Integration with Tive. integration.
+description: "Integration with Tive. integration."
 category: supply-chain
 tags: [tive, integration, supply-chain, logistics]
 models: [gpt-4, claude-3]

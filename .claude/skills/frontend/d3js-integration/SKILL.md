@@ -1,6 +1,6 @@
 ---
 name: d3js-integration
-description: Integration for D3Js: integration with other tools
+description: "Integration for D3Js: integration with other tools"
 category: frontend
 tags: [d3js, integration, frontend]
 models: [sonnet, opus]

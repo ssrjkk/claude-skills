@@ -1,6 +1,6 @@
 ---
 name: user-research-basics
-description: Basics with User Research. fundamentals.
+description: "Basics with User Research. fundamentals."
 category: design
 tags: [user-research, basics, design, ux-research]
 models: [gpt-4, claude-3]

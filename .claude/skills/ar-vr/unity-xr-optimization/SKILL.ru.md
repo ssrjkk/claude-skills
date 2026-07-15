@@ -1,6 +1,6 @@
 ---
 name: unity-xr-optimization
-description: Optimization with Unity XR. performance.
+description: "Optimization with Unity XR. performance."
 category: ar-vr
 tags: [unity-xr-optimization, ar-vr, russian]
 models: [sonnet, opus]

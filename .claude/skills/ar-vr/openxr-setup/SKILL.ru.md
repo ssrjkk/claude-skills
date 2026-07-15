@@ -1,6 +1,6 @@
 ---
 name: openxr-setup
-description: Setup with OpenXR. SDK setup.
+description: "Setup with OpenXR. SDK setup."
 category: ar-vr
 tags: [openxr-setup, ar-vr, russian]
 models: [sonnet, opus]

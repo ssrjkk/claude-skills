@@ -1,6 +1,6 @@
 ---
 name: dash-data
-description: Data with Dash. data binding.
+description: "Data with Dash. data binding."
 category: data
 tags: [dash-data, data, russian]
 models: [sonnet, opus]

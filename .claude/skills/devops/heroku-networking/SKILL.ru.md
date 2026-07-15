@@ -1,6 +1,6 @@
 ---
 name: heroku-networking
-description: Networking with Heroku. VPC.
+description: "Networking with Heroku. VPC."
 category: devops
 tags: [heroku-networking, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: suse-logging
-description: Logging with SUSE. logging.
+description: "Logging with SUSE. logging."
 category: os-admin
 tags: [suse, logging, os-admin, linux]
 models: [gpt-4, claude-3]

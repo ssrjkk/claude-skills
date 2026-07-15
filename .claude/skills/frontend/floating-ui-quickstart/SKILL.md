@@ -1,6 +1,6 @@
 ---
 name: floating-ui-quickstart
-description: Quickstart for Floating-Ui: quick start guide
+description: "Quickstart for Floating-Ui: quick start guide"
 category: frontend
 tags: [floating-ui, quickstart, frontend]
 models: [sonnet, opus]

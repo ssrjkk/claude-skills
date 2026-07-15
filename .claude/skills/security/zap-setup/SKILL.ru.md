@@ -1,6 +1,6 @@
 ---
 name: zap-setup
-description: Setup with ZAP. installation.
+description: "Setup with ZAP. installation."
 category: security
 tags: [zap-setup, security, russian]
 models: [sonnet, opus]

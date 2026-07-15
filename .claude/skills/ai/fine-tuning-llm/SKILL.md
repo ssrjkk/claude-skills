@@ -1,6 +1,6 @@
 ---
 name: fine-tuning-llm
-description: Fine-tuning LLMs with LoRA/QLoRA
+description: "Fine-tuning LLMs with LoRA/QLoRA"
 category: ai
 tags: [fine-tuning, lora, qlora, llm, huggingface, pytorch]
 models: [sonnet, opus]

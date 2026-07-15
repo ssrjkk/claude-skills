@@ -1,6 +1,6 @@
 ---
 name: ehcache-security
-description: Security with Ehcache. security.
+description: "Security with Ehcache. security."
 category: database
 tags: [ehcache-security, database, russian]
 models: [sonnet, opus]

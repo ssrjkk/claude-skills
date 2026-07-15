@@ -1,6 +1,6 @@
 ---
 name: scipy-performance
-description: Performance with SciPy. optimization.
+description: "Performance with SciPy. optimization."
 category: data
 tags: [scipy-performance, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: milligram-responsive
-description: Responsive with Milligram. mobile-first.
+description: "Responsive with Milligram. mobile-first."
 category: frontend
 tags: [milligram-responsive, frontend, russian]
 models: [sonnet, opus]

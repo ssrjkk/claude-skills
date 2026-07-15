@@ -1,6 +1,6 @@
 ---
 name: java-logging
-description: Logging with Java. app logging.
+description: "Logging with Java. app logging."
 category: backend
 tags: [java-logging, backend, russian]
 models: [sonnet, opus]

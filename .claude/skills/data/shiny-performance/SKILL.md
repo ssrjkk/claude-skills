@@ -1,6 +1,6 @@
 ---
 name: shiny-performance
-description: Performance with Shiny. performance.
+description: "Performance with Shiny. performance."
 category: data
 tags: [shiny, performance, data, data-apps]
 models: [gpt-4, claude-3]

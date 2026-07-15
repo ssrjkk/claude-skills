@@ -1,6 +1,6 @@
 ---
 name: fiber-middleware
-description: Middleware with Fiber. request pipeline.
+description: "Middleware with Fiber. request pipeline."
 category: backend
 tags: [fiber, middleware, backend, backend]
 models: [gpt-4, claude-3]

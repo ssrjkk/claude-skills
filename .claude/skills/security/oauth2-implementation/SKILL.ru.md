@@ -1,6 +1,6 @@
 ---
 name: oauth2-implementation
-description: Implementation with OAuth 2.0. implementation.
+description: "Implementation with OAuth 2.0. implementation."
 category: security
 tags: [oauth2-implementation, security, russian]
 models: [sonnet, opus]

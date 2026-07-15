@@ -1,6 +1,6 @@
 ---
 name: grpc-getting-started
-description: Getting Started for Grpc: initial setup and first steps
+description: "Getting Started for Grpc: initial setup and first steps"
 category: backend
 tags: [grpc-getting-started, backend, russian]
 models: [sonnet, opus]

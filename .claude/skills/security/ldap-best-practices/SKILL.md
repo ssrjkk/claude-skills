@@ -1,6 +1,6 @@
 ---
 name: ldap-best-practices
-description: Best Practices with LDAP. best practices.
+description: "Best Practices with LDAP. best practices."
 category: security
 tags: [ldap, best-practices, security, security]
 models: [gpt-4, claude-3]

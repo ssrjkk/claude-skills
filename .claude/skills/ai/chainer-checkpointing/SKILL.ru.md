@@ -1,6 +1,6 @@
 ---
 name: chainer-checkpointing
-description: Checkpointing with Chainer. model saving.
+description: "Checkpointing with Chainer. model saving."
 category: ai
 tags: [chainer-checkpointing, ai, russian]
 models: [sonnet, opus]

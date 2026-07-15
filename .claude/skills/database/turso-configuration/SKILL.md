@@ -1,6 +1,6 @@
 ---
 name: turso-configuration
-description: Configuration for Turso: configuration and setup
+description: "Configuration for Turso: configuration and setup"
 category: database
 tags: [turso, configuration, database]
 models: [sonnet, opus]

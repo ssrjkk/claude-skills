@@ -1,6 +1,6 @@
 ---
 name: vuex-selectors
-description: Selectors with Vuex. derived data.
+description: "Selectors with Vuex. derived data."
 category: frontend
 tags: [vuex, selectors, frontend, state-management]
 models: [gpt-4, claude-3]

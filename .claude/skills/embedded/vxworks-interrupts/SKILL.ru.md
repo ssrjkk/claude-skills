@@ -1,6 +1,6 @@
 ---
 name: vxworks-interrupts
-description: Interrupts with VxWorks. ISR handling.
+description: "Interrupts with VxWorks. ISR handling."
 category: embedded
 tags: [vxworks-interrupts, embedded, russian]
 models: [sonnet, opus]

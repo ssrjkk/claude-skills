@@ -1,6 +1,6 @@
 ---
 name: fiber-grpc
-description: gRPC with Fiber. gRPC services.
+description: "gRPC with Fiber. gRPC services."
 category: backend
 tags: [fiber-grpc, backend, russian]
 models: [sonnet, opus]

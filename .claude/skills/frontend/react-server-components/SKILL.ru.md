@@ -1,6 +1,6 @@
 ---
 name: react-server-components
-description: React Server Components and SSR
+description: "React Server Components and SSR"
 category: frontend
 tags: [react-server-components, frontend, russian]
 models: [sonnet, opus]

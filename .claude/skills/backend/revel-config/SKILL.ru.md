@@ -1,6 +1,6 @@
 ---
 name: revel-config
-description: Config with Revel. config management.
+description: "Config with Revel. config management."
 category: backend
 tags: [revel-config, backend, russian]
 models: [sonnet, opus]

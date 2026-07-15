@@ -1,6 +1,6 @@
 ---
 name: diawi-configuration
-description: Configuration for Diawi: configuration and setup
+description: "Configuration for Diawi: configuration and setup"
 category: mobile
 tags: [diawi-configuration, mobile, russian]
 models: [sonnet, opus]

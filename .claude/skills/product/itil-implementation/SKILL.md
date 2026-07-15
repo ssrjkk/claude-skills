@@ -1,6 +1,6 @@
 ---
 name: itil-implementation
-description: Implementation with ITIL. adoption.
+description: "Implementation with ITIL. adoption."
 category: product
 tags: [itil, implementation, product, methodology]
 models: [gpt-4, claude-3]

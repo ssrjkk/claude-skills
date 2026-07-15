@@ -1,6 +1,6 @@
 ---
 name: dynamodb-schema
-description: Schema Design with DynamoDB. schema design.
+description: "Schema Design with DynamoDB. schema design."
 category: database
 tags: [dynamodb, schema, database, nosql]
 models: [gpt-4, claude-3]

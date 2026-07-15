@@ -1,6 +1,6 @@
 ---
 name: kerberos-monitoring
-description: Monitoring with Kerberos. security monitoring.
+description: "Monitoring with Kerberos. security monitoring."
 category: security
 tags: [kerberos-monitoring, security, russian]
 models: [sonnet, opus]

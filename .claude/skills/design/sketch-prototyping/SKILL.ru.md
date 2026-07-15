@@ -1,6 +1,6 @@
 ---
 name: sketch-prototyping
-description: Prototyping with Sketch. prototypes.
+description: "Prototyping with Sketch. prototypes."
 category: design
 tags: [sketch-prototyping, design, russian]
 models: [sonnet, opus]

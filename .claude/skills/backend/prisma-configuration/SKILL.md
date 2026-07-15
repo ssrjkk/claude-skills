@@ -1,6 +1,6 @@
 ---
 name: prisma-configuration
-description: Configuration for Prisma: configuration and setup
+description: "Configuration for Prisma: configuration and setup"
 category: backend
 tags: [prisma, configuration, backend]
 models: [sonnet, opus]

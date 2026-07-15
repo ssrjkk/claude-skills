@@ -1,6 +1,6 @@
 ---
 name: akamai-cost
-description: Cost with Akamai. cost optimization.
+description: "Cost with Akamai. cost optimization."
 category: devops
 tags: [akamai-cost, devops, russian]
 models: [sonnet, opus]

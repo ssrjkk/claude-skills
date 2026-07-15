@@ -1,6 +1,6 @@
 ---
 name: vite-code-splitting
-description: Code Splitting with Vite. lazy loading.
+description: "Code Splitting with Vite. lazy loading."
 category: frontend
 tags: [vite, code-splitting, frontend, build-tool]
 models: [gpt-4, claude-3]

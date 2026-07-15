@@ -1,6 +1,6 @@
 ---
 name: openhab-setup
-description: Setup with openHAB. setup.
+description: "Setup with openHAB. setup."
 category: iot
 tags: [openhab, setup, iot, iot-platform]
 models: [gpt-4, claude-3]

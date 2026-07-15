@@ -1,6 +1,6 @@
 ---
 name: performance-k6
-description: Conducts load testing of APIs and web applications with k6. Use for performance validation under load.
+description: "Conducts load testing of APIs and web applications with k6. Use for performance validation under load."
 category: qa
 tags: [performance, k6, load-testing, qa]
 models: [sonnet, opus]

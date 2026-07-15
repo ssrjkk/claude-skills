@@ -1,6 +1,6 @@
 ---
 name: scipy-analysis
-description: Analysis with SciPy. data analysis.
+description: "Analysis with SciPy. data analysis."
 category: data
 tags: [scipy-analysis, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: clickhouse-guides
-description: Guides for Clickhouse: how-to guides
+description: "Guides for Clickhouse: how-to guides"
 category: data
 tags: [clickhouse-guides, data, russian]
 models: [sonnet, opus]

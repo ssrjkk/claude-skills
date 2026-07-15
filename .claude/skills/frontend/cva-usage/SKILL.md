@@ -1,6 +1,6 @@
 ---
 name: cva-usage
-description: Usage for Cva: usage guide
+description: "Usage for Cva: usage guide"
 category: frontend
 tags: [cva, usage, frontend]
 models: [sonnet, opus]

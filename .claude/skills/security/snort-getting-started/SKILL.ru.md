@@ -1,6 +1,6 @@
 ---
 name: snort-getting-started
-description: Getting Started for Snort: initial setup and first steps
+description: "Getting Started for Snort: initial setup and first steps"
 category: security
 tags: [snort-getting-started, security, russian]
 models: [sonnet, opus]

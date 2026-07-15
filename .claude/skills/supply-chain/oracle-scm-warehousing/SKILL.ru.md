@@ -1,6 +1,6 @@
 ---
 name: oracle-scm-warehousing
-description: Warehousing with Oracle SCM. WMS.
+description: "Warehousing with Oracle SCM. WMS."
 category: supply-chain
 tags: [oracle-scm-warehousing, supply-chain, russian]
 models: [sonnet, opus]

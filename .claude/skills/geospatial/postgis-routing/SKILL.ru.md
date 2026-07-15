@@ -1,6 +1,6 @@
 ---
 name: postgis-routing
-description: Routing with PostGIS. routing.
+description: "Routing with PostGIS. routing."
 category: geospatial
 tags: [postgis-routing, geospatial, russian]
 models: [sonnet, opus]

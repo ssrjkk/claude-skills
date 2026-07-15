@@ -1,6 +1,6 @@
 ---
 name: csrd-basics
-description: Basics with CSRD. fundamentals.
+description: "Basics with CSRD. fundamentals."
 category: sustainability
 tags: [csrd-basics, sustainability, russian]
 models: [sonnet, opus]

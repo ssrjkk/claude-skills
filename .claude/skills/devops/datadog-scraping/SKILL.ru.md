@@ -1,6 +1,6 @@
 ---
 name: datadog-scraping
-description: Scraping with Datadog. target discovery.
+description: "Scraping with Datadog. target discovery."
 category: devops
 tags: [datadog-scraping, devops, russian]
 models: [sonnet, opus]

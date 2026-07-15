@@ -1,6 +1,6 @@
 ---
 name: semantic-kernel-embeddings
-description: Embeddings with Semantic Kernel. text embeddings.
+description: "Embeddings with Semantic Kernel. text embeddings."
 category: ai
 tags: [semantic-kernel, embeddings, ai, llm]
 models: [gpt-4, claude-3]

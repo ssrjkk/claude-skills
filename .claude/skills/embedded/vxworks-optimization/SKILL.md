@@ -1,6 +1,6 @@
 ---
 name: vxworks-optimization
-description: Optimization with VxWorks. optimization.
+description: "Optimization with VxWorks. optimization."
 category: embedded
 tags: [vxworks, optimization, embedded, rtos]
 models: [gpt-4, claude-3]

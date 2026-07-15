@@ -1,6 +1,6 @@
 ---
 name: chainer-transfer-learning
-description: Transfer Learning with Chainer. transfer learning.
+description: "Transfer Learning with Chainer. transfer learning."
 category: ai
 tags: [chainer-transfer-learning, ai, russian]
 models: [sonnet, opus]

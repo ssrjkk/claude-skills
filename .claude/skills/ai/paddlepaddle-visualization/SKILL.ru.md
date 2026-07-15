@@ -1,6 +1,6 @@
 ---
 name: paddlepaddle-visualization
-description: Visualization with Paddlepaddle. model viz.
+description: "Visualization with Paddlepaddle. model viz."
 category: ai
 tags: [paddlepaddle-visualization, ai, russian]
 models: [sonnet, opus]

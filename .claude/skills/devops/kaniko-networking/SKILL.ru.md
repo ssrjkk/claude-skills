@@ -1,6 +1,6 @@
 ---
 name: kaniko-networking
-description: Networking with Kaniko. container networks.
+description: "Networking with Kaniko. container networks."
 category: devops
 tags: [kaniko-networking, devops, russian]
 models: [sonnet, opus]

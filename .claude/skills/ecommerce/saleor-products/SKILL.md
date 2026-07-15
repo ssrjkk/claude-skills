@@ -1,6 +1,6 @@
 ---
 name: saleor-products
-description: Products with Saleor. product management.
+description: "Products with Saleor. product management."
 category: ecommerce
 tags: [saleor, products, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

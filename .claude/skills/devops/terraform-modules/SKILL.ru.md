@@ -1,6 +1,6 @@
 ---
 name: terraform-modules
-description: Modules with Terraform. modules.
+description: "Modules with Terraform. modules."
 category: devops
 tags: [terraform-modules, devops, russian]
 models: [sonnet, opus]

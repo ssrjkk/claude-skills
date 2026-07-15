@@ -1,6 +1,6 @@
 ---
 name: swift-test-fixtures
-description: Fixtures with Swift Testing. test fixtures.
+description: "Fixtures with Swift Testing. test fixtures."
 category: qa
 tags: [swift-test-fixtures, qa, russian]
 models: [sonnet, opus]

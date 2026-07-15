@@ -1,6 +1,6 @@
 ---
 name: akita-optimization
-description: Optimization with Akita. performance.
+description: "Optimization with Akita. performance."
 category: frontend
 tags: [akita-optimization, frontend, russian]
 models: [sonnet, opus]

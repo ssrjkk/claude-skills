@@ -1,6 +1,6 @@
 ---
 name: indeed-analytics
-description: Analytics with Indeed. analytics.
+description: "Analytics with Indeed. analytics."
 category: hr
 tags: [indeed, analytics, hr, recruiting]
 models: [gpt-4, claude-3]

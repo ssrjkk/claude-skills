@@ -1,6 +1,6 @@
 ---
 name: gpg-security
-description: Security for Gpg: security best practices
+description: "Security for Gpg: security best practices"
 category: security
 tags: [gpg-security, security, russian]
 models: [sonnet, opus]

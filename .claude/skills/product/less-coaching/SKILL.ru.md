@@ -1,6 +1,6 @@
 ---
 name: less-coaching
-description: Coaching with LeSS. team coaching.
+description: "Coaching with LeSS. team coaching."
 category: product
 tags: [less-coaching, product, russian]
 models: [sonnet, opus]

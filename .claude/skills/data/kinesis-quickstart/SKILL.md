@@ -1,6 +1,6 @@
 ---
 name: kinesis-quickstart
-description: Quickstart for Kinesis: quick start guide
+description: "Quickstart for Kinesis: quick start guide"
 category: data
 tags: [kinesis, quickstart, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: soda-troubleshooting
-description: Troubleshooting for Soda: troubleshooting common issues
+description: "Troubleshooting for Soda: troubleshooting common issues"
 category: data
 tags: [soda, troubleshooting, data]
 models: [sonnet, opus]

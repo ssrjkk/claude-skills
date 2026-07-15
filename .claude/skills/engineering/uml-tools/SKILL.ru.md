@@ -1,6 +1,6 @@
 ---
 name: uml-tools
-description: Tools with UML. tooling.
+description: "Tools with UML. tooling."
 category: engineering
 tags: [uml-tools, engineering, russian]
 models: [sonnet, opus]

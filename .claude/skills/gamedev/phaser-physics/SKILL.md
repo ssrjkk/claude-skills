@@ -1,6 +1,6 @@
 ---
 name: phaser-physics
-description: Physics with Phaser. physics.
+description: "Physics with Phaser. physics."
 category: gamedev
 tags: [phaser, physics, gamedev, game-engine]
 models: [gpt-4, claude-3]

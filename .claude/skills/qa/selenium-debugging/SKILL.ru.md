@@ -1,6 +1,6 @@
 ---
 name: selenium-debugging
-description: Debugging for Selenium: debugging and troubleshooting
+description: "Debugging for Selenium: debugging and troubleshooting"
 category: qa
 tags: [selenium-debugging, qa, russian]
 models: [sonnet, opus]

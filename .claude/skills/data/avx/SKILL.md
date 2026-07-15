@@ -1,6 +1,6 @@
 ---
 name: avx
-description: Development with Avx: tools and best practices
+description: "Development with Avx: tools and best practices"
 category: data
 tags: [avx, data, development]
 models: [sonnet, opus]

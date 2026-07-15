@@ -1,6 +1,6 @@
 ---
 name: zipkin-alerts
-description: Alerts with Zipkin. alerting rules.
+description: "Alerts with Zipkin. alerting rules."
 category: devops
 tags: [zipkin-alerts, devops, russian]
 models: [sonnet, opus]

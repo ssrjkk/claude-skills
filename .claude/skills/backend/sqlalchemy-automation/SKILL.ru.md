@@ -1,6 +1,6 @@
 ---
 name: sqlalchemy-automation
-description: Automation for Sqlalchemy: automation and scripting
+description: "Automation for Sqlalchemy: automation and scripting"
 category: backend
 tags: [sqlalchemy-automation, backend, russian]
 models: [sonnet, opus]

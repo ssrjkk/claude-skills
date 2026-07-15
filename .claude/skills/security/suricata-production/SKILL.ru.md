@@ -1,6 +1,6 @@
 ---
 name: suricata-production
-description: Production for Suricata: production deployment
+description: "Production for Suricata: production deployment"
 category: security
 tags: [suricata-production, security, russian]
 models: [sonnet, opus]

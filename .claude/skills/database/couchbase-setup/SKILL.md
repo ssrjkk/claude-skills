@@ -1,6 +1,6 @@
 ---
 name: couchbase-setup
-description: Setup with Couchbase. installation.
+description: "Setup with Couchbase. installation."
 category: database
 tags: [couchbase, setup, database, caching]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: jupyter-integration
-description: Integration with Jupyter. data sources.
+description: "Integration with Jupyter. data sources."
 category: data
 tags: [jupyter-integration, data, russian]
 models: [sonnet, opus]

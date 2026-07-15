@@ -1,6 +1,6 @@
 ---
 name: plotly-dataframe
-description: DataFrame with Plotly. data manipulation.
+description: "DataFrame with Plotly. data manipulation."
 category: data
 tags: [plotly-dataframe, data, russian]
 models: [sonnet, opus]

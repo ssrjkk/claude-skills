@@ -1,6 +1,6 @@
 ---
 name: dicom-implementation
-description: Implementation with DICOM. integration.
+description: "Implementation with DICOM. integration."
 category: healthcare
 tags: [dicom, implementation, healthcare, healthcare]
 models: [gpt-4, claude-3]

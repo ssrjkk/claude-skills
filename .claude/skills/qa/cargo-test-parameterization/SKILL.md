@@ -1,6 +1,6 @@
 ---
 name: cargo-test-parameterization
-description: Parameterization with Cargo Test. parametrized tests.
+description: "Parameterization with Cargo Test. parametrized tests."
 category: qa
 tags: [cargo-test, parameterization, qa, testing]
 models: [gpt-4, claude-3]

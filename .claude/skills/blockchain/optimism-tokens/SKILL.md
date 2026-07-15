@@ -1,6 +1,6 @@
 ---
 name: optimism-tokens
-description: Tokens with Optimism. token standards.
+description: "Tokens with Optimism. token standards."
 category: blockchain
 tags: [optimism, tokens, blockchain, blockchain]
 models: [gpt-4, claude-3]

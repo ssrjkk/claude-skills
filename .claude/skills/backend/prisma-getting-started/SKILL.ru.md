@@ -1,6 +1,6 @@
 ---
 name: prisma-getting-started
-description: Getting Started for Prisma: initial setup and first steps
+description: "Getting Started for Prisma: initial setup and first steps"
 category: backend
 tags: [prisma-getting-started, backend, russian]
 models: [sonnet, opus]

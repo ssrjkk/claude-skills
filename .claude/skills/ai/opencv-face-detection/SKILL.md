@@ -1,6 +1,6 @@
 ---
 name: opencv-face-detection
-description: Face Detection with Opencv. facial recognition.
+description: "Face Detection with Opencv. facial recognition."
 category: ai
 tags: [opencv, face-detection, ai, computer-vision]
 models: [gpt-4, claude-3]

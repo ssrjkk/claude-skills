@@ -1,6 +1,6 @@
 ---
 name: paddlepaddle-pruning
-description: Pruning with Paddlepaddle. model pruning.
+description: "Pruning with Paddlepaddle. model pruning."
 category: ai
 tags: [paddlepaddle, pruning, ai, deep-learning]
 models: [gpt-4, claude-3]

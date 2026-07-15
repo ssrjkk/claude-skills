@@ -1,6 +1,6 @@
 ---
 name: prince2-implementation
-description: Implementation with PRINCE2. adoption.
+description: "Implementation with PRINCE2. adoption."
 category: product
 tags: [prince2-implementation, product, russian]
 models: [sonnet, opus]

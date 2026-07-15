@@ -1,6 +1,6 @@
 ---
 name: pgbouncer-quickstart
-description: Quickstart for Pgbouncer: quick start guide
+description: "Quickstart for Pgbouncer: quick start guide"
 category: database
 tags: [pgbouncer, quickstart, database]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kafka-connect-getting-started
-description: Getting Started for Kafka-Connect: initial setup and first steps
+description: "Getting Started for Kafka-Connect: initial setup and first steps"
 category: database
 tags: [kafka-connect, getting-started, database]
 models: [sonnet, opus]

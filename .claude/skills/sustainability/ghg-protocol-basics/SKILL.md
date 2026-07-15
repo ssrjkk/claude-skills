@@ -1,6 +1,6 @@
 ---
 name: ghg-protocol-basics
-description: Basics with GHG Protocol. fundamentals.
+description: "Basics with GHG Protocol. fundamentals."
 category: sustainability
 tags: [ghg-protocol, basics, sustainability, sustainability]
 models: [gpt-4, claude-3]

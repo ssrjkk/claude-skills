@@ -1,6 +1,6 @@
 ---
 name: rancher-deployment
-description: Deployment with Rancher. apps deployment.
+description: "Deployment with Rancher. apps deployment."
 category: devops
 tags: [rancher-deployment, devops, russian]
 models: [sonnet, opus]

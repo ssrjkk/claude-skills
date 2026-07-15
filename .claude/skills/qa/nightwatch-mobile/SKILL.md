@@ -1,6 +1,6 @@
 ---
 name: nightwatch-mobile
-description: Mobile with Nightwatch. mobile testing.
+description: "Mobile with Nightwatch. mobile testing."
 category: qa
 tags: [nightwatch, mobile, qa, e2e]
 models: [gpt-4, claude-3]

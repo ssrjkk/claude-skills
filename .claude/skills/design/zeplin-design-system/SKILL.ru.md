@@ -1,6 +1,6 @@
 ---
 name: zeplin-design-system
-description: Design Systems with Zeplin. tokens.
+description: "Design Systems with Zeplin. tokens."
 category: design
 tags: [zeplin-design-system, design, russian]
 models: [sonnet, opus]

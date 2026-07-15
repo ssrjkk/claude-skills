@@ -1,6 +1,6 @@
 ---
 name: ray-tune-experiment-tracking
-description: Experiment Tracking with Ray Tune. tracking experiments.
+description: "Experiment Tracking with Ray Tune. tracking experiments."
 category: ai
 tags: [ray-tune, experiment-tracking, ai, ml]
 models: [gpt-4, claude-3]

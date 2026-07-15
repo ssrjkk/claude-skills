@@ -1,6 +1,6 @@
 ---
 name: dns-monitoring
-description: Monitoring with DNS. monitoring.
+description: "Monitoring with DNS. monitoring."
 category: networking
 tags: [dns, monitoring, networking, networking]
 models: [gpt-4, claude-3]

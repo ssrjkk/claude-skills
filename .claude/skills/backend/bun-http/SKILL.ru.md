@@ -1,6 +1,6 @@
 ---
 name: bun-http
-description: Bun HTTP server and routing
+description: "Bun HTTP server and routing"
 category: backend
 tags: [bun-http, backend, russian]
 models: [sonnet, opus]

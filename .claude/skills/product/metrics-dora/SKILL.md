@@ -1,6 +1,6 @@
 ---
 name: metrics-dora
-description: Calculates DORA metrics (Deployment Frequency, Lead Time, MTTR, CFR) for teams. Use for evaluating DevOps effectiveness.
+description: "Calculates DORA metrics (Deployment Frequency, Lead Time, MTTR, CFR) for teams. Use for evaluating DevOps effectiveness."
 category: product
 tags: [dora, metrics, devops, performance]
 models: [sonnet, opus]

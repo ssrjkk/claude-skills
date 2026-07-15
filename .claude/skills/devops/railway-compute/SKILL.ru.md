@@ -1,6 +1,6 @@
 ---
 name: railway-compute
-description: Compute with Railway. VM/compute.
+description: "Compute with Railway. VM/compute."
 category: devops
 tags: [railway-compute, devops, russian]
 models: [sonnet, opus]

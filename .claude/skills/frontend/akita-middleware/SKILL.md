@@ -1,6 +1,6 @@
 ---
 name: akita-middleware
-description: Middleware with Akita. side effects.
+description: "Middleware with Akita. side effects."
 category: frontend
 tags: [akita, middleware, frontend, state-management]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: react-native-bare
-description: Develops React Native applications without Expo, using native modules, libraries, and custom builds. Use for advanced RN projects.
+description: "Develops React Native applications without Expo, using native modules, libraries, and custom builds. Use for advanced RN projects."
 category: mobile
 tags: [react-native, mobile, native-modules, typescript, ios]
 models: [sonnet, opus]

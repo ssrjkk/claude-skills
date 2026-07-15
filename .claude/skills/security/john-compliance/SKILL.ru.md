@@ -1,6 +1,6 @@
 ---
 name: john-compliance
-description: Compliance with John the Ripper. compliance.
+description: "Compliance with John the Ripper. compliance."
 category: security
 tags: [john-compliance, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vault-debugging
-description: Debugging for Vault: debugging and troubleshooting
+description: "Debugging for Vault: debugging and troubleshooting"
 category: security
 tags: [vault-debugging, security, russian]
 models: [sonnet, opus]

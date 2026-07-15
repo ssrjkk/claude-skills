@@ -1,6 +1,6 @@
 ---
 name: semantic-kernel-prompting
-description: Prompt Engineering with Semantic Kernel. prompt templates.
+description: "Prompt Engineering with Semantic Kernel. prompt templates."
 category: ai
 tags: [semantic-kernel, prompting, ai, llm]
 models: [gpt-4, claude-3]

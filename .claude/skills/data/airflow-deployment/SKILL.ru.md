@@ -1,6 +1,6 @@
 ---
 name: airflow-deployment
-description: Deployment for Airflow: deployment and release
+description: "Deployment for Airflow: deployment and release"
 category: data
 tags: [airflow-deployment, data, russian]
 models: [sonnet, opus]

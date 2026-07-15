@@ -1,6 +1,6 @@
 ---
 name: revenuecat-automation
-description: Automation for Revenuecat: automation and scripting
+description: "Automation for Revenuecat: automation and scripting"
 category: mobile
 tags: [revenuecat-automation, mobile, russian]
 models: [sonnet, opus]

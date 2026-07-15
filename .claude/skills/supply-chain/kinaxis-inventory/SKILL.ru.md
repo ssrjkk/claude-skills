@@ -1,6 +1,6 @@
 ---
 name: kinaxis-inventory
-description: Inventory with Kinaxis. inventory mgmt.
+description: "Inventory with Kinaxis. inventory mgmt."
 category: supply-chain
 tags: [kinaxis-inventory, supply-chain, russian]
 models: [sonnet, opus]

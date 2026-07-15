@@ -1,6 +1,6 @@
 ---
 name: tcfd-strategy
-description: Strategy with TCFD. strategy.
+description: "Strategy with TCFD. strategy."
 category: sustainability
 tags: [tcfd-strategy, sustainability, russian]
 models: [sonnet, opus]

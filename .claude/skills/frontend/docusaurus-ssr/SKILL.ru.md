@@ -1,6 +1,6 @@
 ---
 name: docusaurus-ssr
-description: SSR with Docusaurus. server rendering.
+description: "SSR with Docusaurus. server rendering."
 category: frontend
 tags: [docusaurus-ssr, frontend, russian]
 models: [sonnet, opus]

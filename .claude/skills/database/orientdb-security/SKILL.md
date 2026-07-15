@@ -1,6 +1,6 @@
 ---
 name: orientdb-security
-description: Security with OrientDB. security.
+description: "Security with OrientDB. security."
 category: database
 tags: [orientdb, security, database, graph-database]
 models: [gpt-4, claude-3]

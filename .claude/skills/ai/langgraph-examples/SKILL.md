@@ -1,6 +1,6 @@
 ---
 name: langgraph-examples
-description: Examples for Langgraph: practical examples
+description: "Examples for Langgraph: practical examples"
 category: ai
 tags: [langgraph, examples, ai]
 models: [sonnet, opus]

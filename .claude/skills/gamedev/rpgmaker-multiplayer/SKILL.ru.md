@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-multiplayer
-description: Multiplayer with RPG Maker. networking.
+description: "Multiplayer with RPG Maker. networking."
 category: gamedev
 tags: [rpgmaker-multiplayer, gamedev, russian]
 models: [sonnet, opus]

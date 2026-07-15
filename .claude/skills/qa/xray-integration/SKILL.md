@@ -1,6 +1,6 @@
 ---
 name: xray-integration
-description: Integration for Xray: integration with other tools
+description: "Integration for Xray: integration with other tools"
 category: qa
 tags: [xray, integration, qa]
 models: [sonnet, opus]

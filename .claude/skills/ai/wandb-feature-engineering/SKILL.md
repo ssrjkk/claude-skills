@@ -1,6 +1,6 @@
 ---
 name: wandb-feature-engineering
-description: Feature Engineering with Wandb. creating features.
+description: "Feature Engineering with Wandb. creating features."
 category: ai
 tags: [wandb, feature-engineering, ai, ml]
 models: [gpt-4, claude-3]

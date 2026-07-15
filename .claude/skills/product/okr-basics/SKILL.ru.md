@@ -1,6 +1,6 @@
 ---
 name: okr-basics
-description: Basics with OKRs. fundamentals.
+description: "Basics with OKRs. fundamentals."
 category: product
 tags: [okr-basics, product, russian]
 models: [sonnet, opus]

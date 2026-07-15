@@ -1,6 +1,6 @@
 ---
 name: dynatrace-metrics
-description: Metrics with Dynatrace. collecting metrics.
+description: "Metrics with Dynatrace. collecting metrics."
 category: devops
 tags: [dynatrace-metrics, devops, russian]
 models: [sonnet, opus]

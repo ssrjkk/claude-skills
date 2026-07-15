@@ -1,6 +1,6 @@
 ---
 name: thanos-scraping
-description: Scraping with Thanos. target discovery.
+description: "Scraping with Thanos. target discovery."
 category: devops
 tags: [thanos, scraping, devops, monitoring]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: vlan-security
-description: Security with VLAN. hardening.
+description: "Security with VLAN. hardening."
 category: networking
 tags: [vlan, security, networking, networking]
 models: [gpt-4, claude-3]

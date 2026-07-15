@@ -1,6 +1,6 @@
 ---
 name: soda-production
-description: Production for Soda: production deployment
+description: "Production for Soda: production deployment"
 category: data
 tags: [soda-production, data, russian]
 models: [sonnet, opus]

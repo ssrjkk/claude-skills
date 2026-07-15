@@ -1,6 +1,6 @@
 ---
 name: lti-implementation
-description: Implementation with LTI. implementation.
+description: "Implementation with LTI. implementation."
 category: education
 tags: [lti-implementation, education, russian]
 models: [sonnet, opus]

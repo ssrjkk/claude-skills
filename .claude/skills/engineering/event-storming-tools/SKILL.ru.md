@@ -1,6 +1,6 @@
 ---
 name: event-storming-tools
-description: Tools with Event Storming. tooling.
+description: "Tools with Event Storming. tooling."
 category: engineering
 tags: [event-storming-tools, engineering, russian]
 models: [sonnet, opus]

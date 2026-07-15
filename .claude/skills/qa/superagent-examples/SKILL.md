@@ -1,6 +1,6 @@
 ---
 name: superagent-examples
-description: Examples for Superagent: practical examples
+description: "Examples for Superagent: practical examples"
 category: qa
 tags: [superagent, examples, qa]
 models: [sonnet, opus]

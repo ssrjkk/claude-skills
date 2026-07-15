@@ -1,6 +1,6 @@
 ---
 name: plan-execute-usage
-description: Usage for Plan-Execute: usage reference
+description: "Usage for Plan-Execute: usage reference"
 category: ai
 tags: [plan-execute, usage, ai]
 models: [sonnet, opus]

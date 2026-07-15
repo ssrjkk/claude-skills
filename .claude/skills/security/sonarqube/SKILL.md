@@ -1,6 +1,6 @@
 ---
 name: sonarqube
-description: Analyzes code quality and security with SonarQube, detecting bugs, vulnerabilities, and code smells. Use for continuous code inspection.
+description: "Analyzes code quality and security with SonarQube, detecting bugs, vulnerabilities, and code smells. Use for continuous code inspection."
 category: security
 tags: [sonarqube, code-quality, static-analysis, security, linting]
 models: [sonnet, opus]

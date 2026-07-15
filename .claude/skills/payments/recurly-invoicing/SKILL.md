@@ -1,6 +1,6 @@
 ---
 name: recurly-invoicing
-description: Invoicing with Recurly. invoices.
+description: "Invoicing with Recurly. invoices."
 category: payments
 tags: [recurly, invoicing, payments, billing]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: optimism-dapps
-description: DApps with Optimism. decentralized apps.
+description: "DApps with Optimism. decentralized apps."
 category: blockchain
 tags: [optimism-dapps, blockchain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: javafx-native
-description: Native with JavaFX. native APIs.
+description: "Native with JavaFX. native APIs."
 category: desktop
 tags: [javafx, native, desktop, desktop]
 models: [gpt-4, claude-3]

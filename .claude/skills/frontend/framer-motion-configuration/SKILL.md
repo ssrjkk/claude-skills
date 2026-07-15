@@ -1,6 +1,6 @@
 ---
 name: framer-motion-configuration
-description: Configuration for Framer-Motion: configuration and setup
+description: "Configuration for Framer-Motion: configuration and setup"
 category: frontend
 tags: [framer-motion, configuration, frontend]
 models: [sonnet, opus]

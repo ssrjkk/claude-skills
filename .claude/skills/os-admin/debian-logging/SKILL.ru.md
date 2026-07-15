@@ -1,6 +1,6 @@
 ---
 name: debian-logging
-description: Logging with Debian. logging.
+description: "Logging with Debian. logging."
 category: os-admin
 tags: [debian-logging, os-admin, russian]
 models: [sonnet, opus]

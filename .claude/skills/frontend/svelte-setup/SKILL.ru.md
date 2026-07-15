@@ -1,6 +1,6 @@
 ---
 name: svelte-setup
-description: Setup for Svelte: installation and configuration
+description: "Setup for Svelte: installation and configuration"
 category: frontend
 tags: [svelte-setup, frontend, russian]
 models: [sonnet, opus]

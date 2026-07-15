@@ -1,6 +1,6 @@
 ---
 name: opentelemetry-metrics
-description: Metrics with OpenTelemetry. collecting metrics.
+description: "Metrics with OpenTelemetry. collecting metrics."
 category: devops
 tags: [opentelemetry, metrics, devops, monitoring]
 models: [gpt-4, claude-3]

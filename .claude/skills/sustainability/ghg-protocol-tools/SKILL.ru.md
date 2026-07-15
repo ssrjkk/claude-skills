@@ -1,6 +1,6 @@
 ---
 name: ghg-protocol-tools
-description: Tools with GHG Protocol. tools.
+description: "Tools with GHG Protocol. tools."
 category: sustainability
 tags: [ghg-protocol-tools, sustainability, russian]
 models: [sonnet, opus]

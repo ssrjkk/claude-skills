@@ -1,6 +1,6 @@
 ---
 name: godot-advanced
-description: Advanced for Godot: advanced patterns and techniques
+description: "Advanced for Godot: advanced patterns and techniques"
 category: gamedev
 tags: [godot-advanced, gamedev, russian]
 models: [sonnet, opus]

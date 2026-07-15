@@ -1,6 +1,6 @@
 ---
 name: portfolio-basics
-description: Basics with Portfolio Management. fundamentals.
+description: "Basics with Portfolio Management. fundamentals."
 category: finance
 tags: [portfolio, basics, finance, trading]
 models: [gpt-4, claude-3]

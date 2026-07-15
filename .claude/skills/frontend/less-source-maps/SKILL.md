@@ -1,6 +1,6 @@
 ---
 name: less-source-maps
-description: Source Maps with Less. debugging.
+description: "Source Maps with Less. debugging."
 category: frontend
 tags: [less, source-maps, frontend, build-tool]
 models: [gpt-4, claude-3]

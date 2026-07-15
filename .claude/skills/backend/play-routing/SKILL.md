@@ -1,6 +1,6 @@
 ---
 name: play-routing
-description: Routing with Play. HTTP routing.
+description: "Routing with Play. HTTP routing."
 category: backend
 tags: [play, routing, backend, backend]
 models: [gpt-4, claude-3]

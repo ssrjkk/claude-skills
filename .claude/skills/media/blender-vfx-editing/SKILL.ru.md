@@ -1,6 +1,6 @@
 ---
 name: blender-vfx-editing
-description: Editing with Blender VFX. editing.
+description: "Editing with Blender VFX. editing."
 category: media
 tags: [blender-vfx-editing, media, russian]
 models: [sonnet, opus]

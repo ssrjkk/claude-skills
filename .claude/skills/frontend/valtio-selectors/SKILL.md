@@ -1,6 +1,6 @@
 ---
 name: valtio-selectors
-description: Selectors with Valtio. derived data.
+description: "Selectors with Valtio. derived data."
 category: frontend
 tags: [valtio, selectors, frontend, state-management]
 models: [gpt-4, claude-3]

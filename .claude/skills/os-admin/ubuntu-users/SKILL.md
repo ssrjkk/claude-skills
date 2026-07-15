@@ -1,6 +1,6 @@
 ---
 name: ubuntu-users
-description: Users with Ubuntu. user management.
+description: "Users with Ubuntu. user management."
 category: os-admin
 tags: [ubuntu, users, os-admin, linux]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: gstreamer-encoding
-description: Encoding with GStreamer. encoding.
+description: "Encoding with GStreamer. encoding."
 category: media
 tags: [gstreamer-encoding, media, russian]
 models: [sonnet, opus]

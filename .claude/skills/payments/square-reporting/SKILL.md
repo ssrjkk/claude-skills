@@ -1,6 +1,6 @@
 ---
 name: square-reporting
-description: Reporting with Square. reports.
+description: "Reporting with Square. reports."
 category: payments
 tags: [square, reporting, payments, payments]
 models: [gpt-4, claude-3]

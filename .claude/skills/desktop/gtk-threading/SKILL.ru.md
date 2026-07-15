@@ -1,6 +1,6 @@
 ---
 name: gtk-threading
-description: Threading with GTK. multithreading.
+description: "Threading with GTK. multithreading."
 category: desktop
 tags: [gtk-threading, desktop, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: build-and-optimize-project-schedule
-description: Develop a realistic project schedule with dependencies, durations, and resource allocation
+description: "Develop a realistic project schedule with dependencies, durations, and resource allocation"
 category: product
 tags: [schedule, gantt, critical path, duration]
 models: [sonnet, opus]

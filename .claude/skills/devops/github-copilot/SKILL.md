@@ -1,6 +1,6 @@
 ---
 name: github-copilot
-description: GitHub Copilot setup and optimization
+description: "GitHub Copilot setup and optimization"
 category: devops
 tags: [github-copilot, ai, code-generation, productivity]
 models: [sonnet, opus]

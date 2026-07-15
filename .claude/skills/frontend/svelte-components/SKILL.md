@@ -1,6 +1,6 @@
 ---
 name: svelte-components
-description: Components with Svelte. building components.
+description: "Components with Svelte. building components."
 category: frontend
 tags: [svelte, components, frontend, frontend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: xmpp-testing
-description: Testing with XMPP. testing.
+description: "Testing with XMPP. testing."
 category: communications
 tags: [xmpp-testing, communications, russian]
 models: [sonnet, opus]

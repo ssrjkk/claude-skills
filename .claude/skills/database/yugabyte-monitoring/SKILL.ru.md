@@ -1,6 +1,6 @@
 ---
 name: yugabyte-monitoring
-description: Monitoring with YugabyteDB. monitoring.
+description: "Monitoring with YugabyteDB. monitoring."
 category: database
 tags: [yugabyte-monitoring, database, russian]
 models: [sonnet, opus]

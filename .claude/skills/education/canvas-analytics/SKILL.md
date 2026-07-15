@@ -1,6 +1,6 @@
 ---
 name: canvas-analytics
-description: Analytics with Canvas LMS. analytics.
+description: "Analytics with Canvas LMS. analytics."
 category: education
 tags: [canvas, analytics, education, education-platform]
 models: [gpt-4, claude-3]

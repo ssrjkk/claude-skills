@@ -1,6 +1,6 @@
 ---
 name: telegram-bot-messaging
-description: Messaging with Telegram Bot. sending messages.
+description: "Messaging with Telegram Bot. sending messages."
 category: communications
 tags: [telegram-bot, messaging, communications, communication-platform]
 models: [gpt-4, claude-3]

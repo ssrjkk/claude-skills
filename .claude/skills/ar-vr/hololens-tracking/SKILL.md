@@ -1,6 +1,6 @@
 ---
 name: hololens-tracking
-description: Tracking with HoloLens. spatial tracking.
+description: "Tracking with HoloLens. spatial tracking."
 category: ar-vr
 tags: [hololens, tracking, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

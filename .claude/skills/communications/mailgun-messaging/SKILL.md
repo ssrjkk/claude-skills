@@ -1,6 +1,6 @@
 ---
 name: mailgun-messaging
-description: Messaging with Mailgun. sending messages.
+description: "Messaging with Mailgun. sending messages."
 category: communications
 tags: [mailgun, messaging, communications, communication-platform]
 models: [gpt-4, claude-3]

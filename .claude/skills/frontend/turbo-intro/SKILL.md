@@ -1,6 +1,6 @@
 ---
 name: turbo-intro
-description: Intro for Turbo: introduction
+description: "Intro for Turbo: introduction"
 category: frontend
 tags: [turbo, intro, frontend]
 models: [sonnet, opus]

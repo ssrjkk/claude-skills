@@ -1,6 +1,6 @@
 ---
 name: artillery-spike
-description: Spike with Artillery. spike tests.
+description: "Spike with Artillery. spike tests."
 category: qa
 tags: [artillery-spike, qa, russian]
 models: [sonnet, opus]

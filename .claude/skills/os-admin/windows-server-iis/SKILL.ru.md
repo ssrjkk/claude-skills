@@ -1,6 +1,6 @@
 ---
 name: windows-server-iis
-description: IIS with Windows Server. web server.
+description: "IIS with Windows Server. web server."
 category: os-admin
 tags: [windows-server-iis, os-admin, russian]
 models: [sonnet, opus]

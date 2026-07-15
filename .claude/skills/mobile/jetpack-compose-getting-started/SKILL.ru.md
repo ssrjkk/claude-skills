@@ -1,6 +1,6 @@
 ---
 name: jetpack-compose-getting-started
-description: Getting Started for Jetpack-Compose: initial setup and first steps
+description: "Getting Started for Jetpack-Compose: initial setup and first steps"
 category: mobile
 tags: [jetpack-compose-getting-started, mobile, russian]
 models: [sonnet, opus]

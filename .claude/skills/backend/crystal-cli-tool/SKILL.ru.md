@@ -1,6 +1,6 @@
 ---
 name: crystal-cli-tool
-description: CLI Tool with Crystal. building CLI tools.
+description: "CLI Tool with Crystal. building CLI tools."
 category: backend
 tags: [crystal-cli-tool, backend, russian]
 models: [sonnet, opus]

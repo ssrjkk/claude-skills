@@ -1,6 +1,6 @@
 ---
 name: stm32-adc
-description: ADC with STM32. analog input.
+description: "ADC with STM32. analog input."
 category: iot
 tags: [stm32-adc, iot, russian]
 models: [sonnet, opus]

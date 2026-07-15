@@ -1,6 +1,6 @@
 ---
 name: kpt-examples
-description: Examples for Kpt: practical examples
+description: "Examples for Kpt: practical examples"
 category: devops
 tags: [kpt, examples, devops]
 models: [sonnet, opus]

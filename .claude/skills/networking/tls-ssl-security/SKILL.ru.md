@@ -1,6 +1,6 @@
 ---
 name: tls-ssl-security
-description: Security with TLS/SSL. hardening.
+description: "Security with TLS/SSL. hardening."
 category: networking
 tags: [tls-ssl-security, networking, russian]
 models: [sonnet, opus]

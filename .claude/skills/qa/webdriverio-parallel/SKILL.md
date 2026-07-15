@@ -1,6 +1,6 @@
 ---
 name: webdriverio-parallel
-description: Parallel with WebdriverIO. parallel execution.
+description: "Parallel with WebdriverIO. parallel execution."
 category: qa
 tags: [webdriverio, parallel, qa, e2e]
 models: [gpt-4, claude-3]

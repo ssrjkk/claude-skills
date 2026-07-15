@@ -1,6 +1,6 @@
 ---
 name: hyperopt-deployment
-description: Deployment with Hyperopt. model serving.
+description: "Deployment with Hyperopt. model serving."
 category: ai
 tags: [hyperopt-deployment, ai, russian]
 models: [sonnet, opus]

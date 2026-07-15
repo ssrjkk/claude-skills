@@ -1,6 +1,6 @@
 ---
 name: django-debugging
-description: Debugging for Django: debugging and troubleshooting
+description: "Debugging for Django: debugging and troubleshooting"
 category: backend
 tags: [django, debugging, backend]
 models: [sonnet, opus]

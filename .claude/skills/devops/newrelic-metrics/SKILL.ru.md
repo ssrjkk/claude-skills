@@ -1,6 +1,6 @@
 ---
 name: newrelic-metrics
-description: Metrics with New Relic. collecting metrics.
+description: "Metrics with New Relic. collecting metrics."
 category: devops
 tags: [newrelic-metrics, devops, russian]
 models: [sonnet, opus]

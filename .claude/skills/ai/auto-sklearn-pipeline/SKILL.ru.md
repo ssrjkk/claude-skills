@@ -1,6 +1,6 @@
 ---
 name: auto-sklearn-pipeline
-description: Pipeline with Auto Sklearn. ML pipelines.
+description: "Pipeline with Auto Sklearn. ML pipelines."
 category: ai
 tags: [auto-sklearn-pipeline, ai, russian]
 models: [sonnet, opus]

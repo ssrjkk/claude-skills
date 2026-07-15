@@ -1,6 +1,6 @@
 ---
 name: qt-native
-description: Native with Qt. native APIs.
+description: "Native with Qt. native APIs."
 category: desktop
 tags: [qt, native, desktop, desktop]
 models: [gpt-4, claude-3]

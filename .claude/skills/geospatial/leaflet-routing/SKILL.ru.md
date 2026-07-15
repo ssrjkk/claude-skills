@@ -1,6 +1,6 @@
 ---
 name: leaflet-routing
-description: Routing with Leaflet. routing.
+description: "Routing with Leaflet. routing."
 category: geospatial
 tags: [leaflet-routing, geospatial, russian]
 models: [sonnet, opus]

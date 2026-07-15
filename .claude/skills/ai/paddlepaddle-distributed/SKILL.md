@@ -1,6 +1,6 @@
 ---
 name: paddlepaddle-distributed
-description: Distributed with Paddlepaddle. distributed training.
+description: "Distributed with Paddlepaddle. distributed training."
 category: ai
 tags: [paddlepaddle, distributed, ai, deep-learning]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: sbti-strategy
-description: Strategy with SBTi. strategy.
+description: "Strategy with SBTi. strategy."
 category: sustainability
 tags: [sbti, strategy, sustainability, sustainability]
 models: [gpt-4, claude-3]

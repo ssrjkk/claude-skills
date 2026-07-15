@@ -1,6 +1,6 @@
 ---
 name: bamboo-pipeline
-description: Pipeline with Bamboo. pipeline creation.
+description: "Pipeline with Bamboo. pipeline creation."
 category: devops
 tags: [bamboo-pipeline, devops, russian]
 models: [sonnet, opus]

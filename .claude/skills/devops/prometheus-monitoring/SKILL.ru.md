@@ -1,6 +1,6 @@
 ---
 name: prometheus-monitoring
-description: Monitoring for Prometheus: monitoring and observability
+description: "Monitoring for Prometheus: monitoring and observability"
 category: devops
 tags: [prometheus-monitoring, devops, russian]
 models: [sonnet, opus]

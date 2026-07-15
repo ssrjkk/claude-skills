@@ -1,6 +1,6 @@
 ---
 name: thinkific-analytics
-description: Analytics with Thinkific. analytics.
+description: "Analytics with Thinkific. analytics."
 category: education
 tags: [thinkific-analytics, education, russian]
 models: [sonnet, opus]

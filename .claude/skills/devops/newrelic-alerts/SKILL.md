@@ -1,6 +1,6 @@
 ---
 name: newrelic-alerts
-description: Alerts with New Relic. alerting rules.
+description: "Alerts with New Relic. alerting rules."
 category: devops
 tags: [newrelic, alerts, devops, monitoring]
 models: [gpt-4, claude-3]

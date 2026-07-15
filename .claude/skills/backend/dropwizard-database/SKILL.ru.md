@@ -1,6 +1,6 @@
 ---
 name: dropwizard-database
-description: Database with Dropwizard. DB access.
+description: "Database with Dropwizard. DB access."
 category: backend
 tags: [dropwizard-database, backend, russian]
 models: [sonnet, opus]

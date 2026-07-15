@@ -1,6 +1,6 @@
 ---
 name: langfuse-integration
-description: Integration for Langfuse: integration with other tools
+description: "Integration for Langfuse: integration with other tools"
 category: ai
 tags: [langfuse, integration, ai]
 models: [sonnet, opus]

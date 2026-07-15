@@ -1,6 +1,6 @@
 ---
 name: manhattan-warehousing
-description: Warehousing with Manhattan Associates. WMS.
+description: "Warehousing with Manhattan Associates. WMS."
 category: supply-chain
 tags: [manhattan, warehousing, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

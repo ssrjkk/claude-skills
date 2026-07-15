@@ -1,6 +1,6 @@
 ---
 name: few-shot-learning
-description: Designs and curates few-shot examples to guide LLM behavior, including example selection, formatting, and ordering. Use for task specification without fine-tuning.
+description: "Designs and curates few-shot examples to guide LLM behavior, including example selection, formatting, and ordering. Use for task specification without fine-tuning."
 category: ai
 tags: [prompt, few-shot, examples, in-context-learning, llm]
 models: [sonnet, opus]

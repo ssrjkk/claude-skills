@@ -1,6 +1,6 @@
 ---
 name: persona-basics
-description: Basics with Personas. fundamentals.
+description: "Basics with Personas. fundamentals."
 category: design
 tags: [persona-basics, design, russian]
 models: [sonnet, opus]

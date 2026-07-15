@@ -1,6 +1,6 @@
 ---
 name: repository-migration
-description: Migration with Repository. adopting the pattern.
+description: "Migration with Repository. adopting the pattern."
 category: backend
 tags: [repository, migration, backend, architecture]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: c4-model-diagrams
-description: Diagrams with C4 Model. diagramming.
+description: "Diagrams with C4 Model. diagramming."
 category: engineering
 tags: [c4-model-diagrams, engineering, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: woocommerce-orders
-description: Orders with WooCommerce. order management.
+description: "Orders with WooCommerce. order management."
 category: ecommerce
 tags: [woocommerce-orders, ecommerce, russian]
 models: [sonnet, opus]

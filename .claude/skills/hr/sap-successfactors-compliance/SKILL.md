@@ -1,6 +1,6 @@
 ---
 name: sap-successfactors-compliance
-description: Compliance with SAP SuccessFactors. compliance.
+description: "Compliance with SAP SuccessFactors. compliance."
 category: hr
 tags: [sap-successfactors, compliance, hr, hr-tech]
 models: [gpt-4, claude-3]

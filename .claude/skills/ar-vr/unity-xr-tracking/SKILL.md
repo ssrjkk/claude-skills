@@ -1,6 +1,6 @@
 ---
 name: unity-xr-tracking
-description: Tracking with Unity XR. spatial tracking.
+description: "Tracking with Unity XR. spatial tracking."
 category: ar-vr
 tags: [unity-xr, tracking, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

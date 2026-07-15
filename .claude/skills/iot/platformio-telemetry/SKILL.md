@@ -1,6 +1,6 @@
 ---
 name: platformio-telemetry
-description: Telemetry with PlatformIO. data collection.
+description: "Telemetry with PlatformIO. data collection."
 category: iot
 tags: [platformio, telemetry, iot, iot-platform]
 models: [gpt-4, claude-3]

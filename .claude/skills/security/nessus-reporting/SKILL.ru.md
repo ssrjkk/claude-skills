@@ -1,6 +1,6 @@
 ---
 name: nessus-reporting
-description: Reporting with Nessus. reports.
+description: "Reporting with Nessus. reports."
 category: security
 tags: [nessus-reporting, security, russian]
 models: [sonnet, opus]

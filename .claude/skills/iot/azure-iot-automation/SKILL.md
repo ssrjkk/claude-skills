@@ -1,6 +1,6 @@
 ---
 name: azure-iot-automation
-description: Automation with Azure IoT. automation.
+description: "Automation with Azure IoT. automation."
 category: iot
 tags: [azure-iot, automation, iot, iot-platform]
 models: [gpt-4, claude-3]

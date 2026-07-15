@@ -1,6 +1,6 @@
 ---
 name: final-cut-setup
-description: Setup with Final Cut Pro. setup.
+description: "Setup with Final Cut Pro. setup."
 category: media
 tags: [final-cut, setup, media, media-production]
 models: [gpt-4, claude-3]

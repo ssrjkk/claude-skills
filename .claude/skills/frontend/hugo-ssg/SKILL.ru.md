@@ -1,6 +1,6 @@
 ---
 name: hugo-ssg
-description: SSG with Hugo. static generation.
+description: "SSG with Hugo. static generation."
 category: frontend
 tags: [hugo-ssg, frontend, russian]
 models: [sonnet, opus]

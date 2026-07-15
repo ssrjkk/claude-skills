@@ -1,6 +1,6 @@
 ---
 name: swift-ios-state
-description: State with Swift iOS. state management.
+description: "State with Swift iOS. state management."
 category: mobile
 tags: [swift-ios, state, mobile, mobile]
 models: [gpt-4, claude-3]

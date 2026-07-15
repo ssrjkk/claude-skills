@@ -1,6 +1,6 @@
 ---
 name: caffe2-optimization
-description: Optimization with Caffe2. model optimization.
+description: "Optimization with Caffe2. model optimization."
 category: ai
 tags: [caffe2, optimization, ai, deep-learning]
 models: [gpt-4, claude-3]

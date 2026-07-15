@@ -1,6 +1,6 @@
 ---
 name: gatling-metrics
-description: Metrics with Gatling. performance metrics.
+description: "Metrics with Gatling. performance metrics."
 category: qa
 tags: [gatling, metrics, qa, performance-testing]
 models: [gpt-4, claude-3]

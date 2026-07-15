@@ -1,6 +1,6 @@
 ---
 name: chainer-distributed
-description: Distributed with Chainer. distributed training.
+description: "Distributed with Chainer. distributed training."
 category: ai
 tags: [chainer, distributed, ai, deep-learning]
 models: [gpt-4, claude-3]

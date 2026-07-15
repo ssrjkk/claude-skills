@@ -1,6 +1,6 @@
 ---
 name: blender-vfx-audio
-description: Audio with Blender VFX. audio editing.
+description: "Audio with Blender VFX. audio editing."
 category: media
 tags: [blender-vfx, audio, media, media-production]
 models: [gpt-4, claude-3]

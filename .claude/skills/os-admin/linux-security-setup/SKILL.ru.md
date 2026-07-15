@@ -1,6 +1,6 @@
 ---
 name: linux-security-setup
-description: Setup with Linux Security. installation.
+description: "Setup with Linux Security. installation."
 category: os-admin
 tags: [linux-security-setup, os-admin, russian]
 models: [sonnet, opus]

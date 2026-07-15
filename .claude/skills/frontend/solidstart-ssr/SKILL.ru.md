@@ -1,6 +1,6 @@
 ---
 name: solidstart-ssr
-description: SSR with SolidStart. server rendering.
+description: "SSR with SolidStart. server rendering."
 category: frontend
 tags: [solidstart-ssr, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: milligram-typography
-description: Typography with Milligram. text styling.
+description: "Typography with Milligram. text styling."
 category: frontend
 tags: [milligram-typography, frontend, russian]
 models: [sonnet, opus]

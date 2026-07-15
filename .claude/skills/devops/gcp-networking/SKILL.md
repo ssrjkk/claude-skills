@@ -1,6 +1,6 @@
 ---
 name: gcp-networking
-description: Networking with GCP. VPC.
+description: "Networking with GCP. VPC."
 category: devops
 tags: [gcp, networking, devops, cloud]
 models: [gpt-4, claude-3]

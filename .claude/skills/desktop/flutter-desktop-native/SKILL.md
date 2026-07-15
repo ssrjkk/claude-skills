@@ -1,6 +1,6 @@
 ---
 name: flutter-desktop-native
-description: Native with Flutter Desktop. native APIs.
+description: "Native with Flutter Desktop. native APIs."
 category: desktop
 tags: [flutter-desktop, native, desktop, desktop]
 models: [gpt-4, claude-3]

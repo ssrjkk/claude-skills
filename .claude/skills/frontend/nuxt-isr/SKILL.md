@@ -1,6 +1,6 @@
 ---
 name: nuxt-isr
-description: ISR with Nuxt. incremental.
+description: "ISR with Nuxt. incremental."
 category: frontend
 tags: [nuxt, isr, frontend, meta-framework]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: grafana-security
-description: Security for Grafana: security best practices
+description: "Security for Grafana: security best practices"
 category: devops
 tags: [grafana-security, devops, russian]
 models: [sonnet, opus]

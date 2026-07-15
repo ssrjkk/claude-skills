@@ -1,6 +1,6 @@
 ---
 name: suse-security
-description: Security with SUSE. hardening.
+description: "Security with SUSE. hardening."
 category: os-admin
 tags: [suse, security, os-admin, linux]
 models: [gpt-4, claude-3]

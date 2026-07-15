@@ -1,6 +1,6 @@
 ---
 name: nginx-cache-security
-description: Security with Nginx Cache. security.
+description: "Security with Nginx Cache. security."
 category: database
 tags: [nginx-cache-security, database, russian]
 models: [sonnet, opus]

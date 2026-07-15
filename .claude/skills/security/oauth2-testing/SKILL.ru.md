@@ -1,6 +1,6 @@
 ---
 name: oauth2-testing
-description: Testing with OAuth 2.0. security testing.
+description: "Testing with OAuth 2.0. security testing."
 category: security
 tags: [oauth2-testing, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: selenium-reporting
-description: Reporting with Selenium. reports.
+description: "Reporting with Selenium. reports."
 category: qa
 tags: [selenium-reporting, qa, russian]
 models: [sonnet, opus]

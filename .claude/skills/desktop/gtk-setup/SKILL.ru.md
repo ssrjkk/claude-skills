@@ -1,6 +1,6 @@
 ---
 name: gtk-setup
-description: Setup with GTK. SDK setup.
+description: "Setup with GTK. SDK setup."
 category: desktop
 tags: [gtk-setup, desktop, russian]
 models: [sonnet, opus]

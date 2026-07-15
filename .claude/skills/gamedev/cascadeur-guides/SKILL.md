@@ -1,6 +1,6 @@
 ---
 name: cascadeur-guides
-description: Guides for Cascadeur: how-to guides
+description: "Guides for Cascadeur: how-to guides"
 category: gamedev
 tags: [cascadeur, guides, gamedev]
 models: [sonnet, opus]

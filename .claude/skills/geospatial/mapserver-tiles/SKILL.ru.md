@@ -1,6 +1,6 @@
 ---
 name: mapserver-tiles
-description: Tiles with MapServer. tile serving.
+description: "Tiles with MapServer. tile serving."
 category: geospatial
 tags: [mapserver-tiles, geospatial, russian]
 models: [sonnet, opus]

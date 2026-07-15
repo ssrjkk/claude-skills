@@ -1,6 +1,6 @@
 ---
 name: pico-components
-description: Components with Pico CSS. UI components.
+description: "Components with Pico CSS. UI components."
 category: frontend
 tags: [pico-components, frontend, russian]
 models: [sonnet, opus]

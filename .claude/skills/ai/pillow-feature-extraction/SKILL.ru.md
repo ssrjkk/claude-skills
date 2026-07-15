@@ -1,6 +1,6 @@
 ---
 name: pillow-feature-extraction
-description: Feature Extraction with Pillow. extracting features.
+description: "Feature Extraction with Pillow. extracting features."
 category: ai
 tags: [pillow-feature-extraction, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: preact-performance
-description: Performance with Preact. optimization.
+description: "Performance with Preact. optimization."
 category: frontend
 tags: [preact, performance, frontend, frontend]
 models: [gpt-4, claude-3]

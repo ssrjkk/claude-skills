@@ -1,6 +1,6 @@
 ---
 name: aarrr-best-practices
-description: Best Practices with AARRR. tips.
+description: "Best Practices with AARRR. tips."
 category: product
 tags: [aarrr-best-practices, product, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: react-native-advanced
-description: Advanced for React-Native: advanced patterns and techniques
+description: "Advanced for React-Native: advanced patterns and techniques"
 category: mobile
 tags: [react-native-advanced, mobile, russian]
 models: [sonnet, opus]

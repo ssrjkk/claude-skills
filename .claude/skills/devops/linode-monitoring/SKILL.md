@@ -1,6 +1,6 @@
 ---
 name: linode-monitoring
-description: Monitoring with Linode. monitoring.
+description: "Monitoring with Linode. monitoring."
 category: devops
 tags: [linode, monitoring, devops, cloud]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: level-design-player-feedback
-description: Feedback with Level Design. player feedback.
+description: "Feedback with Level Design. player feedback."
 category: gamedev
 tags: [level-design-player-feedback, gamedev, russian]
 models: [sonnet, opus]

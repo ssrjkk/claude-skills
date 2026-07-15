@@ -1,6 +1,6 @@
 ---
 name: motherduck-configuration
-description: Configuration for Motherduck: configuration and setup
+description: "Configuration for Motherduck: configuration and setup"
 category: database
 tags: [motherduck-configuration, database, russian]
 models: [sonnet, opus]

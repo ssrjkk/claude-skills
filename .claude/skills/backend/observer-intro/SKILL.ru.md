@@ -1,6 +1,6 @@
 ---
 name: observer-intro
-description: Introduction with Observer. understanding the pattern.
+description: "Introduction with Observer. understanding the pattern."
 category: backend
 tags: [observer-intro, backend, russian]
 models: [sonnet, opus]

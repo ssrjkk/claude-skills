@@ -1,6 +1,6 @@
 ---
 name: adyen-checkout
-description: Checkout with Adyen. checkout flow.
+description: "Checkout with Adyen. checkout flow."
 category: payments
 tags: [adyen, checkout, payments, payments]
 models: [gpt-4, claude-3]

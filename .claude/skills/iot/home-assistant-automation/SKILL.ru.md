@@ -1,6 +1,6 @@
 ---
 name: home-assistant-automation
-description: Automation with Home Assistant. automation.
+description: "Automation with Home Assistant. automation."
 category: iot
 tags: [home-assistant-automation, iot, russian]
 models: [sonnet, opus]

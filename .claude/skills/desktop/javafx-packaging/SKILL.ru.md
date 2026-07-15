@@ -1,6 +1,6 @@
 ---
 name: javafx-packaging
-description: Packaging with JavaFX. app packaging.
+description: "Packaging with JavaFX. app packaging."
 category: desktop
 tags: [javafx-packaging, desktop, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: pusher-video
-description: Video with Pusher. video calls.
+description: "Video with Pusher. video calls."
 category: communications
 tags: [pusher-video, communications, russian]
 models: [sonnet, opus]

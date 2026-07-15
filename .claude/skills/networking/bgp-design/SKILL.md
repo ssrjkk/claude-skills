@@ -1,6 +1,6 @@
 ---
 name: bgp-design
-description: Design with BGP. network design.
+description: "Design with BGP. network design."
 category: networking
 tags: [bgp, design, networking, networking]
 models: [gpt-4, claude-3]

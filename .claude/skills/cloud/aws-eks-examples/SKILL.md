@@ -1,6 +1,6 @@
 ---
 name: aws-eks-examples
-description: Examples for Aws-Eks: practical examples
+description: "Examples for Aws-Eks: practical examples"
 category: cloud
 tags: [aws-eks, examples, cloud]
 models: [sonnet, opus]

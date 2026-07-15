@@ -1,6 +1,6 @@
 ---
 name: magic-leap-interaction
-description: Interaction with Magic Leap. hand tracking.
+description: "Interaction with Magic Leap. hand tracking."
 category: ar-vr
 tags: [magic-leap-interaction, ar-vr, russian]
 models: [sonnet, opus]

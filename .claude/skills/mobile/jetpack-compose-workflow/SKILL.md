@@ -1,6 +1,6 @@
 ---
 name: jetpack-compose-workflow
-description: Workflow for Jetpack-Compose: workflow optimization
+description: "Workflow for Jetpack-Compose: workflow optimization"
 category: mobile
 tags: [jetpack-compose, workflow, mobile]
 models: [sonnet, opus]

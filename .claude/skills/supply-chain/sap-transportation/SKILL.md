@@ -1,6 +1,6 @@
 ---
 name: sap-transportation
-description: Transportation with SAP SCM. TMS.
+description: "Transportation with SAP SCM. TMS."
 category: supply-chain
 tags: [sap, transportation, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

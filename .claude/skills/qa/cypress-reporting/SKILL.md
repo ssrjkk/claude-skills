@@ -1,6 +1,6 @@
 ---
 name: cypress-reporting
-description: Reporting with Cypress. reports.
+description: "Reporting with Cypress. reports."
 category: qa
 tags: [cypress, reporting, qa, e2e]
 models: [gpt-4, claude-3]

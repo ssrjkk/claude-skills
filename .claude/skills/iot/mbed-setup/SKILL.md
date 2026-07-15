@@ -1,6 +1,6 @@
 ---
 name: mbed-setup
-description: Setup with Mbed OS. board setup.
+description: "Setup with Mbed OS. board setup."
 category: iot
 tags: [mbed, setup, iot, iot]
 models: [gpt-4, claude-3]

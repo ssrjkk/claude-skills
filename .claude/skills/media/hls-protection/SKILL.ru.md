@@ -1,6 +1,6 @@
 ---
 name: hls-protection
-description: Protection with HLS. DRM.
+description: "Protection with HLS. DRM."
 category: media
 tags: [hls-protection, media, russian]
 models: [sonnet, opus]

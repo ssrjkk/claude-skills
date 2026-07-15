@@ -1,6 +1,6 @@
 ---
 name: arcgis-setup
-description: Setup with ArcGIS. setup.
+description: "Setup with ArcGIS. setup."
 category: geospatial
 tags: [arcgis, setup, geospatial, gis]
 models: [gpt-4, claude-3]

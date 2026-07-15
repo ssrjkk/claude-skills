@@ -1,6 +1,6 @@
 ---
 name: dart-debugging
-description: Debugging for Dart: debugging and troubleshooting
+description: "Debugging for Dart: debugging and troubleshooting"
 category: mobile
 tags: [dart, debugging, mobile]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: laravel-templating
-description: Templating with Laravel. Blade.
+description: "Templating with Laravel. Blade."
 category: backend
 tags: [laravel, templating, backend, backend]
 models: [gpt-4, claude-3]

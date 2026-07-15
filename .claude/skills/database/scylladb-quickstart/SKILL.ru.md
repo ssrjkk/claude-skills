@@ -1,6 +1,6 @@
 ---
 name: scylladb-quickstart
-description: Quickstart for Scylladb: quick start guide
+description: "Quickstart for Scylladb: quick start guide"
 category: database
 tags: [scylladb-quickstart, database, russian]
 models: [sonnet, opus]

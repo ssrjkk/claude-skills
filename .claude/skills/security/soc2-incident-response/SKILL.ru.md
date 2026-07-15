@@ -1,6 +1,6 @@
 ---
 name: soc2-incident-response
-description: Incident Response with SOC 2. incident response.
+description: "Incident Response with SOC 2. incident response."
 category: security
 tags: [soc2-incident-response, security, russian]
 models: [sonnet, opus]

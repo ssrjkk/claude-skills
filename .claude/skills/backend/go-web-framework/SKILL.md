@@ -1,6 +1,6 @@
 ---
 name: go-web-framework
-description: Web Framework with Go. web dev.
+description: "Web Framework with Go. web dev."
 category: backend
 tags: [go, web-framework, backend, backend]
 models: [gpt-4, claude-3]

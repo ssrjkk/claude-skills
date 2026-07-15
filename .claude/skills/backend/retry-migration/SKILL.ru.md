@@ -1,6 +1,6 @@
 ---
 name: retry-migration
-description: Migration with Retry. adopting the pattern.
+description: "Migration with Retry. adopting the pattern."
 category: backend
 tags: [retry-migration, backend, russian]
 models: [sonnet, opus]

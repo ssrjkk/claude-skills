@@ -1,6 +1,6 @@
 ---
 name: play-config
-description: Config with Play. configuration.
+description: "Config with Play. configuration."
 category: backend
 tags: [play, config, backend, backend]
 models: [gpt-4, claude-3]

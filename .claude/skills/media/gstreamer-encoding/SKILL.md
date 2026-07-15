@@ -1,6 +1,6 @@
 ---
 name: gstreamer-encoding
-description: Encoding with GStreamer. encoding.
+description: "Encoding with GStreamer. encoding."
 category: media
 tags: [gstreamer, encoding, media, media-streaming]
 models: [gpt-4, claude-3]

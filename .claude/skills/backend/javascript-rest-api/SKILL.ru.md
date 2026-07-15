@@ -1,6 +1,6 @@
 ---
 name: javascript-rest-api
-description: REST API with Javascript. building REST APIs.
+description: "REST API with Javascript. building REST APIs."
 category: backend
 tags: [javascript-rest-api, backend, russian]
 models: [sonnet, opus]

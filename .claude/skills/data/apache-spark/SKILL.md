@@ -1,6 +1,6 @@
 ---
 name: apache-spark
-description: Processes large-scale data with Apache Spark using DataFrames, RDDs, and Spark SQL. Use for big data ETL and analytics.
+description: "Processes large-scale data with Apache Spark using DataFrames, RDDs, and Spark SQL. Use for big data ETL and analytics."
 category: data
 tags: [spark, big-data, dataframe, pyspark, analytics]
 models: [sonnet, opus]

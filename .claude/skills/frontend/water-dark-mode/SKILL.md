@@ -1,6 +1,6 @@
 ---
 name: water-dark-mode
-description: Dark Mode with Water.css. dark theme.
+description: "Dark Mode with Water.css. dark theme."
 category: frontend
 tags: [water, dark-mode, frontend, css]
 models: [gpt-4, claude-3]

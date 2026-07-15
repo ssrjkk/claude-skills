@@ -1,6 +1,6 @@
 ---
 name: strangler-fig-scaling
-description: Scaling with Strangler Fig. scaling considerations.
+description: "Scaling with Strangler Fig. scaling considerations."
 category: backend
 tags: [strangler-fig, scaling, backend, architecture]
 models: [gpt-4, claude-3]

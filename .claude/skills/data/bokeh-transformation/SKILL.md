@@ -1,6 +1,6 @@
 ---
 name: bokeh-transformation
-description: Transformation with Bokeh. transform.
+description: "Transformation with Bokeh. transform."
 category: data
 tags: [bokeh, transformation, data, data-science]
 models: [gpt-4, claude-3]

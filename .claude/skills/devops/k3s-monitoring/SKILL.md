@@ -1,6 +1,6 @@
 ---
 name: k3s-monitoring
-description: Monitoring with K3s. monitoring.
+description: "Monitoring with K3s. monitoring."
 category: devops
 tags: [k3s, monitoring, devops, kubernetes]
 models: [gpt-4, claude-3]

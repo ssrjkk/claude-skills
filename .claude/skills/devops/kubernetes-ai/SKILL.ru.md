@@ -1,6 +1,6 @@
 ---
 name: kubernetes-ai
-description: Running AI workloads on Kubernetes
+description: "Running AI workloads on Kubernetes"
 category: devops
 tags: [kubernetes-ai, devops, russian]
 models: [sonnet, opus]

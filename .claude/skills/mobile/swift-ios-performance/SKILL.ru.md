@@ -1,6 +1,6 @@
 ---
 name: swift-ios-performance
-description: Performance with Swift iOS. optimization.
+description: "Performance with Swift iOS. optimization."
 category: mobile
 tags: [swift-ios-performance, mobile, russian]
 models: [sonnet, opus]

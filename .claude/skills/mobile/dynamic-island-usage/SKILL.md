@@ -1,6 +1,6 @@
 ---
 name: dynamic-island-usage
-description: Usage for Dynamic-Island: usage reference
+description: "Usage for Dynamic-Island: usage reference"
 category: mobile
 tags: [dynamic-island, usage, mobile]
 models: [sonnet, opus]

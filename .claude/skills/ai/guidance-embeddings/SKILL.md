@@ -1,6 +1,6 @@
 ---
 name: guidance-embeddings
-description: Embeddings with Guidance. text embeddings.
+description: "Embeddings with Guidance. text embeddings."
 category: ai
 tags: [guidance, embeddings, ai, llm]
 models: [gpt-4, claude-3]

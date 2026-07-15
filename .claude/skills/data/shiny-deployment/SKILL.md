@@ -1,6 +1,6 @@
 ---
 name: shiny-deployment
-description: Deployment with Shiny. deploy.
+description: "Deployment with Shiny. deploy."
 category: data
 tags: [shiny, deployment, data, data-apps]
 models: [gpt-4, claude-3]

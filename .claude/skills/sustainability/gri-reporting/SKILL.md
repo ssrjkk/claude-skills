@@ -1,6 +1,6 @@
 ---
 name: gri-reporting
-description: Reporting with GRI. reporting.
+description: "Reporting with GRI. reporting."
 category: sustainability
 tags: [gri, reporting, sustainability, sustainability]
 models: [gpt-4, claude-3]

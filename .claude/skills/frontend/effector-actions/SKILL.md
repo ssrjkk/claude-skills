@@ -1,6 +1,6 @@
 ---
 name: effector-actions
-description: Actions with Effector. actions.
+description: "Actions with Effector. actions."
 category: frontend
 tags: [effector, actions, frontend, state-management]
 models: [gpt-4, claude-3]

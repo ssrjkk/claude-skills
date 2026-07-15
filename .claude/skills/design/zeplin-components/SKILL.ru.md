@@ -1,6 +1,6 @@
 ---
 name: zeplin-components
-description: Components with Zeplin. components.
+description: "Components with Zeplin. components."
 category: design
 tags: [zeplin-components, design, russian]
 models: [sonnet, opus]

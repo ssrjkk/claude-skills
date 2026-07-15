@@ -1,6 +1,6 @@
 ---
 name: dagster-optimization
-description: Optimization with Dagster. performance.
+description: "Optimization with Dagster. performance."
 category: data
 tags: [dagster-optimization, data, russian]
 models: [sonnet, opus]

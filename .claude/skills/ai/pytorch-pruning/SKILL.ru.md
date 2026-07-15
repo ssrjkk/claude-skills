@@ -1,6 +1,6 @@
 ---
 name: pytorch-pruning
-description: Pruning with Pytorch. model pruning.
+description: "Pruning with Pytorch. model pruning."
 category: ai
 tags: [pytorch-pruning, ai, russian]
 models: [sonnet, opus]

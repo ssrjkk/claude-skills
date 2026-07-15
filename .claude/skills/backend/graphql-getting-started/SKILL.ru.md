@@ -1,6 +1,6 @@
 ---
 name: graphql-getting-started
-description: Getting Started for Graphql: initial setup and first steps
+description: "Getting Started for Graphql: initial setup and first steps"
 category: backend
 tags: [graphql-getting-started, backend, russian]
 models: [sonnet, opus]

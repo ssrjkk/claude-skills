@@ -1,6 +1,6 @@
 ---
 name: bdd-implementation
-description: Implementation with BDD. practice.
+description: "Implementation with BDD. practice."
 category: engineering
 tags: [bdd, implementation, engineering, engineering]
 models: [gpt-4, claude-3]

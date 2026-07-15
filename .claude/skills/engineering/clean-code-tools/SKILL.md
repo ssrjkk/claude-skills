@@ -1,6 +1,6 @@
 ---
 name: clean-code-tools
-description: Tools with Clean Code. tooling.
+description: "Tools with Clean Code. tooling."
 category: engineering
 tags: [clean-code, tools, engineering, engineering]
 models: [gpt-4, claude-3]

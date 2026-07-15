@@ -1,6 +1,6 @@
 ---
 name: construct-api
-description: API for Construct: API development and integration
+description: "API for Construct: API development and integration"
 category: gamedev
 tags: [construct-api, gamedev, russian]
 models: [sonnet, opus]

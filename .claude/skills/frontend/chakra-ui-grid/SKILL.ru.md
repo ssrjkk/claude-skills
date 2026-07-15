@@ -1,6 +1,6 @@
 ---
 name: chakra-ui-grid
-description: Grid with Chakra UI. layout grids.
+description: "Grid with Chakra UI. layout grids."
 category: frontend
 tags: [chakra-ui-grid, frontend, russian]
 models: [sonnet, opus]

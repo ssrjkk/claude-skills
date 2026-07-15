@@ -1,6 +1,6 @@
 ---
 name: phalcon-auth
-description: Auth with Phalcon. authentication.
+description: "Auth with Phalcon. authentication."
 category: backend
 tags: [phalcon, auth, backend, backend]
 models: [gpt-4, claude-3]

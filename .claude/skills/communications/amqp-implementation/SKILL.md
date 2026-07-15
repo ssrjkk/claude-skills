@@ -1,6 +1,6 @@
 ---
 name: amqp-implementation
-description: Implementation with AMQP. implementation.
+description: "Implementation with AMQP. implementation."
 category: communications
 tags: [amqp, implementation, communications, communication-protocol]
 models: [gpt-4, claude-3]

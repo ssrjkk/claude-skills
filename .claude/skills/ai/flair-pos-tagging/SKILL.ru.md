@@ -1,6 +1,6 @@
 ---
 name: flair-pos-tagging
-description: POS Tagging with Flair. POS tagging.
+description: "POS Tagging with Flair. POS tagging."
 category: ai
 tags: [flair-pos-tagging, ai, russian]
 models: [sonnet, opus]

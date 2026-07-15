@@ -1,6 +1,6 @@
 ---
 name: imaging-data
-description: Data with PACS. data management.
+description: "Data with PACS. data management."
 category: healthcare
 tags: [imaging, data, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: signoz-logging
-description: Logging with SigNoz. log collection.
+description: "Logging with SigNoz. log collection."
 category: devops
 tags: [signoz, logging, devops, monitoring]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: nltk-tokenization
-description: Tokenization with Nltk. text tokenization.
+description: "Tokenization with Nltk. text tokenization."
 category: ai
 tags: [nltk-tokenization, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: descope-examples
-description: Examples for Descope: practical examples
+description: "Examples for Descope: practical examples"
 category: mobile
 tags: [descope-examples, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: iec61850-analytics
-description: Analytics with IEC 61850. analytics.
+description: "Analytics with IEC 61850. analytics."
 category: energy
 tags: [iec61850-analytics, energy, russian]
 models: [sonnet, opus]

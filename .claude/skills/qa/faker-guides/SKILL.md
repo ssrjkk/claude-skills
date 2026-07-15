@@ -1,6 +1,6 @@
 ---
 name: faker-guides
-description: Guides for Faker: how-to guides
+description: "Guides for Faker: how-to guides"
 category: qa
 tags: [faker, guides, qa]
 models: [sonnet, opus]

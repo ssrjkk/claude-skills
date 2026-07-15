@@ -1,6 +1,6 @@
 ---
 name: aks-ingress
-description: Ingress with Azure AKS. ingress controller.
+description: "Ingress with Azure AKS. ingress controller."
 category: devops
 tags: [aks, ingress, devops, kubernetes]
 models: [gpt-4, claude-3]

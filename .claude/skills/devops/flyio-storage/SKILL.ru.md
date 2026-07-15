@@ -1,6 +1,6 @@
 ---
 name: flyio-storage
-description: Storage with Fly.io. object storage.
+description: "Storage with Fly.io. object storage."
 category: devops
 tags: [flyio-storage, devops, russian]
 models: [sonnet, opus]

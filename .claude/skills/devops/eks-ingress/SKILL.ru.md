@@ -1,6 +1,6 @@
 ---
 name: eks-ingress
-description: Ingress with Amazon EKS. ingress controller.
+description: "Ingress with Amazon EKS. ingress controller."
 category: devops
 tags: [eks-ingress, devops, russian]
 models: [sonnet, opus]

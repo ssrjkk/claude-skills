@@ -1,6 +1,6 @@
 ---
 name: skill-0180
-description: Specialized skill #0180 for gamedev development
+description: "Specialized skill #0180 for gamedev development"
 category: gamedev
 tags: [gamedev, skill, 0180]
 models: [sonnet, opus]

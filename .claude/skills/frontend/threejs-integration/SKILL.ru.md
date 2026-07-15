@@ -1,6 +1,6 @@
 ---
 name: threejs-integration
-description: Integration for Threejs: integration with other tools
+description: "Integration for Threejs: integration with other tools"
 category: frontend
 tags: [threejs-integration, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: druid-querying
-description: Querying with Apache Druid. time-series queries.
+description: "Querying with Apache Druid. time-series queries."
 category: database
 tags: [druid, querying, database, time-series]
 models: [gpt-4, claude-3]

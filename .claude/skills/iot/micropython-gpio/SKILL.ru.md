@@ -1,6 +1,6 @@
 ---
 name: micropython-gpio
-description: GPIO with MicroPython. digital I/O.
+description: "GPIO with MicroPython. digital I/O."
 category: iot
 tags: [micropython-gpio, iot, russian]
 models: [sonnet, opus]

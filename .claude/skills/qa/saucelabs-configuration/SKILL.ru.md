@@ -1,6 +1,6 @@
 ---
 name: saucelabs-configuration
-description: Configuration for Saucelabs: configuration and setup
+description: "Configuration for Saucelabs: configuration and setup"
 category: qa
 tags: [saucelabs-configuration, qa, russian]
 models: [sonnet, opus]

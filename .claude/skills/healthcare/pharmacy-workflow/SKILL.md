@@ -1,6 +1,6 @@
 ---
 name: pharmacy-workflow
-description: Workflow with Pharmacy Systems. clinical workflow.
+description: "Workflow with Pharmacy Systems. clinical workflow."
 category: healthcare
 tags: [pharmacy, workflow, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: sanic-auth
-description: Authentication with Sanic. user auth.
+description: "Authentication with Sanic. user auth."
 category: backend
 tags: [sanic-auth, backend, russian]
 models: [sonnet, opus]

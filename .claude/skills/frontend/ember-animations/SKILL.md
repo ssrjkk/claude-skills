@@ -1,6 +1,6 @@
 ---
 name: ember-animations
-description: Animations with Ember. UI animations.
+description: "Animations with Ember. UI animations."
 category: frontend
 tags: [ember, animations, frontend, frontend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: rewoo-usage
-description: Usage for Rewoo: usage reference
+description: "Usage for Rewoo: usage reference"
 category: ai
 tags: [rewoo-usage, ai, russian]
 models: [sonnet, opus]

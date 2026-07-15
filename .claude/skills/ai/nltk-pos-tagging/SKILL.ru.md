@@ -1,6 +1,6 @@
 ---
 name: nltk-pos-tagging
-description: POS Tagging with Nltk. POS tagging.
+description: "POS Tagging with Nltk. POS tagging."
 category: ai
 tags: [nltk-pos-tagging, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: nist-implementation
-description: Implementation with NIST. implementation.
+description: "Implementation with NIST. implementation."
 category: security
 tags: [nist, implementation, security, security]
 models: [gpt-4, claude-3]

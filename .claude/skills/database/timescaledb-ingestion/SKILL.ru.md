@@ -1,6 +1,6 @@
 ---
 name: timescaledb-ingestion
-description: Ingestion with TimescaleDB. data ingestion.
+description: "Ingestion with TimescaleDB. data ingestion."
 category: database
 tags: [timescaledb-ingestion, database, russian]
 models: [sonnet, opus]

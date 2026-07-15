@@ -1,6 +1,6 @@
 ---
 name: starknet-tokens
-description: Tokens with StarkNet. token standards.
+description: "Tokens with StarkNet. token standards."
 category: blockchain
 tags: [starknet, tokens, blockchain, blockchain]
 models: [gpt-4, claude-3]

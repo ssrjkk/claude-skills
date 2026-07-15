@@ -1,6 +1,6 @@
 ---
 name: openhab-security
-description: Security with openHAB. device security.
+description: "Security with openHAB. device security."
 category: iot
 tags: [openhab-security, iot, russian]
 models: [sonnet, opus]

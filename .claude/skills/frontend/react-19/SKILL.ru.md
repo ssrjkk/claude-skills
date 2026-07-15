@@ -1,6 +1,6 @@
 ---
 name: react-19
-description: React 19 features (Actions, use, etc.)
+description: "React 19 features (Actions, use, etc.)"
 category: frontend
 tags: [react-19, frontend, russian]
 models: [sonnet, opus]

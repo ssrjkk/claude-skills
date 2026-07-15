@@ -1,6 +1,6 @@
 ---
 name: cascadeur-examples
-description: Examples for Cascadeur: practical examples
+description: "Examples for Cascadeur: practical examples"
 category: gamedev
 tags: [cascadeur-examples, gamedev, russian]
 models: [sonnet, opus]

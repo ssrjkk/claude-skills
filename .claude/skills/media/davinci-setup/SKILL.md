@@ -1,6 +1,6 @@
 ---
 name: davinci-setup
-description: Setup with DaVinci Resolve. setup.
+description: "Setup with DaVinci Resolve. setup."
 category: media
 tags: [davinci, setup, media, media-production]
 models: [gpt-4, claude-3]

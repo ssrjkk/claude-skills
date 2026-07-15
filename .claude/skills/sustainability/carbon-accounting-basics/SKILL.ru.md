@@ -1,6 +1,6 @@
 ---
 name: carbon-accounting-basics
-description: Basics with Carbon Accounting. fundamentals.
+description: "Basics with Carbon Accounting. fundamentals."
 category: sustainability
 tags: [carbon-accounting-basics, sustainability, russian]
 models: [sonnet, opus]

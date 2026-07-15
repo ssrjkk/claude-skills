@@ -1,6 +1,6 @@
 ---
 name: tls-incident-response
-description: Incident Response with TLS/SSL. incident response.
+description: "Incident Response with TLS/SSL. incident response."
 category: security
 tags: [tls-incident-response, security, russian]
 models: [sonnet, opus]

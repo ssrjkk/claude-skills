@@ -1,6 +1,6 @@
 ---
 name: gcp-serverless
-description: Serverless with GCP. functions.
+description: "Serverless with GCP. functions."
 category: devops
 tags: [gcp-serverless, devops, russian]
 models: [sonnet, opus]

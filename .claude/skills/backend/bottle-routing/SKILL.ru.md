@@ -1,6 +1,6 @@
 ---
 name: bottle-routing
-description: Routing with Bottle. HTTP routing.
+description: "Routing with Bottle. HTTP routing."
 category: backend
 tags: [bottle-routing, backend, russian]
 models: [sonnet, opus]

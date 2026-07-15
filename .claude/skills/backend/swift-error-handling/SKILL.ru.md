@@ -1,6 +1,6 @@
 ---
 name: swift-error-handling
-description: Error Handling with Swift. error management.
+description: "Error Handling with Swift. error management."
 category: backend
 tags: [swift-error-handling, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: prometheus-deployment
-description: Deployment for Prometheus: deployment and release
+description: "Deployment for Prometheus: deployment and release"
 category: devops
 tags: [prometheus, deployment, devops]
 models: [sonnet, opus]

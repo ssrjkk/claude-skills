@@ -1,6 +1,6 @@
 ---
 name: semantic-kernel-memory
-description: Memory with Semantic Kernel. conversation memory.
+description: "Memory with Semantic Kernel. conversation memory."
 category: ai
 tags: [semantic-kernel, memory, ai, llm]
 models: [gpt-4, claude-3]

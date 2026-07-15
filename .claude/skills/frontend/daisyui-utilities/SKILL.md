@@ -1,6 +1,6 @@
 ---
 name: daisyui-utilities
-description: Utilities with daisyUI. utility classes.
+description: "Utilities with daisyUI. utility classes."
 category: frontend
 tags: [daisyui, utilities, frontend, css]
 models: [gpt-4, claude-3]

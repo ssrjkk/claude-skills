@@ -1,6 +1,6 @@
 ---
 name: pharmacy-compliance
-description: Compliance with Pharmacy Systems. compliance.
+description: "Compliance with Pharmacy Systems. compliance."
 category: healthcare
 tags: [pharmacy, compliance, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

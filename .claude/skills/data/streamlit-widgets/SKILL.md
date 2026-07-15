@@ -1,6 +1,6 @@
 ---
 name: streamlit-widgets
-description: Widgets with Streamlit. input widgets.
+description: "Widgets with Streamlit. input widgets."
 category: data
 tags: [streamlit, widgets, data, data-apps]
 models: [gpt-4, claude-3]

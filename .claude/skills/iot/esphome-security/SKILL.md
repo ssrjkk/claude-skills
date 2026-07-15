@@ -1,6 +1,6 @@
 ---
 name: esphome-security
-description: Security with ESPHome. device security.
+description: "Security with ESPHome. device security."
 category: iot
 tags: [esphome, security, iot, iot-platform]
 models: [gpt-4, claude-3]

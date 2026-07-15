@@ -1,6 +1,6 @@
 ---
 name: chromadb-integration
-description: Integration for Chromadb: integration with other tools
+description: "Integration for Chromadb: integration with other tools"
 category: ai
 tags: [chromadb-integration, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: nanobench
-description: Development with Nanobench: tools and best practices
+description: "Development with Nanobench: tools and best practices"
 category: iot
 tags: [nanobench, iot, russian]
 models: [sonnet, opus]

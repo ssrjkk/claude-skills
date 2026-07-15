@@ -1,6 +1,6 @@
 ---
 name: hashicorp-vault-examples
-description: Examples for Hashicorp-Vault: practical examples
+description: "Examples for Hashicorp-Vault: practical examples"
 category: security
 tags: [hashicorp-vault, examples, security]
 models: [sonnet, opus]

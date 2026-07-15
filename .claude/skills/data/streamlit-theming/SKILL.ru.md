@@ -1,6 +1,6 @@
 ---
 name: streamlit-theming
-description: Theming with Streamlit. themes.
+description: "Theming with Streamlit. themes."
 category: data
 tags: [streamlit-theming, data, russian]
 models: [sonnet, opus]

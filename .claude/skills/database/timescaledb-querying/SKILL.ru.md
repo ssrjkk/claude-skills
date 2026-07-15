@@ -1,6 +1,6 @@
 ---
 name: timescaledb-querying
-description: Querying with TimescaleDB. time-series queries.
+description: "Querying with TimescaleDB. time-series queries."
 category: database
 tags: [timescaledb-querying, database, russian]
 models: [sonnet, opus]

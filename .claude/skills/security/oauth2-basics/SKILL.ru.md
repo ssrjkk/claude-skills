@@ -1,6 +1,6 @@
 ---
 name: oauth2-basics
-description: Basics with OAuth 2.0. fundamentals.
+description: "Basics with OAuth 2.0. fundamentals."
 category: security
 tags: [oauth2-basics, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: solr-setup
-description: Setup with Solr. installation.
+description: "Setup with Solr. installation."
 category: database
 tags: [solr-setup, database, russian]
 models: [sonnet, opus]

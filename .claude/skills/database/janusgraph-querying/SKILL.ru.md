@@ -1,6 +1,6 @@
 ---
 name: janusgraph-querying
-description: Querying with JanusGraph. Cypher/Gremlin.
+description: "Querying with JanusGraph. Cypher/Gremlin."
 category: database
 tags: [janusgraph-querying, database, russian]
 models: [sonnet, opus]

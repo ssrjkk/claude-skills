@@ -1,6 +1,6 @@
 ---
 name: godot-rendering
-description: Rendering with Godot. graphics.
+description: "Rendering with Godot. graphics."
 category: gamedev
 tags: [godot-rendering, gamedev, russian]
 models: [sonnet, opus]

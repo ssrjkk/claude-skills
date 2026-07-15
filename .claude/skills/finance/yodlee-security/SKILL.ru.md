@@ -1,6 +1,6 @@
 ---
 name: yodlee-security
-description: Security with Yodlee. security.
+description: "Security with Yodlee. security."
 category: finance
 tags: [yodlee-security, finance, russian]
 models: [sonnet, opus]

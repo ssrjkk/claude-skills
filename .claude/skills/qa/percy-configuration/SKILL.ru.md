@@ -1,6 +1,6 @@
 ---
 name: percy-configuration
-description: Configuration for Percy: configuration and setup
+description: "Configuration for Percy: configuration and setup"
 category: qa
 tags: [percy-configuration, qa, russian]
 models: [sonnet, opus]

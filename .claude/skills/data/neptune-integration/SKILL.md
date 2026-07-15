@@ -1,6 +1,6 @@
 ---
 name: neptune-integration
-description: Integration for Neptune: integration with other tools
+description: "Integration for Neptune: integration with other tools"
 category: data
 tags: [neptune, integration, data]
 models: [sonnet, opus]

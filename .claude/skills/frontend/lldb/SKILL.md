@@ -1,6 +1,6 @@
 ---
 name: lldb
-description: Development with Lldb: tools and best practices
+description: "Development with Lldb: tools and best practices"
 category: frontend
 tags: [lldb, frontend, development]
 models: [sonnet, opus]

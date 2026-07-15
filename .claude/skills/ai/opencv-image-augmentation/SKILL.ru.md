@@ -1,6 +1,6 @@
 ---
 name: opencv-image-augmentation
-description: Image Augmentation with Opencv. data augmentation.
+description: "Image Augmentation with Opencv. data augmentation."
 category: ai
 tags: [opencv-image-augmentation, ai, russian]
 models: [sonnet, opus]

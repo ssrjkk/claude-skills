@@ -1,6 +1,6 @@
 ---
 name: qwik-data-fetching
-description: Data Fetching with Qwik. data loading.
+description: "Data Fetching with Qwik. data loading."
 category: frontend
 tags: [qwik-data-fetching, frontend, russian]
 models: [sonnet, opus]

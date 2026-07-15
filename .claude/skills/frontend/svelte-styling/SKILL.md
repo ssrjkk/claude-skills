@@ -1,6 +1,6 @@
 ---
 name: svelte-styling
-description: Styling with Svelte. component styling.
+description: "Styling with Svelte. component styling."
 category: frontend
 tags: [svelte, styling, frontend, frontend]
 models: [gpt-4, claude-3]

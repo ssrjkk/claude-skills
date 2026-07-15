@@ -1,6 +1,6 @@
 ---
 name: caliper-implementation
-description: Implementation with Caliper. implementation.
+description: "Implementation with Caliper. implementation."
 category: education
 tags: [caliper-implementation, education, russian]
 models: [sonnet, opus]

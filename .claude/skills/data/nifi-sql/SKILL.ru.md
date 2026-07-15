@@ -1,6 +1,6 @@
 ---
 name: nifi-sql
-description: SQL with NiFi. SQL queries.
+description: "SQL with NiFi. SQL queries."
 category: data
 tags: [nifi-sql, data, russian]
 models: [sonnet, opus]

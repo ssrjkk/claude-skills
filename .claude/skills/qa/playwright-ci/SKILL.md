@@ -1,6 +1,6 @@
 ---
 name: playwright-ci
-description: CI with Playwright. CI integration.
+description: "CI with Playwright. CI integration."
 category: qa
 tags: [playwright, ci, qa, e2e]
 models: [gpt-4, claude-3]

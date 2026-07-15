@@ -1,6 +1,6 @@
 ---
 name: proxysql-quickstart
-description: Quickstart for Proxysql: quick start guide
+description: "Quickstart for Proxysql: quick start guide"
 category: database
 tags: [proxysql-quickstart, database, russian]
 models: [sonnet, opus]

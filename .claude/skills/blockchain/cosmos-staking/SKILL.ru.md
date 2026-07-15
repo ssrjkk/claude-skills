@@ -1,6 +1,6 @@
 ---
 name: cosmos-staking
-description: Staking with Cosmos. staking.
+description: "Staking with Cosmos. staking."
 category: blockchain
 tags: [cosmos-staking, blockchain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: memcached-fundamentals
-description: Fundamentals for Memcached: core concepts
+description: "Fundamentals for Memcached: core concepts"
 category: backend
 tags: [memcached-fundamentals, backend, russian]
 models: [sonnet, opus]

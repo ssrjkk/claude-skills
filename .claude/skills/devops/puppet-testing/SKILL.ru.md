@@ -1,6 +1,6 @@
 ---
 name: puppet-testing
-description: Testing with Puppet. infra testing.
+description: "Testing with Puppet. infra testing."
 category: devops
 tags: [puppet-testing, devops, russian]
 models: [sonnet, opus]

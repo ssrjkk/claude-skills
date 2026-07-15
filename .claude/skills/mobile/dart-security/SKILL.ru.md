@@ -1,6 +1,6 @@
 ---
 name: dart-security
-description: Security for Dart: security best practices
+description: "Security for Dart: security best practices"
 category: mobile
 tags: [dart-security, mobile, russian]
 models: [sonnet, opus]

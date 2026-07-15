@@ -1,6 +1,6 @@
 ---
 name: pulumi-provisioning
-description: Provisioning with Pulumi. provisioning.
+description: "Provisioning with Pulumi. provisioning."
 category: devops
 tags: [pulumi-provisioning, devops, russian]
 models: [sonnet, opus]

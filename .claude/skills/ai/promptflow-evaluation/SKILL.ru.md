@@ -1,6 +1,6 @@
 ---
 name: promptflow-evaluation
-description: Evaluation with Promptflow. LLM evaluation.
+description: "Evaluation with Promptflow. LLM evaluation."
 category: ai
 tags: [promptflow-evaluation, ai, russian]
 models: [sonnet, opus]

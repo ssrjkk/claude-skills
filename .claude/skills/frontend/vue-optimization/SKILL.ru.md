@@ -1,6 +1,6 @@
 ---
 name: vue-optimization
-description: Optimization for Vue: performance tuning and optimization
+description: "Optimization for Vue: performance tuning and optimization"
 category: frontend
 tags: [vue-optimization, frontend, russian]
 models: [sonnet, opus]

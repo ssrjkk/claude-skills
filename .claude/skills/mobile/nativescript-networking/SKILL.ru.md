@@ -1,6 +1,6 @@
 ---
 name: nativescript-networking
-description: Networking with NativeScript. API calls.
+description: "Networking with NativeScript. API calls."
 category: mobile
 tags: [nativescript-networking, mobile, russian]
 models: [sonnet, opus]

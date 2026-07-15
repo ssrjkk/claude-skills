@@ -1,6 +1,6 @@
 ---
 name: jwt-advanced
-description: Advanced for Jwt: advanced patterns and techniques
+description: "Advanced for Jwt: advanced patterns and techniques"
 category: security
 tags: [jwt, advanced, security]
 models: [sonnet, opus]

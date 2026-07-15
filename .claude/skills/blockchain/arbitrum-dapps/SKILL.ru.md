@@ -1,6 +1,6 @@
 ---
 name: arbitrum-dapps
-description: DApps with Arbitrum. decentralized apps.
+description: "DApps with Arbitrum. decentralized apps."
 category: blockchain
 tags: [arbitrum-dapps, blockchain, russian]
 models: [sonnet, opus]

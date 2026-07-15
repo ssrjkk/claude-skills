@@ -1,6 +1,6 @@
 ---
 name: dart-web-framework
-description: Web Framework with Dart. web dev.
+description: "Web Framework with Dart. web dev."
 category: backend
 tags: [dart-web-framework, backend, russian]
 models: [sonnet, opus]

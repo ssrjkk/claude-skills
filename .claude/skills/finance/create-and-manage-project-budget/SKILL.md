@@ -1,6 +1,6 @@
 ---
 name: create-and-manage-project-budget
-description: Develop and monitor project budget with cost control and reporting
+description: "Develop and monitor project budget with cost control and reporting"
 category: finance
 tags: [budget, cost, finance, project]
 models: [sonnet, opus]

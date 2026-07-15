@@ -1,6 +1,6 @@
 ---
 name: opentofu-state
-description: State with OpenTofu. state management.
+description: "State with OpenTofu. state management."
 category: devops
 tags: [opentofu, state, devops, iac]
 models: [gpt-4, claude-3]

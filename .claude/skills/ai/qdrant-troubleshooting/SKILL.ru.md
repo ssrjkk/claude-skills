@@ -1,6 +1,6 @@
 ---
 name: qdrant-troubleshooting
-description: Troubleshooting for Qdrant: troubleshooting common issues
+description: "Troubleshooting for Qdrant: troubleshooting common issues"
 category: ai
 tags: [qdrant-troubleshooting, ai, russian]
 models: [sonnet, opus]

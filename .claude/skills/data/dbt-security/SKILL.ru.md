@@ -1,6 +1,6 @@
 ---
 name: dbt-security
-description: Security for Dbt: security best practices
+description: "Security for Dbt: security best practices"
 category: data
 tags: [dbt-security, data, russian]
 models: [sonnet, opus]

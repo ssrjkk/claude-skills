@@ -1,6 +1,6 @@
 ---
 name: opensearch-aggregations
-description: Aggregations with OpenSearch. bucket aggs.
+description: "Aggregations with OpenSearch. bucket aggs."
 category: database
 tags: [opensearch, aggregations, database, search-engine]
 models: [gpt-4, claude-3]

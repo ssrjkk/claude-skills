@@ -1,6 +1,6 @@
 ---
 name: daisyui-theming
-description: Theming with daisyUI. custom themes.
+description: "Theming with daisyUI. custom themes."
 category: frontend
 tags: [daisyui-theming, frontend, russian]
 models: [sonnet, opus]

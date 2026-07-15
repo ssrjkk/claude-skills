@@ -1,6 +1,6 @@
 ---
 name: pyramid-templating
-description: Templating with Pyramid. server templates.
+description: "Templating with Pyramid. server templates."
 category: backend
 tags: [pyramid-templating, backend, russian]
 models: [sonnet, opus]

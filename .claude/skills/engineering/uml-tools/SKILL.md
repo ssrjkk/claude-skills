@@ -1,6 +1,6 @@
 ---
 name: uml-tools
-description: Tools with UML. tooling.
+description: "Tools with UML. tooling."
 category: engineering
 tags: [uml, tools, engineering, modeling]
 models: [gpt-4, claude-3]

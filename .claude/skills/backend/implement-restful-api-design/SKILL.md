@@ -1,6 +1,6 @@
 ---
 name: implement-restful-api-design
-description: Design and implement production-grade RESTful APIs following best practices
+description: "Design and implement production-grade RESTful APIs following best practices"
 category: backend
 tags: [REST, API, HTTP, endpoints]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cml-workflow
-description: Workflow for Cml: workflow optimization
+description: "Workflow for Cml: workflow optimization"
 category: data
 tags: [cml-workflow, data, russian]
 models: [sonnet, opus]

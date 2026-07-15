@@ -1,6 +1,6 @@
 ---
 name: microgrid-monitoring
-description: Monitoring with Microgrid. monitoring.
+description: "Monitoring with Microgrid. monitoring."
 category: energy
 tags: [microgrid-monitoring, energy, russian]
 models: [sonnet, opus]

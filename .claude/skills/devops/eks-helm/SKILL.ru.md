@@ -1,6 +1,6 @@
 ---
 name: eks-helm
-description: Helm with Amazon EKS. package management.
+description: "Helm with Amazon EKS. package management."
 category: devops
 tags: [eks-helm, devops, russian]
 models: [sonnet, opus]

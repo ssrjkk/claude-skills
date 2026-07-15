@@ -1,6 +1,6 @@
 ---
 name: braintree-fraud
-description: Fraud with Braintree. fraud detection.
+description: "Fraud with Braintree. fraud detection."
 category: payments
 tags: [braintree-fraud, payments, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ngrx-actions
-description: Actions with NgRx. actions.
+description: "Actions with NgRx. actions."
 category: frontend
 tags: [ngrx-actions, frontend, russian]
 models: [sonnet, opus]

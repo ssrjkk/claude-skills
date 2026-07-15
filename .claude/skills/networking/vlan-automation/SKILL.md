@@ -1,6 +1,6 @@
 ---
 name: vlan-automation
-description: Automation with VLAN. network automation.
+description: "Automation with VLAN. network automation."
 category: networking
 tags: [vlan, automation, networking, networking]
 models: [gpt-4, claude-3]

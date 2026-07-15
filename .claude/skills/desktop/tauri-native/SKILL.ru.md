@@ -1,6 +1,6 @@
 ---
 name: tauri-native
-description: Native with Tauri. native APIs.
+description: "Native with Tauri. native APIs."
 category: desktop
 tags: [tauri-native, desktop, russian]
 models: [sonnet, opus]

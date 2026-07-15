@@ -1,6 +1,6 @@
 ---
 name: wpf-events
-description: Events with WPF. event handling.
+description: "Events with WPF. event handling."
 category: desktop
 tags: [wpf, events, desktop, desktop]
 models: [gpt-4, claude-3]

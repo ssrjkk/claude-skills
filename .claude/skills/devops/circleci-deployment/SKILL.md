@@ -1,6 +1,6 @@
 ---
 name: circleci-deployment
-description: Deployment with CircleCI. auto-deploy.
+description: "Deployment with CircleCI. auto-deploy."
 category: devops
 tags: [circleci, deployment, devops, ci-cd]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: eks-rbac
-description: RBAC with Amazon EKS. access control.
+description: "RBAC with Amazon EKS. access control."
 category: devops
 tags: [eks, rbac, devops, kubernetes]
 models: [gpt-4, claude-3]

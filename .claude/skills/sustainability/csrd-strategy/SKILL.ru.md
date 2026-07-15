@@ -1,6 +1,6 @@
 ---
 name: csrd-strategy
-description: Strategy with CSRD. strategy.
+description: "Strategy with CSRD. strategy."
 category: sustainability
 tags: [csrd-strategy, sustainability, russian]
 models: [sonnet, opus]

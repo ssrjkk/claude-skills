@@ -1,6 +1,6 @@
 ---
 name: crowdstrike-integration
-description: Integration for Crowdstrike: integration with other tools
+description: "Integration for Crowdstrike: integration with other tools"
 category: security
 tags: [crowdstrike, integration, security]
 models: [sonnet, opus]

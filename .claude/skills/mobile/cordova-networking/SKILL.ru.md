@@ -1,6 +1,6 @@
 ---
 name: cordova-networking
-description: Networking with Cordova. API calls.
+description: "Networking with Cordova. API calls."
 category: mobile
 tags: [cordova-networking, mobile, russian]
 models: [sonnet, opus]

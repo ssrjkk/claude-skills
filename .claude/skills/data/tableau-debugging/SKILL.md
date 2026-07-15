@@ -1,6 +1,6 @@
 ---
 name: tableau-debugging
-description: Debugging for Tableau: debugging and troubleshooting
+description: "Debugging for Tableau: debugging and troubleshooting"
 category: data
 tags: [tableau, debugging, data]
 models: [sonnet, opus]

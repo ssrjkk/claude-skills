@@ -1,6 +1,6 @@
 ---
 name: database-skill-0081
-description: Specialized skill #0081 for database development
+description: "Specialized skill #0081 for database development"
 category: database
 tags: [skill-0081, database, russian]
 models: [sonnet, opus]

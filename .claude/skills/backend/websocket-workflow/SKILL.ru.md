@@ -1,6 +1,6 @@
 ---
 name: websocket-workflow
-description: Workflow for Websocket: workflow optimization
+description: "Workflow for Websocket: workflow optimization"
 category: backend
 tags: [websocket-workflow, backend, russian]
 models: [sonnet, opus]

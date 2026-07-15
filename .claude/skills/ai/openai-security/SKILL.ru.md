@@ -1,6 +1,6 @@
 ---
 name: openai-security
-description: Security for Openai: security best practices
+description: "Security for Openai: security best practices"
 category: ai
 tags: [openai-security, ai, russian]
 models: [sonnet, opus]

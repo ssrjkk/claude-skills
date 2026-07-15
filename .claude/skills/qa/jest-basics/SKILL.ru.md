@@ -1,6 +1,6 @@
 ---
 name: jest-basics
-description: Basics for Jest: fundamentals and core concepts
+description: "Basics for Jest: fundamentals and core concepts"
 category: qa
 tags: [jest-basics, qa, russian]
 models: [sonnet, opus]

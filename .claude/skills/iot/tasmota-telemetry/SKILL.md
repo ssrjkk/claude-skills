@@ -1,6 +1,6 @@
 ---
 name: tasmota-telemetry
-description: Telemetry with Tasmota. data collection.
+description: "Telemetry with Tasmota. data collection."
 category: iot
 tags: [tasmota, telemetry, iot, iot-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: kubernetes-service
-description: Service with Kubernetes. services.
+description: "Service with Kubernetes. services."
 category: devops
 tags: [kubernetes, service, devops, kubernetes]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: hashicorp-vault-quickstart
-description: Quickstart for Hashicorp-Vault: quick start guide
+description: "Quickstart for Hashicorp-Vault: quick start guide"
 category: security
 tags: [hashicorp-vault, quickstart, security]
 models: [sonnet, opus]

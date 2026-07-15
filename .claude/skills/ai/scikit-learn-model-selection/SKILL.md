@@ -1,6 +1,6 @@
 ---
 name: scikit-learn-model-selection
-description: Model Selection with Scikit Learn. choosing models.
+description: "Model Selection with Scikit Learn. choosing models."
 category: ai
 tags: [scikit-learn, model-selection, ai, ml]
 models: [gpt-4, claude-3]

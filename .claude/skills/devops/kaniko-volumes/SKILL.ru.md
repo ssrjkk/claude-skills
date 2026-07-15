@@ -1,6 +1,6 @@
 ---
 name: kaniko-volumes
-description: Volumes with Kaniko. data volumes.
+description: "Volumes with Kaniko. data volumes."
 category: devops
 tags: [kaniko-volumes, devops, russian]
 models: [sonnet, opus]

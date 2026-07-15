@@ -1,6 +1,6 @@
 ---
 name: ember-performance
-description: Performance with Ember. optimization.
+description: "Performance with Ember. optimization."
 category: frontend
 tags: [ember-performance, frontend, russian]
 models: [sonnet, opus]

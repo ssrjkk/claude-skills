@@ -1,6 +1,6 @@
 ---
 name: flexport-setup
-description: Setup with Flexport. setup.
+description: "Setup with Flexport. setup."
 category: supply-chain
 tags: [flexport-setup, supply-chain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: checkov-workflow
-description: Workflow for Checkov: workflow optimization
+description: "Workflow for Checkov: workflow optimization"
 category: security
 tags: [checkov-workflow, security, russian]
 models: [sonnet, opus]

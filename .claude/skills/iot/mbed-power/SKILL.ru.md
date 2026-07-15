@@ -1,6 +1,6 @@
 ---
 name: mbed-power
-description: Power with Mbed OS. power management.
+description: "Power with Mbed OS. power management."
 category: iot
 tags: [mbed-power, iot, russian]
 models: [sonnet, opus]

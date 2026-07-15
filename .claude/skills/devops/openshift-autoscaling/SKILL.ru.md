@@ -1,6 +1,6 @@
 ---
 name: openshift-autoscaling
-description: Autoscaling with OpenShift. HPA.
+description: "Autoscaling with OpenShift. HPA."
 category: devops
 tags: [openshift-autoscaling, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: aurelia-state-management
-description: State Management with Aurelia. state handling.
+description: "State Management with Aurelia. state handling."
 category: frontend
 tags: [aurelia, state-management, frontend, frontend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: react-router-best-practices
-description: Best Practices for React-Router: best practices and patterns
+description: "Best Practices for React-Router: best practices and patterns"
 category: frontend
 tags: [react-router, best-practices, frontend]
 models: [sonnet, opus]

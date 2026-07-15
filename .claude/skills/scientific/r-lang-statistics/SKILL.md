@@ -1,6 +1,6 @@
 ---
 name: r-lang-statistics
-description: Statistics with R. statistical analysis.
+description: "Statistics with R. statistical analysis."
 category: scientific
 tags: [r-lang, statistics, scientific, scientific-computing]
 models: [gpt-4, claude-3]

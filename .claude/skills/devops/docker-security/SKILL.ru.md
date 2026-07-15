@@ -1,6 +1,6 @@
 ---
 name: docker-security
-description: Security with Docker. container security.
+description: "Security with Docker. container security."
 category: devops
 tags: [docker-security, devops, russian]
 models: [sonnet, opus]

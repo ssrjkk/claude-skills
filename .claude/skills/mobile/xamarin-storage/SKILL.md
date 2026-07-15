@@ -1,6 +1,6 @@
 ---
 name: xamarin-storage
-description: Storage with Xamarin. local storage.
+description: "Storage with Xamarin. local storage."
 category: mobile
 tags: [xamarin, storage, mobile, mobile]
 models: [gpt-4, claude-3]

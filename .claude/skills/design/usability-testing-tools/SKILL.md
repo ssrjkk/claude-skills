@@ -1,6 +1,6 @@
 ---
 name: usability-testing-tools
-description: Tools with Usability Testing. tools.
+description: "Tools with Usability Testing. tools."
 category: design
 tags: [usability-testing, tools, design, ux-research]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: vue-styling
-description: Styling with Vue. component styling.
+description: "Styling with Vue. component styling."
 category: frontend
 tags: [vue-styling, frontend, russian]
 models: [sonnet, opus]

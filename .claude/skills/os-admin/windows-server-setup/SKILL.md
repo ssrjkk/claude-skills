@@ -1,6 +1,6 @@
 ---
 name: windows-server-setup
-description: Setup with Windows Server. installation.
+description: "Setup with Windows Server. installation."
 category: os-admin
 tags: [windows-server, setup, os-admin, windows]
 models: [gpt-4, claude-3]

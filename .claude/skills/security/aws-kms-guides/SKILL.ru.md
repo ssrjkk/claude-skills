@@ -1,6 +1,6 @@
 ---
 name: aws-kms-guides
-description: Guides for Aws-Kms: how-to guides
+description: "Guides for Aws-Kms: how-to guides"
 category: security
 tags: [aws-kms-guides, security, russian]
 models: [sonnet, opus]

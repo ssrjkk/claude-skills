@@ -1,6 +1,6 @@
 ---
 name: symfony-auth
-description: Auth with Symfony. authentication.
+description: "Auth with Symfony. authentication."
 category: backend
 tags: [symfony-auth, backend, russian]
 models: [sonnet, opus]

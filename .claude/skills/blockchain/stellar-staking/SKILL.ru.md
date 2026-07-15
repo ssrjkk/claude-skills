@@ -1,6 +1,6 @@
 ---
 name: stellar-staking
-description: Staking with Stellar. staking.
+description: "Staking with Stellar. staking."
 category: blockchain
 tags: [stellar-staking, blockchain, russian]
 models: [sonnet, opus]

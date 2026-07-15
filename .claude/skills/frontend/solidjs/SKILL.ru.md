@@ -1,6 +1,6 @@
 ---
 name: solidjs
-description: Creates reactive UIs with SolidJS, signals, and fine-grained reactivity. Use for high-performance web applications.
+description: "Creates reactive UIs with SolidJS, signals, and fine-grained reactivity. Use for high-performance web applications."
 category: frontend
 tags: [solidjs, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: echo-database
-description: Database with Echo. DB access.
+description: "Database with Echo. DB access."
 category: backend
 tags: [echo, database, backend, backend]
 models: [gpt-4, claude-3]

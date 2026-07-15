@@ -1,6 +1,6 @@
 ---
 name: jotai-actions
-description: Actions with Jotai. actions.
+description: "Actions with Jotai. actions."
 category: frontend
 tags: [jotai-actions, frontend, russian]
 models: [sonnet, opus]

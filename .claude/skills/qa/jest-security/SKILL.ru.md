@@ -1,6 +1,6 @@
 ---
 name: jest-security
-description: Security for Jest: security best practices
+description: "Security for Jest: security best practices"
 category: qa
 tags: [jest-security, qa, russian]
 models: [sonnet, opus]

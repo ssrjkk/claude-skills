@@ -1,6 +1,6 @@
 ---
 name: geoserver-analysis
-description: Analysis with GeoServer. spatial analysis.
+description: "Analysis with GeoServer. spatial analysis."
 category: geospatial
 tags: [geoserver, analysis, geospatial, gis]
 models: [gpt-4, claude-3]

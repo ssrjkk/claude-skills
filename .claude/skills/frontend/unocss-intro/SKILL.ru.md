@@ -1,6 +1,6 @@
 ---
 name: unocss-intro
-description: Intro for Unocss: introduction
+description: "Intro for Unocss: introduction"
 category: frontend
 tags: [unocss-intro, frontend, russian]
 models: [sonnet, opus]

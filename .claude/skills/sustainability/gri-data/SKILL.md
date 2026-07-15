@@ -1,6 +1,6 @@
 ---
 name: gri-data
-description: Data with GRI. data collection.
+description: "Data with GRI. data collection."
 category: sustainability
 tags: [gri, data, sustainability, sustainability]
 models: [gpt-4, claude-3]

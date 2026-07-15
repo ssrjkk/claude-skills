@@ -1,6 +1,6 @@
 ---
 name: raspberry-pi-communication
-description: Comm with Raspberry Pi. I2C.
+description: "Comm with Raspberry Pi. I2C."
 category: iot
 tags: [raspberry-pi, communication, iot, iot]
 models: [gpt-4, claude-3]

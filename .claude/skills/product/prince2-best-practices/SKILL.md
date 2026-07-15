@@ -1,6 +1,6 @@
 ---
 name: prince2-best-practices
-description: Best Practices with PRINCE2. practices.
+description: "Best Practices with PRINCE2. practices."
 category: product
 tags: [prince2, best-practices, product, methodology]
 models: [gpt-4, claude-3]

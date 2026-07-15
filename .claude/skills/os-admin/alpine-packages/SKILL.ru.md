@@ -1,6 +1,6 @@
 ---
 name: alpine-packages
-description: Packages with Alpine Linux. package management.
+description: "Packages with Alpine Linux. package management."
 category: os-admin
 tags: [alpine-packages, os-admin, russian]
 models: [sonnet, opus]

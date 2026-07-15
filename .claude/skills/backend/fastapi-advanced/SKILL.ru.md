@@ -1,6 +1,6 @@
 ---
 name: fastapi-advanced
-description: Advanced for Fastapi: advanced patterns and techniques
+description: "Advanced for Fastapi: advanced patterns and techniques"
 category: backend
 tags: [fastapi-advanced, backend, russian]
 models: [sonnet, opus]

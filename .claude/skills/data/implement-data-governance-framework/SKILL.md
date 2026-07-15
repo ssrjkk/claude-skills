@@ -1,6 +1,6 @@
 ---
 name: implement-data-governance-framework
-description: Establish policies, processes, and controls for managing organizational data
+description: "Establish policies, processes, and controls for managing organizational data"
 category: data
 tags: [governance, data quality, metadata, compliance]
 models: [sonnet, opus]

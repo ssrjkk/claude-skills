@@ -1,6 +1,6 @@
 ---
 name: streamlit
-description: Builds interactive data apps and ML demos with Streamlit, using pure Python widgets and charts.
+description: "Builds interactive data apps and ML demos with Streamlit, using pure Python widgets and charts."
 category: ai
 tags: [streamlit, python, data-app, dashboard, ml]
 models: [sonnet, opus]

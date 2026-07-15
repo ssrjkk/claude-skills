@@ -1,6 +1,6 @@
 ---
 name: color-grading-editing
-description: Editing with Color Grading. editing.
+description: "Editing with Color Grading. editing."
 category: media
 tags: [color-grading, editing, media, media-production]
 models: [gpt-4, claude-3]

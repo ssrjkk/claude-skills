@@ -1,6 +1,6 @@
 ---
 name: doris-guides
-description: Guides for Doris: how-to guides
+description: "Guides for Doris: how-to guides"
 category: data
 tags: [doris, guides, data]
 models: [sonnet, opus]

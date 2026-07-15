@@ -1,6 +1,6 @@
 ---
 name: coredns-workflow
-description: Workflow for Coredns: workflow optimization
+description: "Workflow for Coredns: workflow optimization"
 category: devops
 tags: [coredns, workflow, devops]
 models: [sonnet, opus]

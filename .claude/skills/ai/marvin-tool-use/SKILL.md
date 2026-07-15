@@ -1,6 +1,6 @@
 ---
 name: marvin-tool-use
-description: Tool Use with Marvin. function calling.
+description: "Tool Use with Marvin. function calling."
 category: ai
 tags: [marvin, tool-use, ai, llm]
 models: [gpt-4, claude-3]

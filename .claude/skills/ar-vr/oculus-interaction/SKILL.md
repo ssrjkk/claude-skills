@@ -1,6 +1,6 @@
 ---
 name: oculus-interaction
-description: Interaction with Oculus SDK. hand tracking.
+description: "Interaction with Oculus SDK. hand tracking."
 category: ar-vr
 tags: [oculus, interaction, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: hashcat-remediation
-description: Remediation with Hashcat. fixing vulns.
+description: "Remediation with Hashcat. fixing vulns."
 category: security
 tags: [hashcat-remediation, security, russian]
 models: [sonnet, opus]

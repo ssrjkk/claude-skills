@@ -1,6 +1,6 @@
 ---
 name: okr-facilitation
-description: Facilitation with OKRs. running.
+description: "Facilitation with OKRs. running."
 category: product
 tags: [okr, facilitation, product, product-framework]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: streamlit-performance
-description: Performance with Streamlit. performance.
+description: "Performance with Streamlit. performance."
 category: data
 tags: [streamlit-performance, data, russian]
 models: [sonnet, opus]

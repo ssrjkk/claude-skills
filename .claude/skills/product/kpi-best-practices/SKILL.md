@@ -1,6 +1,6 @@
 ---
 name: kpi-best-practices
-description: Best Practices with KPIs. tips.
+description: "Best Practices with KPIs. tips."
 category: product
 tags: [kpi, best-practices, product, product-framework]
 models: [gpt-4, claude-3]

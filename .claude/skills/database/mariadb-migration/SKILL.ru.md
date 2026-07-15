@@ -1,6 +1,6 @@
 ---
 name: mariadb-migration
-description: Migration with MariaDB. schema migrations.
+description: "Migration with MariaDB. schema migrations."
 category: database
 tags: [mariadb-migration, database, russian]
 models: [sonnet, opus]

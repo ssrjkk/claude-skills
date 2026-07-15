@@ -1,6 +1,6 @@
 ---
 name: python-config
-description: Configuration with Python. config management.
+description: "Configuration with Python. config management."
 category: backend
 tags: [python, config, backend, backend]
 models: [gpt-4, claude-3]

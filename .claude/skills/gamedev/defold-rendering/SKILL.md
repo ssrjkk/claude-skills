@@ -1,6 +1,6 @@
 ---
 name: defold-rendering
-description: Rendering with Defold. graphics.
+description: "Rendering with Defold. graphics."
 category: gamedev
 tags: [defold, rendering, gamedev, game-engine]
 models: [gpt-4, claude-3]

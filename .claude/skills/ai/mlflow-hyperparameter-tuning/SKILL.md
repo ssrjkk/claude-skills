@@ -1,6 +1,6 @@
 ---
 name: mlflow-hyperparameter-tuning
-description: Hyperparameter Tuning with Mlflow. optimizing params.
+description: "Hyperparameter Tuning with Mlflow. optimizing params."
 category: ai
 tags: [mlflow, hyperparameter-tuning, ai, ml]
 models: [gpt-4, claude-3]

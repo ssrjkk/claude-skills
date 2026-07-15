@@ -1,6 +1,6 @@
 ---
 name: openid-monitoring
-description: Monitoring with OpenID Connect. security monitoring.
+description: "Monitoring with OpenID Connect. security monitoring."
 category: security
 tags: [openid-monitoring, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: highlight-usage
-description: Usage for Highlight: usage reference
+description: "Usage for Highlight: usage reference"
 category: devops
 tags: [highlight-usage, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: jmeter-thresholds
-description: Thresholds with JMeter. pass/fail.
+description: "Thresholds with JMeter. pass/fail."
 category: qa
 tags: [jmeter-thresholds, qa, russian]
 models: [sonnet, opus]

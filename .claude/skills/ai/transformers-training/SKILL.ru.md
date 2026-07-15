@@ -1,6 +1,6 @@
 ---
 name: transformers-training
-description: Training with Transformers. training models.
+description: "Training with Transformers. training models."
 category: ai
 tags: [transformers-training, ai, russian]
 models: [sonnet, opus]

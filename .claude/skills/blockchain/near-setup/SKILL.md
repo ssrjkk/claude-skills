@@ -1,6 +1,6 @@
 ---
 name: near-setup
-description: Setup with NEAR. node setup.
+description: "Setup with NEAR. node setup."
 category: blockchain
 tags: [near, setup, blockchain, blockchain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: telegram-bot-video
-description: Video with Telegram Bot. video calls.
+description: "Video with Telegram Bot. video calls."
 category: communications
 tags: [telegram-bot, video, communications, communication-platform]
 models: [gpt-4, claude-3]

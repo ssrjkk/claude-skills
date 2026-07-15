@@ -1,6 +1,6 @@
 ---
 name: swift-basics
-description: Basics for Swift: fundamentals and core concepts
+description: "Basics for Swift: fundamentals and core concepts"
 category: mobile
 tags: [swift-basics, mobile, russian]
 models: [sonnet, opus]

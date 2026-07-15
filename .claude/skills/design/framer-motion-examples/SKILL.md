@@ -1,6 +1,6 @@
 ---
 name: framer-motion-examples
-description: Examples for Framer-Motion: practical examples
+description: "Examples for Framer-Motion: practical examples"
 category: design
 tags: [framer-motion, examples, design]
 models: [sonnet, opus]

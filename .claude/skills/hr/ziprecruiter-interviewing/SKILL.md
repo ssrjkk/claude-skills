@@ -1,6 +1,6 @@
 ---
 name: ziprecruiter-interviewing
-description: Interviewing with ZipRecruiter. interviews.
+description: "Interviewing with ZipRecruiter. interviews."
 category: hr
 tags: [ziprecruiter, interviewing, hr, recruiting]
 models: [gpt-4, claude-3]

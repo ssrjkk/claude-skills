@@ -1,6 +1,6 @@
 ---
 name: defi-security
-description: DeFi security audits and best practices
+description: "DeFi security audits and best practices"
 category: blockchain
 tags: [defi, security, audits, smart-contracts, solidity]
 models: [sonnet, opus]

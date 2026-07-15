@@ -1,6 +1,6 @@
 ---
 name: pytorch-transfer-learning
-description: Transfer Learning with Pytorch. transfer learning.
+description: "Transfer Learning with Pytorch. transfer learning."
 category: ai
 tags: [pytorch, transfer-learning, ai, deep-learning]
 models: [gpt-4, claude-3]

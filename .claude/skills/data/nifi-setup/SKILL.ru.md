@@ -1,6 +1,6 @@
 ---
 name: nifi-setup
-description: Setup with NiFi. installation.
+description: "Setup with NiFi. installation."
 category: data
 tags: [nifi-setup, data, russian]
 models: [sonnet, opus]

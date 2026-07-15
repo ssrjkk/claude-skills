@@ -1,6 +1,6 @@
 ---
 name: hanami-middleware
-description: Middleware with Hanami. rack middleware.
+description: "Middleware with Hanami. rack middleware."
 category: backend
 tags: [hanami-middleware, backend, russian]
 models: [sonnet, opus]

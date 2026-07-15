@@ -1,6 +1,6 @@
 ---
 name: dvc-deployment
-description: Deployment with Dvc. model serving.
+description: "Deployment with Dvc. model serving."
 category: ai
 tags: [dvc-deployment, ai, russian]
 models: [sonnet, opus]

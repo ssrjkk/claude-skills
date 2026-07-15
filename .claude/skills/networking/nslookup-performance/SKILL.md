@@ -1,6 +1,6 @@
 ---
 name: nslookup-performance
-description: Performance with nslookup/dig. benchmarking.
+description: "Performance with nslookup/dig. benchmarking."
 category: networking
 tags: [nslookup, performance, networking, networking-tool]
 models: [gpt-4, claude-3]

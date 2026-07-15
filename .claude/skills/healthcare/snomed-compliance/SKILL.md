@@ -1,6 +1,6 @@
 ---
 name: snomed-compliance
-description: Compliance with SNOMED CT. compliance.
+description: "Compliance with SNOMED CT. compliance."
 category: healthcare
 tags: [snomed, compliance, healthcare, healthcare]
 models: [gpt-4, claude-3]

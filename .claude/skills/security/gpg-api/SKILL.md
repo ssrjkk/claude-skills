@@ -1,6 +1,6 @@
 ---
 name: gpg-api
-description: API for Gpg: API development and integration
+description: "API for Gpg: API development and integration"
 category: security
 tags: [gpg, api, security]
 models: [sonnet, opus]

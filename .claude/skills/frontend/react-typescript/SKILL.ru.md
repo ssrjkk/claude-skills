@@ -1,6 +1,6 @@
 ---
 name: react-typescript
-description: Creates React components with TypeScript, props typing, and hooks. Use for type-safe UI development.
+description: "Creates React components with TypeScript, props typing, and hooks. Use for type-safe UI development."
 category: frontend
 tags: [react-typescript, frontend, russian]
 models: [sonnet, opus]

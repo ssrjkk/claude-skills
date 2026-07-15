@@ -1,6 +1,6 @@
 ---
 name: braket
-description: Development with Braket: tools and best practices
+description: "Development with Braket: tools and best practices"
 category: frontend
 tags: [braket, frontend, development]
 models: [sonnet, opus]

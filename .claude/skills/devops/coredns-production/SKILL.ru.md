@@ -1,6 +1,6 @@
 ---
 name: coredns-production
-description: Production for Coredns: production deployment
+description: "Production for Coredns: production deployment"
 category: devops
 tags: [coredns-production, devops, russian]
 models: [sonnet, opus]

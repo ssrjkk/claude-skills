@@ -1,6 +1,6 @@
 ---
 name: group-policy-iis
-description: IIS with Group Policy. web server.
+description: "IIS with Group Policy. web server."
 category: os-admin
 tags: [group-policy-iis, os-admin, russian]
 models: [sonnet, opus]

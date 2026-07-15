@@ -1,6 +1,6 @@
 ---
 name: astro-basics
-description: Basics for Astro: fundamentals and core concepts
+description: "Basics for Astro: fundamentals and core concepts"
 category: frontend
 tags: [astro-basics, frontend, russian]
 models: [sonnet, opus]

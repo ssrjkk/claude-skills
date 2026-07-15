@@ -1,6 +1,6 @@
 ---
 name: sendgrid-messaging
-description: Messaging with SendGrid. sending messages.
+description: "Messaging with SendGrid. sending messages."
 category: communications
 tags: [sendgrid, messaging, communications, communication-platform]
 models: [gpt-4, claude-3]

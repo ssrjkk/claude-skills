@@ -1,6 +1,6 @@
 ---
 name: teamcity-setup
-description: Setup with TeamCity. pipeline setup.
+description: "Setup with TeamCity. pipeline setup."
 category: devops
 tags: [teamcity-setup, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-testing
-description: Testing for Elasticsearch: testing and validation
+description: "Testing for Elasticsearch: testing and validation"
 category: database
 tags: [elasticsearch-testing, database, russian]
 models: [sonnet, opus]

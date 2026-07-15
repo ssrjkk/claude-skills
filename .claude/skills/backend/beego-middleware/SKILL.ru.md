@@ -1,6 +1,6 @@
 ---
 name: beego-middleware
-description: Middleware with Beego. request pipeline.
+description: "Middleware with Beego. request pipeline."
 category: backend
 tags: [beego-middleware, backend, russian]
 models: [sonnet, opus]

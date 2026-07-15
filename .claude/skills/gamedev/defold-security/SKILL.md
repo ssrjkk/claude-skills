@@ -1,6 +1,6 @@
 ---
 name: defold-security
-description: Security for Defold: security best practices
+description: "Security for Defold: security best practices"
 category: gamedev
 tags: [defold, security, gamedev]
 models: [sonnet, opus]

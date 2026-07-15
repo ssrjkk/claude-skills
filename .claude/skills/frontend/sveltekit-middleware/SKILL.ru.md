@@ -1,6 +1,6 @@
 ---
 name: sveltekit-middleware
-description: Middleware with SvelteKit. request middleware.
+description: "Middleware with SvelteKit. request middleware."
 category: frontend
 tags: [sveltekit-middleware, frontend, russian]
 models: [sonnet, opus]

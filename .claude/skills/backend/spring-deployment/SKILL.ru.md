@@ -1,6 +1,6 @@
 ---
 name: spring-deployment
-description: Deployment for Spring: deployment and release
+description: "Deployment for Spring: deployment and release"
 category: backend
 tags: [spring-deployment, backend, russian]
 models: [sonnet, opus]

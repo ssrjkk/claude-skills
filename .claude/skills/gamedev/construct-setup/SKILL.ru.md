@@ -1,6 +1,6 @@
 ---
 name: construct-setup
-description: Setup with Construct. engine setup.
+description: "Setup with Construct. engine setup."
 category: gamedev
 tags: [construct-setup, gamedev, russian]
 models: [sonnet, opus]

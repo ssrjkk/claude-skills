@@ -1,6 +1,6 @@
 ---
 name: grafana-logging
-description: Logging with Grafana. log collection.
+description: "Logging with Grafana. log collection."
 category: devops
 tags: [grafana-logging, devops, russian]
 models: [sonnet, opus]

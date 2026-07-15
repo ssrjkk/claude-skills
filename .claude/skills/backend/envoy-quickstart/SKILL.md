@@ -1,6 +1,6 @@
 ---
 name: envoy-quickstart
-description: Quickstart for Envoy: quick start guide
+description: "Quickstart for Envoy: quick start guide"
 category: backend
 tags: [envoy, quickstart, backend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: openxr-deployment
-description: Deployment with OpenXR. deployment.
+description: "Deployment with OpenXR. deployment."
 category: ar-vr
 tags: [openxr-deployment, ar-vr, russian]
 models: [sonnet, opus]

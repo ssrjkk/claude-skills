@@ -1,6 +1,6 @@
 ---
 name: ffmpeg-packaging
-description: Packaging with FFmpeg. packaging.
+description: "Packaging with FFmpeg. packaging."
 category: media
 tags: [ffmpeg-packaging, media, russian]
 models: [sonnet, opus]

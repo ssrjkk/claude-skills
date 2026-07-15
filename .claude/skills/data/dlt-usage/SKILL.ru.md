@@ -1,6 +1,6 @@
 ---
 name: dlt-usage
-description: Usage for Dlt: usage reference
+description: "Usage for Dlt: usage reference"
 category: data
 tags: [dlt-usage, data, russian]
 models: [sonnet, opus]

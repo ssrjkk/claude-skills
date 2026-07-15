@@ -1,6 +1,6 @@
 ---
 name: stanza-pos-tagging
-description: POS Tagging with Stanza. POS tagging.
+description: "POS Tagging with Stanza. POS tagging."
 category: ai
 tags: [stanza-pos-tagging, ai, russian]
 models: [sonnet, opus]

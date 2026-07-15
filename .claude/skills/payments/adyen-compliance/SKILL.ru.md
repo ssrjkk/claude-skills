@@ -1,6 +1,6 @@
 ---
 name: adyen-compliance
-description: Compliance with Adyen. PCI DSS.
+description: "Compliance with Adyen. PCI DSS."
 category: payments
 tags: [adyen-compliance, payments, russian]
 models: [sonnet, opus]

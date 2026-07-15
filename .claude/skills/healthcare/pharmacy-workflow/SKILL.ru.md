@@ -1,6 +1,6 @@
 ---
 name: pharmacy-workflow
-description: Workflow with Pharmacy Systems. clinical workflow.
+description: "Workflow with Pharmacy Systems. clinical workflow."
 category: healthcare
 tags: [pharmacy-workflow, healthcare, russian]
 models: [sonnet, opus]

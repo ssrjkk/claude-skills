@@ -1,6 +1,6 @@
 ---
 name: helm-deployment
-description: Deployment for Helm: deployment and release
+description: "Deployment for Helm: deployment and release"
 category: devops
 tags: [helm-deployment, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: blender-vfx-export
-description: Export with Blender VFX. export.
+description: "Export with Blender VFX. export."
 category: media
 tags: [blender-vfx, export, media, media-production]
 models: [gpt-4, claude-3]

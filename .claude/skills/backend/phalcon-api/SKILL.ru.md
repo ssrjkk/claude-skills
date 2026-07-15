@@ -1,6 +1,6 @@
 ---
 name: phalcon-api
-description: API with Phalcon. APIs.
+description: "API with Phalcon. APIs."
 category: backend
 tags: [phalcon-api, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: nat-configuration
-description: Config with NAT. setup.
+description: "Config with NAT. setup."
 category: networking
 tags: [nat-configuration, networking, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: jupyter-dataframe
-description: DataFrame with Jupyter. data manipulation.
+description: "DataFrame with Jupyter. data manipulation."
 category: data
 tags: [jupyter, dataframe, data, data-science]
 models: [gpt-4, claude-3]

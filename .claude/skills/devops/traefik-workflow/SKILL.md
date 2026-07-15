@@ -1,6 +1,6 @@
 ---
 name: traefik-workflow
-description: Workflow for Traefik: workflow optimization
+description: "Workflow for Traefik: workflow optimization"
 category: devops
 tags: [traefik, workflow, devops]
 models: [sonnet, opus]

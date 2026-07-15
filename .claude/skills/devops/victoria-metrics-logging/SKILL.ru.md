@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-logging
-description: Logging with VictoriaMetrics. log collection.
+description: "Logging with VictoriaMetrics. log collection."
 category: devops
 tags: [victoria-metrics-logging, devops, russian]
 models: [sonnet, opus]

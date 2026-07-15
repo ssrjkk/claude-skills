@@ -1,6 +1,6 @@
 ---
 name: tensorflow-advanced
-description: Advanced for Tensorflow: advanced patterns and techniques
+description: "Advanced for Tensorflow: advanced patterns and techniques"
 category: ai
 tags: [tensorflow, advanced, ai]
 models: [sonnet, opus]

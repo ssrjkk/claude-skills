@@ -1,6 +1,6 @@
 ---
 name: stylus-source-maps
-description: Source Maps with Stylus. debugging.
+description: "Source Maps with Stylus. debugging."
 category: frontend
 tags: [stylus-source-maps, frontend, russian]
 models: [sonnet, opus]

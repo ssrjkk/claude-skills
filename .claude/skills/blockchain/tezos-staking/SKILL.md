@@ -1,6 +1,6 @@
 ---
 name: tezos-staking
-description: Staking with Tezos. staking.
+description: "Staking with Tezos. staking."
 category: blockchain
 tags: [tezos, staking, blockchain, blockchain]
 models: [gpt-4, claude-3]

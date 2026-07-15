@@ -1,6 +1,6 @@
 ---
 name: marko-components
-description: Components with Marko. building components.
+description: "Components with Marko. building components."
 category: frontend
 tags: [marko-components, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: java-orm
-description: ORM with Java. database access.
+description: "ORM with Java. database access."
 category: backend
 tags: [java, orm, backend, backend]
 models: [gpt-4, claude-3]

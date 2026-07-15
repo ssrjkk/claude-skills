@@ -1,6 +1,6 @@
 ---
 name: wireshark-configuration
-description: Config with Wireshark. advanced config.
+description: "Config with Wireshark. advanced config."
 category: networking
 tags: [wireshark-configuration, networking, russian]
 models: [sonnet, opus]

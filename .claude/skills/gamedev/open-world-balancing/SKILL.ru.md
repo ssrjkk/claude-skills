@@ -1,6 +1,6 @@
 ---
 name: open-world-balancing
-description: Balancing with Open World Design. balancing.
+description: "Balancing with Open World Design. balancing."
 category: gamedev
 tags: [open-world-balancing, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: apache-flink-sql
-description: SQL with Apache Flink. SQL queries.
+description: "SQL with Apache Flink. SQL queries."
 category: data
 tags: [apache-flink, sql, data, data-engineering]
 models: [gpt-4, claude-3]

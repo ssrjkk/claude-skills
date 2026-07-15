@@ -1,6 +1,6 @@
 ---
 name: testflight-production
-description: Production for Testflight: production deployment
+description: "Production for Testflight: production deployment"
 category: mobile
 tags: [testflight-production, mobile, russian]
 models: [sonnet, opus]

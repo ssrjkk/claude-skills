@@ -1,6 +1,6 @@
 ---
 name: yugabyte-schema
-description: Schema Design with YugabyteDB. schema.
+description: "Schema Design with YugabyteDB. schema."
 category: database
 tags: [yugabyte-schema, database, russian]
 models: [sonnet, opus]

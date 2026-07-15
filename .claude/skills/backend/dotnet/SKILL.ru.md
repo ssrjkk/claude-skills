@@ -1,6 +1,6 @@
 ---
 name: dotnet
-description: Builds ASP.NET Core Web APIs and microservices with C# and Entity Framework. Use for enterprise-grade .NET applications.
+description: "Builds ASP.NET Core Web APIs and microservices with C# and Entity Framework. Use for enterprise-grade .NET applications."
 category: backend
 tags: [dotnet, backend, russian]
 models: [sonnet, opus]

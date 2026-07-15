@@ -1,6 +1,6 @@
 ---
 name: greensock-examples
-description: Examples for Greensock: practical examples
+description: "Examples for Greensock: practical examples"
 category: design
 tags: [greensock, examples, design]
 models: [sonnet, opus]

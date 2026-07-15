@@ -1,6 +1,6 @@
 ---
 name: k0s-storage
-description: Storage with K0s. persistent storage.
+description: "Storage with K0s. persistent storage."
 category: devops
 tags: [k0s, storage, devops, kubernetes]
 models: [gpt-4, claude-3]

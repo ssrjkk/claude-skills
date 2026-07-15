@@ -1,6 +1,6 @@
 ---
 name: mbed-adc
-description: ADC with Mbed OS. analog input.
+description: "ADC with Mbed OS. analog input."
 category: iot
 tags: [mbed-adc, iot, russian]
 models: [sonnet, opus]

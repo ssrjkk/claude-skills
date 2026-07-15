@@ -1,6 +1,6 @@
 ---
 name: tsc-bundling
-description: Bundling with TypeScript. code bundling.
+description: "Bundling with TypeScript. code bundling."
 category: frontend
 tags: [tsc, bundling, frontend, build-tool]
 models: [gpt-4, claude-3]

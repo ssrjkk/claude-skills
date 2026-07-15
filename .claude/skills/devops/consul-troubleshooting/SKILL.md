@@ -1,6 +1,6 @@
 ---
 name: consul-troubleshooting
-description: Troubleshooting for Consul: troubleshooting common issues
+description: "Troubleshooting for Consul: troubleshooting common issues"
 category: devops
 tags: [consul, troubleshooting, devops]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: snomed-basics
-description: Basics with SNOMED CT. fundamentals.
+description: "Basics with SNOMED CT. fundamentals."
 category: healthcare
 tags: [snomed-basics, healthcare, russian]
 models: [sonnet, opus]

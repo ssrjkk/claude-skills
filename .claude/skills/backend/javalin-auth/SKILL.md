@@ -1,6 +1,6 @@
 ---
 name: javalin-auth
-description: Auth with Javalin. security.
+description: "Auth with Javalin. security."
 category: backend
 tags: [javalin, auth, backend, backend]
 models: [gpt-4, claude-3]

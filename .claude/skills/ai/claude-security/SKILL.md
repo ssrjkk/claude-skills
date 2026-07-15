@@ -1,6 +1,6 @@
 ---
 name: claude-security
-description: Security for Claude: security best practices
+description: "Security for Claude: security best practices"
 category: ai
 tags: [claude, security, ai]
 models: [sonnet, opus]

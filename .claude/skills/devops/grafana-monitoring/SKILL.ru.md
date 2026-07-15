@@ -1,6 +1,6 @@
 ---
 name: grafana-monitoring
-description: Monitoring for Grafana: monitoring and observability
+description: "Monitoring for Grafana: monitoring and observability"
 category: devops
 tags: [grafana-monitoring, devops, russian]
 models: [sonnet, opus]

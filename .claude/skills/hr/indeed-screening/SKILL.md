@@ -1,6 +1,6 @@
 ---
 name: indeed-screening
-description: Screening with Indeed. resume screening.
+description: "Screening with Indeed. resume screening."
 category: hr
 tags: [indeed, screening, hr, recruiting]
 models: [gpt-4, claude-3]

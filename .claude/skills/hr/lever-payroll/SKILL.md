@@ -1,6 +1,6 @@
 ---
 name: lever-payroll
-description: Payroll with Lever. payroll.
+description: "Payroll with Lever. payroll."
 category: hr
 tags: [lever, payroll, hr, hr-tech]
 models: [gpt-4, claude-3]

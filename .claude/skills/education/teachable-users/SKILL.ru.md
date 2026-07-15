@@ -1,6 +1,6 @@
 ---
 name: teachable-users
-description: Users with Teachable. user management.
+description: "Users with Teachable. user management."
 category: education
 tags: [teachable-users, education, russian]
 models: [sonnet, opus]

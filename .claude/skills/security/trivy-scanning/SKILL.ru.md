@@ -1,6 +1,6 @@
 ---
 name: trivy-scanning
-description: Scanning with Trivy. security scanning.
+description: "Scanning with Trivy. security scanning."
 category: security
 tags: [trivy-scanning, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: selenium-security
-description: Security for Selenium: security best practices
+description: "Security for Selenium: security best practices"
 category: qa
 tags: [selenium, security, qa]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: square-setup
-description: Setup with Square. account setup.
+description: "Setup with Square. account setup."
 category: payments
 tags: [square, setup, payments, payments]
 models: [gpt-4, claude-3]

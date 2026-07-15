@@ -1,6 +1,6 @@
 ---
 name: scikit-image-image-filtering
-description: Image Filtering with Scikit Image. image filters.
+description: "Image Filtering with Scikit Image. image filters."
 category: ai
 tags: [scikit-image, image-filtering, ai, computer-vision]
 models: [gpt-4, claude-3]

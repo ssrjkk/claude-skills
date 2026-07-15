@@ -1,6 +1,6 @@
 ---
 name: ip-performance
-description: Performance with ip/ifconfig. benchmarking.
+description: "Performance with ip/ifconfig. benchmarking."
 category: networking
 tags: [ip-performance, networking, russian]
 models: [sonnet, opus]

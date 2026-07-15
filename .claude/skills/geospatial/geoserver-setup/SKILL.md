@@ -1,6 +1,6 @@
 ---
 name: geoserver-setup
-description: Setup with GeoServer. setup.
+description: "Setup with GeoServer. setup."
 category: geospatial
 tags: [geoserver, setup, geospatial, gis]
 models: [gpt-4, claude-3]

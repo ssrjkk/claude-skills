@@ -1,6 +1,6 @@
 ---
 name: vuex-store
-description: Store with Vuex. state store.
+description: "Store with Vuex. state store."
 category: frontend
 tags: [vuex-store, frontend, russian]
 models: [sonnet, opus]

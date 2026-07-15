@@ -1,6 +1,6 @@
 ---
 name: esg-strategy
-description: Strategy with ESG. strategy.
+description: "Strategy with ESG. strategy."
 category: sustainability
 tags: [esg-strategy, sustainability, russian]
 models: [sonnet, opus]

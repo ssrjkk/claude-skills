@@ -1,6 +1,6 @@
 ---
 name: emotion-integration
-description: Integration for Emotion: integration with other tools
+description: "Integration for Emotion: integration with other tools"
 category: frontend
 tags: [emotion, integration, frontend]
 models: [sonnet, opus]

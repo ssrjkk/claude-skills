@@ -1,6 +1,6 @@
 ---
 name: dbt-advanced
-description: Advanced for Dbt: advanced patterns and techniques
+description: "Advanced for Dbt: advanced patterns and techniques"
 category: data
 tags: [dbt-advanced, data, russian]
 models: [sonnet, opus]

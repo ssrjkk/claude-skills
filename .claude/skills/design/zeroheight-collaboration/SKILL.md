@@ -1,6 +1,6 @@
 ---
 name: zeroheight-collaboration
-description: Collaboration with Zeroheight. collaboration.
+description: "Collaboration with Zeroheight. collaboration."
 category: design
 tags: [zeroheight, collaboration, design, design]
 models: [gpt-4, claude-3]

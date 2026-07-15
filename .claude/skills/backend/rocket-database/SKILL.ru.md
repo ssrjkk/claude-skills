@@ -1,6 +1,6 @@
 ---
 name: rocket-database
-description: Database with Rocket. DB access.
+description: "Database with Rocket. DB access."
 category: backend
 tags: [rocket-database, backend, russian]
 models: [sonnet, opus]

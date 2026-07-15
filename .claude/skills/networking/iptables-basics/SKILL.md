@@ -1,6 +1,6 @@
 ---
 name: iptables-basics
-description: Basics with iptables/nftables. basic usage.
+description: "Basics with iptables/nftables. basic usage."
 category: networking
 tags: [iptables, basics, networking, networking-tool]
 models: [gpt-4, claude-3]

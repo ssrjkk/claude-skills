@@ -1,6 +1,6 @@
 ---
 name: redux-middleware
-description: Middleware with Redux. side effects.
+description: "Middleware with Redux. side effects."
 category: frontend
 tags: [redux-middleware, frontend, russian]
 models: [sonnet, opus]

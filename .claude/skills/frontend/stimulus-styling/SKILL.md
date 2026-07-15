@@ -1,6 +1,6 @@
 ---
 name: stimulus-styling
-description: Styling with Stimulus. component styling.
+description: "Styling with Stimulus. component styling."
 category: frontend
 tags: [stimulus, styling, frontend, frontend]
 models: [gpt-4, claude-3]

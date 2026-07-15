@@ -1,6 +1,6 @@
 ---
 name: fmod-getting-started
-description: Getting Started for Fmod: initial setup and first steps
+description: "Getting Started for Fmod: initial setup and first steps"
 category: gamedev
 tags: [fmod-getting-started, gamedev, russian]
 models: [sonnet, opus]

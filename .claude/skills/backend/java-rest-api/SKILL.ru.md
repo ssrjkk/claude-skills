@@ -1,6 +1,6 @@
 ---
 name: java-rest-api
-description: REST API with Java. building REST APIs.
+description: "REST API with Java. building REST APIs."
 category: backend
 tags: [java-rest-api, backend, russian]
 models: [sonnet, opus]

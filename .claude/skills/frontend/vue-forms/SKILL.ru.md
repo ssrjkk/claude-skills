@@ -1,6 +1,6 @@
 ---
 name: vue-forms
-description: Forms with Vue. form handling.
+description: "Forms with Vue. form handling."
 category: frontend
 tags: [vue-forms, frontend, russian]
 models: [sonnet, opus]

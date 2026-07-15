@@ -1,6 +1,6 @@
 ---
 name: testflight-getting-started
-description: Getting Started for Testflight: initial setup and first steps
+description: "Getting Started for Testflight: initial setup and first steps"
 category: mobile
 tags: [testflight, getting-started, mobile]
 models: [sonnet, opus]

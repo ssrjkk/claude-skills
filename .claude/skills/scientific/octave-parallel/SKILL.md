@@ -1,6 +1,6 @@
 ---
 name: octave-parallel
-description: Parallel with GNU Octave. parallel computing.
+description: "Parallel with GNU Octave. parallel computing."
 category: scientific
 tags: [octave, parallel, scientific, scientific-computing]
 models: [gpt-4, claude-3]

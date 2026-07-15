@@ -1,6 +1,6 @@
 ---
 name: arcore-setup
-description: Setup with ARCore. SDK setup.
+description: "Setup with ARCore. SDK setup."
 category: ar-vr
 tags: [arcore-setup, ar-vr, russian]
 models: [sonnet, opus]

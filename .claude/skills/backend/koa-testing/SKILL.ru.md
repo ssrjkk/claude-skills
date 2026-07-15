@@ -1,6 +1,6 @@
 ---
 name: koa-testing
-description: Testing with Koa. Jest.
+description: "Testing with Koa. Jest."
 category: backend
 tags: [koa-testing, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: nebula-indexing
-description: Indexing with Nebula Graph. indexes.
+description: "Indexing with Nebula Graph. indexes."
 category: database
 tags: [nebula, indexing, database, graph-database]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: trankit-summarization
-description: Summarization with Trankit. text summarization.
+description: "Summarization with Trankit. text summarization."
 category: ai
 tags: [trankit-summarization, ai, russian]
 models: [sonnet, opus]

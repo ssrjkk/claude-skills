@@ -1,6 +1,6 @@
 ---
 name: tpu
-description: Development with Tpu: tools and best practices
+description: "Development with Tpu: tools and best practices"
 category: iot
 tags: [tpu, iot, development]
 models: [sonnet, opus]

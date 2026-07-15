@@ -1,6 +1,6 @@
 ---
 name: aarrr-metrics
-description: Tracks startup growth metrics using the AARRR (Pirate Metrics) framework: Acquisition, Activation, Retention, Revenue, Referral.
+description: "Tracks startup growth metrics using the AARRR (Pirate Metrics) framework: Acquisition, Activation, Retention, Revenue, Referral."
 category: product
 tags: [aarrr-metrics, product, russian]
 models: [sonnet, opus]

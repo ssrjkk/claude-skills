@@ -1,6 +1,6 @@
 ---
 name: threadx-optimization
-description: Optimization with ThreadX. optimization.
+description: "Optimization with ThreadX. optimization."
 category: embedded
 tags: [threadx-optimization, embedded, russian]
 models: [sonnet, opus]

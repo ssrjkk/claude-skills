@@ -1,6 +1,6 @@
 ---
 name: mocha-unit-tests
-description: Unit Tests with Mocha. unit testing.
+description: "Unit Tests with Mocha. unit testing."
 category: qa
 tags: [mocha-unit-tests, qa, russian]
 models: [sonnet, opus]

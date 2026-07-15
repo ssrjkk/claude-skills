@@ -1,6 +1,6 @@
 ---
 name: ionic-testing
-description: Testing with Ionic. testing.
+description: "Testing with Ionic. testing."
 category: mobile
 tags: [ionic, testing, mobile, mobile]
 models: [gpt-4, claude-3]

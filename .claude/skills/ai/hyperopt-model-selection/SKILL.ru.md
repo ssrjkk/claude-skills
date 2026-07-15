@@ -1,6 +1,6 @@
 ---
 name: hyperopt-model-selection
-description: Model Selection with Hyperopt. choosing models.
+description: "Model Selection with Hyperopt. choosing models."
 category: ai
 tags: [hyperopt-model-selection, ai, russian]
 models: [sonnet, opus]

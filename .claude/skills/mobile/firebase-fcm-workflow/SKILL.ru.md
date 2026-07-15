@@ -1,6 +1,6 @@
 ---
 name: firebase-fcm-workflow
-description: Workflow for Firebase-Fcm: workflow optimization
+description: "Workflow for Firebase-Fcm: workflow optimization"
 category: mobile
 tags: [firebase-fcm-workflow, mobile, russian]
 models: [sonnet, opus]

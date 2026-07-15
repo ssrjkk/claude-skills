@@ -1,6 +1,6 @@
 ---
 name: unity-multiplayer
-description: Multiplayer with Unity. networking.
+description: "Multiplayer with Unity. networking."
 category: gamedev
 tags: [unity-multiplayer, gamedev, russian]
 models: [sonnet, opus]

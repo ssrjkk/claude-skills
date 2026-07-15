@@ -1,6 +1,6 @@
 ---
 name: cardano-setup
-description: Setup with Cardano. node setup.
+description: "Setup with Cardano. node setup."
 category: blockchain
 tags: [cardano, setup, blockchain, blockchain]
 models: [gpt-4, claude-3]

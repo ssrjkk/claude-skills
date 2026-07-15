@@ -1,6 +1,6 @@
 ---
 name: tls-testing
-description: Testing with TLS/SSL. security testing.
+description: "Testing with TLS/SSL. security testing."
 category: security
 tags: [tls-testing, security, russian]
 models: [sonnet, opus]

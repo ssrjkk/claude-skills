@@ -1,6 +1,6 @@
 ---
 name: linux-security-automation
-description: Automation with Linux Security. scripting.
+description: "Automation with Linux Security. scripting."
 category: os-admin
 tags: [linux-security-automation, os-admin, russian]
 models: [sonnet, opus]

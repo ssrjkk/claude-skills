@@ -1,6 +1,6 @@
 ---
 name: design-thinking-implementation
-description: Implementation with Design Thinking. execution.
+description: "Implementation with Design Thinking. execution."
 category: product
 tags: [design-thinking, implementation, product, product-framework]
 models: [gpt-4, claude-3]

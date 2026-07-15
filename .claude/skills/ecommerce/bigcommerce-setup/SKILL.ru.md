@@ -1,6 +1,6 @@
 ---
 name: bigcommerce-setup
-description: Setup with BigCommerce. setup.
+description: "Setup with BigCommerce. setup."
 category: ecommerce
 tags: [bigcommerce-setup, ecommerce, russian]
 models: [sonnet, opus]

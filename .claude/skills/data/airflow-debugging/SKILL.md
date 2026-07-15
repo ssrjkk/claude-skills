@@ -1,6 +1,6 @@
 ---
 name: airflow-debugging
-description: Debugging for Airflow: debugging and troubleshooting
+description: "Debugging for Airflow: debugging and troubleshooting"
 category: data
 tags: [airflow, debugging, data]
 models: [sonnet, opus]

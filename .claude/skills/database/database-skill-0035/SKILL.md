@@ -1,6 +1,6 @@
 ---
 name: database-skill-0035
-description: database specialized skill #0035 for database development
+description: "database specialized skill #0035 for database development"
 category: database
 tags: [database, skill, 0035]
 models: [sonnet, opus]

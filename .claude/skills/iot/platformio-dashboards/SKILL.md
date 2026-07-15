@@ -1,6 +1,6 @@
 ---
 name: platformio-dashboards
-description: Dashboards with PlatformIO. dashboards.
+description: "Dashboards with PlatformIO. dashboards."
 category: iot
 tags: [platformio, dashboards, iot, iot-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: github-actions-pipeline
-description: Pipeline with GitHub Actions. pipeline creation.
+description: "Pipeline with GitHub Actions. pipeline creation."
 category: devops
 tags: [github-actions-pipeline, devops, russian]
 models: [sonnet, opus]

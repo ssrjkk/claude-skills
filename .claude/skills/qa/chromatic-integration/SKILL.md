@@ -1,6 +1,6 @@
 ---
 name: chromatic-integration
-description: Integration for Chromatic: integration with other tools
+description: "Integration for Chromatic: integration with other tools"
 category: qa
 tags: [chromatic, integration, qa]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kinde-examples
-description: Examples for Kinde: practical examples
+description: "Examples for Kinde: practical examples"
 category: mobile
 tags: [kinde, examples, mobile]
 models: [sonnet, opus]

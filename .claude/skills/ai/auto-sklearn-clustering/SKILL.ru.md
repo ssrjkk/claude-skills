@@ -1,6 +1,6 @@
 ---
 name: auto-sklearn-clustering
-description: Clustering with Auto Sklearn. grouping data.
+description: "Clustering with Auto Sklearn. grouping data."
 category: ai
 tags: [auto-sklearn-clustering, ai, russian]
 models: [sonnet, opus]

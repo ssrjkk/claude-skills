@@ -1,6 +1,6 @@
 ---
 name: expo-testing
-description: Testing for Expo: testing and validation
+description: "Testing for Expo: testing and validation"
 category: mobile
 tags: [expo-testing, mobile, russian]
 models: [sonnet, opus]

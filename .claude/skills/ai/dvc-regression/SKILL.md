@@ -1,6 +1,6 @@
 ---
 name: dvc-regression
-description: Regression with Dvc. predicting values.
+description: "Regression with Dvc. predicting values."
 category: ai
 tags: [dvc, regression, ai, ml]
 models: [gpt-4, claude-3]

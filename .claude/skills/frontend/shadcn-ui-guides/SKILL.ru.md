@@ -1,6 +1,6 @@
 ---
 name: shadcn-ui-guides
-description: Guides for Shadcn-Ui: how-to guides
+description: "Guides for Shadcn-Ui: how-to guides"
 category: frontend
 tags: [shadcn-ui-guides, frontend, russian]
 models: [sonnet, opus]

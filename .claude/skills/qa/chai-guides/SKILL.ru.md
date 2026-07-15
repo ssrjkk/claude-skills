@@ -1,6 +1,6 @@
 ---
 name: chai-guides
-description: Guides for Chai: how-to guides
+description: "Guides for Chai: how-to guides"
 category: qa
 tags: [chai-guides, qa, russian]
 models: [sonnet, opus]

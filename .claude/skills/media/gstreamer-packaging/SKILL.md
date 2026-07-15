@@ -1,6 +1,6 @@
 ---
 name: gstreamer-packaging
-description: Packaging with GStreamer. packaging.
+description: "Packaging with GStreamer. packaging."
 category: media
 tags: [gstreamer, packaging, media, media-streaming]
 models: [gpt-4, claude-3]

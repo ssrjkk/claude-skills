@@ -1,6 +1,6 @@
 ---
 name: dropwizard-config
-description: Config with Dropwizard. configuration.
+description: "Config with Dropwizard. configuration."
 category: backend
 tags: [dropwizard-config, backend, russian]
 models: [sonnet, opus]

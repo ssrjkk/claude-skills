@@ -1,6 +1,6 @@
 ---
 name: scipy-signal-processing
-description: Signal Processing with SciPy. FFT.
+description: "Signal Processing with SciPy. FFT."
 category: scientific
 tags: [scipy, signal-processing, scientific, scientific-computing]
 models: [gpt-4, claude-3]

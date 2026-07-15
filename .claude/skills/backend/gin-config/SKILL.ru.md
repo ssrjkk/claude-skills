@@ -1,6 +1,6 @@
 ---
 name: gin-config
-description: Config with Gin. config management.
+description: "Config with Gin. config management."
 category: backend
 tags: [gin-config, backend, russian]
 models: [sonnet, opus]

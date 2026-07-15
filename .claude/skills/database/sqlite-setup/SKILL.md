@@ -1,6 +1,6 @@
 ---
 name: sqlite-setup
-description: Setup with SQLite. installation.
+description: "Setup with SQLite. installation."
 category: database
 tags: [sqlite, setup, database, sql]
 models: [gpt-4, claude-3]

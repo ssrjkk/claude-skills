@@ -1,6 +1,6 @@
 ---
 name: strategy-migration
-description: Migration with Strategy. adopting the pattern.
+description: "Migration with Strategy. adopting the pattern."
 category: backend
 tags: [strategy, migration, backend, architecture]
 models: [gpt-4, claude-3]

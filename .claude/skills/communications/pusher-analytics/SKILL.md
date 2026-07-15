@@ -1,6 +1,6 @@
 ---
 name: pusher-analytics
-description: Analytics with Pusher. analytics.
+description: "Analytics with Pusher. analytics."
 category: communications
 tags: [pusher, analytics, communications, communication-platform]
 models: [gpt-4, claude-3]

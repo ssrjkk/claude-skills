@@ -1,6 +1,6 @@
 ---
 name: shopify-marketing
-description: Marketing with Shopify. marketing.
+description: "Marketing with Shopify. marketing."
 category: ecommerce
 tags: [shopify, marketing, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

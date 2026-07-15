@@ -1,6 +1,6 @@
 ---
 name: vendure-content
-description: Content with Vendure. content management.
+description: "Content with Vendure. content management."
 category: ecommerce
 tags: [vendure, content, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

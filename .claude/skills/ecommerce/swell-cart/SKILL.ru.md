@@ -1,6 +1,6 @@
 ---
 name: swell-cart
-description: Cart with Swell. cart API.
+description: "Cart with Swell. cart API."
 category: ecommerce
 tags: [swell-cart, ecommerce, russian]
 models: [sonnet, opus]

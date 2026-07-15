@@ -1,6 +1,6 @@
 ---
 name: kubernetes-api
-description: API for Kubernetes: API development and integration
+description: "API for Kubernetes: API development and integration"
 category: devops
 tags: [kubernetes, api, devops]
 models: [sonnet, opus]

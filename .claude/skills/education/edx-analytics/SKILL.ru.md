@@ -1,6 +1,6 @@
 ---
 name: edx-analytics
-description: Analytics with Open edX. analytics.
+description: "Analytics with Open edX. analytics."
 category: education
 tags: [edx-analytics, education, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: develop-comprehensive-test-strategy
-description: Plan and implement a multi-level testing strategy for quality assurance
+description: "Plan and implement a multi-level testing strategy for quality assurance"
 category: backend
 tags: [testing, QA, coverage, automation]
 models: [sonnet, opus]

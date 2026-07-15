@@ -1,6 +1,6 @@
 ---
 name: blender-vfx-editing
-description: Editing with Blender VFX. editing.
+description: "Editing with Blender VFX. editing."
 category: media
 tags: [blender-vfx, editing, media, media-production]
 models: [gpt-4, claude-3]

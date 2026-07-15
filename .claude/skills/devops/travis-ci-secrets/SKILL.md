@@ -1,6 +1,6 @@
 ---
 name: travis-ci-secrets
-description: Secrets with Travis CI. secret management.
+description: "Secrets with Travis CI. secret management."
 category: devops
 tags: [travis-ci, secrets, devops, ci-cd]
 models: [gpt-4, claude-3]

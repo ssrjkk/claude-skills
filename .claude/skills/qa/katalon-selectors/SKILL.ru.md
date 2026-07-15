@@ -1,6 +1,6 @@
 ---
 name: katalon-selectors
-description: Selectors with Katalon. element selectors.
+description: "Selectors with Katalon. element selectors."
 category: qa
 tags: [katalon-selectors, qa, russian]
 models: [sonnet, opus]

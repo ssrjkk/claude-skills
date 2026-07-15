@@ -1,6 +1,6 @@
 ---
 name: pytorch-lightning-image-classification
-description: Image Classification with Pytorch Lightning. classifying images.
+description: "Image Classification with Pytorch Lightning. classifying images."
 category: ai
 tags: [pytorch-lightning, image-classification, ai, computer-vision]
 models: [gpt-4, claude-3]

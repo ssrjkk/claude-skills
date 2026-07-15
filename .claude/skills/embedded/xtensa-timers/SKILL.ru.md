@@ -1,6 +1,6 @@
 ---
 name: xtensa-timers
-description: Timers with Xtensa. timers.
+description: "Timers with Xtensa. timers."
 category: embedded
 tags: [xtensa-timers, embedded, russian]
 models: [sonnet, opus]

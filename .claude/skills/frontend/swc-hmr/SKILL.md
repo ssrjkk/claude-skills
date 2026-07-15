@@ -1,6 +1,6 @@
 ---
 name: swc-hmr
-description: HMR with SWC. hot reload.
+description: "HMR with SWC. hot reload."
 category: frontend
 tags: [swc, hmr, frontend, build-tool]
 models: [gpt-4, claude-3]

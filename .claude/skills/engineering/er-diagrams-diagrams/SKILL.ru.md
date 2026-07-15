@@ -1,6 +1,6 @@
 ---
 name: er-diagrams-diagrams
-description: Diagrams with ER Diagrams. diagramming.
+description: "Diagrams with ER Diagrams. diagramming."
 category: engineering
 tags: [er-diagrams-diagrams, engineering, russian]
 models: [sonnet, opus]

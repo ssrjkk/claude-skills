@@ -1,6 +1,6 @@
 ---
 name: fedora-packages
-description: Packages with Fedora. package management.
+description: "Packages with Fedora. package management."
 category: os-admin
 tags: [fedora, packages, os-admin, linux]
 models: [gpt-4, claude-3]

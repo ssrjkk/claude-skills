@@ -1,6 +1,6 @@
 ---
 name: promptflow-memory
-description: Memory with Promptflow. conversation memory.
+description: "Memory with Promptflow. conversation memory."
 category: ai
 tags: [promptflow, memory, ai, llm]
 models: [gpt-4, claude-3]

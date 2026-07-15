@@ -1,6 +1,6 @@
 ---
 name: remote-compliance
-description: Compliance with Remote.com. compliance.
+description: "Compliance with Remote.com. compliance."
 category: hr
 tags: [remote, compliance, hr, hr-tech]
 models: [gpt-4, claude-3]

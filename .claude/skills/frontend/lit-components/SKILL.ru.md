@@ -1,6 +1,6 @@
 ---
 name: lit-components
-description: Components with Lit. building components.
+description: "Components with Lit. building components."
 category: frontend
 tags: [lit-components, frontend, russian]
 models: [sonnet, opus]

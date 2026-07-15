@@ -1,6 +1,6 @@
 ---
 name: solr-monitoring
-description: Monitoring with Solr. cluster monitoring.
+description: "Monitoring with Solr. cluster monitoring."
 category: database
 tags: [solr, monitoring, database, search-engine]
 models: [gpt-4, claude-3]

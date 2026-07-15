@@ -1,6 +1,6 @@
 ---
 name: paddle-billing-invoicing
-description: Invoicing with Paddle Billing. invoices.
+description: "Invoicing with Paddle Billing. invoices."
 category: payments
 tags: [paddle-billing-invoicing, payments, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gitlab-runner-examples
-description: Examples for Gitlab-Runner: practical examples
+description: "Examples for Gitlab-Runner: practical examples"
 category: devops
 tags: [gitlab-runner-examples, devops, russian]
 models: [sonnet, opus]

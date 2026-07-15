@@ -1,6 +1,6 @@
 ---
 name: nomad-troubleshooting
-description: Troubleshooting for Nomad: troubleshooting common issues
+description: "Troubleshooting for Nomad: troubleshooting common issues"
 category: devops
 tags: [nomad, troubleshooting, devops]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: marko-performance
-description: Performance with Marko. optimization.
+description: "Performance with Marko. optimization."
 category: frontend
 tags: [marko, performance, frontend, frontend]
 models: [gpt-4, claude-3]

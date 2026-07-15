@@ -1,6 +1,6 @@
 ---
 name: delta-lake-getting-started
-description: Getting Started for Delta-Lake: initial setup and first steps
+description: "Getting Started for Delta-Lake: initial setup and first steps"
 category: data
 tags: [delta-lake, getting-started, data]
 models: [sonnet, opus]

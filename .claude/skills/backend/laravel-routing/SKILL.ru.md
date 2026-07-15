@@ -1,6 +1,6 @@
 ---
 name: laravel-routing
-description: Routing with Laravel. HTTP routing.
+description: "Routing with Laravel. HTTP routing."
 category: backend
 tags: [laravel-routing, backend, russian]
 models: [sonnet, opus]

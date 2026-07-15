@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-dashboards
-description: Dashboards with VictoriaMetrics. dashboards.
+description: "Dashboards with VictoriaMetrics. dashboards."
 category: devops
 tags: [victoria-metrics, dashboards, devops, monitoring]
 models: [gpt-4, claude-3]

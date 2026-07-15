@@ -1,6 +1,6 @@
 ---
 name: mailgun-integration
-description: Integration with Mailgun. integration.
+description: "Integration with Mailgun. integration."
 category: communications
 tags: [mailgun-integration, communications, russian]
 models: [sonnet, opus]

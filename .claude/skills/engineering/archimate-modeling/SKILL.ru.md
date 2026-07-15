@@ -1,6 +1,6 @@
 ---
 name: archimate-modeling
-description: Modeling with ArchiMate. system modeling.
+description: "Modeling with ArchiMate. system modeling."
 category: engineering
 tags: [archimate-modeling, engineering, russian]
 models: [sonnet, opus]

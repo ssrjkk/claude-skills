@@ -1,6 +1,6 @@
 ---
 name: ffmpeg-protection
-description: Protection with FFmpeg. DRM.
+description: "Protection with FFmpeg. DRM."
 category: media
 tags: [ffmpeg, protection, media, media-streaming]
 models: [gpt-4, claude-3]

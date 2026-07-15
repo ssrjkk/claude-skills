@@ -1,6 +1,6 @@
 ---
 name: flair-similarity
-description: Similarity with Flair. text similarity.
+description: "Similarity with Flair. text similarity."
 category: ai
 tags: [flair-similarity, ai, russian]
 models: [sonnet, opus]

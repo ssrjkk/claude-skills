@@ -1,6 +1,6 @@
 ---
 name: kaniko-networking
-description: Networking with Kaniko. container networks.
+description: "Networking with Kaniko. container networks."
 category: devops
 tags: [kaniko, networking, devops, container]
 models: [gpt-4, claude-3]

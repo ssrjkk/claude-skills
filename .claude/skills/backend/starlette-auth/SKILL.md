@@ -1,6 +1,6 @@
 ---
 name: starlette-auth
-description: Authentication with Starlette. user auth.
+description: "Authentication with Starlette. user auth."
 category: backend
 tags: [starlette, auth, backend, backend]
 models: [gpt-4, claude-3]

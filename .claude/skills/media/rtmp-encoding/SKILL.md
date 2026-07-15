@@ -1,6 +1,6 @@
 ---
 name: rtmp-encoding
-description: Encoding with RTMP. encoding.
+description: "Encoding with RTMP. encoding."
 category: media
 tags: [rtmp, encoding, media, media-streaming]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: flux-examples
-description: Examples for Flux: practical examples
+description: "Examples for Flux: practical examples"
 category: devops
 tags: [flux, examples, devops]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: security-skill-0187
-description: security specialized skill #0187 for security development
+description: "security specialized skill #0187 for security development"
 category: security
 tags: [security, skill, 0187]
 models: [sonnet, opus]

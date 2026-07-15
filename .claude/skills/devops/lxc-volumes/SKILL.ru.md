@@ -1,6 +1,6 @@
 ---
 name: lxc-volumes
-description: Volumes with LXC. data volumes.
+description: "Volumes with LXC. data volumes."
 category: devops
 tags: [lxc-volumes, devops, russian]
 models: [sonnet, opus]

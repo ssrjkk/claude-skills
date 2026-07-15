@@ -1,6 +1,6 @@
 ---
 name: midjourney-production
-description: Production for Midjourney: production deployment
+description: "Production for Midjourney: production deployment"
 category: ai
 tags: [midjourney-production, ai, russian]
 models: [sonnet, opus]

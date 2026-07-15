@@ -1,6 +1,6 @@
 ---
 name: procedural-gen
-description: Generates game content algorithmically with procedural generation techniques for terrains, dungeons, and textures.
+description: "Generates game content algorithmically with procedural generation techniques for terrains, dungeons, and textures."
 category: gamedev
 tags: [procedural-gen, gamedev, russian]
 models: [sonnet, opus]

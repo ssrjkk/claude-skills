@@ -1,6 +1,6 @@
 ---
 name: mermaid-best-practices
-description: Best Practices with Mermaid.js. practices.
+description: "Best Practices with Mermaid.js. practices."
 category: engineering
 tags: [mermaid, best-practices, engineering, modeling]
 models: [gpt-4, claude-3]

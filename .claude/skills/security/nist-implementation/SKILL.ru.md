@@ -1,6 +1,6 @@
 ---
 name: nist-implementation
-description: Implementation with NIST. implementation.
+description: "Implementation with NIST. implementation."
 category: security
 tags: [nist-implementation, security, russian]
 models: [sonnet, opus]

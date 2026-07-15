@@ -1,6 +1,6 @@
 ---
 name: oauth-setup
-description: Setup for Oauth: installation and configuration
+description: "Setup for Oauth: installation and configuration"
 category: security
 tags: [oauth, setup, security]
 models: [sonnet, opus]

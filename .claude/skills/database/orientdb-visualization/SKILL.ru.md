@@ -1,6 +1,6 @@
 ---
 name: orientdb-visualization
-description: Visualization with OrientDB. graph viz.
+description: "Visualization with OrientDB. graph viz."
 category: database
 tags: [orientdb-visualization, database, russian]
 models: [sonnet, opus]

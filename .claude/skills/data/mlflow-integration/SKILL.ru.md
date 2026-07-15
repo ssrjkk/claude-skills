@@ -1,6 +1,6 @@
 ---
 name: mlflow-integration
-description: Integration for Mlflow: integration with other tools
+description: "Integration for Mlflow: integration with other tools"
 category: data
 tags: [mlflow-integration, data, russian]
 models: [sonnet, opus]

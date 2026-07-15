@@ -1,6 +1,6 @@
 ---
 name: suse-packages
-description: Packages with SUSE. package management.
+description: "Packages with SUSE. package management."
 category: os-admin
 tags: [suse, packages, os-admin, linux]
 models: [gpt-4, claude-3]

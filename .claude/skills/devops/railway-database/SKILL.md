@@ -1,6 +1,6 @@
 ---
 name: railway-database
-description: Database with Railway. managed databases.
+description: "Database with Railway. managed databases."
 category: devops
 tags: [railway, database, devops, cloud]
 models: [gpt-4, claude-3]

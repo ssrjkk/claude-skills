@@ -1,6 +1,6 @@
 ---
 name: threejs-troubleshooting
-description: Troubleshooting for Threejs: troubleshooting common issues
+description: "Troubleshooting for Threejs: troubleshooting common issues"
 category: frontend
 tags: [threejs-troubleshooting, frontend, russian]
 models: [sonnet, opus]

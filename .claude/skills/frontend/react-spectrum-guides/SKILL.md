@@ -1,6 +1,6 @@
 ---
 name: react-spectrum-guides
-description: Guides for React-Spectrum: how-to guides
+description: "Guides for React-Spectrum: how-to guides"
 category: frontend
 tags: [react-spectrum, guides, frontend]
 models: [sonnet, opus]

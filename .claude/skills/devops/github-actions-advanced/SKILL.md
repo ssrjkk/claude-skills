@@ -1,6 +1,6 @@
 ---
 name: github-actions-advanced
-description: Advanced for Github-Actions: advanced patterns and techniques
+description: "Advanced for Github-Actions: advanced patterns and techniques"
 category: devops
 tags: [github-actions, advanced, devops]
 models: [sonnet, opus]

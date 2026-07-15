@@ -1,6 +1,6 @@
 ---
 name: render-serverless
-description: Serverless with Render. functions.
+description: "Serverless with Render. functions."
 category: devops
 tags: [render-serverless, devops, russian]
 models: [sonnet, opus]

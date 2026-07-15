@@ -1,6 +1,6 @@
 ---
 name: kotlin-multiplatform-deployment
-description: Deployment with Kotlin Multiplatform. app store.
+description: "Deployment with Kotlin Multiplatform. app store."
 category: mobile
 tags: [kotlin-multiplatform-deployment, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: riot-testing
-description: Testing with Riot. component testing.
+description: "Testing with Riot. component testing."
 category: frontend
 tags: [riot, testing, frontend, frontend]
 models: [gpt-4, claude-3]

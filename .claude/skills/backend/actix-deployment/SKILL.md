@@ -1,6 +1,6 @@
 ---
 name: actix-deployment
-description: Deployment for Actix: deployment and release
+description: "Deployment for Actix: deployment and release"
 category: backend
 tags: [actix, deployment, backend]
 models: [sonnet, opus]

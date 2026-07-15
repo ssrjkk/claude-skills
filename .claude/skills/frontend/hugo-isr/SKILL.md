@@ -1,6 +1,6 @@
 ---
 name: hugo-isr
-description: ISR with Hugo. incremental.
+description: "ISR with Hugo. incremental."
 category: frontend
 tags: [hugo, isr, frontend, meta-framework]
 models: [gpt-4, claude-3]

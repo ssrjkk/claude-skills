@@ -1,6 +1,6 @@
 ---
 name: ip-configuration
-description: Config with ip/ifconfig. advanced config.
+description: "Config with ip/ifconfig. advanced config."
 category: networking
 tags: [ip, configuration, networking, networking-tool]
 models: [gpt-4, claude-3]

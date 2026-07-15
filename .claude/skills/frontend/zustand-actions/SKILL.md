@@ -1,6 +1,6 @@
 ---
 name: zustand-actions
-description: Actions with Zustand. actions.
+description: "Actions with Zustand. actions."
 category: frontend
 tags: [zustand, actions, frontend, state-management]
 models: [gpt-4, claude-3]

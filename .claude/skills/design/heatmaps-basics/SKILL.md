@@ -1,6 +1,6 @@
 ---
 name: heatmaps-basics
-description: Basics with Heatmaps. fundamentals.
+description: "Basics with Heatmaps. fundamentals."
 category: design
 tags: [heatmaps, basics, design, ux-research]
 models: [gpt-4, claude-3]

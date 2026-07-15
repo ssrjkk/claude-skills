@@ -1,6 +1,6 @@
 ---
 name: ragas-workflow
-description: Workflow for Ragas: workflow optimization
+description: "Workflow for Ragas: workflow optimization"
 category: ai
 tags: [ragas-workflow, ai, russian]
 models: [sonnet, opus]

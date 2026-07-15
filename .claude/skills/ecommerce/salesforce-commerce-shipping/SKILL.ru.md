@@ -1,6 +1,6 @@
 ---
 name: salesforce-commerce-shipping
-description: Shipping with Salesforce Commerce. shipping.
+description: "Shipping with Salesforce Commerce. shipping."
 category: ecommerce
 tags: [salesforce-commerce-shipping, ecommerce, russian]
 models: [sonnet, opus]

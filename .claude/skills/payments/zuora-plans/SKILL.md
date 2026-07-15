@@ -1,6 +1,6 @@
 ---
 name: zuora-plans
-description: Plans with Zuora. plan creation.
+description: "Plans with Zuora. plan creation."
 category: payments
 tags: [zuora, plans, payments, billing]
 models: [gpt-4, claude-3]

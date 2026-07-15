@@ -1,6 +1,6 @@
 ---
 name: solidstart-routing
-description: Routing with SolidStart. file-based routing.
+description: "Routing with SolidStart. file-based routing."
 category: frontend
 tags: [solidstart-routing, frontend, russian]
 models: [sonnet, opus]

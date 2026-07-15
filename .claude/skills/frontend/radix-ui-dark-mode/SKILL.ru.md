@@ -1,6 +1,6 @@
 ---
 name: radix-ui-dark-mode
-description: Dark Mode with Radix UI. dark theme.
+description: "Dark Mode with Radix UI. dark theme."
 category: frontend
 tags: [radix-ui-dark-mode, frontend, russian]
 models: [sonnet, opus]

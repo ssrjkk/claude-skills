@@ -1,6 +1,6 @@
 ---
 name: pcidss-implementation
-description: Implementation with PCI DSS. implementation.
+description: "Implementation with PCI DSS. implementation."
 category: security
 tags: [pcidss, implementation, security, security]
 models: [gpt-4, claude-3]

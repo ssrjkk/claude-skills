@@ -1,6 +1,6 @@
 ---
 name: scada-monitoring
-description: Monitoring with SCADA. monitoring.
+description: "Monitoring with SCADA. monitoring."
 category: energy
 tags: [scada, monitoring, energy, smart-grid]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: flutter-performance
-description: Performance with Flutter. optimization.
+description: "Performance with Flutter. optimization."
 category: mobile
 tags: [flutter-performance, mobile, russian]
 models: [sonnet, opus]

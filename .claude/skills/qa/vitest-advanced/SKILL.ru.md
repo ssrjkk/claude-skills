@@ -1,6 +1,6 @@
 ---
 name: vitest-advanced
-description: Advanced for Vitest: advanced patterns and techniques
+description: "Advanced for Vitest: advanced patterns and techniques"
 category: qa
 tags: [vitest-advanced, qa, russian]
 models: [sonnet, opus]

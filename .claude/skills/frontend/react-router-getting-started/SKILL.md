@@ -1,6 +1,6 @@
 ---
 name: react-router-getting-started
-description: Getting Started for React-Router: initial setup and first steps
+description: "Getting Started for React-Router: initial setup and first steps"
 category: frontend
 tags: [react-router, getting-started, frontend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: voila-data
-description: Data with Voila. data binding.
+description: "Data with Voila. data binding."
 category: data
 tags: [voila, data, data, data-apps]
 models: [gpt-4, claude-3]

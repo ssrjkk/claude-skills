@@ -1,6 +1,6 @@
 ---
 name: stm32-pwm
-description: PWM with STM32. PWM signals.
+description: "PWM with STM32. PWM signals."
 category: iot
 tags: [stm32-pwm, iot, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: arkit-spatial
-description: Spatial with ARKit. room mapping.
+description: "Spatial with ARKit. room mapping."
 category: ar-vr
 tags: [arkit, spatial, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

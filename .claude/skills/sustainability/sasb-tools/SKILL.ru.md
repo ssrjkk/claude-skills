@@ -1,6 +1,6 @@
 ---
 name: sasb-tools
-description: Tools with SASB. tools.
+description: "Tools with SASB. tools."
 category: sustainability
 tags: [sasb-tools, sustainability, russian]
 models: [sonnet, opus]

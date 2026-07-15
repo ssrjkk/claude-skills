@@ -1,6 +1,6 @@
 ---
 name: scikit-learn-feature-engineering
-description: Feature Engineering with Scikit Learn. creating features.
+description: "Feature Engineering with Scikit Learn. creating features."
 category: ai
 tags: [scikit-learn-feature-engineering, ai, russian]
 models: [sonnet, opus]

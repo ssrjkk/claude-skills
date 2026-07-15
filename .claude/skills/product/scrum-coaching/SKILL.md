@@ -1,6 +1,6 @@
 ---
 name: scrum-coaching
-description: Coaching with Scrum. team coaching.
+description: "Coaching with Scrum. team coaching."
 category: product
 tags: [scrum, coaching, product, methodology]
 models: [gpt-4, claude-3]

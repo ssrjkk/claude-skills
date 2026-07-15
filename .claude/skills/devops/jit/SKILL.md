@@ -1,6 +1,6 @@
 ---
 name: jit
-description: Development with Jit: tools and best practices
+description: "Development with Jit: tools and best practices"
 category: devops
 tags: [jit, devops, development]
 models: [sonnet, opus]

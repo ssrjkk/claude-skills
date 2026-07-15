@@ -1,6 +1,6 @@
 ---
 name: winui-packaging
-description: Packaging with WinUI. app packaging.
+description: "Packaging with WinUI. app packaging."
 category: desktop
 tags: [winui-packaging, desktop, russian]
 models: [sonnet, opus]

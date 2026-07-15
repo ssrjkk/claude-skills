@@ -1,6 +1,6 @@
 ---
 name: gnuplot-simulation
-description: Simulation with gnuplot. Monte Carlo.
+description: "Simulation with gnuplot. Monte Carlo."
 category: scientific
 tags: [gnuplot, simulation, scientific, scientific-computing]
 models: [gpt-4, claude-3]

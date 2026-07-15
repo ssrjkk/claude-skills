@@ -1,6 +1,6 @@
 ---
 name: databricks-api
-description: API for Databricks: API development and integration
+description: "API for Databricks: API development and integration"
 category: data
 tags: [databricks-api, data, russian]
 models: [sonnet, opus]

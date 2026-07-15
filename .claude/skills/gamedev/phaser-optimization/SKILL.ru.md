@@ -1,6 +1,6 @@
 ---
 name: phaser-optimization
-description: Optimization with Phaser. performance.
+description: "Optimization with Phaser. performance."
 category: gamedev
 tags: [phaser-optimization, gamedev, russian]
 models: [sonnet, opus]

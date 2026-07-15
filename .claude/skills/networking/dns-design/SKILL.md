@@ -1,6 +1,6 @@
 ---
 name: dns-design
-description: Design with DNS. network design.
+description: "Design with DNS. network design."
 category: networking
 tags: [dns, design, networking, networking]
 models: [gpt-4, claude-3]

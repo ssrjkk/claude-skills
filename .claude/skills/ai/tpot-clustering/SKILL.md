@@ -1,6 +1,6 @@
 ---
 name: tpot-clustering
-description: Clustering with Tpot. grouping data.
+description: "Clustering with Tpot. grouping data."
 category: ai
 tags: [tpot, clustering, ai, ml]
 models: [gpt-4, claude-3]

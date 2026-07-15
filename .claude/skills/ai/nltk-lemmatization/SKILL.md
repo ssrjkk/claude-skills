@@ -1,6 +1,6 @@
 ---
 name: nltk-lemmatization
-description: Lemmatization with Nltk. word lemmatization.
+description: "Lemmatization with Nltk. word lemmatization."
 category: ai
 tags: [nltk, lemmatization, ai, nlp]
 models: [gpt-4, claude-3]

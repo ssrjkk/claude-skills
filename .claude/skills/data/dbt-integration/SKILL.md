@@ -1,6 +1,6 @@
 ---
 name: dbt-integration
-description: Integration with dbt. connectors.
+description: "Integration with dbt. connectors."
 category: data
 tags: [dbt, integration, data, data-engineering]
 models: [gpt-4, claude-3]

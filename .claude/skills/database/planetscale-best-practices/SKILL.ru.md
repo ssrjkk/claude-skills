@@ -1,6 +1,6 @@
 ---
 name: planetscale-best-practices
-description: Best Practices for Planetscale: best practices and patterns
+description: "Best Practices for Planetscale: best practices and patterns"
 category: database
 tags: [planetscale-best-practices, database, russian]
 models: [sonnet, opus]

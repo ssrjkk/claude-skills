@@ -1,6 +1,6 @@
 ---
 name: daisyui-responsive
-description: Responsive with daisyUI. mobile-first.
+description: "Responsive with daisyUI. mobile-first."
 category: frontend
 tags: [daisyui, responsive, frontend, css]
 models: [gpt-4, claude-3]

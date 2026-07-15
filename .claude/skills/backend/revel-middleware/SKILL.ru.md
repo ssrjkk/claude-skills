@@ -1,6 +1,6 @@
 ---
 name: revel-middleware
-description: Middleware with Revel. request pipeline.
+description: "Middleware with Revel. request pipeline."
 category: backend
 tags: [revel-middleware, backend, russian]
 models: [sonnet, opus]

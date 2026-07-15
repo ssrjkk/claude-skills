@@ -1,6 +1,6 @@
 ---
 name: easypost-analytics
-description: Analytics with EasyPost. analytics.
+description: "Analytics with EasyPost. analytics."
 category: supply-chain
 tags: [easypost-analytics, supply-chain, russian]
 models: [sonnet, opus]

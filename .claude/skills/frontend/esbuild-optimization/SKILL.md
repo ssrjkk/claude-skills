@@ -1,6 +1,6 @@
 ---
 name: esbuild-optimization
-description: Optimization with esbuild. build optimization.
+description: "Optimization with esbuild. build optimization."
 category: frontend
 tags: [esbuild, optimization, frontend, build-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: axum-websocket
-description: WebSocket with Axum. real-time.
+description: "WebSocket with Axum. real-time."
 category: backend
 tags: [axum, websocket, backend, backend]
 models: [gpt-4, claude-3]

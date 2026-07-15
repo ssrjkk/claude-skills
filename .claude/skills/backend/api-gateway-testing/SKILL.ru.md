@@ -1,6 +1,6 @@
 ---
 name: api-gateway-testing
-description: Testing with API Gateway. testing the pattern.
+description: "Testing with API Gateway. testing the pattern."
 category: backend
 tags: [api-gateway-testing, backend, russian]
 models: [sonnet, opus]

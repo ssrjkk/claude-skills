@@ -1,6 +1,6 @@
 ---
 name: drizzle-getting-started
-description: Getting Started for Drizzle: initial setup and first steps
+description: "Getting Started for Drizzle: initial setup and first steps"
 category: backend
 tags: [drizzle-getting-started, backend, russian]
 models: [sonnet, opus]

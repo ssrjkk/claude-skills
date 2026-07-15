@@ -1,6 +1,6 @@
 ---
 name: flutter-desktop-window
-description: Window with Flutter Desktop. windows.
+description: "Window with Flutter Desktop. windows."
 category: desktop
 tags: [flutter-desktop, window, desktop, desktop]
 models: [gpt-4, claude-3]

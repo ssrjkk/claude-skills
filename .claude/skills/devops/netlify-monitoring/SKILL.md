@@ -1,6 +1,6 @@
 ---
 name: netlify-monitoring
-description: Monitoring with Netlify. monitoring.
+description: "Monitoring with Netlify. monitoring."
 category: devops
 tags: [netlify, monitoring, devops, cloud]
 models: [gpt-4, claude-3]

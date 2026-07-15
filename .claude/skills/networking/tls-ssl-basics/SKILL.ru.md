@@ -1,6 +1,6 @@
 ---
 name: tls-ssl-basics
-description: Basics with TLS/SSL. fundamentals.
+description: "Basics with TLS/SSL. fundamentals."
 category: networking
 tags: [tls-ssl-basics, networking, russian]
 models: [sonnet, opus]

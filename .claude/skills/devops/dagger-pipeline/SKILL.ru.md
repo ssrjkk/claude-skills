@@ -1,6 +1,6 @@
 ---
 name: dagger-pipeline
-description: Pipeline with Dagger. pipeline creation.
+description: "Pipeline with Dagger. pipeline creation."
 category: devops
 tags: [dagger-pipeline, devops, russian]
 models: [sonnet, opus]

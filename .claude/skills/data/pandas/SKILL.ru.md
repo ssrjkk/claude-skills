@@ -1,6 +1,6 @@
 ---
 name: pandas
-description: Manipulates and analyzes data with pandas, including DataFrames, group operations, and time series.
+description: "Manipulates and analyzes data with pandas, including DataFrames, group operations, and time series."
 category: data
 tags: [pandas, data, russian]
 models: [sonnet, opus]

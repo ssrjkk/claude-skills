@@ -1,6 +1,6 @@
 ---
 name: amqp-implementation
-description: Implementation with AMQP. implementation.
+description: "Implementation with AMQP. implementation."
 category: communications
 tags: [amqp-implementation, communications, russian]
 models: [sonnet, opus]

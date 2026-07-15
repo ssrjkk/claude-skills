@@ -1,6 +1,6 @@
 ---
 name: csrd-reporting
-description: Reporting with CSRD. reporting.
+description: "Reporting with CSRD. reporting."
 category: sustainability
 tags: [csrd-reporting, sustainability, russian]
 models: [sonnet, opus]

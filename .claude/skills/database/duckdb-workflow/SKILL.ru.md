@@ -1,6 +1,6 @@
 ---
 name: duckdb-workflow
-description: Workflow for Duckdb: workflow optimization
+description: "Workflow for Duckdb: workflow optimization"
 category: database
 tags: [duckdb-workflow, database, russian]
 models: [sonnet, opus]

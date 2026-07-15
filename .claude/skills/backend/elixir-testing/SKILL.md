@@ -1,6 +1,6 @@
 ---
 name: elixir-testing
-description: Testing with Elixir. writing tests.
+description: "Testing with Elixir. writing tests."
 category: backend
 tags: [elixir, testing, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: sqlite-schema
-description: Schema Design with SQLite. schema.
+description: "Schema Design with SQLite. schema."
 category: database
 tags: [sqlite, schema, database, sql]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: scipy-analysis
-description: Analysis with SciPy. data analysis.
+description: "Analysis with SciPy. data analysis."
 category: data
 tags: [scipy, analysis, data, data-science]
 models: [gpt-4, claude-3]

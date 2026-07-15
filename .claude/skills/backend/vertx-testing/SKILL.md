@@ -1,6 +1,6 @@
 ---
 name: vertx-testing
-description: Testing with Vert.x. unit tests.
+description: "Testing with Vert.x. unit tests."
 category: backend
 tags: [vertx, testing, backend, backend]
 models: [gpt-4, claude-3]

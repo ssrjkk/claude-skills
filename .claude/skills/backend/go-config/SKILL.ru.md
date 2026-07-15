@@ -1,6 +1,6 @@
 ---
 name: go-config
-description: Configuration with Go. config management.
+description: "Configuration with Go. config management."
 category: backend
 tags: [go-config, backend, russian]
 models: [sonnet, opus]

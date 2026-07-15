@@ -1,6 +1,6 @@
 ---
 name: mithril-accessibility
-description: Accessibility with Mithril. a11y.
+description: "Accessibility with Mithril. a11y."
 category: frontend
 tags: [mithril, accessibility, frontend, frontend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: databricks-optimization
-description: Optimization for Databricks: performance tuning and optimization
+description: "Optimization for Databricks: performance tuning and optimization"
 category: data
 tags: [databricks-optimization, data, russian]
 models: [sonnet, opus]

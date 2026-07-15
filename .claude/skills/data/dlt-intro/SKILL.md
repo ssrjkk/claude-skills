@@ -1,6 +1,6 @@
 ---
 name: dlt-intro
-description: Intro for Dlt: introduction
+description: "Intro for Dlt: introduction"
 category: data
 tags: [dlt, intro, data]
 models: [sonnet, opus]

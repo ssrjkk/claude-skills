@@ -1,6 +1,6 @@
 ---
 name: e2e-playwright
-description: Creates E2E tests with Playwright and Allure report generation. Use for automated user scenario testing.
+description: "Creates E2E tests with Playwright and Allure report generation. Use for automated user scenario testing."
 category: qa
 tags: [e2e, playwright, testing, allure]
 models: [sonnet, opus]

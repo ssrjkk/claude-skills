@@ -1,6 +1,6 @@
 ---
 name: wireshark-performance
-description: Performance with Wireshark. benchmarking.
+description: "Performance with Wireshark. benchmarking."
 category: networking
 tags: [wireshark-performance, networking, russian]
 models: [sonnet, opus]

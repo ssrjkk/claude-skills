@@ -1,6 +1,6 @@
 ---
 name: networking-skill-0164
-description: networking specialized skill #0164 for networking development
+description: "networking specialized skill #0164 for networking development"
 category: networking
 tags: [networking, skill, 0164]
 models: [sonnet, opus]

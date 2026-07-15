@@ -1,6 +1,6 @@
 ---
 name: windows-update-iis
-description: IIS with Windows Update. web server.
+description: "IIS with Windows Update. web server."
 category: os-admin
 tags: [windows-update-iis, os-admin, russian]
 models: [sonnet, opus]

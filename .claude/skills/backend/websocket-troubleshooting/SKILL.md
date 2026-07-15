@@ -1,6 +1,6 @@
 ---
 name: websocket-troubleshooting
-description: Troubleshooting for Websocket: troubleshooting common issues
+description: "Troubleshooting for Websocket: troubleshooting common issues"
 category: backend
 tags: [websocket, troubleshooting, backend]
 models: [sonnet, opus]

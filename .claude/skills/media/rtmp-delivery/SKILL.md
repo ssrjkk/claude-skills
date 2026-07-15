@@ -1,6 +1,6 @@
 ---
 name: rtmp-delivery
-description: Delivery with RTMP. delivery.
+description: "Delivery with RTMP. delivery."
 category: media
 tags: [rtmp, delivery, media, media-streaming]
 models: [gpt-4, claude-3]

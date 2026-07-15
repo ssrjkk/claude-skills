@@ -1,6 +1,6 @@
 ---
 name: wpf-setup
-description: Setup with WPF. SDK setup.
+description: "Setup with WPF. SDK setup."
 category: desktop
 tags: [wpf, setup, desktop, desktop]
 models: [gpt-4, claude-3]

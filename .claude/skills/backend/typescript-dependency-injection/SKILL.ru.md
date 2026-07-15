@@ -1,6 +1,6 @@
 ---
 name: typescript-dependency-injection
-description: DI with Typescript. DI containers.
+description: "DI with Typescript. DI containers."
 category: backend
 tags: [typescript-dependency-injection, backend, russian]
 models: [sonnet, opus]

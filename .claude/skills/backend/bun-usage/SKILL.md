@@ -1,6 +1,6 @@
 ---
 name: bun-usage
-description: Usage for Bun: usage guide
+description: "Usage for Bun: usage guide"
 category: backend
 tags: [bun, usage, backend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: remote-payroll
-description: Payroll with Remote.com. payroll.
+description: "Payroll with Remote.com. payroll."
 category: hr
 tags: [remote, payroll, hr, hr-tech]
 models: [gpt-4, claude-3]

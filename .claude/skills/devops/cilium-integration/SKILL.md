@@ -1,6 +1,6 @@
 ---
 name: cilium-integration
-description: Integration for Cilium: integration with other tools
+description: "Integration for Cilium: integration with other tools"
 category: devops
 tags: [cilium, integration, devops]
 models: [sonnet, opus]

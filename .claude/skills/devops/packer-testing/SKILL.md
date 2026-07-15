@@ -1,6 +1,6 @@
 ---
 name: packer-testing
-description: Testing with Packer. infra testing.
+description: "Testing with Packer. infra testing."
 category: devops
 tags: [packer, testing, devops, iac]
 models: [gpt-4, claude-3]

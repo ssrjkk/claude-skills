@@ -1,6 +1,6 @@
 ---
 name: jotai-testing
-description: Testing with Jotai. state testing.
+description: "Testing with Jotai. state testing."
 category: frontend
 tags: [jotai-testing, frontend, russian]
 models: [sonnet, opus]

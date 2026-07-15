@@ -1,6 +1,6 @@
 ---
 name: saml-deployment
-description: Deployment for Saml: deployment and release
+description: "Deployment for Saml: deployment and release"
 category: security
 tags: [saml-deployment, security, russian]
 models: [sonnet, opus]

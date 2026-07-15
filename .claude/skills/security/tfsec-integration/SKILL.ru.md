@@ -1,6 +1,6 @@
 ---
 name: tfsec-integration
-description: Integration for Tfsec: integration with other tools
+description: "Integration for Tfsec: integration with other tools"
 category: security
 tags: [tfsec-integration, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ngrx-devtools
-description: DevTools with NgRx. debugging.
+description: "DevTools with NgRx. debugging."
 category: frontend
 tags: [ngrx-devtools, frontend, russian]
 models: [sonnet, opus]

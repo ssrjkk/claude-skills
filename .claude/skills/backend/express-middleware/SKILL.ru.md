@@ -1,6 +1,6 @@
 ---
 name: express-middleware
-description: Middleware with Express. request pipeline.
+description: "Middleware with Express. request pipeline."
 category: backend
 tags: [express-middleware, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: openxr-rendering
-description: Rendering with OpenXR. stereoscopic.
+description: "Rendering with OpenXR. stereoscopic."
 category: ar-vr
 tags: [openxr, rendering, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: esp8266-pwm
-description: PWM with ESP8266. PWM signals.
+description: "PWM with ESP8266. PWM signals."
 category: iot
 tags: [esp8266-pwm, iot, russian]
 models: [sonnet, opus]

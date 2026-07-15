@@ -1,6 +1,6 @@
 ---
 name: numpy-visualization
-description: Visualization with NumPy. charting.
+description: "Visualization with NumPy. charting."
 category: data
 tags: [numpy, visualization, data, data-science]
 models: [gpt-4, claude-3]

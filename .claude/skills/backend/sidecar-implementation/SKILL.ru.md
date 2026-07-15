@@ -1,6 +1,6 @@
 ---
 name: sidecar-implementation
-description: Implementation with Sidecar. practical implementation.
+description: "Implementation with Sidecar. practical implementation."
 category: backend
 tags: [sidecar-implementation, backend, russian]
 models: [sonnet, opus]

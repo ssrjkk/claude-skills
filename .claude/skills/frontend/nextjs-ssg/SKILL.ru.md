@@ -1,6 +1,6 @@
 ---
 name: nextjs-ssg
-description: SSG with Next.js. static generation.
+description: "SSG with Next.js. static generation."
 category: frontend
 tags: [nextjs-ssg, frontend, russian]
 models: [sonnet, opus]

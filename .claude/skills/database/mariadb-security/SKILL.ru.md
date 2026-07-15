@@ -1,6 +1,6 @@
 ---
 name: mariadb-security
-description: Security with MariaDB. access control.
+description: "Security with MariaDB. access control."
 category: database
 tags: [mariadb-security, database, russian]
 models: [sonnet, opus]

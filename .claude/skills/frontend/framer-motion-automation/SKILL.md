@@ -1,6 +1,6 @@
 ---
 name: framer-motion-automation
-description: Automation for Framer-Motion: automation and scripting
+description: "Automation for Framer-Motion: automation and scripting"
 category: frontend
 tags: [framer-motion, automation, frontend]
 models: [sonnet, opus]

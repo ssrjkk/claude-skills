@@ -1,6 +1,6 @@
 ---
 name: chi-database
-description: Database with Chi. DB access.
+description: "Database with Chi. DB access."
 category: backend
 tags: [chi-database, backend, russian]
 models: [sonnet, opus]

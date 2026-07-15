@@ -1,6 +1,6 @@
 ---
 name: grape-middleware
-description: Middleware with Grape. rack middleware.
+description: "Middleware with Grape. rack middleware."
 category: backend
 tags: [grape-middleware, backend, russian]
 models: [sonnet, opus]

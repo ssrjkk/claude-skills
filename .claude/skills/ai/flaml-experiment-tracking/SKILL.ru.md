@@ -1,6 +1,6 @@
 ---
 name: flaml-experiment-tracking
-description: Experiment Tracking with Flaml. tracking experiments.
+description: "Experiment Tracking with Flaml. tracking experiments."
 category: ai
 tags: [flaml-experiment-tracking, ai, russian]
 models: [sonnet, opus]

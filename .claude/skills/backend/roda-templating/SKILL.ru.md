@@ -1,6 +1,6 @@
 ---
 name: roda-templating
-description: Templating with Roda. ERB.
+description: "Templating with Roda. ERB."
 category: backend
 tags: [roda-templating, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: dvc-workflow
-description: Workflow for Dvc: workflow optimization
+description: "Workflow for Dvc: workflow optimization"
 category: data
 tags: [dvc-workflow, data, russian]
 models: [sonnet, opus]

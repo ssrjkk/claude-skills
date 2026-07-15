@@ -1,6 +1,6 @@
 ---
 name: openhab-dashboards
-description: Dashboards with openHAB. dashboards.
+description: "Dashboards with openHAB. dashboards."
 category: iot
 tags: [openhab, dashboards, iot, iot-platform]
 models: [gpt-4, claude-3]

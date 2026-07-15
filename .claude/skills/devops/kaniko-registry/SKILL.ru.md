@@ -1,6 +1,6 @@
 ---
 name: kaniko-registry
-description: Registry with Kaniko. image registry.
+description: "Registry with Kaniko. image registry."
 category: devops
 tags: [kaniko-registry, devops, russian]
 models: [sonnet, opus]

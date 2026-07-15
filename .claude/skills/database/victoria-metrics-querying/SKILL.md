@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-querying
-description: Querying with VictoriaMetrics. time-series queries.
+description: "Querying with VictoriaMetrics. time-series queries."
 category: database
 tags: [victoria-metrics, querying, database, time-series]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: gatling-reports
-description: Reports with Gatling. report generation.
+description: "Reports with Gatling. report generation."
 category: qa
 tags: [gatling, reports, qa, performance-testing]
 models: [gpt-4, claude-3]

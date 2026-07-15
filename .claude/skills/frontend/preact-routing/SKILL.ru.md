@@ -1,6 +1,6 @@
 ---
 name: preact-routing
-description: Routing with Preact. client routing.
+description: "Routing with Preact. client routing."
 category: frontend
 tags: [preact-routing, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mmdetection-image-classification
-description: Image Classification with Mmdetection. classifying images.
+description: "Image Classification with Mmdetection. classifying images."
 category: ai
 tags: [mmdetection, image-classification, ai, computer-vision]
 models: [gpt-4, claude-3]

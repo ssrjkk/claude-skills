@@ -1,6 +1,6 @@
 ---
 name: recoil-persistence
-description: Persistence with Recoil. state persistence.
+description: "Persistence with Recoil. state persistence."
 category: frontend
 tags: [recoil-persistence, frontend, russian]
 models: [sonnet, opus]

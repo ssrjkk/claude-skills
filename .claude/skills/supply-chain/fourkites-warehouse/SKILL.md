@@ -1,6 +1,6 @@
 ---
 name: fourkites-warehouse
-description: Warehouse with FourKites. warehouse ops.
+description: "Warehouse with FourKites. warehouse ops."
 category: supply-chain
 tags: [fourkites, warehouse, supply-chain, logistics]
 models: [gpt-4, claude-3]

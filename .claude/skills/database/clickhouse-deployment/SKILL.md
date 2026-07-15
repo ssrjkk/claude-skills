@@ -1,6 +1,6 @@
 ---
 name: clickhouse-deployment
-description: Deployment for Clickhouse: deployment and release
+description: "Deployment for Clickhouse: deployment and release"
 category: database
 tags: [clickhouse, deployment, database]
 models: [sonnet, opus]

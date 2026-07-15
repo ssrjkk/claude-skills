@@ -1,6 +1,6 @@
 ---
 name: thingsboard-devices
-description: Devices with ThingsBoard. device management.
+description: "Devices with ThingsBoard. device management."
 category: iot
 tags: [thingsboard-devices, iot, russian]
 models: [sonnet, opus]

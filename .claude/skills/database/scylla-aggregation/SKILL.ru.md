@@ -1,6 +1,6 @@
 ---
 name: scylla-aggregation
-description: Aggregation with ScyllaDB. aggregation pipelines.
+description: "Aggregation with ScyllaDB. aggregation pipelines."
 category: database
 tags: [scylla-aggregation, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: repository-intro
-description: Introduction with Repository. understanding the pattern.
+description: "Introduction with Repository. understanding the pattern."
 category: backend
 tags: [repository, intro, backend, architecture]
 models: [gpt-4, claude-3]

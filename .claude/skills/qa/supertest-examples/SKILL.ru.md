@@ -1,6 +1,6 @@
 ---
 name: supertest-examples
-description: Examples for Supertest: practical examples
+description: "Examples for Supertest: practical examples"
 category: qa
 tags: [supertest-examples, qa, russian]
 models: [sonnet, opus]

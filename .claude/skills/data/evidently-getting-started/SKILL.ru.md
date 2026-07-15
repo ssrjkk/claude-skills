@@ -1,6 +1,6 @@
 ---
 name: evidently-getting-started
-description: Getting Started for Evidently: initial setup and first steps
+description: "Getting Started for Evidently: initial setup and first steps"
 category: data
 tags: [evidently-getting-started, data, russian]
 models: [sonnet, opus]

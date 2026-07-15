@@ -1,6 +1,6 @@
 ---
 name: auto-sklearn-deployment
-description: Deployment with Auto Sklearn. model serving.
+description: "Deployment with Auto Sklearn. model serving."
 category: ai
 tags: [auto-sklearn-deployment, ai, russian]
 models: [sonnet, opus]

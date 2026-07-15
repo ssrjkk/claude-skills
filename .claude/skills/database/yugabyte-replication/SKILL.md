@@ -1,6 +1,6 @@
 ---
 name: yugabyte-replication
-description: Replication with YugabyteDB. replication.
+description: "Replication with YugabyteDB. replication."
 category: database
 tags: [yugabyte, replication, database, sql]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: zustand-selectors
-description: Selectors with Zustand. derived data.
+description: "Selectors with Zustand. derived data."
 category: frontend
 tags: [zustand, selectors, frontend, state-management]
 models: [gpt-4, claude-3]

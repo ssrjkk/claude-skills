@@ -1,6 +1,6 @@
 ---
 name: hardhat
-description: Develops, tests, and deploys Ethereum smart contracts with Hardhat, including local node and debugging.
+description: "Develops, tests, and deploys Ethereum smart contracts with Hardhat, including local node and debugging."
 category: block
 tags: [hardhat, block, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: coredns-configuration
-description: Configuration for Coredns: configuration and setup
+description: "Configuration for Coredns: configuration and setup"
 category: devops
 tags: [coredns, configuration, devops]
 models: [sonnet, opus]

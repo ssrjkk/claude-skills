@@ -1,6 +1,6 @@
 ---
 name: oracle-replication
-description: Replication with Oracle. replication.
+description: "Replication with Oracle. replication."
 category: database
 tags: [oracle, replication, database, sql]
 models: [gpt-4, claude-3]

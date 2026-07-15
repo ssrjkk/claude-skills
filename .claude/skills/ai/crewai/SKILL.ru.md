@@ -1,6 +1,6 @@
 ---
 name: crewai
-description: Orchestrates AI agent teams with CrewAI, role-based agents, tasks, and sequential/parallel workflows.
+description: "Orchestrates AI agent teams with CrewAI, role-based agents, tasks, and sequential/parallel workflows."
 category: ai
 tags: [crewai, ai, russian]
 models: [sonnet, opus]

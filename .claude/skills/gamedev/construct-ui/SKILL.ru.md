@@ -1,6 +1,6 @@
 ---
 name: construct-ui
-description: UI with Construct. game UI.
+description: "UI with Construct. game UI."
 category: gamedev
 tags: [construct-ui, gamedev, russian]
 models: [sonnet, opus]

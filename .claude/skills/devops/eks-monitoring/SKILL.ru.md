@@ -1,6 +1,6 @@
 ---
 name: eks-monitoring
-description: Monitoring with Amazon EKS. monitoring.
+description: "Monitoring with Amazon EKS. monitoring."
 category: devops
 tags: [eks-monitoring, devops, russian]
 models: [sonnet, opus]

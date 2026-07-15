@@ -1,6 +1,6 @@
 ---
 name: google-iot-telemetry
-description: Telemetry with Google IoT. data collection.
+description: "Telemetry with Google IoT. data collection."
 category: iot
 tags: [google-iot, telemetry, iot, iot-platform]
 models: [gpt-4, claude-3]

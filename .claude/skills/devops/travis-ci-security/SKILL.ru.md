@@ -1,6 +1,6 @@
 ---
 name: travis-ci-security
-description: Security with Travis CI. security scanning.
+description: "Security with Travis CI. security scanning."
 category: devops
 tags: [travis-ci-security, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sendgrid-analytics
-description: Analytics with SendGrid. analytics.
+description: "Analytics with SendGrid. analytics."
 category: communications
 tags: [sendgrid-analytics, communications, russian]
 models: [sonnet, opus]

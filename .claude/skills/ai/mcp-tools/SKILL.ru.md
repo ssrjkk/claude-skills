@@ -1,6 +1,6 @@
 ---
 name: mcp-tools
-description: Creating custom MCP tools for Claude
+description: "Creating custom MCP tools for Claude"
 category: ai
 tags: [mcp-tools, ai, russian]
 models: [sonnet, opus]

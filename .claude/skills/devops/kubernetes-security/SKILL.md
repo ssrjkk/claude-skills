@@ -1,6 +1,6 @@
 ---
 name: kubernetes-security
-description: Security for Kubernetes: security best practices
+description: "Security for Kubernetes: security best practices"
 category: devops
 tags: [kubernetes, security, devops]
 models: [sonnet, opus]

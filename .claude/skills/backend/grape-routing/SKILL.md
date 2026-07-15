@@ -1,6 +1,6 @@
 ---
 name: grape-routing
-description: Routing with Grape. HTTP routing.
+description: "Routing with Grape. HTTP routing."
 category: backend
 tags: [grape, routing, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: burpsuite-automation
-description: Automation with Burp Suite. automation.
+description: "Automation with Burp Suite. automation."
 category: security
 tags: [burpsuite-automation, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: oauth-security
-description: Security for Oauth: security best practices
+description: "Security for Oauth: security best practices"
 category: security
 tags: [oauth, security, security]
 models: [sonnet, opus]

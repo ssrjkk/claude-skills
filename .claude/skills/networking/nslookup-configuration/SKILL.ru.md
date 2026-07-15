@@ -1,6 +1,6 @@
 ---
 name: nslookup-configuration
-description: Config with nslookup/dig. advanced config.
+description: "Config with nslookup/dig. advanced config."
 category: networking
 tags: [nslookup-configuration, networking, russian]
 models: [sonnet, opus]

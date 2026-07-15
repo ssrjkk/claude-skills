@@ -1,6 +1,6 @@
 ---
 name: gke-rbac
-description: RBAC with Google GKE. access control.
+description: "RBAC with Google GKE. access control."
 category: devops
 tags: [gke-rbac, devops, russian]
 models: [sonnet, opus]

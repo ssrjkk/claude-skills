@@ -1,6 +1,6 @@
 ---
 name: vue-security
-description: Security for Vue: security best practices
+description: "Security for Vue: security best practices"
 category: frontend
 tags: [vue-security, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: brightspace-analytics
-description: Analytics with Brightspace. analytics.
+description: "Analytics with Brightspace. analytics."
 category: education
 tags: [brightspace-analytics, education, russian]
 models: [sonnet, opus]

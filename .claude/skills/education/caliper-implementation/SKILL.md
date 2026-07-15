@@ -1,6 +1,6 @@
 ---
 name: caliper-implementation
-description: Implementation with Caliper. implementation.
+description: "Implementation with Caliper. implementation."
 category: education
 tags: [caliper, implementation, education, education-standard]
 models: [gpt-4, claude-3]

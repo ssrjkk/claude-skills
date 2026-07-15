@@ -1,6 +1,6 @@
 ---
 name: john-automation
-description: Automation with John the Ripper. automation.
+description: "Automation with John the Ripper. automation."
 category: security
 tags: [john, automation, security, security-tool]
 models: [gpt-4, claude-3]

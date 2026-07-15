@@ -1,6 +1,6 @@
 ---
 name: trivy-debugging
-description: Debugging for Trivy: debugging and troubleshooting
+description: "Debugging for Trivy: debugging and troubleshooting"
 category: security
 tags: [trivy-debugging, security, russian]
 models: [sonnet, opus]

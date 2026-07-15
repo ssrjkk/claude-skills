@@ -1,6 +1,6 @@
 ---
 name: trl-visualization
-description: Visualization with Trl. model viz.
+description: "Visualization with Trl. model viz."
 category: ai
 tags: [trl-visualization, ai, russian]
 models: [sonnet, opus]

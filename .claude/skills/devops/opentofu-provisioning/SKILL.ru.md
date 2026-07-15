@@ -1,6 +1,6 @@
 ---
 name: opentofu-provisioning
-description: Provisioning with OpenTofu. provisioning.
+description: "Provisioning with OpenTofu. provisioning."
 category: devops
 tags: [opentofu-provisioning, devops, russian]
 models: [sonnet, opus]

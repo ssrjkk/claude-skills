@@ -1,6 +1,6 @@
 ---
 name: kaniko-compose
-description: Compose with Kaniko. multi-container.
+description: "Compose with Kaniko. multi-container."
 category: devops
 tags: [kaniko-compose, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: tdd-basics
-description: Basics with TDD. fundamentals.
+description: "Basics with TDD. fundamentals."
 category: engineering
 tags: [tdd, basics, engineering, engineering]
 models: [gpt-4, claude-3]

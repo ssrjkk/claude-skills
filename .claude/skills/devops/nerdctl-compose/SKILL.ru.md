@@ -1,6 +1,6 @@
 ---
 name: nerdctl-compose
-description: Compose with nerdctl. multi-container.
+description: "Compose with nerdctl. multi-container."
 category: devops
 tags: [nerdctl-compose, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: symfony-testing
-description: Testing with Symfony. PHPUnit.
+description: "Testing with Symfony. PHPUnit."
 category: backend
 tags: [symfony, testing, backend, backend]
 models: [gpt-4, claude-3]

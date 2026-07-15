@@ -1,6 +1,6 @@
 ---
 name: tvm-transfer-learning
-description: Transfer Learning with Tvm. transfer learning.
+description: "Transfer Learning with Tvm. transfer learning."
 category: ai
 tags: [tvm, transfer-learning, ai, deep-learning]
 models: [gpt-4, claude-3]

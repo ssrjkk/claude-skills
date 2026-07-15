@@ -1,6 +1,6 @@
 ---
 name: workos-examples
-description: Examples for Workos: practical examples
+description: "Examples for Workos: practical examples"
 category: mobile
 tags: [workos-examples, mobile, russian]
 models: [sonnet, opus]

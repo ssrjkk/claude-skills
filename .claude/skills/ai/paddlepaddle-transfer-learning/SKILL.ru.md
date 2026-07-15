@@ -1,6 +1,6 @@
 ---
 name: paddlepaddle-transfer-learning
-description: Transfer Learning with Paddlepaddle. transfer learning.
+description: "Transfer Learning with Paddlepaddle. transfer learning."
 category: ai
 tags: [paddlepaddle-transfer-learning, ai, russian]
 models: [sonnet, opus]

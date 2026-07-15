@@ -1,6 +1,6 @@
 ---
 name: edx-setup
-description: Setup with Open edX. setup.
+description: "Setup with Open edX. setup."
 category: education
 tags: [edx-setup, education, russian]
 models: [sonnet, opus]

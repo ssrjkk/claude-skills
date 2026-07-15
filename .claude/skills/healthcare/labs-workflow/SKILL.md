@@ -1,6 +1,6 @@
 ---
 name: labs-workflow
-description: Workflow with LIS. clinical workflow.
+description: "Workflow with LIS. clinical workflow."
 category: healthcare
 tags: [labs, workflow, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

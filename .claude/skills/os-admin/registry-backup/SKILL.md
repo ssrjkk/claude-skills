@@ -1,6 +1,6 @@
 ---
 name: registry-backup
-description: Backup with Windows Registry. backup.
+description: "Backup with Windows Registry. backup."
 category: os-admin
 tags: [registry, backup, os-admin, windows]
 models: [gpt-4, claude-3]

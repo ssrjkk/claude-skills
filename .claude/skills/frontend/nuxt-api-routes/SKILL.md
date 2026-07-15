@@ -1,6 +1,6 @@
 ---
 name: nuxt-api-routes
-description: API Routes with Nuxt. API endpoints.
+description: "API Routes with Nuxt. API endpoints."
 category: frontend
 tags: [nuxt, api-routes, frontend, meta-framework]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: srt-protection
-description: Protection with SRT. DRM.
+description: "Protection with SRT. DRM."
 category: media
 tags: [srt-protection, media, russian]
 models: [sonnet, opus]

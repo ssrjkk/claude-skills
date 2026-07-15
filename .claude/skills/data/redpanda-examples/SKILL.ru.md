@@ -1,6 +1,6 @@
 ---
 name: redpanda-examples
-description: Examples for Redpanda: practical examples
+description: "Examples for Redpanda: practical examples"
 category: data
 tags: [redpanda-examples, data, russian]
 models: [sonnet, opus]

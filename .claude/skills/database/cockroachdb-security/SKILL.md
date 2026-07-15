@@ -1,6 +1,6 @@
 ---
 name: cockroachdb-security
-description: Security with CockroachDB. access control.
+description: "Security with CockroachDB. access control."
 category: database
 tags: [cockroachdb, security, database, sql]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: matplotlib-transformation
-description: Transformation with Matplotlib. transform.
+description: "Transformation with Matplotlib. transform."
 category: data
 tags: [matplotlib-transformation, data, russian]
 models: [sonnet, opus]

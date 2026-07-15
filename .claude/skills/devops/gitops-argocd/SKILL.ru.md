@@ -1,6 +1,6 @@
 ---
 name: gitops-argocd
-description: Implements GitOps approach for Kubernetes with ArgoCD, automatically syncing cluster state with Git.
+description: "Implements GitOps approach for Kubernetes with ArgoCD, automatically syncing cluster state with Git."
 category: devops
 tags: [gitops-argocd, devops, russian]
 models: [sonnet, opus]

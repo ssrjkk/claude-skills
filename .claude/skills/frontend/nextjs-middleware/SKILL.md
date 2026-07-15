@@ -1,6 +1,6 @@
 ---
 name: nextjs-middleware
-description: Middleware with Next.js. request middleware.
+description: "Middleware with Next.js. request middleware."
 category: frontend
 tags: [nextjs, middleware, frontend, meta-framework]
 models: [gpt-4, claude-3]

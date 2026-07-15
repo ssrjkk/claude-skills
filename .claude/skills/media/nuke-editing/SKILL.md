@@ -1,6 +1,6 @@
 ---
 name: nuke-editing
-description: Editing with Nuke. editing.
+description: "Editing with Nuke. editing."
 category: media
 tags: [nuke, editing, media, media-production]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: grafana-tracing
-description: Tracing with Grafana. distributed tracing.
+description: "Tracing with Grafana. distributed tracing."
 category: devops
 tags: [grafana, tracing, devops, monitoring]
 models: [gpt-4, claude-3]

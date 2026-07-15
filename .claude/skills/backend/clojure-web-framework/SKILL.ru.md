@@ -1,6 +1,6 @@
 ---
 name: clojure-web-framework
-description: Web Framework with Clojure. web dev.
+description: "Web Framework with Clojure. web dev."
 category: backend
 tags: [clojure-web-framework, backend, russian]
 models: [sonnet, opus]

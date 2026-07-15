@@ -1,6 +1,6 @@
 ---
 name: throttling-intro
-description: Introduction with Throttling. understanding the pattern.
+description: "Introduction with Throttling. understanding the pattern."
 category: backend
 tags: [throttling-intro, backend, russian]
 models: [sonnet, opus]

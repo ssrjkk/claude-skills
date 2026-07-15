@@ -1,6 +1,6 @@
 ---
 name: beego-deployment
-description: Deployment with Beego. build.
+description: "Deployment with Beego. build."
 category: backend
 tags: [beego, deployment, backend, backend]
 models: [gpt-4, claude-3]

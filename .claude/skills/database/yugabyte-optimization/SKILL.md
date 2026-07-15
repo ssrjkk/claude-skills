@@ -1,6 +1,6 @@
 ---
 name: yugabyte-optimization
-description: Optimization with YugabyteDB. query tuning.
+description: "Optimization with YugabyteDB. query tuning."
 category: database
 tags: [yugabyte, optimization, database, sql]
 models: [gpt-4, claude-3]

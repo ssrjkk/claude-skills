@@ -1,6 +1,6 @@
 ---
 name: animejs-quickstart
-description: Quickstart for Animejs: quick start guide
+description: "Quickstart for Animejs: quick start guide"
 category: design
 tags: [animejs, quickstart, design]
 models: [sonnet, opus]

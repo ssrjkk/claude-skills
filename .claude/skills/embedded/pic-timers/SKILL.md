@@ -1,6 +1,6 @@
 ---
 name: pic-timers
-description: Timers with PIC. timers.
+description: "Timers with PIC. timers."
 category: embedded
 tags: [pic, timers, embedded, embedded-arch]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: bdd-best-practices
-description: Best Practices with BDD. tips.
+description: "Best Practices with BDD. tips."
 category: engineering
 tags: [bdd-best-practices, engineering, russian]
 models: [sonnet, opus]

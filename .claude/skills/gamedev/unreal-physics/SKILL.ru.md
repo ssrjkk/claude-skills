@@ -1,6 +1,6 @@
 ---
 name: unreal-physics
-description: Physics with Unreal Engine. physics.
+description: "Physics with Unreal Engine. physics."
 category: gamedev
 tags: [unreal-physics, gamedev, russian]
 models: [sonnet, opus]

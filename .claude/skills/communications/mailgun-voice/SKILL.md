@@ -1,6 +1,6 @@
 ---
 name: mailgun-voice
-description: Voice with Mailgun. voice calls.
+description: "Voice with Mailgun. voice calls."
 category: communications
 tags: [mailgun, voice, communications, communication-platform]
 models: [gpt-4, claude-3]

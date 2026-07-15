@@ -1,6 +1,6 @@
 ---
 name: symfony-api
-description: API with Symfony. APIs.
+description: "API with Symfony. APIs."
 category: backend
 tags: [symfony-api, backend, russian]
 models: [sonnet, opus]

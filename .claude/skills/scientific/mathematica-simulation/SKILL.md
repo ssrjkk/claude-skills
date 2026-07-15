@@ -1,6 +1,6 @@
 ---
 name: mathematica-simulation
-description: Simulation with Mathematica. Monte Carlo.
+description: "Simulation with Mathematica. Monte Carlo."
 category: scientific
 tags: [mathematica, simulation, scientific, scientific-computing]
 models: [gpt-4, claude-3]

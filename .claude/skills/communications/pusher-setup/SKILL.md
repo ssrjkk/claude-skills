@@ -1,6 +1,6 @@
 ---
 name: pusher-setup
-description: Setup with Pusher. account setup.
+description: "Setup with Pusher. account setup."
 category: communications
 tags: [pusher, setup, communications, communication-platform]
 models: [gpt-4, claude-3]

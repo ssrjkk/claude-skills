@@ -1,6 +1,6 @@
 ---
 name: artillery
-description: Load tests APIs and applications with Artillery, supporting HTTP, WebSocket, and Socket.io.
+description: "Load tests APIs and applications with Artillery, supporting HTTP, WebSocket, and Socket.io."
 category: qa
 tags: [artillery, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mapbox-gl-integration
-description: Integration with Mapbox GL. integration.
+description: "Integration with Mapbox GL. integration."
 category: geospatial
 tags: [mapbox-gl-integration, geospatial, russian]
 models: [sonnet, opus]

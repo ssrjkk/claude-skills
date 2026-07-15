@@ -1,6 +1,6 @@
 ---
 name: iec61850-protocols
-description: Protocols with IEC 61850. communication.
+description: "Protocols with IEC 61850. communication."
 category: energy
 tags: [iec61850, protocols, energy, smart-grid]
 models: [gpt-4, claude-3]

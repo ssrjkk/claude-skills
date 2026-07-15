@@ -1,6 +1,6 @@
 ---
 name: magento-shipping
-description: Shipping with Magento. shipping.
+description: "Shipping with Magento. shipping."
 category: ecommerce
 tags: [magento-shipping, ecommerce, russian]
 models: [sonnet, opus]

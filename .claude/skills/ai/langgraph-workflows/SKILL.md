@@ -1,6 +1,6 @@
 ---
 name: langgraph-workflows
-description: LangGraph workflow orchestration
+description: "LangGraph workflow orchestration"
 category: ai
 tags: [langgraph, workflows, orchestration, pipeline, python]
 models: [sonnet, opus]

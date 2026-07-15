@@ -1,6 +1,6 @@
 ---
 name: amplify-shader-quickstart
-description: Quickstart for Amplify-Shader: quick start guide
+description: "Quickstart for Amplify-Shader: quick start guide"
 category: gamedev
 tags: [amplify-shader-quickstart, gamedev, russian]
 models: [sonnet, opus]

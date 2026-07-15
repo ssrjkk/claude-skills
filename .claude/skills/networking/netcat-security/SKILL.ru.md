@@ -1,6 +1,6 @@
 ---
 name: netcat-security
-description: Security with netcat. security testing.
+description: "Security with netcat. security testing."
 category: networking
 tags: [netcat-security, networking, russian]
 models: [sonnet, opus]

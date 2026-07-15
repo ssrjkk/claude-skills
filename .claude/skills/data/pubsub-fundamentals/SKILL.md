@@ -1,6 +1,6 @@
 ---
 name: pubsub-fundamentals
-description: Fundamentals for Pubsub: core concepts
+description: "Fundamentals for Pubsub: core concepts"
 category: data
 tags: [pubsub, fundamentals, data]
 models: [sonnet, opus]

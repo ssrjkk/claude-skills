@@ -1,6 +1,6 @@
 ---
 name: sqlite-advanced
-description: Advanced for Sqlite: advanced patterns and techniques
+description: "Advanced for Sqlite: advanced patterns and techniques"
 category: database
 tags: [sqlite, advanced, database]
 models: [sonnet, opus]

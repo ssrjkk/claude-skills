@@ -1,6 +1,6 @@
 ---
 name: bevy-audio
-description: Audio with Bevy. audio.
+description: "Audio with Bevy. audio."
 category: gamedev
 tags: [bevy, audio, gamedev, game-engine]
 models: [gpt-4, claude-3]

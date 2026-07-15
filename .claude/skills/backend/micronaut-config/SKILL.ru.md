@@ -1,6 +1,6 @@
 ---
 name: micronaut-config
-description: Config with Micronaut. configuration.
+description: "Config with Micronaut. configuration."
 category: backend
 tags: [micronaut-config, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: optuna-deployment
-description: Deployment with Optuna. model serving.
+description: "Deployment with Optuna. model serving."
 category: ai
 tags: [optuna-deployment, ai, russian]
 models: [sonnet, opus]

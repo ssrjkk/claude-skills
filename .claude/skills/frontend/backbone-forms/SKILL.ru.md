@@ -1,6 +1,6 @@
 ---
 name: backbone-forms
-description: Forms with Backbone. form handling.
+description: "Forms with Backbone. form handling."
 category: frontend
 tags: [backbone-forms, frontend, russian]
 models: [sonnet, opus]

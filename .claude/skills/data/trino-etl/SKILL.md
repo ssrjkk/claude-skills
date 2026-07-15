@@ -1,6 +1,6 @@
 ---
 name: trino-etl
-description: ETL with Trino. extract-transform-load.
+description: "ETL with Trino. extract-transform-load."
 category: data
 tags: [trino, etl, data, data-engineering]
 models: [gpt-4, claude-3]

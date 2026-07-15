@@ -1,6 +1,6 @@
 ---
 name: render-serverless
-description: Serverless with Render. functions.
+description: "Serverless with Render. functions."
 category: devops
 tags: [render, serverless, devops, cloud]
 models: [gpt-4, claude-3]

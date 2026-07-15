@@ -1,6 +1,6 @@
 ---
 name: kotlin-error-handling
-description: Error Handling with Kotlin. error management.
+description: "Error Handling with Kotlin. error management."
 category: backend
 tags: [kotlin, error-handling, backend, backend]
 models: [gpt-4, claude-3]

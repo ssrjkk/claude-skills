@@ -1,6 +1,6 @@
 ---
 name: tailwind-merge-usage
-description: Usage for Tailwind-Merge: usage guide
+description: "Usage for Tailwind-Merge: usage guide"
 category: frontend
 tags: [tailwind-merge, usage, frontend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cassandra-api
-description: API for Cassandra: API development and integration
+description: "API for Cassandra: API development and integration"
 category: database
 tags: [cassandra, api, database]
 models: [sonnet, opus]

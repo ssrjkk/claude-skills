@@ -1,6 +1,6 @@
 ---
 name: testcafe-mobile
-description: Mobile with TestCafe. mobile testing.
+description: "Mobile with TestCafe. mobile testing."
 category: qa
 tags: [testcafe, mobile, qa, e2e]
 models: [gpt-4, claude-3]

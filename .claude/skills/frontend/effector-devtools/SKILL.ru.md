@@ -1,6 +1,6 @@
 ---
 name: effector-devtools
-description: DevTools with Effector. debugging.
+description: "DevTools with Effector. debugging."
 category: frontend
 tags: [effector-devtools, frontend, russian]
 models: [sonnet, opus]

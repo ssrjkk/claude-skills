@@ -1,6 +1,6 @@
 ---
 name: a-b-testing-planning
-description: Planning with A/B Testing. study planning.
+description: "Planning with A/B Testing. study planning."
 category: design
 tags: [a-b-testing, planning, design, ux-research]
 models: [gpt-4, claude-3]

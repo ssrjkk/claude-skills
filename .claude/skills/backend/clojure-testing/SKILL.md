@@ -1,6 +1,6 @@
 ---
 name: clojure-testing
-description: Testing with Clojure. writing tests.
+description: "Testing with Clojure. writing tests."
 category: backend
 tags: [clojure, testing, backend, backend]
 models: [gpt-4, claude-3]

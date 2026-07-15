@@ -1,6 +1,6 @@
 ---
 name: iis-monitoring
-description: Monitoring with IIS. monitoring.
+description: "Monitoring with IIS. monitoring."
 category: os-admin
 tags: [iis-monitoring, os-admin, russian]
 models: [sonnet, opus]

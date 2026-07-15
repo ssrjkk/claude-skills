@@ -1,6 +1,6 @@
 ---
 name: minitest-fixtures
-description: Fixtures with Minitest. test fixtures.
+description: "Fixtures with Minitest. test fixtures."
 category: qa
 tags: [minitest, fixtures, qa, testing]
 models: [gpt-4, claude-3]

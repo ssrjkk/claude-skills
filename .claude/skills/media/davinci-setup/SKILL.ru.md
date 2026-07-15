@@ -1,6 +1,6 @@
 ---
 name: davinci-setup
-description: Setup with DaVinci Resolve. setup.
+description: "Setup with DaVinci Resolve. setup."
 category: media
 tags: [davinci-setup, media, russian]
 models: [sonnet, opus]

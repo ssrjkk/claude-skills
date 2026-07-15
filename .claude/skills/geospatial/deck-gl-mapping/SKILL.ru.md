@@ -1,6 +1,6 @@
 ---
 name: deck-gl-mapping
-description: Mapping with Deck.gl. mapping.
+description: "Mapping with Deck.gl. mapping."
 category: geospatial
 tags: [deck-gl-mapping, geospatial, russian]
 models: [sonnet, opus]

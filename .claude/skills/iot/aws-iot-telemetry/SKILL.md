@@ -1,6 +1,6 @@
 ---
 name: aws-iot-telemetry
-description: Telemetry with AWS IoT. data collection.
+description: "Telemetry with AWS IoT. data collection."
 category: iot
 tags: [aws-iot, telemetry, iot, iot-platform]
 models: [gpt-4, claude-3]

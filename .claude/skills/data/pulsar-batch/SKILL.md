@@ -1,6 +1,6 @@
 ---
 name: pulsar-batch
-description: Batch with Pulsar. batch processing.
+description: "Batch with Pulsar. batch processing."
 category: data
 tags: [pulsar, batch, data, data-engineering]
 models: [gpt-4, claude-3]

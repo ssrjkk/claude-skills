@@ -1,6 +1,6 @@
 ---
 name: auto-sklearn-pipeline
-description: Pipeline with Auto Sklearn. ML pipelines.
+description: "Pipeline with Auto Sklearn. ML pipelines."
 category: ai
 tags: [auto-sklearn, pipeline, ai, ml]
 models: [gpt-4, claude-3]

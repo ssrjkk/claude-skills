@@ -1,6 +1,6 @@
 ---
 name: wazuh-production
-description: Production for Wazuh: production deployment
+description: "Production for Wazuh: production deployment"
 category: security
 tags: [wazuh, production, security]
 models: [sonnet, opus]

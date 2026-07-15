@@ -1,6 +1,6 @@
 ---
 name: prioritization-tools
-description: Tools with Prioritization. tools.
+description: "Tools with Prioritization. tools."
 category: product
 tags: [prioritization-tools, product, russian]
 models: [sonnet, opus]

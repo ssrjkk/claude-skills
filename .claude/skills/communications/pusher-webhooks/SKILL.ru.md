@@ -1,6 +1,6 @@
 ---
 name: pusher-webhooks
-description: Webhooks with Pusher. webhooks.
+description: "Webhooks with Pusher. webhooks."
 category: communications
 tags: [pusher-webhooks, communications, russian]
 models: [sonnet, opus]

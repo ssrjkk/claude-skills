@@ -1,6 +1,6 @@
 ---
 name: eslint-plugins
-description: Plugins with ESLint. plugins.
+description: "Plugins with ESLint. plugins."
 category: frontend
 tags: [eslint-plugins, frontend, russian]
 models: [sonnet, opus]

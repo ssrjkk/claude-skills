@@ -1,6 +1,6 @@
 ---
 name: recurly-setup
-description: Setup with Recurly. account setup.
+description: "Setup with Recurly. account setup."
 category: payments
 tags: [recurly-setup, payments, russian]
 models: [sonnet, opus]

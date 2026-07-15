@@ -1,6 +1,6 @@
 ---
 name: nat-automation
-description: Automation with NAT. network automation.
+description: "Automation with NAT. network automation."
 category: networking
 tags: [nat-automation, networking, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: testng-ci
-description: CI with TestNG. CI integration.
+description: "CI with TestNG. CI integration."
 category: qa
 tags: [testng, ci, qa, testing]
 models: [gpt-4, claude-3]

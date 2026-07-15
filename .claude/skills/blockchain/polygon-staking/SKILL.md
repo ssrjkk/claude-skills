@@ -1,6 +1,6 @@
 ---
 name: polygon-staking
-description: Staking with Polygon. staking.
+description: "Staking with Polygon. staking."
 category: blockchain
 tags: [polygon, staking, blockchain, blockchain]
 models: [gpt-4, claude-3]

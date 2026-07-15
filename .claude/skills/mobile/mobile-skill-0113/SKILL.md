@@ -1,6 +1,6 @@
 ---
 name: mobile-skill-0113
-description: mobile specialized skill #0113 for mobile development
+description: "mobile specialized skill #0113 for mobile development"
 category: mobile
 tags: [mobile, skill, 0113]
 models: [sonnet, opus]

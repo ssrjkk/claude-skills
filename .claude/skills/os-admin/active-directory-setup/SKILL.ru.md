@@ -1,6 +1,6 @@
 ---
 name: active-directory-setup
-description: Setup with Active Directory. installation.
+description: "Setup with Active Directory. installation."
 category: os-admin
 tags: [active-directory-setup, os-admin, russian]
 models: [sonnet, opus]

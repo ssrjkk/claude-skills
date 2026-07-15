@@ -1,6 +1,6 @@
 ---
 name: labs-setup
-description: Setup with LIS. implementation.
+description: "Setup with LIS. implementation."
 category: healthcare
 tags: [labs, setup, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

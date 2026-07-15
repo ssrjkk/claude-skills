@@ -1,6 +1,6 @@
 ---
 name: dynamodb-debugging
-description: Debugging for Dynamodb: debugging and troubleshooting
+description: "Debugging for Dynamodb: debugging and troubleshooting"
 category: database
 tags: [dynamodb, debugging, database]
 models: [sonnet, opus]

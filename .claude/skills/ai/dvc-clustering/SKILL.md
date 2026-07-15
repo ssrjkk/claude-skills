@@ -1,6 +1,6 @@
 ---
 name: dvc-clustering
-description: Clustering with Dvc. grouping data.
+description: "Clustering with Dvc. grouping data."
 category: ai
 tags: [dvc, clustering, ai, ml]
 models: [gpt-4, claude-3]

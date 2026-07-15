@@ -1,6 +1,6 @@
 ---
 name: flaml-monitoring
-description: Monitoring with Flaml. model monitoring.
+description: "Monitoring with Flaml. model monitoring."
 category: ai
 tags: [flaml, monitoring, ai, ml]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: onnx-quickstart
-description: Quickstart for Onnx: quick start guide
+description: "Quickstart for Onnx: quick start guide"
 category: ai
 tags: [onnx, quickstart, ai]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: swift-api
-description: API for Swift: API development and integration
+description: "API for Swift: API development and integration"
 category: mobile
 tags: [swift-api, mobile, russian]
 models: [sonnet, opus]

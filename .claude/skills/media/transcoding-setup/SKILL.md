@@ -1,6 +1,6 @@
 ---
 name: transcoding-setup
-description: Setup with Transcoding. setup.
+description: "Setup with Transcoding. setup."
 category: media
 tags: [transcoding, setup, media, media-streaming]
 models: [gpt-4, claude-3]

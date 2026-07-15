@@ -1,6 +1,6 @@
 ---
 name: adyen-reporting
-description: Reporting with Adyen. reports.
+description: "Reporting with Adyen. reports."
 category: payments
 tags: [adyen-reporting, payments, russian]
 models: [sonnet, opus]

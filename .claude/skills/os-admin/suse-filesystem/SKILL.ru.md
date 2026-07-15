@@ -1,6 +1,6 @@
 ---
 name: suse-filesystem
-description: Filesystem with SUSE. filesystem.
+description: "Filesystem with SUSE. filesystem."
 category: os-admin
 tags: [suse-filesystem, os-admin, russian]
 models: [sonnet, opus]

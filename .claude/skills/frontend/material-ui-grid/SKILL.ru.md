@@ -1,6 +1,6 @@
 ---
 name: material-ui-grid
-description: Grid with MUI. layout grids.
+description: "Grid with MUI. layout grids."
 category: frontend
 tags: [material-ui-grid, frontend, russian]
 models: [sonnet, opus]

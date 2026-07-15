@@ -1,6 +1,6 @@
 ---
 name: capacitor-state
-description: State with Capacitor. state management.
+description: "State with Capacitor. state management."
 category: mobile
 tags: [capacitor-state, mobile, russian]
 models: [sonnet, opus]

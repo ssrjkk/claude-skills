@@ -1,6 +1,6 @@
 ---
 name: indeed-offers
-description: Offers with Indeed. offer mgmt.
+description: "Offers with Indeed. offer mgmt."
 category: hr
 tags: [indeed-offers, hr, russian]
 models: [sonnet, opus]

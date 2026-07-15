@@ -1,6 +1,6 @@
 ---
 name: huggingface-deployment
-description: Deployment for Huggingface: deployment and release
+description: "Deployment for Huggingface: deployment and release"
 category: ai
 tags: [huggingface, deployment, ai]
 models: [sonnet, opus]

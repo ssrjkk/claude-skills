@@ -1,6 +1,6 @@
 ---
 name: tailwind-components
-description: Components with Tailwind CSS. UI components.
+description: "Components with Tailwind CSS. UI components."
 category: frontend
 tags: [tailwind-components, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: neo4j-deployment
-description: Deployment for Neo4J: deployment and release
+description: "Deployment for Neo4J: deployment and release"
 category: database
 tags: [neo4j-deployment, database, russian]
 models: [sonnet, opus]

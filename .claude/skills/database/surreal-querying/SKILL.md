@@ -1,6 +1,6 @@
 ---
 name: surreal-querying
-description: Querying with SurrealDB. queries.
+description: "Querying with SurrealDB. queries."
 category: database
 tags: [surreal, querying, database, nosql]
 models: [gpt-4, claude-3]

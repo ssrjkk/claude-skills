@@ -1,6 +1,6 @@
 ---
 name: stripe-billing-analytics
-description: Analytics with Stripe Billing. revenue analytics.
+description: "Analytics with Stripe Billing. revenue analytics."
 category: payments
 tags: [stripe-billing, analytics, payments, billing]
 models: [gpt-4, claude-3]

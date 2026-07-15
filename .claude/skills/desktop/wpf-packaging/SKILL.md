@@ -1,6 +1,6 @@
 ---
 name: wpf-packaging
-description: Packaging with WPF. app packaging.
+description: "Packaging with WPF. app packaging."
 category: desktop
 tags: [wpf, packaging, desktop, desktop]
 models: [gpt-4, claude-3]

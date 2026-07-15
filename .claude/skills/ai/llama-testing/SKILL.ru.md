@@ -1,6 +1,6 @@
 ---
 name: llama-testing
-description: Testing for Llama: testing and validation
+description: "Testing for Llama: testing and validation"
 category: ai
 tags: [llama-testing, ai, russian]
 models: [sonnet, opus]

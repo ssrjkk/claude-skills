@@ -1,6 +1,6 @@
 ---
 name: bun-setup
-description: Setup for Bun: setup guide
+description: "Setup for Bun: setup guide"
 category: backend
 tags: [bun-setup, backend, russian]
 models: [sonnet, opus]

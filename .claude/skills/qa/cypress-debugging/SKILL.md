@@ -1,6 +1,6 @@
 ---
 name: cypress-debugging
-description: Debugging for Cypress: debugging and troubleshooting
+description: "Debugging for Cypress: debugging and troubleshooting"
 category: qa
 tags: [cypress, debugging, qa]
 models: [sonnet, opus]

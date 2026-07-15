@@ -1,6 +1,6 @@
 ---
 name: astro-isr
-description: ISR with Astro. incremental.
+description: "ISR with Astro. incremental."
 category: frontend
 tags: [astro-isr, frontend, russian]
 models: [sonnet, opus]

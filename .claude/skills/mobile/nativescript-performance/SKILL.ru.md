@@ -1,6 +1,6 @@
 ---
 name: nativescript-performance
-description: Performance with NativeScript. optimization.
+description: "Performance with NativeScript. optimization."
 category: mobile
 tags: [nativescript-performance, mobile, russian]
 models: [sonnet, opus]

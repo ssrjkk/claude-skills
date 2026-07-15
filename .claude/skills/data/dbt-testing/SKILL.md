@@ -1,6 +1,6 @@
 ---
 name: dbt-testing
-description: Testing for Dbt: testing and validation
+description: "Testing for Dbt: testing and validation"
 category: data
 tags: [dbt, testing, data]
 models: [sonnet, opus]

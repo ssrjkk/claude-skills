@@ -1,6 +1,6 @@
 ---
 name: frankenphp-intro
-description: Intro for Frankenphp: introduction
+description: "Intro for Frankenphp: introduction"
 category: backend
 tags: [frankenphp-intro, backend, russian]
 models: [sonnet, opus]

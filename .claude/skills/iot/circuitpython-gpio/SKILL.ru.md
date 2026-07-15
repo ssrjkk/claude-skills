@@ -1,6 +1,6 @@
 ---
 name: circuitpython-gpio
-description: GPIO with CircuitPython. digital I/O.
+description: "GPIO with CircuitPython. digital I/O."
 category: iot
 tags: [circuitpython-gpio, iot, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: plan-execute-intro
-description: Intro for Plan-Execute: introduction
+description: "Intro for Plan-Execute: introduction"
 category: ai
 tags: [plan-execute, intro, ai]
 models: [sonnet, opus]

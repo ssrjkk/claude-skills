@@ -1,6 +1,6 @@
 ---
 name: ruby-error-handling
-description: Error Handling with Ruby. error management.
+description: "Error Handling with Ruby. error management."
 category: backend
 tags: [ruby-error-handling, backend, russian]
 models: [sonnet, opus]

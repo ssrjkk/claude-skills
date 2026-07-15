@@ -1,6 +1,6 @@
 ---
 name: earthly-deployment
-description: Deployment with Earthly. auto-deploy.
+description: "Deployment with Earthly. auto-deploy."
 category: devops
 tags: [earthly, deployment, devops, ci-cd]
 models: [gpt-4, claude-3]

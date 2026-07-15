@@ -1,6 +1,6 @@
 ---
 name: mobx-actions
-description: Actions with MobX. actions.
+description: "Actions with MobX. actions."
 category: frontend
 tags: [mobx, actions, frontend, state-management]
 models: [gpt-4, claude-3]

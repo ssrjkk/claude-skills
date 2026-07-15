@@ -1,6 +1,6 @@
 ---
 name: astro-api-routes
-description: API Routes with Astro. API endpoints.
+description: "API Routes with Astro. API endpoints."
 category: frontend
 tags: [astro-api-routes, frontend, russian]
 models: [sonnet, opus]

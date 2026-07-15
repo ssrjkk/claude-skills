@@ -1,6 +1,6 @@
 ---
 name: cloudformation-state
-description: State with CloudFormation. state management.
+description: "State with CloudFormation. state management."
 category: devops
 tags: [cloudformation, state, devops, iac]
 models: [gpt-4, claude-3]

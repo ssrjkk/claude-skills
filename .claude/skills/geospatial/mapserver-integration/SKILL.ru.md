@@ -1,6 +1,6 @@
 ---
 name: mapserver-integration
-description: Integration with MapServer. integration.
+description: "Integration with MapServer. integration."
 category: geospatial
 tags: [mapserver-integration, geospatial, russian]
 models: [sonnet, opus]

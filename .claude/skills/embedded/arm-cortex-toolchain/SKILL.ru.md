@@ -1,6 +1,6 @@
 ---
 name: arm-cortex-toolchain
-description: Toolchain with ARM Cortex-M. compiler.
+description: "Toolchain with ARM Cortex-M. compiler."
 category: embedded
 tags: [arm-cortex-toolchain, embedded, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: echo-middleware
-description: Middleware with Echo. request pipeline.
+description: "Middleware with Echo. request pipeline."
 category: backend
 tags: [echo, middleware, backend, backend]
 models: [gpt-4, claude-3]

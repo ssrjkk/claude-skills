@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-indexing
-description: Indexing with Elasticsearch. document indexing.
+description: "Indexing with Elasticsearch. document indexing."
 category: database
 tags: [elasticsearch-indexing, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kotlin-multiplatform-deployment
-description: Deployment with Kotlin Multiplatform. app store.
+description: "Deployment with Kotlin Multiplatform. app store."
 category: mobile
 tags: [kotlin-multiplatform, deployment, mobile, mobile]
 models: [gpt-4, claude-3]

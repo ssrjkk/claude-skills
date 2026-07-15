@@ -1,6 +1,6 @@
 ---
 name: cuba-database
-description: Database with Cuba. ActiveRecord.
+description: "Database with Cuba. ActiveRecord."
 category: backend
 tags: [cuba-database, backend, russian]
 models: [sonnet, opus]

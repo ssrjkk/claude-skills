@@ -1,6 +1,6 @@
 ---
 name: bash-packages
-description: Packages with Bash Scripting. package management.
+description: "Packages with Bash Scripting. package management."
 category: os-admin
 tags: [bash-packages, os-admin, russian]
 models: [sonnet, opus]

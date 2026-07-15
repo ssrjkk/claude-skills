@@ -1,6 +1,6 @@
 ---
 name: apache-spark-integration
-description: Integration with Apache Spark. connectors.
+description: "Integration with Apache Spark. connectors."
 category: data
 tags: [apache-spark, integration, data, data-engineering]
 models: [gpt-4, claude-3]

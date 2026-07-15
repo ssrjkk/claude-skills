@@ -1,6 +1,6 @@
 ---
 name: opentofu-testing
-description: Testing with OpenTofu. infra testing.
+description: "Testing with OpenTofu. infra testing."
 category: devops
 tags: [opentofu, testing, devops, iac]
 models: [gpt-4, claude-3]

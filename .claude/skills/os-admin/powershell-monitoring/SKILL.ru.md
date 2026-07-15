@@ -1,6 +1,6 @@
 ---
 name: powershell-monitoring
-description: Monitoring with PowerShell. monitoring.
+description: "Monitoring with PowerShell. monitoring."
 category: os-admin
 tags: [powershell-monitoring, os-admin, russian]
 models: [sonnet, opus]

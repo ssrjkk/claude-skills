@@ -1,6 +1,6 @@
 ---
 name: cypress-cloud-workflow
-description: Workflow for Cypress-Cloud: workflow optimization
+description: "Workflow for Cypress-Cloud: workflow optimization"
 category: qa
 tags: [cypress-cloud, workflow, qa]
 models: [sonnet, opus]

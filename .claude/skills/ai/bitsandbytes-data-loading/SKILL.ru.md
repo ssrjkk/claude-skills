@@ -1,6 +1,6 @@
 ---
 name: bitsandbytes-data-loading
-description: Data Loading with Bitsandbytes. data pipelines.
+description: "Data Loading with Bitsandbytes. data pipelines."
 category: ai
 tags: [bitsandbytes-data-loading, ai, russian]
 models: [sonnet, opus]

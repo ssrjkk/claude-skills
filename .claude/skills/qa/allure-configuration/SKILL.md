@@ -1,6 +1,6 @@
 ---
 name: allure-configuration
-description: Configuration for Allure: configuration and setup
+description: "Configuration for Allure: configuration and setup"
 category: qa
 tags: [allure, configuration, qa]
 models: [sonnet, opus]

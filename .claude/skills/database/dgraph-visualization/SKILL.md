@@ -1,6 +1,6 @@
 ---
 name: dgraph-visualization
-description: Visualization with Dgraph. graph viz.
+description: "Visualization with Dgraph. graph viz."
 category: database
 tags: [dgraph, visualization, database, graph-database]
 models: [gpt-4, claude-3]

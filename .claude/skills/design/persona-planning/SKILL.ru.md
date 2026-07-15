@@ -1,6 +1,6 @@
 ---
 name: persona-planning
-description: Planning with Personas. study planning.
+description: "Planning with Personas. study planning."
 category: design
 tags: [persona-planning, design, russian]
 models: [sonnet, opus]

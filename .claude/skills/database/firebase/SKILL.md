@@ -1,6 +1,6 @@
 ---
 name: firebase
-description: Builds serverless applications with Firebase, including Firestore, Auth, Cloud Functions, and Realtime Database.
+description: "Builds serverless applications with Firebase, including Firestore, Auth, Cloud Functions, and Realtime Database."
 category: database
 tags: [firebase, google, serverless, realtime, auth]
 models: [sonnet, opus]

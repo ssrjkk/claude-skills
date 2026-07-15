@@ -1,6 +1,6 @@
 ---
 name: testng-mocking
-description: Mocking with TestNG. mocks.
+description: "Mocking with TestNG. mocks."
 category: qa
 tags: [testng-mocking, qa, russian]
 models: [sonnet, opus]

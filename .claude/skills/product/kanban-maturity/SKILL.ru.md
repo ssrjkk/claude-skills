@@ -1,6 +1,6 @@
 ---
 name: kanban-maturity
-description: Maturity with Kanban. assessment.
+description: "Maturity with Kanban. assessment."
 category: product
 tags: [kanban-maturity, product, russian]
 models: [sonnet, opus]

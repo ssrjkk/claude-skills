@@ -1,6 +1,6 @@
 ---
 name: openshift-storage
-description: Storage with OpenShift. persistent storage.
+description: "Storage with OpenShift. persistent storage."
 category: devops
 tags: [openshift-storage, devops, russian]
 models: [sonnet, opus]

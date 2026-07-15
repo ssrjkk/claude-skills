@@ -1,6 +1,6 @@
 ---
 name: laminas-middleware
-description: Middleware with Laminas. pipeline.
+description: "Middleware with Laminas. pipeline."
 category: backend
 tags: [laminas, middleware, backend, backend]
 models: [gpt-4, claude-3]

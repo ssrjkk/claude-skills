@@ -1,6 +1,6 @@
 ---
 name: pulsar-quickstart
-description: Quickstart for Pulsar: quick start guide
+description: "Quickstart for Pulsar: quick start guide"
 category: data
 tags: [pulsar, quickstart, data]
 models: [sonnet, opus]

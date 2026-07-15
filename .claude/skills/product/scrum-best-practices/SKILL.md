@@ -1,6 +1,6 @@
 ---
 name: scrum-best-practices
-description: Best Practices with Scrum. practices.
+description: "Best Practices with Scrum. practices."
 category: product
 tags: [scrum, best-practices, product, methodology]
 models: [gpt-4, claude-3]

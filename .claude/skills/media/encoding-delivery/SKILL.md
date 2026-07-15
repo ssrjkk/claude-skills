@@ -1,6 +1,6 @@
 ---
 name: encoding-delivery
-description: Delivery with Encoding. delivery.
+description: "Delivery with Encoding. delivery."
 category: media
 tags: [encoding, delivery, media, media-streaming]
 models: [gpt-4, claude-3]

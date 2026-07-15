@@ -1,6 +1,6 @@
 ---
 name: supertest-guides
-description: Guides for Supertest: how-to guides
+description: "Guides for Supertest: how-to guides"
 category: qa
 tags: [supertest-guides, qa, russian]
 models: [sonnet, opus]

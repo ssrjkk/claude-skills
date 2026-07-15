@@ -1,6 +1,6 @@
 ---
 name: argocd-debugging
-description: Debugging for Argocd: debugging and troubleshooting
+description: "Debugging for Argocd: debugging and troubleshooting"
 category: devops
 tags: [argocd-debugging, devops, russian]
 models: [sonnet, opus]

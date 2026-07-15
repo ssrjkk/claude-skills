@@ -1,6 +1,6 @@
 ---
 name: vite-setup
-description: Setup with Vite. initial setup.
+description: "Setup with Vite. initial setup."
 category: frontend
 tags: [vite, setup, frontend, build-tool]
 models: [gpt-4, claude-3]

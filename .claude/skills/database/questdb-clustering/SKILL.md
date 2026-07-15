@@ -1,6 +1,6 @@
 ---
 name: questdb-clustering
-description: Clustering with QuestDB. clustering.
+description: "Clustering with QuestDB. clustering."
 category: database
 tags: [questdb, clustering, database, time-series]
 models: [gpt-4, claude-3]

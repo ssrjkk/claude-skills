@@ -1,6 +1,6 @@
 ---
 name: esg-tools
-description: Tools with ESG. tools.
+description: "Tools with ESG. tools."
 category: sustainability
 tags: [esg-tools, sustainability, russian]
 models: [sonnet, opus]

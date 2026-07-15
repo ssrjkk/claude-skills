@@ -1,6 +1,6 @@
 ---
 name: effector-optimization
-description: Optimization with Effector. performance.
+description: "Optimization with Effector. performance."
 category: frontend
 tags: [effector, optimization, frontend, state-management]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: sqlserver-indexing
-description: Indexing with SQL Server. indexes.
+description: "Indexing with SQL Server. indexes."
 category: database
 tags: [sqlserver-indexing, database, russian]
 models: [sonnet, opus]

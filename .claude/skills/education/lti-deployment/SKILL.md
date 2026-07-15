@@ -1,6 +1,6 @@
 ---
 name: lti-deployment
-description: Deployment with LTI. deployment.
+description: "Deployment with LTI. deployment."
 category: education
 tags: [lti, deployment, education, education-standard]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: echo-templating
-description: Templating with Echo. HTML templates.
+description: "Templating with Echo. HTML templates."
 category: backend
 tags: [echo, templating, backend, backend]
 models: [gpt-4, claude-3]

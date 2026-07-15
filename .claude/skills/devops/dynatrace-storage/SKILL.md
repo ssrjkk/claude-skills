@@ -1,6 +1,6 @@
 ---
 name: dynatrace-storage
-description: Storage with Dynatrace. data retention.
+description: "Storage with Dynatrace. data retention."
 category: devops
 tags: [dynatrace, storage, devops, monitoring]
 models: [gpt-4, claude-3]

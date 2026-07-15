@@ -1,6 +1,6 @@
 ---
 name: gitlab-ci-setup
-description: Setup with GitLab CI. pipeline setup.
+description: "Setup with GitLab CI. pipeline setup."
 category: devops
 tags: [gitlab-ci, setup, devops, ci-cd]
 models: [gpt-4, claude-3]

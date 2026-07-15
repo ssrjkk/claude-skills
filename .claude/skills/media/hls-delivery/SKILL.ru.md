@@ -1,6 +1,6 @@
 ---
 name: hls-delivery
-description: Delivery with HLS. delivery.
+description: "Delivery with HLS. delivery."
 category: media
 tags: [hls-delivery, media, russian]
 models: [sonnet, opus]

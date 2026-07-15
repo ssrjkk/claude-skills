@@ -1,6 +1,6 @@
 ---
 name: skill-0066
-description: Specialized skill #0066 for database development
+description: "Specialized skill #0066 for database development"
 category: database
 tags: [database, skill, 0066]
 models: [sonnet, opus]

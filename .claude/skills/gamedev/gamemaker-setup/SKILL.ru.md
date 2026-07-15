@@ -1,6 +1,6 @@
 ---
 name: gamemaker-setup
-description: Setup for Gamemaker: installation and configuration
+description: "Setup for Gamemaker: installation and configuration"
 category: gamedev
 tags: [gamemaker-setup, gamedev, russian]
 models: [sonnet, opus]

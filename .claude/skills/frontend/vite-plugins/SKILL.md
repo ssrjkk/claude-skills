@@ -1,6 +1,6 @@
 ---
 name: vite-plugins
-description: Plugins with Vite. plugins.
+description: "Plugins with Vite. plugins."
 category: frontend
 tags: [vite, plugins, frontend, build-tool]
 models: [gpt-4, claude-3]

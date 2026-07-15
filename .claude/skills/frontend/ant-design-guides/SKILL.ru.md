@@ -1,6 +1,6 @@
 ---
 name: ant-design-guides
-description: Guides for Ant-Design: how-to guides
+description: "Guides for Ant-Design: how-to guides"
 category: frontend
 tags: [ant-design-guides, frontend, russian]
 models: [sonnet, opus]

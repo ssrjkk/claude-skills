@@ -1,6 +1,6 @@
 ---
 name: circuit-breaker-migration
-description: Migration with Circuit Breaker. adopting the pattern.
+description: "Migration with Circuit Breaker. adopting the pattern."
 category: backend
 tags: [circuit-breaker-migration, backend, russian]
 models: [sonnet, opus]

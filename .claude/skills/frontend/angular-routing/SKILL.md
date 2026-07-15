@@ -1,6 +1,6 @@
 ---
 name: angular-routing
-description: Routing with Angular. client routing.
+description: "Routing with Angular. client routing."
 category: frontend
 tags: [angular, routing, frontend, frontend]
 models: [gpt-4, claude-3]

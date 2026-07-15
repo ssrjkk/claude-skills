@@ -1,6 +1,6 @@
 ---
 name: bash-automation
-description: Automation with Bash Scripting. scripting.
+description: "Automation with Bash Scripting. scripting."
 category: os-admin
 tags: [bash, automation, os-admin, linux]
 models: [gpt-4, claude-3]

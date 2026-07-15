@@ -1,6 +1,6 @@
 ---
 name: gtk-events
-description: Events with GTK. event handling.
+description: "Events with GTK. event handling."
 category: desktop
 tags: [gtk, events, desktop, desktop]
 models: [gpt-4, claude-3]

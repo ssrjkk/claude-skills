@@ -1,6 +1,6 @@
 ---
 name: salvo-websocket
-description: WebSocket with Salvo. real-time.
+description: "WebSocket with Salvo. real-time."
 category: backend
 tags: [salvo, websocket, backend, backend]
 models: [gpt-4, claude-3]

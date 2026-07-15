@@ -1,6 +1,6 @@
 ---
 name: falco-testing
-description: Testing for Falco: testing and validation
+description: "Testing for Falco: testing and validation"
 category: security
 tags: [falco, testing, security]
 models: [sonnet, opus]

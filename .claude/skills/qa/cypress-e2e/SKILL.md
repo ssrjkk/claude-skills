@@ -1,6 +1,6 @@
 ---
 name: cypress-e2e
-description: Creates E2E tests with Cypress for modern web applications. Use for fast testing with debugging.
+description: "Creates E2E tests with Cypress for modern web applications. Use for fast testing with debugging."
 category: qa
 tags: [cypress, e2e, testing, javascript, typescript]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: lti-testing
-description: Testing with LTI. testing.
+description: "Testing with LTI. testing."
 category: education
 tags: [lti, testing, education, education-standard]
 models: [gpt-4, claude-3]

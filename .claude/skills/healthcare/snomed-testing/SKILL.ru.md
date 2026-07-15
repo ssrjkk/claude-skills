@@ -1,6 +1,6 @@
 ---
 name: snomed-testing
-description: Testing with SNOMED CT. testing.
+description: "Testing with SNOMED CT. testing."
 category: healthcare
 tags: [snomed-testing, healthcare, russian]
 models: [sonnet, opus]

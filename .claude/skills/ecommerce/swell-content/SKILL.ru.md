@@ -1,6 +1,6 @@
 ---
 name: swell-content
-description: Content with Swell. content management.
+description: "Content with Swell. content management."
 category: ecommerce
 tags: [swell-content, ecommerce, russian]
 models: [sonnet, opus]

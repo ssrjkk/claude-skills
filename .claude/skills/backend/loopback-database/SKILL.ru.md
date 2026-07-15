@@ -1,6 +1,6 @@
 ---
 name: loopback-database
-description: Database with LoopBack. ORM.
+description: "Database with LoopBack. ORM."
 category: backend
 tags: [loopback-database, backend, russian]
 models: [sonnet, opus]

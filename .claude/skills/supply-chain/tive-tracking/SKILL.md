@@ -1,6 +1,6 @@
 ---
 name: tive-tracking
-description: Tracking with Tive. tracking.
+description: "Tracking with Tive. tracking."
 category: supply-chain
 tags: [tive, tracking, supply-chain, logistics]
 models: [gpt-4, claude-3]

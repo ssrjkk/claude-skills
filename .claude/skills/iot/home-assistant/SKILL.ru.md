@@ -1,6 +1,6 @@
 ---
 name: home-assistant
-description: Automates smart home devices with Home Assistant, integrations, automations, and custom dashboards.
+description: "Automates smart home devices with Home Assistant, integrations, automations, and custom dashboards."
 category: iot
 tags: [home-assistant, iot, russian]
 models: [sonnet, opus]

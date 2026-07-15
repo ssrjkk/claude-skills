@@ -1,6 +1,6 @@
 ---
 name: skill-0189
-description: Specialized skill #0189 for data development
+description: "Specialized skill #0189 for data development"
 category: data
 tags: [skill-0189, data, russian]
 models: [sonnet, opus]

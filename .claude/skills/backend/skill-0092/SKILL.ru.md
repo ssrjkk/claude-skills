@@ -1,6 +1,6 @@
 ---
 name: skill-0092
-description: Specialized skill #0092 for backend development
+description: "Specialized skill #0092 for backend development"
 category: backend
 tags: [skill-0092, backend, russian]
 models: [sonnet, opus]

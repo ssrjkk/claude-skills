@@ -1,6 +1,6 @@
 ---
 name: testcafe-actions
-description: Actions with TestCafe. user actions.
+description: "Actions with TestCafe. user actions."
 category: qa
 tags: [testcafe-actions, qa, russian]
 models: [sonnet, opus]

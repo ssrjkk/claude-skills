@@ -1,6 +1,6 @@
 ---
 name: dragonfly-quickstart
-description: Quickstart for Dragonfly: quick start guide
+description: "Quickstart for Dragonfly: quick start guide"
 category: database
 tags: [dragonfly-quickstart, database, russian]
 models: [sonnet, opus]

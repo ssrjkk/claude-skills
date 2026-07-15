@@ -1,6 +1,6 @@
 ---
 name: chainer-distributed
-description: Distributed with Chainer. distributed training.
+description: "Distributed with Chainer. distributed training."
 category: ai
 tags: [chainer-distributed, ai, russian]
 models: [sonnet, opus]

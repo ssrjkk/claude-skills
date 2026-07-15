@@ -1,6 +1,6 @@
 ---
 name: gamemaker-deployment
-description: Deployment for Gamemaker: deployment and release
+description: "Deployment for Gamemaker: deployment and release"
 category: gamedev
 tags: [gamemaker, deployment, gamedev]
 models: [sonnet, opus]

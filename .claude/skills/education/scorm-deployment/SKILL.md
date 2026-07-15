@@ -1,6 +1,6 @@
 ---
 name: scorm-deployment
-description: Deployment with SCORM. deployment.
+description: "Deployment with SCORM. deployment."
 category: education
 tags: [scorm, deployment, education, education-standard]
 models: [gpt-4, claude-3]

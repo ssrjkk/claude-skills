@@ -1,6 +1,6 @@
 ---
 name: albumentations-image-filtering
-description: Image Filtering with Albumentations. image filters.
+description: "Image Filtering with Albumentations. image filters."
 category: ai
 tags: [albumentations-image-filtering, ai, russian]
 models: [sonnet, opus]

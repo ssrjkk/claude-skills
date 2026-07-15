@@ -1,6 +1,6 @@
 ---
 name: neo4j-schema
-description: Schema Design with Neo4j. schema design.
+description: "Schema Design with Neo4j. schema design."
 category: database
 tags: [neo4j-schema, database, russian]
 models: [sonnet, opus]

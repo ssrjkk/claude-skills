@@ -1,6 +1,6 @@
 ---
 name: cdk-testing
-description: Testing with AWS CDK. infra testing.
+description: "Testing with AWS CDK. infra testing."
 category: devops
 tags: [cdk, testing, devops, iac]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: alpine-users
-description: Users with Alpine Linux. user management.
+description: "Users with Alpine Linux. user management."
 category: os-admin
 tags: [alpine-users, os-admin, russian]
 models: [sonnet, opus]

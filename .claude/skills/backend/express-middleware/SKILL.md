@@ -1,6 +1,6 @@
 ---
 name: express-middleware
-description: Middleware with Express. request pipeline.
+description: "Middleware with Express. request pipeline."
 category: backend
 tags: [express, middleware, backend, backend]
 models: [gpt-4, claude-3]

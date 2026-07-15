@@ -1,6 +1,6 @@
 ---
 name: azure-functions-examples
-description: Examples for Azure-Functions: practical examples
+description: "Examples for Azure-Functions: practical examples"
 category: cloud
 tags: [azure-functions, examples, cloud]
 models: [sonnet, opus]

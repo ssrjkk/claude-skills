@@ -1,6 +1,6 @@
 ---
 name: shader-graph-quickstart
-description: Quickstart for Shader-Graph: quick start guide
+description: "Quickstart for Shader-Graph: quick start guide"
 category: gamedev
 tags: [shader-graph-quickstart, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: construct-multiplayer
-description: Multiplayer with Construct. networking.
+description: "Multiplayer with Construct. networking."
 category: gamedev
 tags: [construct, multiplayer, gamedev, game-engine]
 models: [gpt-4, claude-3]

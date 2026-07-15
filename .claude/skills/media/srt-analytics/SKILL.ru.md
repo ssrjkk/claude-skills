@@ -1,6 +1,6 @@
 ---
 name: srt-analytics
-description: Analytics with SRT. analytics.
+description: "Analytics with SRT. analytics."
 category: media
 tags: [srt-analytics, media, russian]
 models: [sonnet, opus]

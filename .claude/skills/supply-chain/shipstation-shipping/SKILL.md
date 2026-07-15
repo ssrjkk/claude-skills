@@ -1,6 +1,6 @@
 ---
 name: shipstation-shipping
-description: Shipping with ShipStation. shipping.
+description: "Shipping with ShipStation. shipping."
 category: supply-chain
 tags: [shipstation, shipping, supply-chain, logistics]
 models: [gpt-4, claude-3]

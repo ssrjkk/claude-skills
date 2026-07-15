@@ -1,6 +1,6 @@
 ---
 name: pinecone-automation
-description: Automation for Pinecone: automation and scripting
+description: "Automation for Pinecone: automation and scripting"
 category: ai
 tags: [pinecone, automation, ai]
 models: [sonnet, opus]

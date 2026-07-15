@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-setup
-description: Setup with Elasticsearch. installation.
+description: "Setup with Elasticsearch. installation."
 category: database
 tags: [elasticsearch, setup, database, search-engine]
 models: [gpt-4, claude-3]

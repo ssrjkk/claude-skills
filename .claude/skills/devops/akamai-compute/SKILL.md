@@ -1,6 +1,6 @@
 ---
 name: akamai-compute
-description: Compute with Akamai. VM/compute.
+description: "Compute with Akamai. VM/compute."
 category: devops
 tags: [akamai, compute, devops, cloud]
 models: [gpt-4, claude-3]

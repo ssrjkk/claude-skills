@@ -1,6 +1,6 @@
 ---
 name: microservices-scaling
-description: Scaling with Microservices. scaling considerations.
+description: "Scaling with Microservices. scaling considerations."
 category: backend
 tags: [microservices-scaling, backend, russian]
 models: [sonnet, opus]

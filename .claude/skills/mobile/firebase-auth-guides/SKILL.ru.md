@@ -1,6 +1,6 @@
 ---
 name: firebase-auth-guides
-description: Guides for Firebase-Auth: how-to guides
+description: "Guides for Firebase-Auth: how-to guides"
 category: mobile
 tags: [firebase-auth-guides, mobile, russian]
 models: [sonnet, opus]

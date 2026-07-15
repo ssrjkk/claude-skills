@@ -1,6 +1,6 @@
 ---
 name: javascript-testing
-description: Testing with Javascript. writing tests.
+description: "Testing with Javascript. writing tests."
 category: backend
 tags: [javascript-testing, backend, russian]
 models: [sonnet, opus]

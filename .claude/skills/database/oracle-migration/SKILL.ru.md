@@ -1,6 +1,6 @@
 ---
 name: oracle-migration
-description: Migration with Oracle. schema migrations.
+description: "Migration with Oracle. schema migrations."
 category: database
 tags: [oracle-migration, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: falcon-templating
-description: Templating with Falcon. server templates.
+description: "Templating with Falcon. server templates."
 category: backend
 tags: [falcon, templating, backend, backend]
 models: [gpt-4, claude-3]

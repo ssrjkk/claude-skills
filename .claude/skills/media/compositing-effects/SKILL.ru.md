@@ -1,6 +1,6 @@
 ---
 name: compositing-effects
-description: Effects with Compositing. VFX.
+description: "Effects with Compositing. VFX."
 category: media
 tags: [compositing-effects, media, russian]
 models: [sonnet, opus]

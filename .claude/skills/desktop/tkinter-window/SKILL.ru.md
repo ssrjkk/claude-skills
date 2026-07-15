@@ -1,6 +1,6 @@
 ---
 name: tkinter-window
-description: Window with Tkinter. windows.
+description: "Window with Tkinter. windows."
 category: desktop
 tags: [tkinter-window, desktop, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ant-design-theming
-description: Theming with Ant Design. custom themes.
+description: "Theming with Ant Design. custom themes."
 category: frontend
 tags: [ant-design-theming, frontend, russian]
 models: [sonnet, opus]

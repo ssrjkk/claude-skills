@@ -1,6 +1,6 @@
 ---
 name: woodpecker-setup
-description: Setup with Woodpecker. pipeline setup.
+description: "Setup with Woodpecker. pipeline setup."
 category: devops
 tags: [woodpecker, setup, devops, ci-cd]
 models: [gpt-4, claude-3]

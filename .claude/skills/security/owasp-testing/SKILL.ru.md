@@ -1,6 +1,6 @@
 ---
 name: owasp-testing
-description: Testing with OWASP. security testing.
+description: "Testing with OWASP. security testing."
 category: security
 tags: [owasp-testing, security, russian]
 models: [sonnet, opus]

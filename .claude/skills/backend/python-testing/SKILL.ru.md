@@ -1,6 +1,6 @@
 ---
 name: python-testing
-description: Testing with Python. writing tests.
+description: "Testing with Python. writing tests."
 category: backend
 tags: [python-testing, backend, russian]
 models: [sonnet, opus]

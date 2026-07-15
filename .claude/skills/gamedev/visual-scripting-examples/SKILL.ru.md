@@ -1,6 +1,6 @@
 ---
 name: visual-scripting-examples
-description: Examples for Visual-Scripting: practical examples
+description: "Examples for Visual-Scripting: practical examples"
 category: gamedev
 tags: [visual-scripting-examples, gamedev, russian]
 models: [sonnet, opus]

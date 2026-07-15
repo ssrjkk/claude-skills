@@ -1,6 +1,6 @@
 ---
 name: discord-bot-setup
-description: Setup with Discord Bot. account setup.
+description: "Setup with Discord Bot. account setup."
 category: communications
 tags: [discord-bot, setup, communications, communication-platform]
 models: [gpt-4, claude-3]

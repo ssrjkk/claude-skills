@@ -1,6 +1,6 @@
 ---
 name: sympy-statistics
-description: Statistics with SymPy. statistical analysis.
+description: "Statistics with SymPy. statistical analysis."
 category: scientific
 tags: [sympy, statistics, scientific, scientific-computing]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: portfolio-data
-description: Data with Portfolio Management. data sources.
+description: "Data with Portfolio Management. data sources."
 category: finance
 tags: [portfolio-data, finance, russian]
 models: [sonnet, opus]

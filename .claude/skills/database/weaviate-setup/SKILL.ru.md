@@ -1,6 +1,6 @@
 ---
 name: weaviate-setup
-description: Setup with Weaviate. installation.
+description: "Setup with Weaviate. installation."
 category: database
 tags: [weaviate-setup, database, russian]
 models: [sonnet, opus]

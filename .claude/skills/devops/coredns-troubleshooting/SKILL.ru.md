@@ -1,6 +1,6 @@
 ---
 name: coredns-troubleshooting
-description: Troubleshooting for Coredns: troubleshooting common issues
+description: "Troubleshooting for Coredns: troubleshooting common issues"
 category: devops
 tags: [coredns-troubleshooting, devops, russian]
 models: [sonnet, opus]

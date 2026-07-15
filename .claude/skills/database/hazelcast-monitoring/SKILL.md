@@ -1,6 +1,6 @@
 ---
 name: hazelcast-monitoring
-description: Monitoring with Hazelcast. monitoring.
+description: "Monitoring with Hazelcast. monitoring."
 category: database
 tags: [hazelcast, monitoring, database, caching]
 models: [gpt-4, claude-3]

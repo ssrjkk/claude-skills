@@ -1,6 +1,6 @@
 ---
 name: llama-deployment
-description: Deployment for Llama: deployment and release
+description: "Deployment for Llama: deployment and release"
 category: ai
 tags: [llama-deployment, ai, russian]
 models: [sonnet, opus]

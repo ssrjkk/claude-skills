@@ -1,6 +1,6 @@
 ---
 name: tcp-ip-optimization
-description: Optimization with TCP/IP. tuning.
+description: "Optimization with TCP/IP. tuning."
 category: networking
 tags: [tcp-ip, optimization, networking, networking]
 models: [gpt-4, claude-3]

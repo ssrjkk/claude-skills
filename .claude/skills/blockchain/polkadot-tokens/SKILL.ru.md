@@ -1,6 +1,6 @@
 ---
 name: polkadot-tokens
-description: Tokens with Polkadot. token standards.
+description: "Tokens with Polkadot. token standards."
 category: blockchain
 tags: [polkadot-tokens, blockchain, russian]
 models: [sonnet, opus]

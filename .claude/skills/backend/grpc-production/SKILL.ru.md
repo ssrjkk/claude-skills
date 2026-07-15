@@ -1,6 +1,6 @@
 ---
 name: grpc-production
-description: Production for Grpc: production deployment
+description: "Production for Grpc: production deployment"
 category: backend
 tags: [grpc-production, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: polars-dataframe
-description: DataFrame with Polars. data manipulation.
+description: "DataFrame with Polars. data manipulation."
 category: data
 tags: [polars, dataframe, data, data-science]
 models: [gpt-4, claude-3]

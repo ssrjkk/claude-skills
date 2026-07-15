@@ -1,6 +1,6 @@
 ---
 name: loki-scraping
-description: Scraping with Loki. target discovery.
+description: "Scraping with Loki. target discovery."
 category: devops
 tags: [loki-scraping, devops, russian]
 models: [sonnet, opus]

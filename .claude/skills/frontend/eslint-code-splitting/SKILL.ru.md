@@ -1,6 +1,6 @@
 ---
 name: eslint-code-splitting
-description: Code Splitting with ESLint. lazy loading.
+description: "Code Splitting with ESLint. lazy loading."
 category: frontend
 tags: [eslint-code-splitting, frontend, russian]
 models: [sonnet, opus]

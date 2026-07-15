@@ -1,6 +1,6 @@
 ---
 name: amazon-neptune-setup
-description: Setup with Amazon Neptune. installation.
+description: "Setup with Amazon Neptune. installation."
 category: database
 tags: [amazon-neptune-setup, database, russian]
 models: [sonnet, opus]

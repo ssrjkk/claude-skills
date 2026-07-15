@@ -1,6 +1,6 @@
 ---
 name: ignite-caching
-description: Caching with Apache Ignite. caching strategies.
+description: "Caching with Apache Ignite. caching strategies."
 category: database
 tags: [ignite, caching, database, caching]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: sip-implementation
-description: Implementation with SIP. implementation.
+description: "Implementation with SIP. implementation."
 category: communications
 tags: [sip, implementation, communications, communication-protocol]
 models: [gpt-4, claude-3]

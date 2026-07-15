@@ -1,6 +1,6 @@
 ---
 name: digitalocean-storage
-description: Storage with DigitalOcean. object storage.
+description: "Storage with DigitalOcean. object storage."
 category: devops
 tags: [digitalocean-storage, devops, russian]
 models: [sonnet, opus]

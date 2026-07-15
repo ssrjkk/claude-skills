@@ -1,6 +1,6 @@
 ---
 name: react-native-push
-description: Push with React Native. push notifications.
+description: "Push with React Native. push notifications."
 category: mobile
 tags: [react-native, push, mobile, mobile]
 models: [gpt-4, claude-3]

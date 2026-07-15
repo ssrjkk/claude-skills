@@ -1,6 +1,6 @@
 ---
 name: rokoko-fundamentals
-description: Fundamentals for Rokoko: core concepts
+description: "Fundamentals for Rokoko: core concepts"
 category: gamedev
 tags: [rokoko, fundamentals, gamedev]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: wazuh-best-practices
-description: Best Practices for Wazuh: best practices and patterns
+description: "Best Practices for Wazuh: best practices and patterns"
 category: security
 tags: [wazuh-best-practices, security, russian]
 models: [sonnet, opus]

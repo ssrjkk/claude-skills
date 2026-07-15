@@ -1,6 +1,6 @@
 ---
 name: dagger-secrets
-description: Secrets with Dagger. secret management.
+description: "Secrets with Dagger. secret management."
 category: devops
 tags: [dagger-secrets, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: color-system
-description: Designs color systems and design tokens for consistent UI theming across light and dark modes.
+description: "Designs color systems and design tokens for consistent UI theming across light and dark modes."
 category: design
 tags: [color-system, design, russian]
 models: [sonnet, opus]

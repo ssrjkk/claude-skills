@@ -1,6 +1,6 @@
 ---
 name: redis-api
-description: API for Redis: API development and integration
+description: "API for Redis: API development and integration"
 category: database
 tags: [redis, api, database]
 models: [sonnet, opus]

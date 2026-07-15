@@ -1,6 +1,6 @@
 ---
 name: selenium-setup
-description: Setup with Selenium. installation.
+description: "Setup with Selenium. installation."
 category: qa
 tags: [selenium-setup, qa, russian]
 models: [sonnet, opus]

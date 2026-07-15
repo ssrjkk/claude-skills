@@ -1,6 +1,6 @@
 ---
 name: poem-database
-description: Database with Poem. DB access.
+description: "Database with Poem. DB access."
 category: backend
 tags: [poem-database, backend, russian]
 models: [sonnet, opus]

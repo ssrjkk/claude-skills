@@ -1,6 +1,6 @@
 ---
 name: panel-theming
-description: Theming with Panel. themes.
+description: "Theming with Panel. themes."
 category: data
 tags: [panel-theming, data, russian]
 models: [sonnet, opus]

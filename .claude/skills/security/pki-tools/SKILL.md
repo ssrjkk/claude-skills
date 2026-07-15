@@ -1,6 +1,6 @@
 ---
 name: pki-tools
-description: Tools with PKI. security tools.
+description: "Tools with PKI. security tools."
 category: security
 tags: [pki, tools, security, security]
 models: [gpt-4, claude-3]

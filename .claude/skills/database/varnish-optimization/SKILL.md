@@ -1,6 +1,6 @@
 ---
 name: varnish-optimization
-description: Optimization with Varnish. performance tuning.
+description: "Optimization with Varnish. performance tuning."
 category: database
 tags: [varnish, optimization, database, caching]
 models: [gpt-4, claude-3]

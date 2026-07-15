@@ -1,6 +1,6 @@
 ---
 name: animejs-fundamentals
-description: Fundamentals for Animejs: core concepts
+description: "Fundamentals for Animejs: core concepts"
 category: design
 tags: [animejs-fundamentals, design, russian]
 models: [sonnet, opus]

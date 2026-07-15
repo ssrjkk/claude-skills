@@ -1,6 +1,6 @@
 ---
 name: cocos-animation
-description: Animation with Cocos Creator. animation.
+description: "Animation with Cocos Creator. animation."
 category: gamedev
 tags: [cocos-animation, gamedev, russian]
 models: [sonnet, opus]

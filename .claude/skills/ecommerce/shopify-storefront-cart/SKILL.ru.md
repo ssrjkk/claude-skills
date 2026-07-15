@@ -1,6 +1,6 @@
 ---
 name: shopify-storefront-cart
-description: Cart with Shopify Storefront. cart API.
+description: "Cart with Shopify Storefront. cart API."
 category: ecommerce
 tags: [shopify-storefront-cart, ecommerce, russian]
 models: [sonnet, opus]

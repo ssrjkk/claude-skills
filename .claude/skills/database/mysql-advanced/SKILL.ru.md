@@ -1,6 +1,6 @@
 ---
 name: mysql-advanced
-description: Advanced for Mysql: advanced patterns and techniques
+description: "Advanced for Mysql: advanced patterns and techniques"
 category: database
 tags: [mysql-advanced, database, russian]
 models: [sonnet, opus]

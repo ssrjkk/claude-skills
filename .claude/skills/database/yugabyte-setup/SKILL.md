@@ -1,6 +1,6 @@
 ---
 name: yugabyte-setup
-description: Setup with YugabyteDB. installation.
+description: "Setup with YugabyteDB. installation."
 category: database
 tags: [yugabyte, setup, database, sql]
 models: [gpt-4, claude-3]

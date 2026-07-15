@@ -1,6 +1,6 @@
 ---
 name: qwik-optimization
-description: Optimization for Qwik: performance tuning and optimization
+description: "Optimization for Qwik: performance tuning and optimization"
 category: frontend
 tags: [qwik, optimization, frontend]
 models: [sonnet, opus]

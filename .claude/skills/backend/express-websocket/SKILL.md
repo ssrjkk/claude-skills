@@ -1,6 +1,6 @@
 ---
 name: express-websocket
-description: WebSocket with Express. Socket.io.
+description: "WebSocket with Express. Socket.io."
 category: backend
 tags: [express, websocket, backend, backend]
 models: [gpt-4, claude-3]

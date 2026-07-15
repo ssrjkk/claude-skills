@@ -1,6 +1,6 @@
 ---
 name: codemagic-production
-description: Production for Codemagic: production deployment
+description: "Production for Codemagic: production deployment"
 category: mobile
 tags: [codemagic-production, mobile, russian]
 models: [sonnet, opus]

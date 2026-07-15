@@ -1,6 +1,6 @@
 ---
 name: tidb-examples
-description: Examples for Tidb: practical examples
+description: "Examples for Tidb: practical examples"
 category: database
 tags: [tidb-examples, database, russian]
 models: [sonnet, opus]

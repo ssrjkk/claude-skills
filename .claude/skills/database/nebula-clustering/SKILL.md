@@ -1,6 +1,6 @@
 ---
 name: nebula-clustering
-description: Clustering with Nebula Graph. clustering.
+description: "Clustering with Nebula Graph. clustering."
 category: database
 tags: [nebula, clustering, database, graph-database]
 models: [gpt-4, claude-3]

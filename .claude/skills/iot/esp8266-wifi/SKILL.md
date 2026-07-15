@@ -1,6 +1,6 @@
 ---
 name: esp8266-wifi
-description: WiFi with ESP8266. wireless.
+description: "WiFi with ESP8266. wireless."
 category: iot
 tags: [esp8266, wifi, iot, iot]
 models: [gpt-4, claude-3]

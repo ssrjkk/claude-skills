@@ -1,6 +1,6 @@
 ---
 name: voila-layout
-description: Layout with Voila. app layout.
+description: "Layout with Voila. app layout."
 category: data
 tags: [voila, layout, data, data-apps]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: leaflet-integration
-description: Integration for Leaflet: integration with other tools
+description: "Integration for Leaflet: integration with other tools"
 category: frontend
 tags: [leaflet-integration, frontend, russian]
 models: [sonnet, opus]

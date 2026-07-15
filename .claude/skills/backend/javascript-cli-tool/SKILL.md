@@ -1,6 +1,6 @@
 ---
 name: javascript-cli-tool
-description: CLI Tool with Javascript. building CLI tools.
+description: "CLI Tool with Javascript. building CLI tools."
 category: backend
 tags: [javascript, cli-tool, backend, backend]
 models: [gpt-4, claude-3]

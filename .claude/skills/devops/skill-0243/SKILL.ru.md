@@ -1,6 +1,6 @@
 ---
 name: skill-0243
-description: Specialized skill #0243 for devops development
+description: "Specialized skill #0243 for devops development"
 category: devops
 tags: [skill-0243, devops, russian]
 models: [sonnet, opus]

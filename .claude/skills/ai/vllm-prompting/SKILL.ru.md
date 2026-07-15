@@ -1,6 +1,6 @@
 ---
 name: vllm-prompting
-description: Prompt Engineering with Vllm. prompt templates.
+description: "Prompt Engineering with Vllm. prompt templates."
 category: ai
 tags: [vllm-prompting, ai, russian]
 models: [sonnet, opus]

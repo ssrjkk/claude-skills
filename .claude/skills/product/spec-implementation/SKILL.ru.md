@@ -1,6 +1,6 @@
 ---
 name: spec-implementation
-description: Implementation with Specification Writing. execution.
+description: "Implementation with Specification Writing. execution."
 category: product
 tags: [spec-implementation, product, russian]
 models: [sonnet, opus]

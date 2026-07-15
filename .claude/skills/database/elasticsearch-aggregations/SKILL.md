@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-aggregations
-description: Aggregations with Elasticsearch. bucket aggs.
+description: "Aggregations with Elasticsearch. bucket aggs."
 category: database
 tags: [elasticsearch, aggregations, database, search-engine]
 models: [gpt-4, claude-3]

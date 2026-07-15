@@ -1,6 +1,6 @@
 ---
 name: pki-basics
-description: Basics with PKI. fundamentals.
+description: "Basics with PKI. fundamentals."
 category: security
 tags: [pki-basics, security, russian]
 models: [sonnet, opus]

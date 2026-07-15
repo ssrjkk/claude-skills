@@ -1,6 +1,6 @@
 ---
 name: braintree-webhooks
-description: Webhooks with Braintree. webhooks.
+description: "Webhooks with Braintree. webhooks."
 category: payments
 tags: [braintree, webhooks, payments, payments]
 models: [gpt-4, claude-3]

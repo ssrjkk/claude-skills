@@ -1,6 +1,6 @@
 ---
 name: nextjs-testing
-description: Testing for Nextjs: testing and validation
+description: "Testing for Nextjs: testing and validation"
 category: frontend
 tags: [nextjs-testing, frontend, russian]
 models: [sonnet, opus]

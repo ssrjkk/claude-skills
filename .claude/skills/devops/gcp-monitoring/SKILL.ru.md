@@ -1,6 +1,6 @@
 ---
 name: gcp-monitoring
-description: Monitoring with GCP. monitoring.
+description: "Monitoring with GCP. monitoring."
 category: devops
 tags: [gcp-monitoring, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: paddle-billing-dunning
-description: Dunning with Paddle Billing. retry logic.
+description: "Dunning with Paddle Billing. retry logic."
 category: payments
 tags: [paddle-billing, dunning, payments, billing]
 models: [gpt-4, claude-3]

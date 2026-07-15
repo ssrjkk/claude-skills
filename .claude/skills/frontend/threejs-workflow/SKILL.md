@@ -1,6 +1,6 @@
 ---
 name: threejs-workflow
-description: Workflow for Threejs: workflow optimization
+description: "Workflow for Threejs: workflow optimization"
 category: frontend
 tags: [threejs, workflow, frontend]
 models: [sonnet, opus]

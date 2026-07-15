@@ -1,6 +1,6 @@
 ---
 name: vagrant-getting-started
-description: Getting Started for Vagrant: initial setup and first steps
+description: "Getting Started for Vagrant: initial setup and first steps"
 category: devops
 tags: [vagrant, getting-started, devops]
 models: [sonnet, opus]

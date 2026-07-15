@@ -1,6 +1,6 @@
 ---
 name: braintree-reporting
-description: Reporting with Braintree. reports.
+description: "Reporting with Braintree. reports."
 category: payments
 tags: [braintree, reporting, payments, payments]
 models: [gpt-4, claude-3]

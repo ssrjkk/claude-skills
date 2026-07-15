@@ -1,6 +1,6 @@
 ---
 name: procedural-generation-basics
-description: Basics with Procedural Generation. fundamentals.
+description: "Basics with Procedural Generation. fundamentals."
 category: gamedev
 tags: [procedural-generation-basics, gamedev, russian]
 models: [sonnet, opus]

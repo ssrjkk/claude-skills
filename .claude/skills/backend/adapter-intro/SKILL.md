@@ -1,6 +1,6 @@
 ---
 name: adapter-intro
-description: Introduction with Adapter. understanding the pattern.
+description: "Introduction with Adapter. understanding the pattern."
 category: backend
 tags: [adapter, intro, backend, architecture]
 models: [gpt-4, claude-3]

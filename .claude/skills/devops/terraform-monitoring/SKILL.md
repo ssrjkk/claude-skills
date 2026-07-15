@@ -1,6 +1,6 @@
 ---
 name: terraform-monitoring
-description: Monitoring for Terraform: monitoring and observability
+description: "Monitoring for Terraform: monitoring and observability"
 category: devops
 tags: [terraform, monitoring, devops]
 models: [sonnet, opus]

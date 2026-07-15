@@ -1,6 +1,6 @@
 ---
 name: openshift-deployment
-description: Deployment with OpenShift. apps deployment.
+description: "Deployment with OpenShift. apps deployment."
 category: devops
 tags: [openshift, deployment, devops, kubernetes]
 models: [gpt-4, claude-3]

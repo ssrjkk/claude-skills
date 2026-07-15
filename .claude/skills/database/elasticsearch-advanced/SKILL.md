@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-advanced
-description: Advanced for Elasticsearch: advanced patterns and techniques
+description: "Advanced for Elasticsearch: advanced patterns and techniques"
 category: database
 tags: [elasticsearch, advanced, database]
 models: [sonnet, opus]

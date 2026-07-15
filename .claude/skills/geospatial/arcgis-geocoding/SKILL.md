@@ -1,6 +1,6 @@
 ---
 name: arcgis-geocoding
-description: Geocoding with ArcGIS. geocoding.
+description: "Geocoding with ArcGIS. geocoding."
 category: geospatial
 tags: [arcgis, geocoding, geospatial, gis]
 models: [gpt-4, claude-3]

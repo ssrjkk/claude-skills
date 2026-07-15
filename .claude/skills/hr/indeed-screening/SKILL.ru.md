@@ -1,6 +1,6 @@
 ---
 name: indeed-screening
-description: Screening with Indeed. resume screening.
+description: "Screening with Indeed. resume screening."
 category: hr
 tags: [indeed-screening, hr, russian]
 models: [sonnet, opus]

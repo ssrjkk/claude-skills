@@ -1,6 +1,6 @@
 ---
 name: hubstaff-integration
-description: Integration with Hubstaff. integration.
+description: "Integration with Hubstaff. integration."
 category: hr
 tags: [hubstaff-integration, hr, russian]
 models: [sonnet, opus]

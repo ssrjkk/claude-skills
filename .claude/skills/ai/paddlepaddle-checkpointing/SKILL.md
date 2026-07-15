@@ -1,6 +1,6 @@
 ---
 name: paddlepaddle-checkpointing
-description: Checkpointing with Paddlepaddle. model saving.
+description: "Checkpointing with Paddlepaddle. model saving."
 category: ai
 tags: [paddlepaddle, checkpointing, ai, deep-learning]
 models: [gpt-4, claude-3]

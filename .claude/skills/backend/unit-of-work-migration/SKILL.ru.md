@@ -1,6 +1,6 @@
 ---
 name: unit-of-work-migration
-description: Migration with Unit of Work. adopting the pattern.
+description: "Migration with Unit of Work. adopting the pattern."
 category: backend
 tags: [unit-of-work-migration, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: jax-transfer-learning
-description: Transfer Learning with Jax. transfer learning.
+description: "Transfer Learning with Jax. transfer learning."
 category: ai
 tags: [jax-transfer-learning, ai, russian]
 models: [sonnet, opus]

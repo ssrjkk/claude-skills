@@ -1,6 +1,6 @@
 ---
 name: nestjs-testing
-description: Testing with NestJS. Jest.
+description: "Testing with NestJS. Jest."
 category: backend
 tags: [nestjs-testing, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: alpine-state-management
-description: State Management with Alpine. state handling.
+description: "State Management with Alpine. state handling."
 category: frontend
 tags: [alpine, state-management, frontend, frontend]
 models: [gpt-4, claude-3]

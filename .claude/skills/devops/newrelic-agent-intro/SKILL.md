@@ -1,6 +1,6 @@
 ---
 name: newrelic-agent-intro
-description: Intro for Newrelic-Agent: introduction
+description: "Intro for Newrelic-Agent: introduction"
 category: devops
 tags: [newrelic-agent, intro, devops]
 models: [sonnet, opus]

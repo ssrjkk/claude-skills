@@ -1,6 +1,6 @@
 ---
 name: sphinx-mapping
-description: Mapping with Sphinx. field mapping.
+description: "Mapping with Sphinx. field mapping."
 category: database
 tags: [sphinx-mapping, database, russian]
 models: [sonnet, opus]

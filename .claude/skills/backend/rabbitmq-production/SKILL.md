@@ -1,6 +1,6 @@
 ---
 name: rabbitmq-production
-description: Production for Rabbitmq: production deployment
+description: "Production for Rabbitmq: production deployment"
 category: backend
 tags: [rabbitmq, production, backend]
 models: [sonnet, opus]

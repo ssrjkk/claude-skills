@@ -1,6 +1,6 @@
 ---
 name: influxdb-querying
-description: Querying with InfluxDB. time-series queries.
+description: "Querying with InfluxDB. time-series queries."
 category: database
 tags: [influxdb, querying, database, time-series]
 models: [gpt-4, claude-3]

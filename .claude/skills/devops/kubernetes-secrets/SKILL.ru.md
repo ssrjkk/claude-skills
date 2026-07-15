@@ -1,6 +1,6 @@
 ---
 name: kubernetes-secrets
-description: Secrets with Kubernetes. secret management.
+description: "Secrets with Kubernetes. secret management."
 category: devops
 tags: [kubernetes-secrets, devops, russian]
 models: [sonnet, opus]

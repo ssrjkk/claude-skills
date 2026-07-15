@@ -1,6 +1,6 @@
 ---
 name: steamvr-interaction
-description: Interaction with SteamVR. hand tracking.
+description: "Interaction with SteamVR. hand tracking."
 category: ar-vr
 tags: [steamvr-interaction, ar-vr, russian]
 models: [sonnet, opus]

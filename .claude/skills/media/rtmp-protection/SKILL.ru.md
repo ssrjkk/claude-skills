@@ -1,6 +1,6 @@
 ---
 name: rtmp-protection
-description: Protection with RTMP. DRM.
+description: "Protection with RTMP. DRM."
 category: media
 tags: [rtmp-protection, media, russian]
 models: [sonnet, opus]

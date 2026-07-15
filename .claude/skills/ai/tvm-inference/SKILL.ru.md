@@ -1,6 +1,6 @@
 ---
 name: tvm-inference
-description: Inference with Tvm. running models.
+description: "Inference with Tvm. running models."
 category: ai
 tags: [tvm-inference, ai, russian]
 models: [sonnet, opus]

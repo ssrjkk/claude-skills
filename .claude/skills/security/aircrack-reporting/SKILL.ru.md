@@ -1,6 +1,6 @@
 ---
 name: aircrack-reporting
-description: Reporting with Aircrack-ng. reports.
+description: "Reporting with Aircrack-ng. reports."
 category: security
 tags: [aircrack-reporting, security, russian]
 models: [sonnet, opus]

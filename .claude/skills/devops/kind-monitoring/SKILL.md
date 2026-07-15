@@ -1,6 +1,6 @@
 ---
 name: kind-monitoring
-description: Monitoring with Kind. monitoring.
+description: "Monitoring with Kind. monitoring."
 category: devops
 tags: [kind, monitoring, devops, kubernetes]
 models: [gpt-4, claude-3]

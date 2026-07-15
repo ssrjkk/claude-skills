@@ -1,6 +1,6 @@
 ---
 name: stanza-summarization
-description: Summarization with Stanza. text summarization.
+description: "Summarization with Stanza. text summarization."
 category: ai
 tags: [stanza, summarization, ai, nlp]
 models: [gpt-4, claude-3]

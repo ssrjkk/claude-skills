@@ -1,6 +1,6 @@
 ---
 name: scala-rest-api
-description: REST API with Scala. building REST APIs.
+description: "REST API with Scala. building REST APIs."
 category: backend
 tags: [scala-rest-api, backend, russian]
 models: [sonnet, opus]

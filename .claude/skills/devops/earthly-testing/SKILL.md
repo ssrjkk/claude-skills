@@ -1,6 +1,6 @@
 ---
 name: earthly-testing
-description: Testing with Earthly. automated tests.
+description: "Testing with Earthly. automated tests."
 category: devops
 tags: [earthly, testing, devops, ci-cd]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: prince2-tools
-description: Tools with PRINCE2. tooling.
+description: "Tools with PRINCE2. tooling."
 category: product
 tags: [prince2, tools, product, methodology]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: traefik-configuration
-description: Configuration for Traefik: configuration and setup
+description: "Configuration for Traefik: configuration and setup"
 category: devops
 tags: [traefik-configuration, devops, russian]
 models: [sonnet, opus]

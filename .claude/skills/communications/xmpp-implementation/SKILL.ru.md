@@ -1,6 +1,6 @@
 ---
 name: xmpp-implementation
-description: Implementation with XMPP. implementation.
+description: "Implementation with XMPP. implementation."
 category: communications
 tags: [xmpp-implementation, communications, russian]
 models: [sonnet, opus]

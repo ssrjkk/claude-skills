@@ -1,6 +1,6 @@
 ---
 name: tfsec-workflow
-description: Workflow for Tfsec: workflow optimization
+description: "Workflow for Tfsec: workflow optimization"
 category: security
 tags: [tfsec-workflow, security, russian]
 models: [sonnet, opus]

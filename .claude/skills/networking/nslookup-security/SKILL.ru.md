@@ -1,6 +1,6 @@
 ---
 name: nslookup-security
-description: Security with nslookup/dig. security testing.
+description: "Security with nslookup/dig. security testing."
 category: networking
 tags: [nslookup-security, networking, russian]
 models: [sonnet, opus]

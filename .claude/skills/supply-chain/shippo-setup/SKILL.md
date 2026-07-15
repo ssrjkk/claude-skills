@@ -1,6 +1,6 @@
 ---
 name: shippo-setup
-description: Setup with Shippo. setup.
+description: "Setup with Shippo. setup."
 category: supply-chain
 tags: [shippo, setup, supply-chain, logistics]
 models: [gpt-4, claude-3]

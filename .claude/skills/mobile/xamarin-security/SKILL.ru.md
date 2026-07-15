@@ -1,6 +1,6 @@
 ---
 name: xamarin-security
-description: Security for Xamarin: security best practices
+description: "Security for Xamarin: security best practices"
 category: mobile
 tags: [xamarin-security, mobile, russian]
 models: [sonnet, opus]

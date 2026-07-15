@@ -1,6 +1,6 @@
 ---
 name: gcp-kms-quickstart
-description: Quickstart for Gcp-Kms: quick start guide
+description: "Quickstart for Gcp-Kms: quick start guide"
 category: security
 tags: [gcp-kms-quickstart, security, russian]
 models: [sonnet, opus]

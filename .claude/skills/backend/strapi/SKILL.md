@@ -1,6 +1,6 @@
 ---
 name: strapi
-description: Creates headless CMS backends with Strapi, content types, roles, and REST/GraphQL APIs. Use for rapid content management.
+description: "Creates headless CMS backends with Strapi, content types, roles, and REST/GraphQL APIs. Use for rapid content management."
 category: backend
 tags: [strapi, cms, headless, api, content]
 models: [sonnet, opus]

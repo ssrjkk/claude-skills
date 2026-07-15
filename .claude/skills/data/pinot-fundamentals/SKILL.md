@@ -1,6 +1,6 @@
 ---
 name: pinot-fundamentals
-description: Fundamentals for Pinot: core concepts
+description: "Fundamentals for Pinot: core concepts"
 category: data
 tags: [pinot, fundamentals, data]
 models: [sonnet, opus]

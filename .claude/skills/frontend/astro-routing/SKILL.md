@@ -1,6 +1,6 @@
 ---
 name: astro-routing
-description: Routing with Astro. file-based routing.
+description: "Routing with Astro. file-based routing."
 category: frontend
 tags: [astro, routing, frontend, meta-framework]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: velociraptor-best-practices
-description: Best Practices for Velociraptor: best practices and patterns
+description: "Best Practices for Velociraptor: best practices and patterns"
 category: security
 tags: [velociraptor, best-practices, security]
 models: [sonnet, opus]

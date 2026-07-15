@@ -1,6 +1,6 @@
 ---
 name: stripe-fraud
-description: Fraud with Stripe. fraud detection.
+description: "Fraud with Stripe. fraud detection."
 category: payments
 tags: [stripe-fraud, payments, russian]
 models: [sonnet, opus]

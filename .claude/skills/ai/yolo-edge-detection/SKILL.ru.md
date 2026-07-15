@@ -1,6 +1,6 @@
 ---
 name: yolo-edge-detection
-description: Edge Detection with Yolo. edge detection.
+description: "Edge Detection with Yolo. edge detection."
 category: ai
 tags: [yolo-edge-detection, ai, russian]
 models: [sonnet, opus]

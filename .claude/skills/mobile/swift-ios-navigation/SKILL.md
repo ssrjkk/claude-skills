@@ -1,6 +1,6 @@
 ---
 name: swift-ios-navigation
-description: Navigation with Swift iOS. navigation.
+description: "Navigation with Swift iOS. navigation."
 category: mobile
 tags: [swift-ios, navigation, mobile, mobile]
 models: [gpt-4, claude-3]

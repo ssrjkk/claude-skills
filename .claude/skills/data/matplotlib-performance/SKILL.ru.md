@@ -1,6 +1,6 @@
 ---
 name: matplotlib-performance
-description: Performance with Matplotlib. optimization.
+description: "Performance with Matplotlib. optimization."
 category: data
 tags: [matplotlib-performance, data, russian]
 models: [sonnet, opus]

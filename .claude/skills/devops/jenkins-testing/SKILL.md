@@ -1,6 +1,6 @@
 ---
 name: jenkins-testing
-description: Testing with Jenkins. automated tests.
+description: "Testing with Jenkins. automated tests."
 category: devops
 tags: [jenkins, testing, devops, ci-cd]
 models: [gpt-4, claude-3]

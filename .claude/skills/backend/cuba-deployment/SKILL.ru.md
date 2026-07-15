@@ -1,6 +1,6 @@
 ---
 name: cuba-deployment
-description: Deployment with Cuba. deploy.
+description: "Deployment with Cuba. deploy."
 category: backend
 tags: [cuba-deployment, backend, russian]
 models: [sonnet, opus]

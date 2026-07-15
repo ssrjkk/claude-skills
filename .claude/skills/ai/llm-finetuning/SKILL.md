@@ -1,6 +1,6 @@
 ---
 name: llm-finetuning
-description: Fine-tunes open-source LLMs (Llama, Mistral, Qwen) using LoRA/QLoRA with HuggingFace and Unsloth. Use for domain-specific model adaptation.
+description: "Fine-tunes open-source LLMs (Llama, Mistral, Qwen) using LoRA/QLoRA with HuggingFace and Unsloth. Use for domain-specific model adaptation."
 category: ai
 tags: [finetuning, lora, llama, mistral, unsloth, llm]
 models: [opus]

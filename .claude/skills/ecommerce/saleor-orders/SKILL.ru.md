@@ -1,6 +1,6 @@
 ---
 name: saleor-orders
-description: Orders with Saleor. order management.
+description: "Orders with Saleor. order management."
 category: ecommerce
 tags: [saleor-orders, ecommerce, russian]
 models: [sonnet, opus]

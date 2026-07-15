@@ -1,6 +1,6 @@
 ---
 name: x509-monitoring
-description: Monitoring with X.509. security monitoring.
+description: "Monitoring with X.509. security monitoring."
 category: security
 tags: [x509, monitoring, security, security]
 models: [gpt-4, claude-3]

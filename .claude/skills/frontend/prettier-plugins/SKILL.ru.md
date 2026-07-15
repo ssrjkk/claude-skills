@@ -1,6 +1,6 @@
 ---
 name: prettier-plugins
-description: Plugins with Prettier. plugins.
+description: "Plugins with Prettier. plugins."
 category: frontend
 tags: [prettier-plugins, frontend, russian]
 models: [sonnet, opus]

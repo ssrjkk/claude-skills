@@ -1,6 +1,6 @@
 ---
 name: seaborn-transformation
-description: Transformation with Seaborn. transform.
+description: "Transformation with Seaborn. transform."
 category: data
 tags: [seaborn-transformation, data, russian]
 models: [sonnet, opus]

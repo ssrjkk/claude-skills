@@ -1,6 +1,6 @@
 ---
 name: debezium-integration
-description: Integration for Debezium: integration with other tools
+description: "Integration for Debezium: integration with other tools"
 category: database
 tags: [debezium-integration, database, russian]
 models: [sonnet, opus]

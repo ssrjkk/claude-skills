@@ -1,6 +1,6 @@
 ---
 name: frontend-skill-0192
-description: frontend specialized skill #0192 for frontend development
+description: "frontend specialized skill #0192 for frontend development"
 category: frontend
 tags: [frontend, skill, 0192]
 models: [sonnet, opus]

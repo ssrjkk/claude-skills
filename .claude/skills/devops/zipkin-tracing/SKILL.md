@@ -1,6 +1,6 @@
 ---
 name: zipkin-tracing
-description: Tracing with Zipkin. distributed tracing.
+description: "Tracing with Zipkin. distributed tracing."
 category: devops
 tags: [zipkin, tracing, devops, monitoring]
 models: [gpt-4, claude-3]

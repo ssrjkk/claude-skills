@@ -1,6 +1,6 @@
 ---
 name: responder-routing
-description: Routing with Responder. HTTP routing.
+description: "Routing with Responder. HTTP routing."
 category: backend
 tags: [responder, routing, backend, backend]
 models: [gpt-4, claude-3]

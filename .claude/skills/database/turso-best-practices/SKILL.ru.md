@@ -1,6 +1,6 @@
 ---
 name: turso-best-practices
-description: Best Practices for Turso: best practices and patterns
+description: "Best Practices for Turso: best practices and patterns"
 category: database
 tags: [turso-best-practices, database, russian]
 models: [sonnet, opus]

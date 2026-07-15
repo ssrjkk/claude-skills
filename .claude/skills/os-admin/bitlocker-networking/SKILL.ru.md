@@ -1,6 +1,6 @@
 ---
 name: bitlocker-networking
-description: Networking with BitLocker. network.
+description: "Networking with BitLocker. network."
 category: os-admin
 tags: [bitlocker-networking, os-admin, russian]
 models: [sonnet, opus]

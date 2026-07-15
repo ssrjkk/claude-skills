@@ -1,6 +1,6 @@
 ---
 name: gemini-optimization
-description: Optimization for Gemini: performance tuning and optimization
+description: "Optimization for Gemini: performance tuning and optimization"
 category: ai
 tags: [gemini-optimization, ai, russian]
 models: [sonnet, opus]

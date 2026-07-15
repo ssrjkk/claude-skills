@@ -1,6 +1,6 @@
 ---
 name: compositing-setup
-description: Setup with Compositing. setup.
+description: "Setup with Compositing. setup."
 category: media
 tags: [compositing-setup, media, russian]
 models: [sonnet, opus]

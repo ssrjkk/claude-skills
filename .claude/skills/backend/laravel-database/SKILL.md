@@ -1,6 +1,6 @@
 ---
 name: laravel-database
-description: Database with Laravel. Eloquent.
+description: "Database with Laravel. Eloquent."
 category: backend
 tags: [laravel, database, backend, backend]
 models: [gpt-4, claude-3]

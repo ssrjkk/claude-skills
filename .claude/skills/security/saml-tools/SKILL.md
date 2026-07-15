@@ -1,6 +1,6 @@
 ---
 name: saml-tools
-description: Tools with SAML. security tools.
+description: "Tools with SAML. security tools."
 category: security
 tags: [saml, tools, security, security]
 models: [gpt-4, claude-3]

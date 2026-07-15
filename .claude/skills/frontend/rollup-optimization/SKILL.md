@@ -1,6 +1,6 @@
 ---
 name: rollup-optimization
-description: Optimization with Rollup. build optimization.
+description: "Optimization with Rollup. build optimization."
 category: frontend
 tags: [rollup, optimization, frontend, build-tool]
 models: [gpt-4, claude-3]

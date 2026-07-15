@@ -1,6 +1,6 @@
 ---
 name: pytorch-transfer-learning
-description: Transfer Learning with Pytorch. transfer learning.
+description: "Transfer Learning with Pytorch. transfer learning."
 category: ai
 tags: [pytorch-transfer-learning, ai, russian]
 models: [sonnet, opus]

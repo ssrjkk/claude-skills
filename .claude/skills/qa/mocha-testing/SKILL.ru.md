@@ -1,6 +1,6 @@
 ---
 name: mocha-testing
-description: Testing for Mocha: testing and validation
+description: "Testing for Mocha: testing and validation"
 category: qa
 tags: [mocha-testing, qa, russian]
 models: [sonnet, opus]

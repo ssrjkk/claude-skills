@@ -1,6 +1,6 @@
 ---
 name: d3js-getting-started
-description: Getting Started for D3Js: initial setup and first steps
+description: "Getting Started for D3Js: initial setup and first steps"
 category: frontend
 tags: [d3js-getting-started, frontend, russian]
 models: [sonnet, opus]

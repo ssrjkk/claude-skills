@@ -1,6 +1,6 @@
 ---
 name: electron-threading
-description: Threading with Electron. multithreading.
+description: "Threading with Electron. multithreading."
 category: desktop
 tags: [electron-threading, desktop, russian]
 models: [sonnet, opus]

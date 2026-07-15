@@ -1,6 +1,6 @@
 ---
 name: centos-processes
-description: Processes with CentOS. process management.
+description: "Processes with CentOS. process management."
 category: os-admin
 tags: [centos-processes, os-admin, russian]
 models: [sonnet, opus]

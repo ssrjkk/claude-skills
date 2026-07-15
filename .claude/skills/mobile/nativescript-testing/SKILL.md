@@ -1,6 +1,6 @@
 ---
 name: nativescript-testing
-description: Testing with NativeScript. testing.
+description: "Testing with NativeScript. testing."
 category: mobile
 tags: [nativescript, testing, mobile, mobile]
 models: [gpt-4, claude-3]

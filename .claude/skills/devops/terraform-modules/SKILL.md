@@ -1,6 +1,6 @@
 ---
 name: terraform-modules
-description: Modules with Terraform. modules.
+description: "Modules with Terraform. modules."
 category: devops
 tags: [terraform, modules, devops, iac]
 models: [gpt-4, claude-3]

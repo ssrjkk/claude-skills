@@ -1,6 +1,6 @@
 ---
 name: nightwatch-reporting
-description: Reporting with Nightwatch. reports.
+description: "Reporting with Nightwatch. reports."
 category: qa
 tags: [nightwatch, reporting, qa, e2e]
 models: [gpt-4, claude-3]

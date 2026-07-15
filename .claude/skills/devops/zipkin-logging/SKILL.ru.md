@@ -1,6 +1,6 @@
 ---
 name: zipkin-logging
-description: Logging with Zipkin. log collection.
+description: "Logging with Zipkin. log collection."
 category: devops
 tags: [zipkin-logging, devops, russian]
 models: [sonnet, opus]

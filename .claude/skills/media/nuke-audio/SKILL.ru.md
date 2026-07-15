@@ -1,6 +1,6 @@
 ---
 name: nuke-audio
-description: Audio with Nuke. audio editing.
+description: "Audio with Nuke. audio editing."
 category: media
 tags: [nuke-audio, media, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: shadcn-ui
-description: Builds modern UI components with shadcn/ui, a collection of re-usable components built with Radix UI and Tailwind CSS. Use for beautiful, accessible React apps.
+description: "Builds modern UI components with shadcn/ui, a collection of re-usable components built with Radix UI and Tailwind CSS. Use for beautiful, accessible React apps."
 category: design
 tags: [shadcn-ui, react, tailwind, radix, components]
 models: [sonnet, opus]

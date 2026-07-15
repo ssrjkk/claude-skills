@@ -1,6 +1,6 @@
 ---
 name: go-logging
-description: Logging with Go. app logging.
+description: "Logging with Go. app logging."
 category: backend
 tags: [go-logging, backend, russian]
 models: [sonnet, opus]

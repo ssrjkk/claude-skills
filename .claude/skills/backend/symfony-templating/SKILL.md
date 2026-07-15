@@ -1,6 +1,6 @@
 ---
 name: symfony-templating
-description: Templating with Symfony. Blade.
+description: "Templating with Symfony. Blade."
 category: backend
 tags: [symfony, templating, backend, backend]
 models: [gpt-4, claude-3]

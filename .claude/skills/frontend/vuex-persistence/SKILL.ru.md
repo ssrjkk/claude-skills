@@ -1,6 +1,6 @@
 ---
 name: vuex-persistence
-description: Persistence with Vuex. state persistence.
+description: "Persistence with Vuex. state persistence."
 category: frontend
 tags: [vuex-persistence, frontend, russian]
 models: [sonnet, opus]

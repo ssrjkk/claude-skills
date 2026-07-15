@@ -1,6 +1,6 @@
 ---
 name: postgresql
-description: Models relational data, writes optimized queries, and manages PostgreSQL databases with indexes, views, and CTEs. Use for robust data storage.
+description: "Models relational data, writes optimized queries, and manages PostgreSQL databases with indexes, views, and CTEs. Use for robust data storage."
 category: database
 tags: [postgresql, database, russian]
 models: [sonnet, opus]

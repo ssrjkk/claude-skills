@@ -1,6 +1,6 @@
 ---
 name: beego-database
-description: Database with Beego. DB access.
+description: "Database with Beego. DB access."
 category: backend
 tags: [beego-database, backend, russian]
 models: [sonnet, opus]

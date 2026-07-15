@@ -1,6 +1,6 @@
 ---
 name: mongodb-mongoose-troubleshooting
-description: Troubleshooting for Mongodb-Mongoose: troubleshooting common issues
+description: "Troubleshooting for Mongodb-Mongoose: troubleshooting common issues"
 category: backend
 tags: [mongodb-mongoose, troubleshooting, backend]
 models: [sonnet, opus]

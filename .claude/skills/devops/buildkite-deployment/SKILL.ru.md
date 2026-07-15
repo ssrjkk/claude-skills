@@ -1,6 +1,6 @@
 ---
 name: buildkite-deployment
-description: Deployment with Buildkite. auto-deploy.
+description: "Deployment with Buildkite. auto-deploy."
 category: devops
 tags: [buildkite-deployment, devops, russian]
 models: [sonnet, opus]

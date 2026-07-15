@@ -1,6 +1,6 @@
 ---
 name: browserstack-configuration
-description: Configuration for Browserstack: configuration and setup
+description: "Configuration for Browserstack: configuration and setup"
 category: qa
 tags: [browserstack-configuration, qa, russian]
 models: [sonnet, opus]

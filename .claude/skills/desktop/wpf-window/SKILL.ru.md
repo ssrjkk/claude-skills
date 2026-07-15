@@ -1,6 +1,6 @@
 ---
 name: wpf-window
-description: Window with WPF. windows.
+description: "Window with WPF. windows."
 category: desktop
 tags: [wpf-window, desktop, russian]
 models: [sonnet, opus]

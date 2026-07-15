@@ -1,6 +1,6 @@
 ---
 name: bigcommerce-products
-description: Products with BigCommerce. product management.
+description: "Products with BigCommerce. product management."
 category: ecommerce
 tags: [bigcommerce-products, ecommerce, russian]
 models: [sonnet, opus]

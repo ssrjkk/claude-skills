@@ -1,6 +1,6 @@
 ---
 name: criterion
-description: Development with Criterion: tools and best practices
+description: "Development with Criterion: tools and best practices"
 category: mobile
 tags: [criterion, mobile, russian]
 models: [sonnet, opus]

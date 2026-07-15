@@ -1,6 +1,6 @@
 ---
 name: transformers-pruning
-description: Pruning with Transformers. model pruning.
+description: "Pruning with Transformers. model pruning."
 category: ai
 tags: [transformers-pruning, ai, russian]
 models: [sonnet, opus]

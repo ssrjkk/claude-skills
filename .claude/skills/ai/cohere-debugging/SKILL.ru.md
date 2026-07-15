@@ -1,6 +1,6 @@
 ---
 name: cohere-debugging
-description: Debugging for Cohere: debugging and troubleshooting
+description: "Debugging for Cohere: debugging and troubleshooting"
 category: ai
 tags: [cohere-debugging, ai, russian]
 models: [sonnet, opus]

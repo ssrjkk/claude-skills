@@ -1,6 +1,6 @@
 ---
 name: nvdla
-description: Development with Nvdla: tools and best practices
+description: "Development with Nvdla: tools and best practices"
 category: devops
 tags: [nvdla, devops, russian]
 models: [sonnet, opus]

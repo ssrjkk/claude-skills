@@ -1,6 +1,6 @@
 ---
 name: figma-prototyping
-description: Prototyping with Figma. prototypes.
+description: "Prototyping with Figma. prototypes."
 category: design
 tags: [figma, prototyping, design, design]
 models: [gpt-4, claude-3]

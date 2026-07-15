@@ -1,6 +1,6 @@
 ---
 name: angelist-tools
-description: Tools with AngelList/Wellfound. tools.
+description: "Tools with AngelList/Wellfound. tools."
 category: hr
 tags: [angelist, tools, hr, recruiting]
 models: [gpt-4, claude-3]

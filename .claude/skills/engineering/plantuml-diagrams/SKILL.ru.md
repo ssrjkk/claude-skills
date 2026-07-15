@@ -1,6 +1,6 @@
 ---
 name: plantuml-diagrams
-description: Diagrams with PlantUML. diagramming.
+description: "Diagrams with PlantUML. diagramming."
 category: engineering
 tags: [plantuml-diagrams, engineering, russian]
 models: [sonnet, opus]

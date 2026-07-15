@@ -1,6 +1,6 @@
 ---
 name: loginradius-fundamentals
-description: Fundamentals for Loginradius: core concepts
+description: "Fundamentals for Loginradius: core concepts"
 category: mobile
 tags: [loginradius-fundamentals, mobile, russian]
 models: [sonnet, opus]

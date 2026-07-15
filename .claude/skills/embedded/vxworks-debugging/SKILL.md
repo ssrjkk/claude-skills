@@ -1,6 +1,6 @@
 ---
 name: vxworks-debugging
-description: Debugging with VxWorks. debug.
+description: "Debugging with VxWorks. debug."
 category: embedded
 tags: [vxworks, debugging, embedded, rtos]
 models: [gpt-4, claude-3]

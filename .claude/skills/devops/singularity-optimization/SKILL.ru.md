@@ -1,6 +1,6 @@
 ---
 name: singularity-optimization
-description: Optimization with Singularity. image optimization.
+description: "Optimization with Singularity. image optimization."
 category: devops
 tags: [singularity-optimization, devops, russian]
 models: [sonnet, opus]

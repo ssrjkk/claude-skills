@@ -1,6 +1,6 @@
 ---
 name: zuul-guides
-description: Guides for Zuul: how-to guides
+description: "Guides for Zuul: how-to guides"
 category: backend
 tags: [zuul, guides, backend]
 models: [sonnet, opus]

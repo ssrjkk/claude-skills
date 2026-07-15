@@ -1,6 +1,6 @@
 ---
 name: bulma-dark-mode
-description: Dark Mode with Bulma. dark theme.
+description: "Dark Mode with Bulma. dark theme."
 category: frontend
 tags: [bulma-dark-mode, frontend, russian]
 models: [sonnet, opus]

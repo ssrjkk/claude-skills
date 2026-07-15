@@ -1,6 +1,6 @@
 ---
 name: less-optimization
-description: Optimization with Less. build optimization.
+description: "Optimization with Less. build optimization."
 category: frontend
 tags: [less-optimization, frontend, russian]
 models: [sonnet, opus]

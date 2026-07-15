@@ -1,6 +1,6 @@
 ---
 name: x509-implementation
-description: Implementation with X.509. implementation.
+description: "Implementation with X.509. implementation."
 category: security
 tags: [x509, implementation, security, security]
 models: [gpt-4, claude-3]

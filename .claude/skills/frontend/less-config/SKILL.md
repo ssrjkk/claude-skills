@@ -1,6 +1,6 @@
 ---
 name: less-config
-description: Config with Less. configuration.
+description: "Config with Less. configuration."
 category: frontend
 tags: [less, config, frontend, build-tool]
 models: [gpt-4, claude-3]

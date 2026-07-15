@@ -1,6 +1,6 @@
 ---
 name: bff-implementation
-description: Implementation with Backend for Frontend. practical implementation.
+description: "Implementation with Backend for Frontend. practical implementation."
 category: backend
 tags: [bff-implementation, backend, russian]
 models: [sonnet, opus]

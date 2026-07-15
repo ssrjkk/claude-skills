@@ -1,6 +1,6 @@
 ---
 name: k8s-helm-deploy
-description: Deploys applications to Kubernetes using Helm charts and values overrides. Use for managing releases in K8s.
+description: "Deploys applications to Kubernetes using Helm charts and values overrides. Use for managing releases in K8s."
 category: devops
 tags: [k8s-helm-deploy, devops, russian]
 models: [sonnet, opus]

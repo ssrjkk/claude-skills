@@ -1,6 +1,6 @@
 ---
 name: avr-timers
-description: Timers with AVR. timers.
+description: "Timers with AVR. timers."
 category: embedded
 tags: [avr-timers, embedded, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: refactoring-basics
-description: Basics with Refactoring. fundamentals.
+description: "Basics with Refactoring. fundamentals."
 category: engineering
 tags: [refactoring-basics, engineering, russian]
 models: [sonnet, opus]

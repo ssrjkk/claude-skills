@@ -1,6 +1,6 @@
 ---
 name: memcached-guides
-description: Guides for Memcached: how-to guides
+description: "Guides for Memcached: how-to guides"
 category: backend
 tags: [memcached-guides, backend, russian]
 models: [sonnet, opus]

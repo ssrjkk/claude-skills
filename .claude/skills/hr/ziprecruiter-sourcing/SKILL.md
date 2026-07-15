@@ -1,6 +1,6 @@
 ---
 name: ziprecruiter-sourcing
-description: Sourcing with ZipRecruiter. candidate sourcing.
+description: "Sourcing with ZipRecruiter. candidate sourcing."
 category: hr
 tags: [ziprecruiter, sourcing, hr, recruiting]
 models: [gpt-4, claude-3]

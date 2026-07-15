@@ -1,6 +1,6 @@
 ---
 name: testflight-workflow
-description: Workflow for Testflight: workflow optimization
+description: "Workflow for Testflight: workflow optimization"
 category: mobile
 tags: [testflight-workflow, mobile, russian]
 models: [sonnet, opus]

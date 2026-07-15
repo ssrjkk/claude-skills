@@ -1,6 +1,6 @@
 ---
 name: artillery-ci
-description: CI with Artillery. CI integration.
+description: "CI with Artillery. CI integration."
 category: qa
 tags: [artillery, ci, qa, performance-testing]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-basics
-description: Basics for Rpgmaker: fundamentals and core concepts
+description: "Basics for Rpgmaker: fundamentals and core concepts"
 category: gamedev
 tags: [rpgmaker-basics, gamedev, russian]
 models: [sonnet, opus]

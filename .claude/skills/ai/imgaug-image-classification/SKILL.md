@@ -1,6 +1,6 @@
 ---
 name: imgaug-image-classification
-description: Image Classification with Imgaug. classifying images.
+description: "Image Classification with Imgaug. classifying images."
 category: ai
 tags: [imgaug, image-classification, ai, computer-vision]
 models: [gpt-4, claude-3]

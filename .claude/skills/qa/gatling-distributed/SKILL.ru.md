@@ -1,6 +1,6 @@
 ---
 name: gatling-distributed
-description: Distributed with Gatling. distributed load.
+description: "Distributed with Gatling. distributed load."
 category: qa
 tags: [gatling-distributed, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mapbox-setup
-description: Setup with Mapbox. setup.
+description: "Setup with Mapbox. setup."
 category: geospatial
 tags: [mapbox-setup, geospatial, russian]
 models: [sonnet, opus]

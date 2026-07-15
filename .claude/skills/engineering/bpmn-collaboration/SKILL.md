@@ -1,6 +1,6 @@
 ---
 name: bpmn-collaboration
-description: Collaboration with BPMN. team collaboration.
+description: "Collaboration with BPMN. team collaboration."
 category: engineering
 tags: [bpmn, collaboration, engineering, modeling]
 models: [gpt-4, claude-3]

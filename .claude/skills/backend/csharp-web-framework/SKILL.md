@@ -1,6 +1,6 @@
 ---
 name: csharp-web-framework
-description: Web Framework with Csharp. web dev.
+description: "Web Framework with Csharp. web dev."
 category: backend
 tags: [csharp, web-framework, backend, backend]
 models: [gpt-4, claude-3]

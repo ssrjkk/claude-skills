@@ -1,6 +1,6 @@
 ---
 name: linode-storage
-description: Storage with Linode. object storage.
+description: "Storage with Linode. object storage."
 category: devops
 tags: [linode-storage, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: traefik-troubleshooting
-description: Troubleshooting for Traefik: troubleshooting common issues
+description: "Troubleshooting for Traefik: troubleshooting common issues"
 category: devops
 tags: [traefik-troubleshooting, devops, russian]
 models: [sonnet, opus]

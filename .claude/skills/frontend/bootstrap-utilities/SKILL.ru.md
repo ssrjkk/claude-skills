@@ -1,6 +1,6 @@
 ---
 name: bootstrap-utilities
-description: Utilities with Bootstrap. utility classes.
+description: "Utilities with Bootstrap. utility classes."
 category: frontend
 tags: [bootstrap-utilities, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ionic-performance
-description: Performance with Ionic. optimization.
+description: "Performance with Ionic. optimization."
 category: mobile
 tags: [ionic, performance, mobile, mobile]
 models: [gpt-4, claude-3]

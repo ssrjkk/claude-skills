@@ -1,6 +1,6 @@
 ---
 name: arangodb-graph-security
-description: Security with ArangoDB Graph. security.
+description: "Security with ArangoDB Graph. security."
 category: database
 tags: [arangodb-graph-security, database, russian]
 models: [sonnet, opus]

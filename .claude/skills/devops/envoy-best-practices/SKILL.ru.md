@@ -1,6 +1,6 @@
 ---
 name: envoy-best-practices
-description: Best Practices for Envoy: best practices and patterns
+description: "Best Practices for Envoy: best practices and patterns"
 category: devops
 tags: [envoy-best-practices, devops, russian]
 models: [sonnet, opus]

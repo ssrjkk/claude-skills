@@ -1,6 +1,6 @@
 ---
 name: redis-setup
-description: Setup with Redis. installation.
+description: "Setup with Redis. installation."
 category: database
 tags: [redis, setup, database, caching]
 models: [gpt-4, claude-3]

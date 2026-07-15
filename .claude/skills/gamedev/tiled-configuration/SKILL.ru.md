@@ -1,6 +1,6 @@
 ---
 name: tiled-configuration
-description: Configuration for Tiled: configuration and setup
+description: "Configuration for Tiled: configuration and setup"
 category: gamedev
 tags: [tiled-configuration, gamedev, russian]
 models: [sonnet, opus]

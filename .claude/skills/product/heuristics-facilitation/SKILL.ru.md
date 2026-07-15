@@ -1,6 +1,6 @@
 ---
 name: heuristics-facilitation
-description: Facilitation with Heuristics. running.
+description: "Facilitation with Heuristics. running."
 category: product
 tags: [heuristics-facilitation, product, russian]
 models: [sonnet, opus]

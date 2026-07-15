@@ -1,6 +1,6 @@
 ---
 name: vagrant-cicd
-description: CI/CD with Vagrant. pipeline integration.
+description: "CI/CD with Vagrant. pipeline integration."
 category: devops
 tags: [vagrant-cicd, devops, russian]
 models: [sonnet, opus]

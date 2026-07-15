@@ -1,6 +1,6 @@
 ---
 name: highjump-planning
-description: Planning with HighJump. demand planning.
+description: "Planning with HighJump. demand planning."
 category: supply-chain
 tags: [highjump, planning, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

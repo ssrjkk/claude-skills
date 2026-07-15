@@ -1,6 +1,6 @@
 ---
 name: bottle-middleware
-description: Middleware with Bottle. middleware pipelines.
+description: "Middleware with Bottle. middleware pipelines."
 category: backend
 tags: [bottle-middleware, backend, russian]
 models: [sonnet, opus]

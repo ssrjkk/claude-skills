@@ -1,6 +1,6 @@
 ---
 name: apache-fundamentals
-description: Fundamentals for Apache: core concepts
+description: "Fundamentals for Apache: core concepts"
 category: backend
 tags: [apache, fundamentals, backend]
 models: [sonnet, opus]

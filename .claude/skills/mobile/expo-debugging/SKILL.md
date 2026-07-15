@@ -1,6 +1,6 @@
 ---
 name: expo-debugging
-description: Debugging for Expo: debugging and troubleshooting
+description: "Debugging for Expo: debugging and troubleshooting"
 category: mobile
 tags: [expo, debugging, mobile]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: concourse-testing
-description: Testing with Concourse. automated tests.
+description: "Testing with Concourse. automated tests."
 category: devops
 tags: [concourse, testing, devops, ci-cd]
 models: [gpt-4, claude-3]

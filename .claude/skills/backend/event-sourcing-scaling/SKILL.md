@@ -1,6 +1,6 @@
 ---
 name: event-sourcing-scaling
-description: Scaling with Event Sourcing. scaling considerations.
+description: "Scaling with Event Sourcing. scaling considerations."
 category: backend
 tags: [event-sourcing, scaling, backend, architecture]
 models: [gpt-4, claude-3]

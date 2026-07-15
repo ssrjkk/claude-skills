@@ -1,6 +1,6 @@
 ---
 name: gemini-advanced
-description: Advanced for Gemini: advanced patterns and techniques
+description: "Advanced for Gemini: advanced patterns and techniques"
 category: ai
 tags: [gemini, advanced, ai]
 models: [sonnet, opus]

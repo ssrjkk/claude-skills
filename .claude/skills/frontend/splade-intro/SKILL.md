@@ -1,6 +1,6 @@
 ---
 name: splade-intro
-description: Intro for Splade: introduction
+description: "Intro for Splade: introduction"
 category: frontend
 tags: [splade, intro, frontend]
 models: [sonnet, opus]

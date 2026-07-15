@@ -1,6 +1,6 @@
 ---
 name: mollie-reporting
-description: Reporting with Mollie. reports.
+description: "Reporting with Mollie. reports."
 category: payments
 tags: [mollie, reporting, payments, payments]
 models: [gpt-4, claude-3]

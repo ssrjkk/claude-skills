@@ -1,6 +1,6 @@
 ---
 name: maya-production
-description: Production for Maya: production deployment
+description: "Production for Maya: production deployment"
 category: gamedev
 tags: [maya-production, gamedev, russian]
 models: [sonnet, opus]

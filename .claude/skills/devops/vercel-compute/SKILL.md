@@ -1,6 +1,6 @@
 ---
 name: vercel-compute
-description: Compute with Vercel. VM/compute.
+description: "Compute with Vercel. VM/compute."
 category: devops
 tags: [vercel, compute, devops, cloud]
 models: [gpt-4, claude-3]

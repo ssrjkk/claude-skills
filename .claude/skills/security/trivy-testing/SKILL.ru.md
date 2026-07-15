@@ -1,6 +1,6 @@
 ---
 name: trivy-testing
-description: Testing for Trivy: testing and validation
+description: "Testing for Trivy: testing and validation"
 category: security
 tags: [trivy-testing, security, russian]
 models: [sonnet, opus]

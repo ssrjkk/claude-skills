@@ -1,6 +1,6 @@
 ---
 name: presto-streaming
-description: Streaming with Presto. real-time.
+description: "Streaming with Presto. real-time."
 category: data
 tags: [presto-streaming, data, russian]
 models: [sonnet, opus]

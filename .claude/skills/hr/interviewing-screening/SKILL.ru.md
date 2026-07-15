@@ -1,6 +1,6 @@
 ---
 name: interviewing-screening
-description: Screening with Technical Interviewing. resume screening.
+description: "Screening with Technical Interviewing. resume screening."
 category: hr
 tags: [interviewing-screening, hr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: prisma-orm
-description: Models databases and writes type-safe queries with Prisma ORM. Use for modern Node.js/TypeScript database access.
+description: "Models databases and writes type-safe queries with Prisma ORM. Use for modern Node.js/TypeScript database access."
 category: database
 tags: [prisma-orm, database, russian]
 models: [sonnet, opus]

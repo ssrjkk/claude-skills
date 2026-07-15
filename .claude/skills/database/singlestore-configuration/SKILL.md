@@ -1,6 +1,6 @@
 ---
 name: singlestore-configuration
-description: Configuration for Singlestore: configuration and setup
+description: "Configuration for Singlestore: configuration and setup"
 category: database
 tags: [singlestore, configuration, database]
 models: [sonnet, opus]

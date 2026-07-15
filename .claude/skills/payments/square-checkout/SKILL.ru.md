@@ -1,6 +1,6 @@
 ---
 name: square-checkout
-description: Checkout with Square. checkout flow.
+description: "Checkout with Square. checkout flow."
 category: payments
 tags: [square-checkout, payments, russian]
 models: [sonnet, opus]

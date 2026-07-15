@@ -1,6 +1,6 @@
 ---
 name: nat-basics
-description: Basics with NAT. fundamentals.
+description: "Basics with NAT. fundamentals."
 category: networking
 tags: [nat, basics, networking, networking]
 models: [gpt-4, claude-3]

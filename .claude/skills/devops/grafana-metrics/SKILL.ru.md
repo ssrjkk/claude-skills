@@ -1,6 +1,6 @@
 ---
 name: grafana-metrics
-description: Metrics with Grafana. collecting metrics.
+description: "Metrics with Grafana. collecting metrics."
 category: devops
 tags: [grafana-metrics, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: clickhouse-basics
-description: Basics for Clickhouse: fundamentals and core concepts
+description: "Basics for Clickhouse: fundamentals and core concepts"
 category: database
 tags: [clickhouse, basics, database]
 models: [sonnet, opus]

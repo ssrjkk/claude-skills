@@ -1,6 +1,6 @@
 ---
 name: locust
-description: Performs load testing with Locust, Python-based distributed testing, and real-time web UI.
+description: "Performs load testing with Locust, Python-based distributed testing, and real-time web UI."
 category: qa
 tags: [locust, qa, russian]
 models: [sonnet, opus]

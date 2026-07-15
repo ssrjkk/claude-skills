@@ -1,6 +1,6 @@
 ---
 name: centos-backup
-description: Backup with CentOS. backup.
+description: "Backup with CentOS. backup."
 category: os-admin
 tags: [centos, backup, os-admin, linux]
 models: [gpt-4, claude-3]

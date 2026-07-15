@@ -1,6 +1,6 @@
 ---
 name: raspberry-pi-communication
-description: Comm with Raspberry Pi. I2C.
+description: "Comm with Raspberry Pi. I2C."
 category: iot
 tags: [raspberry-pi-communication, iot, russian]
 models: [sonnet, opus]

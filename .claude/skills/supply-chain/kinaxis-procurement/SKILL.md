@@ -1,6 +1,6 @@
 ---
 name: kinaxis-procurement
-description: Procurement with Kinaxis. procurement.
+description: "Procurement with Kinaxis. procurement."
 category: supply-chain
 tags: [kinaxis, procurement, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

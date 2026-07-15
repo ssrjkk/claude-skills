@@ -1,6 +1,6 @@
 ---
 name: buffalo-testing
-description: Testing with Buffalo. unit tests.
+description: "Testing with Buffalo. unit tests."
 category: backend
 tags: [buffalo, testing, backend, backend]
 models: [gpt-4, claude-3]

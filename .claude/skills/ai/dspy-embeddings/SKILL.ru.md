@@ -1,6 +1,6 @@
 ---
 name: dspy-embeddings
-description: Embeddings with Dspy. text embeddings.
+description: "Embeddings with Dspy. text embeddings."
 category: ai
 tags: [dspy-embeddings, ai, russian]
 models: [sonnet, opus]

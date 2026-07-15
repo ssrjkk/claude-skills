@@ -1,6 +1,6 @@
 ---
 name: kotlin-optimization
-description: Optimization for Kotlin: performance tuning and optimization
+description: "Optimization for Kotlin: performance tuning and optimization"
 category: mobile
 tags: [kotlin-optimization, mobile, russian]
 models: [sonnet, opus]

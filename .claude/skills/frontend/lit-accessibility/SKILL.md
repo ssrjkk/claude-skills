@@ -1,6 +1,6 @@
 ---
 name: lit-accessibility
-description: Accessibility with Lit. a11y.
+description: "Accessibility with Lit. a11y."
 category: frontend
 tags: [lit, accessibility, frontend, frontend]
 models: [gpt-4, claude-3]

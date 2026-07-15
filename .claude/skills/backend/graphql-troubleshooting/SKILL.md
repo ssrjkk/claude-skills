@@ -1,6 +1,6 @@
 ---
 name: graphql-troubleshooting
-description: Troubleshooting for Graphql: troubleshooting common issues
+description: "Troubleshooting for Graphql: troubleshooting common issues"
 category: backend
 tags: [graphql, troubleshooting, backend]
 models: [sonnet, opus]

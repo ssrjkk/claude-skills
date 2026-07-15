@@ -1,6 +1,6 @@
 ---
 name: node-red-devices
-description: Devices with Node-RED. device management.
+description: "Devices with Node-RED. device management."
 category: iot
 tags: [node-red, devices, iot, iot-platform]
 models: [gpt-4, claude-3]

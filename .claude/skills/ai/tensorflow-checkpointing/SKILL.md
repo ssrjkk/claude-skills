@@ -1,6 +1,6 @@
 ---
 name: tensorflow-checkpointing
-description: Checkpointing with Tensorflow. model saving.
+description: "Checkpointing with Tensorflow. model saving."
 category: ai
 tags: [tensorflow, checkpointing, ai, deep-learning]
 models: [gpt-4, claude-3]

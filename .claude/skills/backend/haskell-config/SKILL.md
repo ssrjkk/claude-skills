@@ -1,6 +1,6 @@
 ---
 name: haskell-config
-description: Configuration with Haskell. config management.
+description: "Configuration with Haskell. config management."
 category: backend
 tags: [haskell, config, backend, backend]
 models: [gpt-4, claude-3]

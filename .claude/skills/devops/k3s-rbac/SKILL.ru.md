@@ -1,6 +1,6 @@
 ---
 name: k3s-rbac
-description: RBAC with K3s. access control.
+description: "RBAC with K3s. access control."
 category: devops
 tags: [k3s-rbac, devops, russian]
 models: [sonnet, opus]

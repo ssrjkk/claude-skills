@@ -1,6 +1,6 @@
 ---
 name: vitest-monitoring
-description: Monitoring for Vitest: monitoring and observability
+description: "Monitoring for Vitest: monitoring and observability"
 category: qa
 tags: [vitest-monitoring, qa, russian]
 models: [sonnet, opus]

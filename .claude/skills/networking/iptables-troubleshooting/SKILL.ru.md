@@ -1,6 +1,6 @@
 ---
 name: iptables-troubleshooting
-description: Troubleshooting with iptables/nftables. debugging.
+description: "Troubleshooting with iptables/nftables. debugging."
 category: networking
 tags: [iptables-troubleshooting, networking, russian]
 models: [sonnet, opus]

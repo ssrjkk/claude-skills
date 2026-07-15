@@ -1,6 +1,6 @@
 ---
 name: semgrep-configuration
-description: Configuration for Semgrep: configuration and setup
+description: "Configuration for Semgrep: configuration and setup"
 category: security
 tags: [semgrep, configuration, security]
 models: [sonnet, opus]

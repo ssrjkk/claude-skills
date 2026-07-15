@@ -1,6 +1,6 @@
 ---
 name: invision-design-system
-description: Design Systems with InVision. tokens.
+description: "Design Systems with InVision. tokens."
 category: design
 tags: [invision-design-system, design, russian]
 models: [sonnet, opus]

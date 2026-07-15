@@ -1,6 +1,6 @@
 ---
 name: mithril-state-management
-description: State Management with Mithril. state handling.
+description: "State Management with Mithril. state handling."
 category: frontend
 tags: [mithril-state-management, frontend, russian]
 models: [sonnet, opus]

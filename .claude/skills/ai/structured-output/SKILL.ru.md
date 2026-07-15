@@ -1,6 +1,6 @@
 ---
 name: structured-output
-description: Guides LLMs to produce structured, schema-validated JSON output with type safety and format constraints. Use for programmatic LLM integration.
+description: "Guides LLMs to produce structured, schema-validated JSON output with type safety and format constraints. Use for programmatic LLM integration."
 category: ai
 tags: [structured-output, ai, russian]
 models: [sonnet, opus]

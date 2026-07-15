@@ -1,6 +1,6 @@
 ---
 name: keycloak-examples
-description: Examples for Keycloak: practical examples
+description: "Examples for Keycloak: practical examples"
 category: security
 tags: [keycloak, examples, security]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: strategy-intro
-description: Introduction with Strategy. understanding the pattern.
+description: "Introduction with Strategy. understanding the pattern."
 category: backend
 tags: [strategy-intro, backend, russian]
 models: [sonnet, opus]

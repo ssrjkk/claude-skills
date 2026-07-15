@@ -1,6 +1,6 @@
 ---
 name: pulsar-streaming
-description: Streaming with Pulsar. real-time.
+description: "Streaming with Pulsar. real-time."
 category: data
 tags: [pulsar-streaming, data, russian]
 models: [sonnet, opus]

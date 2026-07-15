@@ -1,6 +1,6 @@
 ---
 name: centos-users
-description: Users with CentOS. user management.
+description: "Users with CentOS. user management."
 category: os-admin
 tags: [centos-users, os-admin, russian]
 models: [sonnet, opus]

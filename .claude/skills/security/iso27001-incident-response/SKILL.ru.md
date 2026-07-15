@@ -1,6 +1,6 @@
 ---
 name: iso27001-incident-response
-description: Incident Response with ISO 27001. incident response.
+description: "Incident Response with ISO 27001. incident response."
 category: security
 tags: [iso27001-incident-response, security, russian]
 models: [sonnet, opus]

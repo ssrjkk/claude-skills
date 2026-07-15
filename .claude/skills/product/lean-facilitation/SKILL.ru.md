@@ -1,6 +1,6 @@
 ---
 name: lean-facilitation
-description: Facilitation with Lean. sessions.
+description: "Facilitation with Lean. sessions."
 category: product
 tags: [lean-facilitation, product, russian]
 models: [sonnet, opus]

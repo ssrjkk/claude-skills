@@ -1,6 +1,6 @@
 ---
 name: whylabs-configuration
-description: Configuration for Whylabs: configuration and setup
+description: "Configuration for Whylabs: configuration and setup"
 category: data
 tags: [whylabs, configuration, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: django-database
-description: Database with Django. DB access.
+description: "Database with Django. DB access."
 category: backend
 tags: [django-database, backend, russian]
 models: [sonnet, opus]

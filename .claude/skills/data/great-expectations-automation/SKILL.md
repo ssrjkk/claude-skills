@@ -1,6 +1,6 @@
 ---
 name: great-expectations-automation
-description: Automation for Great-Expectations: automation and scripting
+description: "Automation for Great-Expectations: automation and scripting"
 category: data
 tags: [great-expectations, automation, data]
 models: [sonnet, opus]

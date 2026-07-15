@@ -1,6 +1,6 @@
 ---
 name: langfuse-workflow
-description: Workflow for Langfuse: workflow optimization
+description: "Workflow for Langfuse: workflow optimization"
 category: ai
 tags: [langfuse-workflow, ai, russian]
 models: [sonnet, opus]

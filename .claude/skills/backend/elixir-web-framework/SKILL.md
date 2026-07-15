@@ -1,6 +1,6 @@
 ---
 name: elixir-web-framework
-description: Web Framework with Elixir. web dev.
+description: "Web Framework with Elixir. web dev."
 category: backend
 tags: [elixir, web-framework, backend, backend]
 models: [gpt-4, claude-3]

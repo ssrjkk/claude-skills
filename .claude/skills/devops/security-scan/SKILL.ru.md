@@ -1,6 +1,6 @@
 ---
 name: security-scan
-description: Integrates vulnerability scanning (Trivy, Snyk) into CI/CD pipelines. Use for checking Docker images and dependencies.
+description: "Integrates vulnerability scanning (Trivy, Snyk) into CI/CD pipelines. Use for checking Docker images and dependencies."
 category: devops
 tags: [security-scan, devops, russian]
 models: [sonnet, opus]

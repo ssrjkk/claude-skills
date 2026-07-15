@@ -1,6 +1,6 @@
 ---
 name: iot-skill-0195
-description: Specialized skill #0195 for iot development
+description: "Specialized skill #0195 for iot development"
 category: iot
 tags: [skill-0195, iot, russian]
 models: [sonnet, opus]

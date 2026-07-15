@@ -1,6 +1,6 @@
 ---
 name: vitest-security
-description: Security for Vitest: security best practices
+description: "Security for Vitest: security best practices"
 category: qa
 tags: [vitest-security, qa, russian]
 models: [sonnet, opus]

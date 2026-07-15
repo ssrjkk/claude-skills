@@ -1,6 +1,6 @@
 ---
 name: fivetran-usage
-description: Usage for Fivetran: usage reference
+description: "Usage for Fivetran: usage reference"
 category: data
 tags: [fivetran, usage, data]
 models: [sonnet, opus]

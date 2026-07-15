@@ -1,6 +1,6 @@
 ---
 name: archimate-collaboration
-description: Collaboration with ArchiMate. team collaboration.
+description: "Collaboration with ArchiMate. team collaboration."
 category: engineering
 tags: [archimate, collaboration, engineering, modeling]
 models: [gpt-4, claude-3]

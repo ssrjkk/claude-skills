@@ -1,6 +1,6 @@
 ---
 name: angular-components
-description: Components with Angular. building components.
+description: "Components with Angular. building components."
 category: frontend
 tags: [angular, components, frontend, frontend]
 models: [gpt-4, claude-3]

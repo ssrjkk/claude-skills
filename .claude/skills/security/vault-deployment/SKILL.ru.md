@@ -1,6 +1,6 @@
 ---
 name: vault-deployment
-description: Deployment for Vault: deployment and release
+description: "Deployment for Vault: deployment and release"
 category: security
 tags: [vault-deployment, security, russian]
 models: [sonnet, opus]

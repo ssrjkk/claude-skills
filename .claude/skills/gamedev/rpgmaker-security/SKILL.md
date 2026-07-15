@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-security
-description: Security for Rpgmaker: security best practices
+description: "Security for Rpgmaker: security best practices"
 category: gamedev
 tags: [rpgmaker, security, gamedev]
 models: [sonnet, opus]

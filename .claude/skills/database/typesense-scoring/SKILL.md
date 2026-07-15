@@ -1,6 +1,6 @@
 ---
 name: typesense-scoring
-description: Scoring with Typesense. relevance scoring.
+description: "Scoring with Typesense. relevance scoring."
 category: database
 tags: [typesense, scoring, database, search-engine]
 models: [gpt-4, claude-3]

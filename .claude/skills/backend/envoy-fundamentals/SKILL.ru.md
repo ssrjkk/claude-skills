@@ -1,6 +1,6 @@
 ---
 name: envoy-fundamentals
-description: Fundamentals for Envoy: core concepts
+description: "Fundamentals for Envoy: core concepts"
 category: backend
 tags: [envoy-fundamentals, backend, russian]
 models: [sonnet, opus]

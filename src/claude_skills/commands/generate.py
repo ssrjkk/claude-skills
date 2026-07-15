@@ -389,10 +389,11 @@ def _generate_skill_content(domain: str, skill_name: str, description: str) -> s
     template = DOMAIN_TEMPLATES.get(domain, GENERIC_TEMPLATE)
     display_name = skill_name.replace("-", " ").title()
     now = time.strftime("%Y-%m-%d")
+    desc_escaped = description.replace("\\", "\\\\").replace('"', '\\"')
     return (
         f"---\n"
-        f"name: {skill_name}\n"
-        f"description: {description}\n"
+        f'name: {skill_name}\n'
+        f'description: "{desc_escaped}"\n'
         f"category: {domain}\n"
         f"tags: [{skill_name}, {domain}]\n"
         f"models: [sonnet, opus]\n"
@@ -416,10 +417,11 @@ def _generate_ru_content(skill_name: str, description: str, domain: str) -> str:
         "blockchain": "Блокчейн", "design": "Дизайн", "gamedev": "Геймдев", "iot": "IoT",
     }
     domain_ru = domain_ru_map.get(domain, domain.replace("-", " ").title())
+    desc_escaped = description.replace("\\", "\\\\").replace('"', '\\"')
     return (
         f"---\n"
-        f"name: {skill_name}\n"
-        f"description: {description}\n"
+        f'name: {skill_name}\n'
+        f'description: "{desc_escaped}"\n'
         f"category: {domain}\n"
         f"tags: [{skill_name}, {domain}, russian]\n"
         f"models: [sonnet, opus]\n"

@@ -1,6 +1,6 @@
 ---
 name: grafana-storage
-description: Storage with Grafana. data retention.
+description: "Storage with Grafana. data retention."
 category: devops
 tags: [grafana-storage, devops, russian]
 models: [sonnet, opus]

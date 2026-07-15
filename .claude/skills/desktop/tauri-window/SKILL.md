@@ -1,6 +1,6 @@
 ---
 name: tauri-window
-description: Window with Tauri. windows.
+description: "Window with Tauri. windows."
 category: desktop
 tags: [tauri, window, desktop, desktop]
 models: [gpt-4, claude-3]

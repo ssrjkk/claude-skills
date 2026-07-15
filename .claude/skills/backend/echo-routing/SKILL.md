@@ -1,6 +1,6 @@
 ---
 name: echo-routing
-description: Routing with Echo. HTTP routing.
+description: "Routing with Echo. HTTP routing."
 category: backend
 tags: [echo, routing, backend, backend]
 models: [gpt-4, claude-3]

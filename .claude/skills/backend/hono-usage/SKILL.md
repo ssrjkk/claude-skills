@@ -1,6 +1,6 @@
 ---
 name: hono-usage
-description: Usage for Hono: usage guide
+description: "Usage for Hono: usage guide"
 category: backend
 tags: [hono, usage, backend]
 models: [sonnet, opus]

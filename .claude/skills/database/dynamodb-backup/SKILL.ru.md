@@ -1,6 +1,6 @@
 ---
 name: dynamodb-backup
-description: Backup with DynamoDB. backup.
+description: "Backup with DynamoDB. backup."
 category: database
 tags: [dynamodb-backup, database, russian]
 models: [sonnet, opus]

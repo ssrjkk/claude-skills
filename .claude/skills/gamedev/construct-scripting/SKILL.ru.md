@@ -1,6 +1,6 @@
 ---
 name: construct-scripting
-description: Scripting with Construct. game logic.
+description: "Scripting with Construct. game logic."
 category: gamedev
 tags: [construct-scripting, gamedev, russian]
 models: [sonnet, opus]

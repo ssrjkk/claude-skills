@@ -1,6 +1,6 @@
 ---
 name: vitest-optimization
-description: Optimization for Vitest: performance tuning and optimization
+description: "Optimization for Vitest: performance tuning and optimization"
 category: qa
 tags: [vitest-optimization, qa, russian]
 models: [sonnet, opus]

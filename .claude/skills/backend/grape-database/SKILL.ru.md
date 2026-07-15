@@ -1,6 +1,6 @@
 ---
 name: grape-database
-description: Database with Grape. ActiveRecord.
+description: "Database with Grape. ActiveRecord."
 category: backend
 tags: [grape-database, backend, russian]
 models: [sonnet, opus]

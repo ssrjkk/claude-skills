@@ -1,6 +1,6 @@
 ---
 name: dbt-basics
-description: Basics for Dbt: fundamentals and core concepts
+description: "Basics for Dbt: fundamentals and core concepts"
 category: data
 tags: [dbt, basics, data]
 models: [sonnet, opus]

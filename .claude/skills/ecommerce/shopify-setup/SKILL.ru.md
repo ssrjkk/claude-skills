@@ -1,6 +1,6 @@
 ---
 name: shopify-setup
-description: Setup with Shopify. setup.
+description: "Setup with Shopify. setup."
 category: ecommerce
 tags: [shopify-setup, ecommerce, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: memcached-examples
-description: Examples for Memcached: practical examples
+description: "Examples for Memcached: practical examples"
 category: backend
 tags: [memcached-examples, backend, russian]
 models: [sonnet, opus]

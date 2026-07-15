@@ -1,6 +1,6 @@
 ---
 name: vegeta-spike
-description: Spike with Vegeta. spike tests.
+description: "Spike with Vegeta. spike tests."
 category: qa
 tags: [vegeta, spike, qa, performance-testing]
 models: [gpt-4, claude-3]

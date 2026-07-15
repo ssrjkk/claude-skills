@@ -1,6 +1,6 @@
 ---
 name: nestjs-database
-description: Database with NestJS. ORM.
+description: "Database with NestJS. ORM."
 category: backend
 tags: [nestjs, database, backend, backend]
 models: [gpt-4, claude-3]

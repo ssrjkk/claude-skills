@@ -1,6 +1,6 @@
 ---
 name: vue-animations
-description: Animations with Vue. UI animations.
+description: "Animations with Vue. UI animations."
 category: frontend
 tags: [vue-animations, frontend, russian]
 models: [sonnet, opus]

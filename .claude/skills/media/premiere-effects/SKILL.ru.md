@@ -1,6 +1,6 @@
 ---
 name: premiere-effects
-description: Effects with Premiere Pro. VFX.
+description: "Effects with Premiere Pro. VFX."
 category: media
 tags: [premiere-effects, media, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ghg-protocol-reporting
-description: Reporting with GHG Protocol. reporting.
+description: "Reporting with GHG Protocol. reporting."
 category: sustainability
 tags: [ghg-protocol-reporting, sustainability, russian]
 models: [sonnet, opus]

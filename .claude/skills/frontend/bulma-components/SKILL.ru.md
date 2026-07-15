@@ -1,6 +1,6 @@
 ---
 name: bulma-components
-description: Components with Bulma. UI components.
+description: "Components with Bulma. UI components."
 category: frontend
 tags: [bulma-components, frontend, russian]
 models: [sonnet, opus]

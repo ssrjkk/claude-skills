@@ -1,6 +1,6 @@
 ---
 name: spark-auth
-description: Auth with Spark. security.
+description: "Auth with Spark. security."
 category: backend
 tags: [spark, auth, backend, backend]
 models: [gpt-4, claude-3]

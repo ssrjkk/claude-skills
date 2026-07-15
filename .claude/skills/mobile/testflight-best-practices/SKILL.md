@@ -1,6 +1,6 @@
 ---
 name: testflight-best-practices
-description: Best Practices for Testflight: best practices and patterns
+description: "Best Practices for Testflight: best practices and patterns"
 category: mobile
 tags: [testflight, best-practices, mobile]
 models: [sonnet, opus]

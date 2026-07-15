@@ -1,6 +1,6 @@
 ---
 name: mermaid-modeling
-description: Modeling with Mermaid.js. system modeling.
+description: "Modeling with Mermaid.js. system modeling."
 category: engineering
 tags: [mermaid, modeling, engineering, modeling]
 models: [gpt-4, claude-3]

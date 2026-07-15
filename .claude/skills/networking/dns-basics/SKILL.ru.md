@@ -1,6 +1,6 @@
 ---
 name: dns-basics
-description: Basics with DNS. fundamentals.
+description: "Basics with DNS. fundamentals."
 category: networking
 tags: [dns-basics, networking, russian]
 models: [sonnet, opus]

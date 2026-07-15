@@ -1,6 +1,6 @@
 ---
 name: active-directory-networking
-description: Networking with Active Directory. network.
+description: "Networking with Active Directory. network."
 category: os-admin
 tags: [active-directory, networking, os-admin, windows]
 models: [gpt-4, claude-3]

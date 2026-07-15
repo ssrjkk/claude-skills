@@ -1,6 +1,6 @@
 ---
 name: chef-testing
-description: Testing with Chef. infra testing.
+description: "Testing with Chef. infra testing."
 category: devops
 tags: [chef, testing, devops, iac]
 models: [gpt-4, claude-3]

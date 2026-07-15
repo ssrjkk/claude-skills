@@ -1,6 +1,6 @@
 ---
 name: hedera-dapps
-description: DApps with Hedera. decentralized apps.
+description: "DApps with Hedera. decentralized apps."
 category: blockchain
 tags: [hedera-dapps, blockchain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: tsc-config
-description: Config with TypeScript. configuration.
+description: "Config with TypeScript. configuration."
 category: frontend
 tags: [tsc, config, frontend, build-tool]
 models: [gpt-4, claude-3]

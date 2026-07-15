@@ -1,6 +1,6 @@
 ---
 name: cypress-deployment
-description: Deployment for Cypress: deployment and release
+description: "Deployment for Cypress: deployment and release"
 category: qa
 tags: [cypress-deployment, qa, russian]
 models: [sonnet, opus]

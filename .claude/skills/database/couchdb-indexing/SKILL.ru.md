@@ -1,6 +1,6 @@
 ---
 name: couchdb-indexing
-description: Indexing with CouchDB. indexes.
+description: "Indexing with CouchDB. indexes."
 category: database
 tags: [couchdb-indexing, database, russian]
 models: [sonnet, opus]

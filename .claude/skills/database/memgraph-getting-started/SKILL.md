@@ -1,6 +1,6 @@
 ---
 name: memgraph-getting-started
-description: Getting Started for Memgraph: initial setup and first steps
+description: "Getting Started for Memgraph: initial setup and first steps"
 category: database
 tags: [memgraph, getting-started, database]
 models: [sonnet, opus]

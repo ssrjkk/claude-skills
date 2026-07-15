@@ -1,6 +1,6 @@
 ---
 name: optuna-hyperparameter-tuning
-description: Hyperparameter Tuning with Optuna. optimizing params.
+description: "Hyperparameter Tuning with Optuna. optimizing params."
 category: ai
 tags: [optuna, hyperparameter-tuning, ai, ml]
 models: [gpt-4, claude-3]

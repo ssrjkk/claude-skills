@@ -1,6 +1,6 @@
 ---
 name: backbone-styling
-description: Styling with Backbone. component styling.
+description: "Styling with Backbone. component styling."
 category: frontend
 tags: [backbone, styling, frontend, frontend]
 models: [gpt-4, claude-3]

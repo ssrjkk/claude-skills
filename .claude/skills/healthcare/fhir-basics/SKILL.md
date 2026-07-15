@@ -1,6 +1,6 @@
 ---
 name: fhir-basics
-description: Basics with FHIR. fundamentals.
+description: "Basics with FHIR. fundamentals."
 category: healthcare
 tags: [fhir, basics, healthcare, healthcare]
 models: [gpt-4, claude-3]

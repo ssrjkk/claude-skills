@@ -1,6 +1,6 @@
 ---
 name: avalonia-ui
-description: UI with Avalonia. UI components.
+description: "UI with Avalonia. UI components."
 category: desktop
 tags: [avalonia, ui, desktop, desktop]
 models: [gpt-4, claude-3]

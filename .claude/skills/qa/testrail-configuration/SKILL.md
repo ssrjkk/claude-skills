@@ -1,6 +1,6 @@
 ---
 name: testrail-configuration
-description: Configuration for Testrail: configuration and setup
+description: "Configuration for Testrail: configuration and setup"
 category: qa
 tags: [testrail, configuration, qa]
 models: [sonnet, opus]

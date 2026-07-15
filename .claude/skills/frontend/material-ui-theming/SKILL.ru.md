@@ -1,6 +1,6 @@
 ---
 name: material-ui-theming
-description: Theming with MUI. custom themes.
+description: "Theming with MUI. custom themes."
 category: frontend
 tags: [material-ui-theming, frontend, russian]
 models: [sonnet, opus]

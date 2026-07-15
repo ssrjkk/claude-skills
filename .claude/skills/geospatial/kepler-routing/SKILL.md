@@ -1,6 +1,6 @@
 ---
 name: kepler-routing
-description: Routing with Kepler.gl. routing.
+description: "Routing with Kepler.gl. routing."
 category: geospatial
 tags: [kepler, routing, geospatial, gis]
 models: [gpt-4, claude-3]

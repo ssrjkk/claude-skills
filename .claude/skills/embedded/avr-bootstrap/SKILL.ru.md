@@ -1,6 +1,6 @@
 ---
 name: avr-bootstrap
-description: Bootstrap with AVR. startup code.
+description: "Bootstrap with AVR. startup code."
 category: embedded
 tags: [avr-bootstrap, embedded, russian]
 models: [sonnet, opus]

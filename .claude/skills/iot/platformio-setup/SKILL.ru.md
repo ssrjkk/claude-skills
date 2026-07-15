@@ -1,6 +1,6 @@
 ---
 name: platformio-setup
-description: Setup with PlatformIO. setup.
+description: "Setup with PlatformIO. setup."
 category: iot
 tags: [platformio-setup, iot, russian]
 models: [sonnet, opus]

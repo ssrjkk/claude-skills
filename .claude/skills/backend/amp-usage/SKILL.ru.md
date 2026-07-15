@@ -1,6 +1,6 @@
 ---
 name: amp-usage
-description: Usage for Amp: usage reference
+description: "Usage for Amp: usage reference"
 category: backend
 tags: [amp-usage, backend, russian]
 models: [sonnet, opus]

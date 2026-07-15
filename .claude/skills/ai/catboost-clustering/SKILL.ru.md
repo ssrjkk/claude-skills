@@ -1,6 +1,6 @@
 ---
 name: catboost-clustering
-description: Clustering with Catboost. grouping data.
+description: "Clustering with Catboost. grouping data."
 category: ai
 tags: [catboost-clustering, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: algorand-defi
-description: DeFi with Algorand. DeFi.
+description: "DeFi with Algorand. DeFi."
 category: blockchain
 tags: [algorand, defi, blockchain, blockchain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: squid-fundamentals
-description: Fundamentals for Squid: core concepts
+description: "Fundamentals for Squid: core concepts"
 category: backend
 tags: [squid-fundamentals, backend, russian]
 models: [sonnet, opus]

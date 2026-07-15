@@ -1,6 +1,6 @@
 ---
 name: xstate-middleware
-description: Middleware with XState. side effects.
+description: "Middleware with XState. side effects."
 category: frontend
 tags: [xstate-middleware, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: dynamodb-aggregation
-description: Aggregation with DynamoDB. aggregation pipelines.
+description: "Aggregation with DynamoDB. aggregation pipelines."
 category: database
 tags: [dynamodb, aggregation, database, nosql]
 models: [gpt-4, claude-3]

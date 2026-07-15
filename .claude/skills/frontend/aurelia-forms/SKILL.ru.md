@@ -1,6 +1,6 @@
 ---
 name: aurelia-forms
-description: Forms with Aurelia. form handling.
+description: "Forms with Aurelia. form handling."
 category: frontend
 tags: [aurelia-forms, frontend, russian]
 models: [sonnet, opus]

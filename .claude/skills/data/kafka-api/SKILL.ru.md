@@ -1,6 +1,6 @@
 ---
 name: kafka-api
-description: API for Kafka: API development and integration
+description: "API for Kafka: API development and integration"
 category: data
 tags: [kafka-api, data, russian]
 models: [sonnet, opus]

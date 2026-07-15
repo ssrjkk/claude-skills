@@ -1,6 +1,6 @@
 ---
 name: nuxt-isr
-description: ISR with Nuxt. incremental.
+description: "ISR with Nuxt. incremental."
 category: frontend
 tags: [nuxt-isr, frontend, russian]
 models: [sonnet, opus]

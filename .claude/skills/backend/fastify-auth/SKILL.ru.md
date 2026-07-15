@@ -1,6 +1,6 @@
 ---
 name: fastify-auth
-description: Auth with Fastify. JWT.
+description: "Auth with Fastify. JWT."
 category: backend
 tags: [fastify-auth, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: snyk
-description: Scans dependencies, containers, and IaC for vulnerabilities with Snyk in CI/CD pipelines.
+description: "Scans dependencies, containers, and IaC for vulnerabilities with Snyk in CI/CD pipelines."
 category: security
 tags: [snyk, security, russian]
 models: [sonnet, opus]

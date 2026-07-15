@@ -1,6 +1,6 @@
 ---
 name: hipaa-incident-response
-description: Incident Response with HIPAA. incident response.
+description: "Incident Response with HIPAA. incident response."
 category: security
 tags: [hipaa, incident-response, security, security]
 models: [gpt-4, claude-3]

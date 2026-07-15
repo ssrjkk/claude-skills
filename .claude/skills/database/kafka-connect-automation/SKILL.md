@@ -1,6 +1,6 @@
 ---
 name: kafka-connect-automation
-description: Automation for Kafka-Connect: automation and scripting
+description: "Automation for Kafka-Connect: automation and scripting"
 category: database
 tags: [kafka-connect, automation, database]
 models: [sonnet, opus]

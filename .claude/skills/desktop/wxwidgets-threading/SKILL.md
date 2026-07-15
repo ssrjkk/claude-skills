@@ -1,6 +1,6 @@
 ---
 name: wxwidgets-threading
-description: Threading with wxWidgets. multithreading.
+description: "Threading with wxWidgets. multithreading."
 category: desktop
 tags: [wxwidgets, threading, desktop, desktop]
 models: [gpt-4, claude-3]

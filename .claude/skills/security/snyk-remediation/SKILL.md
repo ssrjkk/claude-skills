@@ -1,6 +1,6 @@
 ---
 name: snyk-remediation
-description: Remediation with Snyk. fixing vulns.
+description: "Remediation with Snyk. fixing vulns."
 category: security
 tags: [snyk, remediation, security, security-tool]
 models: [gpt-4, claude-3]

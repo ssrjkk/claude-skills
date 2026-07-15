@@ -1,6 +1,6 @@
 ---
 name: testcafe-setup
-description: Setup with TestCafe. installation.
+description: "Setup with TestCafe. installation."
 category: qa
 tags: [testcafe-setup, qa, russian]
 models: [sonnet, opus]

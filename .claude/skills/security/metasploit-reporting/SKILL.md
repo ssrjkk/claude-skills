@@ -1,6 +1,6 @@
 ---
 name: metasploit-reporting
-description: Reporting with Metasploit. reports.
+description: "Reporting with Metasploit. reports."
 category: security
 tags: [metasploit, reporting, security, security-tool]
 models: [gpt-4, claude-3]

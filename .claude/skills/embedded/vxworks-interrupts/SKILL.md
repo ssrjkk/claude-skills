@@ -1,6 +1,6 @@
 ---
 name: vxworks-interrupts
-description: Interrupts with VxWorks. ISR handling.
+description: "Interrupts with VxWorks. ISR handling."
 category: embedded
 tags: [vxworks, interrupts, embedded, rtos]
 models: [gpt-4, claude-3]

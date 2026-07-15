@@ -1,6 +1,6 @@
 ---
 name: inferno-routing
-description: Routing with Inferno. client routing.
+description: "Routing with Inferno. client routing."
 category: frontend
 tags: [inferno, routing, frontend, frontend]
 models: [gpt-4, claude-3]

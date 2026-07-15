@@ -1,6 +1,6 @@
 ---
 name: spec-versioning
-description: Versioning with Spec. version control.
+description: "Versioning with Spec. version control."
 category: design
 tags: [spec, versioning, design, design]
 models: [gpt-4, claude-3]

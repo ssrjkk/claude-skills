@@ -1,6 +1,6 @@
 ---
 name: flyio-monitoring
-description: Monitoring with Fly.io. monitoring.
+description: "Monitoring with Fly.io. monitoring."
 category: devops
 tags: [flyio-monitoring, devops, russian]
 models: [sonnet, opus]

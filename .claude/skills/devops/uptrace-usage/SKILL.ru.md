@@ -1,6 +1,6 @@
 ---
 name: uptrace-usage
-description: Usage for Uptrace: usage reference
+description: "Usage for Uptrace: usage reference"
 category: devops
 tags: [uptrace-usage, devops, russian]
 models: [sonnet, opus]

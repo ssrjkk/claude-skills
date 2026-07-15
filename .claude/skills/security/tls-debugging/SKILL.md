@@ -1,6 +1,6 @@
 ---
 name: tls-debugging
-description: Debugging for Tls: debugging and troubleshooting
+description: "Debugging for Tls: debugging and troubleshooting"
 category: security
 tags: [tls, debugging, security]
 models: [sonnet, opus]

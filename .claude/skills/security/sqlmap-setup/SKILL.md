@@ -1,6 +1,6 @@
 ---
 name: sqlmap-setup
-description: Setup with SQLmap. installation.
+description: "Setup with SQLmap. installation."
 category: security
 tags: [sqlmap, setup, security, security-tool]
 models: [gpt-4, claude-3]

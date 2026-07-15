@@ -1,6 +1,6 @@
 ---
 name: tensorflow-pruning
-description: Pruning with Tensorflow. model pruning.
+description: "Pruning with Tensorflow. model pruning."
 category: ai
 tags: [tensorflow-pruning, ai, russian]
 models: [sonnet, opus]

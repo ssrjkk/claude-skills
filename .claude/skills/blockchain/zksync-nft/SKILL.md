@@ -1,6 +1,6 @@
 ---
 name: zksync-nft
-description: NFT with zkSync. tokens.
+description: "NFT with zkSync. tokens."
 category: blockchain
 tags: [zksync, nft, blockchain, blockchain]
 models: [gpt-4, claude-3]

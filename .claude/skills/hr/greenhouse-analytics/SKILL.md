@@ -1,6 +1,6 @@
 ---
 name: greenhouse-analytics
-description: Analytics with Greenhouse. analytics.
+description: "Analytics with Greenhouse. analytics."
 category: hr
 tags: [greenhouse, analytics, hr, hr-tech]
 models: [gpt-4, claude-3]

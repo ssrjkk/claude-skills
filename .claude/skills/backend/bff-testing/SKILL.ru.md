@@ -1,6 +1,6 @@
 ---
 name: bff-testing
-description: Testing with Backend for Frontend. testing the pattern.
+description: "Testing with Backend for Frontend. testing the pattern."
 category: backend
 tags: [bff-testing, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: wireshark-compliance
-description: Compliance with Wireshark. compliance.
+description: "Compliance with Wireshark. compliance."
 category: security
 tags: [wireshark-compliance, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: skill-0023
-description: Specialized skill #0023 for devops development
+description: "Specialized skill #0023 for devops development"
 category: devops
 tags: [devops, skill, 0023]
 models: [sonnet, opus]

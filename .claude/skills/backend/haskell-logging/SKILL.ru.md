@@ -1,6 +1,6 @@
 ---
 name: haskell-logging
-description: Logging with Haskell. app logging.
+description: "Logging with Haskell. app logging."
 category: backend
 tags: [haskell-logging, backend, russian]
 models: [sonnet, opus]

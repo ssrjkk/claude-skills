@@ -1,6 +1,6 @@
 ---
 name: sidecar-intro
-description: Introduction with Sidecar. understanding the pattern.
+description: "Introduction with Sidecar. understanding the pattern."
 category: backend
 tags: [sidecar, intro, backend, architecture]
 models: [gpt-4, claude-3]

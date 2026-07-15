@@ -1,6 +1,6 @@
 ---
 name: game-maker-audio
-description: Audio with GameMaker. audio.
+description: "Audio with GameMaker. audio."
 category: gamedev
 tags: [game-maker, audio, gamedev, game-engine]
 models: [gpt-4, claude-3]

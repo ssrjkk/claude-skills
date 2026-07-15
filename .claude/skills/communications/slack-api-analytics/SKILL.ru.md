@@ -1,6 +1,6 @@
 ---
 name: slack-api-analytics
-description: Analytics with Slack API. analytics.
+description: "Analytics with Slack API. analytics."
 category: communications
 tags: [slack-api-analytics, communications, russian]
 models: [sonnet, opus]

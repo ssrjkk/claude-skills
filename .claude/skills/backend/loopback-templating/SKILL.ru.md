@@ -1,6 +1,6 @@
 ---
 name: loopback-templating
-description: Templating with LoopBack. Pug.
+description: "Templating with LoopBack. Pug."
 category: backend
 tags: [loopback-templating, backend, russian]
 models: [sonnet, opus]

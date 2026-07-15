@@ -1,6 +1,6 @@
 ---
 name: kind-helm
-description: Helm with Kind. package management.
+description: "Helm with Kind. package management."
 category: devops
 tags: [kind-helm, devops, russian]
 models: [sonnet, opus]

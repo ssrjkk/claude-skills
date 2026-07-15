@@ -1,6 +1,6 @@
 ---
 name: koa-templating
-description: Templating with Koa. Pug.
+description: "Templating with Koa. Pug."
 category: backend
 tags: [koa-templating, backend, russian]
 models: [sonnet, opus]

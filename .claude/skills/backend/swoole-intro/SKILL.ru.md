@@ -1,6 +1,6 @@
 ---
 name: swoole-intro
-description: Intro for Swoole: introduction
+description: "Intro for Swoole: introduction"
 category: backend
 tags: [swoole-intro, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: wpf-native
-description: Native with WPF. native APIs.
+description: "Native with WPF. native APIs."
 category: desktop
 tags: [wpf-native, desktop, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: azure-pipelines-setup
-description: Setup with Azure Pipelines. pipeline setup.
+description: "Setup with Azure Pipelines. pipeline setup."
 category: devops
 tags: [azure-pipelines-setup, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: trl-visualization
-description: Visualization with Trl. model viz.
+description: "Visualization with Trl. model viz."
 category: ai
 tags: [trl, visualization, ai, deep-learning]
 models: [gpt-4, claude-3]

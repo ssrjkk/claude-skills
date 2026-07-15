@@ -1,6 +1,6 @@
 ---
 name: aws-serverless
-description: Serverless with AWS. functions.
+description: "Serverless with AWS. functions."
 category: devops
 tags: [aws, serverless, devops, cloud]
 models: [gpt-4, claude-3]

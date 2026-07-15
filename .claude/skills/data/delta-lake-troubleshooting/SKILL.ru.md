@@ -1,6 +1,6 @@
 ---
 name: delta-lake-troubleshooting
-description: Troubleshooting for Delta-Lake: troubleshooting common issues
+description: "Troubleshooting for Delta-Lake: troubleshooting common issues"
 category: data
 tags: [delta-lake-troubleshooting, data, russian]
 models: [sonnet, opus]

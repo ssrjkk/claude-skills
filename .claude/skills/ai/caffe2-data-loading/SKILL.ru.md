@@ -1,6 +1,6 @@
 ---
 name: caffe2-data-loading
-description: Data Loading with Caffe2. data pipelines.
+description: "Data Loading with Caffe2. data pipelines."
 category: ai
 tags: [caffe2-data-loading, ai, russian]
 models: [sonnet, opus]

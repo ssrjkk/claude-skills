@@ -1,6 +1,6 @@
 ---
 name: alpine-backup
-description: Backup with Alpine Linux. backup.
+description: "Backup with Alpine Linux. backup."
 category: os-admin
 tags: [alpine-backup, os-admin, russian]
 models: [sonnet, opus]

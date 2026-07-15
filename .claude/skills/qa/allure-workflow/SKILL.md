@@ -1,6 +1,6 @@
 ---
 name: allure-workflow
-description: Workflow for Allure: workflow optimization
+description: "Workflow for Allure: workflow optimization"
 category: qa
 tags: [allure, workflow, qa]
 models: [sonnet, opus]

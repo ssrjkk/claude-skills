@@ -1,6 +1,6 @@
 ---
 name: lit-styling
-description: Styling with Lit. component styling.
+description: "Styling with Lit. component styling."
 category: frontend
 tags: [lit, styling, frontend, frontend]
 models: [gpt-4, claude-3]

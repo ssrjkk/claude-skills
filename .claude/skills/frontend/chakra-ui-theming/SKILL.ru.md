@@ -1,6 +1,6 @@
 ---
 name: chakra-ui-theming
-description: Theming with Chakra UI. custom themes.
+description: "Theming with Chakra UI. custom themes."
 category: frontend
 tags: [chakra-ui-theming, frontend, russian]
 models: [sonnet, opus]

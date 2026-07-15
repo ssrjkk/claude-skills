@@ -1,6 +1,6 @@
 ---
 name: packer-troubleshooting
-description: Troubleshooting for Packer: troubleshooting common issues
+description: "Troubleshooting for Packer: troubleshooting common issues"
 category: devops
 tags: [packer-troubleshooting, devops, russian]
 models: [sonnet, opus]

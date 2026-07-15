@@ -1,6 +1,6 @@
 ---
 name: nuxt-debugging
-description: Debugging for Nuxt: debugging and troubleshooting
+description: "Debugging for Nuxt: debugging and troubleshooting"
 category: frontend
 tags: [nuxt, debugging, frontend]
 models: [sonnet, opus]

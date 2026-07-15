@@ -1,6 +1,6 @@
 ---
 name: vultr-serverless
-description: Serverless with Vultr. functions.
+description: "Serverless with Vultr. functions."
 category: devops
 tags: [vultr-serverless, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: aws-compute
-description: Compute with AWS. VM/compute.
+description: "Compute with AWS. VM/compute."
 category: devops
 tags: [aws-compute, devops, russian]
 models: [sonnet, opus]

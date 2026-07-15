@@ -1,6 +1,6 @@
 ---
 name: agentic-usage
-description: Usage for Agentic: usage reference
+description: "Usage for Agentic: usage reference"
 category: ai
 tags: [agentic, usage, ai]
 models: [sonnet, opus]

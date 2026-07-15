@@ -1,6 +1,6 @@
 ---
 name: pcidss-testing
-description: Testing with PCI DSS. security testing.
+description: "Testing with PCI DSS. security testing."
 category: security
 tags: [pcidss, testing, security, security]
 models: [gpt-4, claude-3]

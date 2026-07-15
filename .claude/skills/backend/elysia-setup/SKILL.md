@@ -1,6 +1,6 @@
 ---
 name: elysia-setup
-description: Setup for Elysia: setup guide
+description: "Setup for Elysia: setup guide"
 category: backend
 tags: [elysia, setup, backend]
 models: [sonnet, opus]

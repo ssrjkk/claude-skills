@@ -1,6 +1,6 @@
 ---
 name: k3s-configmap
-description: ConfigMap with K3s. config management.
+description: "ConfigMap with K3s. config management."
 category: devops
 tags: [k3s, configmap, devops, kubernetes]
 models: [gpt-4, claude-3]

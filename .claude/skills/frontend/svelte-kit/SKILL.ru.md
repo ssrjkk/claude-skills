@@ -1,6 +1,6 @@
 ---
 name: svelte-kit
-description: Creates SvelteKit applications with file-based routing and server-side rendering. Use for lightweight, fast web applications.
+description: "Creates SvelteKit applications with file-based routing and server-side rendering. Use for lightweight, fast web applications."
 category: frontend
 tags: [svelte-kit, frontend, russian]
 models: [sonnet, opus]

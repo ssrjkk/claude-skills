@@ -1,6 +1,6 @@
 ---
 name: sympy-optimization
-description: Optimization with SymPy. optimization.
+description: "Optimization with SymPy. optimization."
 category: scientific
 tags: [sympy-optimization, scientific, russian]
 models: [sonnet, opus]

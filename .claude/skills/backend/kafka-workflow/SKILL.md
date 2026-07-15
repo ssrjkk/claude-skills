@@ -1,6 +1,6 @@
 ---
 name: kafka-workflow
-description: Workflow for Kafka: workflow optimization
+description: "Workflow for Kafka: workflow optimization"
 category: backend
 tags: [kafka, workflow, backend]
 models: [sonnet, opus]

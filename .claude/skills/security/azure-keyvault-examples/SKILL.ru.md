@@ -1,6 +1,6 @@
 ---
 name: azure-keyvault-examples
-description: Examples for Azure-Keyvault: practical examples
+description: "Examples for Azure-Keyvault: practical examples"
 category: security
 tags: [azure-keyvault-examples, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: swiper-integration
-description: Integration for Swiper: integration with other tools
+description: "Integration for Swiper: integration with other tools"
 category: frontend
 tags: [swiper-integration, frontend, russian]
 models: [sonnet, opus]

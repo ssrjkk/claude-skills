@@ -1,6 +1,6 @@
 ---
 name: mailgun-video
-description: Video with Mailgun. video calls.
+description: "Video with Mailgun. video calls."
 category: communications
 tags: [mailgun-video, communications, russian]
 models: [sonnet, opus]

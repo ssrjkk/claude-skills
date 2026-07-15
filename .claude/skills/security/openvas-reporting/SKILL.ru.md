@@ -1,6 +1,6 @@
 ---
 name: openvas-reporting
-description: Reporting with OpenVAS. reports.
+description: "Reporting with OpenVAS. reports."
 category: security
 tags: [openvas-reporting, security, russian]
 models: [sonnet, opus]

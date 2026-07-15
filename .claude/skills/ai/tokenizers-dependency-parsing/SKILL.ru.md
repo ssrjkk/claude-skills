@@ -1,6 +1,6 @@
 ---
 name: tokenizers-dependency-parsing
-description: Dependency Parsing with Tokenizers. syntax analysis.
+description: "Dependency Parsing with Tokenizers. syntax analysis."
 category: ai
 tags: [tokenizers-dependency-parsing, ai, russian]
 models: [sonnet, opus]

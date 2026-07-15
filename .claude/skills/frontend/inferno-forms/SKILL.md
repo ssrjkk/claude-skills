@@ -1,6 +1,6 @@
 ---
 name: inferno-forms
-description: Forms with Inferno. form handling.
+description: "Forms with Inferno. form handling."
 category: frontend
 tags: [inferno, forms, frontend, frontend]
 models: [gpt-4, claude-3]

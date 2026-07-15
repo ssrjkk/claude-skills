@@ -1,6 +1,6 @@
 ---
 name: neptune-production
-description: Production for Neptune: production deployment
+description: "Production for Neptune: production deployment"
 category: data
 tags: [neptune-production, data, russian]
 models: [sonnet, opus]

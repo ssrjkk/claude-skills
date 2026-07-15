@@ -1,6 +1,6 @@
 ---
 name: laminas-templating
-description: Templating with Laminas. Blade.
+description: "Templating with Laminas. Blade."
 category: backend
 tags: [laminas, templating, backend, backend]
 models: [gpt-4, claude-3]

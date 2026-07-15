@@ -1,6 +1,6 @@
 ---
 name: medusa-analytics
-description: Analytics with Medusa. analytics.
+description: "Analytics with Medusa. analytics."
 category: ecommerce
 tags: [medusa, analytics, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: mlflow-classification
-description: Classification with Mlflow. building classifiers.
+description: "Classification with Mlflow. building classifiers."
 category: ai
 tags: [mlflow-classification, ai, russian]
 models: [sonnet, opus]

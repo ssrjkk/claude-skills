@@ -1,6 +1,6 @@
 ---
 name: semgrep-getting-started
-description: Getting Started for Semgrep: initial setup and first steps
+description: "Getting Started for Semgrep: initial setup and first steps"
 category: security
 tags: [semgrep-getting-started, security, russian]
 models: [sonnet, opus]

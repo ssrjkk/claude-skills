@@ -1,6 +1,6 @@
 ---
 name: neon-production
-description: Production for Neon: production deployment
+description: "Production for Neon: production deployment"
 category: database
 tags: [neon-production, database, russian]
 models: [sonnet, opus]

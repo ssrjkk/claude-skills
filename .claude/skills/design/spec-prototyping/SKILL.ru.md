@@ -1,6 +1,6 @@
 ---
 name: spec-prototyping
-description: Prototyping with Spec. prototypes.
+description: "Prototyping with Spec. prototypes."
 category: design
 tags: [spec-prototyping, design, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: prometheus-tsdb-visualization
-description: Visualization with Prometheus TSDB. charting.
+description: "Visualization with Prometheus TSDB. charting."
 category: database
 tags: [prometheus-tsdb, visualization, database, time-series]
 models: [gpt-4, claude-3]

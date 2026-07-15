@@ -1,6 +1,6 @@
 ---
 name: mistral-advanced
-description: Advanced for Mistral: advanced patterns and techniques
+description: "Advanced for Mistral: advanced patterns and techniques"
 category: ai
 tags: [mistral-advanced, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: qa-skill-0039
-description: Specialized skill #0039 for qa development
+description: "Specialized skill #0039 for qa development"
 category: qa
 tags: [skill-0039, qa, russian]
 models: [sonnet, opus]

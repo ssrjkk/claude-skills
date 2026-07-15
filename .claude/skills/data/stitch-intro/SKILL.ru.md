@@ -1,6 +1,6 @@
 ---
 name: stitch-intro
-description: Intro for Stitch: introduction
+description: "Intro for Stitch: introduction"
 category: data
 tags: [stitch-intro, data, russian]
 models: [sonnet, opus]

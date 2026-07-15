@@ -1,6 +1,6 @@
 ---
 name: gnuplot-numerical
-description: Numerical with gnuplot. numerical methods.
+description: "Numerical with gnuplot. numerical methods."
 category: scientific
 tags: [gnuplot, numerical, scientific, scientific-computing]
 models: [gpt-4, claude-3]

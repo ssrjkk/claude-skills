@@ -1,6 +1,6 @@
 ---
 name: langchain-evaluation
-description: Evaluation with Langchain. LLM evaluation.
+description: "Evaluation with Langchain. LLM evaluation."
 category: ai
 tags: [langchain, evaluation, ai, llm]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: xgboost-deployment
-description: Deployment with Xgboost. model serving.
+description: "Deployment with Xgboost. model serving."
 category: ai
 tags: [xgboost-deployment, ai, russian]
 models: [sonnet, opus]

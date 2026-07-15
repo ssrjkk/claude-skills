@@ -1,6 +1,6 @@
 ---
 name: solar-pv-design
-description: Design with Solar PV. system design.
+description: "Design with Solar PV. system design."
 category: energy
 tags: [solar-pv, design, energy, renewable-energy]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: chargebee-setup
-description: Setup with Chargebee. account setup.
+description: "Setup with Chargebee. account setup."
 category: payments
 tags: [chargebee, setup, payments, billing]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: keras-visualization
-description: Visualization with Keras. model viz.
+description: "Visualization with Keras. model viz."
 category: ai
 tags: [keras-visualization, ai, russian]
 models: [sonnet, opus]

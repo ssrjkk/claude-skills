@@ -1,6 +1,6 @@
 ---
 name: modbus-implementation
-description: Implementation with Modbus. deployment.
+description: "Implementation with Modbus. deployment."
 category: energy
 tags: [modbus-implementation, energy, russian]
 models: [sonnet, opus]

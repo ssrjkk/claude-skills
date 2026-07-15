@@ -1,6 +1,6 @@
 ---
 name: midjourney-configuration
-description: Configuration for Midjourney: configuration and setup
+description: "Configuration for Midjourney: configuration and setup"
 category: ai
 tags: [midjourney, configuration, ai]
 models: [sonnet, opus]

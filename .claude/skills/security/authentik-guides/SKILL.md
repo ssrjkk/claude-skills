@@ -1,6 +1,6 @@
 ---
 name: authentik-guides
-description: Guides for Authentik: how-to guides
+description: "Guides for Authentik: how-to guides"
 category: security
 tags: [authentik, guides, security]
 models: [sonnet, opus]

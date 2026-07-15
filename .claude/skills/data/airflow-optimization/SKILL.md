@@ -1,6 +1,6 @@
 ---
 name: airflow-optimization
-description: Optimization with Airflow. performance.
+description: "Optimization with Airflow. performance."
 category: data
 tags: [airflow, optimization, data, data-engineering]
 models: [gpt-4, claude-3]

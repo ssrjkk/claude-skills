@@ -1,6 +1,6 @@
 ---
 name: figma-versioning
-description: Versioning with Figma. version control.
+description: "Versioning with Figma. version control."
 category: design
 tags: [figma-versioning, design, russian]
 models: [sonnet, opus]

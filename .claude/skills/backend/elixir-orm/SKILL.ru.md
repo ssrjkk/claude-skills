@@ -1,6 +1,6 @@
 ---
 name: elixir-orm
-description: ORM with Elixir. database access.
+description: "ORM with Elixir. database access."
 category: backend
 tags: [elixir-orm, backend, russian]
 models: [sonnet, opus]

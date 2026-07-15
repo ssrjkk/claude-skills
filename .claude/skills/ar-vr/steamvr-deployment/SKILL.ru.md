@@ -1,6 +1,6 @@
 ---
 name: steamvr-deployment
-description: Deployment with SteamVR. deployment.
+description: "Deployment with SteamVR. deployment."
 category: ar-vr
 tags: [steamvr-deployment, ar-vr, russian]
 models: [sonnet, opus]

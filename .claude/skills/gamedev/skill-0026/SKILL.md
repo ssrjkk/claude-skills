@@ -1,6 +1,6 @@
 ---
 name: skill-0026
-description: Specialized skill #0026 for gamedev development
+description: "Specialized skill #0026 for gamedev development"
 category: gamedev
 tags: [gamedev, skill, 0026]
 models: [sonnet, opus]

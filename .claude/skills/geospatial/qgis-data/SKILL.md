@@ -1,6 +1,6 @@
 ---
 name: qgis-data
-description: Data with QGIS. geospatial data.
+description: "Data with QGIS. geospatial data."
 category: geospatial
 tags: [qgis, data, geospatial, gis]
 models: [gpt-4, claude-3]

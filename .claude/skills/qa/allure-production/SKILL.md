@@ -1,6 +1,6 @@
 ---
 name: allure-production
-description: Production for Allure: production deployment
+description: "Production for Allure: production deployment"
 category: qa
 tags: [allure, production, qa]
 models: [sonnet, opus]

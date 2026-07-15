@@ -1,6 +1,6 @@
 ---
 name: john-compliance
-description: Compliance with John the Ripper. compliance.
+description: "Compliance with John the Ripper. compliance."
 category: security
 tags: [john, compliance, security, security-tool]
 models: [gpt-4, claude-3]

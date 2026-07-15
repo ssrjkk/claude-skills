@@ -1,6 +1,6 @@
 ---
 name: nltk-summarization
-description: Summarization with Nltk. text summarization.
+description: "Summarization with Nltk. text summarization."
 category: ai
 tags: [nltk-summarization, ai, russian]
 models: [sonnet, opus]

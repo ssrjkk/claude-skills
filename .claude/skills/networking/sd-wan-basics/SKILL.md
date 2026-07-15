@@ -1,6 +1,6 @@
 ---
 name: sd-wan-basics
-description: Basics with SD-WAN. fundamentals.
+description: "Basics with SD-WAN. fundamentals."
 category: networking
 tags: [sd-wan, basics, networking, networking]
 models: [gpt-4, claude-3]

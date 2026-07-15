@@ -1,6 +1,6 @@
 ---
 name: pyramid-deployment
-description: Deployment with Pyramid. production deploy.
+description: "Deployment with Pyramid. production deploy."
 category: backend
 tags: [pyramid-deployment, backend, russian]
 models: [sonnet, opus]

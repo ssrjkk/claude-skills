@@ -1,6 +1,6 @@
 ---
 name: svelte-optimization
-description: Optimization for Svelte: performance tuning and optimization
+description: "Optimization for Svelte: performance tuning and optimization"
 category: frontend
 tags: [svelte-optimization, frontend, russian]
 models: [sonnet, opus]

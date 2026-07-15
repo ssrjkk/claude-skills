@@ -1,6 +1,6 @@
 ---
 name: er-diagrams-modeling
-description: Modeling with ER Diagrams. system modeling.
+description: "Modeling with ER Diagrams. system modeling."
 category: engineering
 tags: [er-diagrams-modeling, engineering, russian]
 models: [sonnet, opus]

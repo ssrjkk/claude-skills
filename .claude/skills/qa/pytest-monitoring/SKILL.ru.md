@@ -1,6 +1,6 @@
 ---
 name: pytest-monitoring
-description: Monitoring for Pytest: monitoring and observability
+description: "Monitoring for Pytest: monitoring and observability"
 category: qa
 tags: [pytest-monitoring, qa, russian]
 models: [sonnet, opus]

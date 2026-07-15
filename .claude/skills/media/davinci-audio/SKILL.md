@@ -1,6 +1,6 @@
 ---
 name: davinci-audio
-description: Audio with DaVinci Resolve. audio editing.
+description: "Audio with DaVinci Resolve. audio editing."
 category: media
 tags: [davinci, audio, media, media-production]
 models: [gpt-4, claude-3]

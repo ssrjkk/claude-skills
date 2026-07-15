@@ -1,6 +1,6 @@
 ---
 name: docker-compose-volumes
-description: Volumes with Docker Compose. data volumes.
+description: "Volumes with Docker Compose. data volumes."
 category: devops
 tags: [docker-compose, volumes, devops, container]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: starlette-auth
-description: Authentication with Starlette. user auth.
+description: "Authentication with Starlette. user auth."
 category: backend
 tags: [starlette-auth, backend, russian]
 models: [sonnet, opus]

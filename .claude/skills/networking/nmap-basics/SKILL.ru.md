@@ -1,6 +1,6 @@
 ---
 name: nmap-basics
-description: Basics with Nmap. basic usage.
+description: "Basics with Nmap. basic usage."
 category: networking
 tags: [nmap-basics, networking, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: wpf-styling
-description: Styling with WPF. styling.
+description: "Styling with WPF. styling."
 category: desktop
 tags: [wpf-styling, desktop, russian]
 models: [sonnet, opus]

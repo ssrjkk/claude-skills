@@ -1,6 +1,6 @@
 ---
 name: trivy-security
-description: Security for Trivy: security best practices
+description: "Security for Trivy: security best practices"
 category: security
 tags: [trivy, security, security]
 models: [sonnet, opus]

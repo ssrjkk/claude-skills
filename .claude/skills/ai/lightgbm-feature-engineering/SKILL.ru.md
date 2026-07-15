@@ -1,6 +1,6 @@
 ---
 name: lightgbm-feature-engineering
-description: Feature Engineering with Lightgbm. creating features.
+description: "Feature Engineering with Lightgbm. creating features."
 category: ai
 tags: [lightgbm-feature-engineering, ai, russian]
 models: [sonnet, opus]

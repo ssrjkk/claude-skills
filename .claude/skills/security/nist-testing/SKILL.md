@@ -1,6 +1,6 @@
 ---
 name: nist-testing
-description: Testing with NIST. security testing.
+description: "Testing with NIST. security testing."
 category: security
 tags: [nist, testing, security, security]
 models: [gpt-4, claude-3]

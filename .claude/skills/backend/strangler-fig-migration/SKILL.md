@@ -1,6 +1,6 @@
 ---
 name: strangler-fig-migration
-description: Migration with Strangler Fig. adopting the pattern.
+description: "Migration with Strangler Fig. adopting the pattern."
 category: backend
 tags: [strangler-fig, migration, backend, architecture]
 models: [gpt-4, claude-3]

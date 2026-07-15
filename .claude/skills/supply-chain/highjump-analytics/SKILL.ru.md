@@ -1,6 +1,6 @@
 ---
 name: highjump-analytics
-description: Analytics with HighJump. analytics.
+description: "Analytics with HighJump. analytics."
 category: supply-chain
 tags: [highjump-analytics, supply-chain, russian]
 models: [sonnet, opus]

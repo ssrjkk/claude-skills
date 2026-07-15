@@ -1,6 +1,6 @@
 ---
 name: sketch-components
-description: Components with Sketch. components.
+description: "Components with Sketch. components."
 category: design
 tags: [sketch, components, design, design]
 models: [gpt-4, claude-3]

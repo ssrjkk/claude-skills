@@ -1,6 +1,6 @@
 ---
 name: fourkites-integration
-description: Integration with FourKites. integration.
+description: "Integration with FourKites. integration."
 category: supply-chain
 tags: [fourkites, integration, supply-chain, logistics]
 models: [gpt-4, claude-3]

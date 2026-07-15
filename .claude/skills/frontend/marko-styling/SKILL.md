@@ -1,6 +1,6 @@
 ---
 name: marko-styling
-description: Styling with Marko. component styling.
+description: "Styling with Marko. component styling."
 category: frontend
 tags: [marko, styling, frontend, frontend]
 models: [gpt-4, claude-3]

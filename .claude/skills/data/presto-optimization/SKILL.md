@@ -1,6 +1,6 @@
 ---
 name: presto-optimization
-description: Optimization with Presto. performance.
+description: "Optimization with Presto. performance."
 category: data
 tags: [presto, optimization, data, data-engineering]
 models: [gpt-4, claude-3]

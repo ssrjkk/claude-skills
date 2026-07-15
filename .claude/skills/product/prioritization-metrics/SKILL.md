@@ -1,6 +1,6 @@
 ---
 name: prioritization-metrics
-description: Metrics with Prioritization. measurement.
+description: "Metrics with Prioritization. measurement."
 category: product
 tags: [prioritization, metrics, product, product-framework]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: teamcity-testing
-description: Testing with TeamCity. automated tests.
+description: "Testing with TeamCity. automated tests."
 category: devops
 tags: [teamcity-testing, devops, russian]
 models: [sonnet, opus]

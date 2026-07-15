@@ -1,6 +1,6 @@
 ---
 name: kornia-color-processing
-description: Color Processing with Kornia. color manipulation.
+description: "Color Processing with Kornia. color manipulation."
 category: ai
 tags: [kornia, color-processing, ai, computer-vision]
 models: [gpt-4, claude-3]

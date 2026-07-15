@@ -1,6 +1,6 @@
 ---
 name: order-management-reporting
-description: Reporting with OMS. reports.
+description: "Reporting with OMS. reports."
 category: finance
 tags: [order-management-reporting, finance, russian]
 models: [sonnet, opus]

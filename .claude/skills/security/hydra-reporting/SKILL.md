@@ -1,6 +1,6 @@
 ---
 name: hydra-reporting
-description: Reporting with Hydra. reports.
+description: "Reporting with Hydra. reports."
 category: security
 tags: [hydra, reporting, security, security-tool]
 models: [gpt-4, claude-3]

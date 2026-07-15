@@ -1,6 +1,6 @@
 ---
 name: prometheus-tracing
-description: Tracing with Prometheus. distributed tracing.
+description: "Tracing with Prometheus. distributed tracing."
 category: devops
 tags: [prometheus-tracing, devops, russian]
 models: [sonnet, opus]

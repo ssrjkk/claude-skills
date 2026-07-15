@@ -1,6 +1,6 @@
 ---
 name: nuxt-testing
-description: Testing for Nuxt: testing and validation
+description: "Testing for Nuxt: testing and validation"
 category: frontend
 tags: [nuxt, testing, frontend]
 models: [sonnet, opus]

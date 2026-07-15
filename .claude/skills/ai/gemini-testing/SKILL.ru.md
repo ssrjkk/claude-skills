@@ -1,6 +1,6 @@
 ---
 name: gemini-testing
-description: Testing for Gemini: testing and validation
+description: "Testing for Gemini: testing and validation"
 category: ai
 tags: [gemini-testing, ai, russian]
 models: [sonnet, opus]

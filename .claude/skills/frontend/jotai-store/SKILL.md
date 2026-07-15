@@ -1,6 +1,6 @@
 ---
 name: jotai-store
-description: Store with Jotai. state store.
+description: "Store with Jotai. state store."
 category: frontend
 tags: [jotai, store, frontend, state-management]
 models: [gpt-4, claude-3]

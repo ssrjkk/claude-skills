@@ -1,6 +1,6 @@
 ---
 name: yolo-image-filtering
-description: Image Filtering with Yolo. image filters.
+description: "Image Filtering with Yolo. image filters."
 category: ai
 tags: [yolo-image-filtering, ai, russian]
 models: [sonnet, opus]

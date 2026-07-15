@@ -1,6 +1,6 @@
 ---
 name: dgraph-modeling
-description: Modeling with Dgraph. graph modeling.
+description: "Modeling with Dgraph. graph modeling."
 category: database
 tags: [dgraph, modeling, database, graph-database]
 models: [gpt-4, claude-3]

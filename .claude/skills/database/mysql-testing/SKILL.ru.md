@@ -1,6 +1,6 @@
 ---
 name: mysql-testing
-description: Testing for Mysql: testing and validation
+description: "Testing for Mysql: testing and validation"
 category: database
 tags: [mysql-testing, database, russian]
 models: [sonnet, opus]

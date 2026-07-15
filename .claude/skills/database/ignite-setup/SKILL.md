@@ -1,6 +1,6 @@
 ---
 name: ignite-setup
-description: Setup with Apache Ignite. installation.
+description: "Setup with Apache Ignite. installation."
 category: database
 tags: [ignite, setup, database, caching]
 models: [gpt-4, claude-3]

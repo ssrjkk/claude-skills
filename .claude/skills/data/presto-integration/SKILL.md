@@ -1,6 +1,6 @@
 ---
 name: presto-integration
-description: Integration with Presto. connectors.
+description: "Integration with Presto. connectors."
 category: data
 tags: [presto, integration, data, data-engineering]
 models: [gpt-4, claude-3]

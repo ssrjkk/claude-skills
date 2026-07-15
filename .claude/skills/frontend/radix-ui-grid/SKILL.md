@@ -1,6 +1,6 @@
 ---
 name: radix-ui-grid
-description: Grid with Radix UI. layout grids.
+description: "Grid with Radix UI. layout grids."
 category: frontend
 tags: [radix-ui, grid, frontend, css]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: appium-mobile
-description: Mobile with Appium. mobile testing.
+description: "Mobile with Appium. mobile testing."
 category: qa
 tags: [appium-mobile, qa, russian]
 models: [sonnet, opus]

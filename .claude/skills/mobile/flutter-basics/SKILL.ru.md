@@ -1,6 +1,6 @@
 ---
 name: flutter-basics
-description: Basics for Flutter: fundamentals and core concepts
+description: "Basics for Flutter: fundamentals and core concepts"
 category: mobile
 tags: [flutter-basics, mobile, russian]
 models: [sonnet, opus]

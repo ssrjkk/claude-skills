@@ -1,6 +1,6 @@
 ---
 name: near-bridge
-description: Bridge with NEAR. cross-chain.
+description: "Bridge with NEAR. cross-chain."
 category: blockchain
 tags: [near, bridge, blockchain, blockchain]
 models: [gpt-4, claude-3]

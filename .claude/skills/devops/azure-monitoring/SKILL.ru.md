@@ -1,6 +1,6 @@
 ---
 name: azure-monitoring
-description: Monitoring with Azure. monitoring.
+description: "Monitoring with Azure. monitoring."
 category: devops
 tags: [azure-monitoring, devops, russian]
 models: [sonnet, opus]

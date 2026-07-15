@@ -1,6 +1,6 @@
 ---
 name: dagger-caching
-description: Caching with Dagger. dependency caching.
+description: "Caching with Dagger. dependency caching."
 category: devops
 tags: [dagger, caching, devops, ci-cd]
 models: [gpt-4, claude-3]

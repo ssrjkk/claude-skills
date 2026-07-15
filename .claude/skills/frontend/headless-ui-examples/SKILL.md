@@ -1,6 +1,6 @@
 ---
 name: headless-ui-examples
-description: Examples for Headless-Ui: practical examples
+description: "Examples for Headless-Ui: practical examples"
 category: frontend
 tags: [headless-ui, examples, frontend]
 models: [sonnet, opus]

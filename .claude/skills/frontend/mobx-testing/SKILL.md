@@ -1,6 +1,6 @@
 ---
 name: mobx-testing
-description: Testing with MobX. state testing.
+description: "Testing with MobX. state testing."
 category: frontend
 tags: [mobx, testing, frontend, state-management]
 models: [gpt-4, claude-3]

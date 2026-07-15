@@ -1,6 +1,6 @@
 ---
 name: strongdm-examples
-description: Examples for Strongdm: practical examples
+description: "Examples for Strongdm: practical examples"
 category: security
 tags: [strongdm, examples, security]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vercel-serverless
-description: Serverless with Vercel. functions.
+description: "Serverless with Vercel. functions."
 category: devops
 tags: [vercel, serverless, devops, cloud]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: fantom-setup
-description: Setup with Fantom. node setup.
+description: "Setup with Fantom. node setup."
 category: blockchain
 tags: [fantom, setup, blockchain, blockchain]
 models: [gpt-4, claude-3]

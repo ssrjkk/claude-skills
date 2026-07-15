@@ -1,6 +1,6 @@
 ---
 name: iso27001-tools
-description: Tools with ISO 27001. security tools.
+description: "Tools with ISO 27001. security tools."
 category: security
 tags: [iso27001-tools, security, russian]
 models: [sonnet, opus]

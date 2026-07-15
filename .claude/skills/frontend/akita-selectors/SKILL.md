@@ -1,6 +1,6 @@
 ---
 name: akita-selectors
-description: Selectors with Akita. derived data.
+description: "Selectors with Akita. derived data."
 category: frontend
 tags: [akita, selectors, frontend, state-management]
 models: [gpt-4, claude-3]

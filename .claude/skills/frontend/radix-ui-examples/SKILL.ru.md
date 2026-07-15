@@ -1,6 +1,6 @@
 ---
 name: radix-ui-examples
-description: Examples for Radix-Ui: practical examples
+description: "Examples for Radix-Ui: practical examples"
 category: frontend
 tags: [radix-ui-examples, frontend, russian]
 models: [sonnet, opus]

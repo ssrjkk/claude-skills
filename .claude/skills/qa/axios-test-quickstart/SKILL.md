@@ -1,6 +1,6 @@
 ---
 name: axios-test-quickstart
-description: Quickstart for Axios-Test: quick start guide
+description: "Quickstart for Axios-Test: quick start guide"
 category: qa
 tags: [axios-test, quickstart, qa]
 models: [sonnet, opus]

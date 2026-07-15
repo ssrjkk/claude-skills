@@ -1,6 +1,6 @@
 ---
 name: react-monitoring
-description: Monitoring for React: monitoring and observability
+description: "Monitoring for React: monitoring and observability"
 category: frontend
 tags: [react, monitoring, frontend]
 models: [sonnet, opus]

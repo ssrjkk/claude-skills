@@ -1,6 +1,6 @@
 ---
 name: trl-data-loading
-description: Data Loading with Trl. data pipelines.
+description: "Data Loading with Trl. data pipelines."
 category: ai
 tags: [trl-data-loading, ai, russian]
 models: [sonnet, opus]

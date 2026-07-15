@@ -1,6 +1,6 @@
 ---
 name: stripe-billing-dunning
-description: Dunning with Stripe Billing. retry logic.
+description: "Dunning with Stripe Billing. retry logic."
 category: payments
 tags: [stripe-billing-dunning, payments, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: duckdb-configuration
-description: Configuration for Duckdb: configuration and setup
+description: "Configuration for Duckdb: configuration and setup"
 category: database
 tags: [duckdb, configuration, database]
 models: [sonnet, opus]

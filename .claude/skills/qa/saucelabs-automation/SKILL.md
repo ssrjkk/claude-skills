@@ -1,6 +1,6 @@
 ---
 name: saucelabs-automation
-description: Automation for Saucelabs: automation and scripting
+description: "Automation for Saucelabs: automation and scripting"
 category: qa
 tags: [saucelabs, automation, qa]
 models: [sonnet, opus]

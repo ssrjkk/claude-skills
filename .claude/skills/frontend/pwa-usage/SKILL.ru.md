@@ -1,6 +1,6 @@
 ---
 name: pwa-usage
-description: Usage for Pwa: usage reference
+description: "Usage for Pwa: usage reference"
 category: frontend
 tags: [pwa-usage, frontend, russian]
 models: [sonnet, opus]

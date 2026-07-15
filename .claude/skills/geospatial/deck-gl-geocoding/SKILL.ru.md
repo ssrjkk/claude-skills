@@ -1,6 +1,6 @@
 ---
 name: deck-gl-geocoding
-description: Geocoding with Deck.gl. geocoding.
+description: "Geocoding with Deck.gl. geocoding."
 category: geospatial
 tags: [deck-gl-geocoding, geospatial, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: iis-monitoring
-description: Monitoring with IIS. monitoring.
+description: "Monitoring with IIS. monitoring."
 category: os-admin
 tags: [iis, monitoring, os-admin, windows]
 models: [gpt-4, claude-3]

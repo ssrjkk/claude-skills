@@ -1,6 +1,6 @@
 ---
 name: pyroscope-usage
-description: Usage for Pyroscope: usage reference
+description: "Usage for Pyroscope: usage reference"
 category: devops
 tags: [pyroscope, usage, devops]
 models: [sonnet, opus]

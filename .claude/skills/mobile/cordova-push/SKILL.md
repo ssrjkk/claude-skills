@@ -1,6 +1,6 @@
 ---
 name: cordova-push
-description: Push with Cordova. push notifications.
+description: "Push with Cordova. push notifications."
 category: mobile
 tags: [cordova, push, mobile, mobile]
 models: [gpt-4, claude-3]

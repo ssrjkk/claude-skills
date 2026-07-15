@@ -1,6 +1,6 @@
 ---
 name: vue-basics
-description: Basics for Vue: fundamentals and core concepts
+description: "Basics for Vue: fundamentals and core concepts"
 category: frontend
 tags: [vue-basics, frontend, russian]
 models: [sonnet, opus]

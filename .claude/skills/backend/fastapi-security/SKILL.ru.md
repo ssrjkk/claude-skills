@@ -1,6 +1,6 @@
 ---
 name: fastapi-security
-description: Security for Fastapi: security best practices
+description: "Security for Fastapi: security best practices"
 category: backend
 tags: [fastapi-security, backend, russian]
 models: [sonnet, opus]

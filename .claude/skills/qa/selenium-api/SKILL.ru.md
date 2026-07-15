@@ -1,6 +1,6 @@
 ---
 name: selenium-api
-description: API for Selenium: API development and integration
+description: "API for Selenium: API development and integration"
 category: qa
 tags: [selenium-api, qa, russian]
 models: [sonnet, opus]

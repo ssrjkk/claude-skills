@@ -1,6 +1,6 @@
 ---
 name: whylabs-integration
-description: Integration for Whylabs: integration with other tools
+description: "Integration for Whylabs: integration with other tools"
 category: data
 tags: [whylabs, integration, data]
 models: [sonnet, opus]

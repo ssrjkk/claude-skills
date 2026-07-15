@@ -1,6 +1,6 @@
 ---
 name: factory-migration
-description: Migration with Factory. adopting the pattern.
+description: "Migration with Factory. adopting the pattern."
 category: backend
 tags: [factory, migration, backend, architecture]
 models: [gpt-4, claude-3]

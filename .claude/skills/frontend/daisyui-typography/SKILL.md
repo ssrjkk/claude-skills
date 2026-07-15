@@ -1,6 +1,6 @@
 ---
 name: daisyui-typography
-description: Typography with daisyUI. text styling.
+description: "Typography with daisyUI. text styling."
 category: frontend
 tags: [daisyui, typography, frontend, css]
 models: [gpt-4, claude-3]

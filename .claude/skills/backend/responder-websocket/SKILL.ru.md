@@ -1,6 +1,6 @@
 ---
 name: responder-websocket
-description: WebSocket with Responder. real-time.
+description: "WebSocket with Responder. real-time."
 category: backend
 tags: [responder-websocket, backend, russian]
 models: [sonnet, opus]

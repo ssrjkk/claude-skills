@@ -1,6 +1,6 @@
 ---
 name: preact-components
-description: Components with Preact. building components.
+description: "Components with Preact. building components."
 category: frontend
 tags: [preact, components, frontend, frontend]
 models: [gpt-4, claude-3]

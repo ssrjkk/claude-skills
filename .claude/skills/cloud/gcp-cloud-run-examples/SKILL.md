@@ -1,6 +1,6 @@
 ---
 name: gcp-cloud-run-examples
-description: Examples for Gcp-Cloud-Run: practical examples
+description: "Examples for Gcp-Cloud-Run: practical examples"
 category: cloud
 tags: [gcp-cloud-run, examples, cloud]
 models: [sonnet, opus]

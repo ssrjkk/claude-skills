@@ -1,6 +1,6 @@
 ---
 name: neo4j-replication
-description: Replication with Neo4j. replication.
+description: "Replication with Neo4j. replication."
 category: database
 tags: [neo4j, replication, database, nosql]
 models: [gpt-4, claude-3]

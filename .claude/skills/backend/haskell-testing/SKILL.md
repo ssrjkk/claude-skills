@@ -1,6 +1,6 @@
 ---
 name: haskell-testing
-description: Testing with Haskell. writing tests.
+description: "Testing with Haskell. writing tests."
 category: backend
 tags: [haskell, testing, backend, backend]
 models: [gpt-4, claude-3]

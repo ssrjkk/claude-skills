@@ -1,6 +1,6 @@
 ---
 name: vendure-cart
-description: Cart with Vendure. cart.
+description: "Cart with Vendure. cart."
 category: ecommerce
 tags: [vendure-cart, ecommerce, russian]
 models: [sonnet, opus]

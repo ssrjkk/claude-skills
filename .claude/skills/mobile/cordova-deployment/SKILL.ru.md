@@ -1,6 +1,6 @@
 ---
 name: cordova-deployment
-description: Deployment with Cordova. app store.
+description: "Deployment with Cordova. app store."
 category: mobile
 tags: [cordova-deployment, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: hono-websocket
-description: WebSocket with Hono. Socket.io.
+description: "WebSocket with Hono. Socket.io."
 category: backend
 tags: [hono-websocket, backend, russian]
 models: [sonnet, opus]

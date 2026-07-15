@@ -1,6 +1,6 @@
 ---
 name: concourse-pipeline
-description: Pipeline with Concourse. pipeline creation.
+description: "Pipeline with Concourse. pipeline creation."
 category: devops
 tags: [concourse-pipeline, devops, russian]
 models: [sonnet, opus]

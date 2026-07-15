@@ -1,6 +1,6 @@
 ---
 name: poem-testing
-description: Testing with Poem. unit tests.
+description: "Testing with Poem. unit tests."
 category: backend
 tags: [poem, testing, backend, backend]
 models: [gpt-4, claude-3]

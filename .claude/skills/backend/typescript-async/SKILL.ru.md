@@ -1,6 +1,6 @@
 ---
 name: typescript-async
-description: Async with Typescript. async operations.
+description: "Async with Typescript. async operations."
 category: backend
 tags: [typescript-async, backend, russian]
 models: [sonnet, opus]

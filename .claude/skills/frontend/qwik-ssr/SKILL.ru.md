@@ -1,6 +1,6 @@
 ---
 name: qwik-ssr
-description: SSR with Qwik. server rendering.
+description: "SSR with Qwik. server rendering."
 category: frontend
 tags: [qwik-ssr, frontend, russian]
 models: [sonnet, opus]

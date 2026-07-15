@@ -1,6 +1,6 @@
 ---
 name: mmdetection-image-classification
-description: Image Classification with Mmdetection. classifying images.
+description: "Image Classification with Mmdetection. classifying images."
 category: ai
 tags: [mmdetection-image-classification, ai, russian]
 models: [sonnet, opus]

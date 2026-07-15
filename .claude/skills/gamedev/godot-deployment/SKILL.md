@@ -1,6 +1,6 @@
 ---
 name: godot-deployment
-description: Deployment for Godot: deployment and release
+description: "Deployment for Godot: deployment and release"
 category: gamedev
 tags: [godot, deployment, gamedev]
 models: [sonnet, opus]

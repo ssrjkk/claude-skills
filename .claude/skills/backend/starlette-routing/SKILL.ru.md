@@ -1,6 +1,6 @@
 ---
 name: starlette-routing
-description: Routing with Starlette. HTTP routing.
+description: "Routing with Starlette. HTTP routing."
 category: backend
 tags: [starlette-routing, backend, russian]
 models: [sonnet, opus]

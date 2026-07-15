@@ -1,6 +1,6 @@
 ---
 name: redshift-advanced
-description: Advanced for Redshift: advanced patterns and techniques
+description: "Advanced for Redshift: advanced patterns and techniques"
 category: data
 tags: [redshift, advanced, data]
 models: [sonnet, opus]

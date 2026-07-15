@@ -1,6 +1,6 @@
 ---
 name: saleor-customers
-description: Customers with Saleor. customer API.
+description: "Customers with Saleor. customer API."
 category: ecommerce
 tags: [saleor, customers, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: xapi-implementation
-description: Implementation with xAPI. implementation.
+description: "Implementation with xAPI. implementation."
 category: education
 tags: [xapi-implementation, education, russian]
 models: [sonnet, opus]

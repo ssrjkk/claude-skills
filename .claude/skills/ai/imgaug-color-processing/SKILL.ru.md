@@ -1,6 +1,6 @@
 ---
 name: imgaug-color-processing
-description: Color Processing with Imgaug. color manipulation.
+description: "Color Processing with Imgaug. color manipulation."
 category: ai
 tags: [imgaug-color-processing, ai, russian]
 models: [sonnet, opus]

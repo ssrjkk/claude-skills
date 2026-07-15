@@ -1,6 +1,6 @@
 ---
 name: scikit-image-segmentation
-description: Segmentation with Scikit Image. image segmentation.
+description: "Segmentation with Scikit Image. image segmentation."
 category: ai
 tags: [scikit-image, segmentation, ai, computer-vision]
 models: [gpt-4, claude-3]

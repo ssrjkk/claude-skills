@@ -1,6 +1,6 @@
 ---
 name: starknet-nft
-description: NFT with StarkNet. tokens.
+description: "NFT with StarkNet. tokens."
 category: blockchain
 tags: [starknet-nft, blockchain, russian]
 models: [sonnet, opus]

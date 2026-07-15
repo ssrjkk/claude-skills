@@ -1,6 +1,6 @@
 ---
 name: reflection-ai-intro
-description: Intro for Reflection-Ai: introduction
+description: "Intro for Reflection-Ai: introduction"
 category: ai
 tags: [reflection-ai, intro, ai]
 models: [sonnet, opus]

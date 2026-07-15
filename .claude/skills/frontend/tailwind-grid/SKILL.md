@@ -1,6 +1,6 @@
 ---
 name: tailwind-grid
-description: Grid with Tailwind CSS. layout grids.
+description: "Grid with Tailwind CSS. layout grids."
 category: frontend
 tags: [tailwind, grid, frontend, css]
 models: [gpt-4, claude-3]

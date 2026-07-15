@@ -1,6 +1,6 @@
 ---
 name: blackboard-users
-description: Users with Blackboard. user management.
+description: "Users with Blackboard. user management."
 category: education
 tags: [blackboard, users, education, education-platform]
 models: [gpt-4, claude-3]

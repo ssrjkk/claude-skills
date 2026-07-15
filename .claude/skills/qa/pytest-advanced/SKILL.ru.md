@@ -1,6 +1,6 @@
 ---
 name: pytest-advanced
-description: Advanced for Pytest: advanced patterns and techniques
+description: "Advanced for Pytest: advanced patterns and techniques"
 category: qa
 tags: [pytest-advanced, qa, russian]
 models: [sonnet, opus]

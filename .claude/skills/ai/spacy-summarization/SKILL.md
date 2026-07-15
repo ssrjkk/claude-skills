@@ -1,6 +1,6 @@
 ---
 name: spacy-summarization
-description: Summarization with Spacy. text summarization.
+description: "Summarization with Spacy. text summarization."
 category: ai
 tags: [spacy, summarization, ai, nlp]
 models: [gpt-4, claude-3]

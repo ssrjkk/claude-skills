@@ -1,6 +1,6 @@
 ---
 name: keydb-quickstart
-description: Quickstart for Keydb: quick start guide
+description: "Quickstart for Keydb: quick start guide"
 category: database
 tags: [keydb, quickstart, database]
 models: [sonnet, opus]

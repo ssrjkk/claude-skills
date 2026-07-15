@@ -1,6 +1,6 @@
 ---
 name: bff-intro
-description: Introduction with Backend for Frontend. understanding the pattern.
+description: "Introduction with Backend for Frontend. understanding the pattern."
 category: backend
 tags: [bff, intro, backend, architecture]
 models: [gpt-4, claude-3]

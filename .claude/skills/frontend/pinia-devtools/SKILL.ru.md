@@ -1,6 +1,6 @@
 ---
 name: pinia-devtools
-description: DevTools with Pinia. debugging.
+description: "DevTools with Pinia. debugging."
 category: frontend
 tags: [pinia-devtools, frontend, russian]
 models: [sonnet, opus]

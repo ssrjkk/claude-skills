@@ -1,6 +1,6 @@
 ---
 name: mbed-sensors
-description: Sensors with Mbed OS. sensor integration.
+description: "Sensors with Mbed OS. sensor integration."
 category: iot
 tags: [mbed-sensors, iot, russian]
 models: [sonnet, opus]

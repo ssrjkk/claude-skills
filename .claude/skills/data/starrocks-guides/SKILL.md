@@ -1,6 +1,6 @@
 ---
 name: starrocks-guides
-description: Guides for Starrocks: how-to guides
+description: "Guides for Starrocks: how-to guides"
 category: data
 tags: [starrocks, guides, data]
 models: [sonnet, opus]

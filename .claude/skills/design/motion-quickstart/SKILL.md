@@ -1,6 +1,6 @@
 ---
 name: motion-quickstart
-description: Quickstart for Motion: quick start guide
+description: "Quickstart for Motion: quick start guide"
 category: design
 tags: [motion, quickstart, design]
 models: [sonnet, opus]

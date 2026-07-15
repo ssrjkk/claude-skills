@@ -1,6 +1,6 @@
 ---
 name: xstate-actions
-description: Actions with XState. actions.
+description: "Actions with XState. actions."
 category: frontend
 tags: [xstate-actions, frontend, russian]
 models: [sonnet, opus]

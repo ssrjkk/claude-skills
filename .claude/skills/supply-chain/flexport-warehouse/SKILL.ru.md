@@ -1,6 +1,6 @@
 ---
 name: flexport-warehouse
-description: Warehouse with Flexport. warehouse ops.
+description: "Warehouse with Flexport. warehouse ops."
 category: supply-chain
 tags: [flexport-warehouse, supply-chain, russian]
 models: [sonnet, opus]

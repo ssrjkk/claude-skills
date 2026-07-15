@@ -1,6 +1,6 @@
 ---
 name: salesforce-commerce-products
-description: Products with Salesforce Commerce. product management.
+description: "Products with Salesforce Commerce. product management."
 category: ecommerce
 tags: [salesforce-commerce, products, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

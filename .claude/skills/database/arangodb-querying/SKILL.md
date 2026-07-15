@@ -1,6 +1,6 @@
 ---
 name: arangodb-querying
-description: Querying with ArangoDB. queries.
+description: "Querying with ArangoDB. queries."
 category: database
 tags: [arangodb, querying, database, nosql]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: csharp-orm
-description: ORM with Csharp. database access.
+description: "ORM with Csharp. database access."
 category: backend
 tags: [csharp, orm, backend, backend]
 models: [gpt-4, claude-3]

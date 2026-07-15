@@ -1,6 +1,6 @@
 ---
 name: sap-successfactors-performance
-description: Performance with SAP SuccessFactors. performance mgmt.
+description: "Performance with SAP SuccessFactors. performance mgmt."
 category: hr
 tags: [sap-successfactors, performance, hr, hr-tech]
 models: [gpt-4, claude-3]

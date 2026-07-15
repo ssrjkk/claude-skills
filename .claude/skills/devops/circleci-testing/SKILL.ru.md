@@ -1,6 +1,6 @@
 ---
 name: circleci-testing
-description: Testing with CircleCI. automated tests.
+description: "Testing with CircleCI. automated tests."
 category: devops
 tags: [circleci-testing, devops, russian]
 models: [sonnet, opus]

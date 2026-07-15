@@ -1,6 +1,6 @@
 ---
 name: taipy-data
-description: Data with Taipy. data binding.
+description: "Data with Taipy. data binding."
 category: data
 tags: [taipy, data, data, data-apps]
 models: [gpt-4, claude-3]

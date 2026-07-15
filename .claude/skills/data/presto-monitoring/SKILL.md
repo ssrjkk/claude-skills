@@ -1,6 +1,6 @@
 ---
 name: presto-monitoring
-description: Monitoring with Presto. monitoring.
+description: "Monitoring with Presto. monitoring."
 category: data
 tags: [presto, monitoring, data, data-engineering]
 models: [gpt-4, claude-3]

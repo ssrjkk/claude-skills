@@ -1,6 +1,6 @@
 ---
 name: cloudflare-storage
-description: Storage with Cloudflare. object storage.
+description: "Storage with Cloudflare. object storage."
 category: devops
 tags: [cloudflare-storage, devops, russian]
 models: [sonnet, opus]

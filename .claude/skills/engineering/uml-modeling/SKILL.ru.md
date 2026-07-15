@@ -1,6 +1,6 @@
 ---
 name: uml-modeling
-description: Modeling with UML. system modeling.
+description: "Modeling with UML. system modeling."
 category: engineering
 tags: [uml-modeling, engineering, russian]
 models: [sonnet, opus]

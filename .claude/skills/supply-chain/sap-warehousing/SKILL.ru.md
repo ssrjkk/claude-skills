@@ -1,6 +1,6 @@
 ---
 name: sap-warehousing
-description: Warehousing with SAP SCM. WMS.
+description: "Warehousing with SAP SCM. WMS."
 category: supply-chain
 tags: [sap-warehousing, supply-chain, russian]
 models: [sonnet, opus]

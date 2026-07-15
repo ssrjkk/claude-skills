@@ -1,6 +1,6 @@
 ---
 name: terraform-api
-description: API for Terraform: API development and integration
+description: "API for Terraform: API development and integration"
 category: devops
 tags: [terraform, api, devops]
 models: [sonnet, opus]

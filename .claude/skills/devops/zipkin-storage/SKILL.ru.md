@@ -1,6 +1,6 @@
 ---
 name: zipkin-storage
-description: Storage with Zipkin. data retention.
+description: "Storage with Zipkin. data retention."
 category: devops
 tags: [zipkin-storage, devops, russian]
 models: [sonnet, opus]

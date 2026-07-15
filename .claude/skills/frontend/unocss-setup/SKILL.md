@@ -1,6 +1,6 @@
 ---
 name: unocss-setup
-description: Setup for Unocss: setup guide
+description: "Setup for Unocss: setup guide"
 category: frontend
 tags: [unocss, setup, frontend]
 models: [sonnet, opus]

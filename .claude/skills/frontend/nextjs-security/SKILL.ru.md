@@ -1,6 +1,6 @@
 ---
 name: nextjs-security
-description: Security for Nextjs: security best practices
+description: "Security for Nextjs: security best practices"
 category: frontend
 tags: [nextjs-security, frontend, russian]
 models: [sonnet, opus]

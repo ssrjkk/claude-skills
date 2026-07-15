@@ -1,6 +1,6 @@
 ---
 name: shadcn-ui-quickstart
-description: Quickstart for Shadcn-Ui: quick start guide
+description: "Quickstart for Shadcn-Ui: quick start guide"
 category: frontend
 tags: [shadcn-ui, quickstart, frontend]
 models: [sonnet, opus]

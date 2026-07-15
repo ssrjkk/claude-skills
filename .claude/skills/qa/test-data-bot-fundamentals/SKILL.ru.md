@@ -1,6 +1,6 @@
 ---
 name: test-data-bot-fundamentals
-description: Fundamentals for Test-Data-Bot: core concepts
+description: "Fundamentals for Test-Data-Bot: core concepts"
 category: qa
 tags: [test-data-bot-fundamentals, qa, russian]
 models: [sonnet, opus]

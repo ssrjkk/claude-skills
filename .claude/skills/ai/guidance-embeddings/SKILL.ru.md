@@ -1,6 +1,6 @@
 ---
 name: guidance-embeddings
-description: Embeddings with Guidance. text embeddings.
+description: "Embeddings with Guidance. text embeddings."
 category: ai
 tags: [guidance-embeddings, ai, russian]
 models: [sonnet, opus]

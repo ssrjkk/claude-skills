@@ -1,6 +1,6 @@
 ---
 name: fastapi-testing
-description: Testing with FastAPI. integration tests.
+description: "Testing with FastAPI. integration tests."
 category: backend
 tags: [fastapi-testing, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cardano-staking
-description: Staking with Cardano. staking.
+description: "Staking with Cardano. staking."
 category: blockchain
 tags: [cardano-staking, blockchain, russian]
 models: [sonnet, opus]

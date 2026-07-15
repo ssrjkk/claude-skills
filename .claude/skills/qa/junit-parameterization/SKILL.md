@@ -1,6 +1,6 @@
 ---
 name: junit-parameterization
-description: Parameterization with JUnit. parametrized tests.
+description: "Parameterization with JUnit. parametrized tests."
 category: qa
 tags: [junit, parameterization, qa, testing]
 models: [gpt-4, claude-3]

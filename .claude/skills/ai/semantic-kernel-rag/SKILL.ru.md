@@ -1,6 +1,6 @@
 ---
 name: semantic-kernel-rag
-description: RAG with Semantic Kernel. building RAG systems.
+description: "RAG with Semantic Kernel. building RAG systems."
 category: ai
 tags: [semantic-kernel-rag, ai, russian]
 models: [sonnet, opus]

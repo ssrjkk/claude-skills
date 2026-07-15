@@ -1,6 +1,6 @@
 ---
 name: gcp-storage
-description: Storage with GCP. object storage.
+description: "Storage with GCP. object storage."
 category: devops
 tags: [gcp, storage, devops, cloud]
 models: [gpt-4, claude-3]

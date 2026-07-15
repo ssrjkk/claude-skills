@@ -1,6 +1,6 @@
 ---
 name: argo-cd-quickstart
-description: Quickstart for Argo-Cd: quick start guide
+description: "Quickstart for Argo-Cd: quick start guide"
 category: devops
 tags: [argo-cd, quickstart, devops]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: webxr-optimization
-description: Optimization with WebXR. performance.
+description: "Optimization with WebXR. performance."
 category: ar-vr
 tags: [webxr-optimization, ar-vr, russian]
 models: [sonnet, opus]

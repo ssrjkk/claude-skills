@@ -1,6 +1,6 @@
 ---
 name: tableau-monitoring
-description: Monitoring for Tableau: monitoring and observability
+description: "Monitoring for Tableau: monitoring and observability"
 category: data
 tags: [tableau-monitoring, data, russian]
 models: [sonnet, opus]

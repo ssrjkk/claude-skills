@@ -1,6 +1,6 @@
 ---
 name: yii-templating
-description: Templating with Yii. Blade.
+description: "Templating with Yii. Blade."
 category: backend
 tags: [yii, templating, backend, backend]
 models: [gpt-4, claude-3]

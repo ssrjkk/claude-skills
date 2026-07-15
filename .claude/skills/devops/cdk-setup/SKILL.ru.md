@@ -1,6 +1,6 @@
 ---
 name: cdk-setup
-description: Setup with AWS CDK. installation.
+description: "Setup with AWS CDK. installation."
 category: devops
 tags: [cdk-setup, devops, russian]
 models: [sonnet, opus]

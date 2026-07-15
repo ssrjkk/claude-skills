@@ -1,6 +1,6 @@
 ---
 name: trivy-analysis
-description: Analysis with Trivy. analysis.
+description: "Analysis with Trivy. analysis."
 category: security
 tags: [trivy-analysis, security, russian]
 models: [sonnet, opus]

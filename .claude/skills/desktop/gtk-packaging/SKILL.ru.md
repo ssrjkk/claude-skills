@@ -1,6 +1,6 @@
 ---
 name: gtk-packaging
-description: Packaging with GTK. app packaging.
+description: "Packaging with GTK. app packaging."
 category: desktop
 tags: [gtk-packaging, desktop, russian]
 models: [sonnet, opus]

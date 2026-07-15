@@ -1,6 +1,6 @@
 ---
 name: cassandra-setup
-description: Setup with Cassandra. installation.
+description: "Setup with Cassandra. installation."
 category: database
 tags: [cassandra, setup, database, nosql]
 models: [gpt-4, claude-3]

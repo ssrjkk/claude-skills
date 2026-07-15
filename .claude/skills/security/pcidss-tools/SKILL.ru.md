@@ -1,6 +1,6 @@
 ---
 name: pcidss-tools
-description: Tools with PCI DSS. security tools.
+description: "Tools with PCI DSS. security tools."
 category: security
 tags: [pcidss-tools, security, russian]
 models: [sonnet, opus]

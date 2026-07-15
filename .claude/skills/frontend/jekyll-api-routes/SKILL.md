@@ -1,6 +1,6 @@
 ---
 name: jekyll-api-routes
-description: API Routes with Jekyll. API endpoints.
+description: "API Routes with Jekyll. API endpoints."
 category: frontend
 tags: [jekyll, api-routes, frontend, meta-framework]
 models: [gpt-4, claude-3]

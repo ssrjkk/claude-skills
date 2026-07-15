@@ -1,6 +1,6 @@
 ---
 name: john-remediation
-description: Remediation with John the Ripper. fixing vulns.
+description: "Remediation with John the Ripper. fixing vulns."
 category: security
 tags: [john-remediation, security, russian]
 models: [sonnet, opus]

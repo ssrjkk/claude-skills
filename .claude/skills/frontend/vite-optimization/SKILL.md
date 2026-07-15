@@ -1,6 +1,6 @@
 ---
 name: vite-optimization
-description: Optimization with Vite. build optimization.
+description: "Optimization with Vite. build optimization."
 category: frontend
 tags: [vite, optimization, frontend, build-tool]
 models: [gpt-4, claude-3]

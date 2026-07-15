@@ -1,6 +1,6 @@
 ---
 name: salesforce-commerce-marketing
-description: Marketing with Salesforce Commerce. marketing.
+description: "Marketing with Salesforce Commerce. marketing."
 category: ecommerce
 tags: [salesforce-commerce-marketing, ecommerce, russian]
 models: [sonnet, opus]

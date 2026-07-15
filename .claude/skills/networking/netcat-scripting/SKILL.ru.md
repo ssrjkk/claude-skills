@@ -1,6 +1,6 @@
 ---
 name: netcat-scripting
-description: Scripting with netcat. automation.
+description: "Scripting with netcat. automation."
 category: networking
 tags: [netcat-scripting, networking, russian]
 models: [sonnet, opus]

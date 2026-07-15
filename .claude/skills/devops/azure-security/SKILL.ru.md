@@ -1,6 +1,6 @@
 ---
 name: azure-security
-description: Security with Azure. cloud security.
+description: "Security with Azure. cloud security."
 category: devops
 tags: [azure-security, devops, russian]
 models: [sonnet, opus]

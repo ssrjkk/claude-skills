@@ -1,6 +1,6 @@
 ---
 name: openai-deployment
-description: Deployment for Openai: deployment and release
+description: "Deployment for Openai: deployment and release"
 category: ai
 tags: [openai, deployment, ai]
 models: [sonnet, opus]

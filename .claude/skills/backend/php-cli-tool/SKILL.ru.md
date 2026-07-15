@@ -1,6 +1,6 @@
 ---
 name: php-cli-tool
-description: CLI Tool with Php. building CLI tools.
+description: "CLI Tool with Php. building CLI tools."
 category: backend
 tags: [php-cli-tool, backend, russian]
 models: [sonnet, opus]

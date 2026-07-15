@@ -1,6 +1,6 @@
 ---
 name: factory-bot-guides
-description: Guides for Factory-Bot: how-to guides
+description: "Guides for Factory-Bot: how-to guides"
 category: qa
 tags: [factory-bot, guides, qa]
 models: [sonnet, opus]

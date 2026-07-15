@@ -1,6 +1,6 @@
 ---
 name: er-diagrams-collaboration
-description: Collaboration with ER Diagrams. team collaboration.
+description: "Collaboration with ER Diagrams. team collaboration."
 category: engineering
 tags: [er-diagrams-collaboration, engineering, russian]
 models: [sonnet, opus]

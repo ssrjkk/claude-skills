@@ -1,6 +1,6 @@
 ---
 name: sphinx-clustering
-description: Clustering with Sphinx. cluster setup.
+description: "Clustering with Sphinx. cluster setup."
 category: database
 tags: [sphinx, clustering, database, search-engine]
 models: [gpt-4, claude-3]

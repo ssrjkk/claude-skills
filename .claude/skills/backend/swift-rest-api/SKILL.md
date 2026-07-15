@@ -1,6 +1,6 @@
 ---
 name: swift-rest-api
-description: REST API with Swift. building REST APIs.
+description: "REST API with Swift. building REST APIs."
 category: backend
 tags: [swift, rest-api, backend, backend]
 models: [gpt-4, claude-3]

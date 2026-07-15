@@ -1,6 +1,6 @@
 ---
 name: esp32-sensors
-description: Sensors with ESP32. sensor integration.
+description: "Sensors with ESP32. sensor integration."
 category: iot
 tags: [esp32-sensors, iot, russian]
 models: [sonnet, opus]

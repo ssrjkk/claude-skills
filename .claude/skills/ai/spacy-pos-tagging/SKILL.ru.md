@@ -1,6 +1,6 @@
 ---
 name: spacy-pos-tagging
-description: POS Tagging with Spacy. POS tagging.
+description: "POS Tagging with Spacy. POS tagging."
 category: ai
 tags: [spacy-pos-tagging, ai, russian]
 models: [sonnet, opus]

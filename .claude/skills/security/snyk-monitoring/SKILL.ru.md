@@ -1,6 +1,6 @@
 ---
 name: snyk-monitoring
-description: Monitoring for Snyk: monitoring and observability
+description: "Monitoring for Snyk: monitoring and observability"
 category: security
 tags: [snyk-monitoring, security, russian]
 models: [sonnet, opus]

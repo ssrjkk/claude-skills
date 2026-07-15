@@ -1,6 +1,6 @@
 ---
 name: clearml-classification
-description: Classification with Clearml. building classifiers.
+description: "Classification with Clearml. building classifiers."
 category: ai
 tags: [clearml, classification, ai, ml]
 models: [gpt-4, claude-3]

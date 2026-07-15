@@ -1,6 +1,6 @@
 ---
 name: render-database
-description: Database with Render. managed databases.
+description: "Database with Render. managed databases."
 category: devops
 tags: [render-database, devops, russian]
 models: [sonnet, opus]

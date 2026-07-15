@@ -1,6 +1,6 @@
 ---
 name: pandas-integration
-description: Integration with Pandas. data sources.
+description: "Integration with Pandas. data sources."
 category: data
 tags: [pandas-integration, data, russian]
 models: [sonnet, opus]

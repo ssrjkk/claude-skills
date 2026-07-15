@@ -1,6 +1,6 @@
 ---
 name: akamai-database
-description: Database with Akamai. managed databases.
+description: "Database with Akamai. managed databases."
 category: devops
 tags: [akamai-database, devops, russian]
 models: [sonnet, opus]

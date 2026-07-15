@@ -1,6 +1,6 @@
 ---
 name: go-generics
-description: Go generics patterns and best practices
+description: "Go generics patterns and best practices"
 category: backend
 tags: [go, golang, generics, types, patterns]
 models: [sonnet, opus]

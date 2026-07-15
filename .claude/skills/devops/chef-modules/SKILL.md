@@ -1,6 +1,6 @@
 ---
 name: chef-modules
-description: Modules with Chef. modules.
+description: "Modules with Chef. modules."
 category: devops
 tags: [chef, modules, devops, iac]
 models: [gpt-4, claude-3]

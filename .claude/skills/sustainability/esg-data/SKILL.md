@@ -1,6 +1,6 @@
 ---
 name: esg-data
-description: Data with ESG. data collection.
+description: "Data with ESG. data collection."
 category: sustainability
 tags: [esg, data, sustainability, sustainability]
 models: [gpt-4, claude-3]

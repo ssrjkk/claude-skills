@@ -1,6 +1,6 @@
 ---
 name: github-actions-caching
-description: Caching with GitHub Actions. dependency caching.
+description: "Caching with GitHub Actions. dependency caching."
 category: devops
 tags: [github-actions, caching, devops, ci-cd]
 models: [gpt-4, claude-3]

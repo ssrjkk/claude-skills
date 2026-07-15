@@ -1,6 +1,6 @@
 ---
 name: csharp-logging
-description: Logging with Csharp. app logging.
+description: "Logging with Csharp. app logging."
 category: backend
 tags: [csharp-logging, backend, russian]
 models: [sonnet, opus]

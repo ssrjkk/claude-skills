@@ -1,6 +1,6 @@
 ---
 name: cocos-security
-description: Security for Cocos: security best practices
+description: "Security for Cocos: security best practices"
 category: gamedev
 tags: [cocos, security, gamedev]
 models: [sonnet, opus]

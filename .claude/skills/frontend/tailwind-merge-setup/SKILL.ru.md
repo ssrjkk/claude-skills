@@ -1,6 +1,6 @@
 ---
 name: tailwind-merge-setup
-description: Setup for Tailwind-Merge: setup guide
+description: "Setup for Tailwind-Merge: setup guide"
 category: frontend
 tags: [tailwind-merge-setup, frontend, russian]
 models: [sonnet, opus]

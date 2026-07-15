@@ -1,6 +1,6 @@
 ---
 name: vue-routing
-description: Routing with Vue. client routing.
+description: "Routing with Vue. client routing."
 category: frontend
 tags: [vue, routing, frontend, frontend]
 models: [gpt-4, claude-3]

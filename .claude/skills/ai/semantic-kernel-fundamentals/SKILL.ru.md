@@ -1,6 +1,6 @@
 ---
 name: semantic-kernel-fundamentals
-description: Fundamentals for Semantic-Kernel: core concepts
+description: "Fundamentals for Semantic-Kernel: core concepts"
 category: ai
 tags: [semantic-kernel-fundamentals, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: couchdb-monitoring
-description: Monitoring with CouchDB. monitoring.
+description: "Monitoring with CouchDB. monitoring."
 category: database
 tags: [couchdb, monitoring, database, nosql]
 models: [gpt-4, claude-3]

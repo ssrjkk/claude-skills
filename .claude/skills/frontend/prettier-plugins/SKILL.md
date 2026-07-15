@@ -1,6 +1,6 @@
 ---
 name: prettier-plugins
-description: Plugins with Prettier. plugins.
+description: "Plugins with Prettier. plugins."
 category: frontend
 tags: [prettier, plugins, frontend, build-tool]
 models: [gpt-4, claude-3]

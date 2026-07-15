@@ -1,6 +1,6 @@
 ---
 name: recoil-testing
-description: Testing with Recoil. state testing.
+description: "Testing with Recoil. state testing."
 category: frontend
 tags: [recoil, testing, frontend, state-management]
 models: [gpt-4, claude-3]

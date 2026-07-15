@@ -1,6 +1,6 @@
 ---
 name: blackboard-assessments
-description: Assessments with Blackboard. quizzes.
+description: "Assessments with Blackboard. quizzes."
 category: education
 tags: [blackboard, assessments, education, education-platform]
 models: [gpt-4, claude-3]

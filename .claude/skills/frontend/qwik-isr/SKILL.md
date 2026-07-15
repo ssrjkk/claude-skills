@@ -1,6 +1,6 @@
 ---
 name: qwik-isr
-description: ISR with Qwik. incremental.
+description: "ISR with Qwik. incremental."
 category: frontend
 tags: [qwik, isr, frontend, meta-framework]
 models: [gpt-4, claude-3]

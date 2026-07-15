@@ -1,6 +1,6 @@
 ---
 name: greenhouse-compliance
-description: Compliance with Greenhouse. compliance.
+description: "Compliance with Greenhouse. compliance."
 category: hr
 tags: [greenhouse, compliance, hr, hr-tech]
 models: [gpt-4, claude-3]

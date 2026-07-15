@@ -1,6 +1,6 @@
 ---
 name: openxr-optimization
-description: Optimization with OpenXR. performance.
+description: "Optimization with OpenXR. performance."
 category: ar-vr
 tags: [openxr-optimization, ar-vr, russian]
 models: [sonnet, opus]

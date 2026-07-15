@@ -1,6 +1,6 @@
 ---
 name: dynamodb-querying
-description: Querying with DynamoDB. queries.
+description: "Querying with DynamoDB. queries."
 category: database
 tags: [dynamodb, querying, database, nosql]
 models: [gpt-4, claude-3]

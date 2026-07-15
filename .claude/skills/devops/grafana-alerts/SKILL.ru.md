@@ -1,6 +1,6 @@
 ---
 name: grafana-alerts
-description: Alerts with Grafana. alerting rules.
+description: "Alerts with Grafana. alerting rules."
 category: devops
 tags: [grafana-alerts, devops, russian]
 models: [sonnet, opus]

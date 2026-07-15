@@ -1,6 +1,6 @@
 ---
 name: preact-state-management
-description: State Management with Preact. state handling.
+description: "State Management with Preact. state handling."
 category: frontend
 tags: [preact-state-management, frontend, russian]
 models: [sonnet, opus]

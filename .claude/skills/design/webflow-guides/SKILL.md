@@ -1,6 +1,6 @@
 ---
 name: webflow-guides
-description: Guides for Webflow: how-to guides
+description: "Guides for Webflow: how-to guides"
 category: design
 tags: [webflow, guides, design]
 models: [sonnet, opus]

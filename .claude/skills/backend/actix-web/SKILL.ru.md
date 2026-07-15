@@ -1,6 +1,6 @@
 ---
 name: actix-web
-description: Develops high-performance HTTP APIs in Rust with Actix Web, actors, and middleware. Use for maximum throughput web services.
+description: "Develops high-performance HTTP APIs in Rust with Actix Web, actors, and middleware. Use for maximum throughput web services."
 category: backend
 tags: [actix-web, backend, russian]
 models: [sonnet, opus]

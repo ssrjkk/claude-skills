@@ -1,6 +1,6 @@
 ---
 name: lightgbm-deployment
-description: Deployment with Lightgbm. model serving.
+description: "Deployment with Lightgbm. model serving."
 category: ai
 tags: [lightgbm, deployment, ai, ml]
 models: [gpt-4, claude-3]

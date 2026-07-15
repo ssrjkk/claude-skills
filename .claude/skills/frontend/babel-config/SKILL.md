@@ -1,6 +1,6 @@
 ---
 name: babel-config
-description: Config with Babel. configuration.
+description: "Config with Babel. configuration."
 category: frontend
 tags: [babel, config, frontend, build-tool]
 models: [gpt-4, claude-3]

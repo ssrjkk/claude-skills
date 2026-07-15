@@ -1,6 +1,6 @@
 ---
 name: penpot-collaboration
-description: Collaboration with Penpot. collaboration.
+description: "Collaboration with Penpot. collaboration."
 category: design
 tags: [penpot-collaboration, design, russian]
 models: [sonnet, opus]

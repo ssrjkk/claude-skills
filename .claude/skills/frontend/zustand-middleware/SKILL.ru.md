@@ -1,6 +1,6 @@
 ---
 name: zustand-middleware
-description: Middleware with Zustand. side effects.
+description: "Middleware with Zustand. side effects."
 category: frontend
 tags: [zustand-middleware, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: pic-setup
-description: Setup with PIC. toolchain.
+description: "Setup with PIC. toolchain."
 category: embedded
 tags: [pic, setup, embedded, embedded-arch]
 models: [gpt-4, claude-3]

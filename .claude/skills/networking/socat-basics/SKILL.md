@@ -1,6 +1,6 @@
 ---
 name: socat-basics
-description: Basics with socat. basic usage.
+description: "Basics with socat. basic usage."
 category: networking
 tags: [socat, basics, networking, networking-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: angular-styling
-description: Styling with Angular. component styling.
+description: "Styling with Angular. component styling."
 category: frontend
 tags: [angular-styling, frontend, russian]
 models: [sonnet, opus]

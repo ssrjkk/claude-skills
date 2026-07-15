@@ -1,6 +1,6 @@
 ---
 name: bolt-quickstart
-description: Quickstart for Bolt: quick start guide
+description: "Quickstart for Bolt: quick start guide"
 category: gamedev
 tags: [bolt-quickstart, gamedev, russian]
 models: [sonnet, opus]

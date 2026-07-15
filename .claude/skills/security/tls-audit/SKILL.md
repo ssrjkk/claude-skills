@@ -1,6 +1,6 @@
 ---
 name: tls-audit
-description: Audit with TLS/SSL. security audit.
+description: "Audit with TLS/SSL. security audit."
 category: security
 tags: [tls, audit, security, security]
 models: [gpt-4, claude-3]

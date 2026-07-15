@@ -1,6 +1,6 @@
 ---
 name: oauth-monitoring
-description: Monitoring for Oauth: monitoring and observability
+description: "Monitoring for Oauth: monitoring and observability"
 category: security
 tags: [oauth, monitoring, security]
 models: [sonnet, opus]

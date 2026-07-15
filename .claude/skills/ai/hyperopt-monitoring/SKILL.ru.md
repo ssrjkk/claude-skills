@@ -1,6 +1,6 @@
 ---
 name: hyperopt-monitoring
-description: Monitoring with Hyperopt. model monitoring.
+description: "Monitoring with Hyperopt. model monitoring."
 category: ai
 tags: [hyperopt-monitoring, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cdk-provisioning
-description: Provisioning with AWS CDK. provisioning.
+description: "Provisioning with AWS CDK. provisioning."
 category: devops
 tags: [cdk, provisioning, devops, iac]
 models: [gpt-4, claude-3]

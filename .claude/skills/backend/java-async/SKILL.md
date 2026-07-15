@@ -1,6 +1,6 @@
 ---
 name: java-async
-description: Async with Java. async operations.
+description: "Async with Java. async operations."
 category: backend
 tags: [java, async, backend, backend]
 models: [gpt-4, claude-3]

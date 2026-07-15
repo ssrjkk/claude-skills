@@ -1,6 +1,6 @@
 ---
 name: trl-quantization
-description: Quantization with Trl. model quantization.
+description: "Quantization with Trl. model quantization."
 category: ai
 tags: [trl, quantization, ai, deep-learning]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: rspec-setup
-description: Setup with RSpec. installation.
+description: "Setup with RSpec. installation."
 category: qa
 tags: [rspec, setup, qa, testing]
 models: [gpt-4, claude-3]

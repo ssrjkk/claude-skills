@@ -1,6 +1,6 @@
 ---
 name: svelte-forms
-description: Forms with Svelte. form handling.
+description: "Forms with Svelte. form handling."
 category: frontend
 tags: [svelte-forms, frontend, russian]
 models: [sonnet, opus]

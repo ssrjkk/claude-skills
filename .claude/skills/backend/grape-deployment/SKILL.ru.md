@@ -1,6 +1,6 @@
 ---
 name: grape-deployment
-description: Deployment with Grape. deploy.
+description: "Deployment with Grape. deploy."
 category: backend
 tags: [grape-deployment, backend, russian]
 models: [sonnet, opus]

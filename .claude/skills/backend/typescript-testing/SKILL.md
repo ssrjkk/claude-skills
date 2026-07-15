@@ -1,6 +1,6 @@
 ---
 name: typescript-testing
-description: Testing with Typescript. writing tests.
+description: "Testing with Typescript. writing tests."
 category: backend
 tags: [typescript, testing, backend, backend]
 models: [gpt-4, claude-3]

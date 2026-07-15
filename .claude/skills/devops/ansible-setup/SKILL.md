@@ -1,6 +1,6 @@
 ---
 name: ansible-setup
-description: Setup with Ansible. installation.
+description: "Setup with Ansible. installation."
 category: devops
 tags: [ansible, setup, devops, iac]
 models: [gpt-4, claude-3]

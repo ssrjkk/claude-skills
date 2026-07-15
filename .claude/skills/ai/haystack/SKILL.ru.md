@@ -1,6 +1,6 @@
 ---
 name: haystack
-description: Builds NLP pipelines with Haystack for document search, QA, and LLM-powered applications.
+description: "Builds NLP pipelines with Haystack for document search, QA, and LLM-powered applications."
 category: ai
 tags: [haystack, ai, russian]
 models: [sonnet, opus]

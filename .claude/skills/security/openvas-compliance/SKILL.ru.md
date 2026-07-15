@@ -1,6 +1,6 @@
 ---
 name: openvas-compliance
-description: Compliance with OpenVAS. compliance.
+description: "Compliance with OpenVAS. compliance."
 category: security
 tags: [openvas-compliance, security, russian]
 models: [sonnet, opus]

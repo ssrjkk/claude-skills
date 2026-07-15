@@ -1,6 +1,6 @@
 ---
 name: refactoring-basics
-description: Basics with Refactoring. fundamentals.
+description: "Basics with Refactoring. fundamentals."
 category: engineering
 tags: [refactoring, basics, engineering, engineering]
 models: [gpt-4, claude-3]

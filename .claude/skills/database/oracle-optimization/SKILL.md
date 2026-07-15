@@ -1,6 +1,6 @@
 ---
 name: oracle-optimization
-description: Optimization with Oracle. query tuning.
+description: "Optimization with Oracle. query tuning."
 category: database
 tags: [oracle, optimization, database, sql]
 models: [gpt-4, claude-3]

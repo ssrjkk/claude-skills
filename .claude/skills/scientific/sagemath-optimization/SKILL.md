@@ -1,6 +1,6 @@
 ---
 name: sagemath-optimization
-description: Optimization with SageMath. optimization.
+description: "Optimization with SageMath. optimization."
 category: scientific
 tags: [sagemath, optimization, scientific, scientific-computing]
 models: [gpt-4, claude-3]

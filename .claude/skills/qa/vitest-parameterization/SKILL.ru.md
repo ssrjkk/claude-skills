@@ -1,6 +1,6 @@
 ---
 name: vitest-parameterization
-description: Parameterization with Vitest. parametrized tests.
+description: "Parameterization with Vitest. parametrized tests."
 category: qa
 tags: [vitest-parameterization, qa, russian]
 models: [sonnet, opus]

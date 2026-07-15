@@ -1,6 +1,6 @@
 ---
 name: hey-thresholds
-description: Thresholds with hey. pass/fail.
+description: "Thresholds with hey. pass/fail."
 category: qa
 tags: [hey-thresholds, qa, russian]
 models: [sonnet, opus]

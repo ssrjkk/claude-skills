@@ -1,6 +1,6 @@
 ---
 name: figma-collaboration
-description: Collaboration with Figma. collaboration.
+description: "Collaboration with Figma. collaboration."
 category: design
 tags: [figma-collaboration, design, russian]
 models: [sonnet, opus]

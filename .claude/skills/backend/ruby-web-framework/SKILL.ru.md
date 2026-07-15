@@ -1,6 +1,6 @@
 ---
 name: ruby-web-framework
-description: Web Framework with Ruby. web dev.
+description: "Web Framework with Ruby. web dev."
 category: backend
 tags: [ruby-web-framework, backend, russian]
 models: [sonnet, opus]

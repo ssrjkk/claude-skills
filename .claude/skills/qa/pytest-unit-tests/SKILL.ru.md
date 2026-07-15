@@ -1,6 +1,6 @@
 ---
 name: pytest-unit-tests
-description: Unit Tests with pytest. unit testing.
+description: "Unit Tests with pytest. unit testing."
 category: qa
 tags: [pytest-unit-tests, qa, russian]
 models: [sonnet, opus]

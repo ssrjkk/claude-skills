@@ -1,6 +1,6 @@
 ---
 name: plasmic-guides
-description: Guides for Plasmic: how-to guides
+description: "Guides for Plasmic: how-to guides"
 category: design
 tags: [plasmic-guides, design, russian]
 models: [sonnet, opus]

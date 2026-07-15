@@ -1,6 +1,6 @@
 ---
 name: tcfd-measurement
-description: Measurement with TCFD. measurement.
+description: "Measurement with TCFD. measurement."
 category: sustainability
 tags: [tcfd, measurement, sustainability, sustainability]
 models: [gpt-4, claude-3]

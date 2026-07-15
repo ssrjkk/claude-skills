@@ -1,6 +1,6 @@
 ---
 name: matplotlib-visualization
-description: Visualization with Matplotlib. charting.
+description: "Visualization with Matplotlib. charting."
 category: data
 tags: [matplotlib, visualization, data, data-science]
 models: [gpt-4, claude-3]

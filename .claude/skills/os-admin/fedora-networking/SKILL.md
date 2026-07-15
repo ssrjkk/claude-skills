@@ -1,6 +1,6 @@
 ---
 name: fedora-networking
-description: Networking with Fedora. network config.
+description: "Networking with Fedora. network config."
 category: os-admin
 tags: [fedora, networking, os-admin, linux]
 models: [gpt-4, claude-3]

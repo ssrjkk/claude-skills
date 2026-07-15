@@ -1,6 +1,6 @@
 ---
 name: discord-bot-webhooks
-description: Webhooks with Discord Bot. webhooks.
+description: "Webhooks with Discord Bot. webhooks."
 category: communications
 tags: [discord-bot, webhooks, communications, communication-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: dgraph-visualization
-description: Visualization with Dgraph. graph viz.
+description: "Visualization with Dgraph. graph viz."
 category: database
 tags: [dgraph-visualization, database, russian]
 models: [sonnet, opus]

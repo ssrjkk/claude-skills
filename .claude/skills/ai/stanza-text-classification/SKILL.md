@@ -1,6 +1,6 @@
 ---
 name: stanza-text-classification
-description: Text Classification with Stanza. document categorization.
+description: "Text Classification with Stanza. document categorization."
 category: ai
 tags: [stanza, text-classification, ai, nlp]
 models: [gpt-4, claude-3]

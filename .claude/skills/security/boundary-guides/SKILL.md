@@ -1,6 +1,6 @@
 ---
 name: boundary-guides
-description: Guides for Boundary: how-to guides
+description: "Guides for Boundary: how-to guides"
 category: security
 tags: [boundary, guides, security]
 models: [sonnet, opus]

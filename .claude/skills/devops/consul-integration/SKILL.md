@@ -1,6 +1,6 @@
 ---
 name: consul-integration
-description: Integration for Consul: integration with other tools
+description: "Integration for Consul: integration with other tools"
 category: devops
 tags: [consul, integration, devops]
 models: [sonnet, opus]

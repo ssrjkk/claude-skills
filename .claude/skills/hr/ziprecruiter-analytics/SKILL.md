@@ -1,6 +1,6 @@
 ---
 name: ziprecruiter-analytics
-description: Analytics with ZipRecruiter. analytics.
+description: "Analytics with ZipRecruiter. analytics."
 category: hr
 tags: [ziprecruiter, analytics, hr, recruiting]
 models: [gpt-4, claude-3]

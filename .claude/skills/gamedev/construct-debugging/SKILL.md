@@ -1,6 +1,6 @@
 ---
 name: construct-debugging
-description: Debugging for Construct: debugging and troubleshooting
+description: "Debugging for Construct: debugging and troubleshooting"
 category: gamedev
 tags: [construct, debugging, gamedev]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: quarkus-deployment
-description: Deployment with Quarkus. build.
+description: "Deployment with Quarkus. build."
 category: backend
 tags: [quarkus, deployment, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: stimulus-animations
-description: Animations with Stimulus. UI animations.
+description: "Animations with Stimulus. UI animations."
 category: frontend
 tags: [stimulus-animations, frontend, russian]
 models: [sonnet, opus]

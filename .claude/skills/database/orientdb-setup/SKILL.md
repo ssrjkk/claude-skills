@@ -1,6 +1,6 @@
 ---
 name: orientdb-setup
-description: Setup with OrientDB. installation.
+description: "Setup with OrientDB. installation."
 category: database
 tags: [orientdb, setup, database, graph-database]
 models: [gpt-4, claude-3]

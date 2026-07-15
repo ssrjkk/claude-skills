@@ -1,6 +1,6 @@
 ---
 name: gamedev-skill-0200
-description: Specialized skill #0200 for gamedev development
+description: "Specialized skill #0200 for gamedev development"
 category: gamedev
 tags: [skill-0200, gamedev, russian]
 models: [sonnet, opus]

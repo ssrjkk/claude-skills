@@ -1,6 +1,6 @@
 ---
 name: dagster-batch
-description: Batch with Dagster. batch processing.
+description: "Batch with Dagster. batch processing."
 category: data
 tags: [dagster, batch, data, data-engineering]
 models: [gpt-4, claude-3]

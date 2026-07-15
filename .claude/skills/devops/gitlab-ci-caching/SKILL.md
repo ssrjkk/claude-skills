@@ -1,6 +1,6 @@
 ---
 name: gitlab-ci-caching
-description: Caching with GitLab CI. dependency caching.
+description: "Caching with GitLab CI. dependency caching."
 category: devops
 tags: [gitlab-ci, caching, devops, ci-cd]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: fastapi-database
-description: Database with FastAPI. DB access.
+description: "Database with FastAPI. DB access."
 category: backend
 tags: [fastapi, database, backend, backend]
 models: [gpt-4, claude-3]

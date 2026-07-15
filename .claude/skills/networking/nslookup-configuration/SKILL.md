@@ -1,6 +1,6 @@
 ---
 name: nslookup-configuration
-description: Config with nslookup/dig. advanced config.
+description: "Config with nslookup/dig. advanced config."
 category: networking
 tags: [nslookup, configuration, networking, networking-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: huggingface-setup
-description: Setup for Huggingface: installation and configuration
+description: "Setup for Huggingface: installation and configuration"
 category: ai
 tags: [huggingface, setup, ai]
 models: [sonnet, opus]

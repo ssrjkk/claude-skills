@@ -1,6 +1,6 @@
 ---
 name: chakra-ui-examples
-description: Examples for Chakra-Ui: practical examples
+description: "Examples for Chakra-Ui: practical examples"
 category: frontend
 tags: [chakra-ui, examples, frontend]
 models: [sonnet, opus]

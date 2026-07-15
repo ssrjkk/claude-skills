@@ -1,6 +1,6 @@
 ---
 name: grafana-scraping
-description: Scraping with Grafana. target discovery.
+description: "Scraping with Grafana. target discovery."
 category: devops
 tags: [grafana-scraping, devops, russian]
 models: [sonnet, opus]

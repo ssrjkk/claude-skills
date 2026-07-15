@@ -1,6 +1,6 @@
 ---
 name: pubnub-webhooks
-description: Webhooks with PubNub. webhooks.
+description: "Webhooks with PubNub. webhooks."
 category: communications
 tags: [pubnub-webhooks, communications, russian]
 models: [sonnet, opus]

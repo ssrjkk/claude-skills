@@ -1,6 +1,6 @@
 ---
 name: qt-window
-description: Window with Qt. windows.
+description: "Window with Qt. windows."
 category: desktop
 tags: [qt-window, desktop, russian]
 models: [sonnet, opus]

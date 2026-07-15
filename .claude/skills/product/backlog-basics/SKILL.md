@@ -1,6 +1,6 @@
 ---
 name: backlog-basics
-description: Basics with Backlog Management. fundamentals.
+description: "Basics with Backlog Management. fundamentals."
 category: product
 tags: [backlog, basics, product, product-framework]
 models: [gpt-4, claude-3]

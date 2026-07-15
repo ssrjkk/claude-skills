@@ -1,6 +1,6 @@
 ---
 name: sqlserver-optimization
-description: Optimization with SQL Server. query tuning.
+description: "Optimization with SQL Server. query tuning."
 category: database
 tags: [sqlserver, optimization, database, sql]
 models: [gpt-4, claude-3]

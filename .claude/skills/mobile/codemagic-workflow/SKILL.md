@@ -1,6 +1,6 @@
 ---
 name: codemagic-workflow
-description: Workflow for Codemagic: workflow optimization
+description: "Workflow for Codemagic: workflow optimization"
 category: mobile
 tags: [codemagic, workflow, mobile]
 models: [sonnet, opus]

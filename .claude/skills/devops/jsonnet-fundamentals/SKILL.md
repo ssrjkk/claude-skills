@@ -1,6 +1,6 @@
 ---
 name: jsonnet-fundamentals
-description: Fundamentals for Jsonnet: core concepts
+description: "Fundamentals for Jsonnet: core concepts"
 category: devops
 tags: [jsonnet, fundamentals, devops]
 models: [sonnet, opus]

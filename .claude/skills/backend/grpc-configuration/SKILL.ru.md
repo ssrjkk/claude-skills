@@ -1,6 +1,6 @@
 ---
 name: grpc-configuration
-description: Configuration for Grpc: configuration and setup
+description: "Configuration for Grpc: configuration and setup"
 category: backend
 tags: [grpc-configuration, backend, russian]
 models: [sonnet, opus]

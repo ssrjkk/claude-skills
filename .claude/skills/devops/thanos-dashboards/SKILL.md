@@ -1,6 +1,6 @@
 ---
 name: thanos-dashboards
-description: Dashboards with Thanos. dashboards.
+description: "Dashboards with Thanos. dashboards."
 category: devops
 tags: [thanos, dashboards, devops, monitoring]
 models: [gpt-4, claude-3]

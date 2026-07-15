@@ -1,6 +1,6 @@
 ---
 name: compositing-editing
-description: Editing with Compositing. editing.
+description: "Editing with Compositing. editing."
 category: media
 tags: [compositing-editing, media, russian]
 models: [sonnet, opus]

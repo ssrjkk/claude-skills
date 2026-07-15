@@ -1,6 +1,6 @@
 ---
 name: couchbase-pub-sub
-description: Pub/Sub with Couchbase. publish/subscribe.
+description: "Pub/Sub with Couchbase. publish/subscribe."
 category: database
 tags: [couchbase-pub-sub, database, russian]
 models: [sonnet, opus]

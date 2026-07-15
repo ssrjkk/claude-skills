@@ -1,6 +1,6 @@
 ---
 name: stripe-subscriptions
-description: Subscriptions with Stripe. recurring.
+description: "Subscriptions with Stripe. recurring."
 category: payments
 tags: [stripe, subscriptions, payments, payments]
 models: [gpt-4, claude-3]

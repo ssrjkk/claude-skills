@@ -1,6 +1,6 @@
 ---
 name: octane-usage
-description: Usage for Octane: usage reference
+description: "Usage for Octane: usage reference"
 category: backend
 tags: [octane-usage, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: zustand-actions
-description: Actions with Zustand. actions.
+description: "Actions with Zustand. actions."
 category: frontend
 tags: [zustand-actions, frontend, russian]
 models: [sonnet, opus]

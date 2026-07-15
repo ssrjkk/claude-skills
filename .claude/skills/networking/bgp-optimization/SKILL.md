@@ -1,6 +1,6 @@
 ---
 name: bgp-optimization
-description: Optimization with BGP. tuning.
+description: "Optimization with BGP. tuning."
 category: networking
 tags: [bgp, optimization, networking, networking]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: riscv
-description: Development with Riscv: tools and best practices
+description: "Development with Riscv: tools and best practices"
 category: ai
 tags: [riscv, ai, russian]
 models: [sonnet, opus]

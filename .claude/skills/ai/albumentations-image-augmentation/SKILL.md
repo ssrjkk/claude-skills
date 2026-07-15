@@ -1,6 +1,6 @@
 ---
 name: albumentations-image-augmentation
-description: Image Augmentation with Albumentations. data augmentation.
+description: "Image Augmentation with Albumentations. data augmentation."
 category: ai
 tags: [albumentations, image-augmentation, ai, computer-vision]
 models: [gpt-4, claude-3]

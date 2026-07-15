@@ -1,6 +1,6 @@
 ---
 name: kafka-connect-configuration
-description: Configuration for Kafka-Connect: configuration and setup
+description: "Configuration for Kafka-Connect: configuration and setup"
 category: database
 tags: [kafka-connect, configuration, database]
 models: [sonnet, opus]

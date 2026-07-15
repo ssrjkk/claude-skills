@@ -1,6 +1,6 @@
 ---
 name: gin-database
-description: Database with Gin. DB access.
+description: "Database with Gin. DB access."
 category: backend
 tags: [gin, database, backend, backend]
 models: [gpt-4, claude-3]

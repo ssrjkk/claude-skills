@@ -1,6 +1,6 @@
 ---
 name: pair-programming-best-practices
-description: Best Practices with Pair Programming. tips.
+description: "Best Practices with Pair Programming. tips."
 category: engineering
 tags: [pair-programming, best-practices, engineering, engineering]
 models: [gpt-4, claude-3]

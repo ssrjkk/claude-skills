@@ -1,6 +1,6 @@
 ---
 name: dspy-rag
-description: RAG with Dspy. building RAG systems.
+description: "RAG with Dspy. building RAG systems."
 category: ai
 tags: [dspy-rag, ai, russian]
 models: [sonnet, opus]

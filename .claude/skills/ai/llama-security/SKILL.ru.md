@@ -1,6 +1,6 @@
 ---
 name: llama-security
-description: Security for Llama: security best practices
+description: "Security for Llama: security best practices"
 category: ai
 tags: [llama-security, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mithril-components
-description: Components with Mithril. building components.
+description: "Components with Mithril. building components."
 category: frontend
 tags: [mithril-components, frontend, russian]
 models: [sonnet, opus]

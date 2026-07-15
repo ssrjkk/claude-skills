@@ -1,6 +1,6 @@
 ---
 name: nat-automation
-description: Automation with NAT. network automation.
+description: "Automation with NAT. network automation."
 category: networking
 tags: [nat, automation, networking, networking]
 models: [gpt-4, claude-3]

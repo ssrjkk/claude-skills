@@ -1,6 +1,6 @@
 ---
 name: chromatic-automation
-description: Automation for Chromatic: automation and scripting
+description: "Automation for Chromatic: automation and scripting"
 category: qa
 tags: [chromatic, automation, qa]
 models: [sonnet, opus]

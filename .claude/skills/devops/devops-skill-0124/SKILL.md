@@ -1,6 +1,6 @@
 ---
 name: devops-skill-0124
-description: devops specialized skill #0124 for devops development
+description: "devops specialized skill #0124 for devops development"
 category: devops
 tags: [devops, skill, 0124]
 models: [sonnet, opus]

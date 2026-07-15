@@ -1,6 +1,6 @@
 ---
 name: tauri-ui
-description: UI with Tauri. UI components.
+description: "UI with Tauri. UI components."
 category: desktop
 tags: [tauri-ui, desktop, russian]
 models: [sonnet, opus]

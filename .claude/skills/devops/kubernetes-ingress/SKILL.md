@@ -1,6 +1,6 @@
 ---
 name: kubernetes-ingress
-description: Ingress with Kubernetes. ingress controller.
+description: "Ingress with Kubernetes. ingress controller."
 category: devops
 tags: [kubernetes, ingress, devops, kubernetes]
 models: [gpt-4, claude-3]

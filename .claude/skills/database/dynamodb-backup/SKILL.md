@@ -1,6 +1,6 @@
 ---
 name: dynamodb-backup
-description: Backup with DynamoDB. backup.
+description: "Backup with DynamoDB. backup."
 category: database
 tags: [dynamodb, backup, database, nosql]
 models: [gpt-4, claude-3]

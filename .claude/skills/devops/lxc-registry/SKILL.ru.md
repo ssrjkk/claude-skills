@@ -1,6 +1,6 @@
 ---
 name: lxc-registry
-description: Registry with LXC. image registry.
+description: "Registry with LXC. image registry."
 category: devops
 tags: [lxc-registry, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: hazelcast-caching
-description: Caching with Hazelcast. caching strategies.
+description: "Caching with Hazelcast. caching strategies."
 category: database
 tags: [hazelcast-caching, database, russian]
 models: [sonnet, opus]

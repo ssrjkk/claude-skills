@@ -1,6 +1,6 @@
 ---
 name: numpy-simulation
-description: Simulation with NumPy. Monte Carlo.
+description: "Simulation with NumPy. Monte Carlo."
 category: scientific
 tags: [numpy-simulation, scientific, russian]
 models: [sonnet, opus]

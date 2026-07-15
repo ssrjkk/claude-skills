@@ -1,6 +1,6 @@
 ---
 name: redshift-security
-description: Security for Redshift: security best practices
+description: "Security for Redshift: security best practices"
 category: data
 tags: [redshift, security, data]
 models: [sonnet, opus]

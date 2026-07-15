@@ -1,6 +1,6 @@
 ---
 name: angular-basics
-description: Basics for Angular: fundamentals and core concepts
+description: "Basics for Angular: fundamentals and core concepts"
 category: frontend
 tags: [angular, basics, frontend]
 models: [sonnet, opus]

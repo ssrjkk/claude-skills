@@ -1,6 +1,6 @@
 ---
 name: kotlin-web-framework
-description: Web Framework with Kotlin. web dev.
+description: "Web Framework with Kotlin. web dev."
 category: backend
 tags: [kotlin-web-framework, backend, russian]
 models: [sonnet, opus]

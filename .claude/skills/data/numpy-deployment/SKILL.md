@@ -1,6 +1,6 @@
 ---
 name: numpy-deployment
-description: Deployment with NumPy. app deployment.
+description: "Deployment with NumPy. app deployment."
 category: data
 tags: [numpy, deployment, data, data-science]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: typesense-searching
-description: Searching with Typesense. full-text search.
+description: "Searching with Typesense. full-text search."
 category: database
 tags: [typesense, searching, database, search-engine]
 models: [gpt-4, claude-3]

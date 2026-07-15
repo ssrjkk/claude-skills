@@ -1,6 +1,6 @@
 ---
 name: ev-charging-basics
-description: Basics with EV Charging. fundamentals.
+description: "Basics with EV Charging. fundamentals."
 category: energy
 tags: [ev-charging, basics, energy, renewable-energy]
 models: [gpt-4, claude-3]

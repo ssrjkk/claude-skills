@@ -1,6 +1,6 @@
 ---
 name: cratedb-querying
-description: Querying with CrateDB. SQL queries.
+description: "Querying with CrateDB. SQL queries."
 category: database
 tags: [cratedb, querying, database, sql]
 models: [gpt-4, claude-3]

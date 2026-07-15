@@ -1,6 +1,6 @@
 ---
 name: fedora-filesystem
-description: Filesystem with Fedora. filesystem.
+description: "Filesystem with Fedora. filesystem."
 category: os-admin
 tags: [fedora-filesystem, os-admin, russian]
 models: [sonnet, opus]

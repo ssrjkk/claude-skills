@@ -1,6 +1,6 @@
 ---
 name: discord-bot-analytics
-description: Analytics with Discord Bot. analytics.
+description: "Analytics with Discord Bot. analytics."
 category: communications
 tags: [discord-bot, analytics, communications, communication-platform]
 models: [gpt-4, claude-3]

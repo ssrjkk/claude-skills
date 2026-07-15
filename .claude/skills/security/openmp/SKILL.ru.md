@@ -1,6 +1,6 @@
 ---
 name: openmp
-description: Development with Openmp: tools and best practices
+description: "Development with Openmp: tools and best practices"
 category: security
 tags: [openmp, security, russian]
 models: [sonnet, opus]

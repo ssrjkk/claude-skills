@@ -1,6 +1,6 @@
 ---
 name: soda-automation
-description: Automation for Soda: automation and scripting
+description: "Automation for Soda: automation and scripting"
 category: data
 tags: [soda-automation, data, russian]
 models: [sonnet, opus]

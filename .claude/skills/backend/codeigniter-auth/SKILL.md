@@ -1,6 +1,6 @@
 ---
 name: codeigniter-auth
-description: Auth with CodeIgniter. authentication.
+description: "Auth with CodeIgniter. authentication."
 category: backend
 tags: [codeigniter, auth, backend, backend]
 models: [gpt-4, claude-3]

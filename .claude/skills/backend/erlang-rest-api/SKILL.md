@@ -1,6 +1,6 @@
 ---
 name: erlang-rest-api
-description: REST API with Erlang. building REST APIs.
+description: "REST API with Erlang. building REST APIs."
 category: backend
 tags: [erlang, rest-api, backend, backend]
 models: [gpt-4, claude-3]

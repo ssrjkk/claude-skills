@@ -1,6 +1,6 @@
 ---
 name: slim-auth
-description: Auth with Slim. authentication.
+description: "Auth with Slim. authentication."
 category: backend
 tags: [slim-auth, backend, russian]
 models: [sonnet, opus]

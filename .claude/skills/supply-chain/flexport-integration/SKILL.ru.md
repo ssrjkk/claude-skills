@@ -1,6 +1,6 @@
 ---
 name: flexport-integration
-description: Integration with Flexport. integration.
+description: "Integration with Flexport. integration."
 category: supply-chain
 tags: [flexport-integration, supply-chain, russian]
 models: [sonnet, opus]

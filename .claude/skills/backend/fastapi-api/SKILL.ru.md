@@ -1,6 +1,6 @@
 ---
 name: fastapi-api
-description: API for Fastapi: API development and integration
+description: "API for Fastapi: API development and integration"
 category: backend
 tags: [fastapi-api, backend, russian]
 models: [sonnet, opus]

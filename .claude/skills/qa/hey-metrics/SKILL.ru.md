@@ -1,6 +1,6 @@
 ---
 name: hey-metrics
-description: Metrics with hey. performance metrics.
+description: "Metrics with hey. performance metrics."
 category: qa
 tags: [hey-metrics, qa, russian]
 models: [sonnet, opus]

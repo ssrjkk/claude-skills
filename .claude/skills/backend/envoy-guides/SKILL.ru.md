@@ -1,6 +1,6 @@
 ---
 name: envoy-guides
-description: Guides for Envoy: how-to guides
+description: "Guides for Envoy: how-to guides"
 category: backend
 tags: [envoy-guides, backend, russian]
 models: [sonnet, opus]

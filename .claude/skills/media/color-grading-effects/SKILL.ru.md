@@ -1,6 +1,6 @@
 ---
 name: color-grading-effects
-description: Effects with Color Grading. VFX.
+description: "Effects with Color Grading. VFX."
 category: media
 tags: [color-grading-effects, media, russian]
 models: [sonnet, opus]

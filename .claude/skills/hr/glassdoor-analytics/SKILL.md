@@ -1,6 +1,6 @@
 ---
 name: glassdoor-analytics
-description: Analytics with Glassdoor. analytics.
+description: "Analytics with Glassdoor. analytics."
 category: hr
 tags: [glassdoor, analytics, hr, recruiting]
 models: [gpt-4, claude-3]

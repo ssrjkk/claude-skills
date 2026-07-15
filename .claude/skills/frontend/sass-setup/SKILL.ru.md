@@ -1,6 +1,6 @@
 ---
 name: sass-setup
-description: Setup with Sass. initial setup.
+description: "Setup with Sass. initial setup."
 category: frontend
 tags: [sass-setup, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: artillery-distributed
-description: Distributed with Artillery. distributed load.
+description: "Distributed with Artillery. distributed load."
 category: qa
 tags: [artillery, distributed, qa, performance-testing]
 models: [gpt-4, claude-3]

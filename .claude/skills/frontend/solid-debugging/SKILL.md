@@ -1,6 +1,6 @@
 ---
 name: solid-debugging
-description: Debugging for Solid: debugging and troubleshooting
+description: "Debugging for Solid: debugging and troubleshooting"
 category: frontend
 tags: [solid, debugging, frontend]
 models: [sonnet, opus]

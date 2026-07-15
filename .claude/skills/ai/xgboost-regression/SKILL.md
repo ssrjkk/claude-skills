@@ -1,6 +1,6 @@
 ---
 name: xgboost-regression
-description: Regression with Xgboost. predicting values.
+description: "Regression with Xgboost. predicting values."
 category: ai
 tags: [xgboost, regression, ai, ml]
 models: [gpt-4, claude-3]

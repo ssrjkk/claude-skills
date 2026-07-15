@@ -1,6 +1,6 @@
 ---
 name: teller-accounts
-description: Accounts with Teller. account linking.
+description: "Accounts with Teller. account linking."
 category: finance
 tags: [teller, accounts, finance, fintech]
 models: [gpt-4, claude-3]

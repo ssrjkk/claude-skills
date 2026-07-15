@@ -1,6 +1,6 @@
 ---
 name: ruby-cli-tool
-description: CLI Tool with Ruby. building CLI tools.
+description: "CLI Tool with Ruby. building CLI tools."
 category: backend
 tags: [ruby-cli-tool, backend, russian]
 models: [sonnet, opus]

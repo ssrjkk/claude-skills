@@ -1,6 +1,6 @@
 ---
 name: open-banking-payments
-description: Payments with Open Banking. payments.
+description: "Payments with Open Banking. payments."
 category: finance
 tags: [open-banking-payments, finance, russian]
 models: [sonnet, opus]

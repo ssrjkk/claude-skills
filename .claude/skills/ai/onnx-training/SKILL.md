@@ -1,6 +1,6 @@
 ---
 name: onnx-training
-description: Training with Onnx. training models.
+description: "Training with Onnx. training models."
 category: ai
 tags: [onnx, training, ai, deep-learning]
 models: [gpt-4, claude-3]

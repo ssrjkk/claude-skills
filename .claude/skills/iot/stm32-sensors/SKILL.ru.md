@@ -1,6 +1,6 @@
 ---
 name: stm32-sensors
-description: Sensors with STM32. sensor integration.
+description: "Sensors with STM32. sensor integration."
 category: iot
 tags: [stm32-sensors, iot, russian]
 models: [sonnet, opus]

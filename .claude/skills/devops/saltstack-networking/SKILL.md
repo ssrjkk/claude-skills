@@ -1,6 +1,6 @@
 ---
 name: saltstack-networking
-description: Networking with SaltStack. network infra.
+description: "Networking with SaltStack. network infra."
 category: devops
 tags: [saltstack, networking, devops, iac]
 models: [gpt-4, claude-3]

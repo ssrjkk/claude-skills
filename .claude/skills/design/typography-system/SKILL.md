@@ -1,6 +1,6 @@
 ---
 name: typography-system
-description: Creates scalable typography systems with type scale, line height, and responsive text tokens.
+description: "Creates scalable typography systems with type scale, line height, and responsive text tokens."
 category: design
 tags: [typography, fonts, design-tokens, responsive, type-scale]
 models: [sonnet, opus]

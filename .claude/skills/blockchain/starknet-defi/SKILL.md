@@ -1,6 +1,6 @@
 ---
 name: starknet-defi
-description: DeFi with StarkNet. DeFi.
+description: "DeFi with StarkNet. DeFi."
 category: blockchain
 tags: [starknet, defi, blockchain, blockchain]
 models: [gpt-4, claude-3]

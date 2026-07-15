@@ -1,6 +1,6 @@
 ---
 name: vitest-integration
-description: Integration with Vitest. integration tests.
+description: "Integration with Vitest. integration tests."
 category: qa
 tags: [vitest-integration, qa, russian]
 models: [sonnet, opus]

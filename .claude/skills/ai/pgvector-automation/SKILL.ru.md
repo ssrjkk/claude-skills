@@ -1,6 +1,6 @@
 ---
 name: pgvector-automation
-description: Automation for Pgvector: automation and scripting
+description: "Automation for Pgvector: automation and scripting"
 category: ai
 tags: [pgvector-automation, ai, russian]
 models: [sonnet, opus]

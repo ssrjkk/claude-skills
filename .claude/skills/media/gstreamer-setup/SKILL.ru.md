@@ -1,6 +1,6 @@
 ---
 name: gstreamer-setup
-description: Setup with GStreamer. setup.
+description: "Setup with GStreamer. setup."
 category: media
 tags: [gstreamer-setup, media, russian]
 models: [sonnet, opus]

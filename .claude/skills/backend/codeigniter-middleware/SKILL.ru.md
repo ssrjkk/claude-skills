@@ -1,6 +1,6 @@
 ---
 name: codeigniter-middleware
-description: Middleware with CodeIgniter. pipeline.
+description: "Middleware with CodeIgniter. pipeline."
 category: backend
 tags: [codeigniter-middleware, backend, russian]
 models: [sonnet, opus]

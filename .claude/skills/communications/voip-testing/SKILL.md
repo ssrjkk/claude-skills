@@ -1,6 +1,6 @@
 ---
 name: voip-testing
-description: Testing with VoIP. testing.
+description: "Testing with VoIP. testing."
 category: communications
 tags: [voip, testing, communications, communication-protocol]
 models: [gpt-4, claude-3]

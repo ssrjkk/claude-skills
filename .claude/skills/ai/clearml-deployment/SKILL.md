@@ -1,6 +1,6 @@
 ---
 name: clearml-deployment
-description: Deployment with Clearml. model serving.
+description: "Deployment with Clearml. model serving."
 category: ai
 tags: [clearml, deployment, ai, ml]
 models: [gpt-4, claude-3]

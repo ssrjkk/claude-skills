@@ -1,6 +1,6 @@
 ---
 name: aws-cost
-description: Cost with AWS. cost optimization.
+description: "Cost with AWS. cost optimization."
 category: devops
 tags: [aws, cost, devops, cloud]
 models: [gpt-4, claude-3]

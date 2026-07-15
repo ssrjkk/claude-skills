@@ -1,6 +1,6 @@
 ---
 name: compliance-trading-data
-description: Data with Trading Compliance. data sources.
+description: "Data with Trading Compliance. data sources."
 category: finance
 tags: [compliance-trading-data, finance, russian]
 models: [sonnet, opus]

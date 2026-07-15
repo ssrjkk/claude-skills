@@ -1,6 +1,6 @@
 ---
 name: sonarqube-scanning
-description: Scanning with SonarQube. security scanning.
+description: "Scanning with SonarQube. security scanning."
 category: security
 tags: [sonarqube, scanning, security, security-tool]
 models: [gpt-4, claude-3]

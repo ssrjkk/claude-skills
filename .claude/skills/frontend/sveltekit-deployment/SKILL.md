@@ -1,6 +1,6 @@
 ---
 name: sveltekit-deployment
-description: Deployment with SvelteKit. production.
+description: "Deployment with SvelteKit. production."
 category: frontend
 tags: [sveltekit, deployment, frontend, meta-framework]
 models: [gpt-4, claude-3]

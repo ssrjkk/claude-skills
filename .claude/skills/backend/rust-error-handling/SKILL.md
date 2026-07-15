@@ -1,6 +1,6 @@
 ---
 name: rust-error-handling
-description: Error Handling with Rust. error management.
+description: "Error Handling with Rust. error management."
 category: backend
 tags: [rust, error-handling, backend, backend]
 models: [gpt-4, claude-3]

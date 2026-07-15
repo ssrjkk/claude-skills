@@ -1,6 +1,6 @@
 ---
 name: postcss-config
-description: Config with PostCSS. configuration.
+description: "Config with PostCSS. configuration."
 category: frontend
 tags: [postcss-config, frontend, russian]
 models: [sonnet, opus]

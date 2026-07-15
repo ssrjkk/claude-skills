@@ -1,6 +1,6 @@
 ---
 name: hl7-basics
-description: Basics with HL7 v2. fundamentals.
+description: "Basics with HL7 v2. fundamentals."
 category: healthcare
 tags: [hl7, basics, healthcare, healthcare]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: nebula-security
-description: Security with Nebula Graph. security.
+description: "Security with Nebula Graph. security."
 category: database
 tags: [nebula, security, database, graph-database]
 models: [gpt-4, claude-3]

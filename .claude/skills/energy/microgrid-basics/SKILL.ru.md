@@ -1,6 +1,6 @@
 ---
 name: microgrid-basics
-description: Basics with Microgrid. fundamentals.
+description: "Basics with Microgrid. fundamentals."
 category: energy
 tags: [microgrid-basics, energy, russian]
 models: [sonnet, opus]

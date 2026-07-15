@@ -1,6 +1,6 @@
 ---
 name: widget-android-intro
-description: Intro for Widget-Android: introduction
+description: "Intro for Widget-Android: introduction"
 category: mobile
 tags: [widget-android-intro, mobile, russian]
 models: [sonnet, opus]

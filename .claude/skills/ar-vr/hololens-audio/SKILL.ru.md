@@ -1,6 +1,6 @@
 ---
 name: hololens-audio
-description: Audio with HoloLens. spatial audio.
+description: "Audio with HoloLens. spatial audio."
 category: ar-vr
 tags: [hololens-audio, ar-vr, russian]
 models: [sonnet, opus]

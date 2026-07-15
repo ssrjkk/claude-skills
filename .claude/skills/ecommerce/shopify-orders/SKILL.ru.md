@@ -1,6 +1,6 @@
 ---
 name: shopify-orders
-description: Orders with Shopify. order management.
+description: "Orders with Shopify. order management."
 category: ecommerce
 tags: [shopify-orders, ecommerce, russian]
 models: [sonnet, opus]

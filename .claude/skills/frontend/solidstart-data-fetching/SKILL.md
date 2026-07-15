@@ -1,6 +1,6 @@
 ---
 name: solidstart-data-fetching
-description: Data Fetching with SolidStart. data loading.
+description: "Data Fetching with SolidStart. data loading."
 category: frontend
 tags: [solidstart, data-fetching, frontend, meta-framework]
 models: [gpt-4, claude-3]

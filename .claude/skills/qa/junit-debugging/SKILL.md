@@ -1,6 +1,6 @@
 ---
 name: junit-debugging
-description: Debugging for Junit: debugging and troubleshooting
+description: "Debugging for Junit: debugging and troubleshooting"
 category: qa
 tags: [junit, debugging, qa]
 models: [sonnet, opus]

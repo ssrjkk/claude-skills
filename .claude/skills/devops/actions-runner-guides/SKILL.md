@@ -1,6 +1,6 @@
 ---
 name: actions-runner-guides
-description: Guides for Actions-Runner: how-to guides
+description: "Guides for Actions-Runner: how-to guides"
 category: devops
 tags: [actions-runner, guides, devops]
 models: [sonnet, opus]

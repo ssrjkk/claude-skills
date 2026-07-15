@@ -1,6 +1,6 @@
 ---
 name: prometheus-scraping
-description: Scraping with Prometheus. target discovery.
+description: "Scraping with Prometheus. target discovery."
 category: devops
 tags: [prometheus, scraping, devops, monitoring]
 models: [gpt-4, claude-3]

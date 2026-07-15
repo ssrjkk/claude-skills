@@ -1,6 +1,6 @@
 ---
 name: actix-web-websocket
-description: WebSocket with Actix Web. real-time.
+description: "WebSocket with Actix Web. real-time."
 category: backend
 tags: [actix-web, websocket, backend, backend]
 models: [gpt-4, claude-3]

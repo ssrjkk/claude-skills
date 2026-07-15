@@ -1,6 +1,6 @@
 ---
 name: fastapi-debugging
-description: Debugging for Fastapi: debugging and troubleshooting
+description: "Debugging for Fastapi: debugging and troubleshooting"
 category: backend
 tags: [fastapi, debugging, backend]
 models: [sonnet, opus]

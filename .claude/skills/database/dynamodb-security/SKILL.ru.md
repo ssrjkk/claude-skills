@@ -1,6 +1,6 @@
 ---
 name: dynamodb-security
-description: Security with DynamoDB. security.
+description: "Security with DynamoDB. security."
 category: database
 tags: [dynamodb-security, database, russian]
 models: [sonnet, opus]

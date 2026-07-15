@@ -1,6 +1,6 @@
 ---
 name: meilisearch-scoring
-description: Scoring with Meilisearch. relevance scoring.
+description: "Scoring with Meilisearch. relevance scoring."
 category: database
 tags: [meilisearch, scoring, database, search-engine]
 models: [gpt-4, claude-3]

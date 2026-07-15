@@ -1,6 +1,6 @@
 ---
 name: flyio-networking
-description: Networking with Fly.io. VPC.
+description: "Networking with Fly.io. VPC."
 category: devops
 tags: [flyio, networking, devops, cloud]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: kotlin-logging
-description: Logging with Kotlin. app logging.
+description: "Logging with Kotlin. app logging."
 category: backend
 tags: [kotlin-logging, backend, russian]
 models: [sonnet, opus]

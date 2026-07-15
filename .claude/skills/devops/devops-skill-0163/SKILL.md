@@ -1,6 +1,6 @@
 ---
 name: devops-skill-0163
-description: devops specialized skill #0163 for devops development
+description: "devops specialized skill #0163 for devops development"
 category: devops
 tags: [devops, skill, 0163]
 models: [sonnet, opus]

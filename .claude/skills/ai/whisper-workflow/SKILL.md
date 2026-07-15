@@ -1,6 +1,6 @@
 ---
 name: whisper-workflow
-description: Workflow for Whisper: workflow optimization
+description: "Workflow for Whisper: workflow optimization"
 category: ai
 tags: [whisper, workflow, ai]
 models: [sonnet, opus]

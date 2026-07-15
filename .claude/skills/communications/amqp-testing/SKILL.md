@@ -1,6 +1,6 @@
 ---
 name: amqp-testing
-description: Testing with AMQP. testing.
+description: "Testing with AMQP. testing."
 category: communications
 tags: [amqp, testing, communications, communication-protocol]
 models: [gpt-4, claude-3]

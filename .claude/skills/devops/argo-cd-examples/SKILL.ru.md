@@ -1,6 +1,6 @@
 ---
 name: argo-cd-examples
-description: Examples for Argo-Cd: practical examples
+description: "Examples for Argo-Cd: practical examples"
 category: devops
 tags: [argo-cd-examples, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: textblob-translation
-description: Translation with Textblob. machine translation.
+description: "Translation with Textblob. machine translation."
 category: ai
 tags: [textblob-translation, ai, russian]
 models: [sonnet, opus]

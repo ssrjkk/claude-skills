@@ -1,6 +1,6 @@
 ---
 name: onnx-data-loading
-description: Data Loading with Onnx. data pipelines.
+description: "Data Loading with Onnx. data pipelines."
 category: ai
 tags: [onnx-data-loading, ai, russian]
 models: [sonnet, opus]

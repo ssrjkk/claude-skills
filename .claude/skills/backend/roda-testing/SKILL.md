@@ -1,6 +1,6 @@
 ---
 name: roda-testing
-description: Testing with Roda. RSpec.
+description: "Testing with Roda. RSpec."
 category: backend
 tags: [roda, testing, backend, backend]
 models: [gpt-4, claude-3]

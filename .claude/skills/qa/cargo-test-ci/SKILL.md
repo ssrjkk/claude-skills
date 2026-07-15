@@ -1,6 +1,6 @@
 ---
 name: cargo-test-ci
-description: CI with Cargo Test. CI integration.
+description: "CI with Cargo Test. CI integration."
 category: qa
 tags: [cargo-test, ci, qa, testing]
 models: [gpt-4, claude-3]

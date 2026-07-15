@@ -1,6 +1,6 @@
 ---
 name: gaia-terrain-quickstart
-description: Quickstart for Gaia-Terrain: quick start guide
+description: "Quickstart for Gaia-Terrain: quick start guide"
 category: gamedev
 tags: [gaia-terrain-quickstart, gamedev, russian]
 models: [sonnet, opus]

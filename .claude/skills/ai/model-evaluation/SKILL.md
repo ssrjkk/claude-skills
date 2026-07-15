@@ -1,6 +1,6 @@
 ---
 name: model-evaluation
-description: LLM evaluation and benchmarking
+description: "LLM evaluation and benchmarking"
 category: ai
 tags: [evaluation, benchmarking, llm, testing, metrics]
 models: [sonnet, opus]

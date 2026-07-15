@@ -1,6 +1,6 @@
 ---
 name: akita-actions
-description: Actions with Akita. actions.
+description: "Actions with Akita. actions."
 category: frontend
 tags: [akita, actions, frontend, state-management]
 models: [gpt-4, claude-3]

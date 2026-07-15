@@ -1,6 +1,6 @@
 ---
 name: buffalo-deployment
-description: Deployment with Buffalo. build.
+description: "Deployment with Buffalo. build."
 category: backend
 tags: [buffalo, deployment, backend, backend]
 models: [gpt-4, claude-3]

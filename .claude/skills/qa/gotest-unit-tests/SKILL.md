@@ -1,6 +1,6 @@
 ---
 name: gotest-unit-tests
-description: Unit Tests with Go Test. unit testing.
+description: "Unit Tests with Go Test. unit testing."
 category: qa
 tags: [gotest, unit-tests, qa, testing]
 models: [gpt-4, claude-3]

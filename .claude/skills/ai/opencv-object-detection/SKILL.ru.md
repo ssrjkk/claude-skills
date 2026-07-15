@@ -1,6 +1,6 @@
 ---
 name: opencv-object-detection
-description: Object Detection with Opencv. detecting objects.
+description: "Object Detection with Opencv. detecting objects."
 category: ai
 tags: [opencv-object-detection, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: taipy-theming
-description: Theming with Taipy. themes.
+description: "Theming with Taipy. themes."
 category: data
 tags: [taipy, theming, data, data-apps]
 models: [gpt-4, claude-3]

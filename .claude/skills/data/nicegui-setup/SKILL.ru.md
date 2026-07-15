@@ -1,6 +1,6 @@
 ---
 name: nicegui-setup
-description: Setup with NiceGUI. installation.
+description: "Setup with NiceGUI. installation."
 category: data
 tags: [nicegui-setup, data, russian]
 models: [sonnet, opus]

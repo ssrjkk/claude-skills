@@ -1,6 +1,6 @@
 ---
 name: detectron2-image-filtering
-description: Image Filtering with Detectron2. image filters.
+description: "Image Filtering with Detectron2. image filters."
 category: ai
 tags: [detectron2, image-filtering, ai, computer-vision]
 models: [gpt-4, claude-3]

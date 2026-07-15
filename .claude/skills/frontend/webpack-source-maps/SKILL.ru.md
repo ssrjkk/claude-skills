@@ -1,6 +1,6 @@
 ---
 name: webpack-source-maps
-description: Source Maps with Webpack. debugging.
+description: "Source Maps with Webpack. debugging."
 category: frontend
 tags: [webpack-source-maps, frontend, russian]
 models: [sonnet, opus]

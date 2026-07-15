@@ -1,6 +1,6 @@
 ---
 name: scipy-transformation
-description: Transformation with SciPy. transform.
+description: "Transformation with SciPy. transform."
 category: data
 tags: [scipy-transformation, data, russian]
 models: [sonnet, opus]

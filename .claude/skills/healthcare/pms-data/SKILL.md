@@ -1,6 +1,6 @@
 ---
 name: pms-data
-description: Data with Practice Management. data management.
+description: "Data with Practice Management. data management."
 category: healthcare
 tags: [pms, data, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: scikit-image-image-augmentation
-description: Image Augmentation with Scikit Image. data augmentation.
+description: "Image Augmentation with Scikit Image. data augmentation."
 category: ai
 tags: [scikit-image, image-augmentation, ai, computer-vision]
 models: [gpt-4, claude-3]

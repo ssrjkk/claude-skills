@@ -1,6 +1,6 @@
 ---
 name: cdk-cicd
-description: CI/CD with AWS CDK. pipeline integration.
+description: "CI/CD with AWS CDK. pipeline integration."
 category: devops
 tags: [cdk-cicd, devops, russian]
 models: [sonnet, opus]

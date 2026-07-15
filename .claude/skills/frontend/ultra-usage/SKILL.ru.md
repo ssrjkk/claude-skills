@@ -1,6 +1,6 @@
 ---
 name: ultra-usage
-description: Usage for Ultra: usage guide
+description: "Usage for Ultra: usage guide"
 category: frontend
 tags: [ultra-usage, frontend, russian]
 models: [sonnet, opus]

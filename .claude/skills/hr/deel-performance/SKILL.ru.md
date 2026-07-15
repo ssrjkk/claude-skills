@@ -1,6 +1,6 @@
 ---
 name: deel-performance
-description: Performance with Deel. performance mgmt.
+description: "Performance with Deel. performance mgmt."
 category: hr
 tags: [deel-performance, hr, russian]
 models: [sonnet, opus]

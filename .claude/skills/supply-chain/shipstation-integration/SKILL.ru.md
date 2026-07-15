@@ -1,6 +1,6 @@
 ---
 name: shipstation-integration
-description: Integration with ShipStation. integration.
+description: "Integration with ShipStation. integration."
 category: supply-chain
 tags: [shipstation-integration, supply-chain, russian]
 models: [sonnet, opus]

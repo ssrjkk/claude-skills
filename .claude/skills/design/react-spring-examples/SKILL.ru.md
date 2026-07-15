@@ -1,6 +1,6 @@
 ---
 name: react-spring-examples
-description: Examples for React-Spring: practical examples
+description: "Examples for React-Spring: practical examples"
 category: design
 tags: [react-spring-examples, design, russian]
 models: [sonnet, opus]

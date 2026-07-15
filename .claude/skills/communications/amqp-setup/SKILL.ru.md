@@ -1,6 +1,6 @@
 ---
 name: amqp-setup
-description: Setup with AMQP. setup.
+description: "Setup with AMQP. setup."
 category: communications
 tags: [amqp-setup, communications, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: strangler-fig-intro
-description: Introduction with Strangler Fig. understanding the pattern.
+description: "Introduction with Strangler Fig. understanding the pattern."
 category: backend
 tags: [strangler-fig, intro, backend, architecture]
 models: [gpt-4, claude-3]

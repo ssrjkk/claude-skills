@@ -1,6 +1,6 @@
 ---
 name: polars-performance
-description: Performance with Polars. optimization.
+description: "Performance with Polars. optimization."
 category: data
 tags: [polars-performance, data, russian]
 models: [sonnet, opus]

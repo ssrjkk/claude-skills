@@ -1,6 +1,6 @@
 ---
 name: nestjs-routing
-description: Routing with NestJS. HTTP routing.
+description: "Routing with NestJS. HTTP routing."
 category: backend
 tags: [nestjs, routing, backend, backend]
 models: [gpt-4, claude-3]

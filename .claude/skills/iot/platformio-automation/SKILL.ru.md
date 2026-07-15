@@ -1,6 +1,6 @@
 ---
 name: platformio-automation
-description: Automation with PlatformIO. automation.
+description: "Automation with PlatformIO. automation."
 category: iot
 tags: [platformio-automation, iot, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: expo-router-usage
-description: Usage for Expo-Router: usage reference
+description: "Usage for Expo-Router: usage reference"
 category: mobile
 tags: [expo-router-usage, mobile, russian]
 models: [sonnet, opus]

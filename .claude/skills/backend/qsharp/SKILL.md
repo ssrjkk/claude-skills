@@ -1,6 +1,6 @@
 ---
 name: qsharp
-description: Development with Qsharp: tools and best practices
+description: "Development with Qsharp: tools and best practices"
 category: backend
 tags: [qsharp, backend, development]
 models: [sonnet, opus]

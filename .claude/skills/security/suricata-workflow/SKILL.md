@@ -1,6 +1,6 @@
 ---
 name: suricata-workflow
-description: Workflow for Suricata: workflow optimization
+description: "Workflow for Suricata: workflow optimization"
 category: security
 tags: [suricata, workflow, security]
 models: [sonnet, opus]

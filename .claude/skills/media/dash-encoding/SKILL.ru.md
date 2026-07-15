@@ -1,6 +1,6 @@
 ---
 name: dash-encoding
-description: Encoding with MPEG-DASH. encoding.
+description: "Encoding with MPEG-DASH. encoding."
 category: media
 tags: [dash-encoding, media, russian]
 models: [sonnet, opus]

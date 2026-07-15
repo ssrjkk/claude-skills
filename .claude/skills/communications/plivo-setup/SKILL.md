@@ -1,6 +1,6 @@
 ---
 name: plivo-setup
-description: Setup with Plivo. account setup.
+description: "Setup with Plivo. account setup."
 category: communications
 tags: [plivo, setup, communications, communication-platform]
 models: [gpt-4, claude-3]

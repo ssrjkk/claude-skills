@@ -1,6 +1,6 @@
 ---
 name: semgrep-troubleshooting
-description: Troubleshooting for Semgrep: troubleshooting common issues
+description: "Troubleshooting for Semgrep: troubleshooting common issues"
 category: security
 tags: [semgrep, troubleshooting, security]
 models: [sonnet, opus]

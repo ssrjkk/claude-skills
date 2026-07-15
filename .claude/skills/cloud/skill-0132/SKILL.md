@@ -1,6 +1,6 @@
 ---
 name: skill-0132
-description: Specialized skill #0132 for cloud development
+description: "Specialized skill #0132 for cloud development"
 category: cloud
 tags: [cloud, skill, 0132]
 models: [sonnet, opus]

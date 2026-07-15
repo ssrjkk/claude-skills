@@ -1,6 +1,6 @@
 ---
 name: datadog-storage
-description: Storage with Datadog. data retention.
+description: "Storage with Datadog. data retention."
 category: devops
 tags: [datadog-storage, devops, russian]
 models: [sonnet, opus]

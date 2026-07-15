@@ -1,6 +1,6 @@
 ---
 name: redis-optimization
-description: Optimization with Redis. performance tuning.
+description: "Optimization with Redis. performance tuning."
 category: database
 tags: [redis, optimization, database, caching]
 models: [gpt-4, claude-3]

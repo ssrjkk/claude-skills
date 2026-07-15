@@ -1,6 +1,6 @@
 ---
 name: warp-database
-description: Database with Warp. DB access.
+description: "Database with Warp. DB access."
 category: backend
 tags: [warp, database, backend, backend]
 models: [gpt-4, claude-3]

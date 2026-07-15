@@ -1,6 +1,6 @@
 ---
 name: adonisjs-templating
-description: Templating with AdonisJS. Pug.
+description: "Templating with AdonisJS. Pug."
 category: backend
 tags: [adonisjs-templating, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: feathers-database
-description: Database with FeathersJS. ORM.
+description: "Database with FeathersJS. ORM."
 category: backend
 tags: [feathers, database, backend, backend]
 models: [gpt-4, claude-3]

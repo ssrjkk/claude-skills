@@ -1,6 +1,6 @@
 ---
 name: angular-security
-description: Security for Angular: security best practices
+description: "Security for Angular: security best practices"
 category: frontend
 tags: [angular-security, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: dagger-monitoring
-description: Monitoring with Dagger. monitoring.
+description: "Monitoring with Dagger. monitoring."
 category: devops
 tags: [dagger, monitoring, devops, ci-cd]
 models: [gpt-4, claude-3]

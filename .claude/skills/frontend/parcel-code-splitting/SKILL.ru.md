@@ -1,6 +1,6 @@
 ---
 name: parcel-code-splitting
-description: Code Splitting with Parcel. lazy loading.
+description: "Code Splitting with Parcel. lazy loading."
 category: frontend
 tags: [parcel-code-splitting, frontend, russian]
 models: [sonnet, opus]

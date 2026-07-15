@@ -1,6 +1,6 @@
 ---
 name: databricks-advanced
-description: Advanced for Databricks: advanced patterns and techniques
+description: "Advanced for Databricks: advanced patterns and techniques"
 category: data
 tags: [databricks-advanced, data, russian]
 models: [sonnet, opus]

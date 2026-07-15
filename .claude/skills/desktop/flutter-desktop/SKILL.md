@@ -1,6 +1,6 @@
 ---
 name: flutter-desktop
-description: Builds desktop applications with Flutter for Windows, macOS, and Linux from a single codebase.
+description: "Builds desktop applications with Flutter for Windows, macOS, and Linux from a single codebase."
 category: desktop
 tags: [flutter, desktop, cross-platform, dart, gui]
 models: [sonnet, opus]

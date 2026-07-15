@@ -1,6 +1,6 @@
 ---
 name: bevy-optimization
-description: Optimization with Bevy. performance.
+description: "Optimization with Bevy. performance."
 category: gamedev
 tags: [bevy-optimization, gamedev, russian]
 models: [sonnet, opus]

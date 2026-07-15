@@ -1,6 +1,6 @@
 ---
 name: purecss-components
-description: Components with Pure.css. UI components.
+description: "Components with Pure.css. UI components."
 category: frontend
 tags: [purecss, components, frontend, css]
 models: [gpt-4, claude-3]

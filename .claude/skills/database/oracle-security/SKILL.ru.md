@@ -1,6 +1,6 @@
 ---
 name: oracle-security
-description: Security with Oracle. access control.
+description: "Security with Oracle. access control."
 category: database
 tags: [oracle-security, database, russian]
 models: [sonnet, opus]

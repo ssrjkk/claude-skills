@@ -1,6 +1,6 @@
 ---
 name: tdd-measurement
-description: Measurement with TDD. metrics.
+description: "Measurement with TDD. metrics."
 category: engineering
 tags: [tdd-measurement, engineering, russian]
 models: [sonnet, opus]

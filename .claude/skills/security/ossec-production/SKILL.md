@@ -1,6 +1,6 @@
 ---
 name: ossec-production
-description: Production for Ossec: production deployment
+description: "Production for Ossec: production deployment"
 category: security
 tags: [ossec, production, security]
 models: [sonnet, opus]

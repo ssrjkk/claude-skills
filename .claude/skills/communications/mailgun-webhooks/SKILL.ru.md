@@ -1,6 +1,6 @@
 ---
 name: mailgun-webhooks
-description: Webhooks with Mailgun. webhooks.
+description: "Webhooks with Mailgun. webhooks."
 category: communications
 tags: [mailgun-webhooks, communications, russian]
 models: [sonnet, opus]

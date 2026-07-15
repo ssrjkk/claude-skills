@@ -1,6 +1,6 @@
 ---
 name: docker-api
-description: API for Docker: API development and integration
+description: "API for Docker: API development and integration"
 category: devops
 tags: [docker, api, devops]
 models: [sonnet, opus]

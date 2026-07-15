@@ -1,6 +1,6 @@
 ---
 name: outlines-memory
-description: Memory with Outlines. conversation memory.
+description: "Memory with Outlines. conversation memory."
 category: ai
 tags: [outlines-memory, ai, russian]
 models: [sonnet, opus]

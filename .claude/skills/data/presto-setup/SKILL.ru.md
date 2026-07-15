@@ -1,6 +1,6 @@
 ---
 name: presto-setup
-description: Setup with Presto. installation.
+description: "Setup with Presto. installation."
 category: data
 tags: [presto-setup, data, russian]
 models: [sonnet, opus]

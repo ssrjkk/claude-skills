@@ -1,6 +1,6 @@
 ---
 name: ngrx-devtools
-description: DevTools with NgRx. debugging.
+description: "DevTools with NgRx. debugging."
 category: frontend
 tags: [ngrx, devtools, frontend, state-management]
 models: [gpt-4, claude-3]

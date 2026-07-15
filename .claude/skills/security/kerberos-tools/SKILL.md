@@ -1,6 +1,6 @@
 ---
 name: kerberos-tools
-description: Tools with Kerberos. security tools.
+description: "Tools with Kerberos. security tools."
 category: security
 tags: [kerberos, tools, security, security]
 models: [gpt-4, claude-3]

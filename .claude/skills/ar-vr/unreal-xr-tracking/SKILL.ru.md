@@ -1,6 +1,6 @@
 ---
 name: unreal-xr-tracking
-description: Tracking with Unreal XR. spatial tracking.
+description: "Tracking with Unreal XR. spatial tracking."
 category: ar-vr
 tags: [unreal-xr-tracking, ar-vr, russian]
 models: [sonnet, opus]

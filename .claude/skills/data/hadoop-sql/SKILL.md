@@ -1,6 +1,6 @@
 ---
 name: hadoop-sql
-description: SQL with Hadoop. SQL queries.
+description: "SQL with Hadoop. SQL queries."
 category: data
 tags: [hadoop, sql, data, data-engineering]
 models: [gpt-4, claude-3]

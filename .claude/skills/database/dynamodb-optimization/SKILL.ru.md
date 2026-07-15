@@ -1,6 +1,6 @@
 ---
 name: dynamodb-optimization
-description: Optimization with DynamoDB. performance.
+description: "Optimization with DynamoDB. performance."
 category: database
 tags: [dynamodb-optimization, database, russian]
 models: [sonnet, opus]

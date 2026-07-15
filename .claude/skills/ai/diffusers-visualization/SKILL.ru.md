@@ -1,6 +1,6 @@
 ---
 name: diffusers-visualization
-description: Visualization with Diffusers. model viz.
+description: "Visualization with Diffusers. model viz."
 category: ai
 tags: [diffusers-visualization, ai, russian]
 models: [sonnet, opus]

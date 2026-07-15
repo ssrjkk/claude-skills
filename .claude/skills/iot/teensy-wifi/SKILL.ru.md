@@ -1,6 +1,6 @@
 ---
 name: teensy-wifi
-description: WiFi with Teensy. wireless.
+description: "WiFi with Teensy. wireless."
 category: iot
 tags: [teensy-wifi, iot, russian]
 models: [sonnet, opus]

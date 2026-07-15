@@ -1,6 +1,6 @@
 ---
 name: pytorch-lightning-edge-detection
-description: Edge Detection with Pytorch Lightning. edge detection.
+description: "Edge Detection with Pytorch Lightning. edge detection."
 category: ai
 tags: [pytorch-lightning, edge-detection, ai, computer-vision]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: inferno-animations
-description: Animations with Inferno. UI animations.
+description: "Animations with Inferno. UI animations."
 category: frontend
 tags: [inferno-animations, frontend, russian]
 models: [sonnet, opus]

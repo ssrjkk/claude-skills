@@ -1,6 +1,6 @@
 ---
 name: azure-pipelines-security
-description: Security with Azure Pipelines. security scanning.
+description: "Security with Azure Pipelines. security scanning."
 category: devops
 tags: [azure-pipelines-security, devops, russian]
 models: [sonnet, opus]

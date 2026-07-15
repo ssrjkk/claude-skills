@@ -1,6 +1,6 @@
 ---
 name: hadoop-monitoring
-description: Monitoring with Hadoop. monitoring.
+description: "Monitoring with Hadoop. monitoring."
 category: data
 tags: [hadoop, monitoring, data, data-engineering]
 models: [gpt-4, claude-3]

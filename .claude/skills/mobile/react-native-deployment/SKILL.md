@@ -1,6 +1,6 @@
 ---
 name: react-native-deployment
-description: Deployment with React Native. app store.
+description: "Deployment with React Native. app store."
 category: mobile
 tags: [react-native, deployment, mobile, mobile]
 models: [gpt-4, claude-3]

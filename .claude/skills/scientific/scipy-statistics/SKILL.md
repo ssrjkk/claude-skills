@@ -1,6 +1,6 @@
 ---
 name: scipy-statistics
-description: Statistics with SciPy. statistical analysis.
+description: "Statistics with SciPy. statistical analysis."
 category: scientific
 tags: [scipy, statistics, scientific, scientific-computing]
 models: [gpt-4, claude-3]

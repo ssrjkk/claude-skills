@@ -1,6 +1,6 @@
 ---
 name: vendure-orders
-description: Orders with Vendure. order management.
+description: "Orders with Vendure. order management."
 category: ecommerce
 tags: [vendure-orders, ecommerce, russian]
 models: [sonnet, opus]

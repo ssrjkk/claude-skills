@@ -1,6 +1,6 @@
 ---
 name: postcss-code-splitting
-description: Code Splitting with PostCSS. lazy loading.
+description: "Code Splitting with PostCSS. lazy loading."
 category: frontend
 tags: [postcss-code-splitting, frontend, russian]
 models: [sonnet, opus]

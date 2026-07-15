@@ -1,6 +1,6 @@
 ---
 name: tekton-examples
-description: Examples for Tekton: practical examples
+description: "Examples for Tekton: practical examples"
 category: devops
 tags: [tekton, examples, devops]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: lit-components
-description: Components with Lit. building components.
+description: "Components with Lit. building components."
 category: frontend
 tags: [lit, components, frontend, frontend]
 models: [gpt-4, claude-3]

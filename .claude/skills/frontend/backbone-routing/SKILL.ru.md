@@ -1,6 +1,6 @@
 ---
 name: backbone-routing
-description: Routing with Backbone. client routing.
+description: "Routing with Backbone. client routing."
 category: frontend
 tags: [backbone-routing, frontend, russian]
 models: [sonnet, opus]

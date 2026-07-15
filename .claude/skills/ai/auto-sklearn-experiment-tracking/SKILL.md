@@ -1,6 +1,6 @@
 ---
 name: auto-sklearn-experiment-tracking
-description: Experiment Tracking with Auto Sklearn. tracking experiments.
+description: "Experiment Tracking with Auto Sklearn. tracking experiments."
 category: ai
 tags: [auto-sklearn, experiment-tracking, ai, ml]
 models: [gpt-4, claude-3]

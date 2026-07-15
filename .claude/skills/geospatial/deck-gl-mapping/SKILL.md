@@ -1,6 +1,6 @@
 ---
 name: deck-gl-mapping
-description: Mapping with Deck.gl. mapping.
+description: "Mapping with Deck.gl. mapping."
 category: geospatial
 tags: [deck-gl, mapping, geospatial, gis]
 models: [gpt-4, claude-3]

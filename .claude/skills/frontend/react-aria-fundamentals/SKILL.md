@@ -1,6 +1,6 @@
 ---
 name: react-aria-fundamentals
-description: Fundamentals for React-Aria: core concepts
+description: "Fundamentals for React-Aria: core concepts"
 category: frontend
 tags: [react-aria, fundamentals, frontend]
 models: [sonnet, opus]

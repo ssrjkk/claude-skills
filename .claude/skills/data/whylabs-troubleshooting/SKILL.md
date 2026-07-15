@@ -1,6 +1,6 @@
 ---
 name: whylabs-troubleshooting
-description: Troubleshooting for Whylabs: troubleshooting common issues
+description: "Troubleshooting for Whylabs: troubleshooting common issues"
 category: data
 tags: [whylabs, troubleshooting, data]
 models: [sonnet, opus]

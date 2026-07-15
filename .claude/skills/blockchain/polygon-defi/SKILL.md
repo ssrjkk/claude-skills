@@ -1,6 +1,6 @@
 ---
 name: polygon-defi
-description: DeFi with Polygon. DeFi.
+description: "DeFi with Polygon. DeFi."
 category: blockchain
 tags: [polygon, defi, blockchain, blockchain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: shiny-data
-description: Data with Shiny. data binding.
+description: "Data with Shiny. data binding."
 category: data
 tags: [shiny, data, data, data-apps]
 models: [gpt-4, claude-3]

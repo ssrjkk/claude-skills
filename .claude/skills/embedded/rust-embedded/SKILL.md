@@ -1,6 +1,6 @@
 ---
 name: rust-embedded
-description: Rust for embedded systems
+description: "Rust for embedded systems"
 category: embedded
 tags: [rust, embedded, microcontroller, no-std, arm, risc-v]
 models: [sonnet, opus]

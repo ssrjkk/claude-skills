@@ -1,6 +1,6 @@
 ---
 name: terraform-testing
-description: Testing with Terraform. infra testing.
+description: "Testing with Terraform. infra testing."
 category: devops
 tags: [terraform, testing, devops, iac]
 models: [gpt-4, claude-3]

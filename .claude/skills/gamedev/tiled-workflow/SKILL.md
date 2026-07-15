@@ -1,6 +1,6 @@
 ---
 name: tiled-workflow
-description: Workflow for Tiled: workflow optimization
+description: "Workflow for Tiled: workflow optimization"
 category: gamedev
 tags: [tiled, workflow, gamedev]
 models: [sonnet, opus]

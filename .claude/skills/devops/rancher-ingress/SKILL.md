@@ -1,6 +1,6 @@
 ---
 name: rancher-ingress
-description: Ingress with Rancher. ingress controller.
+description: "Ingress with Rancher. ingress controller."
 category: devops
 tags: [rancher, ingress, devops, kubernetes]
 models: [gpt-4, claude-3]

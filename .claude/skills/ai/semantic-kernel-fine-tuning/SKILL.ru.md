@@ -1,6 +1,6 @@
 ---
 name: semantic-kernel-fine-tuning
-description: Fine-Tuning with Semantic Kernel. model customization.
+description: "Fine-Tuning with Semantic Kernel. model customization."
 category: ai
 tags: [semantic-kernel-fine-tuning, ai, russian]
 models: [sonnet, opus]

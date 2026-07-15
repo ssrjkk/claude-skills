@@ -1,6 +1,6 @@
 ---
 name: capacitor
-description: Builds cross-platform mobile apps with Capacitor, bridging web apps to native device features. Use for hybrid mobile development.
+description: "Builds cross-platform mobile apps with Capacitor, bridging web apps to native device features. Use for hybrid mobile development."
 category: mobile
 tags: [capacitor, mobile, russian]
 models: [sonnet, opus]

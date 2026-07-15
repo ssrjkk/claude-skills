@@ -1,6 +1,6 @@
 ---
 name: cypress-mobile
-description: Mobile with Cypress. mobile testing.
+description: "Mobile with Cypress. mobile testing."
 category: qa
 tags: [cypress-mobile, qa, russian]
 models: [sonnet, opus]

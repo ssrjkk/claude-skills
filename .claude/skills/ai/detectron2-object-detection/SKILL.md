@@ -1,6 +1,6 @@
 ---
 name: detectron2-object-detection
-description: Object Detection with Detectron2. detecting objects.
+description: "Object Detection with Detectron2. detecting objects."
 category: ai
 tags: [detectron2, object-detection, ai, computer-vision]
 models: [gpt-4, claude-3]

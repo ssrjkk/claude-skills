@@ -1,6 +1,6 @@
 ---
 name: haystack-tool-use
-description: Tool Use with Haystack. function calling.
+description: "Tool Use with Haystack. function calling."
 category: ai
 tags: [haystack, tool-use, ai, llm]
 models: [gpt-4, claude-3]

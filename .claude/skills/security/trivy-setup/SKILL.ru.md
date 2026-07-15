@@ -1,6 +1,6 @@
 ---
 name: trivy-setup
-description: Setup with Trivy. installation.
+description: "Setup with Trivy. installation."
 category: security
 tags: [trivy-setup, security, russian]
 models: [sonnet, opus]

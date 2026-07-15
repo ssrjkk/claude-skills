@@ -1,6 +1,6 @@
 ---
 name: amqp-scaling
-description: Scaling with AMQP. scaling.
+description: "Scaling with AMQP. scaling."
 category: communications
 tags: [amqp-scaling, communications, russian]
 models: [sonnet, opus]

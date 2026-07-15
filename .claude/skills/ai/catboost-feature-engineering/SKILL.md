@@ -1,6 +1,6 @@
 ---
 name: catboost-feature-engineering
-description: Feature Engineering with Catboost. creating features.
+description: "Feature Engineering with Catboost. creating features."
 category: ai
 tags: [catboost, feature-engineering, ai, ml]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: prometheus-tsdb-ingestion
-description: Ingestion with Prometheus TSDB. data ingestion.
+description: "Ingestion with Prometheus TSDB. data ingestion."
 category: database
 tags: [prometheus-tsdb, ingestion, database, time-series]
 models: [gpt-4, claude-3]

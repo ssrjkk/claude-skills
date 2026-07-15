@@ -1,6 +1,6 @@
 ---
 name: zig-logging
-description: Logging with Zig. app logging.
+description: "Logging with Zig. app logging."
 category: backend
 tags: [zig, logging, backend, backend]
 models: [gpt-4, claude-3]

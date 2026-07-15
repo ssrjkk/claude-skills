@@ -1,6 +1,6 @@
 ---
 name: julia-parallel
-description: Parallel with Julia. parallel computing.
+description: "Parallel with Julia. parallel computing."
 category: scientific
 tags: [julia-parallel, scientific, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cypress-cloud-automation
-description: Automation for Cypress-Cloud: automation and scripting
+description: "Automation for Cypress-Cloud: automation and scripting"
 category: qa
 tags: [cypress-cloud-automation, qa, russian]
 models: [sonnet, opus]

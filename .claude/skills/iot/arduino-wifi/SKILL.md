@@ -1,6 +1,6 @@
 ---
 name: arduino-wifi
-description: WiFi with Arduino. wireless.
+description: "WiFi with Arduino. wireless."
 category: iot
 tags: [arduino, wifi, iot, iot]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: rocket-websocket
-description: WebSocket with Rocket. real-time.
+description: "WebSocket with Rocket. real-time."
 category: backend
 tags: [rocket-websocket, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: unreal-basics
-description: Basics for Unreal: fundamentals and core concepts
+description: "Basics for Unreal: fundamentals and core concepts"
 category: gamedev
 tags: [unreal, basics, gamedev]
 models: [sonnet, opus]

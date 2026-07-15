@@ -1,6 +1,6 @@
 ---
 name: cakephp-database
-description: Database with CakePHP. Eloquent.
+description: "Database with CakePHP. Eloquent."
 category: backend
 tags: [cakephp-database, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: accelerate-optimization
-description: Optimization with Accelerate. model optimization.
+description: "Optimization with Accelerate. model optimization."
 category: ai
 tags: [accelerate-optimization, ai, russian]
 models: [sonnet, opus]

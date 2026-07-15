@@ -1,6 +1,6 @@
 ---
 name: preact-ssr
-description: SSR with Preact. server rendering.
+description: "SSR with Preact. server rendering."
 category: frontend
 tags: [preact-ssr, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: paddle-billing-setup
-description: Setup with Paddle Billing. account setup.
+description: "Setup with Paddle Billing. account setup."
 category: payments
 tags: [paddle-billing-setup, payments, russian]
 models: [sonnet, opus]

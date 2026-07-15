@@ -1,6 +1,6 @@
 ---
 name: tcpdump-troubleshooting
-description: Troubleshooting with tcpdump. debugging.
+description: "Troubleshooting with tcpdump. debugging."
 category: networking
 tags: [tcpdump, troubleshooting, networking, networking-tool]
 models: [gpt-4, claude-3]

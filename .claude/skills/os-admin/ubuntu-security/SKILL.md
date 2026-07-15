@@ -1,6 +1,6 @@
 ---
 name: ubuntu-security
-description: Security with Ubuntu. hardening.
+description: "Security with Ubuntu. hardening."
 category: os-admin
 tags: [ubuntu, security, os-admin, linux]
 models: [gpt-4, claude-3]

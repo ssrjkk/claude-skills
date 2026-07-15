@@ -1,6 +1,6 @@
 ---
 name: flyio-serverless
-description: Serverless with Fly.io. functions.
+description: "Serverless with Fly.io. functions."
 category: devops
 tags: [flyio, serverless, devops, cloud]
 models: [gpt-4, claude-3]

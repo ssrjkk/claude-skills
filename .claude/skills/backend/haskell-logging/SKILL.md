@@ -1,6 +1,6 @@
 ---
 name: haskell-logging
-description: Logging with Haskell. app logging.
+description: "Logging with Haskell. app logging."
 category: backend
 tags: [haskell, logging, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: kerberos-best-practices
-description: Best Practices with Kerberos. best practices.
+description: "Best Practices with Kerberos. best practices."
 category: security
 tags: [kerberos-best-practices, security, russian]
 models: [sonnet, opus]

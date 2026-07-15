@@ -1,6 +1,6 @@
 ---
 name: openvino-quickstart
-description: Quickstart for Openvino: quick start guide
+description: "Quickstart for Openvino: quick start guide"
 category: ai
 tags: [openvino, quickstart, ai]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: detectron2-image-classification
-description: Image Classification with Detectron2. classifying images.
+description: "Image Classification with Detectron2. classifying images."
 category: ai
 tags: [detectron2, image-classification, ai, computer-vision]
 models: [gpt-4, claude-3]

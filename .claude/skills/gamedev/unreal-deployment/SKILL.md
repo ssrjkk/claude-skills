@@ -1,6 +1,6 @@
 ---
 name: unreal-deployment
-description: Deployment for Unreal: deployment and release
+description: "Deployment for Unreal: deployment and release"
 category: gamedev
 tags: [unreal, deployment, gamedev]
 models: [sonnet, opus]

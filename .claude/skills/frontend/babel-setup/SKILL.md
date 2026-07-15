@@ -1,6 +1,6 @@
 ---
 name: babel-setup
-description: Setup with Babel. initial setup.
+description: "Setup with Babel. initial setup."
 category: frontend
 tags: [babel, setup, frontend, build-tool]
 models: [gpt-4, claude-3]

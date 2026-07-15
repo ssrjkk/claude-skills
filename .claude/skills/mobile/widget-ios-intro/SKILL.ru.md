@@ -1,6 +1,6 @@
 ---
 name: widget-ios-intro
-description: Intro for Widget-Ios: introduction
+description: "Intro for Widget-Ios: introduction"
 category: mobile
 tags: [widget-ios-intro, mobile, russian]
 models: [sonnet, opus]

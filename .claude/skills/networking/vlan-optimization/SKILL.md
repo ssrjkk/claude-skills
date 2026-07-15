@@ -1,6 +1,6 @@
 ---
 name: vlan-optimization
-description: Optimization with VLAN. tuning.
+description: "Optimization with VLAN. tuning."
 category: networking
 tags: [vlan, optimization, networking, networking]
 models: [gpt-4, claude-3]

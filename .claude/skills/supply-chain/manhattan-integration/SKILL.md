@@ -1,6 +1,6 @@
 ---
 name: manhattan-integration
-description: Integration with Manhattan Associates. integration.
+description: "Integration with Manhattan Associates. integration."
 category: supply-chain
 tags: [manhattan, integration, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

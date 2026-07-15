@@ -1,6 +1,6 @@
 ---
 name: clojure-async
-description: Async with Clojure. async operations.
+description: "Async with Clojure. async operations."
 category: backend
 tags: [clojure-async, backend, russian]
 models: [sonnet, opus]

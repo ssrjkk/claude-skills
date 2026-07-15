@@ -1,6 +1,6 @@
 ---
 name: langsmith-workflow
-description: Workflow for Langsmith: workflow optimization
+description: "Workflow for Langsmith: workflow optimization"
 category: ai
 tags: [langsmith, workflow, ai]
 models: [sonnet, opus]

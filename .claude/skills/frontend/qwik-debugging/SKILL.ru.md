@@ -1,6 +1,6 @@
 ---
 name: qwik-debugging
-description: Debugging for Qwik: debugging and troubleshooting
+description: "Debugging for Qwik: debugging and troubleshooting"
 category: frontend
 tags: [qwik-debugging, frontend, russian]
 models: [sonnet, opus]

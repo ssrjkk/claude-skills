@@ -1,6 +1,6 @@
 ---
 name: cyberark-examples
-description: Examples for Cyberark: practical examples
+description: "Examples for Cyberark: practical examples"
 category: security
 tags: [cyberark-examples, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: base-setup
-description: Setup with Base. node setup.
+description: "Setup with Base. node setup."
 category: blockchain
 tags: [base, setup, blockchain, blockchain]
 models: [gpt-4, claude-3]

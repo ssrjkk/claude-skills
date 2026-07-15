@@ -1,6 +1,6 @@
 ---
 name: skill-0236
-description: Specialized skill #0236 for security development
+description: "Specialized skill #0236 for security development"
 category: security
 tags: [security, skill, 0236]
 models: [sonnet, opus]

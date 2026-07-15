@@ -1,6 +1,6 @@
 ---
 name: azure-iot-dashboards
-description: Dashboards with Azure IoT. dashboards.
+description: "Dashboards with Azure IoT. dashboards."
 category: iot
 tags: [azure-iot-dashboards, iot, russian]
 models: [sonnet, opus]

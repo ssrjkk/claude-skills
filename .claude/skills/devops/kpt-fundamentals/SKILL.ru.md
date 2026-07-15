@@ -1,6 +1,6 @@
 ---
 name: kpt-fundamentals
-description: Fundamentals for Kpt: core concepts
+description: "Fundamentals for Kpt: core concepts"
 category: devops
 tags: [kpt-fundamentals, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mermaid-modeling
-description: Modeling with Mermaid.js. system modeling.
+description: "Modeling with Mermaid.js. system modeling."
 category: engineering
 tags: [mermaid-modeling, engineering, russian]
 models: [sonnet, opus]

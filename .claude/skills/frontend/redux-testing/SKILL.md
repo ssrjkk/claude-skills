@@ -1,6 +1,6 @@
 ---
 name: redux-testing
-description: Testing with Redux. state testing.
+description: "Testing with Redux. state testing."
 category: frontend
 tags: [redux, testing, frontend, state-management]
 models: [gpt-4, claude-3]

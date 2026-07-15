@@ -1,6 +1,6 @@
 ---
 name: threejs-configuration
-description: Configuration for Threejs: configuration and setup
+description: "Configuration for Threejs: configuration and setup"
 category: frontend
 tags: [threejs, configuration, frontend]
 models: [sonnet, opus]

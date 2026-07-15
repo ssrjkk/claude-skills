@@ -1,6 +1,6 @@
 ---
 name: order-management-data
-description: Data with OMS. data sources.
+description: "Data with OMS. data sources."
 category: finance
 tags: [order-management, data, finance, trading]
 models: [gpt-4, claude-3]

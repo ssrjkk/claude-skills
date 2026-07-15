@@ -1,6 +1,6 @@
 ---
 name: gatsby-ssg
-description: SSG with Gatsby. static generation.
+description: "SSG with Gatsby. static generation."
 category: frontend
 tags: [gatsby, ssg, frontend, meta-framework]
 models: [gpt-4, claude-3]

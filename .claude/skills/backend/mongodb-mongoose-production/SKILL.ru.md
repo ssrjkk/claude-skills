@@ -1,6 +1,6 @@
 ---
 name: mongodb-mongoose-production
-description: Production for Mongodb-Mongoose: production deployment
+description: "Production for Mongodb-Mongoose: production deployment"
 category: backend
 tags: [mongodb-mongoose-production, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: webdriverio-actions
-description: Actions with WebdriverIO. user actions.
+description: "Actions with WebdriverIO. user actions."
 category: qa
 tags: [webdriverio-actions, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ses-messaging
-description: Messaging with Amazon SES. sending messages.
+description: "Messaging with Amazon SES. sending messages."
 category: communications
 tags: [ses, messaging, communications, communication-platform]
 models: [gpt-4, claude-3]

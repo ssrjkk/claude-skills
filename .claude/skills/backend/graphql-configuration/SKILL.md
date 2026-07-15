@@ -1,6 +1,6 @@
 ---
 name: graphql-configuration
-description: Configuration for Graphql: configuration and setup
+description: "Configuration for Graphql: configuration and setup"
 category: backend
 tags: [graphql, configuration, backend]
 models: [sonnet, opus]

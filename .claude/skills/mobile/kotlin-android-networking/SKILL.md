@@ -1,6 +1,6 @@
 ---
 name: kotlin-android-networking
-description: Networking with Kotlin Android. API calls.
+description: "Networking with Kotlin Android. API calls."
 category: mobile
 tags: [kotlin-android, networking, mobile, mobile]
 models: [gpt-4, claude-3]

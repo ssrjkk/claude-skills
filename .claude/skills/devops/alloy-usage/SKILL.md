@@ -1,6 +1,6 @@
 ---
 name: alloy-usage
-description: Usage for Alloy: usage reference
+description: "Usage for Alloy: usage reference"
 category: devops
 tags: [alloy, usage, devops]
 models: [sonnet, opus]

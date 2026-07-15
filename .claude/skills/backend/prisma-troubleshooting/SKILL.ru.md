@@ -1,6 +1,6 @@
 ---
 name: prisma-troubleshooting
-description: Troubleshooting for Prisma: troubleshooting common issues
+description: "Troubleshooting for Prisma: troubleshooting common issues"
 category: backend
 tags: [prisma-troubleshooting, backend, russian]
 models: [sonnet, opus]

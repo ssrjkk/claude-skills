@@ -1,6 +1,6 @@
 ---
 name: ray-tune-monitoring
-description: Monitoring with Ray Tune. model monitoring.
+description: "Monitoring with Ray Tune. model monitoring."
 category: ai
 tags: [ray-tune, monitoring, ai, ml]
 models: [gpt-4, claude-3]

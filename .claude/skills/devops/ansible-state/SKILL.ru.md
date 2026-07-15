@@ -1,6 +1,6 @@
 ---
 name: ansible-state
-description: State with Ansible. state management.
+description: "State with Ansible. state management."
 category: devops
 tags: [ansible-state, devops, russian]
 models: [sonnet, opus]

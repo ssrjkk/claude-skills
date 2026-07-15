@@ -1,6 +1,6 @@
 ---
 name: shopify-cart
-description: Cart with Shopify. cart.
+description: "Cart with Shopify. cart."
 category: ecommerce
 tags: [shopify-cart, ecommerce, russian]
 models: [sonnet, opus]

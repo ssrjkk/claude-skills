@@ -1,6 +1,6 @@
 ---
 name: skill-0087
-description: Specialized skill #0087 for cloud development
+description: "Specialized skill #0087 for cloud development"
 category: cloud
 tags: [skill-0087, cloud, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: great-expectations-best-practices
-description: Best Practices for Great-Expectations: best practices and patterns
+description: "Best Practices for Great-Expectations: best practices and patterns"
 category: data
 tags: [great-expectations, best-practices, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-scraping
-description: Scraping with VictoriaMetrics. target discovery.
+description: "Scraping with VictoriaMetrics. target discovery."
 category: devops
 tags: [victoria-metrics, scraping, devops, monitoring]
 models: [gpt-4, claude-3]

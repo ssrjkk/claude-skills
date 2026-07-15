@@ -1,6 +1,6 @@
 ---
 name: unity-rendering
-description: Rendering with Unity. graphics.
+description: "Rendering with Unity. graphics."
 category: gamedev
 tags: [unity, rendering, gamedev, game-engine]
 models: [gpt-4, claude-3]

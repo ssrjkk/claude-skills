@@ -1,6 +1,6 @@
 ---
 name: bigcommerce-analytics
-description: Analytics with BigCommerce. analytics.
+description: "Analytics with BigCommerce. analytics."
 category: ecommerce
 tags: [bigcommerce, analytics, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

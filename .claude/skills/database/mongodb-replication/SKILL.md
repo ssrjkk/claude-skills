@@ -1,6 +1,6 @@
 ---
 name: mongodb-replication
-description: Replication with MongoDB. replication.
+description: "Replication with MongoDB. replication."
 category: database
 tags: [mongodb, replication, database, nosql]
 models: [gpt-4, claude-3]

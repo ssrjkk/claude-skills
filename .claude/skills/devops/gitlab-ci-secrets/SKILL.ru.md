@@ -1,6 +1,6 @@
 ---
 name: gitlab-ci-secrets
-description: Secrets with GitLab CI. secret management.
+description: "Secrets with GitLab CI. secret management."
 category: devops
 tags: [gitlab-ci-secrets, devops, russian]
 models: [sonnet, opus]

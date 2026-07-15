@@ -1,6 +1,6 @@
 ---
 name: oneroster-basics
-description: Basics with OneRoster. fundamentals.
+description: "Basics with OneRoster. fundamentals."
 category: education
 tags: [oneroster, basics, education, education-standard]
 models: [gpt-4, claude-3]

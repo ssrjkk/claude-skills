@@ -1,6 +1,6 @@
 ---
 name: remix-data-fetching
-description: Data Fetching with Remix. data loading.
+description: "Data Fetching with Remix. data loading."
 category: frontend
 tags: [remix-data-fetching, frontend, russian]
 models: [sonnet, opus]

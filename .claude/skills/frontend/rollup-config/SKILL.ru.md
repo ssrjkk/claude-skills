@@ -1,6 +1,6 @@
 ---
 name: rollup-config
-description: Config with Rollup. configuration.
+description: "Config with Rollup. configuration."
 category: frontend
 tags: [rollup-config, frontend, russian]
 models: [sonnet, opus]

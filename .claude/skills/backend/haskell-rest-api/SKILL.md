@@ -1,6 +1,6 @@
 ---
 name: haskell-rest-api
-description: REST API with Haskell. building REST APIs.
+description: "REST API with Haskell. building REST APIs."
 category: backend
 tags: [haskell, rest-api, backend, backend]
 models: [gpt-4, claude-3]

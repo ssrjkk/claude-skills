@@ -1,6 +1,6 @@
 ---
 name: microservices-testing
-description: Testing with Microservices. testing the pattern.
+description: "Testing with Microservices. testing the pattern."
 category: backend
 tags: [microservices-testing, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vegeta-setup
-description: Setup with Vegeta. installation.
+description: "Setup with Vegeta. installation."
 category: qa
 tags: [vegeta-setup, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: storybook
-description: Develops UI components in isolation with Storybook, supporting multiple frameworks. Use for building component libraries and design systems.
+description: "Develops UI components in isolation with Storybook, supporting multiple frameworks. Use for building component libraries and design systems."
 category: frontend
 tags: [storybook, frontend, russian]
 models: [sonnet, opus]

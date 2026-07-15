@@ -1,6 +1,6 @@
 ---
 name: sqlite
-description: Embeds SQLite databases in applications with zero configuration and single-file storage. Use for local data persistence.
+description: "Embeds SQLite databases in applications with zero configuration and single-file storage. Use for local data persistence."
 category: database
 tags: [sqlite, sql, embedded, database, lightweight]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: unity-xr-optimization
-description: Optimization with Unity XR. performance.
+description: "Optimization with Unity XR. performance."
 category: ar-vr
 tags: [unity-xr, optimization, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: circleci-security
-description: Security with CircleCI. security scanning.
+description: "Security with CircleCI. security scanning."
 category: devops
 tags: [circleci-security, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: chainer-quantization
-description: Quantization with Chainer. model quantization.
+description: "Quantization with Chainer. model quantization."
 category: ai
 tags: [chainer-quantization, ai, russian]
 models: [sonnet, opus]

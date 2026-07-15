@@ -1,6 +1,6 @@
 ---
 name: github-models
-description: GitHub Models playground and API
+description: "GitHub Models playground and API"
 category: devops
 tags: [github-models, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: swell-customers
-description: Customers with Swell. customer API.
+description: "Customers with Swell. customer API."
 category: ecommerce
 tags: [swell-customers, ecommerce, russian]
 models: [sonnet, opus]

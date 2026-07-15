@@ -1,6 +1,6 @@
 ---
 name: test-data-bot-examples
-description: Examples for Test-Data-Bot: practical examples
+description: "Examples for Test-Data-Bot: practical examples"
 category: qa
 tags: [test-data-bot, examples, qa]
 models: [sonnet, opus]

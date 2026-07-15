@@ -1,6 +1,6 @@
 ---
 name: openshift-configmap
-description: ConfigMap with OpenShift. config management.
+description: "ConfigMap with OpenShift. config management."
 category: devops
 tags: [openshift-configmap, devops, russian]
 models: [sonnet, opus]

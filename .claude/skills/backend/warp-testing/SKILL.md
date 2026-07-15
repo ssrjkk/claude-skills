@@ -1,6 +1,6 @@
 ---
 name: warp-testing
-description: Testing with Warp. unit tests.
+description: "Testing with Warp. unit tests."
 category: backend
 tags: [warp, testing, backend, backend]
 models: [gpt-4, claude-3]

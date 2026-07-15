@@ -1,6 +1,6 @@
 ---
 name: prince2-basics
-description: Basics with PRINCE2. fundamentals.
+description: "Basics with PRINCE2. fundamentals."
 category: product
 tags: [prince2-basics, product, russian]
 models: [sonnet, opus]

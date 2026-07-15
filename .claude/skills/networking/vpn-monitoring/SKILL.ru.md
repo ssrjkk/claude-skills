@@ -1,6 +1,6 @@
 ---
 name: vpn-monitoring
-description: Monitoring with VPN. monitoring.
+description: "Monitoring with VPN. monitoring."
 category: networking
 tags: [vpn-monitoring, networking, russian]
 models: [sonnet, opus]

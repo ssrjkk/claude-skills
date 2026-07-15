@@ -1,6 +1,6 @@
 ---
 name: qgis-integration
-description: Integration with QGIS. integration.
+description: "Integration with QGIS. integration."
 category: geospatial
 tags: [qgis-integration, geospatial, russian]
 models: [sonnet, opus]

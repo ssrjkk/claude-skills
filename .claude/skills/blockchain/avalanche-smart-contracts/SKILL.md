@@ -1,6 +1,6 @@
 ---
 name: avalanche-smart-contracts
-description: Smart Contracts with Avalanche. contracts.
+description: "Smart Contracts with Avalanche. contracts."
 category: blockchain
 tags: [avalanche, smart-contracts, blockchain, blockchain]
 models: [gpt-4, claude-3]

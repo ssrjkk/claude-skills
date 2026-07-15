@@ -1,6 +1,6 @@
 ---
 name: nightwatch-ci
-description: CI with Nightwatch. CI integration.
+description: "CI with Nightwatch. CI integration."
 category: qa
 tags: [nightwatch, ci, qa, e2e]
 models: [gpt-4, claude-3]

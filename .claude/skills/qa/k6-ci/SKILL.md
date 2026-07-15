@@ -1,6 +1,6 @@
 ---
 name: k6-ci
-description: CI with k6. CI integration.
+description: "CI with k6. CI integration."
 category: qa
 tags: [k6, ci, qa, performance-testing]
 models: [gpt-4, claude-3]

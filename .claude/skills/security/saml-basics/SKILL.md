@@ -1,6 +1,6 @@
 ---
 name: saml-basics
-description: Basics with SAML. fundamentals.
+description: "Basics with SAML. fundamentals."
 category: security
 tags: [saml, basics, security, security]
 models: [gpt-4, claude-3]

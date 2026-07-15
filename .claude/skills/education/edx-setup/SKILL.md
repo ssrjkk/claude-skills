@@ -1,6 +1,6 @@
 ---
 name: edx-setup
-description: Setup with Open edX. setup.
+description: "Setup with Open edX. setup."
 category: education
 tags: [edx, setup, education, education-platform]
 models: [gpt-4, claude-3]

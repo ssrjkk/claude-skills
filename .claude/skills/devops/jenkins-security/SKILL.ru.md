@@ -1,6 +1,6 @@
 ---
 name: jenkins-security
-description: Security with Jenkins. security scanning.
+description: "Security with Jenkins. security scanning."
 category: devops
 tags: [jenkins-security, devops, russian]
 models: [sonnet, opus]

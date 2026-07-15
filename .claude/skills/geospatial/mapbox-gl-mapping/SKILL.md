@@ -1,6 +1,6 @@
 ---
 name: mapbox-gl-mapping
-description: Mapping with Mapbox GL. mapping.
+description: "Mapping with Mapbox GL. mapping."
 category: geospatial
 tags: [mapbox-gl, mapping, geospatial, gis]
 models: [gpt-4, claude-3]

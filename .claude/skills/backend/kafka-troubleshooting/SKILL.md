@@ -1,6 +1,6 @@
 ---
 name: kafka-troubleshooting
-description: Troubleshooting for Kafka: troubleshooting common issues
+description: "Troubleshooting for Kafka: troubleshooting common issues"
 category: backend
 tags: [kafka, troubleshooting, backend]
 models: [sonnet, opus]

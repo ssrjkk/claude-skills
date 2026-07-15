@@ -1,6 +1,6 @@
 ---
 name: tcpdump-basics
-description: Basics with tcpdump. basic usage.
+description: "Basics with tcpdump. basic usage."
 category: networking
 tags: [tcpdump-basics, networking, russian]
 models: [sonnet, opus]

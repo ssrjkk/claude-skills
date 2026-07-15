@@ -1,6 +1,6 @@
 ---
 name: remix-debugging
-description: Debugging for Remix: debugging and troubleshooting
+description: "Debugging for Remix: debugging and troubleshooting"
 category: frontend
 tags: [remix, debugging, frontend]
 models: [sonnet, opus]

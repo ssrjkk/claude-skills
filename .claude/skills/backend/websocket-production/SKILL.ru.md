@@ -1,6 +1,6 @@
 ---
 name: websocket-production
-description: Production for Websocket: production deployment
+description: "Production for Websocket: production deployment"
 category: backend
 tags: [websocket-production, backend, russian]
 models: [sonnet, opus]

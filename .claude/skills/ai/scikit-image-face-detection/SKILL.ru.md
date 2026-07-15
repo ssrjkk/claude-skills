@@ -1,6 +1,6 @@
 ---
 name: scikit-image-face-detection
-description: Face Detection with Scikit Image. facial recognition.
+description: "Face Detection with Scikit Image. facial recognition."
 category: ai
 tags: [scikit-image-face-detection, ai, russian]
 models: [sonnet, opus]

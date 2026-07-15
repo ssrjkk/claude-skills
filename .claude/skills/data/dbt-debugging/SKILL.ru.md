@@ -1,6 +1,6 @@
 ---
 name: dbt-debugging
-description: Debugging for Dbt: debugging and troubleshooting
+description: "Debugging for Dbt: debugging and troubleshooting"
 category: data
 tags: [dbt-debugging, data, russian]
 models: [sonnet, opus]

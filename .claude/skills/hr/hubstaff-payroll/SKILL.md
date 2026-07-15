@@ -1,6 +1,6 @@
 ---
 name: hubstaff-payroll
-description: Payroll with Hubstaff. payroll.
+description: "Payroll with Hubstaff. payroll."
 category: hr
 tags: [hubstaff, payroll, hr, hr-tech]
 models: [gpt-4, claude-3]

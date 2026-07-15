@@ -1,6 +1,6 @@
 ---
 name: pms-compliance
-description: Compliance with Practice Management. compliance.
+description: "Compliance with Practice Management. compliance."
 category: healthcare
 tags: [pms-compliance, healthcare, russian]
 models: [sonnet, opus]

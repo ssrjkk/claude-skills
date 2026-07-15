@@ -1,6 +1,6 @@
 ---
 name: sakai-integration
-description: Integration with Sakai. LTI.
+description: "Integration with Sakai. LTI."
 category: education
 tags: [sakai-integration, education, russian]
 models: [sonnet, opus]

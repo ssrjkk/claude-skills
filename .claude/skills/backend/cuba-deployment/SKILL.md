@@ -1,6 +1,6 @@
 ---
 name: cuba-deployment
-description: Deployment with Cuba. deploy.
+description: "Deployment with Cuba. deploy."
 category: backend
 tags: [cuba, deployment, backend, backend]
 models: [gpt-4, claude-3]

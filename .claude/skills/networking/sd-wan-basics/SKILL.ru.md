@@ -1,6 +1,6 @@
 ---
 name: sd-wan-basics
-description: Basics with SD-WAN. fundamentals.
+description: "Basics with SD-WAN. fundamentals."
 category: networking
 tags: [sd-wan-basics, networking, russian]
 models: [sonnet, opus]

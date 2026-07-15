@@ -1,6 +1,6 @@
 ---
 name: sendgrid-integration
-description: Integration with SendGrid. integration.
+description: "Integration with SendGrid. integration."
 category: communications
 tags: [sendgrid, integration, communications, communication-platform]
 models: [gpt-4, claude-3]

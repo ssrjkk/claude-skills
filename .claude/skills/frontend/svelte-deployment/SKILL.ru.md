@@ -1,6 +1,6 @@
 ---
 name: svelte-deployment
-description: Deployment for Svelte: deployment and release
+description: "Deployment for Svelte: deployment and release"
 category: frontend
 tags: [svelte-deployment, frontend, russian]
 models: [sonnet, opus]

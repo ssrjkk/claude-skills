@@ -1,6 +1,6 @@
 ---
 name: voila-deployment
-description: Deployment with Voila. deploy.
+description: "Deployment with Voila. deploy."
 category: data
 tags: [voila, deployment, data, data-apps]
 models: [gpt-4, claude-3]

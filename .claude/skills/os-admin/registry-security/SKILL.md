@@ -1,6 +1,6 @@
 ---
 name: registry-security
-description: Security with Windows Registry. security.
+description: "Security with Windows Registry. security."
 category: os-admin
 tags: [registry, security, os-admin, windows]
 models: [gpt-4, claude-3]

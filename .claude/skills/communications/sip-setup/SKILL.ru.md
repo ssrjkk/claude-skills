@@ -1,6 +1,6 @@
 ---
 name: sip-setup
-description: Setup with SIP. setup.
+description: "Setup with SIP. setup."
 category: communications
 tags: [sip-setup, communications, russian]
 models: [sonnet, opus]

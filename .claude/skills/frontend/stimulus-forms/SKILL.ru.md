@@ -1,6 +1,6 @@
 ---
 name: stimulus-forms
-description: Forms with Stimulus. form handling.
+description: "Forms with Stimulus. form handling."
 category: frontend
 tags: [stimulus-forms, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: chartjs-getting-started
-description: Getting Started for Chartjs: initial setup and first steps
+description: "Getting Started for Chartjs: initial setup and first steps"
 category: frontend
 tags: [chartjs, getting-started, frontend]
 models: [sonnet, opus]

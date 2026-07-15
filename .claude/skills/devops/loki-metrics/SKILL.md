@@ -1,6 +1,6 @@
 ---
 name: loki-metrics
-description: Metrics with Loki. collecting metrics.
+description: "Metrics with Loki. collecting metrics."
 category: devops
 tags: [loki, metrics, devops, monitoring]
 models: [gpt-4, claude-3]

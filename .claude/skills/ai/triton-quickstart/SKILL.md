@@ -1,6 +1,6 @@
 ---
 name: triton-quickstart
-description: Quickstart for Triton: quick start guide
+description: "Quickstart for Triton: quick start guide"
 category: ai
 tags: [triton, quickstart, ai]
 models: [sonnet, opus]

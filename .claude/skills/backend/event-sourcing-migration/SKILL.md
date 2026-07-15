@@ -1,6 +1,6 @@
 ---
 name: event-sourcing-migration
-description: Migration with Event Sourcing. adopting the pattern.
+description: "Migration with Event Sourcing. adopting the pattern."
 category: backend
 tags: [event-sourcing, migration, backend, architecture]
 models: [gpt-4, claude-3]

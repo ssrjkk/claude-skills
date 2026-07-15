@@ -1,6 +1,6 @@
 ---
 name: effector-persistence
-description: Persistence with Effector. state persistence.
+description: "Persistence with Effector. state persistence."
 category: frontend
 tags: [effector-persistence, frontend, russian]
 models: [sonnet, opus]

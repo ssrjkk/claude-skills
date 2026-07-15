@@ -1,6 +1,6 @@
 ---
 name: unit-of-work-implementation
-description: Implementation with Unit of Work. practical implementation.
+description: "Implementation with Unit of Work. practical implementation."
 category: backend
 tags: [unit-of-work-implementation, backend, russian]
 models: [sonnet, opus]

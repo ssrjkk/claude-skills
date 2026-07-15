@@ -1,6 +1,6 @@
 ---
 name: plaid-setup
-description: Setup with Plaid. account setup.
+description: "Setup with Plaid. account setup."
 category: finance
 tags: [plaid-setup, finance, russian]
 models: [sonnet, opus]

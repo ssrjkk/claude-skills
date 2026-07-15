@@ -1,6 +1,6 @@
 ---
 name: emr-workflow
-description: Workflow with EMR Systems. clinical workflow.
+description: "Workflow with EMR Systems. clinical workflow."
 category: healthcare
 tags: [emr, workflow, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: swiftui-configuration
-description: Configuration for Swiftui: configuration and setup
+description: "Configuration for Swiftui: configuration and setup"
 category: mobile
 tags: [swiftui, configuration, mobile]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: er-diagrams-modeling
-description: Modeling with ER Diagrams. system modeling.
+description: "Modeling with ER Diagrams. system modeling."
 category: engineering
 tags: [er-diagrams, modeling, engineering, modeling]
 models: [gpt-4, claude-3]

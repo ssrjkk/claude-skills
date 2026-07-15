@@ -1,6 +1,6 @@
 ---
 name: qt-setup
-description: Setup with Qt. SDK setup.
+description: "Setup with Qt. SDK setup."
 category: desktop
 tags: [qt-setup, desktop, russian]
 models: [sonnet, opus]

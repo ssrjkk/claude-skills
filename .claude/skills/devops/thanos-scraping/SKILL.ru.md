@@ -1,6 +1,6 @@
 ---
 name: thanos-scraping
-description: Scraping with Thanos. target discovery.
+description: "Scraping with Thanos. target discovery."
 category: devops
 tags: [thanos-scraping, devops, russian]
 models: [sonnet, opus]

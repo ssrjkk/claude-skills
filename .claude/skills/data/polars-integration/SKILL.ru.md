@@ -1,6 +1,6 @@
 ---
 name: polars-integration
-description: Integration with Polars. data sources.
+description: "Integration with Polars. data sources."
 category: data
 tags: [polars-integration, data, russian]
 models: [sonnet, opus]

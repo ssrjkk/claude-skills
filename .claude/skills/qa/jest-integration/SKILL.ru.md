@@ -1,6 +1,6 @@
 ---
 name: jest-integration
-description: Integration with Jest. integration tests.
+description: "Integration with Jest. integration tests."
 category: qa
 tags: [jest-integration, qa, russian]
 models: [sonnet, opus]

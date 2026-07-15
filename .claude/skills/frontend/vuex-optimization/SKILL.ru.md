@@ -1,6 +1,6 @@
 ---
 name: vuex-optimization
-description: Optimization with Vuex. performance.
+description: "Optimization with Vuex. performance."
 category: frontend
 tags: [vuex-optimization, frontend, russian]
 models: [sonnet, opus]

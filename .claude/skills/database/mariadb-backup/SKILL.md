@@ -1,6 +1,6 @@
 ---
 name: mariadb-backup
-description: Backup with MariaDB. backup strategies.
+description: "Backup with MariaDB. backup strategies."
 category: database
 tags: [mariadb, backup, database, sql]
 models: [gpt-4, claude-3]

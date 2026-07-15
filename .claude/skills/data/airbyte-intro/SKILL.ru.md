@@ -1,6 +1,6 @@
 ---
 name: airbyte-intro
-description: Intro for Airbyte: introduction
+description: "Intro for Airbyte: introduction"
 category: data
 tags: [airbyte-intro, data, russian]
 models: [sonnet, opus]

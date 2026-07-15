@@ -1,6 +1,6 @@
 ---
 name: nicegui-setup
-description: Setup with NiceGUI. installation.
+description: "Setup with NiceGUI. installation."
 category: data
 tags: [nicegui, setup, data, data-apps]
 models: [gpt-4, claude-3]

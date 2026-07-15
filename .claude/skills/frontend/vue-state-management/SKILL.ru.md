@@ -1,6 +1,6 @@
 ---
 name: vue-state-management
-description: State Management with Vue. state handling.
+description: "State Management with Vue. state handling."
 category: frontend
 tags: [vue-state-management, frontend, russian]
 models: [sonnet, opus]

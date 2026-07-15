@@ -1,6 +1,6 @@
 ---
 name: milligram-forms
-description: Forms with Milligram. form styling.
+description: "Forms with Milligram. form styling."
 category: frontend
 tags: [milligram-forms, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: threadx-synchronization
-description: Sync with ThreadX. mutexes.
+description: "Sync with ThreadX. mutexes."
 category: embedded
 tags: [threadx-synchronization, embedded, russian]
 models: [sonnet, opus]

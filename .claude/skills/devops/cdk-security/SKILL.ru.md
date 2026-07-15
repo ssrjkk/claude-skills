@@ -1,6 +1,6 @@
 ---
 name: cdk-security
-description: Security with AWS CDK. security groups.
+description: "Security with AWS CDK. security groups."
 category: devops
 tags: [cdk-security, devops, russian]
 models: [sonnet, opus]

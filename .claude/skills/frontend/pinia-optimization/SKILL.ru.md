@@ -1,6 +1,6 @@
 ---
 name: pinia-optimization
-description: Optimization with Pinia. performance.
+description: "Optimization with Pinia. performance."
 category: frontend
 tags: [pinia-optimization, frontend, russian]
 models: [sonnet, opus]

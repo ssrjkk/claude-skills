@@ -1,6 +1,6 @@
 ---
 name: blue-yonder-procurement
-description: Procurement with Blue Yonder. procurement.
+description: "Procurement with Blue Yonder. procurement."
 category: supply-chain
 tags: [blue-yonder-procurement, supply-chain, russian]
 models: [sonnet, opus]

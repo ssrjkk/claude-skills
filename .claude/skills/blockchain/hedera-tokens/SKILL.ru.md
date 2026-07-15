@@ -1,6 +1,6 @@
 ---
 name: hedera-tokens
-description: Tokens with Hedera. token standards.
+description: "Tokens with Hedera. token standards."
 category: blockchain
 tags: [hedera-tokens, blockchain, russian]
 models: [sonnet, opus]

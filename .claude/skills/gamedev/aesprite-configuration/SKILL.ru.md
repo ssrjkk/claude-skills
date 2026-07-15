@@ -1,6 +1,6 @@
 ---
 name: aesprite-configuration
-description: Configuration for Aesprite: configuration and setup
+description: "Configuration for Aesprite: configuration and setup"
 category: gamedev
 tags: [aesprite-configuration, gamedev, russian]
 models: [sonnet, opus]

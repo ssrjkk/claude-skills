@@ -1,6 +1,6 @@
 ---
 name: earthly-monitoring
-description: Monitoring with Earthly. monitoring.
+description: "Monitoring with Earthly. monitoring."
 category: devops
 tags: [earthly-monitoring, devops, russian]
 models: [sonnet, opus]

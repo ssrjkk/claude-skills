@@ -1,6 +1,6 @@
 ---
 name: premiere-editing
-description: Editing with Premiere Pro. editing.
+description: "Editing with Premiere Pro. editing."
 category: media
 tags: [premiere-editing, media, russian]
 models: [sonnet, opus]

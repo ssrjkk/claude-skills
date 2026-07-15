@@ -1,6 +1,6 @@
 ---
 name: test-data-bot-guides
-description: Guides for Test-Data-Bot: how-to guides
+description: "Guides for Test-Data-Bot: how-to guides"
 category: qa
 tags: [test-data-bot, guides, qa]
 models: [sonnet, opus]

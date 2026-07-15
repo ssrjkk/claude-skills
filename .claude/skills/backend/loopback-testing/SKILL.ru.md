@@ -1,6 +1,6 @@
 ---
 name: loopback-testing
-description: Testing with LoopBack. Jest.
+description: "Testing with LoopBack. Jest."
 category: backend
 tags: [loopback-testing, backend, russian]
 models: [sonnet, opus]

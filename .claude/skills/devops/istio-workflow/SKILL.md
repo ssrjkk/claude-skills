@@ -1,6 +1,6 @@
 ---
 name: istio-workflow
-description: Workflow for Istio: workflow optimization
+description: "Workflow for Istio: workflow optimization"
 category: devops
 tags: [istio, workflow, devops]
 models: [sonnet, opus]

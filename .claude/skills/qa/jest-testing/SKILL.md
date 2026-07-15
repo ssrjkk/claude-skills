@@ -1,6 +1,6 @@
 ---
 name: jest-testing
-description: Testing for Jest: testing and validation
+description: "Testing for Jest: testing and validation"
 category: qa
 tags: [jest, testing, qa]
 models: [sonnet, opus]

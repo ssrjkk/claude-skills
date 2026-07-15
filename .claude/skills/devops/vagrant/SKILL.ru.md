@@ -1,6 +1,6 @@
 ---
 name: vagrant
-description: Creates and manages portable development environments with Vagrant, VirtualBox, and provisioners.
+description: "Creates and manages portable development environments with Vagrant, VirtualBox, and provisioners."
 category: devops
 tags: [vagrant, devops, russian]
 models: [sonnet, opus]

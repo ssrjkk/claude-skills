@@ -1,6 +1,6 @@
 ---
 name: capacitor-push
-description: Push with Capacitor. push notifications.
+description: "Push with Capacitor. push notifications."
 category: mobile
 tags: [capacitor-push, mobile, russian]
 models: [sonnet, opus]

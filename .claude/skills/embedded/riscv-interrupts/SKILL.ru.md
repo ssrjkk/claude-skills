@@ -1,6 +1,6 @@
 ---
 name: riscv-interrupts
-description: Interrupts with RISC-V. interrupts.
+description: "Interrupts with RISC-V. interrupts."
 category: embedded
 tags: [riscv-interrupts, embedded, russian]
 models: [sonnet, opus]

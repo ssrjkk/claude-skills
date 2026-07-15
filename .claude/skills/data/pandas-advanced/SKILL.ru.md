@@ -1,6 +1,6 @@
 ---
 name: pandas-advanced
-description: Advanced for Pandas: advanced patterns and techniques
+description: "Advanced for Pandas: advanced patterns and techniques"
 category: data
 tags: [pandas-advanced, data, russian]
 models: [sonnet, opus]

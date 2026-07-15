@@ -1,6 +1,6 @@
 ---
 name: grid-optimization-basics
-description: Basics with Grid Optimization. fundamentals.
+description: "Basics with Grid Optimization. fundamentals."
 category: energy
 tags: [grid-optimization, basics, energy, smart-grid]
 models: [gpt-4, claude-3]

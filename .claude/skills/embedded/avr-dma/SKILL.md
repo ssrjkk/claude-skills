@@ -1,6 +1,6 @@
 ---
 name: avr-dma
-description: DMA with AVR. DMA.
+description: "DMA with AVR. DMA."
 category: embedded
 tags: [avr, dma, embedded, embedded-arch]
 models: [gpt-4, claude-3]

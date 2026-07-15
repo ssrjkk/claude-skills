@@ -1,6 +1,6 @@
 ---
 name: state-machine-ai-intro
-description: Intro for State-Machine-Ai: introduction
+description: "Intro for State-Machine-Ai: introduction"
 category: ai
 tags: [state-machine-ai-intro, ai, russian]
 models: [sonnet, opus]

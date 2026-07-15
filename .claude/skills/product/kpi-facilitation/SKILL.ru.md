@@ -1,6 +1,6 @@
 ---
 name: kpi-facilitation
-description: Facilitation with KPIs. running.
+description: "Facilitation with KPIs. running."
 category: product
 tags: [kpi-facilitation, product, russian]
 models: [sonnet, opus]

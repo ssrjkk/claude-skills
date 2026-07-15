@@ -1,6 +1,6 @@
 ---
 name: riot-forms
-description: Forms with Riot. form handling.
+description: "Forms with Riot. form handling."
 category: frontend
 tags: [riot-forms, frontend, russian]
 models: [sonnet, opus]

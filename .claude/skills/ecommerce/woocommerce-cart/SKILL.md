@@ -1,6 +1,6 @@
 ---
 name: woocommerce-cart
-description: Cart with WooCommerce. cart.
+description: "Cart with WooCommerce. cart."
 category: ecommerce
 tags: [woocommerce, cart, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: sass-code-splitting
-description: Code Splitting with Sass. lazy loading.
+description: "Code Splitting with Sass. lazy loading."
 category: frontend
 tags: [sass-code-splitting, frontend, russian]
 models: [sonnet, opus]

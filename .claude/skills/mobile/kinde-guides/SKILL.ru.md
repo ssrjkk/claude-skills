@@ -1,6 +1,6 @@
 ---
 name: kinde-guides
-description: Guides for Kinde: how-to guides
+description: "Guides for Kinde: how-to guides"
 category: mobile
 tags: [kinde-guides, mobile, russian]
 models: [sonnet, opus]

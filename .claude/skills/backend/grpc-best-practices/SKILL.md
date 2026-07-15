@@ -1,6 +1,6 @@
 ---
 name: grpc-best-practices
-description: Best Practices for Grpc: best practices and patterns
+description: "Best Practices for Grpc: best practices and patterns"
 category: backend
 tags: [grpc, best-practices, backend]
 models: [sonnet, opus]

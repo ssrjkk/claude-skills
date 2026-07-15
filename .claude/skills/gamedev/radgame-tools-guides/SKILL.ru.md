@@ -1,6 +1,6 @@
 ---
 name: radgame-tools-guides
-description: Guides for Radgame-Tools: how-to guides
+description: "Guides for Radgame-Tools: how-to guides"
 category: gamedev
 tags: [radgame-tools-guides, gamedev, russian]
 models: [sonnet, opus]

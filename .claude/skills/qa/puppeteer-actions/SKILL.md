@@ -1,6 +1,6 @@
 ---
 name: puppeteer-actions
-description: Actions with Puppeteer. user actions.
+description: "Actions with Puppeteer. user actions."
 category: qa
 tags: [puppeteer, actions, qa, e2e]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: peft-checkpointing
-description: Checkpointing with Peft. model saving.
+description: "Checkpointing with Peft. model saving."
 category: ai
 tags: [peft, checkpointing, ai, deep-learning]
 models: [gpt-4, claude-3]

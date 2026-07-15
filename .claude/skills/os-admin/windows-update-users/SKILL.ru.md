@@ -1,6 +1,6 @@
 ---
 name: windows-update-users
-description: Users with Windows Update. user mgmt.
+description: "Users with Windows Update. user mgmt."
 category: os-admin
 tags: [windows-update-users, os-admin, russian]
 models: [sonnet, opus]

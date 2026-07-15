@@ -1,6 +1,6 @@
 ---
 name: pair-programming-implementation
-description: Implementation with Pair Programming. practice.
+description: "Implementation with Pair Programming. practice."
 category: engineering
 tags: [pair-programming, implementation, engineering, engineering]
 models: [gpt-4, claude-3]

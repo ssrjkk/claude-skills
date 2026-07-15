@@ -1,6 +1,6 @@
 ---
 name: suse-users
-description: Users with SUSE. user management.
+description: "Users with SUSE. user management."
 category: os-admin
 tags: [suse-users, os-admin, russian]
 models: [sonnet, opus]

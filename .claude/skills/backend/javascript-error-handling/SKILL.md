@@ -1,6 +1,6 @@
 ---
 name: javascript-error-handling
-description: Error Handling with Javascript. error management.
+description: "Error Handling with Javascript. error management."
 category: backend
 tags: [javascript, error-handling, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: moodle-courses
-description: Courses with Moodle. course creation.
+description: "Courses with Moodle. course creation."
 category: education
 tags: [moodle-courses, education, russian]
 models: [sonnet, opus]

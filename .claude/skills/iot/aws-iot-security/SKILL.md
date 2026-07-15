@@ -1,6 +1,6 @@
 ---
 name: aws-iot-security
-description: Security with AWS IoT. device security.
+description: "Security with AWS IoT. device security."
 category: iot
 tags: [aws-iot, security, iot, iot-platform]
 models: [gpt-4, claude-3]

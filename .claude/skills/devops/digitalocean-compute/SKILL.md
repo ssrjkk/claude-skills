@@ -1,6 +1,6 @@
 ---
 name: digitalocean-compute
-description: Compute with DigitalOcean. VM/compute.
+description: "Compute with DigitalOcean. VM/compute."
 category: devops
 tags: [digitalocean, compute, devops, cloud]
 models: [gpt-4, claude-3]

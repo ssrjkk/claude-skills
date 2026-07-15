@@ -1,6 +1,6 @@
 ---
 name: mithril-animations
-description: Animations with Mithril. UI animations.
+description: "Animations with Mithril. UI animations."
 category: frontend
 tags: [mithril-animations, frontend, russian]
 models: [sonnet, opus]

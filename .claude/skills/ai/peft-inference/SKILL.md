@@ -1,6 +1,6 @@
 ---
 name: peft-inference
-description: Inference with Peft. running models.
+description: "Inference with Peft. running models."
 category: ai
 tags: [peft, inference, ai, deep-learning]
 models: [gpt-4, claude-3]

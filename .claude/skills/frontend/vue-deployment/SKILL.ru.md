@@ -1,6 +1,6 @@
 ---
 name: vue-deployment
-description: Deployment for Vue: deployment and release
+description: "Deployment for Vue: deployment and release"
 category: frontend
 tags: [vue-deployment, frontend, russian]
 models: [sonnet, opus]

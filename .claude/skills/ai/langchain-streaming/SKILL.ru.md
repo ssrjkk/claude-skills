@@ -1,6 +1,6 @@
 ---
 name: langchain-streaming
-description: Streaming with Langchain. token streaming.
+description: "Streaming with Langchain. token streaming."
 category: ai
 tags: [langchain-streaming, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: oxlint-config
-description: Config with Oxlint. configuration.
+description: "Config with Oxlint. configuration."
 category: frontend
 tags: [oxlint-config, frontend, russian]
 models: [sonnet, opus]

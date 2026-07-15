@@ -1,6 +1,6 @@
 ---
 name: capacitor-advanced
-description: Advanced for Capacitor: advanced patterns and techniques
+description: "Advanced for Capacitor: advanced patterns and techniques"
 category: mobile
 tags: [capacitor-advanced, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vitepress-isr
-description: ISR with VitePress. incremental.
+description: "ISR with VitePress. incremental."
 category: frontend
 tags: [vitepress, isr, frontend, meta-framework]
 models: [gpt-4, claude-3]

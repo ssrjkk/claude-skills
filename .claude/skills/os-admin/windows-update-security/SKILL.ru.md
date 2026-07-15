@@ -1,6 +1,6 @@
 ---
 name: windows-update-security
-description: Security with Windows Update. security.
+description: "Security with Windows Update. security."
 category: os-admin
 tags: [windows-update-security, os-admin, russian]
 models: [sonnet, opus]

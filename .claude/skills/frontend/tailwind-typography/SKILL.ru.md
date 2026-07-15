@@ -1,6 +1,6 @@
 ---
 name: tailwind-typography
-description: Typography with Tailwind CSS. text styling.
+description: "Typography with Tailwind CSS. text styling."
 category: frontend
 tags: [tailwind-typography, frontend, russian]
 models: [sonnet, opus]

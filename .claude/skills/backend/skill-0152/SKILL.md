@@ -1,6 +1,6 @@
 ---
 name: skill-0152
-description: Specialized skill #0152 for backend development
+description: "Specialized skill #0152 for backend development"
 category: backend
 tags: [backend, skill, 0152]
 models: [sonnet, opus]

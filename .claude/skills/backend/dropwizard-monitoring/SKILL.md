@@ -1,6 +1,6 @@
 ---
 name: dropwizard-monitoring
-description: Monitoring with Dropwizard. metrics.
+description: "Monitoring with Dropwizard. metrics."
 category: backend
 tags: [dropwizard, monitoring, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: dhcp-monitoring
-description: Monitoring with DHCP. monitoring.
+description: "Monitoring with DHCP. monitoring."
 category: networking
 tags: [dhcp-monitoring, networking, russian]
 models: [sonnet, opus]

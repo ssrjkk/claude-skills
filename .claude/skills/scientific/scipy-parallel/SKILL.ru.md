@@ -1,6 +1,6 @@
 ---
 name: scipy-parallel
-description: Parallel with SciPy. parallel computing.
+description: "Parallel with SciPy. parallel computing."
 category: scientific
 tags: [scipy-parallel, scientific, russian]
 models: [sonnet, opus]

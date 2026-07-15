@@ -1,6 +1,6 @@
 ---
 name: janusgraph-performance
-description: Performance with JanusGraph. optimization.
+description: "Performance with JanusGraph. optimization."
 category: database
 tags: [janusgraph, performance, database, graph-database]
 models: [gpt-4, claude-3]

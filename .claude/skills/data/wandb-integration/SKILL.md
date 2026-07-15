@@ -1,6 +1,6 @@
 ---
 name: wandb-integration
-description: Integration for Wandb: integration with other tools
+description: "Integration for Wandb: integration with other tools"
 category: data
 tags: [wandb, integration, data]
 models: [sonnet, opus]

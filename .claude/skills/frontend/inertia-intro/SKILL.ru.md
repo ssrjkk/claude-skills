@@ -1,6 +1,6 @@
 ---
 name: inertia-intro
-description: Intro for Inertia: introduction
+description: "Intro for Inertia: introduction"
 category: frontend
 tags: [inertia-intro, frontend, russian]
 models: [sonnet, opus]

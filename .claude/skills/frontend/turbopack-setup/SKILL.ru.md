@@ -1,6 +1,6 @@
 ---
 name: turbopack-setup
-description: Setup with Turbopack. initial setup.
+description: "Setup with Turbopack. initial setup."
 category: frontend
 tags: [turbopack-setup, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: lever-integration
-description: Integration with Lever. integration.
+description: "Integration with Lever. integration."
 category: hr
 tags: [lever-integration, hr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: saltstack-setup
-description: Setup with SaltStack. installation.
+description: "Setup with SaltStack. installation."
 category: devops
 tags: [saltstack, setup, devops, iac]
 models: [gpt-4, claude-3]

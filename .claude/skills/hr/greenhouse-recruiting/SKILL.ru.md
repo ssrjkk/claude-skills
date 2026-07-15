@@ -1,6 +1,6 @@
 ---
 name: greenhouse-recruiting
-description: Recruiting with Greenhouse. ATS.
+description: "Recruiting with Greenhouse. ATS."
 category: hr
 tags: [greenhouse-recruiting, hr, russian]
 models: [sonnet, opus]

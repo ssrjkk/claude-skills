@@ -1,6 +1,6 @@
 ---
 name: dspy-memory
-description: Memory with Dspy. conversation memory.
+description: "Memory with Dspy. conversation memory."
 category: ai
 tags: [dspy-memory, ai, russian]
 models: [sonnet, opus]

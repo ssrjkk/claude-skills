@@ -1,6 +1,6 @@
 ---
 name: unity-xr-deployment
-description: Deployment with Unity XR. deployment.
+description: "Deployment with Unity XR. deployment."
 category: ar-vr
 tags: [unity-xr-deployment, ar-vr, russian]
 models: [sonnet, opus]

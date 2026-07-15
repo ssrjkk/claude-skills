@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-clustering
-description: Clustering with Elasticsearch. cluster setup.
+description: "Clustering with Elasticsearch. cluster setup."
 category: database
 tags: [elasticsearch-clustering, database, russian]
 models: [sonnet, opus]

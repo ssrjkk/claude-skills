@@ -1,6 +1,6 @@
 ---
 name: opentelemetry-tracing
-description: Tracing with OpenTelemetry. distributed tracing.
+description: "Tracing with OpenTelemetry. distributed tracing."
 category: devops
 tags: [opentelemetry-tracing, devops, russian]
 models: [sonnet, opus]

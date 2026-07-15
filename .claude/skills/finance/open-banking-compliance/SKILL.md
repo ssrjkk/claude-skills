@@ -1,6 +1,6 @@
 ---
 name: open-banking-compliance
-description: Compliance with Open Banking. compliance.
+description: "Compliance with Open Banking. compliance."
 category: finance
 tags: [open-banking, compliance, finance, fintech]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: numpy-analysis
-description: Analysis with NumPy. data analysis.
+description: "Analysis with NumPy. data analysis."
 category: data
 tags: [numpy-analysis, data, russian]
 models: [sonnet, opus]

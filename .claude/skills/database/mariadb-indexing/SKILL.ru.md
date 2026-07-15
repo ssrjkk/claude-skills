@@ -1,6 +1,6 @@
 ---
 name: mariadb-indexing
-description: Indexing with MariaDB. indexes.
+description: "Indexing with MariaDB. indexes."
 category: database
 tags: [mariadb-indexing, database, russian]
 models: [sonnet, opus]

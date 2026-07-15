@@ -1,6 +1,6 @@
 ---
 name: conduct-risk-assessment-and-planning
-description: Identify, analyze, and develop response strategies for project risks
+description: "Identify, analyze, and develop response strategies for project risks"
 category: product
 tags: [risk, probability, impact, mitigation]
 models: [sonnet, opus]

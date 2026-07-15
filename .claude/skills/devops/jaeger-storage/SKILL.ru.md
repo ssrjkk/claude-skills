@@ -1,6 +1,6 @@
 ---
 name: jaeger-storage
-description: Storage with Jaeger. data retention.
+description: "Storage with Jaeger. data retention."
 category: devops
 tags: [jaeger-storage, devops, russian]
 models: [sonnet, opus]

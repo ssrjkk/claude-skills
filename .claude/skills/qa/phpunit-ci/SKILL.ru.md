@@ -1,6 +1,6 @@
 ---
 name: phpunit-ci
-description: CI with PHPUnit. CI integration.
+description: "CI with PHPUnit. CI integration."
 category: qa
 tags: [phpunit-ci, qa, russian]
 models: [sonnet, opus]

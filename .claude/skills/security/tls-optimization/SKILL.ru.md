@@ -1,6 +1,6 @@
 ---
 name: tls-optimization
-description: Optimization for Tls: performance tuning and optimization
+description: "Optimization for Tls: performance tuning and optimization"
 category: security
 tags: [tls-optimization, security, russian]
 models: [sonnet, opus]

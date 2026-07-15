@@ -1,6 +1,6 @@
 ---
 name: php-logging
-description: Logging with Php. app logging.
+description: "Logging with Php. app logging."
 category: backend
 tags: [php, logging, backend, backend]
 models: [gpt-4, claude-3]

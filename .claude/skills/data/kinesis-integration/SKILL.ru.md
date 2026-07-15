@@ -1,6 +1,6 @@
 ---
 name: kinesis-integration
-description: Integration with Kinesis. connectors.
+description: "Integration with Kinesis. connectors."
 category: data
 tags: [kinesis-integration, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: construct-rendering
-description: Rendering with Construct. graphics.
+description: "Rendering with Construct. graphics."
 category: gamedev
 tags: [construct-rendering, gamedev, russian]
 models: [sonnet, opus]

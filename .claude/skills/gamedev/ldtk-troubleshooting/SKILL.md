@@ -1,6 +1,6 @@
 ---
 name: ldtk-troubleshooting
-description: Troubleshooting for Ldtk: troubleshooting common issues
+description: "Troubleshooting for Ldtk: troubleshooting common issues"
 category: gamedev
 tags: [ldtk, troubleshooting, gamedev]
 models: [sonnet, opus]

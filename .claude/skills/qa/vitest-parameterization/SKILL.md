@@ -1,6 +1,6 @@
 ---
 name: vitest-parameterization
-description: Parameterization with Vitest. parametrized tests.
+description: "Parameterization with Vitest. parametrized tests."
 category: qa
 tags: [vitest, parameterization, qa, testing]
 models: [gpt-4, claude-3]

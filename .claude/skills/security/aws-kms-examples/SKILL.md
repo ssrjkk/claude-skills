@@ -1,6 +1,6 @@
 ---
 name: aws-kms-examples
-description: Examples for Aws-Kms: practical examples
+description: "Examples for Aws-Kms: practical examples"
 category: security
 tags: [aws-kms, examples, security]
 models: [sonnet, opus]

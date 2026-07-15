@@ -1,6 +1,6 @@
 ---
 name: xstate-store
-description: Store with XState. state store.
+description: "Store with XState. state store."
 category: frontend
 tags: [xstate-store, frontend, russian]
 models: [sonnet, opus]

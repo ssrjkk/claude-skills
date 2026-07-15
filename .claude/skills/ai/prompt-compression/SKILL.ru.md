@@ -1,6 +1,6 @@
 ---
 name: prompt-compression
-description: Reduces prompt token usage through compression techniques, summarization, and selective context inclusion while maintaining output quality. Use for cost optimization.
+description: "Reduces prompt token usage through compression techniques, summarization, and selective context inclusion while maintaining output quality. Use for cost optimization."
 category: ai
 tags: [prompt-compression, ai, russian]
 models: [sonnet, opus]

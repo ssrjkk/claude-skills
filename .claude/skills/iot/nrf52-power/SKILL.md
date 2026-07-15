@@ -1,6 +1,6 @@
 ---
 name: nrf52-power
-description: Power with nRF52. power management.
+description: "Power with nRF52. power management."
 category: iot
 tags: [nrf52, power, iot, iot]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: bulma-theming
-description: Theming with Bulma. custom themes.
+description: "Theming with Bulma. custom themes."
 category: frontend
 tags: [bulma-theming, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: echo-config
-description: Config with Echo. config management.
+description: "Config with Echo. config management."
 category: backend
 tags: [echo, config, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: frontend-skill-0213
-description: frontend specialized skill #0213 for frontend development
+description: "frontend specialized skill #0213 for frontend development"
 category: frontend
 tags: [frontend, skill, 0213]
 models: [sonnet, opus]

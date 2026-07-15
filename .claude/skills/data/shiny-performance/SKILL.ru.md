@@ -1,6 +1,6 @@
 ---
 name: shiny-performance
-description: Performance with Shiny. performance.
+description: "Performance with Shiny. performance."
 category: data
 tags: [shiny-performance, data, russian]
 models: [sonnet, opus]

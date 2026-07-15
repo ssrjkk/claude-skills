@@ -1,6 +1,6 @@
 ---
 name: fastly-cost
-description: Cost with Fastly. cost optimization.
+description: "Cost with Fastly. cost optimization."
 category: devops
 tags: [fastly-cost, devops, russian]
 models: [sonnet, opus]

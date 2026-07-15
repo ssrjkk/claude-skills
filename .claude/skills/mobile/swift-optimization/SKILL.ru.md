@@ -1,6 +1,6 @@
 ---
 name: swift-optimization
-description: Optimization for Swift: performance tuning and optimization
+description: "Optimization for Swift: performance tuning and optimization"
 category: mobile
 tags: [swift-optimization, mobile, russian]
 models: [sonnet, opus]

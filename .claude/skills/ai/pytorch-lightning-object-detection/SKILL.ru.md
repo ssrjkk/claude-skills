@@ -1,6 +1,6 @@
 ---
 name: pytorch-lightning-object-detection
-description: Object Detection with Pytorch Lightning. detecting objects.
+description: "Object Detection with Pytorch Lightning. detecting objects."
 category: ai
 tags: [pytorch-lightning-object-detection, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: zephyr-setup
-description: Setup with Zephyr. setup.
+description: "Setup with Zephyr. setup."
 category: embedded
 tags: [zephyr, setup, embedded, rtos]
 models: [gpt-4, claude-3]

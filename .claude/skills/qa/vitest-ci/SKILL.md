@@ -1,6 +1,6 @@
 ---
 name: vitest-ci
-description: CI with Vitest. CI integration.
+description: "CI with Vitest. CI integration."
 category: qa
 tags: [vitest, ci, qa, testing]
 models: [gpt-4, claude-3]

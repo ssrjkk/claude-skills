@@ -1,6 +1,6 @@
 ---
 name: junit-api
-description: API for Junit: API development and integration
+description: "API for Junit: API development and integration"
 category: qa
 tags: [junit, api, qa]
 models: [sonnet, opus]

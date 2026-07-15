@@ -1,6 +1,6 @@
 ---
 name: pytorch-checkpointing
-description: Checkpointing with Pytorch. model saving.
+description: "Checkpointing with Pytorch. model saving."
 category: ai
 tags: [pytorch, checkpointing, ai, deep-learning]
 models: [gpt-4, claude-3]

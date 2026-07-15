@@ -1,6 +1,6 @@
 ---
 name: roadmap-implementation
-description: Implementation with Roadmapping. execution.
+description: "Implementation with Roadmapping. execution."
 category: product
 tags: [roadmap, implementation, product, product-framework]
 models: [gpt-4, claude-3]

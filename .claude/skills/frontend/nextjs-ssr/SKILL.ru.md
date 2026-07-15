@@ -1,6 +1,6 @@
 ---
 name: nextjs-ssr
-description: Generates Next.js applications with SSR, SSG, and API routes. Use for SEO-optimized React applications.
+description: "Generates Next.js applications with SSR, SSG, and API routes. Use for SEO-optimized React applications."
 category: frontend
 tags: [nextjs-ssr, frontend, russian]
 models: [sonnet, opus]

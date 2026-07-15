@@ -1,6 +1,6 @@
 ---
 name: pusher-integration
-description: Integration with Pusher. integration.
+description: "Integration with Pusher. integration."
 category: communications
 tags: [pusher-integration, communications, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: locust-security
-description: Security for Locust: security best practices
+description: "Security for Locust: security best practices"
 category: qa
 tags: [locust, security, qa]
 models: [sonnet, opus]

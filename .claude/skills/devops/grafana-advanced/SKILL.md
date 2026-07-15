@@ -1,6 +1,6 @@
 ---
 name: grafana-advanced
-description: Advanced for Grafana: advanced patterns and techniques
+description: "Advanced for Grafana: advanced patterns and techniques"
 category: devops
 tags: [grafana, advanced, devops]
 models: [sonnet, opus]

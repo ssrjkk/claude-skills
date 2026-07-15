@@ -1,6 +1,6 @@
 ---
 name: tensorflow-security
-description: Security for Tensorflow: security best practices
+description: "Security for Tensorflow: security best practices"
 category: ai
 tags: [tensorflow, security, ai]
 models: [sonnet, opus]

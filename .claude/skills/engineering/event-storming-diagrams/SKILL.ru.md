@@ -1,6 +1,6 @@
 ---
 name: event-storming-diagrams
-description: Diagrams with Event Storming. diagramming.
+description: "Diagrams with Event Storming. diagramming."
 category: engineering
 tags: [event-storming-diagrams, engineering, russian]
 models: [sonnet, opus]

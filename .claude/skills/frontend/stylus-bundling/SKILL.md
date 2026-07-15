@@ -1,6 +1,6 @@
 ---
 name: stylus-bundling
-description: Bundling with Stylus. code bundling.
+description: "Bundling with Stylus. code bundling."
 category: frontend
 tags: [stylus, bundling, frontend, build-tool]
 models: [gpt-4, claude-3]

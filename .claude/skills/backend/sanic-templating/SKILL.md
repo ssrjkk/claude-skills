@@ -1,6 +1,6 @@
 ---
 name: sanic-templating
-description: Templating with Sanic. server templates.
+description: "Templating with Sanic. server templates."
 category: backend
 tags: [sanic, templating, backend, backend]
 models: [gpt-4, claude-3]

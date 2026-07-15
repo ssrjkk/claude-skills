@@ -1,6 +1,6 @@
 ---
 name: kepler-analysis
-description: Analysis with Kepler.gl. spatial analysis.
+description: "Analysis with Kepler.gl. spatial analysis."
 category: geospatial
 tags: [kepler, analysis, geospatial, gis]
 models: [gpt-4, claude-3]

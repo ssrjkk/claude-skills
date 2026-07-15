@@ -1,6 +1,6 @@
 ---
 name: postgresql-indexing
-description: Indexing with PostgreSQL. indexes.
+description: "Indexing with PostgreSQL. indexes."
 category: database
 tags: [postgresql-indexing, database, russian]
 models: [sonnet, opus]

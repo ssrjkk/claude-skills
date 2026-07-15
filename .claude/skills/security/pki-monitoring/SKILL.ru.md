@@ -1,6 +1,6 @@
 ---
 name: pki-monitoring
-description: Monitoring with PKI. security monitoring.
+description: "Monitoring with PKI. security monitoring."
 category: security
 tags: [pki-monitoring, security, russian]
 models: [sonnet, opus]

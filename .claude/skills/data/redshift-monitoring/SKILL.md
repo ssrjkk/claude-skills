@@ -1,6 +1,6 @@
 ---
 name: redshift-monitoring
-description: Monitoring for Redshift: monitoring and observability
+description: "Monitoring for Redshift: monitoring and observability"
 category: data
 tags: [redshift, monitoring, data]
 models: [sonnet, opus]

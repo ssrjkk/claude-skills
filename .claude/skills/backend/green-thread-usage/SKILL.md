@@ -1,6 +1,6 @@
 ---
 name: green-thread-usage
-description: Usage for Green-Thread: usage reference
+description: "Usage for Green-Thread: usage reference"
 category: backend
 tags: [green-thread, usage, backend]
 models: [sonnet, opus]

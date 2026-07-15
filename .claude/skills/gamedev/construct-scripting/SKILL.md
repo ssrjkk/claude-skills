@@ -1,6 +1,6 @@
 ---
 name: construct-scripting
-description: Scripting with Construct. game logic.
+description: "Scripting with Construct. game logic."
 category: gamedev
 tags: [construct, scripting, gamedev, game-engine]
 models: [gpt-4, claude-3]

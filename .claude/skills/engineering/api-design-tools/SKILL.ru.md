@@ -1,6 +1,6 @@
 ---
 name: api-design-tools
-description: Tools with API Design. tooling.
+description: "Tools with API Design. tooling."
 category: engineering
 tags: [api-design-tools, engineering, russian]
 models: [sonnet, opus]

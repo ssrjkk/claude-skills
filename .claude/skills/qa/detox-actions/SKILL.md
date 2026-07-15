@@ -1,6 +1,6 @@
 ---
 name: detox-actions
-description: Actions with Detox. user actions.
+description: "Actions with Detox. user actions."
 category: qa
 tags: [detox, actions, qa, e2e]
 models: [gpt-4, claude-3]

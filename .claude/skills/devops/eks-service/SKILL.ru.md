@@ -1,6 +1,6 @@
 ---
 name: eks-service
-description: Service with Amazon EKS. services.
+description: "Service with Amazon EKS. services."
 category: devops
 tags: [eks-service, devops, russian]
 models: [sonnet, opus]

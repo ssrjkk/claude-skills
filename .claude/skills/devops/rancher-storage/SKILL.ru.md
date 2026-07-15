@@ -1,6 +1,6 @@
 ---
 name: rancher-storage
-description: Storage with Rancher. persistent storage.
+description: "Storage with Rancher. persistent storage."
 category: devops
 tags: [rancher-storage, devops, russian]
 models: [sonnet, opus]

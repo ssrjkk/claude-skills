@@ -1,6 +1,6 @@
 ---
 name: drawio-collaboration
-description: Collaboration with Draw.io. team collaboration.
+description: "Collaboration with Draw.io. team collaboration."
 category: engineering
 tags: [drawio-collaboration, engineering, russian]
 models: [sonnet, opus]

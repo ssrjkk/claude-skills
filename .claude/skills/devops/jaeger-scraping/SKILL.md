@@ -1,6 +1,6 @@
 ---
 name: jaeger-scraping
-description: Scraping with Jaeger. target discovery.
+description: "Scraping with Jaeger. target discovery."
 category: devops
 tags: [jaeger, scraping, devops, monitoring]
 models: [gpt-4, claude-3]

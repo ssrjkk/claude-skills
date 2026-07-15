@@ -1,6 +1,6 @@
 ---
 name: zephyr-workflow
-description: Workflow for Zephyr: workflow optimization
+description: "Workflow for Zephyr: workflow optimization"
 category: qa
 tags: [zephyr-workflow, qa, russian]
 models: [sonnet, opus]

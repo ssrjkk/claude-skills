@@ -1,6 +1,6 @@
 ---
 name: secrets-vault
-description: Manages secrets with HashiCorp Vault for dynamic secrets, encryption, and access policies.
+description: "Manages secrets with HashiCorp Vault for dynamic secrets, encryption, and access policies."
 category: security
 tags: [secrets-vault, security, russian]
 models: [sonnet, opus]

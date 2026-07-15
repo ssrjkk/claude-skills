@@ -1,6 +1,6 @@
 ---
 name: arcore-rendering
-description: Rendering with ARCore. stereoscopic.
+description: "Rendering with ARCore. stereoscopic."
 category: ar-vr
 tags: [arcore, rendering, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

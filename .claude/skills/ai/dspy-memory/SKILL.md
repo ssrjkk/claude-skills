@@ -1,6 +1,6 @@
 ---
 name: dspy-memory
-description: Memory with Dspy. conversation memory.
+description: "Memory with Dspy. conversation memory."
 category: ai
 tags: [dspy, memory, ai, llm]
 models: [gpt-4, claude-3]

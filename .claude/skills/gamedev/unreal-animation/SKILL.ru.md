@@ -1,6 +1,6 @@
 ---
 name: unreal-animation
-description: Animation with Unreal Engine. animation.
+description: "Animation with Unreal Engine. animation."
 category: gamedev
 tags: [unreal-animation, gamedev, russian]
 models: [sonnet, opus]

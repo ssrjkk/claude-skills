@@ -1,6 +1,6 @@
 ---
 name: pinot-monitoring
-description: Monitoring with Apache Pinot. monitoring.
+description: "Monitoring with Apache Pinot. monitoring."
 category: database
 tags: [pinot-monitoring, database, russian]
 models: [sonnet, opus]

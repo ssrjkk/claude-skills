@@ -1,6 +1,6 @@
 ---
 name: mongodb-monitoring
-description: Monitoring with MongoDB. monitoring.
+description: "Monitoring with MongoDB. monitoring."
 category: database
 tags: [mongodb, monitoring, database, nosql]
 models: [gpt-4, claude-3]

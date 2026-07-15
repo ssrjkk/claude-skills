@@ -1,6 +1,6 @@
 ---
 name: roda-auth
-description: Auth with Roda. authentication.
+description: "Auth with Roda. authentication."
 category: backend
 tags: [roda, auth, backend, backend]
 models: [gpt-4, claude-3]

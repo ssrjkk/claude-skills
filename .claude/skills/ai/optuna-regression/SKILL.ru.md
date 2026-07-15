@@ -1,6 +1,6 @@
 ---
 name: optuna-regression
-description: Regression with Optuna. predicting values.
+description: "Regression with Optuna. predicting values."
 category: ai
 tags: [optuna-regression, ai, russian]
 models: [sonnet, opus]

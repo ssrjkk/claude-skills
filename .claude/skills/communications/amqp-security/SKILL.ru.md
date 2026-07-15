@@ -1,6 +1,6 @@
 ---
 name: amqp-security
-description: Security with AMQP. security.
+description: "Security with AMQP. security."
 category: communications
 tags: [amqp-security, communications, russian]
 models: [sonnet, opus]

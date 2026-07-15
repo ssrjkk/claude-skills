@@ -1,6 +1,6 @@
 ---
 name: gke-configmap
-description: ConfigMap with Google GKE. config management.
+description: "ConfigMap with Google GKE. config management."
 category: devops
 tags: [gke, configmap, devops, kubernetes]
 models: [gpt-4, claude-3]

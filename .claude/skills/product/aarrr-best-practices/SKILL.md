@@ -1,6 +1,6 @@
 ---
 name: aarrr-best-practices
-description: Best Practices with AARRR. tips.
+description: "Best Practices with AARRR. tips."
 category: product
 tags: [aarrr, best-practices, product, product-framework]
 models: [gpt-4, claude-3]

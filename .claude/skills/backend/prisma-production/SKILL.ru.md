@@ -1,6 +1,6 @@
 ---
 name: prisma-production
-description: Production for Prisma: production deployment
+description: "Production for Prisma: production deployment"
 category: backend
 tags: [prisma-production, backend, russian]
 models: [sonnet, opus]

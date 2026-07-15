@@ -1,6 +1,6 @@
 ---
 name: wasm-pack
-description: Development with Wasm-Pack: tools and best practices
+description: "Development with Wasm-Pack: tools and best practices"
 category: ai
 tags: [wasm-pack, ai, russian]
 models: [sonnet, opus]

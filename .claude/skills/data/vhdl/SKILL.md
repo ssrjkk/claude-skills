@@ -1,6 +1,6 @@
 ---
 name: vhdl
-description: Development with Vhdl: tools and best practices
+description: "Development with Vhdl: tools and best practices"
 category: data
 tags: [vhdl, data, development]
 models: [sonnet, opus]

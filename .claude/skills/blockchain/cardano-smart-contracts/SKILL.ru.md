@@ -1,6 +1,6 @@
 ---
 name: cardano-smart-contracts
-description: Smart Contracts with Cardano. contracts.
+description: "Smart Contracts with Cardano. contracts."
 category: blockchain
 tags: [cardano-smart-contracts, blockchain, russian]
 models: [sonnet, opus]

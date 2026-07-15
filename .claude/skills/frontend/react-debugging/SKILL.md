@@ -1,6 +1,6 @@
 ---
 name: react-debugging
-description: Debugging for React: debugging and troubleshooting
+description: "Debugging for React: debugging and troubleshooting"
 category: frontend
 tags: [react, debugging, frontend]
 models: [sonnet, opus]

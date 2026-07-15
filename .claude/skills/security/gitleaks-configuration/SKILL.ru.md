@@ -1,6 +1,6 @@
 ---
 name: gitleaks-configuration
-description: Configuration for Gitleaks: configuration and setup
+description: "Configuration for Gitleaks: configuration and setup"
 category: security
 tags: [gitleaks-configuration, security, russian]
 models: [sonnet, opus]

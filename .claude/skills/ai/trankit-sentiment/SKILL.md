@@ -1,6 +1,6 @@
 ---
 name: trankit-sentiment
-description: Sentiment Analysis with Trankit. sentiment detection.
+description: "Sentiment Analysis with Trankit. sentiment detection."
 category: ai
 tags: [trankit, sentiment, ai, nlp]
 models: [gpt-4, claude-3]

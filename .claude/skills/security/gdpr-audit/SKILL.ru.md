@@ -1,6 +1,6 @@
 ---
 name: gdpr-audit
-description: Audit with GDPR. security audit.
+description: "Audit with GDPR. security audit."
 category: security
 tags: [gdpr-audit, security, russian]
 models: [sonnet, opus]

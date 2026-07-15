@@ -1,6 +1,6 @@
 ---
 name: information-architecture-basics
-description: Basics with Information Architecture. fundamentals.
+description: "Basics with Information Architecture. fundamentals."
 category: design
 tags: [information-architecture-basics, design, russian]
 models: [sonnet, opus]

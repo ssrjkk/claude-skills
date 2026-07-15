@@ -1,6 +1,6 @@
 ---
 name: zephyr-interrupts
-description: Interrupts with Zephyr. ISR handling.
+description: "Interrupts with Zephyr. ISR handling."
 category: embedded
 tags: [zephyr, interrupts, embedded, rtos]
 models: [gpt-4, claude-3]

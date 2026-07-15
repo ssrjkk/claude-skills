@@ -1,6 +1,6 @@
 ---
 name: ionic
-description: Builds cross-platform mobile apps with Ionic, Angular/React/Vue, and Capacitor. Use for hybrid apps with native-like UI.
+description: "Builds cross-platform mobile apps with Ionic, Angular/React/Vue, and Capacitor. Use for hybrid apps with native-like UI."
 category: mobile
 tags: [ionic, mobile, hybrid, angular, capacitor]
 models: [sonnet, opus]

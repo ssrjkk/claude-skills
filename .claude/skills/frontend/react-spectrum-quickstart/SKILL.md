@@ -1,6 +1,6 @@
 ---
 name: react-spectrum-quickstart
-description: Quickstart for React-Spectrum: quick start guide
+description: "Quickstart for React-Spectrum: quick start guide"
 category: frontend
 tags: [react-spectrum, quickstart, frontend]
 models: [sonnet, opus]

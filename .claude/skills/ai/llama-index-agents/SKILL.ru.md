@@ -1,6 +1,6 @@
 ---
 name: llama-index-agents
-description: Agents with Llama Index. building agents.
+description: "Agents with Llama Index. building agents."
 category: ai
 tags: [llama-index-agents, ai, russian]
 models: [sonnet, opus]

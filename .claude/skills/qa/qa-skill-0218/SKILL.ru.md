@@ -1,6 +1,6 @@
 ---
 name: qa-skill-0218
-description: Specialized skill #0218 for qa development
+description: "Specialized skill #0218 for qa development"
 category: qa
 tags: [skill-0218, qa, russian]
 models: [sonnet, opus]

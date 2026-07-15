@@ -1,6 +1,6 @@
 ---
 name: jupyter-cleaning
-description: Cleaning with Jupyter. data cleaning.
+description: "Cleaning with Jupyter. data cleaning."
 category: data
 tags: [jupyter-cleaning, data, russian]
 models: [sonnet, opus]

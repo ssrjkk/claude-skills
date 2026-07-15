@@ -1,6 +1,6 @@
 ---
 name: clickhouse-testing
-description: Testing for Clickhouse: testing and validation
+description: "Testing for Clickhouse: testing and validation"
 category: database
 tags: [clickhouse-testing, database, russian]
 models: [sonnet, opus]

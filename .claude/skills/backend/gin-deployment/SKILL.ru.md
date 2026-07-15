@@ -1,6 +1,6 @@
 ---
 name: gin-deployment
-description: Deployment with Gin. build.
+description: "Deployment with Gin. build."
 category: backend
 tags: [gin-deployment, backend, russian]
 models: [sonnet, opus]

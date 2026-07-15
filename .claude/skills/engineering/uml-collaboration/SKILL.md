@@ -1,6 +1,6 @@
 ---
 name: uml-collaboration
-description: Collaboration with UML. team collaboration.
+description: "Collaboration with UML. team collaboration."
 category: engineering
 tags: [uml, collaboration, engineering, modeling]
 models: [gpt-4, claude-3]

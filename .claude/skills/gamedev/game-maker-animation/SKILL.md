@@ -1,6 +1,6 @@
 ---
 name: game-maker-animation
-description: Animation with GameMaker. animation.
+description: "Animation with GameMaker. animation."
 category: gamedev
 tags: [game-maker, animation, gamedev, game-engine]
 models: [gpt-4, claude-3]

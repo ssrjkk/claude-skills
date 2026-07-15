@@ -1,6 +1,6 @@
 ---
 name: sonarqube-automation
-description: Automation with SonarQube. automation.
+description: "Automation with SonarQube. automation."
 category: security
 tags: [sonarqube, automation, security, security-tool]
 models: [gpt-4, claude-3]

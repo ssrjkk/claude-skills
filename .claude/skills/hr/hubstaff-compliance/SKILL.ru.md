@@ -1,6 +1,6 @@
 ---
 name: hubstaff-compliance
-description: Compliance with Hubstaff. compliance.
+description: "Compliance with Hubstaff. compliance."
 category: hr
 tags: [hubstaff-compliance, hr, russian]
 models: [sonnet, opus]

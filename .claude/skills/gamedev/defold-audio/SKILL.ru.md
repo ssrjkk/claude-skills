@@ -1,6 +1,6 @@
 ---
 name: defold-audio
-description: Audio with Defold. audio.
+description: "Audio with Defold. audio."
 category: gamedev
 tags: [defold-audio, gamedev, russian]
 models: [sonnet, opus]

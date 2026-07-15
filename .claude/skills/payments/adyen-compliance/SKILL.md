@@ -1,6 +1,6 @@
 ---
 name: adyen-compliance
-description: Compliance with Adyen. PCI DSS.
+description: "Compliance with Adyen. PCI DSS."
 category: payments
 tags: [adyen, compliance, payments, payments]
 models: [gpt-4, claude-3]

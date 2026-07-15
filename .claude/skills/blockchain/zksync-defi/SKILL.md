@@ -1,6 +1,6 @@
 ---
 name: zksync-defi
-description: DeFi with zkSync. DeFi.
+description: "DeFi with zkSync. DeFi."
 category: blockchain
 tags: [zksync, defi, blockchain, blockchain]
 models: [gpt-4, claude-3]

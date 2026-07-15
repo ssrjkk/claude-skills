@@ -1,6 +1,6 @@
 ---
 name: puzzle-design-basics
-description: Basics with Puzzle Design. fundamentals.
+description: "Basics with Puzzle Design. fundamentals."
 category: gamedev
 tags: [puzzle-design-basics, gamedev, russian]
 models: [sonnet, opus]

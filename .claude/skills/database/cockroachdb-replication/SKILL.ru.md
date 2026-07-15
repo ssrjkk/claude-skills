@@ -1,6 +1,6 @@
 ---
 name: cockroachdb-replication
-description: Replication with CockroachDB. replication.
+description: "Replication with CockroachDB. replication."
 category: database
 tags: [cockroachdb-replication, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: recurly-analytics
-description: Analytics with Recurly. revenue analytics.
+description: "Analytics with Recurly. revenue analytics."
 category: payments
 tags: [recurly, analytics, payments, billing]
 models: [gpt-4, claude-3]

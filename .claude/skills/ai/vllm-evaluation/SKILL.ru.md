@@ -1,6 +1,6 @@
 ---
 name: vllm-evaluation
-description: Evaluation with Vllm. LLM evaluation.
+description: "Evaluation with Vllm. LLM evaluation."
 category: ai
 tags: [vllm-evaluation, ai, russian]
 models: [sonnet, opus]

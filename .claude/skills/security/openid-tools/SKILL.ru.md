@@ -1,6 +1,6 @@
 ---
 name: openid-tools
-description: Tools with OpenID Connect. security tools.
+description: "Tools with OpenID Connect. security tools."
 category: security
 tags: [openid-tools, security, russian]
 models: [sonnet, opus]

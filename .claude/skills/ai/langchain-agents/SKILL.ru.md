@@ -1,6 +1,6 @@
 ---
 name: langchain-agents
-description: Agents with Langchain. building agents.
+description: "Agents with Langchain. building agents."
 category: ai
 tags: [langchain-agents, ai, russian]
 models: [sonnet, opus]

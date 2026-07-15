@@ -1,6 +1,6 @@
 ---
 name: frontegg-fundamentals
-description: Fundamentals for Frontegg: core concepts
+description: "Fundamentals for Frontegg: core concepts"
 category: mobile
 tags: [frontegg, fundamentals, mobile]
 models: [sonnet, opus]

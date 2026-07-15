@@ -1,6 +1,6 @@
 ---
 name: milligram-responsive
-description: Responsive with Milligram. mobile-first.
+description: "Responsive with Milligram. mobile-first."
 category: frontend
 tags: [milligram, responsive, frontend, css]
 models: [gpt-4, claude-3]

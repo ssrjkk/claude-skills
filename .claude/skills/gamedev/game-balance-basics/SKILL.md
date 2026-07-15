@@ -1,6 +1,6 @@
 ---
 name: game-balance-basics
-description: Basics with Game Balance. fundamentals.
+description: "Basics with Game Balance. fundamentals."
 category: gamedev
 tags: [game-balance, basics, gamedev, game-design]
 models: [gpt-4, claude-3]

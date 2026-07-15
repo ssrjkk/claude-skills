@@ -1,6 +1,6 @@
 ---
 name: threadx-timers
-description: Timers with ThreadX. software timers.
+description: "Timers with ThreadX. software timers."
 category: embedded
 tags: [threadx, timers, embedded, rtos]
 models: [gpt-4, claude-3]

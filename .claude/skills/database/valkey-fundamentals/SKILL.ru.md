@@ -1,6 +1,6 @@
 ---
 name: valkey-fundamentals
-description: Fundamentals for Valkey: core concepts
+description: "Fundamentals for Valkey: core concepts"
 category: database
 tags: [valkey-fundamentals, database, russian]
 models: [sonnet, opus]

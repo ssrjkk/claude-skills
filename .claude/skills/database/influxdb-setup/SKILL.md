@@ -1,6 +1,6 @@
 ---
 name: influxdb-setup
-description: Setup with InfluxDB. installation.
+description: "Setup with InfluxDB. installation."
 category: database
 tags: [influxdb, setup, database, time-series]
 models: [gpt-4, claude-3]

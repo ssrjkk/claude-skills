@@ -1,6 +1,6 @@
 ---
 name: greensock-fundamentals
-description: Fundamentals for Greensock: core concepts
+description: "Fundamentals for Greensock: core concepts"
 category: design
 tags: [greensock-fundamentals, design, russian]
 models: [sonnet, opus]

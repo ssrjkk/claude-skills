@@ -1,6 +1,6 @@
 ---
 name: wireframing-planning
-description: Planning with Wireframing. study planning.
+description: "Planning with Wireframing. study planning."
 category: design
 tags: [wireframing-planning, design, russian]
 models: [sonnet, opus]

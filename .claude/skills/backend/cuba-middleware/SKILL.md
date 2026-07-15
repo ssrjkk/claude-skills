@@ -1,6 +1,6 @@
 ---
 name: cuba-middleware
-description: Middleware with Cuba. rack middleware.
+description: "Middleware with Cuba. rack middleware."
 category: backend
 tags: [cuba, middleware, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: psd2-data
-description: Data with PSD2. financial data.
+description: "Data with PSD2. financial data."
 category: finance
 tags: [psd2-data, finance, russian]
 models: [sonnet, opus]

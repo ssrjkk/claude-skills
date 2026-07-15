@@ -1,6 +1,6 @@
 ---
 name: usability-testing-analysis
-description: Analysis with Usability Testing. data analysis.
+description: "Analysis with Usability Testing. data analysis."
 category: design
 tags: [usability-testing-analysis, design, russian]
 models: [sonnet, opus]

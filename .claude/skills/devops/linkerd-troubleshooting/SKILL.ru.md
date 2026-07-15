@@ -1,6 +1,6 @@
 ---
 name: linkerd-troubleshooting
-description: Troubleshooting for Linkerd: troubleshooting common issues
+description: "Troubleshooting for Linkerd: troubleshooting common issues"
 category: devops
 tags: [linkerd-troubleshooting, devops, russian]
 models: [sonnet, opus]

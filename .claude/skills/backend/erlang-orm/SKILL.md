@@ -1,6 +1,6 @@
 ---
 name: erlang-orm
-description: ORM with Erlang. database access.
+description: "ORM with Erlang. database access."
 category: backend
 tags: [erlang, orm, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: execution-data
-description: Data with Execution Systems. data sources.
+description: "Data with Execution Systems. data sources."
 category: finance
 tags: [execution-data, finance, russian]
 models: [sonnet, opus]

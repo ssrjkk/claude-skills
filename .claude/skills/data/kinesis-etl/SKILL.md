@@ -1,6 +1,6 @@
 ---
 name: kinesis-etl
-description: ETL with Kinesis. extract-transform-load.
+description: "ETL with Kinesis. extract-transform-load."
 category: data
 tags: [kinesis, etl, data, data-engineering]
 models: [gpt-4, claude-3]

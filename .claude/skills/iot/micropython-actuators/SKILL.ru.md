@@ -1,6 +1,6 @@
 ---
 name: micropython-actuators
-description: Actuators with MicroPython. motors.
+description: "Actuators with MicroPython. motors."
 category: iot
 tags: [micropython-actuators, iot, russian]
 models: [sonnet, opus]

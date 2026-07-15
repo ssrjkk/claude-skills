@@ -1,6 +1,6 @@
 ---
 name: brightspace-assessments
-description: Assessments with Brightspace. quizzes.
+description: "Assessments with Brightspace. quizzes."
 category: education
 tags: [brightspace, assessments, education, education-platform]
 models: [gpt-4, claude-3]

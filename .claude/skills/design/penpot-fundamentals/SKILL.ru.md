@@ -1,6 +1,6 @@
 ---
 name: penpot-fundamentals
-description: Fundamentals for Penpot: core concepts
+description: "Fundamentals for Penpot: core concepts"
 category: design
 tags: [penpot-fundamentals, design, russian]
 models: [sonnet, opus]

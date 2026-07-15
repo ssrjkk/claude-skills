@@ -1,6 +1,6 @@
 ---
 name: cloudflare-database
-description: Database with Cloudflare. managed databases.
+description: "Database with Cloudflare. managed databases."
 category: devops
 tags: [cloudflare, database, devops, cloud]
 models: [gpt-4, claude-3]

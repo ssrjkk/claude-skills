@@ -1,6 +1,6 @@
 ---
 name: wasm
-description: Development with Wasm: tools and best practices
+description: "Development with Wasm: tools and best practices"
 category: frontend
 tags: [wasm, frontend, development]
 models: [sonnet, opus]

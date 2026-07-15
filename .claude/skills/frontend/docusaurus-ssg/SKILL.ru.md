@@ -1,6 +1,6 @@
 ---
 name: docusaurus-ssg
-description: SSG with Docusaurus. static generation.
+description: "SSG with Docusaurus. static generation."
 category: frontend
 tags: [docusaurus-ssg, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: devcontainers
-description: Development containers with Dev Container spec
+description: "Development containers with Dev Container spec"
 category: devops
 tags: [devcontainers, docker, development, environment, vscode]
 models: [sonnet, opus]

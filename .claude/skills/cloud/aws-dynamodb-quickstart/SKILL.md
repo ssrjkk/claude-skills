@@ -1,6 +1,6 @@
 ---
 name: aws-dynamodb-quickstart
-description: Quickstart for Aws-Dynamodb: quick start guide
+description: "Quickstart for Aws-Dynamodb: quick start guide"
 category: cloud
 tags: [aws-dynamodb, quickstart, cloud]
 models: [sonnet, opus]

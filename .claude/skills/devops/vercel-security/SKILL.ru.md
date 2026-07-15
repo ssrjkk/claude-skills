@@ -1,6 +1,6 @@
 ---
 name: vercel-security
-description: Security with Vercel. cloud security.
+description: "Security with Vercel. cloud security."
 category: devops
 tags: [vercel-security, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: travis-ci-monitoring
-description: Monitoring with Travis CI. monitoring.
+description: "Monitoring with Travis CI. monitoring."
 category: devops
 tags: [travis-ci, monitoring, devops, ci-cd]
 models: [gpt-4, claude-3]

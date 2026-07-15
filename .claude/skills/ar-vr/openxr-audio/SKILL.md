@@ -1,6 +1,6 @@
 ---
 name: openxr-audio
-description: Audio with OpenXR. spatial audio.
+description: "Audio with OpenXR. spatial audio."
 category: ar-vr
 tags: [openxr, audio, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: dynamodb-deployment
-description: Deployment for Dynamodb: deployment and release
+description: "Deployment for Dynamodb: deployment and release"
 category: database
 tags: [dynamodb, deployment, database]
 models: [sonnet, opus]

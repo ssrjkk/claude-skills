@@ -1,6 +1,6 @@
 ---
 name: flutter-push
-description: Push with Flutter. push notifications.
+description: "Push with Flutter. push notifications."
 category: mobile
 tags: [flutter, push, mobile, mobile]
 models: [gpt-4, claude-3]

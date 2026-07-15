@@ -1,6 +1,6 @@
 ---
 name: persona-reporting
-description: Reporting with Personas. reports.
+description: "Reporting with Personas. reports."
 category: design
 tags: [persona-reporting, design, russian]
 models: [sonnet, opus]

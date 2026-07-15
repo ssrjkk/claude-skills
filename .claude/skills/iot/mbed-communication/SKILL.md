@@ -1,6 +1,6 @@
 ---
 name: mbed-communication
-description: Comm with Mbed OS. I2C.
+description: "Comm with Mbed OS. I2C."
 category: iot
 tags: [mbed, communication, iot, iot]
 models: [gpt-4, claude-3]

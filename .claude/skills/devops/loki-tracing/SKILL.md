@@ -1,6 +1,6 @@
 ---
 name: loki-tracing
-description: Tracing with Loki. distributed tracing.
+description: "Tracing with Loki. distributed tracing."
 category: devops
 tags: [loki, tracing, devops, monitoring]
 models: [gpt-4, claude-3]

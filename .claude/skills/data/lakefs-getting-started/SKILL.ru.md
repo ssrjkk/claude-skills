@@ -1,6 +1,6 @@
 ---
 name: lakefs-getting-started
-description: Getting Started for Lakefs: initial setup and first steps
+description: "Getting Started for Lakefs: initial setup and first steps"
 category: data
 tags: [lakefs-getting-started, data, russian]
 models: [sonnet, opus]

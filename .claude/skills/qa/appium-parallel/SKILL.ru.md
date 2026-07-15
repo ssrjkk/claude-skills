@@ -1,6 +1,6 @@
 ---
 name: appium-parallel
-description: Parallel with Appium. parallel execution.
+description: "Parallel with Appium. parallel execution."
 category: qa
 tags: [appium-parallel, qa, russian]
 models: [sonnet, opus]

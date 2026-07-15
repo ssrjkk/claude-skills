@@ -1,6 +1,6 @@
 ---
 name: padrino-testing
-description: Testing with Padrino. RSpec.
+description: "Testing with Padrino. RSpec."
 category: backend
 tags: [padrino-testing, backend, russian]
 models: [sonnet, opus]

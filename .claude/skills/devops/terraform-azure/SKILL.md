@@ -1,6 +1,6 @@
 ---
 name: terraform-azure
-description: Provisions Azure infrastructure using Terraform modules for compute, networking, and managed services. Use for Azure IaC.
+description: "Provisions Azure infrastructure using Terraform modules for compute, networking, and managed services. Use for Azure IaC."
 category: devops
 tags: [terraform, azure, infrastructure, iac, cloud]
 models: [sonnet, opus]

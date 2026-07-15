@@ -1,6 +1,6 @@
 ---
 name: oxlint-config
-description: Config with Oxlint. configuration.
+description: "Config with Oxlint. configuration."
 category: frontend
 tags: [oxlint, config, frontend, build-tool]
 models: [gpt-4, claude-3]

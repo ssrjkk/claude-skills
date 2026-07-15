@@ -1,6 +1,6 @@
 ---
 name: skill-0185
-description: Specialized skill #0185 for ai development
+description: "Specialized skill #0185 for ai development"
 category: ai
 tags: [skill-0185, ai, russian]
 models: [sonnet, opus]

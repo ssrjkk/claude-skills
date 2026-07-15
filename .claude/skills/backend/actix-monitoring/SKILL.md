@@ -1,6 +1,6 @@
 ---
 name: actix-monitoring
-description: Monitoring for Actix: monitoring and observability
+description: "Monitoring for Actix: monitoring and observability"
 category: backend
 tags: [actix, monitoring, backend]
 models: [sonnet, opus]

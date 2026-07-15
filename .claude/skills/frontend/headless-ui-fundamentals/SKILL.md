@@ -1,6 +1,6 @@
 ---
 name: headless-ui-fundamentals
-description: Fundamentals for Headless-Ui: core concepts
+description: "Fundamentals for Headless-Ui: core concepts"
 category: frontend
 tags: [headless-ui, fundamentals, frontend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gitlab-ci
-description: Configures GitLab CI/CD pipelines with stages, jobs, and GitLab Runner. Use for Git-native automation and deployment.
+description: "Configures GitLab CI/CD pipelines with stages, jobs, and GitLab Runner. Use for Git-native automation and deployment."
 category: devops
 tags: [gitlab-ci, devops, russian]
 models: [sonnet, opus]

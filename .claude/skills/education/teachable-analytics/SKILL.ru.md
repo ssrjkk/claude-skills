@@ -1,6 +1,6 @@
 ---
 name: teachable-analytics
-description: Analytics with Teachable. analytics.
+description: "Analytics with Teachable. analytics."
 category: education
 tags: [teachable-analytics, education, russian]
 models: [sonnet, opus]

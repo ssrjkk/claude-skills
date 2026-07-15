@@ -1,6 +1,6 @@
 ---
 name: coredns-automation
-description: Automation for Coredns: automation and scripting
+description: "Automation for Coredns: automation and scripting"
 category: devops
 tags: [coredns, automation, devops]
 models: [sonnet, opus]

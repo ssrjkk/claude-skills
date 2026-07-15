@@ -1,6 +1,6 @@
 ---
 name: webxr-deployment
-description: Deployment with WebXR. deployment.
+description: "Deployment with WebXR. deployment."
 category: ar-vr
 tags: [webxr-deployment, ar-vr, russian]
 models: [sonnet, opus]

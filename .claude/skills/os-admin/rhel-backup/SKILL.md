@@ -1,6 +1,6 @@
 ---
 name: rhel-backup
-description: Backup with RHEL. backup.
+description: "Backup with RHEL. backup."
 category: os-admin
 tags: [rhel, backup, os-admin, linux]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: minikube-service
-description: Service with Minikube. services.
+description: "Service with Minikube. services."
 category: devops
 tags: [minikube, service, devops, kubernetes]
 models: [gpt-4, claude-3]

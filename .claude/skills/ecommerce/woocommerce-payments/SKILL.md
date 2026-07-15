@@ -1,6 +1,6 @@
 ---
 name: woocommerce-payments
-description: Payments with WooCommerce. payment integration.
+description: "Payments with WooCommerce. payment integration."
 category: ecommerce
 tags: [woocommerce, payments, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

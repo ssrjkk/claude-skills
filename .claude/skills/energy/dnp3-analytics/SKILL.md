@@ -1,6 +1,6 @@
 ---
 name: dnp3-analytics
-description: Analytics with DNP3. analytics.
+description: "Analytics with DNP3. analytics."
 category: energy
 tags: [dnp3, analytics, energy, smart-grid]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: nuxt-advanced
-description: Advanced for Nuxt: advanced patterns and techniques
+description: "Advanced for Nuxt: advanced patterns and techniques"
 category: frontend
 tags: [nuxt-advanced, frontend, russian]
 models: [sonnet, opus]

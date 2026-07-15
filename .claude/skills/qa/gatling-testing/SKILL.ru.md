@@ -1,6 +1,6 @@
 ---
 name: gatling-testing
-description: Testing for Gatling: testing and validation
+description: "Testing for Gatling: testing and validation"
 category: qa
 tags: [gatling-testing, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: heuristics-basics
-description: Basics with Heuristics. fundamentals.
+description: "Basics with Heuristics. fundamentals."
 category: product
 tags: [heuristics-basics, product, russian]
 models: [sonnet, opus]

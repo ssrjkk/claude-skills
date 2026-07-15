@@ -1,6 +1,6 @@
 ---
 name: bevy-rendering
-description: Rendering with Bevy. graphics.
+description: "Rendering with Bevy. graphics."
 category: gamedev
 tags: [bevy, rendering, gamedev, game-engine]
 models: [gpt-4, claude-3]

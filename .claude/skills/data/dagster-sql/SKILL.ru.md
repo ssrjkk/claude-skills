@@ -1,6 +1,6 @@
 ---
 name: dagster-sql
-description: SQL with Dagster. SQL queries.
+description: "SQL with Dagster. SQL queries."
 category: data
 tags: [dagster-sql, data, russian]
 models: [sonnet, opus]

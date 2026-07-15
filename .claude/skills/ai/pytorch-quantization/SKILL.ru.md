@@ -1,6 +1,6 @@
 ---
 name: pytorch-quantization
-description: Quantization with Pytorch. model quantization.
+description: "Quantization with Pytorch. model quantization."
 category: ai
 tags: [pytorch-quantization, ai, russian]
 models: [sonnet, opus]

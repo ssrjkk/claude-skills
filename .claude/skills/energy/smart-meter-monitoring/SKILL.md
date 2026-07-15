@@ -1,6 +1,6 @@
 ---
 name: smart-meter-monitoring
-description: Monitoring with Smart Metering. monitoring.
+description: "Monitoring with Smart Metering. monitoring."
 category: energy
 tags: [smart-meter, monitoring, energy, smart-grid]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: axum-templating
-description: Templating with Axum. templates.
+description: "Templating with Axum. templates."
 category: backend
 tags: [axum-templating, backend, russian]
 models: [sonnet, opus]

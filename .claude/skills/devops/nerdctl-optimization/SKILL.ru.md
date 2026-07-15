@@ -1,6 +1,6 @@
 ---
 name: nerdctl-optimization
-description: Optimization with nerdctl. image optimization.
+description: "Optimization with nerdctl. image optimization."
 category: devops
 tags: [nerdctl-optimization, devops, russian]
 models: [sonnet, opus]

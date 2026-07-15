@@ -1,6 +1,6 @@
 ---
 name: circuitpython-communication
-description: Comm with CircuitPython. I2C.
+description: "Comm with CircuitPython. I2C."
 category: iot
 tags: [circuitpython, communication, iot, iot]
 models: [gpt-4, claude-3]

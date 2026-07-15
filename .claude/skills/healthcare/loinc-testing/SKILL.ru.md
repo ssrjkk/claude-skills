@@ -1,6 +1,6 @@
 ---
 name: loinc-testing
-description: Testing with LOINC. testing.
+description: "Testing with LOINC. testing."
 category: healthcare
 tags: [loinc-testing, healthcare, russian]
 models: [sonnet, opus]

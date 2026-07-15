@@ -1,6 +1,6 @@
 ---
 name: thingsboard-telemetry
-description: Telemetry with ThingsBoard. data collection.
+description: "Telemetry with ThingsBoard. data collection."
 category: iot
 tags: [thingsboard, telemetry, iot, iot-platform]
 models: [gpt-4, claude-3]

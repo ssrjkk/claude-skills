@@ -1,6 +1,6 @@
 ---
 name: ghg-protocol-data
-description: Data with GHG Protocol. data collection.
+description: "Data with GHG Protocol. data collection."
 category: sustainability
 tags: [ghg-protocol-data, sustainability, russian]
 models: [sonnet, opus]

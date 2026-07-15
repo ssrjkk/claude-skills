@@ -1,6 +1,6 @@
 ---
 name: procedural-generation-balancing
-description: Balancing with Procedural Generation. balancing.
+description: "Balancing with Procedural Generation. balancing."
 category: gamedev
 tags: [procedural-generation-balancing, gamedev, russian]
 models: [sonnet, opus]

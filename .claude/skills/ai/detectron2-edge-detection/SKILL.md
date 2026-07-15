@@ -1,6 +1,6 @@
 ---
 name: detectron2-edge-detection
-description: Edge Detection with Detectron2. edge detection.
+description: "Edge Detection with Detectron2. edge detection."
 category: ai
 tags: [detectron2, edge-detection, ai, computer-vision]
 models: [gpt-4, claude-3]

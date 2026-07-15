@@ -1,6 +1,6 @@
 ---
 name: service-worker-intro
-description: Intro for Service-Worker: introduction
+description: "Intro for Service-Worker: introduction"
 category: frontend
 tags: [service-worker, intro, frontend]
 models: [sonnet, opus]

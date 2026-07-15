@@ -1,6 +1,6 @@
 ---
 name: lever-recruiting
-description: Recruiting with Lever. ATS.
+description: "Recruiting with Lever. ATS."
 category: hr
 tags: [lever, recruiting, hr, hr-tech]
 models: [gpt-4, claude-3]

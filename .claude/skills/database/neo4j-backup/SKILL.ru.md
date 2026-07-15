@@ -1,6 +1,6 @@
 ---
 name: neo4j-backup
-description: Backup with Neo4j. backup.
+description: "Backup with Neo4j. backup."
 category: database
 tags: [neo4j-backup, database, russian]
 models: [sonnet, opus]

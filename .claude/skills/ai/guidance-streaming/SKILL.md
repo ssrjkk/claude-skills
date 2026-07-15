@@ -1,6 +1,6 @@
 ---
 name: guidance-streaming
-description: Streaming with Guidance. token streaming.
+description: "Streaming with Guidance. token streaming."
 category: ai
 tags: [guidance, streaming, ai, llm]
 models: [gpt-4, claude-3]

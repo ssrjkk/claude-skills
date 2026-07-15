@@ -1,6 +1,6 @@
 ---
 name: alpine-testing
-description: Testing with Alpine. component testing.
+description: "Testing with Alpine. component testing."
 category: frontend
 tags: [alpine-testing, frontend, russian]
 models: [sonnet, opus]

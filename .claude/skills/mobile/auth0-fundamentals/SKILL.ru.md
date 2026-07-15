@@ -1,6 +1,6 @@
 ---
 name: auth0-fundamentals
-description: Fundamentals for Auth0: core concepts
+description: "Fundamentals for Auth0: core concepts"
 category: mobile
 tags: [auth0-fundamentals, mobile, russian]
 models: [sonnet, opus]

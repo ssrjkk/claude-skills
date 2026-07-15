@@ -1,6 +1,6 @@
 ---
 name: mmdetection-color-processing
-description: Color Processing with Mmdetection. color manipulation.
+description: "Color Processing with Mmdetection. color manipulation."
 category: ai
 tags: [mmdetection, color-processing, ai, computer-vision]
 models: [gpt-4, claude-3]

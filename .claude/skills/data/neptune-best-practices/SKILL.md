@@ -1,6 +1,6 @@
 ---
 name: neptune-best-practices
-description: Best Practices for Neptune: best practices and patterns
+description: "Best Practices for Neptune: best practices and patterns"
 category: data
 tags: [neptune, best-practices, data]
 models: [sonnet, opus]

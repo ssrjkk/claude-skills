@@ -1,6 +1,6 @@
 ---
 name: mysql-replication
-description: Replication with MySQL. replication.
+description: "Replication with MySQL. replication."
 category: database
 tags: [mysql-replication, database, russian]
 models: [sonnet, opus]

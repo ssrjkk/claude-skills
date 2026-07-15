@@ -1,6 +1,6 @@
 ---
 name: envoy-integration
-description: Integration for Envoy: integration with other tools
+description: "Integration for Envoy: integration with other tools"
 category: devops
 tags: [envoy, integration, devops]
 models: [sonnet, opus]

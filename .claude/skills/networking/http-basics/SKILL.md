@@ -1,6 +1,6 @@
 ---
 name: http-basics
-description: Basics with HTTP. fundamentals.
+description: "Basics with HTTP. fundamentals."
 category: networking
 tags: [http, basics, networking, networking]
 models: [gpt-4, claude-3]

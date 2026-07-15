@@ -1,6 +1,6 @@
 ---
 name: davinci-editing
-description: Editing with DaVinci Resolve. editing.
+description: "Editing with DaVinci Resolve. editing."
 category: media
 tags: [davinci-editing, media, russian]
 models: [sonnet, opus]

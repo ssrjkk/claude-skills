@@ -1,6 +1,6 @@
 ---
 name: raspberry-pi-setup
-description: Setup with Raspberry Pi. board setup.
+description: "Setup with Raspberry Pi. board setup."
 category: iot
 tags: [raspberry-pi-setup, iot, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: wwise-troubleshooting
-description: Troubleshooting for Wwise: troubleshooting common issues
+description: "Troubleshooting for Wwise: troubleshooting common issues"
 category: gamedev
 tags: [wwise, troubleshooting, gamedev]
 models: [sonnet, opus]

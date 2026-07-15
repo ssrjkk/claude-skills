@@ -1,6 +1,6 @@
 ---
 name: bamboo-caching
-description: Caching with Bamboo. dependency caching.
+description: "Caching with Bamboo. dependency caching."
 category: devops
 tags: [bamboo, caching, devops, ci-cd]
 models: [gpt-4, claude-3]

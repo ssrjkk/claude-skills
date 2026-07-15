@@ -1,6 +1,6 @@
 ---
 name: jmeter-scenarios
-description: Scenarios with JMeter. test scenarios.
+description: "Scenarios with JMeter. test scenarios."
 category: qa
 tags: [jmeter, scenarios, qa, performance-testing]
 models: [gpt-4, claude-3]

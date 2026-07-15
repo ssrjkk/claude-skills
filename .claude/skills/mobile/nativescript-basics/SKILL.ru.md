@@ -1,6 +1,6 @@
 ---
 name: nativescript-basics
-description: Basics for Nativescript: fundamentals and core concepts
+description: "Basics for Nativescript: fundamentals and core concepts"
 category: mobile
 tags: [nativescript-basics, mobile, russian]
 models: [sonnet, opus]

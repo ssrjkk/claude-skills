@@ -1,6 +1,6 @@
 ---
 name: whylabs-automation
-description: Automation for Whylabs: automation and scripting
+description: "Automation for Whylabs: automation and scripting"
 category: data
 tags: [whylabs-automation, data, russian]
 models: [sonnet, opus]

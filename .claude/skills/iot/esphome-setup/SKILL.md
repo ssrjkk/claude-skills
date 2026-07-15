@@ -1,6 +1,6 @@
 ---
 name: esphome-setup
-description: Setup with ESPHome. setup.
+description: "Setup with ESPHome. setup."
 category: iot
 tags: [esphome, setup, iot, iot-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: api-gateway-migration
-description: Migration with API Gateway. adopting the pattern.
+description: "Migration with API Gateway. adopting the pattern."
 category: backend
 tags: [api-gateway-migration, backend, russian]
 models: [sonnet, opus]

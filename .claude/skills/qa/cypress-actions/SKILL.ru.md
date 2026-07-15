@@ -1,6 +1,6 @@
 ---
 name: cypress-actions
-description: Actions with Cypress. user actions.
+description: "Actions with Cypress. user actions."
 category: qa
 tags: [cypress-actions, qa, russian]
 models: [sonnet, opus]

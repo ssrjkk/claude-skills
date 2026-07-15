@@ -1,6 +1,6 @@
 ---
 name: csharp-config
-description: Configuration with Csharp. config management.
+description: "Configuration with Csharp. config management."
 category: backend
 tags: [csharp, config, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: vpn-security
-description: Security with VPN. hardening.
+description: "Security with VPN. hardening."
 category: networking
 tags: [vpn, security, networking, networking]
 models: [gpt-4, claude-3]

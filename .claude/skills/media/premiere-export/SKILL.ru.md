@@ -1,6 +1,6 @@
 ---
 name: premiere-export
-description: Export with Premiere Pro. export.
+description: "Export with Premiere Pro. export."
 category: media
 tags: [premiere-export, media, russian]
 models: [sonnet, opus]

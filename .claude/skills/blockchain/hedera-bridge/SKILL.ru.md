@@ -1,6 +1,6 @@
 ---
 name: hedera-bridge
-description: Bridge with Hedera. cross-chain.
+description: "Bridge with Hedera. cross-chain."
 category: blockchain
 tags: [hedera-bridge, blockchain, russian]
 models: [sonnet, opus]

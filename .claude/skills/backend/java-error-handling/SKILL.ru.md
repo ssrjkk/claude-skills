@@ -1,6 +1,6 @@
 ---
 name: java-error-handling
-description: Error Handling with Java. error management.
+description: "Error Handling with Java. error management."
 category: backend
 tags: [java-error-handling, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: semantic-ui-grid
-description: Grid with Semantic UI. layout grids.
+description: "Grid with Semantic UI. layout grids."
 category: frontend
 tags: [semantic-ui, grid, frontend, css]
 models: [gpt-4, claude-3]

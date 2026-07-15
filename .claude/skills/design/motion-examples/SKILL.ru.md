@@ -1,6 +1,6 @@
 ---
 name: motion-examples
-description: Examples for Motion: practical examples
+description: "Examples for Motion: practical examples"
 category: design
 tags: [motion-examples, design, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: react-testing
-description: Testing with React. component testing.
+description: "Testing with React. component testing."
 category: frontend
 tags: [react, testing, frontend, frontend]
 models: [gpt-4, claude-3]

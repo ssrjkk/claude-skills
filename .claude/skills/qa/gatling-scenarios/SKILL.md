@@ -1,6 +1,6 @@
 ---
 name: gatling-scenarios
-description: Scenarios with Gatling. test scenarios.
+description: "Scenarios with Gatling. test scenarios."
 category: qa
 tags: [gatling, scenarios, qa, performance-testing]
 models: [gpt-4, claude-3]

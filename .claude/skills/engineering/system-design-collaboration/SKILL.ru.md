@@ -1,6 +1,6 @@
 ---
 name: system-design-collaboration
-description: Collaboration with System Design. team collaboration.
+description: "Collaboration with System Design. team collaboration."
 category: engineering
 tags: [system-design-collaboration, engineering, russian]
 models: [sonnet, opus]

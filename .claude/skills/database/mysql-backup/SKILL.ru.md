@@ -1,6 +1,6 @@
 ---
 name: mysql-backup
-description: Backup with MySQL. backup strategies.
+description: "Backup with MySQL. backup strategies."
 category: database
 tags: [mysql-backup, database, russian]
 models: [sonnet, opus]

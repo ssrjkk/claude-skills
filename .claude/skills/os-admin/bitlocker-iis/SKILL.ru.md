@@ -1,6 +1,6 @@
 ---
 name: bitlocker-iis
-description: IIS with BitLocker. web server.
+description: "IIS with BitLocker. web server."
 category: os-admin
 tags: [bitlocker-iis, os-admin, russian]
 models: [sonnet, opus]

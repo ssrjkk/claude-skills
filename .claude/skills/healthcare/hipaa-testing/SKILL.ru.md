@@ -1,6 +1,6 @@
 ---
 name: hipaa-testing
-description: Testing with HIPAA. testing.
+description: "Testing with HIPAA. testing."
 category: healthcare
 tags: [hipaa-testing, healthcare, russian]
 models: [sonnet, opus]

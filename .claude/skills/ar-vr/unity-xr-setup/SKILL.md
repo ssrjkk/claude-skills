@@ -1,6 +1,6 @@
 ---
 name: unity-xr-setup
-description: Setup with Unity XR. SDK setup.
+description: "Setup with Unity XR. SDK setup."
 category: ar-vr
 tags: [unity-xr, setup, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: ses-messaging
-description: Messaging with Amazon SES. sending messages.
+description: "Messaging with Amazon SES. sending messages."
 category: communications
 tags: [ses-messaging, communications, russian]
 models: [sonnet, opus]

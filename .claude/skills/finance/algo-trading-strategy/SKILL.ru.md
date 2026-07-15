@@ -1,6 +1,6 @@
 ---
 name: algo-trading-strategy
-description: Strategy with Algorithmic Trading. strategy dev.
+description: "Strategy with Algorithmic Trading. strategy dev."
 category: finance
 tags: [algo-trading-strategy, finance, russian]
 models: [sonnet, opus]

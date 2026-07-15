@@ -1,6 +1,6 @@
 ---
 name: codeigniter-api
-description: API with CodeIgniter. APIs.
+description: "API with CodeIgniter. APIs."
 category: backend
 tags: [codeigniter, api, backend, backend]
 models: [gpt-4, claude-3]

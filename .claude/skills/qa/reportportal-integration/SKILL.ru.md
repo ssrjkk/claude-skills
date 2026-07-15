@@ -1,6 +1,6 @@
 ---
 name: reportportal-integration
-description: Integration for Reportportal: integration with other tools
+description: "Integration for Reportportal: integration with other tools"
 category: qa
 tags: [reportportal-integration, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: systemd-networking
-description: Networking with systemd. network config.
+description: "Networking with systemd. network config."
 category: os-admin
 tags: [systemd, networking, os-admin, linux]
 models: [gpt-4, claude-3]

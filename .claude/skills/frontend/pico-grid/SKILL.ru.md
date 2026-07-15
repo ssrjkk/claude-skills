@@ -1,6 +1,6 @@
 ---
 name: pico-grid
-description: Grid with Pico CSS. layout grids.
+description: "Grid with Pico CSS. layout grids."
 category: frontend
 tags: [pico-grid, frontend, russian]
 models: [sonnet, opus]

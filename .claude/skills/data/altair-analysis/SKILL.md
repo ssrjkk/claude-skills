@@ -1,6 +1,6 @@
 ---
 name: altair-analysis
-description: Analysis with Altair. data analysis.
+description: "Analysis with Altair. data analysis."
 category: data
 tags: [altair, analysis, data, data-science]
 models: [gpt-4, claude-3]

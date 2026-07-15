@@ -1,6 +1,6 @@
 ---
 name: csrd-measurement
-description: Measurement with CSRD. measurement.
+description: "Measurement with CSRD. measurement."
 category: sustainability
 tags: [csrd-measurement, sustainability, russian]
 models: [sonnet, opus]

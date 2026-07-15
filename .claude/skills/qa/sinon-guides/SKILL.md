@@ -1,6 +1,6 @@
 ---
 name: sinon-guides
-description: Guides for Sinon: how-to guides
+description: "Guides for Sinon: how-to guides"
 category: qa
 tags: [sinon, guides, qa]
 models: [sonnet, opus]

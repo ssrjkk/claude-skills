@@ -1,6 +1,6 @@
 ---
 name: design-thinking-best-practices
-description: Best Practices with Design Thinking. tips.
+description: "Best Practices with Design Thinking. tips."
 category: product
 tags: [design-thinking-best-practices, product, russian]
 models: [sonnet, opus]

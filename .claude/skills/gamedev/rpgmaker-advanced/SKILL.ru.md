@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-advanced
-description: Advanced for Rpgmaker: advanced patterns and techniques
+description: "Advanced for Rpgmaker: advanced patterns and techniques"
 category: gamedev
 tags: [rpgmaker-advanced, gamedev, russian]
 models: [sonnet, opus]

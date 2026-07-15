@@ -1,6 +1,6 @@
 ---
 name: iot-skill-0120
-description: iot specialized skill #0120 for iot development
+description: "iot specialized skill #0120 for iot development"
 category: iot
 tags: [iot, skill, 0120]
 models: [sonnet, opus]

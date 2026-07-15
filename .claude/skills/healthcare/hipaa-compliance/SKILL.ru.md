@@ -1,6 +1,6 @@
 ---
 name: hipaa-compliance
-description: Compliance with HIPAA. compliance.
+description: "Compliance with HIPAA. compliance."
 category: healthcare
 tags: [hipaa-compliance, healthcare, russian]
 models: [sonnet, opus]

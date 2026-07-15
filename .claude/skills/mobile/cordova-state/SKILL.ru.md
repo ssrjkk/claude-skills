@@ -1,6 +1,6 @@
 ---
 name: cordova-state
-description: State with Cordova. state management.
+description: "State with Cordova. state management."
 category: mobile
 tags: [cordova-state, mobile, russian]
 models: [sonnet, opus]

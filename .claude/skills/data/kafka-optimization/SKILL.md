@@ -1,6 +1,6 @@
 ---
 name: kafka-optimization
-description: Optimization with Kafka. performance.
+description: "Optimization with Kafka. performance."
 category: data
 tags: [kafka, optimization, data, data-engineering]
 models: [gpt-4, claude-3]

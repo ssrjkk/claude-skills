@@ -1,6 +1,6 @@
 ---
 name: containerd-volumes
-description: Volumes with containerd. data volumes.
+description: "Volumes with containerd. data volumes."
 category: devops
 tags: [containerd-volumes, devops, russian]
 models: [sonnet, opus]

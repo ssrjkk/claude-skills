@@ -1,6 +1,6 @@
 ---
 name: echo-advanced
-description: Advanced for Echo: advanced patterns and techniques
+description: "Advanced for Echo: advanced patterns and techniques"
 category: backend
 tags: [echo-advanced, backend, russian]
 models: [sonnet, opus]

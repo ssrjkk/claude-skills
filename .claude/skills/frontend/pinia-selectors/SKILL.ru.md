@@ -1,6 +1,6 @@
 ---
 name: pinia-selectors
-description: Selectors with Pinia. derived data.
+description: "Selectors with Pinia. derived data."
 category: frontend
 tags: [pinia-selectors, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sass-source-maps
-description: Source Maps with Sass. debugging.
+description: "Source Maps with Sass. debugging."
 category: frontend
 tags: [sass, source-maps, frontend, build-tool]
 models: [gpt-4, claude-3]

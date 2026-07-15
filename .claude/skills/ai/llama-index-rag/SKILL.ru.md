@@ -1,6 +1,6 @@
 ---
 name: llama-index-rag
-description: RAG with Llama Index. building RAG systems.
+description: "RAG with Llama Index. building RAG systems."
 category: ai
 tags: [llama-index-rag, ai, russian]
 models: [sonnet, opus]

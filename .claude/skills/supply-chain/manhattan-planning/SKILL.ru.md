@@ -1,6 +1,6 @@
 ---
 name: manhattan-planning
-description: Planning with Manhattan Associates. demand planning.
+description: "Planning with Manhattan Associates. demand planning."
 category: supply-chain
 tags: [manhattan-planning, supply-chain, russian]
 models: [sonnet, opus]

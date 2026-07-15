@@ -1,6 +1,6 @@
 ---
 name: travis-ci-caching
-description: Caching with Travis CI. dependency caching.
+description: "Caching with Travis CI. dependency caching."
 category: devops
 tags: [travis-ci-caching, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: outlines-chaining
-description: Chaining with Outlines. multi-step workflows.
+description: "Chaining with Outlines. multi-step workflows."
 category: ai
 tags: [outlines, chaining, ai, llm]
 models: [gpt-4, claude-3]

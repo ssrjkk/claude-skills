@@ -1,6 +1,6 @@
 ---
 name: level-design-planning
-description: Planning with Level Design. planning.
+description: "Planning with Level Design. planning."
 category: gamedev
 tags: [level-design, planning, gamedev, game-design]
 models: [gpt-4, claude-3]

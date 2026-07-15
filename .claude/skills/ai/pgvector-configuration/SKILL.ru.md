@@ -1,6 +1,6 @@
 ---
 name: pgvector-configuration
-description: Configuration for Pgvector: configuration and setup
+description: "Configuration for Pgvector: configuration and setup"
 category: ai
 tags: [pgvector-configuration, ai, russian]
 models: [sonnet, opus]

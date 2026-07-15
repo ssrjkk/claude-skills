@@ -1,6 +1,6 @@
 ---
 name: itil-tools
-description: Tools with ITIL. tooling.
+description: "Tools with ITIL. tooling."
 category: product
 tags: [itil, tools, product, methodology]
 models: [gpt-4, claude-3]

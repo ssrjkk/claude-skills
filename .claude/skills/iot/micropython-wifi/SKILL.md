@@ -1,6 +1,6 @@
 ---
 name: micropython-wifi
-description: WiFi with MicroPython. wireless.
+description: "WiFi with MicroPython. wireless."
 category: iot
 tags: [micropython, wifi, iot, iot]
 models: [gpt-4, claude-3]

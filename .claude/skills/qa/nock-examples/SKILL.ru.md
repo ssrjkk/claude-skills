@@ -1,6 +1,6 @@
 ---
 name: nock-examples
-description: Examples for Nock: practical examples
+description: "Examples for Nock: practical examples"
 category: qa
 tags: [nock-examples, qa, russian]
 models: [sonnet, opus]

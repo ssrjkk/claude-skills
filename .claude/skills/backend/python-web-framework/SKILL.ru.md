@@ -1,6 +1,6 @@
 ---
 name: python-web-framework
-description: Web Framework with Python. web dev.
+description: "Web Framework with Python. web dev."
 category: backend
 tags: [python-web-framework, backend, russian]
 models: [sonnet, opus]

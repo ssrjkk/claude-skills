@@ -1,6 +1,6 @@
 ---
 name: gdpr-monitoring
-description: Monitoring with GDPR. security monitoring.
+description: "Monitoring with GDPR. security monitoring."
 category: security
 tags: [gdpr-monitoring, security, russian]
 models: [sonnet, opus]

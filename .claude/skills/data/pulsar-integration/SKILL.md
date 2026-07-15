@@ -1,6 +1,6 @@
 ---
 name: pulsar-integration
-description: Integration with Pulsar. connectors.
+description: "Integration with Pulsar. connectors."
 category: data
 tags: [pulsar, integration, data, data-engineering]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: fastify-templating
-description: Templating with Fastify. Pug.
+description: "Templating with Fastify. Pug."
 category: backend
 tags: [fastify-templating, backend, russian]
 models: [sonnet, opus]

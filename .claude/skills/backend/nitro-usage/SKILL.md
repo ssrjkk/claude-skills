@@ -1,6 +1,6 @@
 ---
 name: nitro-usage
-description: Usage for Nitro: usage guide
+description: "Usage for Nitro: usage guide"
 category: backend
 tags: [nitro, usage, backend]
 models: [sonnet, opus]

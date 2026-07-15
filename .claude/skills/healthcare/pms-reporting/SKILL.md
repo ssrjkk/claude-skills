@@ -1,6 +1,6 @@
 ---
 name: pms-reporting
-description: Reporting with Practice Management. reports.
+description: "Reporting with Practice Management. reports."
 category: healthcare
 tags: [pms, reporting, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: dagster-batch
-description: Batch with Dagster. batch processing.
+description: "Batch with Dagster. batch processing."
 category: data
 tags: [dagster-batch, data, russian]
 models: [sonnet, opus]

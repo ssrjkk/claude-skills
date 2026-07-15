@@ -1,6 +1,6 @@
 ---
 name: grid-optimization-basics
-description: Basics with Grid Optimization. fundamentals.
+description: "Basics with Grid Optimization. fundamentals."
 category: energy
 tags: [grid-optimization-basics, energy, russian]
 models: [sonnet, opus]

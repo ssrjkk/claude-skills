@@ -1,6 +1,6 @@
 ---
 name: redshift-api
-description: API for Redshift: API development and integration
+description: "API for Redshift: API development and integration"
 category: data
 tags: [redshift, api, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: scada-protocols
-description: Protocols with SCADA. communication.
+description: "Protocols with SCADA. communication."
 category: energy
 tags: [scada, protocols, energy, smart-grid]
 models: [gpt-4, claude-3]

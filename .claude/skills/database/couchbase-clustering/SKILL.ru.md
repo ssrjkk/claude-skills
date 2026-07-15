@@ -1,6 +1,6 @@
 ---
 name: couchbase-clustering
-description: Clustering with Couchbase. cluster setup.
+description: "Clustering with Couchbase. cluster setup."
 category: database
 tags: [couchbase-clustering, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: foundation-components
-description: Components with Foundation. UI components.
+description: "Components with Foundation. UI components."
 category: frontend
 tags: [foundation-components, frontend, russian]
 models: [sonnet, opus]

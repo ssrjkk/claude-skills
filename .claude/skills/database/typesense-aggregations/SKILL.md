@@ -1,6 +1,6 @@
 ---
 name: typesense-aggregations
-description: Aggregations with Typesense. bucket aggs.
+description: "Aggregations with Typesense. bucket aggs."
 category: database
 tags: [typesense, aggregations, database, search-engine]
 models: [gpt-4, claude-3]

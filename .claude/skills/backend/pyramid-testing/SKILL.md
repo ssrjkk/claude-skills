@@ -1,6 +1,6 @@
 ---
 name: pyramid-testing
-description: Testing with Pyramid. integration tests.
+description: "Testing with Pyramid. integration tests."
 category: backend
 tags: [pyramid, testing, backend, backend]
 models: [gpt-4, claude-3]

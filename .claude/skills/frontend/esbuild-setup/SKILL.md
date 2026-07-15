@@ -1,6 +1,6 @@
 ---
 name: esbuild-setup
-description: Setup with esbuild. initial setup.
+description: "Setup with esbuild. initial setup."
 category: frontend
 tags: [esbuild, setup, frontend, build-tool]
 models: [gpt-4, claude-3]

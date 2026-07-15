@@ -1,6 +1,6 @@
 ---
 name: drone-pipeline
-description: Pipeline with Drone CI. pipeline creation.
+description: "Pipeline with Drone CI. pipeline creation."
 category: devops
 tags: [drone-pipeline, devops, russian]
 models: [sonnet, opus]

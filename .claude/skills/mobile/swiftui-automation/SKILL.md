@@ -1,6 +1,6 @@
 ---
 name: swiftui-automation
-description: Automation for Swiftui: automation and scripting
+description: "Automation for Swiftui: automation and scripting"
 category: mobile
 tags: [swiftui, automation, mobile]
 models: [sonnet, opus]

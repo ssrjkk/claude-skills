@@ -1,6 +1,6 @@
 ---
 name: woocommerce-marketing
-description: Marketing with WooCommerce. marketing.
+description: "Marketing with WooCommerce. marketing."
 category: ecommerce
 tags: [woocommerce, marketing, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: perf
-description: Development with Perf: tools and best practices
+description: "Development with Perf: tools and best practices"
 category: ai
 tags: [perf, ai, development]
 models: [sonnet, opus]

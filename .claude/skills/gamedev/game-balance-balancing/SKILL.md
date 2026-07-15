@@ -1,6 +1,6 @@
 ---
 name: game-balance-balancing
-description: Balancing with Game Balance. balancing.
+description: "Balancing with Game Balance. balancing."
 category: gamedev
 tags: [game-balance, balancing, gamedev, game-design]
 models: [gpt-4, claude-3]

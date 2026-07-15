@@ -1,6 +1,6 @@
 ---
 name: mollie-checkout
-description: Checkout with Mollie. checkout flow.
+description: "Checkout with Mollie. checkout flow."
 category: payments
 tags: [mollie, checkout, payments, payments]
 models: [gpt-4, claude-3]

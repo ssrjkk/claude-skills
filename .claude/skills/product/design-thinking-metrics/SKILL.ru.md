@@ -1,6 +1,6 @@
 ---
 name: design-thinking-metrics
-description: Metrics with Design Thinking. measurement.
+description: "Metrics with Design Thinking. measurement."
 category: product
 tags: [design-thinking-metrics, product, russian]
 models: [sonnet, opus]

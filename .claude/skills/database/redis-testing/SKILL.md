@@ -1,6 +1,6 @@
 ---
 name: redis-testing
-description: Testing for Redis: testing and validation
+description: "Testing for Redis: testing and validation"
 category: database
 tags: [redis, testing, database]
 models: [sonnet, opus]

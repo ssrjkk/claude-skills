@@ -1,6 +1,6 @@
 ---
 name: auto-sklearn-classification
-description: Classification with Auto Sklearn. building classifiers.
+description: "Classification with Auto Sklearn. building classifiers."
 category: ai
 tags: [auto-sklearn, classification, ai, ml]
 models: [gpt-4, claude-3]

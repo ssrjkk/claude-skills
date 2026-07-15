@@ -1,6 +1,6 @@
 ---
 name: dicom-testing
-description: Testing with DICOM. testing.
+description: "Testing with DICOM. testing."
 category: healthcare
 tags: [dicom-testing, healthcare, russian]
 models: [sonnet, opus]

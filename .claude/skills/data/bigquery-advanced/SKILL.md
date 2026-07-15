@@ -1,6 +1,6 @@
 ---
 name: bigquery-advanced
-description: Advanced for Bigquery: advanced patterns and techniques
+description: "Advanced for Bigquery: advanced patterns and techniques"
 category: data
 tags: [bigquery, advanced, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: wireshark-analysis
-description: Analysis with Wireshark. analysis.
+description: "Analysis with Wireshark. analysis."
 category: security
 tags: [wireshark-analysis, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: revenuecat-production
-description: Production for Revenuecat: production deployment
+description: "Production for Revenuecat: production deployment"
 category: mobile
 tags: [revenuecat, production, mobile]
 models: [sonnet, opus]

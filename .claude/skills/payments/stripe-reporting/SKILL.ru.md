@@ -1,6 +1,6 @@
 ---
 name: stripe-reporting
-description: Reporting with Stripe. reports.
+description: "Reporting with Stripe. reports."
 category: payments
 tags: [stripe-reporting, payments, russian]
 models: [sonnet, opus]

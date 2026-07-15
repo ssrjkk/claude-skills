@@ -1,6 +1,6 @@
 ---
 name: dns-troubleshooting
-description: Troubleshooting with DNS. diagnostics.
+description: "Troubleshooting with DNS. diagnostics."
 category: networking
 tags: [dns-troubleshooting, networking, russian]
 models: [sonnet, opus]

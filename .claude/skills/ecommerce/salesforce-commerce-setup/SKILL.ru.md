@@ -1,6 +1,6 @@
 ---
 name: salesforce-commerce-setup
-description: Setup with Salesforce Commerce. setup.
+description: "Setup with Salesforce Commerce. setup."
 category: ecommerce
 tags: [salesforce-commerce-setup, ecommerce, russian]
 models: [sonnet, opus]

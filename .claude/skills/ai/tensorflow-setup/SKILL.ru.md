@@ -1,6 +1,6 @@
 ---
 name: tensorflow-setup
-description: Setup for Tensorflow: installation and configuration
+description: "Setup for Tensorflow: installation and configuration"
 category: ai
 tags: [tensorflow-setup, ai, russian]
 models: [sonnet, opus]

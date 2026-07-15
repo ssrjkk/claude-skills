@@ -1,6 +1,6 @@
 ---
 name: docusaurus-ssg
-description: SSG with Docusaurus. static generation.
+description: "SSG with Docusaurus. static generation."
 category: frontend
 tags: [docusaurus, ssg, frontend, meta-framework]
 models: [gpt-4, claude-3]

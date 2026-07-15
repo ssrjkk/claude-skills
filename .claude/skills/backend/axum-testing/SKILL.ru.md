@@ -1,6 +1,6 @@
 ---
 name: axum-testing
-description: Testing with Axum. unit tests.
+description: "Testing with Axum. unit tests."
 category: backend
 tags: [axum-testing, backend, russian]
 models: [sonnet, opus]

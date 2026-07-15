@@ -1,6 +1,6 @@
 ---
 name: spine-getting-started
-description: Getting Started for Spine: initial setup and first steps
+description: "Getting Started for Spine: initial setup and first steps"
 category: gamedev
 tags: [spine, getting-started, gamedev]
 models: [sonnet, opus]

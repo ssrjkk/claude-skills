@@ -1,6 +1,6 @@
 ---
 name: tpot-deployment
-description: Deployment with Tpot. model serving.
+description: "Deployment with Tpot. model serving."
 category: ai
 tags: [tpot-deployment, ai, russian]
 models: [sonnet, opus]

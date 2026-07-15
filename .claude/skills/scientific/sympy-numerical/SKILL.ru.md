@@ -1,6 +1,6 @@
 ---
 name: sympy-numerical
-description: Numerical with SymPy. numerical methods.
+description: "Numerical with SymPy. numerical methods."
 category: scientific
 tags: [sympy-numerical, scientific, russian]
 models: [sonnet, opus]

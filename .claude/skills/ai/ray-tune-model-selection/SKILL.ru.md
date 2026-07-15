@@ -1,6 +1,6 @@
 ---
 name: ray-tune-model-selection
-description: Model Selection with Ray Tune. choosing models.
+description: "Model Selection with Ray Tune. choosing models."
 category: ai
 tags: [ray-tune-model-selection, ai, russian]
 models: [sonnet, opus]

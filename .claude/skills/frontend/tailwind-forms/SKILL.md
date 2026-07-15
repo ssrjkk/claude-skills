@@ -1,6 +1,6 @@
 ---
 name: tailwind-forms
-description: Forms with Tailwind CSS. form styling.
+description: "Forms with Tailwind CSS. form styling."
 category: frontend
 tags: [tailwind, forms, frontend, css]
 models: [gpt-4, claude-3]

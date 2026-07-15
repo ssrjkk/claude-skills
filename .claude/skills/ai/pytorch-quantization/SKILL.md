@@ -1,6 +1,6 @@
 ---
 name: pytorch-quantization
-description: Quantization with Pytorch. model quantization.
+description: "Quantization with Pytorch. model quantization."
 category: ai
 tags: [pytorch, quantization, ai, deep-learning]
 models: [gpt-4, claude-3]

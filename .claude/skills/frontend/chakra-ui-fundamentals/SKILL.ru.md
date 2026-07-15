@@ -1,6 +1,6 @@
 ---
 name: chakra-ui-fundamentals
-description: Fundamentals for Chakra-Ui: core concepts
+description: "Fundamentals for Chakra-Ui: core concepts"
 category: frontend
 tags: [chakra-ui-fundamentals, frontend, russian]
 models: [sonnet, opus]

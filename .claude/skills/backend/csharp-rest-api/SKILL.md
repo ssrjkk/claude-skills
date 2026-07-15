@@ -1,6 +1,6 @@
 ---
 name: csharp-rest-api
-description: REST API with Csharp. building REST APIs.
+description: "REST API with Csharp. building REST APIs."
 category: backend
 tags: [csharp, rest-api, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: django-websocket
-description: WebSocket with Django. real-time.
+description: "WebSocket with Django. real-time."
 category: backend
 tags: [django, websocket, backend, backend]
 models: [gpt-4, claude-3]

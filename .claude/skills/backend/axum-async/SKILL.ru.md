@@ -1,6 +1,6 @@
 ---
 name: axum-async
-description: Async with Axum. async handlers.
+description: "Async with Axum. async handlers."
 category: backend
 tags: [axum-async, backend, russian]
 models: [sonnet, opus]

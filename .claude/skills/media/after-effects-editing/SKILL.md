@@ -1,6 +1,6 @@
 ---
 name: after-effects-editing
-description: Editing with After Effects. editing.
+description: "Editing with After Effects. editing."
 category: media
 tags: [after-effects, editing, media, media-production]
 models: [gpt-4, claude-3]

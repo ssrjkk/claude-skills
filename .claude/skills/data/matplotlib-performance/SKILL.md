@@ -1,6 +1,6 @@
 ---
 name: matplotlib-performance
-description: Performance with Matplotlib. optimization.
+description: "Performance with Matplotlib. optimization."
 category: data
 tags: [matplotlib, performance, data, data-science]
 models: [gpt-4, claude-3]

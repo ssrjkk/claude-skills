@@ -1,6 +1,6 @@
 ---
 name: nuke-effects
-description: Effects with Nuke. VFX.
+description: "Effects with Nuke. VFX."
 category: media
 tags: [nuke-effects, media, russian]
 models: [sonnet, opus]

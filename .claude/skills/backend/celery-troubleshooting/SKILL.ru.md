@@ -1,6 +1,6 @@
 ---
 name: celery-troubleshooting
-description: Troubleshooting for Celery: troubleshooting common issues
+description: "Troubleshooting for Celery: troubleshooting common issues"
 category: backend
 tags: [celery-troubleshooting, backend, russian]
 models: [sonnet, opus]

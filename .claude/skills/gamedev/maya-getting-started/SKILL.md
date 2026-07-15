@@ -1,6 +1,6 @@
 ---
 name: maya-getting-started
-description: Getting Started for Maya: initial setup and first steps
+description: "Getting Started for Maya: initial setup and first steps"
 category: gamedev
 tags: [maya, getting-started, gamedev]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mistral-monitoring
-description: Monitoring for Mistral: monitoring and observability
+description: "Monitoring for Mistral: monitoring and observability"
 category: ai
 tags: [mistral, monitoring, ai]
 models: [sonnet, opus]

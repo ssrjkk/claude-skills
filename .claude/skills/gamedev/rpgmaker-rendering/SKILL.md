@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-rendering
-description: Rendering with RPG Maker. graphics.
+description: "Rendering with RPG Maker. graphics."
 category: gamedev
 tags: [rpgmaker, rendering, gamedev, game-engine]
 models: [gpt-4, claude-3]

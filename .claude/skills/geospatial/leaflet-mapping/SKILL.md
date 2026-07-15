@@ -1,6 +1,6 @@
 ---
 name: leaflet-mapping
-description: Mapping with Leaflet. mapping.
+description: "Mapping with Leaflet. mapping."
 category: geospatial
 tags: [leaflet, mapping, geospatial, gis]
 models: [gpt-4, claude-3]

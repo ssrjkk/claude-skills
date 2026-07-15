@@ -1,6 +1,6 @@
 ---
 name: sqlalchemy-integration
-description: Integration for Sqlalchemy: integration with other tools
+description: "Integration for Sqlalchemy: integration with other tools"
 category: backend
 tags: [sqlalchemy-integration, backend, russian]
 models: [sonnet, opus]

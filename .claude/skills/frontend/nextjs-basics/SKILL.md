@@ -1,6 +1,6 @@
 ---
 name: nextjs-basics
-description: Basics for Nextjs: fundamentals and core concepts
+description: "Basics for Nextjs: fundamentals and core concepts"
 category: frontend
 tags: [nextjs, basics, frontend]
 models: [sonnet, opus]

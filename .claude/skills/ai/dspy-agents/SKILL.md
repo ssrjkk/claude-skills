@@ -1,6 +1,6 @@
 ---
 name: dspy-agents
-description: Agents with Dspy. building agents.
+description: "Agents with Dspy. building agents."
 category: ai
 tags: [dspy, agents, ai, llm]
 models: [gpt-4, claude-3]

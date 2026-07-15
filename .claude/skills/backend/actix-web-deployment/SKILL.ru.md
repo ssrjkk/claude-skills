@@ -1,6 +1,6 @@
 ---
 name: actix-web-deployment
-description: Deployment with Actix Web. build.
+description: "Deployment with Actix Web. build."
 category: backend
 tags: [actix-web-deployment, backend, russian]
 models: [sonnet, opus]

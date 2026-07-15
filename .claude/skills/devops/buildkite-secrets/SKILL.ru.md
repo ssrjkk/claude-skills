@@ -1,6 +1,6 @@
 ---
 name: buildkite-secrets
-description: Secrets with Buildkite. secret management.
+description: "Secrets with Buildkite. secret management."
 category: devops
 tags: [buildkite-secrets, devops, russian]
 models: [sonnet, opus]

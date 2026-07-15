@@ -1,6 +1,6 @@
 ---
 name: eleventy-routing
-description: Routing with Eleventy. file-based routing.
+description: "Routing with Eleventy. file-based routing."
 category: frontend
 tags: [eleventy, routing, frontend, meta-framework]
 models: [gpt-4, claude-3]

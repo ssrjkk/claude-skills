@@ -1,6 +1,6 @@
 ---
 name: falco-security
-description: Security for Falco: security best practices
+description: "Security for Falco: security best practices"
 category: security
 tags: [falco-security, security, russian]
 models: [sonnet, opus]

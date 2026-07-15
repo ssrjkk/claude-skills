@@ -1,6 +1,6 @@
 ---
 name: nat-security
-description: Security with NAT. hardening.
+description: "Security with NAT. hardening."
 category: networking
 tags: [nat, security, networking, networking]
 models: [gpt-4, claude-3]

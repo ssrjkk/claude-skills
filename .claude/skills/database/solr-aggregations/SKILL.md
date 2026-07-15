@@ -1,6 +1,6 @@
 ---
 name: solr-aggregations
-description: Aggregations with Solr. bucket aggs.
+description: "Aggregations with Solr. bucket aggs."
 category: database
 tags: [solr, aggregations, database, search-engine]
 models: [gpt-4, claude-3]

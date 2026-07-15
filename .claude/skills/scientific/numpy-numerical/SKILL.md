@@ -1,6 +1,6 @@
 ---
 name: numpy-numerical
-description: Numerical with NumPy. numerical methods.
+description: "Numerical with NumPy. numerical methods."
 category: scientific
 tags: [numpy, numerical, scientific, scientific-computing]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: vitepress-data-fetching
-description: Data Fetching with VitePress. data loading.
+description: "Data Fetching with VitePress. data loading."
 category: frontend
 tags: [vitepress-data-fetching, frontend, russian]
 models: [sonnet, opus]

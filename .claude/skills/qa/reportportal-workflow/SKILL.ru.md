@@ -1,6 +1,6 @@
 ---
 name: reportportal-workflow
-description: Workflow for Reportportal: workflow optimization
+description: "Workflow for Reportportal: workflow optimization"
 category: qa
 tags: [reportportal-workflow, qa, russian]
 models: [sonnet, opus]

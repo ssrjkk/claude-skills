@@ -1,6 +1,6 @@
 ---
 name: zksync-smart-contracts
-description: Smart Contracts with zkSync. contracts.
+description: "Smart Contracts with zkSync. contracts."
 category: blockchain
 tags: [zksync-smart-contracts, blockchain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: streamlit-setup
-description: Setup with Streamlit. installation.
+description: "Setup with Streamlit. installation."
 category: data
 tags: [streamlit-setup, data, russian]
 models: [sonnet, opus]

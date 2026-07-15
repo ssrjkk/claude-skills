@@ -1,6 +1,6 @@
 ---
 name: recoil-optimization
-description: Optimization with Recoil. performance.
+description: "Optimization with Recoil. performance."
 category: frontend
 tags: [recoil, optimization, frontend, state-management]
 models: [gpt-4, claude-3]

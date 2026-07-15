@@ -1,6 +1,6 @@
 ---
 name: elastic-path-setup
-description: Setup with Elastic Path. setup.
+description: "Setup with Elastic Path. setup."
 category: ecommerce
 tags: [elastic-path-setup, ecommerce, russian]
 models: [sonnet, opus]

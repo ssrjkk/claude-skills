@@ -1,6 +1,6 @@
 ---
 name: crowdstrike-best-practices
-description: Best Practices for Crowdstrike: best practices and patterns
+description: "Best Practices for Crowdstrike: best practices and patterns"
 category: security
 tags: [crowdstrike, best-practices, security]
 models: [sonnet, opus]

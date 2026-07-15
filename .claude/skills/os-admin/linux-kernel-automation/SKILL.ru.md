@@ -1,6 +1,6 @@
 ---
 name: linux-kernel-automation
-description: Automation with Linux Kernel. scripting.
+description: "Automation with Linux Kernel. scripting."
 category: os-admin
 tags: [linux-kernel-automation, os-admin, russian]
 models: [sonnet, opus]

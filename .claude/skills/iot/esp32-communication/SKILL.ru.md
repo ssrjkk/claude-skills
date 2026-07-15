@@ -1,6 +1,6 @@
 ---
 name: esp32-communication
-description: Comm with ESP32. I2C.
+description: "Comm with ESP32. I2C."
 category: iot
 tags: [esp32-communication, iot, russian]
 models: [sonnet, opus]

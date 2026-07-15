@@ -1,6 +1,6 @@
 ---
 name: nestjs-security
-description: Security for Nestjs: security best practices
+description: "Security for Nestjs: security best practices"
 category: backend
 tags: [nestjs-security, backend, russian]
 models: [sonnet, opus]

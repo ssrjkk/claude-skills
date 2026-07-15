@@ -1,6 +1,6 @@
 ---
 name: amazon-neptune-modeling
-description: Modeling with Amazon Neptune. graph modeling.
+description: "Modeling with Amazon Neptune. graph modeling."
 category: database
 tags: [amazon-neptune, modeling, database, graph-database]
 models: [gpt-4, claude-3]

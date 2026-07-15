@@ -1,6 +1,6 @@
 ---
 name: chef-cicd
-description: CI/CD with Chef. pipeline integration.
+description: "CI/CD with Chef. pipeline integration."
 category: devops
 tags: [chef-cicd, devops, russian]
 models: [sonnet, opus]

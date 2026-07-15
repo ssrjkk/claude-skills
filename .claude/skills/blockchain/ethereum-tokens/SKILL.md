@@ -1,6 +1,6 @@
 ---
 name: ethereum-tokens
-description: Tokens with Ethereum. token standards.
+description: "Tokens with Ethereum. token standards."
 category: blockchain
 tags: [ethereum, tokens, blockchain, blockchain]
 models: [gpt-4, claude-3]

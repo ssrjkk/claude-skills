@@ -1,6 +1,6 @@
 ---
 name: vue-testing
-description: Testing with Vue. component testing.
+description: "Testing with Vue. component testing."
 category: frontend
 tags: [vue-testing, frontend, russian]
 models: [sonnet, opus]

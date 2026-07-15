@@ -1,6 +1,6 @@
 ---
 name: dash-delivery
-description: Delivery with MPEG-DASH. delivery.
+description: "Delivery with MPEG-DASH. delivery."
 category: media
 tags: [dash-delivery, media, russian]
 models: [sonnet, opus]

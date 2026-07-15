@@ -1,6 +1,6 @@
 ---
 name: loopback-websocket
-description: WebSocket with LoopBack. Socket.io.
+description: "WebSocket with LoopBack. Socket.io."
 category: backend
 tags: [loopback-websocket, backend, russian]
 models: [sonnet, opus]

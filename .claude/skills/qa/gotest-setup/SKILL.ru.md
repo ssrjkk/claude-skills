@@ -1,6 +1,6 @@
 ---
 name: gotest-setup
-description: Setup with Go Test. installation.
+description: "Setup with Go Test. installation."
 category: qa
 tags: [gotest-setup, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: octave-statistics
-description: Statistics with GNU Octave. statistical analysis.
+description: "Statistics with GNU Octave. statistical analysis."
 category: scientific
 tags: [octave-statistics, scientific, russian]
 models: [sonnet, opus]

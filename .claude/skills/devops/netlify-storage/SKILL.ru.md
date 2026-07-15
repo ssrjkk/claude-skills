@@ -1,6 +1,6 @@
 ---
 name: netlify-storage
-description: Storage with Netlify. object storage.
+description: "Storage with Netlify. object storage."
 category: devops
 tags: [netlify-storage, devops, russian]
 models: [sonnet, opus]

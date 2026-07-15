@@ -1,6 +1,6 @@
 ---
 name: compositing-audio
-description: Audio with Compositing. audio editing.
+description: "Audio with Compositing. audio editing."
 category: media
 tags: [compositing-audio, media, russian]
 models: [sonnet, opus]

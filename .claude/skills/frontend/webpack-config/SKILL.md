@@ -1,6 +1,6 @@
 ---
 name: webpack-config
-description: Config with Webpack. configuration.
+description: "Config with Webpack. configuration."
 category: frontend
 tags: [webpack, config, frontend, build-tool]
 models: [gpt-4, claude-3]

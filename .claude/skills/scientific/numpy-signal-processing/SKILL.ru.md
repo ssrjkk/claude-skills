@@ -1,6 +1,6 @@
 ---
 name: numpy-signal-processing
-description: Signal Processing with NumPy. FFT.
+description: "Signal Processing with NumPy. FFT."
 category: scientific
 tags: [numpy-signal-processing, scientific, russian]
 models: [sonnet, opus]

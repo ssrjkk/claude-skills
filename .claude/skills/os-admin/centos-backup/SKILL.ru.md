@@ -1,6 +1,6 @@
 ---
 name: centos-backup
-description: Backup with CentOS. backup.
+description: "Backup with CentOS. backup."
 category: os-admin
 tags: [centos-backup, os-admin, russian]
 models: [sonnet, opus]

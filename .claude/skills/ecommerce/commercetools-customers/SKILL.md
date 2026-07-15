@@ -1,6 +1,6 @@
 ---
 name: commercetools-customers
-description: Customers with commercetools. customer API.
+description: "Customers with commercetools. customer API."
 category: ecommerce
 tags: [commercetools, customers, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

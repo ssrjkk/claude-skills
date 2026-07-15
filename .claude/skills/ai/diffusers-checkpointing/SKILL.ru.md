@@ -1,6 +1,6 @@
 ---
 name: diffusers-checkpointing
-description: Checkpointing with Diffusers. model saving.
+description: "Checkpointing with Diffusers. model saving."
 category: ai
 tags: [diffusers-checkpointing, ai, russian]
 models: [sonnet, opus]

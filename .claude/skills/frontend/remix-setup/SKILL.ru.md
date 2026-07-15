@@ -1,6 +1,6 @@
 ---
 name: remix-setup
-description: Setup for Remix: installation and configuration
+description: "Setup for Remix: installation and configuration"
 category: frontend
 tags: [remix-setup, frontend, russian]
 models: [sonnet, opus]

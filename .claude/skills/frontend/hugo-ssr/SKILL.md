@@ -1,6 +1,6 @@
 ---
 name: hugo-ssr
-description: SSR with Hugo. server rendering.
+description: "SSR with Hugo. server rendering."
 category: frontend
 tags: [hugo, ssr, frontend, meta-framework]
 models: [gpt-4, claude-3]

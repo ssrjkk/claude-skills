@@ -1,6 +1,6 @@
 ---
 name: bootstrap-forms
-description: Forms with Bootstrap. form styling.
+description: "Forms with Bootstrap. form styling."
 category: frontend
 tags: [bootstrap-forms, frontend, russian]
 models: [sonnet, opus]

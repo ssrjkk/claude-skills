@@ -1,6 +1,6 @@
 ---
 name: yodlee-data
-description: Data with Yodlee. financial data.
+description: "Data with Yodlee. financial data."
 category: finance
 tags: [yodlee-data, finance, russian]
 models: [sonnet, opus]

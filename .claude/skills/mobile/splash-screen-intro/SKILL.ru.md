@@ -1,6 +1,6 @@
 ---
 name: splash-screen-intro
-description: Intro for Splash-Screen: introduction
+description: "Intro for Splash-Screen: introduction"
 category: mobile
 tags: [splash-screen-intro, mobile, russian]
 models: [sonnet, opus]

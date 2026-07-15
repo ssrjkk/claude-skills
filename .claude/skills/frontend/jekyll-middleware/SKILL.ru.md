@@ -1,6 +1,6 @@
 ---
 name: jekyll-middleware
-description: Middleware with Jekyll. request middleware.
+description: "Middleware with Jekyll. request middleware."
 category: frontend
 tags: [jekyll-middleware, frontend, russian]
 models: [sonnet, opus]

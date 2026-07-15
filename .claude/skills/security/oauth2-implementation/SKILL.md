@@ -1,6 +1,6 @@
 ---
 name: oauth2-implementation
-description: Implementation with OAuth 2.0. implementation.
+description: "Implementation with OAuth 2.0. implementation."
 category: security
 tags: [oauth2, implementation, security, security]
 models: [gpt-4, claude-3]

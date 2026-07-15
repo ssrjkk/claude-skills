@@ -1,6 +1,6 @@
 ---
 name: histoire-intro
-description: Intro for Histoire: introduction
+description: "Intro for Histoire: introduction"
 category: frontend
 tags: [histoire, intro, frontend]
 models: [sonnet, opus]

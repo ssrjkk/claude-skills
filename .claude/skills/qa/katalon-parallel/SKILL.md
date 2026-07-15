@@ -1,6 +1,6 @@
 ---
 name: katalon-parallel
-description: Parallel with Katalon. parallel execution.
+description: "Parallel with Katalon. parallel execution."
 category: qa
 tags: [katalon, parallel, qa, e2e]
 models: [gpt-4, claude-3]

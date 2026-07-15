@@ -1,6 +1,6 @@
 ---
 name: sqlserver-schema
-description: Schema Design with SQL Server. schema.
+description: "Schema Design with SQL Server. schema."
 category: database
 tags: [sqlserver, schema, database, sql]
 models: [gpt-4, claude-3]

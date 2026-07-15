@@ -1,6 +1,6 @@
 ---
 name: arbitrum-defi
-description: DeFi with Arbitrum. DeFi.
+description: "DeFi with Arbitrum. DeFi."
 category: blockchain
 tags: [arbitrum, defi, blockchain, blockchain]
 models: [gpt-4, claude-3]

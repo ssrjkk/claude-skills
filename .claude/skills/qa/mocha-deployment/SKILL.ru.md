@@ -1,6 +1,6 @@
 ---
 name: mocha-deployment
-description: Deployment for Mocha: deployment and release
+description: "Deployment for Mocha: deployment and release"
 category: qa
 tags: [mocha-deployment, qa, russian]
 models: [sonnet, opus]

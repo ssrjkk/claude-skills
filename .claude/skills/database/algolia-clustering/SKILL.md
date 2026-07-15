@@ -1,6 +1,6 @@
 ---
 name: algolia-clustering
-description: Clustering with Algolia. cluster setup.
+description: "Clustering with Algolia. cluster setup."
 category: database
 tags: [algolia, clustering, database, search-engine]
 models: [gpt-4, claude-3]

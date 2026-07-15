@@ -1,6 +1,6 @@
 ---
 name: ollama
-description: Runs large language models locally with Ollama, including model management, custom Modelfiles, and API integration. Use for private, offline LLM inference.
+description: "Runs large language models locally with Ollama, including model management, custom Modelfiles, and API integration. Use for private, offline LLM inference."
 category: ai
 tags: [ollama, llm, local, offline, llama]
 models: [sonnet, opus]

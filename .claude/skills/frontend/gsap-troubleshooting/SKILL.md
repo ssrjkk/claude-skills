@@ -1,6 +1,6 @@
 ---
 name: gsap-troubleshooting
-description: Troubleshooting for Gsap: troubleshooting common issues
+description: "Troubleshooting for Gsap: troubleshooting common issues"
 category: frontend
 tags: [gsap, troubleshooting, frontend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cypress-cloud-configuration
-description: Configuration for Cypress-Cloud: configuration and setup
+description: "Configuration for Cypress-Cloud: configuration and setup"
 category: qa
 tags: [cypress-cloud-configuration, qa, russian]
 models: [sonnet, opus]

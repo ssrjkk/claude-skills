@@ -1,6 +1,6 @@
 ---
 name: stm32-actuators
-description: Actuators with STM32. motors.
+description: "Actuators with STM32. motors."
 category: iot
 tags: [stm32, actuators, iot, iot]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: kotlin-config
-description: Configuration with Kotlin. config management.
+description: "Configuration with Kotlin. config management."
 category: backend
 tags: [kotlin, config, backend, backend]
 models: [gpt-4, claude-3]

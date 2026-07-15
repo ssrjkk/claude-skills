@@ -1,6 +1,6 @@
 ---
 name: dspy-evaluation
-description: Evaluation with Dspy. LLM evaluation.
+description: "Evaluation with Dspy. LLM evaluation."
 category: ai
 tags: [dspy-evaluation, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mysql-querying
-description: Querying with MySQL. SQL queries.
+description: "Querying with MySQL. SQL queries."
 category: database
 tags: [mysql-querying, database, russian]
 models: [sonnet, opus]

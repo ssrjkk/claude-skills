@@ -1,6 +1,6 @@
 ---
 name: lenis-quickstart
-description: Quickstart for Lenis: quick start guide
+description: "Quickstart for Lenis: quick start guide"
 category: design
 tags: [lenis, quickstart, design]
 models: [sonnet, opus]

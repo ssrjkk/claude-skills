@@ -1,6 +1,6 @@
 ---
 name: python-311
-description: Python 3.11-3.13 new features
+description: "Python 3.11-3.13 new features"
 category: backend
 tags: [python, 3.11, 3.12, 3.13, features, typing]
 models: [sonnet, opus]

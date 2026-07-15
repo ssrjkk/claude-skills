@@ -1,6 +1,6 @@
 ---
 name: opencv-image-filtering
-description: Image Filtering with Opencv. image filters.
+description: "Image Filtering with Opencv. image filters."
 category: ai
 tags: [opencv, image-filtering, ai, computer-vision]
 models: [gpt-4, claude-3]

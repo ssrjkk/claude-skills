@@ -1,6 +1,6 @@
 ---
 name: postgresql-indexing
-description: Indexing with PostgreSQL. indexes.
+description: "Indexing with PostgreSQL. indexes."
 category: database
 tags: [postgresql, indexing, database, sql]
 models: [gpt-4, claude-3]

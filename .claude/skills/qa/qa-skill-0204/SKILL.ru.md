@@ -1,6 +1,6 @@
 ---
 name: qa-skill-0204
-description: Specialized skill #0204 for qa development
+description: "Specialized skill #0204 for qa development"
 category: qa
 tags: [skill-0204, qa, russian]
 models: [sonnet, opus]

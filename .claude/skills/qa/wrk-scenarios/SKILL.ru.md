@@ -1,6 +1,6 @@
 ---
 name: wrk-scenarios
-description: Scenarios with wrk. test scenarios.
+description: "Scenarios with wrk. test scenarios."
 category: qa
 tags: [wrk-scenarios, qa, russian]
 models: [sonnet, opus]

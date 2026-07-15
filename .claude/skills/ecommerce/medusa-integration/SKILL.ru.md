@@ -1,6 +1,6 @@
 ---
 name: medusa-integration
-description: Integration with Medusa. frontend integration.
+description: "Integration with Medusa. frontend integration."
 category: ecommerce
 tags: [medusa-integration, ecommerce, russian]
 models: [sonnet, opus]

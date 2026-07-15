@@ -1,6 +1,6 @@
 ---
 name: saml-api
-description: API for Saml: API development and integration
+description: "API for Saml: API development and integration"
 category: security
 tags: [saml-api, security, russian]
 models: [sonnet, opus]

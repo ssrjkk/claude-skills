@@ -1,6 +1,6 @@
 ---
 name: imaging-integration
-description: Integration with PACS. system integration.
+description: "Integration with PACS. system integration."
 category: healthcare
 tags: [imaging, integration, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

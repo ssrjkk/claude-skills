@@ -1,6 +1,6 @@
 ---
 name: fastly-compute
-description: Compute with Fastly. VM/compute.
+description: "Compute with Fastly. VM/compute."
 category: devops
 tags: [fastly-compute, devops, russian]
 models: [sonnet, opus]

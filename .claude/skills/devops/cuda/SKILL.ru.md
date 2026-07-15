@@ -1,6 +1,6 @@
 ---
 name: cuda
-description: Development with Cuda: tools and best practices
+description: "Development with Cuda: tools and best practices"
 category: devops
 tags: [cuda, devops, russian]
 models: [sonnet, opus]

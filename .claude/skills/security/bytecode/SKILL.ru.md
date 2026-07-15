@@ -1,6 +1,6 @@
 ---
 name: bytecode
-description: Development with Bytecode: tools and best practices
+description: "Development with Bytecode: tools and best practices"
 category: security
 tags: [bytecode, security, russian]
 models: [sonnet, opus]

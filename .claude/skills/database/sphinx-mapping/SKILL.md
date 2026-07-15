@@ -1,6 +1,6 @@
 ---
 name: sphinx-mapping
-description: Mapping with Sphinx. field mapping.
+description: "Mapping with Sphinx. field mapping."
 category: database
 tags: [sphinx, mapping, database, search-engine]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: envoy-workflow
-description: Workflow for Envoy: workflow optimization
+description: "Workflow for Envoy: workflow optimization"
 category: devops
 tags: [envoy-workflow, devops, russian]
 models: [sonnet, opus]

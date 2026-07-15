@@ -1,6 +1,6 @@
 ---
 name: snowflake-optimization
-description: Optimization for Snowflake: performance tuning and optimization
+description: "Optimization for Snowflake: performance tuning and optimization"
 category: data
 tags: [snowflake, optimization, data]
 models: [sonnet, opus]

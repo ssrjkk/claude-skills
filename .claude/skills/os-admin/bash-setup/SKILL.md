@@ -1,6 +1,6 @@
 ---
 name: bash-setup
-description: Setup with Bash Scripting. installation.
+description: "Setup with Bash Scripting. installation."
 category: os-admin
 tags: [bash, setup, os-admin, linux]
 models: [gpt-4, claude-3]

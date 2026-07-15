@@ -1,6 +1,6 @@
 ---
 name: apache-beam-monitoring
-description: Monitoring with Apache Beam. monitoring.
+description: "Monitoring with Apache Beam. monitoring."
 category: data
 tags: [apache-beam, monitoring, data, data-engineering]
 models: [gpt-4, claude-3]

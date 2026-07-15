@@ -1,6 +1,6 @@
 ---
 name: kornia-feature-extraction
-description: Feature Extraction with Kornia. extracting features.
+description: "Feature Extraction with Kornia. extracting features."
 category: ai
 tags: [kornia, feature-extraction, ai, computer-vision]
 models: [gpt-4, claude-3]

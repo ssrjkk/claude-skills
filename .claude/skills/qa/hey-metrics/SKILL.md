@@ -1,6 +1,6 @@
 ---
 name: hey-metrics
-description: Metrics with hey. performance metrics.
+description: "Metrics with hey. performance metrics."
 category: qa
 tags: [hey, metrics, qa, performance-testing]
 models: [gpt-4, claude-3]

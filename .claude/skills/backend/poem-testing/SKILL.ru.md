@@ -1,6 +1,6 @@
 ---
 name: poem-testing
-description: Testing with Poem. unit tests.
+description: "Testing with Poem. unit tests."
 category: backend
 tags: [poem-testing, backend, russian]
 models: [sonnet, opus]

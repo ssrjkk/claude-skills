@@ -1,6 +1,6 @@
 ---
 name: plc-basics
-description: Basics with PLC Programming. fundamentals.
+description: "Basics with PLC Programming. fundamentals."
 category: energy
 tags: [plc-basics, energy, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: milligram-typography
-description: Typography with Milligram. text styling.
+description: "Typography with Milligram. text styling."
 category: frontend
 tags: [milligram, typography, frontend, css]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: google-maps-setup
-description: Setup with Google Maps API. setup.
+description: "Setup with Google Maps API. setup."
 category: geospatial
 tags: [google-maps, setup, geospatial, gis]
 models: [gpt-4, claude-3]

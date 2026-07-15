@@ -1,6 +1,6 @@
 ---
 name: hipaa-monitoring
-description: Monitoring with HIPAA. security monitoring.
+description: "Monitoring with HIPAA. security monitoring."
 category: security
 tags: [hipaa, monitoring, security, security]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: tidb-guides
-description: Guides for Tidb: how-to guides
+description: "Guides for Tidb: how-to guides"
 category: database
 tags: [tidb-guides, database, russian]
 models: [sonnet, opus]

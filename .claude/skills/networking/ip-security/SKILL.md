@@ -1,6 +1,6 @@
 ---
 name: ip-security
-description: Security with ip/ifconfig. security testing.
+description: "Security with ip/ifconfig. security testing."
 category: networking
 tags: [ip, security, networking, networking-tool]
 models: [gpt-4, claude-3]

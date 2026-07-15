@@ -1,6 +1,6 @@
 ---
 name: burpsuite-setup
-description: Setup with Burp Suite. installation.
+description: "Setup with Burp Suite. installation."
 category: security
 tags: [burpsuite, setup, security, security-tool]
 models: [gpt-4, claude-3]

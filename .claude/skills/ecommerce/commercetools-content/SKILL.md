@@ -1,6 +1,6 @@
 ---
 name: commercetools-content
-description: Content with commercetools. content management.
+description: "Content with commercetools. content management."
 category: ecommerce
 tags: [commercetools, content, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

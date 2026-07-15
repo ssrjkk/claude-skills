@@ -1,6 +1,6 @@
 ---
 name: vendure-customers
-description: Customers with Vendure. customer API.
+description: "Customers with Vendure. customer API."
 category: ecommerce
 tags: [vendure-customers, ecommerce, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: grape-middleware
-description: Middleware with Grape. rack middleware.
+description: "Middleware with Grape. rack middleware."
 category: backend
 tags: [grape, middleware, backend, backend]
 models: [gpt-4, claude-3]

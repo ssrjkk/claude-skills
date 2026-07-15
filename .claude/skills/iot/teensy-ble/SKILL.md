@@ -1,6 +1,6 @@
 ---
 name: teensy-ble
-description: BLE with Teensy. Bluetooth.
+description: "BLE with Teensy. Bluetooth."
 category: iot
 tags: [teensy, ble, iot, iot]
 models: [gpt-4, claude-3]

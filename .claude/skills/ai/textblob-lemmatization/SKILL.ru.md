@@ -1,6 +1,6 @@
 ---
 name: textblob-lemmatization
-description: Lemmatization with Textblob. word lemmatization.
+description: "Lemmatization with Textblob. word lemmatization."
 category: ai
 tags: [textblob-lemmatization, ai, russian]
 models: [sonnet, opus]

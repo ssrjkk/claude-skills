@@ -1,6 +1,6 @@
 ---
 name: memcached-setup
-description: Setup with Memcached. installation.
+description: "Setup with Memcached. installation."
 category: database
 tags: [memcached, setup, database, caching]
 models: [gpt-4, claude-3]

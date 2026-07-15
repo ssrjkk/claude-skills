@@ -1,6 +1,6 @@
 ---
 name: yii-testing
-description: Testing with Yii. PHPUnit.
+description: "Testing with Yii. PHPUnit."
 category: backend
 tags: [yii-testing, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: observer-implementation
-description: Implementation with Observer. practical implementation.
+description: "Implementation with Observer. practical implementation."
 category: backend
 tags: [observer, implementation, backend, architecture]
 models: [gpt-4, claude-3]

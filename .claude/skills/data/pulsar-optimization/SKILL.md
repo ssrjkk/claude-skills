@@ -1,6 +1,6 @@
 ---
 name: pulsar-optimization
-description: Optimization with Pulsar. performance.
+description: "Optimization with Pulsar. performance."
 category: data
 tags: [pulsar, optimization, data, data-engineering]
 models: [gpt-4, claude-3]

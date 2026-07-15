@@ -1,6 +1,6 @@
 ---
 name: esbuild-plugins
-description: Plugins with esbuild. plugins.
+description: "Plugins with esbuild. plugins."
 category: frontend
 tags: [esbuild, plugins, frontend, build-tool]
 models: [gpt-4, claude-3]

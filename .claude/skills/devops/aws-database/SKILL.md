@@ -1,6 +1,6 @@
 ---
 name: aws-database
-description: Database with AWS. managed databases.
+description: "Database with AWS. managed databases."
 category: devops
 tags: [aws, database, devops, cloud]
 models: [gpt-4, claude-3]

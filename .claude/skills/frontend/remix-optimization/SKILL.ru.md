@@ -1,6 +1,6 @@
 ---
 name: remix-optimization
-description: Optimization for Remix: performance tuning and optimization
+description: "Optimization for Remix: performance tuning and optimization"
 category: frontend
 tags: [remix-optimization, frontend, russian]
 models: [sonnet, opus]

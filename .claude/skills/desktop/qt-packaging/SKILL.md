@@ -1,6 +1,6 @@
 ---
 name: qt-packaging
-description: Packaging with Qt. app packaging.
+description: "Packaging with Qt. app packaging."
 category: desktop
 tags: [qt, packaging, desktop, desktop]
 models: [gpt-4, claude-3]

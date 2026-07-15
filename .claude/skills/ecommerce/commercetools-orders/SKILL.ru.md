@@ -1,6 +1,6 @@
 ---
 name: commercetools-orders
-description: Orders with commercetools. order management.
+description: "Orders with commercetools. order management."
 category: ecommerce
 tags: [commercetools-orders, ecommerce, russian]
 models: [sonnet, opus]

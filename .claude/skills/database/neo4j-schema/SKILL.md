@@ -1,6 +1,6 @@
 ---
 name: neo4j-schema
-description: Schema Design with Neo4j. schema design.
+description: "Schema Design with Neo4j. schema design."
 category: database
 tags: [neo4j, schema, database, nosql]
 models: [gpt-4, claude-3]

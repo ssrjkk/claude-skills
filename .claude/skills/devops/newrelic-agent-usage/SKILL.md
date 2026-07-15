@@ -1,6 +1,6 @@
 ---
 name: newrelic-agent-usage
-description: Usage for Newrelic-Agent: usage reference
+description: "Usage for Newrelic-Agent: usage reference"
 category: devops
 tags: [newrelic-agent, usage, devops]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: travis-ci-testing
-description: Testing with Travis CI. automated tests.
+description: "Testing with Travis CI. automated tests."
 category: devops
 tags: [travis-ci-testing, devops, russian]
 models: [sonnet, opus]

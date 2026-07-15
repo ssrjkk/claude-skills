@@ -1,6 +1,6 @@
 ---
 name: google-maps-geocoding
-description: Geocoding with Google Maps API. geocoding.
+description: "Geocoding with Google Maps API. geocoding."
 category: geospatial
 tags: [google-maps, geocoding, geospatial, gis]
 models: [gpt-4, claude-3]

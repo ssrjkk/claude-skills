@@ -1,6 +1,6 @@
 ---
 name: actix-basics
-description: Basics for Actix: fundamentals and core concepts
+description: "Basics for Actix: fundamentals and core concepts"
 category: backend
 tags: [actix, basics, backend]
 models: [sonnet, opus]

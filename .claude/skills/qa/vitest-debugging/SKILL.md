@@ -1,6 +1,6 @@
 ---
 name: vitest-debugging
-description: Debugging for Vitest: debugging and troubleshooting
+description: "Debugging for Vitest: debugging and troubleshooting"
 category: qa
 tags: [vitest, debugging, qa]
 models: [sonnet, opus]

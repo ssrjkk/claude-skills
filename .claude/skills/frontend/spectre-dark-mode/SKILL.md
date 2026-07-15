@@ -1,6 +1,6 @@
 ---
 name: spectre-dark-mode
-description: Dark Mode with Spectre.css. dark theme.
+description: "Dark Mode with Spectre.css. dark theme."
 category: frontend
 tags: [spectre, dark-mode, frontend, css]
 models: [gpt-4, claude-3]

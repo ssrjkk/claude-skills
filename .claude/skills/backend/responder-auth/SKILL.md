@@ -1,6 +1,6 @@
 ---
 name: responder-auth
-description: Authentication with Responder. user auth.
+description: "Authentication with Responder. user auth."
 category: backend
 tags: [responder, auth, backend, backend]
 models: [gpt-4, claude-3]

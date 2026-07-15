@@ -1,6 +1,6 @@
 ---
 name: zbrush-integration
-description: Integration for Zbrush: integration with other tools
+description: "Integration for Zbrush: integration with other tools"
 category: gamedev
 tags: [zbrush, integration, gamedev]
 models: [sonnet, opus]

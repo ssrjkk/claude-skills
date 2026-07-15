@@ -1,6 +1,6 @@
 ---
 name: stripe-billing-setup
-description: Setup with Stripe Billing. account setup.
+description: "Setup with Stripe Billing. account setup."
 category: payments
 tags: [stripe-billing, setup, payments, billing]
 models: [gpt-4, claude-3]

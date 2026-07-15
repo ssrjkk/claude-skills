@@ -1,6 +1,6 @@
 ---
 name: unreal-debugging
-description: Debugging for Unreal: debugging and troubleshooting
+description: "Debugging for Unreal: debugging and troubleshooting"
 category: gamedev
 tags: [unreal, debugging, gamedev]
 models: [sonnet, opus]

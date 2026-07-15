@@ -1,6 +1,6 @@
 ---
 name: langchain-fine-tuning
-description: Fine-Tuning with Langchain. model customization.
+description: "Fine-Tuning with Langchain. model customization."
 category: ai
 tags: [langchain-fine-tuning, ai, russian]
 models: [sonnet, opus]

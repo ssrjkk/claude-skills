@@ -1,6 +1,6 @@
 ---
 name: remote-recruiting
-description: Recruiting with Remote.com. ATS.
+description: "Recruiting with Remote.com. ATS."
 category: hr
 tags: [remote, recruiting, hr, hr-tech]
 models: [gpt-4, claude-3]

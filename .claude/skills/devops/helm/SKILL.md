@@ -1,6 +1,6 @@
 ---
 name: helm
-description: Packages and deploys Kubernetes applications with Helm, including charts, templates, and releases.
+description: "Packages and deploys Kubernetes applications with Helm, including charts, templates, and releases."
 category: devops
 tags: [helm, kubernetes, charts, packaging, deployment]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: chakra-ui-forms
-description: Forms with Chakra UI. form styling.
+description: "Forms with Chakra UI. form styling."
 category: frontend
 tags: [chakra-ui-forms, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cypress-cloud-best-practices
-description: Best Practices for Cypress-Cloud: best practices and patterns
+description: "Best Practices for Cypress-Cloud: best practices and patterns"
 category: qa
 tags: [cypress-cloud-best-practices, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: iis-setup
-description: Setup with IIS. installation.
+description: "Setup with IIS. installation."
 category: os-admin
 tags: [iis-setup, os-admin, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vault-setup
-description: Setup for Vault: installation and configuration
+description: "Setup for Vault: installation and configuration"
 category: security
 tags: [vault-setup, security, russian]
 models: [sonnet, opus]

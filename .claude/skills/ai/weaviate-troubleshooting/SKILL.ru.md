@@ -1,6 +1,6 @@
 ---
 name: weaviate-troubleshooting
-description: Troubleshooting for Weaviate: troubleshooting common issues
+description: "Troubleshooting for Weaviate: troubleshooting common issues"
 category: ai
 tags: [weaviate-troubleshooting, ai, russian]
 models: [sonnet, opus]

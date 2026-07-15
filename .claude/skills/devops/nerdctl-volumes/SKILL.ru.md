@@ -1,6 +1,6 @@
 ---
 name: nerdctl-volumes
-description: Volumes with nerdctl. data volumes.
+description: "Volumes with nerdctl. data volumes."
 category: devops
 tags: [nerdctl-volumes, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: threejs-production
-description: Production for Threejs: production deployment
+description: "Production for Threejs: production deployment"
 category: frontend
 tags: [threejs, production, frontend]
 models: [sonnet, opus]

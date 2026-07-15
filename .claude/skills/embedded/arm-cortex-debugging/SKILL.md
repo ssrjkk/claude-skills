@@ -1,6 +1,6 @@
 ---
 name: arm-cortex-debugging
-description: Debugging with ARM Cortex-M. debug.
+description: "Debugging with ARM Cortex-M. debug."
 category: embedded
 tags: [arm-cortex, debugging, embedded, embedded-arch]
 models: [gpt-4, claude-3]

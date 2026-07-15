@@ -1,6 +1,6 @@
 ---
 name: material-tailwind-examples
-description: Examples for Material-Tailwind: practical examples
+description: "Examples for Material-Tailwind: practical examples"
 category: frontend
 tags: [material-tailwind, examples, frontend]
 models: [sonnet, opus]

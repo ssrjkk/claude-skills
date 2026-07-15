@@ -1,6 +1,6 @@
 ---
 name: snyk-compliance
-description: Compliance with Snyk. compliance.
+description: "Compliance with Snyk. compliance."
 category: security
 tags: [snyk-compliance, security, russian]
 models: [sonnet, opus]

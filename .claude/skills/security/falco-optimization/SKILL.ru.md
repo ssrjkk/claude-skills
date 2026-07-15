@@ -1,6 +1,6 @@
 ---
 name: falco-optimization
-description: Optimization for Falco: performance tuning and optimization
+description: "Optimization for Falco: performance tuning and optimization"
 category: security
 tags: [falco-optimization, security, russian]
 models: [sonnet, opus]

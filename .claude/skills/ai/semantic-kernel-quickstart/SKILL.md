@@ -1,6 +1,6 @@
 ---
 name: semantic-kernel-quickstart
-description: Quickstart for Semantic-Kernel: quick start guide
+description: "Quickstart for Semantic-Kernel: quick start guide"
 category: ai
 tags: [semantic-kernel, quickstart, ai]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: amazon-neptune-modeling
-description: Modeling with Amazon Neptune. graph modeling.
+description: "Modeling with Amazon Neptune. graph modeling."
 category: database
 tags: [amazon-neptune-modeling, database, russian]
 models: [sonnet, opus]

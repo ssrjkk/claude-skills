@@ -1,6 +1,6 @@
 ---
 name: thanos-setup
-description: Setup with Thanos. installation.
+description: "Setup with Thanos. installation."
 category: devops
 tags: [thanos, setup, devops, monitoring]
 models: [gpt-4, claude-3]

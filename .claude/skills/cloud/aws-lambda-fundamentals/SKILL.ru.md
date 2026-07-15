@@ -1,6 +1,6 @@
 ---
 name: aws-lambda-fundamentals
-description: Fundamentals for Aws-Lambda: core concepts
+description: "Fundamentals for Aws-Lambda: core concepts"
 category: cloud
 tags: [aws-lambda-fundamentals, cloud, russian]
 models: [sonnet, opus]

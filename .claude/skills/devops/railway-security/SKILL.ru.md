@@ -1,6 +1,6 @@
 ---
 name: railway-security
-description: Security with Railway. cloud security.
+description: "Security with Railway. cloud security."
 category: devops
 tags: [railway-security, devops, russian]
 models: [sonnet, opus]

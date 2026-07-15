@@ -1,6 +1,6 @@
 ---
 name: debian-packages
-description: Packages with Debian. package management.
+description: "Packages with Debian. package management."
 category: os-admin
 tags: [debian-packages, os-admin, russian]
 models: [sonnet, opus]

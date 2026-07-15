@@ -1,6 +1,6 @@
 ---
 name: tensorrt-examples
-description: Examples for Tensorrt: practical examples
+description: "Examples for Tensorrt: practical examples"
 category: ai
 tags: [tensorrt-examples, ai, russian]
 models: [sonnet, opus]

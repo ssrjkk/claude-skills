@@ -1,6 +1,6 @@
 ---
 name: consul-getting-started
-description: Getting Started for Consul: initial setup and first steps
+description: "Getting Started for Consul: initial setup and first steps"
 category: devops
 tags: [consul-getting-started, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: fasttext-translation
-description: Translation with Fasttext. machine translation.
+description: "Translation with Fasttext. machine translation."
 category: ai
 tags: [fasttext, translation, ai, nlp]
 models: [gpt-4, claude-3]

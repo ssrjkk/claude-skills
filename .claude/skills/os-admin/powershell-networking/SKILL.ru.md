@@ -1,6 +1,6 @@
 ---
 name: powershell-networking
-description: Networking with PowerShell. network.
+description: "Networking with PowerShell. network."
 category: os-admin
 tags: [powershell-networking, os-admin, russian]
 models: [sonnet, opus]

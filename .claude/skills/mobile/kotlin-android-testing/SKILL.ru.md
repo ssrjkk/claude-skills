@@ -1,6 +1,6 @@
 ---
 name: kotlin-android-testing
-description: Testing with Kotlin Android. testing.
+description: "Testing with Kotlin Android. testing."
 category: mobile
 tags: [kotlin-android-testing, mobile, russian]
 models: [sonnet, opus]

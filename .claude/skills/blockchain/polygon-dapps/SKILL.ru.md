@@ -1,6 +1,6 @@
 ---
 name: polygon-dapps
-description: DApps with Polygon. decentralized apps.
+description: "DApps with Polygon. decentralized apps."
 category: blockchain
 tags: [polygon-dapps, blockchain, russian]
 models: [sonnet, opus]

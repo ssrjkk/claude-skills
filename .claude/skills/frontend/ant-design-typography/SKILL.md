@@ -1,6 +1,6 @@
 ---
 name: ant-design-typography
-description: Typography with Ant Design. text styling.
+description: "Typography with Ant Design. text styling."
 category: frontend
 tags: [ant-design, typography, frontend, css]
 models: [gpt-4, claude-3]

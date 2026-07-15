@@ -1,6 +1,6 @@
 ---
 name: ossec-troubleshooting
-description: Troubleshooting for Ossec: troubleshooting common issues
+description: "Troubleshooting for Ossec: troubleshooting common issues"
 category: security
 tags: [ossec-troubleshooting, security, russian]
 models: [sonnet, opus]

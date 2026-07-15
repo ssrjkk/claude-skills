@@ -1,6 +1,6 @@
 ---
 name: xamarin-deployment
-description: Deployment with Xamarin. app store.
+description: "Deployment with Xamarin. app store."
 category: mobile
 tags: [xamarin, deployment, mobile, mobile]
 models: [gpt-4, claude-3]

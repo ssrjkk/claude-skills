@@ -1,6 +1,6 @@
 ---
 name: microservices-implementation
-description: Implementation with Microservices. practical implementation.
+description: "Implementation with Microservices. practical implementation."
 category: backend
 tags: [microservices-implementation, backend, russian]
 models: [sonnet, opus]

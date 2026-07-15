@@ -1,6 +1,6 @@
 ---
 name: remix-isr
-description: ISR with Remix. incremental.
+description: "ISR with Remix. incremental."
 category: frontend
 tags: [remix-isr, frontend, russian]
 models: [sonnet, opus]

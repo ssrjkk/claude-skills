@@ -1,6 +1,6 @@
 ---
 name: sinatra-api
-description: API with Sinatra. API building.
+description: "API with Sinatra. API building."
 category: backend
 tags: [sinatra, api, backend, backend]
 models: [gpt-4, claude-3]

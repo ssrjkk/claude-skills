@@ -1,6 +1,6 @@
 ---
 name: gensim-sentiment
-description: Sentiment Analysis with Gensim. sentiment detection.
+description: "Sentiment Analysis with Gensim. sentiment detection."
 category: ai
 tags: [gensim, sentiment, ai, nlp]
 models: [gpt-4, claude-3]

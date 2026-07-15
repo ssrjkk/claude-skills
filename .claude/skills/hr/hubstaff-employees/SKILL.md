@@ -1,6 +1,6 @@
 ---
 name: hubstaff-employees
-description: Employees with Hubstaff. employee mgmt.
+description: "Employees with Hubstaff. employee mgmt."
 category: hr
 tags: [hubstaff, employees, hr, hr-tech]
 models: [gpt-4, claude-3]

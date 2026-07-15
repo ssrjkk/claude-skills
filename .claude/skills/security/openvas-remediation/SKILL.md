@@ -1,6 +1,6 @@
 ---
 name: openvas-remediation
-description: Remediation with OpenVAS. fixing vulns.
+description: "Remediation with OpenVAS. fixing vulns."
 category: security
 tags: [openvas, remediation, security, security-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: dart-dependency-injection
-description: DI with Dart. DI containers.
+description: "DI with Dart. DI containers."
 category: backend
 tags: [dart-dependency-injection, backend, russian]
 models: [sonnet, opus]

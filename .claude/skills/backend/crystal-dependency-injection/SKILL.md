@@ -1,6 +1,6 @@
 ---
 name: crystal-dependency-injection
-description: DI with Crystal. DI containers.
+description: "DI with Crystal. DI containers."
 category: backend
 tags: [crystal, dependency-injection, backend, backend]
 models: [gpt-4, claude-3]

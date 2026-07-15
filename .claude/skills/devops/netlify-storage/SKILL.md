@@ -1,6 +1,6 @@
 ---
 name: netlify-storage
-description: Storage with Netlify. object storage.
+description: "Storage with Netlify. object storage."
 category: devops
 tags: [netlify, storage, devops, cloud]
 models: [gpt-4, claude-3]

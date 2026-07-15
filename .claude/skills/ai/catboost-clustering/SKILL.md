@@ -1,6 +1,6 @@
 ---
 name: catboost-clustering
-description: Clustering with Catboost. grouping data.
+description: "Clustering with Catboost. grouping data."
 category: ai
 tags: [catboost, clustering, ai, ml]
 models: [gpt-4, claude-3]

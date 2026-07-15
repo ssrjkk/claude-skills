@@ -1,6 +1,6 @@
 ---
 name: mermaid-diagrams
-description: Diagrams with Mermaid.js. diagramming.
+description: "Diagrams with Mermaid.js. diagramming."
 category: engineering
 tags: [mermaid, diagrams, engineering, modeling]
 models: [gpt-4, claude-3]

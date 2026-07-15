@@ -1,6 +1,6 @@
 ---
 name: plantuml-tools
-description: Tools with PlantUML. tooling.
+description: "Tools with PlantUML. tooling."
 category: engineering
 tags: [plantuml, tools, engineering, modeling]
 models: [gpt-4, claude-3]

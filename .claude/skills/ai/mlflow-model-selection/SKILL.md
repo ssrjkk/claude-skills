@@ -1,6 +1,6 @@
 ---
 name: mlflow-model-selection
-description: Model Selection with Mlflow. choosing models.
+description: "Model Selection with Mlflow. choosing models."
 category: ai
 tags: [mlflow, model-selection, ai, ml]
 models: [gpt-4, claude-3]

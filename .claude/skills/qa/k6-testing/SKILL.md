@@ -1,6 +1,6 @@
 ---
 name: k6-testing
-description: Testing for K6: testing and validation
+description: "Testing for K6: testing and validation"
 category: qa
 tags: [k6, testing, qa]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sphinx-scoring
-description: Scoring with Sphinx. relevance scoring.
+description: "Scoring with Sphinx. relevance scoring."
 category: database
 tags: [sphinx, scoring, database, search-engine]
 models: [gpt-4, claude-3]

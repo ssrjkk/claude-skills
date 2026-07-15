@@ -1,6 +1,6 @@
 ---
 name: starlette-templating
-description: Templating with Starlette. server templates.
+description: "Templating with Starlette. server templates."
 category: backend
 tags: [starlette, templating, backend, backend]
 models: [gpt-4, claude-3]

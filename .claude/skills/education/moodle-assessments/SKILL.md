@@ -1,6 +1,6 @@
 ---
 name: moodle-assessments
-description: Assessments with Moodle. quizzes.
+description: "Assessments with Moodle. quizzes."
 category: education
 tags: [moodle, assessments, education, education-platform]
 models: [gpt-4, claude-3]

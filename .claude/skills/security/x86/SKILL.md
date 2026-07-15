@@ -1,6 +1,6 @@
 ---
 name: x86
-description: Development with X86: tools and best practices
+description: "Development with X86: tools and best practices"
 category: security
 tags: [x86, security, development]
 models: [sonnet, opus]

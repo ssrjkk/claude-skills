@@ -1,6 +1,6 @@
 ---
 name: daisyui-typography
-description: Typography with daisyUI. text styling.
+description: "Typography with daisyUI. text styling."
 category: frontend
 tags: [daisyui-typography, frontend, russian]
 models: [sonnet, opus]

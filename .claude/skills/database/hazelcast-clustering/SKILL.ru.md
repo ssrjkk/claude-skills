@@ -1,6 +1,6 @@
 ---
 name: hazelcast-clustering
-description: Clustering with Hazelcast. cluster setup.
+description: "Clustering with Hazelcast. cluster setup."
 category: database
 tags: [hazelcast-clustering, database, russian]
 models: [sonnet, opus]

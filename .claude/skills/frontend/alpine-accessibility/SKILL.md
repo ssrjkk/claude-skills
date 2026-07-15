@@ -1,6 +1,6 @@
 ---
 name: alpine-accessibility
-description: Accessibility with Alpine. a11y.
+description: "Accessibility with Alpine. a11y."
 category: frontend
 tags: [alpine, accessibility, frontend, frontend]
 models: [gpt-4, claude-3]

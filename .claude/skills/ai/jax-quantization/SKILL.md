@@ -1,6 +1,6 @@
 ---
 name: jax-quantization
-description: Quantization with Jax. model quantization.
+description: "Quantization with Jax. model quantization."
 category: ai
 tags: [jax, quantization, ai, deep-learning]
 models: [gpt-4, claude-3]

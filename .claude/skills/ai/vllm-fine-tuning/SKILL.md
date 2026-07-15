@@ -1,6 +1,6 @@
 ---
 name: vllm-fine-tuning
-description: Fine-Tuning with Vllm. model customization.
+description: "Fine-Tuning with Vllm. model customization."
 category: ai
 tags: [vllm, fine-tuning, ai, llm]
 models: [gpt-4, claude-3]

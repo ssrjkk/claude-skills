@@ -1,6 +1,6 @@
 ---
 name: bun-intro
-description: Intro for Bun: introduction
+description: "Intro for Bun: introduction"
 category: backend
 tags: [bun, intro, backend]
 models: [sonnet, opus]

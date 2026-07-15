@@ -1,6 +1,6 @@
 ---
 name: spectre-utilities
-description: Utilities with Spectre.css. utility classes.
+description: "Utilities with Spectre.css. utility classes."
 category: frontend
 tags: [spectre, utilities, frontend, css]
 models: [gpt-4, claude-3]

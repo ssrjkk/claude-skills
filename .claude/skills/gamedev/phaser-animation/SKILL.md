@@ -1,6 +1,6 @@
 ---
 name: phaser-animation
-description: Animation with Phaser. animation.
+description: "Animation with Phaser. animation."
 category: gamedev
 tags: [phaser, animation, gamedev, game-engine]
 models: [gpt-4, claude-3]

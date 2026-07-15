@@ -1,6 +1,6 @@
 ---
 name: cratedb-optimization
-description: Optimization with CrateDB. query tuning.
+description: "Optimization with CrateDB. query tuning."
 category: database
 tags: [cratedb, optimization, database, sql]
 models: [gpt-4, claude-3]

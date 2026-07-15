@@ -1,6 +1,6 @@
 ---
 name: code-review-tools
-description: Tools with Code Review. tooling.
+description: "Tools with Code Review. tooling."
 category: engineering
 tags: [code-review-tools, engineering, russian]
 models: [sonnet, opus]

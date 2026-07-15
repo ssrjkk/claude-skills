@@ -1,6 +1,6 @@
 ---
 name: opentelemetry-storage
-description: Storage with OpenTelemetry. data retention.
+description: "Storage with OpenTelemetry. data retention."
 category: devops
 tags: [opentelemetry, storage, devops, monitoring]
 models: [gpt-4, claude-3]

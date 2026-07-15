@@ -1,6 +1,6 @@
 ---
 name: plotly-performance
-description: Performance with Plotly. optimization.
+description: "Performance with Plotly. optimization."
 category: data
 tags: [plotly, performance, data, data-science]
 models: [gpt-4, claude-3]

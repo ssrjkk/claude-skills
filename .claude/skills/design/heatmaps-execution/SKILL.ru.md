@@ -1,6 +1,6 @@
 ---
 name: heatmaps-execution
-description: Execution with Heatmaps. running sessions.
+description: "Execution with Heatmaps. running sessions."
 category: design
 tags: [heatmaps-execution, design, russian]
 models: [sonnet, opus]

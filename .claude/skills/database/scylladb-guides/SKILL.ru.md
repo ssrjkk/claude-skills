@@ -1,6 +1,6 @@
 ---
 name: scylladb-guides
-description: Guides for Scylladb: how-to guides
+description: "Guides for Scylladb: how-to guides"
 category: database
 tags: [scylladb-guides, database, russian]
 models: [sonnet, opus]

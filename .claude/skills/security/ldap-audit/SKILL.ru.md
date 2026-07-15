@@ -1,6 +1,6 @@
 ---
 name: ldap-audit
-description: Audit with LDAP. security audit.
+description: "Audit with LDAP. security audit."
 category: security
 tags: [ldap-audit, security, russian]
 models: [sonnet, opus]

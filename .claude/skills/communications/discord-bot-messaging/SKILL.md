@@ -1,6 +1,6 @@
 ---
 name: discord-bot-messaging
-description: Messaging with Discord Bot. sending messages.
+description: "Messaging with Discord Bot. sending messages."
 category: communications
 tags: [discord-bot, messaging, communications, communication-platform]
 models: [gpt-4, claude-3]

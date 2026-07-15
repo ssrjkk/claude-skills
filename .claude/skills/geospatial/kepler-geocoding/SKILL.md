@@ -1,6 +1,6 @@
 ---
 name: kepler-geocoding
-description: Geocoding with Kepler.gl. geocoding.
+description: "Geocoding with Kepler.gl. geocoding."
 category: geospatial
 tags: [kepler, geocoding, geospatial, gis]
 models: [gpt-4, claude-3]

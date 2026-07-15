@@ -1,6 +1,6 @@
 ---
 name: tsung-thresholds
-description: Thresholds with Tsung. pass/fail.
+description: "Thresholds with Tsung. pass/fail."
 category: qa
 tags: [tsung-thresholds, qa, russian]
 models: [sonnet, opus]

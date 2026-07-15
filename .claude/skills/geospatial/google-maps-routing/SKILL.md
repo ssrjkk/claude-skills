@@ -1,6 +1,6 @@
 ---
 name: google-maps-routing
-description: Routing with Google Maps API. routing.
+description: "Routing with Google Maps API. routing."
 category: geospatial
 tags: [google-maps, routing, geospatial, gis]
 models: [gpt-4, claude-3]

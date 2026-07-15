@@ -1,6 +1,6 @@
 ---
 name: stimulus-state-management
-description: State Management with Stimulus. state handling.
+description: "State Management with Stimulus. state handling."
 category: frontend
 tags: [stimulus, state-management, frontend, frontend]
 models: [gpt-4, claude-3]

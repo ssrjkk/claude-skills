@@ -1,6 +1,6 @@
 ---
 name: tls-monitoring
-description: Monitoring with TLS/SSL. security monitoring.
+description: "Monitoring with TLS/SSL. security monitoring."
 category: security
 tags: [tls, monitoring, security, security]
 models: [gpt-4, claude-3]

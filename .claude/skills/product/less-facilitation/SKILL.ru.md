@@ -1,6 +1,6 @@
 ---
 name: less-facilitation
-description: Facilitation with LeSS. sessions.
+description: "Facilitation with LeSS. sessions."
 category: product
 tags: [less-facilitation, product, russian]
 models: [sonnet, opus]

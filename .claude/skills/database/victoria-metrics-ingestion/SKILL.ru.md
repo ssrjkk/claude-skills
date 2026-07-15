@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-ingestion
-description: Ingestion with VictoriaMetrics. data ingestion.
+description: "Ingestion with VictoriaMetrics. data ingestion."
 category: database
 tags: [victoria-metrics-ingestion, database, russian]
 models: [sonnet, opus]

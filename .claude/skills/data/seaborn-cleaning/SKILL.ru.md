@@ -1,6 +1,6 @@
 ---
 name: seaborn-cleaning
-description: Cleaning with Seaborn. data cleaning.
+description: "Cleaning with Seaborn. data cleaning."
 category: data
 tags: [seaborn-cleaning, data, russian]
 models: [sonnet, opus]

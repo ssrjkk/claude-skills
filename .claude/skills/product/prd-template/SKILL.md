@@ -1,6 +1,6 @@
 ---
 name: prd-template
-description: Generates structured PRD (Product Requirements Document) with goals, features, and success criteria. Use for documenting requirements.
+description: "Generates structured PRD (Product Requirements Document) with goals, features, and success criteria. Use for documenting requirements."
 category: product
 tags: [prd, product, requirements, documentation]
 models: [sonnet, opus]

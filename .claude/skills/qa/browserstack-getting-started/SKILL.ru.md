@@ -1,6 +1,6 @@
 ---
 name: browserstack-getting-started
-description: Getting Started for Browserstack: initial setup and first steps
+description: "Getting Started for Browserstack: initial setup and first steps"
 category: qa
 tags: [browserstack-getting-started, qa, russian]
 models: [sonnet, opus]

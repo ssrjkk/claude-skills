@@ -1,6 +1,6 @@
 ---
 name: spine-configuration
-description: Configuration for Spine: configuration and setup
+description: "Configuration for Spine: configuration and setup"
 category: gamedev
 tags: [spine, configuration, gamedev]
 models: [sonnet, opus]

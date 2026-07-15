@@ -1,6 +1,6 @@
 ---
 name: calico-best-practices
-description: Best Practices for Calico: best practices and patterns
+description: "Best Practices for Calico: best practices and patterns"
 category: devops
 tags: [calico-best-practices, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: signoz-alerts
-description: Alerts with SigNoz. alerting rules.
+description: "Alerts with SigNoz. alerting rules."
 category: devops
 tags: [signoz, alerts, devops, monitoring]
 models: [gpt-4, claude-3]

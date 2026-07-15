@@ -1,6 +1,6 @@
 ---
 name: tempo-tracing
-description: Tracing with Tempo. distributed tracing.
+description: "Tracing with Tempo. distributed tracing."
 category: devops
 tags: [tempo-tracing, devops, russian]
 models: [sonnet, opus]

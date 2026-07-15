@@ -1,6 +1,6 @@
 ---
 name: zig-cli-tool
-description: CLI Tool with Zig. building CLI tools.
+description: "CLI Tool with Zig. building CLI tools."
 category: backend
 tags: [zig-cli-tool, backend, russian]
 models: [sonnet, opus]

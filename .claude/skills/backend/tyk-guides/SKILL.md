@@ -1,6 +1,6 @@
 ---
 name: tyk-guides
-description: Guides for Tyk: how-to guides
+description: "Guides for Tyk: how-to guides"
 category: backend
 tags: [tyk, guides, backend]
 models: [sonnet, opus]

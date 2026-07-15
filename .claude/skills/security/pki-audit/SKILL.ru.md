@@ -1,6 +1,6 @@
 ---
 name: pki-audit
-description: Audit with PKI. security audit.
+description: "Audit with PKI. security audit."
 category: security
 tags: [pki-audit, security, russian]
 models: [sonnet, opus]

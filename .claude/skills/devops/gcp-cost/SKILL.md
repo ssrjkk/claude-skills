@@ -1,6 +1,6 @@
 ---
 name: gcp-cost
-description: Cost with GCP. cost optimization.
+description: "Cost with GCP. cost optimization."
 category: devops
 tags: [gcp, cost, devops, cloud]
 models: [gpt-4, claude-3]

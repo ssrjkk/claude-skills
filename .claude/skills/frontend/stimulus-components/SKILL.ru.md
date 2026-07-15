@@ -1,6 +1,6 @@
 ---
 name: stimulus-components
-description: Components with Stimulus. building components.
+description: "Components with Stimulus. building components."
 category: frontend
 tags: [stimulus-components, frontend, russian]
 models: [sonnet, opus]

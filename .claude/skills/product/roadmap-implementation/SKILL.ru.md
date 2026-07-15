@@ -1,6 +1,6 @@
 ---
 name: roadmap-implementation
-description: Implementation with Roadmapping. execution.
+description: "Implementation with Roadmapping. execution."
 category: product
 tags: [roadmap-implementation, product, russian]
 models: [sonnet, opus]

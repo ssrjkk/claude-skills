@@ -1,6 +1,6 @@
 ---
 name: heatmaps-reporting
-description: Reporting with Heatmaps. reports.
+description: "Reporting with Heatmaps. reports."
 category: design
 tags: [heatmaps, reporting, design, ux-research]
 models: [gpt-4, claude-3]

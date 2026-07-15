@@ -1,6 +1,6 @@
 ---
 name: vitess-fundamentals
-description: Fundamentals for Vitess: core concepts
+description: "Fundamentals for Vitess: core concepts"
 category: database
 tags: [vitess-fundamentals, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: bitsandbytes-visualization
-description: Visualization with Bitsandbytes. model viz.
+description: "Visualization with Bitsandbytes. model viz."
 category: ai
 tags: [bitsandbytes-visualization, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: coap-implementation
-description: Implementation with CoAP. implementation.
+description: "Implementation with CoAP. implementation."
 category: communications
 tags: [coap, implementation, communications, communication-protocol]
 models: [gpt-4, claude-3]

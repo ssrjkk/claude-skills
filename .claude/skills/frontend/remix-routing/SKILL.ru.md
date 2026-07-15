@@ -1,6 +1,6 @@
 ---
 name: remix-routing
-description: Routing with Remix. file-based routing.
+description: "Routing with Remix. file-based routing."
 category: frontend
 tags: [remix-routing, frontend, russian]
 models: [sonnet, opus]

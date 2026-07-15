@@ -1,6 +1,6 @@
 ---
 name: terraform-setup
-description: Setup with Terraform. installation.
+description: "Setup with Terraform. installation."
 category: devops
 tags: [terraform, setup, devops, iac]
 models: [gpt-4, claude-3]

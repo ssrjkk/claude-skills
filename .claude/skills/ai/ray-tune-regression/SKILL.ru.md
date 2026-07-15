@@ -1,6 +1,6 @@
 ---
 name: ray-tune-regression
-description: Regression with Ray Tune. predicting values.
+description: "Regression with Ray Tune. predicting values."
 category: ai
 tags: [ray-tune-regression, ai, russian]
 models: [sonnet, opus]

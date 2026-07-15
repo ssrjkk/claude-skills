@@ -1,6 +1,6 @@
 ---
 name: codeigniter-deployment
-description: Deployment with CodeIgniter. deploy.
+description: "Deployment with CodeIgniter. deploy."
 category: backend
 tags: [codeigniter, deployment, backend, backend]
 models: [gpt-4, claude-3]

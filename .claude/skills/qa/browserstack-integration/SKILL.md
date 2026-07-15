@@ -1,6 +1,6 @@
 ---
 name: browserstack-integration
-description: Integration for Browserstack: integration with other tools
+description: "Integration for Browserstack: integration with other tools"
 category: qa
 tags: [browserstack, integration, qa]
 models: [sonnet, opus]

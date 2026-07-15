@@ -1,6 +1,6 @@
 ---
 name: imaging-workflow
-description: Workflow with PACS. clinical workflow.
+description: "Workflow with PACS. clinical workflow."
 category: healthcare
 tags: [imaging-workflow, healthcare, russian]
 models: [sonnet, opus]

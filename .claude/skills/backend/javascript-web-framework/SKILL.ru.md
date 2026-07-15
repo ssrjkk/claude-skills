@@ -1,6 +1,6 @@
 ---
 name: javascript-web-framework
-description: Web Framework with Javascript. web dev.
+description: "Web Framework with Javascript. web dev."
 category: backend
 tags: [javascript-web-framework, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: qgis-analysis
-description: Analysis with QGIS. spatial analysis.
+description: "Analysis with QGIS. spatial analysis."
 category: geospatial
 tags: [qgis-analysis, geospatial, russian]
 models: [sonnet, opus]

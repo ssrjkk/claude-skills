@@ -1,6 +1,6 @@
 ---
 name: turbopack-plugins
-description: Plugins with Turbopack. plugins.
+description: "Plugins with Turbopack. plugins."
 category: frontend
 tags: [turbopack, plugins, frontend, build-tool]
 models: [gpt-4, claude-3]

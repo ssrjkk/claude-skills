@@ -1,6 +1,6 @@
 ---
 name: mongodb-debugging
-description: Debugging for Mongodb: debugging and troubleshooting
+description: "Debugging for Mongodb: debugging and troubleshooting"
 category: database
 tags: [mongodb, debugging, database]
 models: [sonnet, opus]

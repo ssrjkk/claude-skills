@@ -1,6 +1,6 @@
 ---
 name: grape-database
-description: Database with Grape. ActiveRecord.
+description: "Database with Grape. ActiveRecord."
 category: backend
 tags: [grape, database, backend, backend]
 models: [gpt-4, claude-3]

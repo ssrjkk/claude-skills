@@ -1,6 +1,6 @@
 ---
 name: lakefs-best-practices
-description: Best Practices for Lakefs: best practices and patterns
+description: "Best Practices for Lakefs: best practices and patterns"
 category: data
 tags: [lakefs, best-practices, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: k6-optimization
-description: Optimization for K6: performance tuning and optimization
+description: "Optimization for K6: performance tuning and optimization"
 category: qa
 tags: [k6, optimization, qa]
 models: [sonnet, opus]

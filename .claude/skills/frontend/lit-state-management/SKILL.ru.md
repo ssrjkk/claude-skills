@@ -1,6 +1,6 @@
 ---
 name: lit-state-management
-description: State Management with Lit. state handling.
+description: "State Management with Lit. state handling."
 category: frontend
 tags: [lit-state-management, frontend, russian]
 models: [sonnet, opus]

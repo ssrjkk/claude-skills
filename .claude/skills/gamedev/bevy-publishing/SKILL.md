@@ -1,6 +1,6 @@
 ---
 name: bevy-publishing
-description: Publishing with Bevy. publishing.
+description: "Publishing with Bevy. publishing."
 category: gamedev
 tags: [bevy, publishing, gamedev, game-engine]
 models: [gpt-4, claude-3]

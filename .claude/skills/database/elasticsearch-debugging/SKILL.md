@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-debugging
-description: Debugging for Elasticsearch: debugging and troubleshooting
+description: "Debugging for Elasticsearch: debugging and troubleshooting"
 category: database
 tags: [elasticsearch, debugging, database]
 models: [sonnet, opus]

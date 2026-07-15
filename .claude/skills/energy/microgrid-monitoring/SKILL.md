@@ -1,6 +1,6 @@
 ---
 name: microgrid-monitoring
-description: Monitoring with Microgrid. monitoring.
+description: "Monitoring with Microgrid. monitoring."
 category: energy
 tags: [microgrid, monitoring, energy, renewable-energy]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: zustand-optimization
-description: Optimization with Zustand. performance.
+description: "Optimization with Zustand. performance."
 category: frontend
 tags: [zustand, optimization, frontend, state-management]
 models: [gpt-4, claude-3]

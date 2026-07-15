@@ -1,6 +1,6 @@
 ---
 name: nicegui-theming
-description: Theming with NiceGUI. themes.
+description: "Theming with NiceGUI. themes."
 category: data
 tags: [nicegui, theming, data, data-apps]
 models: [gpt-4, claude-3]

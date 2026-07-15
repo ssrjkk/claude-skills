@@ -1,6 +1,6 @@
 ---
 name: slack-api-chat
-description: Chat with Slack API. chat.
+description: "Chat with Slack API. chat."
 category: communications
 tags: [slack-api, chat, communications, communication-platform]
 models: [gpt-4, claude-3]

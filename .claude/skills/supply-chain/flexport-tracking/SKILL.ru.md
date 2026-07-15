@@ -1,6 +1,6 @@
 ---
 name: flexport-tracking
-description: Tracking with Flexport. tracking.
+description: "Tracking with Flexport. tracking."
 category: supply-chain
 tags: [flexport-tracking, supply-chain, russian]
 models: [sonnet, opus]

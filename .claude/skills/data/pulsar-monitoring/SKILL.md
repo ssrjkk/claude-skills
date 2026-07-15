@@ -1,6 +1,6 @@
 ---
 name: pulsar-monitoring
-description: Monitoring with Pulsar. monitoring.
+description: "Monitoring with Pulsar. monitoring."
 category: data
 tags: [pulsar, monitoring, data, data-engineering]
 models: [gpt-4, claude-3]

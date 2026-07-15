@@ -1,6 +1,6 @@
 ---
 name: ev-charging-optimization
-description: Optimization with EV Charging. optimization.
+description: "Optimization with EV Charging. optimization."
 category: energy
 tags: [ev-charging-optimization, energy, russian]
 models: [sonnet, opus]

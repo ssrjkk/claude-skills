@@ -1,6 +1,6 @@
 ---
 name: redis-advanced
-description: Advanced for Redis: advanced patterns and techniques
+description: "Advanced for Redis: advanced patterns and techniques"
 category: database
 tags: [redis-advanced, database, russian]
 models: [sonnet, opus]

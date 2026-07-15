@@ -1,6 +1,6 @@
 ---
 name: jda-warehousing
-description: Warehousing with JDA/Blue Yonder. WMS.
+description: "Warehousing with JDA/Blue Yonder. WMS."
 category: supply-chain
 tags: [jda-warehousing, supply-chain, russian]
 models: [sonnet, opus]

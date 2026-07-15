@@ -1,6 +1,6 @@
 ---
 name: cloudflare-networking
-description: Networking with Cloudflare. VPC.
+description: "Networking with Cloudflare. VPC."
 category: devops
 tags: [cloudflare, networking, devops, cloud]
 models: [gpt-4, claude-3]

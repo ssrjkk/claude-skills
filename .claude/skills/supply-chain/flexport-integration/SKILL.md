@@ -1,6 +1,6 @@
 ---
 name: flexport-integration
-description: Integration with Flexport. integration.
+description: "Integration with Flexport. integration."
 category: supply-chain
 tags: [flexport, integration, supply-chain, logistics]
 models: [gpt-4, claude-3]

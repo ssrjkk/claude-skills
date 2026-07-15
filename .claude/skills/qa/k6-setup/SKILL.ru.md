@@ -1,6 +1,6 @@
 ---
 name: k6-setup
-description: Setup with k6. installation.
+description: "Setup with k6. installation."
 category: qa
 tags: [k6-setup, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: postgresql-backup
-description: Backup with PostgreSQL. backup strategies.
+description: "Backup with PostgreSQL. backup strategies."
 category: database
 tags: [postgresql, backup, database, sql]
 models: [gpt-4, claude-3]

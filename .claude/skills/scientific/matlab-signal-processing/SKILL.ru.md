@@ -1,6 +1,6 @@
 ---
 name: matlab-signal-processing
-description: Signal Processing with MATLAB. FFT.
+description: "Signal Processing with MATLAB. FFT."
 category: scientific
 tags: [matlab-signal-processing, scientific, russian]
 models: [sonnet, opus]

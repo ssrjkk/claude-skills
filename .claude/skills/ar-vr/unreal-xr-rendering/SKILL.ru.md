@@ -1,6 +1,6 @@
 ---
 name: unreal-xr-rendering
-description: Rendering with Unreal XR. stereoscopic.
+description: "Rendering with Unreal XR. stereoscopic."
 category: ar-vr
 tags: [unreal-xr-rendering, ar-vr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: chakra-ui-dark-mode
-description: Dark Mode with Chakra UI. dark theme.
+description: "Dark Mode with Chakra UI. dark theme."
 category: frontend
 tags: [chakra-ui-dark-mode, frontend, russian]
 models: [sonnet, opus]

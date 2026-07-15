@@ -1,6 +1,6 @@
 ---
 name: hashcat-setup
-description: Setup with Hashcat. installation.
+description: "Setup with Hashcat. installation."
 category: security
 tags: [hashcat-setup, security, russian]
 models: [sonnet, opus]

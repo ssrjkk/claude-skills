@@ -1,6 +1,6 @@
 ---
 name: flutter-desktop-events
-description: Events with Flutter Desktop. event handling.
+description: "Events with Flutter Desktop. event handling."
 category: desktop
 tags: [flutter-desktop-events, desktop, russian]
 models: [sonnet, opus]

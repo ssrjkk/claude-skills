@@ -1,6 +1,6 @@
 ---
 name: gin-monitoring
-description: Monitoring for Gin: monitoring and observability
+description: "Monitoring for Gin: monitoring and observability"
 category: backend
 tags: [gin-monitoring, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: stripe-checkout
-description: Checkout with Stripe. checkout flow.
+description: "Checkout with Stripe. checkout flow."
 category: payments
 tags: [stripe, checkout, payments, payments]
 models: [gpt-4, claude-3]

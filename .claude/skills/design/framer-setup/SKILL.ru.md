@@ -1,6 +1,6 @@
 ---
 name: framer-setup
-description: Setup with Framer. workspace.
+description: "Setup with Framer. workspace."
 category: design
 tags: [framer-setup, design, russian]
 models: [sonnet, opus]

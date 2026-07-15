@@ -1,6 +1,6 @@
 ---
 name: python-cli-tool
-description: CLI Tool with Python. building CLI tools.
+description: "CLI Tool with Python. building CLI tools."
 category: backend
 tags: [python-cli-tool, backend, russian]
 models: [sonnet, opus]

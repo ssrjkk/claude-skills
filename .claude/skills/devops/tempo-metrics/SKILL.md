@@ -1,6 +1,6 @@
 ---
 name: tempo-metrics
-description: Metrics with Tempo. collecting metrics.
+description: "Metrics with Tempo. collecting metrics."
 category: devops
 tags: [tempo, metrics, devops, monitoring]
 models: [gpt-4, claude-3]

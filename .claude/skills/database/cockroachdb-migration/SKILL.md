@@ -1,6 +1,6 @@
 ---
 name: cockroachdb-migration
-description: Migration with CockroachDB. schema migrations.
+description: "Migration with CockroachDB. schema migrations."
 category: database
 tags: [cockroachdb, migration, database, sql]
 models: [gpt-4, claude-3]

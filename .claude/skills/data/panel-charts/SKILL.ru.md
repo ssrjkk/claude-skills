@@ -1,6 +1,6 @@
 ---
 name: panel-charts
-description: Charts with Panel. charts.
+description: "Charts with Panel. charts."
 category: data
 tags: [panel-charts, data, russian]
 models: [sonnet, opus]

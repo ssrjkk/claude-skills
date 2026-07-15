@@ -1,6 +1,6 @@
 ---
 name: gatsby-data-fetching
-description: Data Fetching with Gatsby. data loading.
+description: "Data Fetching with Gatsby. data loading."
 category: frontend
 tags: [gatsby-data-fetching, frontend, russian]
 models: [sonnet, opus]

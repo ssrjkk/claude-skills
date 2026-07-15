@@ -1,6 +1,6 @@
 ---
 name: playmaker-examples
-description: Examples for Playmaker: practical examples
+description: "Examples for Playmaker: practical examples"
 category: gamedev
 tags: [playmaker-examples, gamedev, russian]
 models: [sonnet, opus]

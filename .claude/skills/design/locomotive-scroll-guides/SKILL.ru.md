@@ -1,6 +1,6 @@
 ---
 name: locomotive-scroll-guides
-description: Guides for Locomotive-Scroll: how-to guides
+description: "Guides for Locomotive-Scroll: how-to guides"
 category: design
 tags: [locomotive-scroll-guides, design, russian]
 models: [sonnet, opus]

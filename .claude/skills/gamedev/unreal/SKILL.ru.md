@@ -1,6 +1,6 @@
 ---
 name: unreal
-description: Creates games on Unreal Engine with Blueprints or C++. Use for AAA-quality and high-performance games.
+description: "Creates games on Unreal Engine with Blueprints or C++. Use for AAA-quality and high-performance games."
 category: gamedev
 tags: [unreal, gamedev, russian]
 models: [sonnet, opus]

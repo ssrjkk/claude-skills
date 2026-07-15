@@ -1,6 +1,6 @@
 ---
 name: octave-optimization
-description: Optimization with GNU Octave. optimization.
+description: "Optimization with GNU Octave. optimization."
 category: scientific
 tags: [octave-optimization, scientific, russian]
 models: [sonnet, opus]

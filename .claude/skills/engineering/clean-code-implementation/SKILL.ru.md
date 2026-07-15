@@ -1,6 +1,6 @@
 ---
 name: clean-code-implementation
-description: Implementation with Clean Code. practice.
+description: "Implementation with Clean Code. practice."
 category: engineering
 tags: [clean-code-implementation, engineering, russian]
 models: [sonnet, opus]

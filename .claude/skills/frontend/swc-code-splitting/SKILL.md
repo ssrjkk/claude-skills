@@ -1,6 +1,6 @@
 ---
 name: swc-code-splitting
-description: Code Splitting with SWC. lazy loading.
+description: "Code Splitting with SWC. lazy loading."
 category: frontend
 tags: [swc, code-splitting, frontend, build-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: avr-bootstrap
-description: Bootstrap with AVR. startup code.
+description: "Bootstrap with AVR. startup code."
 category: embedded
 tags: [avr, bootstrap, embedded, embedded-arch]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: javafx-setup
-description: Setup with JavaFX. SDK setup.
+description: "Setup with JavaFX. SDK setup."
 category: desktop
 tags: [javafx-setup, desktop, russian]
 models: [sonnet, opus]

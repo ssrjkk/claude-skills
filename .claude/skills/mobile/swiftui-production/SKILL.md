@@ -1,6 +1,6 @@
 ---
 name: swiftui-production
-description: Production for Swiftui: production deployment
+description: "Production for Swiftui: production deployment"
 category: mobile
 tags: [swiftui, production, mobile]
 models: [sonnet, opus]

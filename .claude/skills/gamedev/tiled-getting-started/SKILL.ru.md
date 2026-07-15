@@ -1,6 +1,6 @@
 ---
 name: tiled-getting-started
-description: Getting Started for Tiled: initial setup and first steps
+description: "Getting Started for Tiled: initial setup and first steps"
 category: gamedev
 tags: [tiled-getting-started, gamedev, russian]
 models: [sonnet, opus]

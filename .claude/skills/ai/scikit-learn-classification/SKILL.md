@@ -1,6 +1,6 @@
 ---
 name: scikit-learn-classification
-description: Classification with Scikit Learn. building classifiers.
+description: "Classification with Scikit Learn. building classifiers."
 category: ai
 tags: [scikit-learn, classification, ai, ml]
 models: [gpt-4, claude-3]

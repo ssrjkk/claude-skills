@@ -1,6 +1,6 @@
 ---
 name: feathers-websocket
-description: WebSocket with FeathersJS. Socket.io.
+description: "WebSocket with FeathersJS. Socket.io."
 category: backend
 tags: [feathers-websocket, backend, russian]
 models: [sonnet, opus]

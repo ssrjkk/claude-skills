@@ -1,6 +1,6 @@
 ---
 name: apache-examples
-description: Examples for Apache: practical examples
+description: "Examples for Apache: practical examples"
 category: backend
 tags: [apache-examples, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: heroku-monitoring
-description: Monitoring with Heroku. monitoring.
+description: "Monitoring with Heroku. monitoring."
 category: devops
 tags: [heroku-monitoring, devops, russian]
 models: [sonnet, opus]

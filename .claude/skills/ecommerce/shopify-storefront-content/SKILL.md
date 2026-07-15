@@ -1,6 +1,6 @@
 ---
 name: shopify-storefront-content
-description: Content with Shopify Storefront. content management.
+description: "Content with Shopify Storefront. content management."
 category: ecommerce
 tags: [shopify-storefront, content, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

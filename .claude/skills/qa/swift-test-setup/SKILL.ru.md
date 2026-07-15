@@ -1,6 +1,6 @@
 ---
 name: swift-test-setup
-description: Setup with Swift Testing. installation.
+description: "Setup with Swift Testing. installation."
 category: qa
 tags: [swift-test-setup, qa, russian]
 models: [sonnet, opus]

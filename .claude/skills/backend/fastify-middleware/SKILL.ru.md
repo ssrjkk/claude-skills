@@ -1,6 +1,6 @@
 ---
 name: fastify-middleware
-description: Middleware with Fastify. request pipeline.
+description: "Middleware with Fastify. request pipeline."
 category: backend
 tags: [fastify-middleware, backend, russian]
 models: [sonnet, opus]

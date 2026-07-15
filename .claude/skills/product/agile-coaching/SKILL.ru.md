@@ -1,6 +1,6 @@
 ---
 name: agile-coaching
-description: Coaching with Agile. team coaching.
+description: "Coaching with Agile. team coaching."
 category: product
 tags: [agile-coaching, product, russian]
 models: [sonnet, opus]

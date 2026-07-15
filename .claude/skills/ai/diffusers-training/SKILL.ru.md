@@ -1,6 +1,6 @@
 ---
 name: diffusers-training
-description: Training with Diffusers. training models.
+description: "Training with Diffusers. training models."
 category: ai
 tags: [diffusers-training, ai, russian]
 models: [sonnet, opus]

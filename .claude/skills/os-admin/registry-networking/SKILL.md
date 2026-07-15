@@ -1,6 +1,6 @@
 ---
 name: registry-networking
-description: Networking with Windows Registry. network.
+description: "Networking with Windows Registry. network."
 category: os-admin
 tags: [registry, networking, os-admin, windows]
 models: [gpt-4, claude-3]

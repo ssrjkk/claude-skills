@@ -1,6 +1,6 @@
 ---
 name: imaging-reporting
-description: Reporting with PACS. reports.
+description: "Reporting with PACS. reports."
 category: healthcare
 tags: [imaging-reporting, healthcare, russian]
 models: [sonnet, opus]

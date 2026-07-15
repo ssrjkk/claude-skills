@@ -1,6 +1,6 @@
 ---
 name: vxworks-memory
-description: Memory with VxWorks. memory management.
+description: "Memory with VxWorks. memory management."
 category: embedded
 tags: [vxworks, memory, embedded, rtos]
 models: [gpt-4, claude-3]

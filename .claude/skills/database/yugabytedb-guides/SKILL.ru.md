@@ -1,6 +1,6 @@
 ---
 name: yugabytedb-guides
-description: Guides for Yugabytedb: how-to guides
+description: "Guides for Yugabytedb: how-to guides"
 category: database
 tags: [yugabytedb-guides, database, russian]
 models: [sonnet, opus]

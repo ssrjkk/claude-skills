@@ -1,6 +1,6 @@
 ---
 name: sketch-versioning
-description: Versioning with Sketch. version control.
+description: "Versioning with Sketch. version control."
 category: design
 tags: [sketch-versioning, design, russian]
 models: [sonnet, opus]

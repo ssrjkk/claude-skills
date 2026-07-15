@@ -1,6 +1,6 @@
 ---
 name: clickhouse-ingestion
-description: Ingestion with ClickHouse. data ingestion.
+description: "Ingestion with ClickHouse. data ingestion."
 category: database
 tags: [clickhouse, ingestion, database, time-series]
 models: [gpt-4, claude-3]

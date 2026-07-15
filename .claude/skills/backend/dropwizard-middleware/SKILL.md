@@ -1,6 +1,6 @@
 ---
 name: dropwizard-middleware
-description: Middleware with Dropwizard. request processing.
+description: "Middleware with Dropwizard. request processing."
 category: backend
 tags: [dropwizard, middleware, backend, backend]
 models: [gpt-4, claude-3]

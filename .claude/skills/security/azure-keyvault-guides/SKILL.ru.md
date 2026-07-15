@@ -1,6 +1,6 @@
 ---
 name: azure-keyvault-guides
-description: Guides for Azure-Keyvault: how-to guides
+description: "Guides for Azure-Keyvault: how-to guides"
 category: security
 tags: [azure-keyvault-guides, security, russian]
 models: [sonnet, opus]

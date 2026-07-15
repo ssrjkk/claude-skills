@@ -1,6 +1,6 @@
 ---
 name: arcore-setup
-description: Setup with ARCore. SDK setup.
+description: "Setup with ARCore. SDK setup."
 category: ar-vr
 tags: [arcore, setup, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

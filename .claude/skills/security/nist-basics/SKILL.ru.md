@@ -1,6 +1,6 @@
 ---
 name: nist-basics
-description: Basics with NIST. fundamentals.
+description: "Basics with NIST. fundamentals."
 category: security
 tags: [nist-basics, security, russian]
 models: [sonnet, opus]

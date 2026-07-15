@@ -1,6 +1,6 @@
 ---
 name: scikit-image-optical-flow
-description: Optical Flow with Scikit Image. motion detection.
+description: "Optical Flow with Scikit Image. motion detection."
 category: ai
 tags: [scikit-image-optical-flow, ai, russian]
 models: [sonnet, opus]

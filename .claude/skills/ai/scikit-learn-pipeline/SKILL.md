@@ -1,6 +1,6 @@
 ---
 name: scikit-learn-pipeline
-description: Pipeline with Scikit Learn. ML pipelines.
+description: "Pipeline with Scikit Learn. ML pipelines."
 category: ai
 tags: [scikit-learn, pipeline, ai, ml]
 models: [gpt-4, claude-3]

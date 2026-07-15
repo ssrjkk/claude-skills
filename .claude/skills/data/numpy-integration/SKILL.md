@@ -1,6 +1,6 @@
 ---
 name: numpy-integration
-description: Integration with NumPy. data sources.
+description: "Integration with NumPy. data sources."
 category: data
 tags: [numpy, integration, data, data-science]
 models: [gpt-4, claude-3]

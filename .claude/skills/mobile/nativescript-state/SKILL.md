@@ -1,6 +1,6 @@
 ---
 name: nativescript-state
-description: State with NativeScript. state management.
+description: "State with NativeScript. state management."
 category: mobile
 tags: [nativescript, state, mobile, mobile]
 models: [gpt-4, claude-3]

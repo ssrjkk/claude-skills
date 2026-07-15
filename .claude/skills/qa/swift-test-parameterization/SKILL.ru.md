@@ -1,6 +1,6 @@
 ---
 name: swift-test-parameterization
-description: Parameterization with Swift Testing. parametrized tests.
+description: "Parameterization with Swift Testing. parametrized tests."
 category: qa
 tags: [swift-test-parameterization, qa, russian]
 models: [sonnet, opus]

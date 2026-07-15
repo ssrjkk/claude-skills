@@ -1,6 +1,6 @@
 ---
 name: teamcity-monitoring
-description: Monitoring with TeamCity. monitoring.
+description: "Monitoring with TeamCity. monitoring."
 category: devops
 tags: [teamcity, monitoring, devops, ci-cd]
 models: [gpt-4, claude-3]

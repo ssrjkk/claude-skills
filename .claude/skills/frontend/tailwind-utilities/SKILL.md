@@ -1,6 +1,6 @@
 ---
 name: tailwind-utilities
-description: Utilities with Tailwind CSS. utility classes.
+description: "Utilities with Tailwind CSS. utility classes."
 category: frontend
 tags: [tailwind, utilities, frontend, css]
 models: [gpt-4, claude-3]

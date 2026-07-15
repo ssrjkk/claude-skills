@@ -1,6 +1,6 @@
 ---
 name: nextjs-isr
-description: ISR with Next.js. incremental.
+description: "ISR with Next.js. incremental."
 category: frontend
 tags: [nextjs, isr, frontend, meta-framework]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: jekyll-ssg
-description: SSG with Jekyll. static generation.
+description: "SSG with Jekyll. static generation."
 category: frontend
 tags: [jekyll-ssg, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: beego-routing
-description: Routing with Beego. HTTP routing.
+description: "Routing with Beego. HTTP routing."
 category: backend
 tags: [beego-routing, backend, russian]
 models: [sonnet, opus]

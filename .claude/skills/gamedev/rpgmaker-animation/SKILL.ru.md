@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-animation
-description: Animation with RPG Maker. animation.
+description: "Animation with RPG Maker. animation."
 category: gamedev
 tags: [rpgmaker-animation, gamedev, russian]
 models: [sonnet, opus]

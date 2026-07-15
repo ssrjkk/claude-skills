@@ -1,6 +1,6 @@
 ---
 name: pcidss-basics
-description: Basics with PCI DSS. fundamentals.
+description: "Basics with PCI DSS. fundamentals."
 category: security
 tags: [pcidss-basics, security, russian]
 models: [sonnet, opus]

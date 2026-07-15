@@ -1,6 +1,6 @@
 ---
 name: chisel
-description: Development with Chisel: tools and best practices
+description: "Development with Chisel: tools and best practices"
 category: backend
 tags: [chisel, backend, development]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gemini-basics
-description: Basics for Gemini: fundamentals and core concepts
+description: "Basics for Gemini: fundamentals and core concepts"
 category: ai
 tags: [gemini-basics, ai, russian]
 models: [sonnet, opus]

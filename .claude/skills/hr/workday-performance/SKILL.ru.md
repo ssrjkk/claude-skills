@@ -1,6 +1,6 @@
 ---
 name: workday-performance
-description: Performance with Workday. performance mgmt.
+description: "Performance with Workday. performance mgmt."
 category: hr
 tags: [workday-performance, hr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mathematica-simulation
-description: Simulation with Mathematica. Monte Carlo.
+description: "Simulation with Mathematica. Monte Carlo."
 category: scientific
 tags: [mathematica-simulation, scientific, russian]
 models: [sonnet, opus]

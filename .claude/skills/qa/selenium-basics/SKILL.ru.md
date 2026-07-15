@@ -1,6 +1,6 @@
 ---
 name: selenium-basics
-description: Basics for Selenium: fundamentals and core concepts
+description: "Basics for Selenium: fundamentals and core concepts"
 category: qa
 tags: [selenium-basics, qa, russian]
 models: [sonnet, opus]

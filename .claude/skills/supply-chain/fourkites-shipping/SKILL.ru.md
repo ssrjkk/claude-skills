@@ -1,6 +1,6 @@
 ---
 name: fourkites-shipping
-description: Shipping with FourKites. shipping.
+description: "Shipping with FourKites. shipping."
 category: supply-chain
 tags: [fourkites-shipping, supply-chain, russian]
 models: [sonnet, opus]

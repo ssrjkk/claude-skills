@@ -1,6 +1,6 @@
 ---
 name: catboost-regression
-description: Regression with Catboost. predicting values.
+description: "Regression with Catboost. predicting values."
 category: ai
 tags: [catboost-regression, ai, russian]
 models: [sonnet, opus]

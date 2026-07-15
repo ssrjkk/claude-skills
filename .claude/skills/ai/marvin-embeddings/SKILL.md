@@ -1,6 +1,6 @@
 ---
 name: marvin-embeddings
-description: Embeddings with Marvin. text embeddings.
+description: "Embeddings with Marvin. text embeddings."
 category: ai
 tags: [marvin, embeddings, ai, llm]
 models: [gpt-4, claude-3]

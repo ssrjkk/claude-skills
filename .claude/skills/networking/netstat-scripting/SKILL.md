@@ -1,6 +1,6 @@
 ---
 name: netstat-scripting
-description: Scripting with netstat/ss. automation.
+description: "Scripting with netstat/ss. automation."
 category: networking
 tags: [netstat, scripting, networking, networking-tool]
 models: [gpt-4, claude-3]

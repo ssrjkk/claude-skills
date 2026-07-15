@@ -1,6 +1,6 @@
 ---
 name: k3s-autoscaling
-description: Autoscaling with K3s. HPA.
+description: "Autoscaling with K3s. HPA."
 category: devops
 tags: [k3s-autoscaling, devops, russian]
 models: [sonnet, opus]

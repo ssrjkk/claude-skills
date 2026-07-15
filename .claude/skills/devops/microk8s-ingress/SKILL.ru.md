@@ -1,6 +1,6 @@
 ---
 name: microk8s-ingress
-description: Ingress with MicroK8s. ingress controller.
+description: "Ingress with MicroK8s. ingress controller."
 category: devops
 tags: [microk8s-ingress, devops, russian]
 models: [sonnet, opus]

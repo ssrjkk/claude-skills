@@ -1,6 +1,6 @@
 ---
 name: hanami-testing
-description: Testing with Hanami. RSpec.
+description: "Testing with Hanami. RSpec."
 category: backend
 tags: [hanami, testing, backend, backend]
 models: [gpt-4, claude-3]

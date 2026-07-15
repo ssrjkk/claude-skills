@@ -1,6 +1,6 @@
 ---
 name: iec61850-implementation
-description: Implementation with IEC 61850. deployment.
+description: "Implementation with IEC 61850. deployment."
 category: energy
 tags: [iec61850-implementation, energy, russian]
 models: [sonnet, opus]

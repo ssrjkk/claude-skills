@@ -1,6 +1,6 @@
 ---
 name: sasb-data
-description: Data with SASB. data collection.
+description: "Data with SASB. data collection."
 category: sustainability
 tags: [sasb, data, sustainability, sustainability]
 models: [gpt-4, claude-3]

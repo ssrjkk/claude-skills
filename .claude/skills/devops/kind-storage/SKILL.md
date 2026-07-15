@@ -1,6 +1,6 @@
 ---
 name: kind-storage
-description: Storage with Kind. persistent storage.
+description: "Storage with Kind. persistent storage."
 category: devops
 tags: [kind, storage, devops, kubernetes]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: stellar-tokens
-description: Tokens with Stellar. token standards.
+description: "Tokens with Stellar. token standards."
 category: blockchain
 tags: [stellar-tokens, blockchain, russian]
 models: [sonnet, opus]

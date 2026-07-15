@@ -1,6 +1,6 @@
 ---
 name: cratedb-security
-description: Security with CrateDB. access control.
+description: "Security with CrateDB. access control."
 category: database
 tags: [cratedb, security, database, sql]
 models: [gpt-4, claude-3]

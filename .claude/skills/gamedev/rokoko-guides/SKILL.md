@@ -1,6 +1,6 @@
 ---
 name: rokoko-guides
-description: Guides for Rokoko: how-to guides
+description: "Guides for Rokoko: how-to guides"
 category: gamedev
 tags: [rokoko, guides, gamedev]
 models: [sonnet, opus]

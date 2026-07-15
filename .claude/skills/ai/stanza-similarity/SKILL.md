@@ -1,6 +1,6 @@
 ---
 name: stanza-similarity
-description: Similarity with Stanza. text similarity.
+description: "Similarity with Stanza. text similarity."
 category: ai
 tags: [stanza, similarity, ai, nlp]
 models: [gpt-4, claude-3]

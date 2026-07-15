@@ -1,6 +1,6 @@
 ---
 name: python-error-handling
-description: Error Handling with Python. error management.
+description: "Error Handling with Python. error management."
 category: backend
 tags: [python, error-handling, backend, backend]
 models: [gpt-4, claude-3]

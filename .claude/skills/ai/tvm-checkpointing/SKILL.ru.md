@@ -1,6 +1,6 @@
 ---
 name: tvm-checkpointing
-description: Checkpointing with Tvm. model saving.
+description: "Checkpointing with Tvm. model saving."
 category: ai
 tags: [tvm-checkpointing, ai, russian]
 models: [sonnet, opus]

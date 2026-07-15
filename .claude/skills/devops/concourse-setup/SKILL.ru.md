@@ -1,6 +1,6 @@
 ---
 name: concourse-setup
-description: Setup with Concourse. pipeline setup.
+description: "Setup with Concourse. pipeline setup."
 category: devops
 tags: [concourse-setup, devops, russian]
 models: [sonnet, opus]

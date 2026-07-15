@@ -1,6 +1,6 @@
 ---
 name: janusgraph-modeling
-description: Modeling with JanusGraph. graph modeling.
+description: "Modeling with JanusGraph. graph modeling."
 category: database
 tags: [janusgraph, modeling, database, graph-database]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: networking-skill-0104
-description: Specialized skill #0104 for networking development
+description: "Specialized skill #0104 for networking development"
 category: networking
 tags: [skill-0104, networking, russian]
 models: [sonnet, opus]

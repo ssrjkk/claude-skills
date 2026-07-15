@@ -1,6 +1,6 @@
 ---
 name: hyperopt-experiment-tracking
-description: Experiment Tracking with Hyperopt. tracking experiments.
+description: "Experiment Tracking with Hyperopt. tracking experiments."
 category: ai
 tags: [hyperopt, experiment-tracking, ai, ml]
 models: [gpt-4, claude-3]

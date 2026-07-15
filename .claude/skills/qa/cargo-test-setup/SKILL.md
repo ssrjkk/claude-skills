@@ -1,6 +1,6 @@
 ---
 name: cargo-test-setup
-description: Setup with Cargo Test. installation.
+description: "Setup with Cargo Test. installation."
 category: qa
 tags: [cargo-test, setup, qa, testing]
 models: [gpt-4, claude-3]

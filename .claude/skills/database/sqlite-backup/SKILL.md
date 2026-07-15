@@ -1,6 +1,6 @@
 ---
 name: sqlite-backup
-description: Backup with SQLite. backup strategies.
+description: "Backup with SQLite. backup strategies."
 category: database
 tags: [sqlite, backup, database, sql]
 models: [gpt-4, claude-3]

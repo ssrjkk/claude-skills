@@ -1,6 +1,6 @@
 ---
 name: recoil-devtools
-description: DevTools with Recoil. debugging.
+description: "DevTools with Recoil. debugging."
 category: frontend
 tags: [recoil, devtools, frontend, state-management]
 models: [gpt-4, claude-3]

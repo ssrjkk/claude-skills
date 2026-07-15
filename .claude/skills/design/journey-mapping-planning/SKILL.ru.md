@@ -1,6 +1,6 @@
 ---
 name: journey-mapping-planning
-description: Planning with Journey Mapping. study planning.
+description: "Planning with Journey Mapping. study planning."
 category: design
 tags: [journey-mapping-planning, design, russian]
 models: [sonnet, opus]

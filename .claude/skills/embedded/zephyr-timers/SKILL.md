@@ -1,6 +1,6 @@
 ---
 name: zephyr-timers
-description: Timers with Zephyr. software timers.
+description: "Timers with Zephyr. software timers."
 category: embedded
 tags: [zephyr, timers, embedded, rtos]
 models: [gpt-4, claude-3]

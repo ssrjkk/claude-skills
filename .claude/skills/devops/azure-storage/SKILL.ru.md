@@ -1,6 +1,6 @@
 ---
 name: azure-storage
-description: Storage with Azure. object storage.
+description: "Storage with Azure. object storage."
 category: devops
 tags: [azure-storage, devops, russian]
 models: [sonnet, opus]

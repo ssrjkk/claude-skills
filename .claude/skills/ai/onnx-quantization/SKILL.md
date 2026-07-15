@@ -1,6 +1,6 @@
 ---
 name: onnx-quantization
-description: Quantization with Onnx. model quantization.
+description: "Quantization with Onnx. model quantization."
 category: ai
 tags: [onnx, quantization, ai, deep-learning]
 models: [gpt-4, claude-3]

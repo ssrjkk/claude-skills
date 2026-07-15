@@ -1,6 +1,6 @@
 ---
 name: puzzle-design-implementation
-description: Implementation with Puzzle Design. implementation.
+description: "Implementation with Puzzle Design. implementation."
 category: gamedev
 tags: [puzzle-design-implementation, gamedev, russian]
 models: [sonnet, opus]

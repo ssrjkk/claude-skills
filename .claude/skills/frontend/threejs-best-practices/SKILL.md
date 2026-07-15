@@ -1,6 +1,6 @@
 ---
 name: threejs-best-practices
-description: Best Practices for Threejs: best practices and patterns
+description: "Best Practices for Threejs: best practices and patterns"
 category: frontend
 tags: [threejs, best-practices, frontend]
 models: [sonnet, opus]

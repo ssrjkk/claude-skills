@@ -1,6 +1,6 @@
 ---
 name: llama-index-agents
-description: Agents with Llama Index. building agents.
+description: "Agents with Llama Index. building agents."
 category: ai
 tags: [llama-index, agents, ai, llm]
 models: [gpt-4, claude-3]

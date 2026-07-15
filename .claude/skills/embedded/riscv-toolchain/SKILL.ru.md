@@ -1,6 +1,6 @@
 ---
 name: riscv-toolchain
-description: Toolchain with RISC-V. compiler.
+description: "Toolchain with RISC-V. compiler."
 category: embedded
 tags: [riscv-toolchain, embedded, russian]
 models: [sonnet, opus]

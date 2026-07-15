@@ -1,6 +1,6 @@
 ---
 name: debezium-best-practices
-description: Best Practices for Debezium: best practices and patterns
+description: "Best Practices for Debezium: best practices and patterns"
 category: database
 tags: [debezium-best-practices, database, russian]
 models: [sonnet, opus]

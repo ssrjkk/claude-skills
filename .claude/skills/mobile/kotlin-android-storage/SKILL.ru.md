@@ -1,6 +1,6 @@
 ---
 name: kotlin-android-storage
-description: Storage with Kotlin Android. local storage.
+description: "Storage with Kotlin Android. local storage."
 category: mobile
 tags: [kotlin-android-storage, mobile, russian]
 models: [sonnet, opus]

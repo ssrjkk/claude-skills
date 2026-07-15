@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-retention
-description: Retention with VictoriaMetrics. data retention.
+description: "Retention with VictoriaMetrics. data retention."
 category: database
 tags: [victoria-metrics-retention, database, russian]
 models: [sonnet, opus]

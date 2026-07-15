@@ -1,6 +1,6 @@
 ---
 name: jobs-to-be-done-tools
-description: Tools with Jobs to be Done. tools.
+description: "Tools with Jobs to be Done. tools."
 category: product
 tags: [jobs-to-be-done-tools, product, russian]
 models: [sonnet, opus]

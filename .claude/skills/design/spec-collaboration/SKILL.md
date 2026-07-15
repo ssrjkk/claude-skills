@@ -1,6 +1,6 @@
 ---
 name: spec-collaboration
-description: Collaboration with Spec. collaboration.
+description: "Collaboration with Spec. collaboration."
 category: design
 tags: [spec, collaboration, design, design]
 models: [gpt-4, claude-3]

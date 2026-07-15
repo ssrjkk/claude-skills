@@ -1,6 +1,6 @@
 ---
 name: scipy-signal-processing
-description: Signal Processing with SciPy. FFT.
+description: "Signal Processing with SciPy. FFT."
 category: scientific
 tags: [scipy-signal-processing, scientific, russian]
 models: [sonnet, opus]

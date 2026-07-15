@@ -1,6 +1,6 @@
 ---
 name: nightwatch-reporting
-description: Reporting with Nightwatch. reports.
+description: "Reporting with Nightwatch. reports."
 category: qa
 tags: [nightwatch-reporting, qa, russian]
 models: [sonnet, opus]

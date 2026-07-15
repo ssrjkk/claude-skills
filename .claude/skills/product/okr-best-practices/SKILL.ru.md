@@ -1,6 +1,6 @@
 ---
 name: okr-best-practices
-description: Best Practices with OKRs. tips.
+description: "Best Practices with OKRs. tips."
 category: product
 tags: [okr-best-practices, product, russian]
 models: [sonnet, opus]

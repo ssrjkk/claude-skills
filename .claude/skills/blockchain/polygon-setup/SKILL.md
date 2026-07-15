@@ -1,6 +1,6 @@
 ---
 name: polygon-setup
-description: Setup with Polygon. node setup.
+description: "Setup with Polygon. node setup."
 category: blockchain
 tags: [polygon, setup, blockchain, blockchain]
 models: [gpt-4, claude-3]

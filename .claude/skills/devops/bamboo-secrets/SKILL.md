@@ -1,6 +1,6 @@
 ---
 name: bamboo-secrets
-description: Secrets with Bamboo. secret management.
+description: "Secrets with Bamboo. secret management."
 category: devops
 tags: [bamboo, secrets, devops, ci-cd]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: fhir-compliance
-description: Compliance with FHIR. compliance.
+description: "Compliance with FHIR. compliance."
 category: healthcare
 tags: [fhir, compliance, healthcare, healthcare]
 models: [gpt-4, claude-3]

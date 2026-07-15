@@ -1,6 +1,6 @@
 ---
 name: openlayers-data
-description: Data with OpenLayers. geospatial data.
+description: "Data with OpenLayers. geospatial data."
 category: geospatial
 tags: [openlayers-data, geospatial, russian]
 models: [sonnet, opus]

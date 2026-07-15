@@ -1,6 +1,6 @@
 ---
 name: marvin-evaluation
-description: Evaluation with Marvin. LLM evaluation.
+description: "Evaluation with Marvin. LLM evaluation."
 category: ai
 tags: [marvin, evaluation, ai, llm]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: gstreamer-protection
-description: Protection with GStreamer. DRM.
+description: "Protection with GStreamer. DRM."
 category: media
 tags: [gstreamer, protection, media, media-streaming]
 models: [gpt-4, claude-3]

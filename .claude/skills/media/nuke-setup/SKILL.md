@@ -1,6 +1,6 @@
 ---
 name: nuke-setup
-description: Setup with Nuke. setup.
+description: "Setup with Nuke. setup."
 category: media
 tags: [nuke, setup, media, media-production]
 models: [gpt-4, claude-3]

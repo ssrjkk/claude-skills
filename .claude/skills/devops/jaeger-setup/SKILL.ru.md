@@ -1,6 +1,6 @@
 ---
 name: jaeger-setup
-description: Setup with Jaeger. installation.
+description: "Setup with Jaeger. installation."
 category: devops
 tags: [jaeger-setup, devops, russian]
 models: [sonnet, opus]

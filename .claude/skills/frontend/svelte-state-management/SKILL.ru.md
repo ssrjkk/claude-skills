@@ -1,6 +1,6 @@
 ---
 name: svelte-state-management
-description: State Management with Svelte. state handling.
+description: "State Management with Svelte. state handling."
 category: frontend
 tags: [svelte-state-management, frontend, russian]
 models: [sonnet, opus]

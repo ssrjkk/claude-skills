@@ -1,6 +1,6 @@
 ---
 name: redis-debugging
-description: Debugging for Redis: debugging and troubleshooting
+description: "Debugging for Redis: debugging and troubleshooting"
 category: database
 tags: [redis-debugging, database, russian]
 models: [sonnet, opus]

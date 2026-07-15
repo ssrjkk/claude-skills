@@ -1,6 +1,6 @@
 ---
 name: avr-toolchain
-description: Toolchain with AVR. compiler.
+description: "Toolchain with AVR. compiler."
 category: embedded
 tags: [avr, toolchain, embedded, embedded-arch]
 models: [gpt-4, claude-3]

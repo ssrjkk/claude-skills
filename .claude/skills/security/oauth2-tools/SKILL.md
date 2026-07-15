@@ -1,6 +1,6 @@
 ---
 name: oauth2-tools
-description: Tools with OAuth 2.0. security tools.
+description: "Tools with OAuth 2.0. security tools."
 category: security
 tags: [oauth2, tools, security, security]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: axios-test-fundamentals
-description: Fundamentals for Axios-Test: core concepts
+description: "Fundamentals for Axios-Test: core concepts"
 category: qa
 tags: [axios-test, fundamentals, qa]
 models: [sonnet, opus]

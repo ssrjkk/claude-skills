@@ -1,6 +1,6 @@
 ---
 name: ping-troubleshooting
-description: Troubleshooting with ping/traceroute. debugging.
+description: "Troubleshooting with ping/traceroute. debugging."
 category: networking
 tags: [ping-troubleshooting, networking, russian]
 models: [sonnet, opus]

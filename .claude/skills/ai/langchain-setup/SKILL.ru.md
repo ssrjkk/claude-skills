@@ -1,6 +1,6 @@
 ---
 name: langchain-setup
-description: Setup for Langchain: installation and configuration
+description: "Setup for Langchain: installation and configuration"
 category: ai
 tags: [langchain-setup, ai, russian]
 models: [sonnet, opus]

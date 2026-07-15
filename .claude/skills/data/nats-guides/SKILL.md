@@ -1,6 +1,6 @@
 ---
 name: nats-guides
-description: Guides for Nats: how-to guides
+description: "Guides for Nats: how-to guides"
 category: data
 tags: [nats, guides, data]
 models: [sonnet, opus]

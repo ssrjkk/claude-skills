@@ -1,6 +1,6 @@
 ---
 name: sass-scss
-description: Writes maintainable CSS with Sass/SCSS, including variables, mixins, nesting, and partials. Use for scalable stylesheets.
+description: "Writes maintainable CSS with Sass/SCSS, including variables, mixins, nesting, and partials. Use for scalable stylesheets."
 category: frontend
 tags: [sass, scss, css, preprocessor, styling]
 models: [sonnet, opus]

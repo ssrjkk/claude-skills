@@ -1,6 +1,6 @@
 ---
 name: vueuse-intro
-description: Intro for Vueuse: introduction
+description: "Intro for Vueuse: introduction"
 category: frontend
 tags: [vueuse-intro, frontend, russian]
 models: [sonnet, opus]

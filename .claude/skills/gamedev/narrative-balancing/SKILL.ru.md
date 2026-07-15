@@ -1,6 +1,6 @@
 ---
 name: narrative-balancing
-description: Balancing with Narrative Design. balancing.
+description: "Balancing with Narrative Design. balancing."
 category: gamedev
 tags: [narrative-balancing, gamedev, russian]
 models: [sonnet, opus]

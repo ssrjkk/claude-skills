@@ -1,6 +1,6 @@
 ---
 name: algolia-mapping
-description: Mapping with Algolia. field mapping.
+description: "Mapping with Algolia. field mapping."
 category: database
 tags: [algolia, mapping, database, search-engine]
 models: [gpt-4, claude-3]

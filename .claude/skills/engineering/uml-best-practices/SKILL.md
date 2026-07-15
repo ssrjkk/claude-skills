@@ -1,6 +1,6 @@
 ---
 name: uml-best-practices
-description: Best Practices with UML. practices.
+description: "Best Practices with UML. practices."
 category: engineering
 tags: [uml, best-practices, engineering, modeling]
 models: [gpt-4, claude-3]

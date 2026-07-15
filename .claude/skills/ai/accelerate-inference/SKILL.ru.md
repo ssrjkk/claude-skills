@@ -1,6 +1,6 @@
 ---
 name: accelerate-inference
-description: Inference with Accelerate. running models.
+description: "Inference with Accelerate. running models."
 category: ai
 tags: [accelerate-inference, ai, russian]
 models: [sonnet, opus]

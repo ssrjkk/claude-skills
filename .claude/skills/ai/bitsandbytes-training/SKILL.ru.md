@@ -1,6 +1,6 @@
 ---
 name: bitsandbytes-training
-description: Training with Bitsandbytes. training models.
+description: "Training with Bitsandbytes. training models."
 category: ai
 tags: [bitsandbytes-training, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: wireshark-compliance
-description: Compliance with Wireshark. compliance.
+description: "Compliance with Wireshark. compliance."
 category: security
 tags: [wireshark, compliance, security, security-tool]
 models: [gpt-4, claude-3]

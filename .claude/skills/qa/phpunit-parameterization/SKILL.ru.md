@@ -1,6 +1,6 @@
 ---
 name: phpunit-parameterization
-description: Parameterization with PHPUnit. parametrized tests.
+description: "Parameterization with PHPUnit. parametrized tests."
 category: qa
 tags: [phpunit-parameterization, qa, russian]
 models: [sonnet, opus]

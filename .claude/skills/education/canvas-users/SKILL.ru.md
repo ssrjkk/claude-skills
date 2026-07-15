@@ -1,6 +1,6 @@
 ---
 name: canvas-users
-description: Users with Canvas LMS. user management.
+description: "Users with Canvas LMS. user management."
 category: education
 tags: [canvas-users, education, russian]
 models: [sonnet, opus]

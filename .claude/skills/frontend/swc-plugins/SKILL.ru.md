@@ -1,6 +1,6 @@
 ---
 name: swc-plugins
-description: Plugins with SWC. plugins.
+description: "Plugins with SWC. plugins."
 category: frontend
 tags: [swc-plugins, frontend, russian]
 models: [sonnet, opus]

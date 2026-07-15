@@ -1,6 +1,6 @@
 ---
 name: opensearch-setup
-description: Setup with OpenSearch. installation.
+description: "Setup with OpenSearch. installation."
 category: database
 tags: [opensearch-setup, database, russian]
 models: [sonnet, opus]

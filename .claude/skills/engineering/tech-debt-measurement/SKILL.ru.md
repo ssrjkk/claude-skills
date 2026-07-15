@@ -1,6 +1,6 @@
 ---
 name: tech-debt-measurement
-description: Measurement with Tech Debt Management. metrics.
+description: "Measurement with Tech Debt Management. metrics."
 category: engineering
 tags: [tech-debt-measurement, engineering, russian]
 models: [sonnet, opus]

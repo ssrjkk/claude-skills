@@ -1,6 +1,6 @@
 ---
 name: locust-api
-description: API for Locust: API development and integration
+description: "API for Locust: API development and integration"
 category: qa
 tags: [locust-api, qa, russian]
 models: [sonnet, opus]

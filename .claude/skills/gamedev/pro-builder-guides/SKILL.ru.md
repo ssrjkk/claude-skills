@@ -1,6 +1,6 @@
 ---
 name: pro-builder-guides
-description: Guides for Pro-Builder: how-to guides
+description: "Guides for Pro-Builder: how-to guides"
 category: gamedev
 tags: [pro-builder-guides, gamedev, russian]
 models: [sonnet, opus]

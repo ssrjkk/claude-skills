@@ -1,6 +1,6 @@
 ---
 name: bitsandbytes-quantization
-description: Quantization with Bitsandbytes. model quantization.
+description: "Quantization with Bitsandbytes. model quantization."
 category: ai
 tags: [bitsandbytes-quantization, ai, russian]
 models: [sonnet, opus]

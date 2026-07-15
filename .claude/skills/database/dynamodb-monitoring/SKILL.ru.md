@@ -1,6 +1,6 @@
 ---
 name: dynamodb-monitoring
-description: Monitoring with DynamoDB. monitoring.
+description: "Monitoring with DynamoDB. monitoring."
 category: database
 tags: [dynamodb-monitoring, database, russian]
 models: [sonnet, opus]

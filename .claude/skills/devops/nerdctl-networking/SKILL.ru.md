@@ -1,6 +1,6 @@
 ---
 name: nerdctl-networking
-description: Networking with nerdctl. container networks.
+description: "Networking with nerdctl. container networks."
 category: devops
 tags: [nerdctl-networking, devops, russian]
 models: [sonnet, opus]

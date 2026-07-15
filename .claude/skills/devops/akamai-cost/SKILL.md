@@ -1,6 +1,6 @@
 ---
 name: akamai-cost
-description: Cost with Akamai. cost optimization.
+description: "Cost with Akamai. cost optimization."
 category: devops
 tags: [akamai, cost, devops, cloud]
 models: [gpt-4, claude-3]

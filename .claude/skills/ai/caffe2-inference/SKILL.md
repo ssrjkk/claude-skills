@@ -1,6 +1,6 @@
 ---
 name: caffe2-inference
-description: Inference with Caffe2. running models.
+description: "Inference with Caffe2. running models."
 category: ai
 tags: [caffe2, inference, ai, deep-learning]
 models: [gpt-4, claude-3]

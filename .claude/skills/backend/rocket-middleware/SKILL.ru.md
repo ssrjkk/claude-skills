@@ -1,6 +1,6 @@
 ---
 name: rocket-middleware
-description: Middleware with Rocket. request pipeline.
+description: "Middleware with Rocket. request pipeline."
 category: backend
 tags: [rocket-middleware, backend, russian]
 models: [sonnet, opus]

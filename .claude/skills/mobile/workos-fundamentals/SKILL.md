@@ -1,6 +1,6 @@
 ---
 name: workos-fundamentals
-description: Fundamentals for Workos: core concepts
+description: "Fundamentals for Workos: core concepts"
 category: mobile
 tags: [workos, fundamentals, mobile]
 models: [sonnet, opus]

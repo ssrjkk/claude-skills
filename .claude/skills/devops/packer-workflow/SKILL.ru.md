@@ -1,6 +1,6 @@
 ---
 name: packer-workflow
-description: Workflow for Packer: workflow optimization
+description: "Workflow for Packer: workflow optimization"
 category: devops
 tags: [packer-workflow, devops, russian]
 models: [sonnet, opus]

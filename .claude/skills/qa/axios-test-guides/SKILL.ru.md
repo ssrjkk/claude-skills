@@ -1,6 +1,6 @@
 ---
 name: axios-test-guides
-description: Guides for Axios-Test: how-to guides
+description: "Guides for Axios-Test: how-to guides"
 category: qa
 tags: [axios-test-guides, qa, russian]
 models: [sonnet, opus]

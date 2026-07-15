@@ -1,6 +1,6 @@
 ---
 name: astro-data-fetching
-description: Data Fetching with Astro. data loading.
+description: "Data Fetching with Astro. data loading."
 category: frontend
 tags: [astro-data-fetching, frontend, russian]
 models: [sonnet, opus]

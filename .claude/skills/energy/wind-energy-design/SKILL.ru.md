@@ -1,6 +1,6 @@
 ---
 name: wind-energy-design
-description: Design with Wind Energy. system design.
+description: "Design with Wind Energy. system design."
 category: energy
 tags: [wind-energy-design, energy, russian]
 models: [sonnet, opus]

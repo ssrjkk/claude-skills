@@ -1,6 +1,6 @@
 ---
 name: observer-intro
-description: Introduction with Observer. understanding the pattern.
+description: "Introduction with Observer. understanding the pattern."
 category: backend
 tags: [observer, intro, backend, architecture]
 models: [gpt-4, claude-3]

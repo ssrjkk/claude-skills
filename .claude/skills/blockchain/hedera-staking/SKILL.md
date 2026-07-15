@@ -1,6 +1,6 @@
 ---
 name: hedera-staking
-description: Staking with Hedera. staking.
+description: "Staking with Hedera. staking."
 category: blockchain
 tags: [hedera, staking, blockchain, blockchain]
 models: [gpt-4, claude-3]

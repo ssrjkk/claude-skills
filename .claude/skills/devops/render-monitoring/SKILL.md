@@ -1,6 +1,6 @@
 ---
 name: render-monitoring
-description: Monitoring with Render. monitoring.
+description: "Monitoring with Render. monitoring."
 category: devops
 tags: [render, monitoring, devops, cloud]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: diffusers-inference
-description: Inference with Diffusers. running models.
+description: "Inference with Diffusers. running models."
 category: ai
 tags: [diffusers, inference, ai, deep-learning]
 models: [gpt-4, claude-3]

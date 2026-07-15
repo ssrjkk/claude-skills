@@ -1,6 +1,6 @@
 ---
 name: sails-routing
-description: Routing with Sails.js. HTTP routing.
+description: "Routing with Sails.js. HTTP routing."
 category: backend
 tags: [sails-routing, backend, russian]
 models: [sonnet, opus]

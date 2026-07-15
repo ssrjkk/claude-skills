@@ -1,6 +1,6 @@
 ---
 name: dash-layout
-description: Layout with Dash. app layout.
+description: "Layout with Dash. app layout."
 category: data
 tags: [dash, layout, data, data-apps]
 models: [gpt-4, claude-3]

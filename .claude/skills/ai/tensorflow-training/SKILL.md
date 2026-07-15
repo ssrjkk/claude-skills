@@ -1,6 +1,6 @@
 ---
 name: tensorflow-training
-description: Training with Tensorflow. training models.
+description: "Training with Tensorflow. training models."
 category: ai
 tags: [tensorflow, training, ai, deep-learning]
 models: [gpt-4, claude-3]

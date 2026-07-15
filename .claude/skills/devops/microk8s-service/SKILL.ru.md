@@ -1,6 +1,6 @@
 ---
 name: microk8s-service
-description: Service with MicroK8s. services.
+description: "Service with MicroK8s. services."
 category: devops
 tags: [microk8s-service, devops, russian]
 models: [sonnet, opus]

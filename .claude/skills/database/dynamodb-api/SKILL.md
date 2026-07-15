@@ -1,6 +1,6 @@
 ---
 name: dynamodb-api
-description: API for Dynamodb: API development and integration
+description: "API for Dynamodb: API development and integration"
 category: database
 tags: [dynamodb, api, database]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: canvas-analytics
-description: Analytics with Canvas LMS. analytics.
+description: "Analytics with Canvas LMS. analytics."
 category: education
 tags: [canvas-analytics, education, russian]
 models: [sonnet, opus]

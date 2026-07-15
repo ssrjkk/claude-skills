@@ -1,6 +1,6 @@
 ---
 name: swift-deployment
-description: Deployment for Swift: deployment and release
+description: "Deployment for Swift: deployment and release"
 category: mobile
 tags: [swift, deployment, mobile]
 models: [sonnet, opus]

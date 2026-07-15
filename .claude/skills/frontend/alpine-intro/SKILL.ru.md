@@ -1,6 +1,6 @@
 ---
 name: alpine-intro
-description: Intro for Alpine: introduction
+description: "Intro for Alpine: introduction"
 category: frontend
 tags: [alpine-intro, frontend, russian]
 models: [sonnet, opus]

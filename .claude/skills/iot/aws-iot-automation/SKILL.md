@@ -1,6 +1,6 @@
 ---
 name: aws-iot-automation
-description: Automation with AWS IoT. automation.
+description: "Automation with AWS IoT. automation."
 category: iot
 tags: [aws-iot, automation, iot, iot-platform]
 models: [gpt-4, claude-3]

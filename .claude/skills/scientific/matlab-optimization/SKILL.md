@@ -1,6 +1,6 @@
 ---
 name: matlab-optimization
-description: Optimization with MATLAB. optimization.
+description: "Optimization with MATLAB. optimization."
 category: scientific
 tags: [matlab, optimization, scientific, scientific-computing]
 models: [gpt-4, claude-3]

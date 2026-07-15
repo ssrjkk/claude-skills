@@ -1,6 +1,6 @@
 ---
 name: postgis-setup
-description: Setup with PostGIS. setup.
+description: "Setup with PostGIS. setup."
 category: geospatial
 tags: [postgis-setup, geospatial, russian]
 models: [sonnet, opus]

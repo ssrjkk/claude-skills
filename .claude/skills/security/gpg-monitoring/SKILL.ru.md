@@ -1,6 +1,6 @@
 ---
 name: gpg-monitoring
-description: Monitoring for Gpg: monitoring and observability
+description: "Monitoring for Gpg: monitoring and observability"
 category: security
 tags: [gpg-monitoring, security, russian]
 models: [sonnet, opus]

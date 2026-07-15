@@ -1,6 +1,6 @@
 ---
 name: gcp-kms-examples
-description: Examples for Gcp-Kms: practical examples
+description: "Examples for Gcp-Kms: practical examples"
 category: security
 tags: [gcp-kms, examples, security]
 models: [sonnet, opus]

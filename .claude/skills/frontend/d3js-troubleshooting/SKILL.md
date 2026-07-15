@@ -1,6 +1,6 @@
 ---
 name: d3js-troubleshooting
-description: Troubleshooting for D3Js: troubleshooting common issues
+description: "Troubleshooting for D3Js: troubleshooting common issues"
 category: frontend
 tags: [d3js, troubleshooting, frontend]
 models: [sonnet, opus]

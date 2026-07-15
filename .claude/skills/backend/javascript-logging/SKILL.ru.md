@@ -1,6 +1,6 @@
 ---
 name: javascript-logging
-description: Logging with Javascript. app logging.
+description: "Logging with Javascript. app logging."
 category: backend
 tags: [javascript-logging, backend, russian]
 models: [sonnet, opus]

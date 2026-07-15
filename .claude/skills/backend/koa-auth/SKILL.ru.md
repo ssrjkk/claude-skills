@@ -1,6 +1,6 @@
 ---
 name: koa-auth
-description: Auth with Koa. JWT.
+description: "Auth with Koa. JWT."
 category: backend
 tags: [koa-auth, backend, russian]
 models: [sonnet, opus]

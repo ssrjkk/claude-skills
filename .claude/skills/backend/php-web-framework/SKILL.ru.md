@@ -1,6 +1,6 @@
 ---
 name: php-web-framework
-description: Web Framework with Php. web dev.
+description: "Web Framework with Php. web dev."
 category: backend
 tags: [php-web-framework, backend, russian]
 models: [sonnet, opus]

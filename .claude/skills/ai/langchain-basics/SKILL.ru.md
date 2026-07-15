@@ -1,6 +1,6 @@
 ---
 name: langchain-basics
-description: Basics for Langchain: fundamentals and core concepts
+description: "Basics for Langchain: fundamentals and core concepts"
 category: ai
 tags: [langchain-basics, ai, russian]
 models: [sonnet, opus]

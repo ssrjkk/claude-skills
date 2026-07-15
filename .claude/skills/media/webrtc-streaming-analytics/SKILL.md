@@ -1,6 +1,6 @@
 ---
 name: webrtc-streaming-analytics
-description: Analytics with WebRTC Streaming. analytics.
+description: "Analytics with WebRTC Streaming. analytics."
 category: media
 tags: [webrtc-streaming, analytics, media, media-streaming]
 models: [gpt-4, claude-3]

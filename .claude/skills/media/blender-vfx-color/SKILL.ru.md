@@ -1,6 +1,6 @@
 ---
 name: blender-vfx-color
-description: Color with Blender VFX. color grading.
+description: "Color with Blender VFX. color grading."
 category: media
 tags: [blender-vfx-color, media, russian]
 models: [sonnet, opus]

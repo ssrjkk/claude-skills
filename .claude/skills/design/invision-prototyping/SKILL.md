@@ -1,6 +1,6 @@
 ---
 name: invision-prototyping
-description: Prototyping with InVision. prototypes.
+description: "Prototyping with InVision. prototypes."
 category: design
 tags: [invision, prototyping, design, design]
 models: [gpt-4, claude-3]

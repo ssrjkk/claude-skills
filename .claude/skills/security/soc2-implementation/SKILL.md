@@ -1,6 +1,6 @@
 ---
 name: soc2-implementation
-description: Implementation with SOC 2. implementation.
+description: "Implementation with SOC 2. implementation."
 category: security
 tags: [soc2, implementation, security, security]
 models: [gpt-4, claude-3]

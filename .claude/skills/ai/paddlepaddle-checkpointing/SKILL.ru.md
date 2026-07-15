@@ -1,6 +1,6 @@
 ---
 name: paddlepaddle-checkpointing
-description: Checkpointing with Paddlepaddle. model saving.
+description: "Checkpointing with Paddlepaddle. model saving."
 category: ai
 tags: [paddlepaddle-checkpointing, ai, russian]
 models: [sonnet, opus]

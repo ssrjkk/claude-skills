@@ -1,6 +1,6 @@
 ---
 name: hono-setup
-description: Setup for Hono: setup guide
+description: "Setup for Hono: setup guide"
 category: backend
 tags: [hono, setup, backend]
 models: [sonnet, opus]

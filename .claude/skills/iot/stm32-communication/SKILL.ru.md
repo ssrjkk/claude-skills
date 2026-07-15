@@ -1,6 +1,6 @@
 ---
 name: stm32-communication
-description: Comm with STM32. I2C.
+description: "Comm with STM32. I2C."
 category: iot
 tags: [stm32-communication, iot, russian]
 models: [sonnet, opus]

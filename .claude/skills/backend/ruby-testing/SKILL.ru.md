@@ -1,6 +1,6 @@
 ---
 name: ruby-testing
-description: Testing with Ruby. writing tests.
+description: "Testing with Ruby. writing tests."
 category: backend
 tags: [ruby-testing, backend, russian]
 models: [sonnet, opus]

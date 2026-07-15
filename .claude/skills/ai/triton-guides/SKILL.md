@@ -1,6 +1,6 @@
 ---
 name: triton-guides
-description: Guides for Triton: how-to guides
+description: "Guides for Triton: how-to guides"
 category: ai
 tags: [triton, guides, ai]
 models: [sonnet, opus]

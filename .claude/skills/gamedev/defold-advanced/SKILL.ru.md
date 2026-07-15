@@ -1,6 +1,6 @@
 ---
 name: defold-advanced
-description: Advanced for Defold: advanced patterns and techniques
+description: "Advanced for Defold: advanced patterns and techniques"
 category: gamedev
 tags: [defold-advanced, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: puzzle-design-balancing
-description: Balancing with Puzzle Design. balancing.
+description: "Balancing with Puzzle Design. balancing."
 category: gamedev
 tags: [puzzle-design-balancing, gamedev, russian]
 models: [sonnet, opus]

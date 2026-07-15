@@ -1,6 +1,6 @@
 ---
 name: sails-auth
-description: Auth with Sails.js. JWT.
+description: "Auth with Sails.js. JWT."
 category: backend
 tags: [sails, auth, backend, backend]
 models: [gpt-4, claude-3]

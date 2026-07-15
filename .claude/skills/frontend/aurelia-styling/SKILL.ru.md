@@ -1,6 +1,6 @@
 ---
 name: aurelia-styling
-description: Styling with Aurelia. component styling.
+description: "Styling with Aurelia. component styling."
 category: frontend
 tags: [aurelia-styling, frontend, russian]
 models: [sonnet, opus]

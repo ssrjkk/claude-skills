@@ -1,6 +1,6 @@
 ---
 name: bun-runtime
-description: Bun runtime for JavaScript/TypeScript
+description: "Bun runtime for JavaScript/TypeScript"
 category: frontend
 tags: [bun, javascript, typescript, runtime, bundler]
 models: [sonnet, opus]

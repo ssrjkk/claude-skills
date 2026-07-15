@@ -1,6 +1,6 @@
 ---
 name: packer-integration
-description: Integration for Packer: integration with other tools
+description: "Integration for Packer: integration with other tools"
 category: devops
 tags: [packer-integration, devops, russian]
 models: [sonnet, opus]

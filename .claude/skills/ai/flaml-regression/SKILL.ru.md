@@ -1,6 +1,6 @@
 ---
 name: flaml-regression
-description: Regression with Flaml. predicting values.
+description: "Regression with Flaml. predicting values."
 category: ai
 tags: [flaml-regression, ai, russian]
 models: [sonnet, opus]

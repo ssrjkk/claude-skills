@@ -1,6 +1,6 @@
 ---
 name: nslookup-basics
-description: Basics with nslookup/dig. basic usage.
+description: "Basics with nslookup/dig. basic usage."
 category: networking
 tags: [nslookup-basics, networking, russian]
 models: [sonnet, opus]

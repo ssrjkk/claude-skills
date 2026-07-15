@@ -1,6 +1,6 @@
 ---
 name: adyen-reporting
-description: Reporting with Adyen. reports.
+description: "Reporting with Adyen. reports."
 category: payments
 tags: [adyen, reporting, payments, payments]
 models: [gpt-4, claude-3]

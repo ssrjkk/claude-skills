@@ -1,6 +1,6 @@
 ---
 name: echo-debugging
-description: Debugging for Echo: debugging and troubleshooting
+description: "Debugging for Echo: debugging and troubleshooting"
 category: backend
 tags: [echo-debugging, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: workday-performance
-description: Performance with Workday. performance mgmt.
+description: "Performance with Workday. performance mgmt."
 category: hr
 tags: [workday, performance, hr, hr-tech]
 models: [gpt-4, claude-3]

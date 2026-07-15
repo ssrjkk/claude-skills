@@ -1,6 +1,6 @@
 ---
 name: pgvector-troubleshooting
-description: Troubleshooting for Pgvector: troubleshooting common issues
+description: "Troubleshooting for Pgvector: troubleshooting common issues"
 category: ai
 tags: [pgvector-troubleshooting, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: argo-workflows-fundamentals
-description: Fundamentals for Argo-Workflows: core concepts
+description: "Fundamentals for Argo-Workflows: core concepts"
 category: devops
 tags: [argo-workflows, fundamentals, devops]
 models: [sonnet, opus]

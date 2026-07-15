@@ -1,6 +1,6 @@
 ---
 name: mathematica-statistics
-description: Statistics with Mathematica. statistical analysis.
+description: "Statistics with Mathematica. statistical analysis."
 category: scientific
 tags: [mathematica-statistics, scientific, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: slim-testing
-description: Testing with Slim. PHPUnit.
+description: "Testing with Slim. PHPUnit."
 category: backend
 tags: [slim, testing, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: hololens-deployment
-description: Deployment with HoloLens. deployment.
+description: "Deployment with HoloLens. deployment."
 category: ar-vr
 tags: [hololens, deployment, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

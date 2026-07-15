@@ -1,6 +1,6 @@
 ---
 name: delta-lake-intro
-description: Intro for Delta-Lake: introduction
+description: "Intro for Delta-Lake: introduction"
 category: data
 tags: [delta-lake-intro, data, russian]
 models: [sonnet, opus]

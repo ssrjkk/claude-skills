@@ -1,6 +1,6 @@
 ---
 name: shippo-integration
-description: Integration with Shippo. integration.
+description: "Integration with Shippo. integration."
 category: supply-chain
 tags: [shippo, integration, supply-chain, logistics]
 models: [gpt-4, claude-3]

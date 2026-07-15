@@ -1,6 +1,6 @@
 ---
 name: fastify-auth
-description: Auth with Fastify. JWT.
+description: "Auth with Fastify. JWT."
 category: backend
 tags: [fastify, auth, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: openid-implementation
-description: Implementation with OpenID Connect. implementation.
+description: "Implementation with OpenID Connect. implementation."
 category: security
 tags: [openid, implementation, security, security]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: apache-beam-optimization
-description: Optimization with Apache Beam. performance.
+description: "Optimization with Apache Beam. performance."
 category: data
 tags: [apache-beam, optimization, data, data-engineering]
 models: [gpt-4, claude-3]

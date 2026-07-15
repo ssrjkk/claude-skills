@@ -1,6 +1,6 @@
 ---
 name: kafka-streams
-description: Processes real-time data streams with Apache Kafka Streams. Use for real-time event processing.
+description: "Processes real-time data streams with Apache Kafka Streams. Use for real-time event processing."
 category: data
 tags: [kafka, streams, real-time, events, java, scala]
 models: [opus]

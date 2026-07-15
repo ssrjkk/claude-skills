@@ -1,6 +1,6 @@
 ---
 name: braintree-subscriptions
-description: Subscriptions with Braintree. recurring.
+description: "Subscriptions with Braintree. recurring."
 category: payments
 tags: [braintree, subscriptions, payments, payments]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: aws-storage
-description: Storage with AWS. object storage.
+description: "Storage with AWS. object storage."
 category: devops
 tags: [aws-storage, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: eleventy-middleware
-description: Middleware with Eleventy. request middleware.
+description: "Middleware with Eleventy. request middleware."
 category: frontend
 tags: [eleventy-middleware, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: visual-scripting-fundamentals
-description: Fundamentals for Visual-Scripting: core concepts
+description: "Fundamentals for Visual-Scripting: core concepts"
 category: gamedev
 tags: [visual-scripting, fundamentals, gamedev]
 models: [sonnet, opus]

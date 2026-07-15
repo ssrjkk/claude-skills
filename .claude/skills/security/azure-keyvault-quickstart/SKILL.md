@@ -1,6 +1,6 @@
 ---
 name: azure-keyvault-quickstart
-description: Quickstart for Azure-Keyvault: quick start guide
+description: "Quickstart for Azure-Keyvault: quick start guide"
 category: security
 tags: [azure-keyvault, quickstart, security]
 models: [sonnet, opus]

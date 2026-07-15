@@ -1,6 +1,6 @@
 ---
 name: aesprite-production
-description: Production for Aesprite: production deployment
+description: "Production for Aesprite: production deployment"
 category: gamedev
 tags: [aesprite-production, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: csrd-data
-description: Data with CSRD. data collection.
+description: "Data with CSRD. data collection."
 category: sustainability
 tags: [csrd, data, sustainability, sustainability]
 models: [gpt-4, claude-3]

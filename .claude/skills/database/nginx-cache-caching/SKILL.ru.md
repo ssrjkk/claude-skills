@@ -1,6 +1,6 @@
 ---
 name: nginx-cache-caching
-description: Caching with Nginx Cache. caching strategies.
+description: "Caching with Nginx Cache. caching strategies."
 category: database
 tags: [nginx-cache-caching, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mysql-debugging
-description: Debugging for Mysql: debugging and troubleshooting
+description: "Debugging for Mysql: debugging and troubleshooting"
 category: database
 tags: [mysql, debugging, database]
 models: [sonnet, opus]

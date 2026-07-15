@@ -1,6 +1,6 @@
 ---
 name: aurelia-animations
-description: Animations with Aurelia. UI animations.
+description: "Animations with Aurelia. UI animations."
 category: frontend
 tags: [aurelia-animations, frontend, russian]
 models: [sonnet, opus]

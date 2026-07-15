@@ -1,6 +1,6 @@
 ---
 name: vlan-automation
-description: Automation with VLAN. network automation.
+description: "Automation with VLAN. network automation."
 category: networking
 tags: [vlan-automation, networking, russian]
 models: [sonnet, opus]

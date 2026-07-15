@@ -1,6 +1,6 @@
 ---
 name: svelte-debugging
-description: Debugging for Svelte: debugging and troubleshooting
+description: "Debugging for Svelte: debugging and troubleshooting"
 category: frontend
 tags: [svelte, debugging, frontend]
 models: [sonnet, opus]

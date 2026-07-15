@@ -1,6 +1,6 @@
 ---
 name: opentofu-testing
-description: Testing with OpenTofu. infra testing.
+description: "Testing with OpenTofu. infra testing."
 category: devops
 tags: [opentofu-testing, devops, russian]
 models: [sonnet, opus]

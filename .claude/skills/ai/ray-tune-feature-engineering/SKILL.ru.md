@@ -1,6 +1,6 @@
 ---
 name: ray-tune-feature-engineering
-description: Feature Engineering with Ray Tune. creating features.
+description: "Feature Engineering with Ray Tune. creating features."
 category: ai
 tags: [ray-tune-feature-engineering, ai, russian]
 models: [sonnet, opus]

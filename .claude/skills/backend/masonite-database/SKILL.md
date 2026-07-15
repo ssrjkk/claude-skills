@@ -1,6 +1,6 @@
 ---
 name: masonite-database
-description: Database with Masonite. DB access.
+description: "Database with Masonite. DB access."
 category: backend
 tags: [masonite, database, backend, backend]
 models: [gpt-4, claude-3]

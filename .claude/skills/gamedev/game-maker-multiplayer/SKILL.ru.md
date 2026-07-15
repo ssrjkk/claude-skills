@@ -1,6 +1,6 @@
 ---
 name: game-maker-multiplayer
-description: Multiplayer with GameMaker. networking.
+description: "Multiplayer with GameMaker. networking."
 category: gamedev
 tags: [game-maker-multiplayer, gamedev, russian]
 models: [sonnet, opus]

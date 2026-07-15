@@ -1,6 +1,6 @@
 ---
 name: qwik-api-routes
-description: API Routes with Qwik. API endpoints.
+description: "API Routes with Qwik. API endpoints."
 category: frontend
 tags: [qwik-api-routes, frontend, russian]
 models: [sonnet, opus]

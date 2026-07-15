@@ -1,6 +1,6 @@
 ---
 name: electron-styling
-description: Styling with Electron. styling.
+description: "Styling with Electron. styling."
 category: desktop
 tags: [electron, styling, desktop, desktop]
 models: [gpt-4, claude-3]

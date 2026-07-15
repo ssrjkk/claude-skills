@@ -1,6 +1,6 @@
 ---
 name: penpot-versioning
-description: Versioning with Penpot. version control.
+description: "Versioning with Penpot. version control."
 category: design
 tags: [penpot, versioning, design, design]
 models: [gpt-4, claude-3]

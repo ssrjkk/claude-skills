@@ -1,6 +1,6 @@
 ---
 name: owasp-advanced
-description: Advanced for Owasp: advanced patterns and techniques
+description: "Advanced for Owasp: advanced patterns and techniques"
 category: security
 tags: [owasp, advanced, security]
 models: [sonnet, opus]

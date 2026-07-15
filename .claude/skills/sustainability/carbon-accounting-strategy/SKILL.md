@@ -1,6 +1,6 @@
 ---
 name: carbon-accounting-strategy
-description: Strategy with Carbon Accounting. strategy.
+description: "Strategy with Carbon Accounting. strategy."
 category: sustainability
 tags: [carbon-accounting, strategy, sustainability, sustainability]
 models: [gpt-4, claude-3]

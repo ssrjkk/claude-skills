@@ -1,6 +1,6 @@
 ---
 name: cml-troubleshooting
-description: Troubleshooting for Cml: troubleshooting common issues
+description: "Troubleshooting for Cml: troubleshooting common issues"
 category: data
 tags: [cml, troubleshooting, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: azure-keyvault-fundamentals
-description: Fundamentals for Azure-Keyvault: core concepts
+description: "Fundamentals for Azure-Keyvault: core concepts"
 category: security
 tags: [azure-keyvault, fundamentals, security]
 models: [sonnet, opus]

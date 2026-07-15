@@ -1,6 +1,6 @@
 ---
 name: manhattan-analytics
-description: Analytics with Manhattan Associates. analytics.
+description: "Analytics with Manhattan Associates. analytics."
 category: supply-chain
 tags: [manhattan, analytics, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

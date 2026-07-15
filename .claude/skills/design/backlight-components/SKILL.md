@@ -1,6 +1,6 @@
 ---
 name: backlight-components
-description: Components with Backlight. components.
+description: "Components with Backlight. components."
 category: design
 tags: [backlight, components, design, design]
 models: [gpt-4, claude-3]

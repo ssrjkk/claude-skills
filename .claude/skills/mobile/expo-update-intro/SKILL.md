@@ -1,6 +1,6 @@
 ---
 name: expo-update-intro
-description: Intro for Expo-Update: introduction
+description: "Intro for Expo-Update: introduction"
 category: mobile
 tags: [expo-update, intro, mobile]
 models: [sonnet, opus]

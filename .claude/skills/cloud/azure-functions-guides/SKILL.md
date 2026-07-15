@@ -1,6 +1,6 @@
 ---
 name: azure-functions-guides
-description: Guides for Azure-Functions: how-to guides
+description: "Guides for Azure-Functions: how-to guides"
 category: cloud
 tags: [azure-functions, guides, cloud]
 models: [sonnet, opus]

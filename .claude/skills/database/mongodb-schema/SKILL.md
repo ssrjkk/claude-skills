@@ -1,6 +1,6 @@
 ---
 name: mongodb-schema
-description: Schema Design with MongoDB. schema design.
+description: "Schema Design with MongoDB. schema design."
 category: database
 tags: [mongodb, schema, database, nosql]
 models: [gpt-4, claude-3]

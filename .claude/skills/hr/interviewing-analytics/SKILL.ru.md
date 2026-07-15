@@ -1,6 +1,6 @@
 ---
 name: interviewing-analytics
-description: Analytics with Technical Interviewing. analytics.
+description: "Analytics with Technical Interviewing. analytics."
 category: hr
 tags: [interviewing-analytics, hr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: tide-deployment
-description: Deployment with Tide. build.
+description: "Deployment with Tide. build."
 category: backend
 tags: [tide, deployment, backend, backend]
 models: [gpt-4, claude-3]

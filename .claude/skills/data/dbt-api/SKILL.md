@@ -1,6 +1,6 @@
 ---
 name: dbt-api
-description: API for Dbt: API development and integration
+description: "API for Dbt: API development and integration"
 category: data
 tags: [dbt, api, data]
 models: [sonnet, opus]

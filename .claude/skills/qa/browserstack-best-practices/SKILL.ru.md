@@ -1,6 +1,6 @@
 ---
 name: browserstack-best-practices
-description: Best Practices for Browserstack: best practices and patterns
+description: "Best Practices for Browserstack: best practices and patterns"
 category: qa
 tags: [browserstack-best-practices, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: lakefs-automation
-description: Automation for Lakefs: automation and scripting
+description: "Automation for Lakefs: automation and scripting"
 category: data
 tags: [lakefs, automation, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: godot-publishing
-description: Publishing with Godot. publishing.
+description: "Publishing with Godot. publishing."
 category: gamedev
 tags: [godot, publishing, gamedev, game-engine]
 models: [gpt-4, claude-3]

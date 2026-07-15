@@ -1,6 +1,6 @@
 ---
 name: ansible-debugging
-description: Debugging for Ansible: debugging and troubleshooting
+description: "Debugging for Ansible: debugging and troubleshooting"
 category: devops
 tags: [ansible, debugging, devops]
 models: [sonnet, opus]

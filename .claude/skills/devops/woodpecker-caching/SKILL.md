@@ -1,6 +1,6 @@
 ---
 name: woodpecker-caching
-description: Caching with Woodpecker. dependency caching.
+description: "Caching with Woodpecker. dependency caching."
 category: devops
 tags: [woodpecker, caching, devops, ci-cd]
 models: [gpt-4, claude-3]

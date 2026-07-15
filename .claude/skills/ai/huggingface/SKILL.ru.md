@@ -1,6 +1,6 @@
 ---
 name: huggingface
-description: Loads, fine-tunes, and deploys models from HuggingFace Hub for NLP, CV, and audio tasks.
+description: "Loads, fine-tunes, and deploys models from HuggingFace Hub for NLP, CV, and audio tasks."
 category: ai
 tags: [huggingface, ai, russian]
 models: [sonnet, opus]

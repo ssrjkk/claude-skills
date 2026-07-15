@@ -1,6 +1,6 @@
 ---
 name: nestjs-websocket
-description: WebSocket with NestJS. Socket.io.
+description: "WebSocket with NestJS. Socket.io."
 category: backend
 tags: [nestjs, websocket, backend, backend]
 models: [gpt-4, claude-3]

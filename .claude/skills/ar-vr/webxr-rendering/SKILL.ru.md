@@ -1,6 +1,6 @@
 ---
 name: webxr-rendering
-description: Rendering with WebXR. stereoscopic.
+description: "Rendering with WebXR. stereoscopic."
 category: ar-vr
 tags: [webxr-rendering, ar-vr, russian]
 models: [sonnet, opus]

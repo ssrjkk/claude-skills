@@ -1,6 +1,6 @@
 ---
 name: factory-implementation
-description: Implementation with Factory. practical implementation.
+description: "Implementation with Factory. practical implementation."
 category: backend
 tags: [factory-implementation, backend, russian]
 models: [sonnet, opus]

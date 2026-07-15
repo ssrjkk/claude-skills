@@ -1,6 +1,6 @@
 ---
 name: penpot-plugins
-description: Plugins with Penpot. plugins.
+description: "Plugins with Penpot. plugins."
 category: design
 tags: [penpot-plugins, design, russian]
 models: [sonnet, opus]

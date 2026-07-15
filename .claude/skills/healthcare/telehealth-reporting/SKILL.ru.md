@@ -1,6 +1,6 @@
 ---
 name: telehealth-reporting
-description: Reporting with Telehealth. reports.
+description: "Reporting with Telehealth. reports."
 category: healthcare
 tags: [telehealth-reporting, healthcare, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vitest-coverage
-description: Coverage with Vitest. code coverage.
+description: "Coverage with Vitest. code coverage."
 category: qa
 tags: [vitest-coverage, qa, russian]
 models: [sonnet, opus]

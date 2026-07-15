@@ -1,6 +1,6 @@
 ---
 name: neptune-configuration
-description: Configuration for Neptune: configuration and setup
+description: "Configuration for Neptune: configuration and setup"
 category: data
 tags: [neptune, configuration, data]
 models: [sonnet, opus]

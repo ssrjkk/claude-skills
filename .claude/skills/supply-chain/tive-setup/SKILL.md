@@ -1,6 +1,6 @@
 ---
 name: tive-setup
-description: Setup with Tive. setup.
+description: "Setup with Tive. setup."
 category: supply-chain
 tags: [tive, setup, supply-chain, logistics]
 models: [gpt-4, claude-3]

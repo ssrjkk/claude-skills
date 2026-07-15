@@ -1,6 +1,6 @@
 ---
 name: eleventy-ssg
-description: SSG with Eleventy. static generation.
+description: "SSG with Eleventy. static generation."
 category: frontend
 tags: [eleventy, ssg, frontend, meta-framework]
 models: [gpt-4, claude-3]

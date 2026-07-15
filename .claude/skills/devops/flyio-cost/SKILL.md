@@ -1,6 +1,6 @@
 ---
 name: flyio-cost
-description: Cost with Fly.io. cost optimization.
+description: "Cost with Fly.io. cost optimization."
 category: devops
 tags: [flyio, cost, devops, cloud]
 models: [gpt-4, claude-3]

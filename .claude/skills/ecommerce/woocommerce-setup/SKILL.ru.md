@@ -1,6 +1,6 @@
 ---
 name: woocommerce-setup
-description: Setup with WooCommerce. setup.
+description: "Setup with WooCommerce. setup."
 category: ecommerce
 tags: [woocommerce-setup, ecommerce, russian]
 models: [sonnet, opus]

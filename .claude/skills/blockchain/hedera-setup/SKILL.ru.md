@@ -1,6 +1,6 @@
 ---
 name: hedera-setup
-description: Setup with Hedera. node setup.
+description: "Setup with Hedera. node setup."
 category: blockchain
 tags: [hedera-setup, blockchain, russian]
 models: [sonnet, opus]

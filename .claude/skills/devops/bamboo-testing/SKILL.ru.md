@@ -1,6 +1,6 @@
 ---
 name: bamboo-testing
-description: Testing with Bamboo. automated tests.
+description: "Testing with Bamboo. automated tests."
 category: devops
 tags: [bamboo-testing, devops, russian]
 models: [sonnet, opus]

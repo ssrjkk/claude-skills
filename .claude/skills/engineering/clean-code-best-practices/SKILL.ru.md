@@ -1,6 +1,6 @@
 ---
 name: clean-code-best-practices
-description: Best Practices with Clean Code. tips.
+description: "Best Practices with Clean Code. tips."
 category: engineering
 tags: [clean-code-best-practices, engineering, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: parcel-optimization
-description: Optimization with Parcel. build optimization.
+description: "Optimization with Parcel. build optimization."
 category: frontend
 tags: [parcel, optimization, frontend, build-tool]
 models: [gpt-4, claude-3]

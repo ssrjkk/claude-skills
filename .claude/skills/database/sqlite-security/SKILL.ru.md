@@ -1,6 +1,6 @@
 ---
 name: sqlite-security
-description: Security with SQLite. access control.
+description: "Security with SQLite. access control."
 category: database
 tags: [sqlite-security, database, russian]
 models: [sonnet, opus]

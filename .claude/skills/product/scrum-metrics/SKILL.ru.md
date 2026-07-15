@@ -1,6 +1,6 @@
 ---
 name: scrum-metrics
-description: Metrics with Scrum. measurement.
+description: "Metrics with Scrum. measurement."
 category: product
 tags: [scrum-metrics, product, russian]
 models: [sonnet, opus]

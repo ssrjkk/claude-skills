@@ -1,6 +1,6 @@
 ---
 name: unity-advanced
-description: Advanced for Unity: advanced patterns and techniques
+description: "Advanced for Unity: advanced patterns and techniques"
 category: gamedev
 tags: [unity-advanced, gamedev, russian]
 models: [sonnet, opus]

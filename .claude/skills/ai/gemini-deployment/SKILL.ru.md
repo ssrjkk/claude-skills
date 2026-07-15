@@ -1,6 +1,6 @@
 ---
 name: gemini-deployment
-description: Deployment for Gemini: deployment and release
+description: "Deployment for Gemini: deployment and release"
 category: ai
 tags: [gemini-deployment, ai, russian]
 models: [sonnet, opus]

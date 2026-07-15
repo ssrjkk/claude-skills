@@ -1,6 +1,6 @@
 ---
 name: iso27001-monitoring
-description: Monitoring with ISO 27001. security monitoring.
+description: "Monitoring with ISO 27001. security monitoring."
 category: security
 tags: [iso27001-monitoring, security, russian]
 models: [sonnet, opus]

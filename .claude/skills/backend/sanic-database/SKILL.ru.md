@@ -1,6 +1,6 @@
 ---
 name: sanic-database
-description: Database with Sanic. DB access.
+description: "Database with Sanic. DB access."
 category: backend
 tags: [sanic-database, backend, russian]
 models: [sonnet, opus]

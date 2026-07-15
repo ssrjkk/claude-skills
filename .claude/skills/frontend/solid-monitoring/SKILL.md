@@ -1,6 +1,6 @@
 ---
 name: solid-monitoring
-description: Monitoring for Solid: monitoring and observability
+description: "Monitoring for Solid: monitoring and observability"
 category: frontend
 tags: [solid, monitoring, frontend]
 models: [sonnet, opus]

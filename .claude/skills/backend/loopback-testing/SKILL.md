@@ -1,6 +1,6 @@
 ---
 name: loopback-testing
-description: Testing with LoopBack. Jest.
+description: "Testing with LoopBack. Jest."
 category: backend
 tags: [loopback, testing, backend, backend]
 models: [gpt-4, claude-3]

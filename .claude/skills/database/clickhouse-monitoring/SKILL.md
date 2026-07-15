@@ -1,6 +1,6 @@
 ---
 name: clickhouse-monitoring
-description: Monitoring with ClickHouse. monitoring.
+description: "Monitoring with ClickHouse. monitoring."
 category: database
 tags: [clickhouse, monitoring, database, time-series]
 models: [gpt-4, claude-3]

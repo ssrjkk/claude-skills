@@ -1,6 +1,6 @@
 ---
 name: stimulus-forms
-description: Forms with Stimulus. form handling.
+description: "Forms with Stimulus. form handling."
 category: frontend
 tags: [stimulus, forms, frontend, frontend]
 models: [gpt-4, claude-3]

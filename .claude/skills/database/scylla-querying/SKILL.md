@@ -1,6 +1,6 @@
 ---
 name: scylla-querying
-description: Querying with ScyllaDB. queries.
+description: "Querying with ScyllaDB. queries."
 category: database
 tags: [scylla, querying, database, nosql]
 models: [gpt-4, claude-3]

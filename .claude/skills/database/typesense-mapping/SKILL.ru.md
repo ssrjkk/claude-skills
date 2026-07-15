@@ -1,6 +1,6 @@
 ---
 name: typesense-mapping
-description: Mapping with Typesense. field mapping.
+description: "Mapping with Typesense. field mapping."
 category: database
 tags: [typesense-mapping, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: pro-builder-fundamentals
-description: Fundamentals for Pro-Builder: core concepts
+description: "Fundamentals for Pro-Builder: core concepts"
 category: gamedev
 tags: [pro-builder-fundamentals, gamedev, russian]
 models: [sonnet, opus]

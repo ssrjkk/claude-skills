@@ -1,6 +1,6 @@
 ---
 name: forest
-description: Development with Forest: tools and best practices
+description: "Development with Forest: tools and best practices"
 category: devops
 tags: [forest, devops, russian]
 models: [sonnet, opus]

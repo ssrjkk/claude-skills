@@ -1,6 +1,6 @@
 ---
 name: typescript-logging
-description: Logging with Typescript. app logging.
+description: "Logging with Typescript. app logging."
 category: backend
 tags: [typescript, logging, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: fhir-implementation
-description: Implementation with FHIR. integration.
+description: "Implementation with FHIR. integration."
 category: healthcare
 tags: [fhir-implementation, healthcare, russian]
 models: [sonnet, opus]

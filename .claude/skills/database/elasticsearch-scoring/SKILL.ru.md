@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-scoring
-description: Scoring with Elasticsearch. relevance scoring.
+description: "Scoring with Elasticsearch. relevance scoring."
 category: database
 tags: [elasticsearch-scoring, database, russian]
 models: [sonnet, opus]

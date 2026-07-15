@@ -1,6 +1,6 @@
 ---
 name: ping-performance
-description: Performance with ping/traceroute. benchmarking.
+description: "Performance with ping/traceroute. benchmarking."
 category: networking
 tags: [ping, performance, networking, networking-tool]
 models: [gpt-4, claude-3]

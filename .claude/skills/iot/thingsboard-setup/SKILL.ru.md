@@ -1,6 +1,6 @@
 ---
 name: thingsboard-setup
-description: Setup with ThingsBoard. setup.
+description: "Setup with ThingsBoard. setup."
 category: iot
 tags: [thingsboard-setup, iot, russian]
 models: [sonnet, opus]

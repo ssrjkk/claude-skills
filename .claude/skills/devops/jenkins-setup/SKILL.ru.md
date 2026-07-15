@@ -1,6 +1,6 @@
 ---
 name: jenkins-setup
-description: Setup with Jenkins. pipeline setup.
+description: "Setup with Jenkins. pipeline setup."
 category: devops
 tags: [jenkins-setup, devops, russian]
 models: [sonnet, opus]

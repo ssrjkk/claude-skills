@@ -1,6 +1,6 @@
 ---
 name: rails-api
-description: API with Rails. API building.
+description: "API with Rails. API building."
 category: backend
 tags: [rails, api, backend, backend]
 models: [gpt-4, claude-3]

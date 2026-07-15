@@ -1,6 +1,6 @@
 ---
 name: kafka-advanced
-description: Advanced for Kafka: advanced patterns and techniques
+description: "Advanced for Kafka: advanced patterns and techniques"
 category: data
 tags: [kafka, advanced, data]
 models: [sonnet, opus]

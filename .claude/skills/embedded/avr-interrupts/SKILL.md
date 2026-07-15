@@ -1,6 +1,6 @@
 ---
 name: avr-interrupts
-description: Interrupts with AVR. interrupts.
+description: "Interrupts with AVR. interrupts."
 category: embedded
 tags: [avr, interrupts, embedded, embedded-arch]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: tempo-logging
-description: Logging with Tempo. log collection.
+description: "Logging with Tempo. log collection."
 category: devops
 tags: [tempo, logging, devops, monitoring]
 models: [gpt-4, claude-3]

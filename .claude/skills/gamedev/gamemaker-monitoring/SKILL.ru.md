@@ -1,6 +1,6 @@
 ---
 name: gamemaker-monitoring
-description: Monitoring for Gamemaker: monitoring and observability
+description: "Monitoring for Gamemaker: monitoring and observability"
 category: gamedev
 tags: [gamemaker-monitoring, gamedev, russian]
 models: [sonnet, opus]

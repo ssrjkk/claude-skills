@@ -1,6 +1,6 @@
 ---
 name: hono-auth
-description: Auth with Hono. JWT.
+description: "Auth with Hono. JWT."
 category: backend
 tags: [hono, auth, backend, backend]
 models: [gpt-4, claude-3]

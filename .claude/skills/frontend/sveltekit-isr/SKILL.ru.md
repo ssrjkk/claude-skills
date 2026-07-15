@@ -1,6 +1,6 @@
 ---
 name: sveltekit-isr
-description: ISR with SvelteKit. incremental.
+description: "ISR with SvelteKit. incremental."
 category: frontend
 tags: [sveltekit-isr, frontend, russian]
 models: [sonnet, opus]

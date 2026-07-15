@@ -1,6 +1,6 @@
 ---
 name: cypress-testing
-description: Testing for Cypress: testing and validation
+description: "Testing for Cypress: testing and validation"
 category: qa
 tags: [cypress, testing, qa]
 models: [sonnet, opus]

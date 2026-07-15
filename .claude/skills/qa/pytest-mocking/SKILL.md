@@ -1,6 +1,6 @@
 ---
 name: pytest-mocking
-description: Mocking with pytest. mocks.
+description: "Mocking with pytest. mocks."
 category: qa
 tags: [pytest, mocking, qa, testing]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: applitools-automation
-description: Automation for Applitools: automation and scripting
+description: "Automation for Applitools: automation and scripting"
 category: qa
 tags: [applitools-automation, qa, russian]
 models: [sonnet, opus]

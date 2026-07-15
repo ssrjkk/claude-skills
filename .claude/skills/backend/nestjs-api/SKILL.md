@@ -1,6 +1,6 @@
 ---
 name: nestjs-api
-description: API for Nestjs: API development and integration
+description: "API for Nestjs: API development and integration"
 category: backend
 tags: [nestjs, api, backend]
 models: [sonnet, opus]

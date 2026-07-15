@@ -1,6 +1,6 @@
 ---
 name: xstate-persistence
-description: Persistence with XState. state persistence.
+description: "Persistence with XState. state persistence."
 category: frontend
 tags: [xstate, persistence, frontend, state-management]
 models: [gpt-4, claude-3]

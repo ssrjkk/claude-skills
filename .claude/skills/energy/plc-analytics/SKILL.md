@@ -1,6 +1,6 @@
 ---
 name: plc-analytics
-description: Analytics with PLC Programming. analytics.
+description: "Analytics with PLC Programming. analytics."
 category: energy
 tags: [plc, analytics, energy, smart-grid]
 models: [gpt-4, claude-3]

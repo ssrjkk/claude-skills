@@ -1,6 +1,6 @@
 ---
 name: scrum-coaching
-description: Coaching with Scrum. team coaching.
+description: "Coaching with Scrum. team coaching."
 category: product
 tags: [scrum-coaching, product, russian]
 models: [sonnet, opus]

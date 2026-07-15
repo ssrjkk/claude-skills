@@ -1,6 +1,6 @@
 ---
 name: dart-advanced
-description: Advanced for Dart: advanced patterns and techniques
+description: "Advanced for Dart: advanced patterns and techniques"
 category: mobile
 tags: [dart-advanced, mobile, russian]
 models: [sonnet, opus]

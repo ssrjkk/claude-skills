@@ -1,6 +1,6 @@
 ---
 name: ignite-monitoring
-description: Monitoring with Apache Ignite. monitoring.
+description: "Monitoring with Apache Ignite. monitoring."
 category: database
 tags: [ignite-monitoring, database, russian]
 models: [sonnet, opus]

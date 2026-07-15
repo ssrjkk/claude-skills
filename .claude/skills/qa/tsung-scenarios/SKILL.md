@@ -1,6 +1,6 @@
 ---
 name: tsung-scenarios
-description: Scenarios with Tsung. test scenarios.
+description: "Scenarios with Tsung. test scenarios."
 category: qa
 tags: [tsung, scenarios, qa, performance-testing]
 models: [gpt-4, claude-3]

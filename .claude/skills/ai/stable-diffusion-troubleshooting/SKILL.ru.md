@@ -1,6 +1,6 @@
 ---
 name: stable-diffusion-troubleshooting
-description: Troubleshooting for Stable-Diffusion: troubleshooting common issues
+description: "Troubleshooting for Stable-Diffusion: troubleshooting common issues"
 category: ai
 tags: [stable-diffusion-troubleshooting, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: newrelic-tracing
-description: Tracing with New Relic. distributed tracing.
+description: "Tracing with New Relic. distributed tracing."
 category: devops
 tags: [newrelic-tracing, devops, russian]
 models: [sonnet, opus]

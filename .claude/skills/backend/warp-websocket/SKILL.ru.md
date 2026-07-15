@@ -1,6 +1,6 @@
 ---
 name: warp-websocket
-description: WebSocket with Warp. real-time.
+description: "WebSocket with Warp. real-time."
 category: backend
 tags: [warp-websocket, backend, russian]
 models: [sonnet, opus]

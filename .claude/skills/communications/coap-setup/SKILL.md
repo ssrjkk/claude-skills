@@ -1,6 +1,6 @@
 ---
 name: coap-setup
-description: Setup with CoAP. setup.
+description: "Setup with CoAP. setup."
 category: communications
 tags: [coap, setup, communications, communication-protocol]
 models: [gpt-4, claude-3]

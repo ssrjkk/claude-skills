@@ -1,6 +1,6 @@
 ---
 name: swift-dependency-injection
-description: DI with Swift. DI containers.
+description: "DI with Swift. DI containers."
 category: backend
 tags: [swift-dependency-injection, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: fourkites-analytics
-description: Analytics with FourKites. analytics.
+description: "Analytics with FourKites. analytics."
 category: supply-chain
 tags: [fourkites-analytics, supply-chain, russian]
 models: [sonnet, opus]

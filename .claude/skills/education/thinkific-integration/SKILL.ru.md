@@ -1,6 +1,6 @@
 ---
 name: thinkific-integration
-description: Integration with Thinkific. LTI.
+description: "Integration with Thinkific. LTI."
 category: education
 tags: [thinkific-integration, education, russian]
 models: [sonnet, opus]

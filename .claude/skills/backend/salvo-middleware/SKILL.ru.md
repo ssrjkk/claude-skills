@@ -1,6 +1,6 @@
 ---
 name: salvo-middleware
-description: Middleware with Salvo. request pipeline.
+description: "Middleware with Salvo. request pipeline."
 category: backend
 tags: [salvo-middleware, backend, russian]
 models: [sonnet, opus]

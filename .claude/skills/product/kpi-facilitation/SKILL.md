@@ -1,6 +1,6 @@
 ---
 name: kpi-facilitation
-description: Facilitation with KPIs. running.
+description: "Facilitation with KPIs. running."
 category: product
 tags: [kpi, facilitation, product, product-framework]
 models: [gpt-4, claude-3]

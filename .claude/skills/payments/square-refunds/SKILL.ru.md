@@ -1,6 +1,6 @@
 ---
 name: square-refunds
-description: Refunds with Square. refunds.
+description: "Refunds with Square. refunds."
 category: payments
 tags: [square-refunds, payments, russian]
 models: [sonnet, opus]

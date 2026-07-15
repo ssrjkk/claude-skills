@@ -1,6 +1,6 @@
 ---
 name: nebula-visualization
-description: Visualization with Nebula Graph. graph viz.
+description: "Visualization with Nebula Graph. graph viz."
 category: database
 tags: [nebula-visualization, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vault-getting-started
-description: Getting Started for Vault: initial setup and first steps
+description: "Getting Started for Vault: initial setup and first steps"
 category: devops
 tags: [vault-getting-started, devops, russian]
 models: [sonnet, opus]

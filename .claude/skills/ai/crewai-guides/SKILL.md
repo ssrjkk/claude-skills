@@ -1,6 +1,6 @@
 ---
 name: crewai-guides
-description: Guides for Crewai: how-to guides
+description: "Guides for Crewai: how-to guides"
 category: ai
 tags: [crewai, guides, ai]
 models: [sonnet, opus]

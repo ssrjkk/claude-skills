@@ -1,6 +1,6 @@
 ---
 name: xapi-deployment
-description: Deployment with xAPI. deployment.
+description: "Deployment with xAPI. deployment."
 category: education
 tags: [xapi, deployment, education, education-standard]
 models: [gpt-4, claude-3]

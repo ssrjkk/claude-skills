@@ -1,6 +1,6 @@
 ---
 name: prince2-facilitation
-description: Facilitation with PRINCE2. sessions.
+description: "Facilitation with PRINCE2. sessions."
 category: product
 tags: [prince2, facilitation, product, methodology]
 models: [gpt-4, claude-3]

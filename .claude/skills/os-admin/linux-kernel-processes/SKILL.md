@@ -1,6 +1,6 @@
 ---
 name: linux-kernel-processes
-description: Processes with Linux Kernel. process management.
+description: "Processes with Linux Kernel. process management."
 category: os-admin
 tags: [linux-kernel, processes, os-admin, linux]
 models: [gpt-4, claude-3]

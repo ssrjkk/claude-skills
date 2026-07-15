@@ -1,6 +1,6 @@
 ---
 name: recurly-compliance
-description: Compliance with Recurly. tax compliance.
+description: "Compliance with Recurly. tax compliance."
 category: payments
 tags: [recurly-compliance, payments, russian]
 models: [sonnet, opus]

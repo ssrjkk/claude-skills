@@ -1,6 +1,6 @@
 ---
 name: lxc-setup
-description: Setup with LXC. installation.
+description: "Setup with LXC. installation."
 category: devops
 tags: [lxc, setup, devops, container]
 models: [gpt-4, claude-3]

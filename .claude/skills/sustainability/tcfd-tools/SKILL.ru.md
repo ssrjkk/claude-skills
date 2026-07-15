@@ -1,6 +1,6 @@
 ---
 name: tcfd-tools
-description: Tools with TCFD. tools.
+description: "Tools with TCFD. tools."
 category: sustainability
 tags: [tcfd-tools, sustainability, russian]
 models: [sonnet, opus]

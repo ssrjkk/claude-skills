@@ -1,6 +1,6 @@
 ---
 name: memcached-security
-description: Security with Memcached. security.
+description: "Security with Memcached. security."
 category: database
 tags: [memcached-security, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: playwright-actions
-description: Actions with Playwright. user actions.
+description: "Actions with Playwright. user actions."
 category: qa
 tags: [playwright, actions, qa, e2e]
 models: [gpt-4, claude-3]

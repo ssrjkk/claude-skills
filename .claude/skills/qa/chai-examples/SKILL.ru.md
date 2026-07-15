@@ -1,6 +1,6 @@
 ---
 name: chai-examples
-description: Examples for Chai: practical examples
+description: "Examples for Chai: practical examples"
 category: qa
 tags: [chai-examples, qa, russian]
 models: [sonnet, opus]

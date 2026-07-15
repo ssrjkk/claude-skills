@@ -1,6 +1,6 @@
 ---
 name: numpy-cleaning
-description: Cleaning with NumPy. data cleaning.
+description: "Cleaning with NumPy. data cleaning."
 category: data
 tags: [numpy-cleaning, data, russian]
 models: [sonnet, opus]

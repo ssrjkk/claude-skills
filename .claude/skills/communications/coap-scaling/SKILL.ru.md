@@ -1,6 +1,6 @@
 ---
 name: coap-scaling
-description: Scaling with CoAP. scaling.
+description: "Scaling with CoAP. scaling."
 category: communications
 tags: [coap-scaling, communications, russian]
 models: [sonnet, opus]

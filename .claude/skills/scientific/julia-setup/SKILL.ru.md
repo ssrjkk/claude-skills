@@ -1,6 +1,6 @@
 ---
 name: julia-setup
-description: Setup with Julia. installation.
+description: "Setup with Julia. installation."
 category: scientific
 tags: [julia-setup, scientific, russian]
 models: [sonnet, opus]

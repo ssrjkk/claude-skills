@@ -1,6 +1,6 @@
 ---
 name: unity-ads-production
-description: Production for Unity-Ads: production deployment
+description: "Production for Unity-Ads: production deployment"
 category: gamedev
 tags: [unity-ads, production, gamedev]
 models: [sonnet, opus]

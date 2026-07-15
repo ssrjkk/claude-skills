@@ -1,6 +1,6 @@
 ---
 name: nrf52-wifi
-description: WiFi with nRF52. wireless.
+description: "WiFi with nRF52. wireless."
 category: iot
 tags: [nrf52-wifi, iot, russian]
 models: [sonnet, opus]

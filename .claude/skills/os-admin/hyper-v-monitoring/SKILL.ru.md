@@ -1,6 +1,6 @@
 ---
 name: hyper-v-monitoring
-description: Monitoring with Hyper-V. monitoring.
+description: "Monitoring with Hyper-V. monitoring."
 category: os-admin
 tags: [hyper-v-monitoring, os-admin, russian]
 models: [sonnet, opus]

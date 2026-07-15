@@ -1,6 +1,6 @@
 ---
 name: jotai-store
-description: Store with Jotai. state store.
+description: "Store with Jotai. state store."
 category: frontend
 tags: [jotai-store, frontend, russian]
 models: [sonnet, opus]

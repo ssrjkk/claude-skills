@@ -1,6 +1,6 @@
 ---
 name: rag-advanced
-description: Advanced RAG patterns (HyDE, multi-hop, agentic RAG)
+description: "Advanced RAG patterns (HyDE, multi-hop, agentic RAG)"
 category: ai
 tags: [rag, retrieval, hyde, multi-hop, agentic]
 models: [sonnet, opus]

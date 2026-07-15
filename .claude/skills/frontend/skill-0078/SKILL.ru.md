@@ -1,6 +1,6 @@
 ---
 name: skill-0078
-description: Specialized skill #0078 for frontend development
+description: "Specialized skill #0078 for frontend development"
 category: frontend
 tags: [skill-0078, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: dagger-testing
-description: Testing with Dagger. automated tests.
+description: "Testing with Dagger. automated tests."
 category: devops
 tags: [dagger-testing, devops, russian]
 models: [sonnet, opus]

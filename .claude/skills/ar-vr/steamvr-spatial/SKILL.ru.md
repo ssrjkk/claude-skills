@@ -1,6 +1,6 @@
 ---
 name: steamvr-spatial
-description: Spatial with SteamVR. room mapping.
+description: "Spatial with SteamVR. room mapping."
 category: ar-vr
 tags: [steamvr-spatial, ar-vr, russian]
 models: [sonnet, opus]

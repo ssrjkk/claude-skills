@@ -1,6 +1,6 @@
 ---
 name: blockchain-skill-0151
-description: blockchain specialized skill #0151 for blockchain development
+description: "blockchain specialized skill #0151 for blockchain development"
 category: blockchain
 tags: [blockchain, skill, 0151]
 models: [sonnet, opus]

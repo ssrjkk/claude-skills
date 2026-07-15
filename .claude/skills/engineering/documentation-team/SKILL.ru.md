@@ -1,6 +1,6 @@
 ---
 name: documentation-team
-description: Team with Documentation. team adoption.
+description: "Team with Documentation. team adoption."
 category: engineering
 tags: [documentation-team, engineering, russian]
 models: [sonnet, opus]

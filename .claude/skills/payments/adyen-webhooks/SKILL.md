@@ -1,6 +1,6 @@
 ---
 name: adyen-webhooks
-description: Webhooks with Adyen. webhooks.
+description: "Webhooks with Adyen. webhooks."
 category: payments
 tags: [adyen, webhooks, payments, payments]
 models: [gpt-4, claude-3]

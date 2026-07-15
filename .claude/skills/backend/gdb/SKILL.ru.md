@@ -1,6 +1,6 @@
 ---
 name: gdb
-description: Development with Gdb: tools and best practices
+description: "Development with Gdb: tools and best practices"
 category: backend
 tags: [gdb, backend, russian]
 models: [sonnet, opus]

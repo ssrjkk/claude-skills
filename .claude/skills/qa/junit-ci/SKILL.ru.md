@@ -1,6 +1,6 @@
 ---
 name: junit-ci
-description: CI with JUnit. CI integration.
+description: "CI with JUnit. CI integration."
 category: qa
 tags: [junit-ci, qa, russian]
 models: [sonnet, opus]

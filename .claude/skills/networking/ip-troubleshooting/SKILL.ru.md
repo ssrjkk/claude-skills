@@ -1,6 +1,6 @@
 ---
 name: ip-troubleshooting
-description: Troubleshooting with ip/ifconfig. debugging.
+description: "Troubleshooting with ip/ifconfig. debugging."
 category: networking
 tags: [ip-troubleshooting, networking, russian]
 models: [sonnet, opus]

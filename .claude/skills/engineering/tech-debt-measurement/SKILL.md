@@ -1,6 +1,6 @@
 ---
 name: tech-debt-measurement
-description: Measurement with Tech Debt Management. metrics.
+description: "Measurement with Tech Debt Management. metrics."
 category: engineering
 tags: [tech-debt, measurement, engineering, engineering]
 models: [gpt-4, claude-3]

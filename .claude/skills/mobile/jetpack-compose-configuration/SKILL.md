@@ -1,6 +1,6 @@
 ---
 name: jetpack-compose-configuration
-description: Configuration for Jetpack-Compose: configuration and setup
+description: "Configuration for Jetpack-Compose: configuration and setup"
 category: mobile
 tags: [jetpack-compose, configuration, mobile]
 models: [sonnet, opus]

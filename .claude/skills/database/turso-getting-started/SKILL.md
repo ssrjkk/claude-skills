@@ -1,6 +1,6 @@
 ---
 name: turso-getting-started
-description: Getting Started for Turso: initial setup and first steps
+description: "Getting Started for Turso: initial setup and first steps"
 category: database
 tags: [turso, getting-started, database]
 models: [sonnet, opus]

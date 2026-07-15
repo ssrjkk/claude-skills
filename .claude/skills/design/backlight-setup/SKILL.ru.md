@@ -1,6 +1,6 @@
 ---
 name: backlight-setup
-description: Setup with Backlight. workspace.
+description: "Setup with Backlight. workspace."
 category: design
 tags: [backlight-setup, design, russian]
 models: [sonnet, opus]

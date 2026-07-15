@@ -1,6 +1,6 @@
 ---
 name: demand-response-basics
-description: Basics with Demand Response. fundamentals.
+description: "Basics with Demand Response. fundamentals."
 category: energy
 tags: [demand-response, basics, energy, smart-grid]
 models: [gpt-4, claude-3]

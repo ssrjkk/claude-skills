@@ -1,6 +1,6 @@
 ---
 name: home-assistant-security
-description: Security with Home Assistant. device security.
+description: "Security with Home Assistant. device security."
 category: iot
 tags: [home-assistant, security, iot, iot-platform]
 models: [gpt-4, claude-3]

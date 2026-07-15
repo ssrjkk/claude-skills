@@ -1,6 +1,6 @@
 ---
 name: vitepress-routing
-description: Routing with VitePress. file-based routing.
+description: "Routing with VitePress. file-based routing."
 category: frontend
 tags: [vitepress, routing, frontend, meta-framework]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: trino-streaming
-description: Streaming with Trino. real-time.
+description: "Streaming with Trino. real-time."
 category: data
 tags: [trino, streaming, data, data-engineering]
 models: [gpt-4, claude-3]

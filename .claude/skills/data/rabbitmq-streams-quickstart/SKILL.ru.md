@@ -1,6 +1,6 @@
 ---
 name: rabbitmq-streams-quickstart
-description: Quickstart for Rabbitmq-Streams: quick start guide
+description: "Quickstart for Rabbitmq-Streams: quick start guide"
 category: data
 tags: [rabbitmq-streams-quickstart, data, russian]
 models: [sonnet, opus]

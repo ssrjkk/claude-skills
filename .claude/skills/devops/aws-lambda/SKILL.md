@@ -1,6 +1,6 @@
 ---
 name: aws-lambda
-description: Builds and deploys serverless functions with AWS Lambda, API Gateway, and SAM/CDK. Use for event-driven architectures.
+description: "Builds and deploys serverless functions with AWS Lambda, API Gateway, and SAM/CDK. Use for event-driven architectures."
 category: devops
 tags: [aws, lambda, serverless, api-gateway, sam]
 models: [sonnet, opus]

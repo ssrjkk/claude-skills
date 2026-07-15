@@ -1,6 +1,6 @@
 ---
 name: pusher-voice
-description: Voice with Pusher. voice calls.
+description: "Voice with Pusher. voice calls."
 category: communications
 tags: [pusher-voice, communications, russian]
 models: [sonnet, opus]

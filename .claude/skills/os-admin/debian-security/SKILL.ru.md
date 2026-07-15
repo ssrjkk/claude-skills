@@ -1,6 +1,6 @@
 ---
 name: debian-security
-description: Security with Debian. hardening.
+description: "Security with Debian. hardening."
 category: os-admin
 tags: [debian-security, os-admin, russian]
 models: [sonnet, opus]

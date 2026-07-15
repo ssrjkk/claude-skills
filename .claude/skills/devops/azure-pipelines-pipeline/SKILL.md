@@ -1,6 +1,6 @@
 ---
 name: azure-pipelines-pipeline
-description: Pipeline with Azure Pipelines. pipeline creation.
+description: "Pipeline with Azure Pipelines. pipeline creation."
 category: devops
 tags: [azure-pipelines, pipeline, devops, ci-cd]
 models: [gpt-4, claude-3]

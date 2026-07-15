@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-visualization
-description: Visualization with VictoriaMetrics. charting.
+description: "Visualization with VictoriaMetrics. charting."
 category: database
 tags: [victoria-metrics-visualization, database, russian]
 models: [sonnet, opus]

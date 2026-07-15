@@ -1,6 +1,6 @@
 ---
 name: semgrep-best-practices
-description: Best Practices for Semgrep: best practices and patterns
+description: "Best Practices for Semgrep: best practices and patterns"
 category: security
 tags: [semgrep, best-practices, security]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: wandb-production
-description: Production for Wandb: production deployment
+description: "Production for Wandb: production deployment"
 category: data
 tags: [wandb, production, data]
 models: [sonnet, opus]

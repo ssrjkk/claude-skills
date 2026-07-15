@@ -1,6 +1,6 @@
 ---
 name: unreal-security
-description: Security for Unreal: security best practices
+description: "Security for Unreal: security best practices"
 category: gamedev
 tags: [unreal, security, gamedev]
 models: [sonnet, opus]

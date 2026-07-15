@@ -1,6 +1,6 @@
 ---
 name: woocommerce-products
-description: Products with WooCommerce. product management.
+description: "Products with WooCommerce. product management."
 category: ecommerce
 tags: [woocommerce-products, ecommerce, russian]
 models: [sonnet, opus]

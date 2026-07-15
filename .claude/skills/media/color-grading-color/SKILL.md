@@ -1,6 +1,6 @@
 ---
 name: color-grading-color
-description: Color with Color Grading. color grading.
+description: "Color with Color Grading. color grading."
 category: media
 tags: [color-grading, color, media, media-production]
 models: [gpt-4, claude-3]

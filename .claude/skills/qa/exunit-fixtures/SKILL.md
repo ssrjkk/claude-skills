@@ -1,6 +1,6 @@
 ---
 name: exunit-fixtures
-description: Fixtures with ExUnit. test fixtures.
+description: "Fixtures with ExUnit. test fixtures."
 category: qa
 tags: [exunit, fixtures, qa, testing]
 models: [gpt-4, claude-3]

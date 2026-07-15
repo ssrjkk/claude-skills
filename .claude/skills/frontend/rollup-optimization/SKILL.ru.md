@@ -1,6 +1,6 @@
 ---
 name: rollup-optimization
-description: Optimization with Rollup. build optimization.
+description: "Optimization with Rollup. build optimization."
 category: frontend
 tags: [rollup-optimization, frontend, russian]
 models: [sonnet, opus]

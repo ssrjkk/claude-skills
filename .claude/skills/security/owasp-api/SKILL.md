@@ -1,6 +1,6 @@
 ---
 name: owasp-api
-description: API for Owasp: API development and integration
+description: "API for Owasp: API development and integration"
 category: security
 tags: [owasp, api, security]
 models: [sonnet, opus]

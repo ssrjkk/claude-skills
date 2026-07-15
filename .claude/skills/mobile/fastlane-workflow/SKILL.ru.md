@@ -1,6 +1,6 @@
 ---
 name: fastlane-workflow
-description: Workflow for Fastlane: workflow optimization
+description: "Workflow for Fastlane: workflow optimization"
 category: mobile
 tags: [fastlane-workflow, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: north-star-basics
-description: Basics with North Star. fundamentals.
+description: "Basics with North Star. fundamentals."
 category: product
 tags: [north-star-basics, product, russian]
 models: [sonnet, opus]

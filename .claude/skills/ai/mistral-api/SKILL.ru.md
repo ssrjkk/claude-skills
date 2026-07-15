@@ -1,6 +1,6 @@
 ---
 name: mistral-api
-description: API for Mistral: API development and integration
+description: "API for Mistral: API development and integration"
 category: ai
 tags: [mistral-api, ai, russian]
 models: [sonnet, opus]

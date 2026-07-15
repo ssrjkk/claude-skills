@@ -1,6 +1,6 @@
 ---
 name: manhattan-procurement
-description: Procurement with Manhattan Associates. procurement.
+description: "Procurement with Manhattan Associates. procurement."
 category: supply-chain
 tags: [manhattan, procurement, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: kubernetes-monitoring
-description: Monitoring with Kubernetes. monitoring.
+description: "Monitoring with Kubernetes. monitoring."
 category: devops
 tags: [kubernetes, monitoring, devops, kubernetes]
 models: [gpt-4, claude-3]

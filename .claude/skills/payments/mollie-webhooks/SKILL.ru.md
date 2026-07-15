@@ -1,6 +1,6 @@
 ---
 name: mollie-webhooks
-description: Webhooks with Mollie. webhooks.
+description: "Webhooks with Mollie. webhooks."
 category: payments
 tags: [mollie-webhooks, payments, russian]
 models: [sonnet, opus]

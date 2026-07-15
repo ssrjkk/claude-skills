@@ -1,6 +1,6 @@
 ---
 name: soc2-tools
-description: Tools with SOC 2. security tools.
+description: "Tools with SOC 2. security tools."
 category: security
 tags: [soc2-tools, security, russian]
 models: [sonnet, opus]

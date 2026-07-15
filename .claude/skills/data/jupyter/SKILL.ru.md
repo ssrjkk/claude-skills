@@ -1,6 +1,6 @@
 ---
 name: jupyter
-description: Creates and manages Jupyter notebooks for data analysis, visualization, and reproducible research.
+description: "Creates and manages Jupyter notebooks for data analysis, visualization, and reproducible research."
 category: data
 tags: [jupyter, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: paypal-refunds
-description: Refunds with PayPal. refunds.
+description: "Refunds with PayPal. refunds."
 category: payments
 tags: [paypal, refunds, payments, payments]
 models: [gpt-4, claude-3]

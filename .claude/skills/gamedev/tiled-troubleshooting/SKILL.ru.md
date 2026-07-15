@@ -1,6 +1,6 @@
 ---
 name: tiled-troubleshooting
-description: Troubleshooting for Tiled: troubleshooting common issues
+description: "Troubleshooting for Tiled: troubleshooting common issues"
 category: gamedev
 tags: [tiled-troubleshooting, gamedev, russian]
 models: [sonnet, opus]

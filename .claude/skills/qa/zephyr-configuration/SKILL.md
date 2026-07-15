@@ -1,6 +1,6 @@
 ---
 name: zephyr-configuration
-description: Configuration for Zephyr: configuration and setup
+description: "Configuration for Zephyr: configuration and setup"
 category: qa
 tags: [zephyr, configuration, qa]
 models: [sonnet, opus]

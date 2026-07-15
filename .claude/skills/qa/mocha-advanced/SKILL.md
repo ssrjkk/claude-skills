@@ -1,6 +1,6 @@
 ---
 name: mocha-advanced
-description: Advanced for Mocha: advanced patterns and techniques
+description: "Advanced for Mocha: advanced patterns and techniques"
 category: qa
 tags: [mocha, advanced, qa]
 models: [sonnet, opus]

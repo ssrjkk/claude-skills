@@ -1,6 +1,6 @@
 ---
 name: rhel-backup
-description: Backup with RHEL. backup.
+description: "Backup with RHEL. backup."
 category: os-admin
 tags: [rhel-backup, os-admin, russian]
 models: [sonnet, opus]

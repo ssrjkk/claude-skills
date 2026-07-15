@@ -1,6 +1,6 @@
 ---
 name: ci-cd-setup
-description: Sets up CI/CD pipelines for testing using GitHub Actions. Use for automating test runs, builds, and deployments to QA environments.
+description: "Sets up CI/CD pipelines for testing using GitHub Actions. Use for automating test runs, builds, and deployments to QA environments."
 category: ci-cd-setup
 tags: [ci-cd-setup, ci-cd-setup, russian]
 models: [sonnet, opus]

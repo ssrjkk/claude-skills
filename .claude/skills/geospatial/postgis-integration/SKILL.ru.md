@@ -1,6 +1,6 @@
 ---
 name: postgis-integration
-description: Integration with PostGIS. integration.
+description: "Integration with PostGIS. integration."
 category: geospatial
 tags: [postgis-integration, geospatial, russian]
 models: [sonnet, opus]

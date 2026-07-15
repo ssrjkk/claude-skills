@@ -1,6 +1,6 @@
 ---
 name: k6-basics
-description: Basics for K6: fundamentals and core concepts
+description: "Basics for K6: fundamentals and core concepts"
 category: qa
 tags: [k6, basics, qa]
 models: [sonnet, opus]

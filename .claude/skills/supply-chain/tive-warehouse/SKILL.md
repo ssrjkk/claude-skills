@@ -1,6 +1,6 @@
 ---
 name: tive-warehouse
-description: Warehouse with Tive. warehouse ops.
+description: "Warehouse with Tive. warehouse ops."
 category: supply-chain
 tags: [tive, warehouse, supply-chain, logistics]
 models: [gpt-4, claude-3]

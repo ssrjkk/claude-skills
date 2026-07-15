@@ -1,6 +1,6 @@
 ---
 name: demand-response-security
-description: Security with Demand Response. security.
+description: "Security with Demand Response. security."
 category: energy
 tags: [demand-response-security, energy, russian]
 models: [sonnet, opus]

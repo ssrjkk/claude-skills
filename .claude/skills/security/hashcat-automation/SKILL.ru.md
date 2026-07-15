@@ -1,6 +1,6 @@
 ---
 name: hashcat-automation
-description: Automation with Hashcat. automation.
+description: "Automation with Hashcat. automation."
 category: security
 tags: [hashcat-automation, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: zbrush-best-practices
-description: Best Practices for Zbrush: best practices and patterns
+description: "Best Practices for Zbrush: best practices and patterns"
 category: gamedev
 tags: [zbrush, best-practices, gamedev]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: hackerrank-screening
-description: Screening with HackerRank. resume screening.
+description: "Screening with HackerRank. resume screening."
 category: hr
 tags: [hackerrank, screening, hr, recruiting]
 models: [gpt-4, claude-3]

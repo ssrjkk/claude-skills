@@ -1,6 +1,6 @@
 ---
 name: sails-middleware
-description: Middleware with Sails.js. request pipeline.
+description: "Middleware with Sails.js. request pipeline."
 category: backend
 tags: [sails, middleware, backend, backend]
 models: [gpt-4, claude-3]

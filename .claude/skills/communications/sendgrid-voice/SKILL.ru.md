@@ -1,6 +1,6 @@
 ---
 name: sendgrid-voice
-description: Voice with SendGrid. voice calls.
+description: "Voice with SendGrid. voice calls."
 category: communications
 tags: [sendgrid-voice, communications, russian]
 models: [sonnet, opus]

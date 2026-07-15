@@ -1,6 +1,6 @@
 ---
 name: mapbox-integration
-description: Integration with Mapbox. integration.
+description: "Integration with Mapbox. integration."
 category: geospatial
 tags: [mapbox, integration, geospatial, gis]
 models: [gpt-4, claude-3]

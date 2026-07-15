@@ -1,6 +1,6 @@
 ---
 name: vxworks-synchronization
-description: Sync with VxWorks. mutexes.
+description: "Sync with VxWorks. mutexes."
 category: embedded
 tags: [vxworks, synchronization, embedded, rtos]
 models: [gpt-4, claude-3]

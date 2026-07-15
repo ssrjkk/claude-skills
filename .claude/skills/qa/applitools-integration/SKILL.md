@@ -1,6 +1,6 @@
 ---
 name: applitools-integration
-description: Integration for Applitools: integration with other tools
+description: "Integration for Applitools: integration with other tools"
 category: qa
 tags: [applitools, integration, qa]
 models: [sonnet, opus]

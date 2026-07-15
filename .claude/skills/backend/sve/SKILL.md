@@ -1,6 +1,6 @@
 ---
 name: sve
-description: Development with Sve: tools and best practices
+description: "Development with Sve: tools and best practices"
 category: backend
 tags: [sve, backend, development]
 models: [sonnet, opus]

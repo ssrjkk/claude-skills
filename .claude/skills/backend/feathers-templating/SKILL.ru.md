@@ -1,6 +1,6 @@
 ---
 name: feathers-templating
-description: Templating with FeathersJS. Pug.
+description: "Templating with FeathersJS. Pug."
 category: backend
 tags: [feathers-templating, backend, russian]
 models: [sonnet, opus]

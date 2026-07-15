@@ -1,6 +1,6 @@
 ---
 name: centos-packages
-description: Packages with CentOS. package management.
+description: "Packages with CentOS. package management."
 category: os-admin
 tags: [centos, packages, os-admin, linux]
 models: [gpt-4, claude-3]

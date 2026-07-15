@@ -1,6 +1,6 @@
 ---
 name: jwt-optimization
-description: Optimization for Jwt: performance tuning and optimization
+description: "Optimization for Jwt: performance tuning and optimization"
 category: security
 tags: [jwt-optimization, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: capacitor-api
-description: API for Capacitor: API development and integration
+description: "API for Capacitor: API development and integration"
 category: mobile
 tags: [capacitor, api, mobile]
 models: [sonnet, opus]

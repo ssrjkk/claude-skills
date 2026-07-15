@@ -1,6 +1,6 @@
 ---
 name: locust-advanced
-description: Advanced for Locust: advanced patterns and techniques
+description: "Advanced for Locust: advanced patterns and techniques"
 category: qa
 tags: [locust, advanced, qa]
 models: [sonnet, opus]

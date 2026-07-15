@@ -1,6 +1,6 @@
 ---
 name: pulumi-setup
-description: Setup with Pulumi. installation.
+description: "Setup with Pulumi. installation."
 category: devops
 tags: [pulumi-setup, devops, russian]
 models: [sonnet, opus]

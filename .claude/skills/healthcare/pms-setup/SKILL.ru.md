@@ -1,6 +1,6 @@
 ---
 name: pms-setup
-description: Setup with Practice Management. implementation.
+description: "Setup with Practice Management. implementation."
 category: healthcare
 tags: [pms-setup, healthcare, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: system-design-collaboration
-description: Collaboration with System Design. team collaboration.
+description: "Collaboration with System Design. team collaboration."
 category: engineering
 tags: [system-design, collaboration, engineering, modeling]
 models: [gpt-4, claude-3]

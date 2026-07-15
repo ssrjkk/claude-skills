@@ -1,6 +1,6 @@
 ---
 name: rust-cli-tool
-description: CLI Tool with Rust. building CLI tools.
+description: "CLI Tool with Rust. building CLI tools."
 category: backend
 tags: [rust-cli-tool, backend, russian]
 models: [sonnet, opus]

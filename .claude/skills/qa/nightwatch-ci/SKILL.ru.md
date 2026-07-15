@@ -1,6 +1,6 @@
 ---
 name: nightwatch-ci
-description: CI with Nightwatch. CI integration.
+description: "CI with Nightwatch. CI integration."
 category: qa
 tags: [nightwatch-ci, qa, russian]
 models: [sonnet, opus]

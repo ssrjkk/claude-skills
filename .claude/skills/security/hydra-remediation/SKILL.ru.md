@@ -1,6 +1,6 @@
 ---
 name: hydra-remediation
-description: Remediation with Hydra. fixing vulns.
+description: "Remediation with Hydra. fixing vulns."
 category: security
 tags: [hydra-remediation, security, russian]
 models: [sonnet, opus]

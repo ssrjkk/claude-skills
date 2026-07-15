@@ -1,6 +1,6 @@
 ---
 name: crystal-rest-api
-description: REST API with Crystal. building REST APIs.
+description: "REST API with Crystal. building REST APIs."
 category: backend
 tags: [crystal, rest-api, backend, backend]
 models: [gpt-4, claude-3]

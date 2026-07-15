@@ -1,6 +1,6 @@
 ---
 name: neo4j-visualization
-description: Visualization with Neo4j. graph viz.
+description: "Visualization with Neo4j. graph viz."
 category: database
 tags: [neo4j, visualization, database, graph-database]
 models: [gpt-4, claude-3]

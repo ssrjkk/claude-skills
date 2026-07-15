@@ -1,6 +1,6 @@
 ---
 name: ziprecruiter-interviewing
-description: Interviewing with ZipRecruiter. interviews.
+description: "Interviewing with ZipRecruiter. interviews."
 category: hr
 tags: [ziprecruiter-interviewing, hr, russian]
 models: [sonnet, opus]

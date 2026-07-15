@@ -1,6 +1,6 @@
 ---
 name: oracle-schema
-description: Schema Design with Oracle. schema.
+description: "Schema Design with Oracle. schema."
 category: database
 tags: [oracle-schema, database, russian]
 models: [sonnet, opus]

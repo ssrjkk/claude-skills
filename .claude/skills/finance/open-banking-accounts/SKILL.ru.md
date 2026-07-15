@@ -1,6 +1,6 @@
 ---
 name: open-banking-accounts
-description: Accounts with Open Banking. account linking.
+description: "Accounts with Open Banking. account linking."
 category: finance
 tags: [open-banking-accounts, finance, russian]
 models: [sonnet, opus]

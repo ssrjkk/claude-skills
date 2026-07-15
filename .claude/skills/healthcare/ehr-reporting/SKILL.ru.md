@@ -1,6 +1,6 @@
 ---
 name: ehr-reporting
-description: Reporting with EHR Systems. reports.
+description: "Reporting with EHR Systems. reports."
 category: healthcare
 tags: [ehr-reporting, healthcare, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: riscv-dma
-description: DMA with RISC-V. DMA.
+description: "DMA with RISC-V. DMA."
 category: embedded
 tags: [riscv-dma, embedded, russian]
 models: [sonnet, opus]

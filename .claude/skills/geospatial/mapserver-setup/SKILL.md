@@ -1,6 +1,6 @@
 ---
 name: mapserver-setup
-description: Setup with MapServer. setup.
+description: "Setup with MapServer. setup."
 category: geospatial
 tags: [mapserver, setup, geospatial, gis]
 models: [gpt-4, claude-3]

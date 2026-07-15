@@ -1,6 +1,6 @@
 ---
 name: market-data-risk
-description: Risk with Market Data. risk analysis.
+description: "Risk with Market Data. risk analysis."
 category: finance
 tags: [market-data-risk, finance, russian]
 models: [sonnet, opus]

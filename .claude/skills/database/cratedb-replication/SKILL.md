@@ -1,6 +1,6 @@
 ---
 name: cratedb-replication
-description: Replication with CrateDB. replication.
+description: "Replication with CrateDB. replication."
 category: database
 tags: [cratedb, replication, database, sql]
 models: [gpt-4, claude-3]

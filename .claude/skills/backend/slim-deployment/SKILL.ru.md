@@ -1,6 +1,6 @@
 ---
 name: slim-deployment
-description: Deployment with Slim. deploy.
+description: "Deployment with Slim. deploy."
 category: backend
 tags: [slim-deployment, backend, russian]
 models: [sonnet, opus]

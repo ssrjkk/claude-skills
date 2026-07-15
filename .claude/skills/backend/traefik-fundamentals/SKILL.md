@@ -1,6 +1,6 @@
 ---
 name: traefik-fundamentals
-description: Fundamentals for Traefik: core concepts
+description: "Fundamentals for Traefik: core concepts"
 category: backend
 tags: [traefik, fundamentals, backend]
 models: [sonnet, opus]

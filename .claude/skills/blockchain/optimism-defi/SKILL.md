@@ -1,6 +1,6 @@
 ---
 name: optimism-defi
-description: DeFi with Optimism. DeFi.
+description: "DeFi with Optimism. DeFi."
 category: blockchain
 tags: [optimism, defi, blockchain, blockchain]
 models: [gpt-4, claude-3]

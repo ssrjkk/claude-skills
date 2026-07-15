@@ -1,6 +1,6 @@
 ---
 name: midjourney-best-practices
-description: Best Practices for Midjourney: best practices and patterns
+description: "Best Practices for Midjourney: best practices and patterns"
 category: ai
 tags: [midjourney-best-practices, ai, russian]
 models: [sonnet, opus]

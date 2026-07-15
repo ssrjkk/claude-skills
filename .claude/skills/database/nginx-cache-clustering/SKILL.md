@@ -1,6 +1,6 @@
 ---
 name: nginx-cache-clustering
-description: Clustering with Nginx Cache. cluster setup.
+description: "Clustering with Nginx Cache. cluster setup."
 category: database
 tags: [nginx-cache, clustering, database, caching]
 models: [gpt-4, claude-3]

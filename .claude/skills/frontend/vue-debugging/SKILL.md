@@ -1,6 +1,6 @@
 ---
 name: vue-debugging
-description: Debugging for Vue: debugging and troubleshooting
+description: "Debugging for Vue: debugging and troubleshooting"
 category: frontend
 tags: [vue, debugging, frontend]
 models: [sonnet, opus]

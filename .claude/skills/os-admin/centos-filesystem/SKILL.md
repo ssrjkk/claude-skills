@@ -1,6 +1,6 @@
 ---
 name: centos-filesystem
-description: Filesystem with CentOS. filesystem.
+description: "Filesystem with CentOS. filesystem."
 category: os-admin
 tags: [centos, filesystem, os-admin, linux]
 models: [gpt-4, claude-3]

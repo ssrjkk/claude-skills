@@ -1,6 +1,6 @@
 ---
 name: spring-boot-middleware
-description: Middleware with Spring Boot. request processing.
+description: "Middleware with Spring Boot. request processing."
 category: backend
 tags: [spring-boot-middleware, backend, russian]
 models: [sonnet, opus]

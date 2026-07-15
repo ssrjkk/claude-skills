@@ -1,6 +1,6 @@
 ---
 name: heroku-serverless
-description: Serverless with Heroku. functions.
+description: "Serverless with Heroku. functions."
 category: devops
 tags: [heroku, serverless, devops, cloud]
 models: [gpt-4, claude-3]

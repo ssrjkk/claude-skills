@@ -1,6 +1,6 @@
 ---
 name: llama-optimization
-description: Optimization for Llama: performance tuning and optimization
+description: "Optimization for Llama: performance tuning and optimization"
 category: ai
 tags: [llama-optimization, ai, russian]
 models: [sonnet, opus]

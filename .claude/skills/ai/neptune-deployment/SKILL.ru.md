@@ -1,6 +1,6 @@
 ---
 name: neptune-deployment
-description: Deployment with Neptune. model serving.
+description: "Deployment with Neptune. model serving."
 category: ai
 tags: [neptune-deployment, ai, russian]
 models: [sonnet, opus]

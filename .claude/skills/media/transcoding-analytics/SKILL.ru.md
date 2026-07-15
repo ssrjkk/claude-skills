@@ -1,6 +1,6 @@
 ---
 name: transcoding-analytics
-description: Analytics with Transcoding. analytics.
+description: "Analytics with Transcoding. analytics."
 category: media
 tags: [transcoding-analytics, media, russian]
 models: [sonnet, opus]

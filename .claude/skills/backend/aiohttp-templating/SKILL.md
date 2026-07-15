@@ -1,6 +1,6 @@
 ---
 name: aiohttp-templating
-description: Templating with aiohttp. server templates.
+description: "Templating with aiohttp. server templates."
 category: backend
 tags: [aiohttp, templating, backend, backend]
 models: [gpt-4, claude-3]

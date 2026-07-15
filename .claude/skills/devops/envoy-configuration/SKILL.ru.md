@@ -1,6 +1,6 @@
 ---
 name: envoy-configuration
-description: Configuration for Envoy: configuration and setup
+description: "Configuration for Envoy: configuration and setup"
 category: devops
 tags: [envoy-configuration, devops, russian]
 models: [sonnet, opus]

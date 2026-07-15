@@ -1,6 +1,6 @@
 ---
 name: tekton-quickstart
-description: Quickstart for Tekton: quick start guide
+description: "Quickstart for Tekton: quick start guide"
 category: devops
 tags: [tekton-quickstart, devops, russian]
 models: [sonnet, opus]

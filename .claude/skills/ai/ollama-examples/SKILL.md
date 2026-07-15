@@ -1,6 +1,6 @@
 ---
 name: ollama-examples
-description: Examples for Ollama: practical examples
+description: "Examples for Ollama: practical examples"
 category: ai
 tags: [ollama, examples, ai]
 models: [sonnet, opus]

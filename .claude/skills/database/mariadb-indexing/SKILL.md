@@ -1,6 +1,6 @@
 ---
 name: mariadb-indexing
-description: Indexing with MariaDB. indexes.
+description: "Indexing with MariaDB. indexes."
 category: database
 tags: [mariadb, indexing, database, sql]
 models: [gpt-4, claude-3]

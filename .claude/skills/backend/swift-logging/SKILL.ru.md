@@ -1,6 +1,6 @@
 ---
 name: swift-logging
-description: Logging with Swift. app logging.
+description: "Logging with Swift. app logging."
 category: backend
 tags: [swift-logging, backend, russian]
 models: [sonnet, opus]

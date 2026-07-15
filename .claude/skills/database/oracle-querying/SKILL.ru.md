@@ -1,6 +1,6 @@
 ---
 name: oracle-querying
-description: Querying with Oracle. SQL queries.
+description: "Querying with Oracle. SQL queries."
 category: database
 tags: [oracle-querying, database, russian]
 models: [sonnet, opus]

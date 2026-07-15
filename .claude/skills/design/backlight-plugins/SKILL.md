@@ -1,6 +1,6 @@
 ---
 name: backlight-plugins
-description: Plugins with Backlight. plugins.
+description: "Plugins with Backlight. plugins."
 category: design
 tags: [backlight, plugins, design, design]
 models: [gpt-4, claude-3]

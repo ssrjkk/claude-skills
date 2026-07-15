@@ -1,6 +1,6 @@
 ---
 name: pillow-image-classification
-description: Image Classification with Pillow. classifying images.
+description: "Image Classification with Pillow. classifying images."
 category: ai
 tags: [pillow-image-classification, ai, russian]
 models: [sonnet, opus]

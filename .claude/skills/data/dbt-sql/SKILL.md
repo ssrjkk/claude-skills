@@ -1,6 +1,6 @@
 ---
 name: dbt-sql
-description: SQL with dbt. SQL queries.
+description: "SQL with dbt. SQL queries."
 category: data
 tags: [dbt, sql, data, data-engineering]
 models: [gpt-4, claude-3]

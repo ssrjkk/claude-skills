@@ -1,6 +1,6 @@
 ---
 name: neon-serverless
-description: Neon serverless PostgreSQL
+description: "Neon serverless PostgreSQL"
 category: database
 tags: [neon-serverless, database, russian]
 models: [sonnet, opus]

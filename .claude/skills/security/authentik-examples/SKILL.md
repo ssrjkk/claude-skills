@@ -1,6 +1,6 @@
 ---
 name: authentik-examples
-description: Examples for Authentik: practical examples
+description: "Examples for Authentik: practical examples"
 category: security
 tags: [authentik, examples, security]
 models: [sonnet, opus]

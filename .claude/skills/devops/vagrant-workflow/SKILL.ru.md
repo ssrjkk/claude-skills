@@ -1,6 +1,6 @@
 ---
 name: vagrant-workflow
-description: Workflow for Vagrant: workflow optimization
+description: "Workflow for Vagrant: workflow optimization"
 category: devops
 tags: [vagrant-workflow, devops, russian]
 models: [sonnet, opus]

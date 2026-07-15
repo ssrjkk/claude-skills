@@ -1,6 +1,6 @@
 ---
 name: bigcommerce-cart
-description: Cart with BigCommerce. cart.
+description: "Cart with BigCommerce. cart."
 category: ecommerce
 tags: [bigcommerce, cart, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

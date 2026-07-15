@@ -1,6 +1,6 @@
 ---
 name: nmap-scanning
-description: Scanning with Nmap. security scanning.
+description: "Scanning with Nmap. security scanning."
 category: security
 tags: [nmap-scanning, security, russian]
 models: [sonnet, opus]

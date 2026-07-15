@@ -1,6 +1,6 @@
 ---
 name: oculus-rendering
-description: Rendering with Oculus SDK. stereoscopic.
+description: "Rendering with Oculus SDK. stereoscopic."
 category: ar-vr
 tags: [oculus-rendering, ar-vr, russian]
 models: [sonnet, opus]

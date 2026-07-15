@@ -1,6 +1,6 @@
 ---
 name: tempo-dashboards
-description: Dashboards with Tempo. dashboards.
+description: "Dashboards with Tempo. dashboards."
 category: devops
 tags: [tempo-dashboards, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: dbt-optimization
-description: Optimization with dbt. performance.
+description: "Optimization with dbt. performance."
 category: data
 tags: [dbt, optimization, data, data-engineering]
 models: [gpt-4, claude-3]

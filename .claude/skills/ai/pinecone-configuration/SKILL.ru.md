@@ -1,6 +1,6 @@
 ---
 name: pinecone-configuration
-description: Configuration for Pinecone: configuration and setup
+description: "Configuration for Pinecone: configuration and setup"
 category: ai
 tags: [pinecone-configuration, ai, russian]
 models: [sonnet, opus]

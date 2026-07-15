@@ -1,6 +1,6 @@
 ---
 name: trankit-lemmatization
-description: Lemmatization with Trankit. word lemmatization.
+description: "Lemmatization with Trankit. word lemmatization."
 category: ai
 tags: [trankit, lemmatization, ai, nlp]
 models: [gpt-4, claude-3]

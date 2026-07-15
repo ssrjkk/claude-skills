@@ -1,6 +1,6 @@
 ---
 name: stanza-tokenization
-description: Tokenization with Stanza. text tokenization.
+description: "Tokenization with Stanza. text tokenization."
 category: ai
 tags: [stanza, tokenization, ai, nlp]
 models: [gpt-4, claude-3]

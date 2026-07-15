@@ -1,6 +1,6 @@
 ---
 name: kornia-image-filtering
-description: Image Filtering with Kornia. image filters.
+description: "Image Filtering with Kornia. image filters."
 category: ai
 tags: [kornia-image-filtering, ai, russian]
 models: [sonnet, opus]

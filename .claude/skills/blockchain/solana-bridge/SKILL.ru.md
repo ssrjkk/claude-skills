@@ -1,6 +1,6 @@
 ---
 name: solana-bridge
-description: Bridge with Solana. cross-chain.
+description: "Bridge with Solana. cross-chain."
 category: blockchain
 tags: [solana-bridge, blockchain, russian]
 models: [sonnet, opus]

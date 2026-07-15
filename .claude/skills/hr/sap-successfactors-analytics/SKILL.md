@@ -1,6 +1,6 @@
 ---
 name: sap-successfactors-analytics
-description: Analytics with SAP SuccessFactors. analytics.
+description: "Analytics with SAP SuccessFactors. analytics."
 category: hr
 tags: [sap-successfactors, analytics, hr, hr-tech]
 models: [gpt-4, claude-3]

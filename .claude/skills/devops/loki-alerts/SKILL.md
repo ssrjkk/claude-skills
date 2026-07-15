@@ -1,6 +1,6 @@
 ---
 name: loki-alerts
-description: Alerts with Loki. alerting rules.
+description: "Alerts with Loki. alerting rules."
 category: devops
 tags: [loki, alerts, devops, monitoring]
 models: [gpt-4, claude-3]

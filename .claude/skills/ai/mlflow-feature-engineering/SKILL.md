@@ -1,6 +1,6 @@
 ---
 name: mlflow-feature-engineering
-description: Feature Engineering with Mlflow. creating features.
+description: "Feature Engineering with Mlflow. creating features."
 category: ai
 tags: [mlflow, feature-engineering, ai, ml]
 models: [gpt-4, claude-3]

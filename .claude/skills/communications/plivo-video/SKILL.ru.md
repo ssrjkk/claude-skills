@@ -1,6 +1,6 @@
 ---
 name: plivo-video
-description: Video with Plivo. video calls.
+description: "Video with Plivo. video calls."
 category: communications
 tags: [plivo-video, communications, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: keras-distributed
-description: Distributed with Keras. distributed training.
+description: "Distributed with Keras. distributed training."
 category: ai
 tags: [keras-distributed, ai, russian]
 models: [sonnet, opus]

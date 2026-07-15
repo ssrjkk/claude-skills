@@ -1,6 +1,6 @@
 ---
 name: onnx-examples
-description: Examples for Onnx: practical examples
+description: "Examples for Onnx: practical examples"
 category: ai
 tags: [onnx-examples, ai, russian]
 models: [sonnet, opus]

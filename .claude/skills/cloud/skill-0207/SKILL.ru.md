@@ -1,6 +1,6 @@
 ---
 name: skill-0207
-description: Specialized skill #0207 for cloud development
+description: "Specialized skill #0207 for cloud development"
 category: cloud
 tags: [skill-0207, cloud, russian]
 models: [sonnet, opus]

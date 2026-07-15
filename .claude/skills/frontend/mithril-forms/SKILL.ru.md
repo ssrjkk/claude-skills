@@ -1,6 +1,6 @@
 ---
 name: mithril-forms
-description: Forms with Mithril. form handling.
+description: "Forms with Mithril. form handling."
 category: frontend
 tags: [mithril-forms, frontend, russian]
 models: [sonnet, opus]

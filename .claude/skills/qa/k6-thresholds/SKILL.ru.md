@@ -1,6 +1,6 @@
 ---
 name: k6-thresholds
-description: Thresholds with k6. pass/fail.
+description: "Thresholds with k6. pass/fail."
 category: qa
 tags: [k6-thresholds, qa, russian]
 models: [sonnet, opus]

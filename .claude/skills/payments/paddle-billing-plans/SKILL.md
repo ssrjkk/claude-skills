@@ -1,6 +1,6 @@
 ---
 name: paddle-billing-plans
-description: Plans with Paddle Billing. plan creation.
+description: "Plans with Paddle Billing. plan creation."
 category: payments
 tags: [paddle-billing, plans, payments, billing]
 models: [gpt-4, claude-3]

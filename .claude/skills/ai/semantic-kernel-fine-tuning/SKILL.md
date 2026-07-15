@@ -1,6 +1,6 @@
 ---
 name: semantic-kernel-fine-tuning
-description: Fine-Tuning with Semantic Kernel. model customization.
+description: "Fine-Tuning with Semantic Kernel. model customization."
 category: ai
 tags: [semantic-kernel, fine-tuning, ai, llm]
 models: [gpt-4, claude-3]

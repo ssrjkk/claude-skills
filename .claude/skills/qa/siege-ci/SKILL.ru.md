@@ -1,6 +1,6 @@
 ---
 name: siege-ci
-description: CI with Siege. CI integration.
+description: "CI with Siege. CI integration."
 category: qa
 tags: [siege-ci, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: roda-api
-description: API with Roda. API building.
+description: "API with Roda. API building."
 category: backend
 tags: [roda-api, backend, russian]
 models: [sonnet, opus]

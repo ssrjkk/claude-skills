@@ -1,6 +1,6 @@
 ---
 name: phaser-audio
-description: Audio with Phaser. audio.
+description: "Audio with Phaser. audio."
 category: gamedev
 tags: [phaser, audio, gamedev, game-engine]
 models: [gpt-4, claude-3]

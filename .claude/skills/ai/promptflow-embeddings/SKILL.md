@@ -1,6 +1,6 @@
 ---
 name: promptflow-embeddings
-description: Embeddings with Promptflow. text embeddings.
+description: "Embeddings with Promptflow. text embeddings."
 category: ai
 tags: [promptflow, embeddings, ai, llm]
 models: [gpt-4, claude-3]

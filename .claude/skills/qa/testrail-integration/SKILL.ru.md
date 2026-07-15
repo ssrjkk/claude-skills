@@ -1,6 +1,6 @@
 ---
 name: testrail-integration
-description: Integration for Testrail: integration with other tools
+description: "Integration for Testrail: integration with other tools"
 category: qa
 tags: [testrail-integration, qa, russian]
 models: [sonnet, opus]

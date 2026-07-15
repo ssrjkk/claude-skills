@@ -1,6 +1,6 @@
 ---
 name: zbrush-troubleshooting
-description: Troubleshooting for Zbrush: troubleshooting common issues
+description: "Troubleshooting for Zbrush: troubleshooting common issues"
 category: gamedev
 tags: [zbrush-troubleshooting, gamedev, russian]
 models: [sonnet, opus]

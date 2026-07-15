@@ -1,6 +1,6 @@
 ---
 name: easypost-setup
-description: Setup with EasyPost. setup.
+description: "Setup with EasyPost. setup."
 category: supply-chain
 tags: [easypost-setup, supply-chain, russian]
 models: [sonnet, opus]

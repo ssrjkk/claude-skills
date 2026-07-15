@@ -1,6 +1,6 @@
 ---
 name: hbase-querying
-description: Querying with HBase. queries.
+description: "Querying with HBase. queries."
 category: database
 tags: [hbase, querying, database, nosql]
 models: [gpt-4, claude-3]

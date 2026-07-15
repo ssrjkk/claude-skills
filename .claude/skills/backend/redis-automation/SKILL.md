@@ -1,6 +1,6 @@
 ---
 name: redis-automation
-description: Automation for Redis: automation and scripting
+description: "Automation for Redis: automation and scripting"
 category: backend
 tags: [redis, automation, backend]
 models: [sonnet, opus]

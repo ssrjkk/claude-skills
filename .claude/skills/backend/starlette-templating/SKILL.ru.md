@@ -1,6 +1,6 @@
 ---
 name: starlette-templating
-description: Templating with Starlette. server templates.
+description: "Templating with Starlette. server templates."
 category: backend
 tags: [starlette-templating, backend, russian]
 models: [sonnet, opus]

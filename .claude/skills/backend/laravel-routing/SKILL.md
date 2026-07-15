@@ -1,6 +1,6 @@
 ---
 name: laravel-routing
-description: Routing with Laravel. HTTP routing.
+description: "Routing with Laravel. HTTP routing."
 category: backend
 tags: [laravel, routing, backend, backend]
 models: [gpt-4, claude-3]

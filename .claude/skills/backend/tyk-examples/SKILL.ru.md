@@ -1,6 +1,6 @@
 ---
 name: tyk-examples
-description: Examples for Tyk: practical examples
+description: "Examples for Tyk: practical examples"
 category: backend
 tags: [tyk-examples, backend, russian]
 models: [sonnet, opus]

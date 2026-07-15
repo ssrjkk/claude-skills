@@ -1,6 +1,6 @@
 ---
 name: whylabs-getting-started
-description: Getting Started for Whylabs: initial setup and first steps
+description: "Getting Started for Whylabs: initial setup and first steps"
 category: data
 tags: [whylabs, getting-started, data]
 models: [sonnet, opus]

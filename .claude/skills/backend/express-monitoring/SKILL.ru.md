@@ -1,6 +1,6 @@
 ---
 name: express-monitoring
-description: Monitoring for Express: monitoring and observability
+description: "Monitoring for Express: monitoring and observability"
 category: backend
 tags: [express-monitoring, backend, russian]
 models: [sonnet, opus]

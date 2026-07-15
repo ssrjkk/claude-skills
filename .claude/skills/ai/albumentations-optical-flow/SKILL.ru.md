@@ -1,6 +1,6 @@
 ---
 name: albumentations-optical-flow
-description: Optical Flow with Albumentations. motion detection.
+description: "Optical Flow with Albumentations. motion detection."
 category: ai
 tags: [albumentations-optical-flow, ai, russian]
 models: [sonnet, opus]

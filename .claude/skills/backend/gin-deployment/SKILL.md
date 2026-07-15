@@ -1,6 +1,6 @@
 ---
 name: gin-deployment
-description: Deployment with Gin. build.
+description: "Deployment with Gin. build."
 category: backend
 tags: [gin, deployment, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: node-red-setup
-description: Setup with Node-RED. setup.
+description: "Setup with Node-RED. setup."
 category: iot
 tags: [node-red-setup, iot, russian]
 models: [sonnet, opus]

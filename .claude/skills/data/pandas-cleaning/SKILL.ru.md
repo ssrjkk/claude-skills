@@ -1,6 +1,6 @@
 ---
 name: pandas-cleaning
-description: Cleaning with Pandas. data cleaning.
+description: "Cleaning with Pandas. data cleaning."
 category: data
 tags: [pandas-cleaning, data, russian]
 models: [sonnet, opus]

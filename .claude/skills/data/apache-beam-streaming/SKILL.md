@@ -1,6 +1,6 @@
 ---
 name: apache-beam-streaming
-description: Streaming with Apache Beam. real-time.
+description: "Streaming with Apache Beam. real-time."
 category: data
 tags: [apache-beam, streaming, data, data-engineering]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: k6-reports
-description: Reports with k6. report generation.
+description: "Reports with k6. report generation."
 category: qa
 tags: [k6-reports, qa, russian]
 models: [sonnet, opus]

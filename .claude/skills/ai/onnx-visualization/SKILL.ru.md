@@ -1,6 +1,6 @@
 ---
 name: onnx-visualization
-description: Visualization with Onnx. model viz.
+description: "Visualization with Onnx. model viz."
 category: ai
 tags: [onnx-visualization, ai, russian]
 models: [sonnet, opus]

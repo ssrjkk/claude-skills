@@ -1,6 +1,6 @@
 ---
 name: oracle-scm-planning
-description: Planning with Oracle SCM. demand planning.
+description: "Planning with Oracle SCM. demand planning."
 category: supply-chain
 tags: [oracle-scm, planning, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

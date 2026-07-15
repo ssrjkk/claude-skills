@@ -1,6 +1,6 @@
 ---
 name: influxdb-ingestion
-description: Ingestion with InfluxDB. data ingestion.
+description: "Ingestion with InfluxDB. data ingestion."
 category: database
 tags: [influxdb-ingestion, database, russian]
 models: [sonnet, opus]

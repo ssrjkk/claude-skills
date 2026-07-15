@@ -1,6 +1,6 @@
 ---
 name: burpsuite-scanning
-description: Scanning with Burp Suite. security scanning.
+description: "Scanning with Burp Suite. security scanning."
 category: security
 tags: [burpsuite, scanning, security, security-tool]
 models: [gpt-4, claude-3]

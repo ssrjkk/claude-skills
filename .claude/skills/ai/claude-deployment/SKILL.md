@@ -1,6 +1,6 @@
 ---
 name: claude-deployment
-description: Deployment for Claude: deployment and release
+description: "Deployment for Claude: deployment and release"
 category: ai
 tags: [claude, deployment, ai]
 models: [sonnet, opus]

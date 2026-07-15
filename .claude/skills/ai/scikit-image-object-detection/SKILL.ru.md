@@ -1,6 +1,6 @@
 ---
 name: scikit-image-object-detection
-description: Object Detection with Scikit Image. detecting objects.
+description: "Object Detection with Scikit Image. detecting objects."
 category: ai
 tags: [scikit-image-object-detection, ai, russian]
 models: [sonnet, opus]

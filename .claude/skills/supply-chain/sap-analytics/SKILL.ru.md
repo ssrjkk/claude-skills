@@ -1,6 +1,6 @@
 ---
 name: sap-analytics
-description: Analytics with SAP SCM. analytics.
+description: "Analytics with SAP SCM. analytics."
 category: supply-chain
 tags: [sap-analytics, supply-chain, russian]
 models: [sonnet, opus]

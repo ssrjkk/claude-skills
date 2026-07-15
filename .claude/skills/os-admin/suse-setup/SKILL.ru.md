@@ -1,6 +1,6 @@
 ---
 name: suse-setup
-description: Setup with SUSE. installation.
+description: "Setup with SUSE. installation."
 category: os-admin
 tags: [suse-setup, os-admin, russian]
 models: [sonnet, opus]

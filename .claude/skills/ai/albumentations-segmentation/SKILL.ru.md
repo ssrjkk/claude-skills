@@ -1,6 +1,6 @@
 ---
 name: albumentations-segmentation
-description: Segmentation with Albumentations. image segmentation.
+description: "Segmentation with Albumentations. image segmentation."
 category: ai
 tags: [albumentations-segmentation, ai, russian]
 models: [sonnet, opus]

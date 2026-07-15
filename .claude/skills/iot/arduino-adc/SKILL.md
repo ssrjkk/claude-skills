@@ -1,6 +1,6 @@
 ---
 name: arduino-adc
-description: ADC with Arduino. analog input.
+description: "ADC with Arduino. analog input."
 category: iot
 tags: [arduino, adc, iot, iot]
 models: [gpt-4, claude-3]

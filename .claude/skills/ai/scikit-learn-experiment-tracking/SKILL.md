@@ -1,6 +1,6 @@
 ---
 name: scikit-learn-experiment-tracking
-description: Experiment Tracking with Scikit Learn. tracking experiments.
+description: "Experiment Tracking with Scikit Learn. tracking experiments."
 category: ai
 tags: [scikit-learn, experiment-tracking, ai, ml]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: cml-production
-description: Production for Cml: production deployment
+description: "Production for Cml: production deployment"
 category: data
 tags: [cml-production, data, russian]
 models: [sonnet, opus]

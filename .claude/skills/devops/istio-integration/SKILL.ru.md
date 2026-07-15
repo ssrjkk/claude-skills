@@ -1,6 +1,6 @@
 ---
 name: istio-integration
-description: Integration for Istio: integration with other tools
+description: "Integration for Istio: integration with other tools"
 category: devops
 tags: [istio-integration, devops, russian]
 models: [sonnet, opus]

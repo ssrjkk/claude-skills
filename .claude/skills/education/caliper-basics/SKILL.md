@@ -1,6 +1,6 @@
 ---
 name: caliper-basics
-description: Basics with Caliper. fundamentals.
+description: "Basics with Caliper. fundamentals."
 category: education
 tags: [caliper, basics, education, education-standard]
 models: [gpt-4, claude-3]

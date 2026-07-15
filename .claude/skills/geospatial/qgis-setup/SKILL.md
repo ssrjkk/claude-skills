@@ -1,6 +1,6 @@
 ---
 name: qgis-setup
-description: Setup with QGIS. setup.
+description: "Setup with QGIS. setup."
 category: geospatial
 tags: [qgis, setup, geospatial, gis]
 models: [gpt-4, claude-3]

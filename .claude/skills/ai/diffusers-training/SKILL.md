@@ -1,6 +1,6 @@
 ---
 name: diffusers-training
-description: Training with Diffusers. training models.
+description: "Training with Diffusers. training models."
 category: ai
 tags: [diffusers, training, ai, deep-learning]
 models: [gpt-4, claude-3]

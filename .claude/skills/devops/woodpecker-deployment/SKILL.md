@@ -1,6 +1,6 @@
 ---
 name: woodpecker-deployment
-description: Deployment with Woodpecker. auto-deploy.
+description: "Deployment with Woodpecker. auto-deploy."
 category: devops
 tags: [woodpecker, deployment, devops, ci-cd]
 models: [gpt-4, claude-3]

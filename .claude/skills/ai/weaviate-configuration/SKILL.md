@@ -1,6 +1,6 @@
 ---
 name: weaviate-configuration
-description: Configuration for Weaviate: configuration and setup
+description: "Configuration for Weaviate: configuration and setup"
 category: ai
 tags: [weaviate, configuration, ai]
 models: [sonnet, opus]

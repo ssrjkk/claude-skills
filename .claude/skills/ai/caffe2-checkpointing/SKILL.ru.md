@@ -1,6 +1,6 @@
 ---
 name: caffe2-checkpointing
-description: Checkpointing with Caffe2. model saving.
+description: "Checkpointing with Caffe2. model saving."
 category: ai
 tags: [caffe2-checkpointing, ai, russian]
 models: [sonnet, opus]

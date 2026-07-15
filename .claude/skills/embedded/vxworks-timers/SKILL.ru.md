@@ -1,6 +1,6 @@
 ---
 name: vxworks-timers
-description: Timers with VxWorks. software timers.
+description: "Timers with VxWorks. software timers."
 category: embedded
 tags: [vxworks-timers, embedded, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: dvc-hyperparameter-tuning
-description: Hyperparameter Tuning with Dvc. optimizing params.
+description: "Hyperparameter Tuning with Dvc. optimizing params."
 category: ai
 tags: [dvc, hyperparameter-tuning, ai, ml]
 models: [gpt-4, claude-3]

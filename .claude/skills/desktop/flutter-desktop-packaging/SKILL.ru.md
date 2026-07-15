@@ -1,6 +1,6 @@
 ---
 name: flutter-desktop-packaging
-description: Packaging with Flutter Desktop. app packaging.
+description: "Packaging with Flutter Desktop. app packaging."
 category: desktop
 tags: [flutter-desktop-packaging, desktop, russian]
 models: [sonnet, opus]

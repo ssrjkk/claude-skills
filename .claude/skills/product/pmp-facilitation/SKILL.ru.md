@@ -1,6 +1,6 @@
 ---
 name: pmp-facilitation
-description: Facilitation with PMP. sessions.
+description: "Facilitation with PMP. sessions."
 category: product
 tags: [pmp-facilitation, product, russian]
 models: [sonnet, opus]

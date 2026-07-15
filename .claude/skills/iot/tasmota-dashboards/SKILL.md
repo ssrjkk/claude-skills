@@ -1,6 +1,6 @@
 ---
 name: tasmota-dashboards
-description: Dashboards with Tasmota. dashboards.
+description: "Dashboards with Tasmota. dashboards."
 category: iot
 tags: [tasmota, dashboards, iot, iot-platform]
 models: [gpt-4, claude-3]

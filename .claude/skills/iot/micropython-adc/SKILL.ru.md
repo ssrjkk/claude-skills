@@ -1,6 +1,6 @@
 ---
 name: micropython-adc
-description: ADC with MicroPython. analog input.
+description: "ADC with MicroPython. analog input."
 category: iot
 tags: [micropython-adc, iot, russian]
 models: [sonnet, opus]

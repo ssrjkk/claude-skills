@@ -1,6 +1,6 @@
 ---
 name: fhir-interoperability
-description: Interop with FHIR. interoperability.
+description: "Interop with FHIR. interoperability."
 category: healthcare
 tags: [fhir, interoperability, healthcare, healthcare]
 models: [gpt-4, claude-3]

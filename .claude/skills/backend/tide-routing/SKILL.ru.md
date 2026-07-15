@@ -1,6 +1,6 @@
 ---
 name: tide-routing
-description: Routing with Tide. HTTP routing.
+description: "Routing with Tide. HTTP routing."
 category: backend
 tags: [tide-routing, backend, russian]
 models: [sonnet, opus]

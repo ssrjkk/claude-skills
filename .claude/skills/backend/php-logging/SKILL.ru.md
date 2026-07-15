@@ -1,6 +1,6 @@
 ---
 name: php-logging
-description: Logging with Php. app logging.
+description: "Logging with Php. app logging."
 category: backend
 tags: [php-logging, backend, russian]
 models: [sonnet, opus]

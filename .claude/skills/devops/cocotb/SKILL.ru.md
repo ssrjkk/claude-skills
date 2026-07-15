@@ -1,6 +1,6 @@
 ---
 name: cocotb
-description: Development with Cocotb: tools and best practices
+description: "Development with Cocotb: tools and best practices"
 category: devops
 tags: [cocotb, devops, russian]
 models: [sonnet, opus]

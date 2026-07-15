@@ -1,6 +1,6 @@
 ---
 name: terraform-deployment
-description: Deployment for Terraform: deployment and release
+description: "Deployment for Terraform: deployment and release"
 category: devops
 tags: [terraform, deployment, devops]
 models: [sonnet, opus]

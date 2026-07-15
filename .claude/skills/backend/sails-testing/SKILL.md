@@ -1,6 +1,6 @@
 ---
 name: sails-testing
-description: Testing with Sails.js. Jest.
+description: "Testing with Sails.js. Jest."
 category: backend
 tags: [sails, testing, backend, backend]
 models: [gpt-4, claude-3]

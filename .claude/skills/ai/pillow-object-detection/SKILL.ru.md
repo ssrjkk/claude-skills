@@ -1,6 +1,6 @@
 ---
 name: pillow-object-detection
-description: Object Detection with Pillow. detecting objects.
+description: "Object Detection with Pillow. detecting objects."
 category: ai
 tags: [pillow-object-detection, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vonage-setup
-description: Setup with Vonage. account setup.
+description: "Setup with Vonage. account setup."
 category: communications
 tags: [vonage, setup, communications, communication-platform]
 models: [gpt-4, claude-3]

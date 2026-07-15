@@ -1,6 +1,6 @@
 ---
 name: imgaug-edge-detection
-description: Edge Detection with Imgaug. edge detection.
+description: "Edge Detection with Imgaug. edge detection."
 category: ai
 tags: [imgaug, edge-detection, ai, computer-vision]
 models: [gpt-4, claude-3]

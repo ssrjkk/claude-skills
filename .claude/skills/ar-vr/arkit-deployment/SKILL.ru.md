@@ -1,6 +1,6 @@
 ---
 name: arkit-deployment
-description: Deployment with ARKit. deployment.
+description: "Deployment with ARKit. deployment."
 category: ar-vr
 tags: [arkit-deployment, ar-vr, russian]
 models: [sonnet, opus]

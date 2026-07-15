@@ -1,6 +1,6 @@
 ---
 name: arangodb-setup
-description: Setup with ArangoDB. installation.
+description: "Setup with ArangoDB. installation."
 category: database
 tags: [arangodb, setup, database, nosql]
 models: [gpt-4, claude-3]

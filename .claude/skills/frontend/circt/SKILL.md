@@ -1,6 +1,6 @@
 ---
 name: circt
-description: Development with Circt: tools and best practices
+description: "Development with Circt: tools and best practices"
 category: frontend
 tags: [circt, frontend, development]
 models: [sonnet, opus]

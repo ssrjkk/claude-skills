@@ -1,6 +1,6 @@
 ---
 name: testrail-best-practices
-description: Best Practices for Testrail: best practices and patterns
+description: "Best Practices for Testrail: best practices and patterns"
 category: qa
 tags: [testrail, best-practices, qa]
 models: [sonnet, opus]

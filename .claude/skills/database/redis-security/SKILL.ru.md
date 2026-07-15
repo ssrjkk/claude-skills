@@ -1,6 +1,6 @@
 ---
 name: redis-security
-description: Security with Redis. security.
+description: "Security with Redis. security."
 category: database
 tags: [redis-security, database, russian]
 models: [sonnet, opus]

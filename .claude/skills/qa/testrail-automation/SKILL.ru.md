@@ -1,6 +1,6 @@
 ---
 name: testrail-automation
-description: Automation for Testrail: automation and scripting
+description: "Automation for Testrail: automation and scripting"
 category: qa
 tags: [testrail-automation, qa, russian]
 models: [sonnet, opus]

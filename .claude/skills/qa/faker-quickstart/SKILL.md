@@ -1,6 +1,6 @@
 ---
 name: faker-quickstart
-description: Quickstart for Faker: quick start guide
+description: "Quickstart for Faker: quick start guide"
 category: qa
 tags: [faker, quickstart, qa]
 models: [sonnet, opus]

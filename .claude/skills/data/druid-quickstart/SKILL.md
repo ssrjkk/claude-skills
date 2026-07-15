@@ -1,6 +1,6 @@
 ---
 name: druid-quickstart
-description: Quickstart for Druid: quick start guide
+description: "Quickstart for Druid: quick start guide"
 category: data
 tags: [druid, quickstart, data]
 models: [sonnet, opus]

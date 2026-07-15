@@ -1,6 +1,6 @@
 ---
 name: pganalyze-fundamentals
-description: Fundamentals for Pganalyze: core concepts
+description: "Fundamentals for Pganalyze: core concepts"
 category: database
 tags: [pganalyze, fundamentals, database]
 models: [sonnet, opus]

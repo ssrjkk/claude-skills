@@ -1,6 +1,6 @@
 ---
 name: paddlepaddle-training
-description: Training with Paddlepaddle. training models.
+description: "Training with Paddlepaddle. training models."
 category: ai
 tags: [paddlepaddle, training, ai, deep-learning]
 models: [gpt-4, claude-3]

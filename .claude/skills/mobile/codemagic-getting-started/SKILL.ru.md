@@ -1,6 +1,6 @@
 ---
 name: codemagic-getting-started
-description: Getting Started for Codemagic: initial setup and first steps
+description: "Getting Started for Codemagic: initial setup and first steps"
 category: mobile
 tags: [codemagic-getting-started, mobile, russian]
 models: [sonnet, opus]

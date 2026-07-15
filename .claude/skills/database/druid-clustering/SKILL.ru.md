@@ -1,6 +1,6 @@
 ---
 name: druid-clustering
-description: Clustering with Apache Druid. clustering.
+description: "Clustering with Apache Druid. clustering."
 category: database
 tags: [druid-clustering, database, russian]
 models: [sonnet, opus]

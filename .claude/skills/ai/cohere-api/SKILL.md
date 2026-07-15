@@ -1,6 +1,6 @@
 ---
 name: cohere-api
-description: API for Cohere: API development and integration
+description: "API for Cohere: API development and integration"
 category: ai
 tags: [cohere, api, ai]
 models: [sonnet, opus]

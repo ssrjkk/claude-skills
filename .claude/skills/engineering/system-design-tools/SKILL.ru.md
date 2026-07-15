@@ -1,6 +1,6 @@
 ---
 name: system-design-tools
-description: Tools with System Design. tooling.
+description: "Tools with System Design. tooling."
 category: engineering
 tags: [system-design-tools, engineering, russian]
 models: [sonnet, opus]

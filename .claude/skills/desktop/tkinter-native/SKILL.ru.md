@@ -1,6 +1,6 @@
 ---
 name: tkinter-native
-description: Native with Tkinter. native APIs.
+description: "Native with Tkinter. native APIs."
 category: desktop
 tags: [tkinter-native, desktop, russian]
 models: [sonnet, opus]

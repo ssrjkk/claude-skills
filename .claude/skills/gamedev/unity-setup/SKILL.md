@@ -1,6 +1,6 @@
 ---
 name: unity-setup
-description: Setup with Unity. engine setup.
+description: "Setup with Unity. engine setup."
 category: gamedev
 tags: [unity, setup, gamedev, game-engine]
 models: [gpt-4, claude-3]

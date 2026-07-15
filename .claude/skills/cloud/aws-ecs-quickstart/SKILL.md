@@ -1,6 +1,6 @@
 ---
 name: aws-ecs-quickstart
-description: Quickstart for Aws-Ecs: quick start guide
+description: "Quickstart for Aws-Ecs: quick start guide"
 category: cloud
 tags: [aws-ecs, quickstart, cloud]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vault-troubleshooting
-description: Troubleshooting for Vault: troubleshooting common issues
+description: "Troubleshooting for Vault: troubleshooting common issues"
 category: devops
 tags: [vault-troubleshooting, devops, russian]
 models: [sonnet, opus]

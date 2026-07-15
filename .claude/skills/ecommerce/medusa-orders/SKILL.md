@@ -1,6 +1,6 @@
 ---
 name: medusa-orders
-description: Orders with Medusa. order management.
+description: "Orders with Medusa. order management."
 category: ecommerce
 tags: [medusa, orders, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

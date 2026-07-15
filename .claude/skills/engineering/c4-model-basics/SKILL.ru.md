@@ -1,6 +1,6 @@
 ---
 name: c4-model-basics
-description: Basics with C4 Model. fundamentals.
+description: "Basics with C4 Model. fundamentals."
 category: engineering
 tags: [c4-model-basics, engineering, russian]
 models: [sonnet, opus]

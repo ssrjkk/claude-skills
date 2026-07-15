@@ -1,6 +1,6 @@
 ---
 name: openvas-analysis
-description: Analysis with OpenVAS. analysis.
+description: "Analysis with OpenVAS. analysis."
 category: security
 tags: [openvas, analysis, security, security-tool]
 models: [gpt-4, claude-3]

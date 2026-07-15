@@ -1,6 +1,6 @@
 ---
 name: revel-templating
-description: Templating with Revel. HTML templates.
+description: "Templating with Revel. HTML templates."
 category: backend
 tags: [revel-templating, backend, russian]
 models: [sonnet, opus]

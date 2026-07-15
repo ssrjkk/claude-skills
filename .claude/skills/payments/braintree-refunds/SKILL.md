@@ -1,6 +1,6 @@
 ---
 name: braintree-refunds
-description: Refunds with Braintree. refunds.
+description: "Refunds with Braintree. refunds."
 category: payments
 tags: [braintree, refunds, payments, payments]
 models: [gpt-4, claude-3]

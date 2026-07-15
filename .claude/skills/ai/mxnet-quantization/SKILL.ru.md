@@ -1,6 +1,6 @@
 ---
 name: mxnet-quantization
-description: Quantization with Mxnet. model quantization.
+description: "Quantization with Mxnet. model quantization."
 category: ai
 tags: [mxnet-quantization, ai, russian]
 models: [sonnet, opus]

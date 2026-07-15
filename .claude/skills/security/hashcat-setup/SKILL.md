@@ -1,6 +1,6 @@
 ---
 name: hashcat-setup
-description: Setup with Hashcat. installation.
+description: "Setup with Hashcat. installation."
 category: security
 tags: [hashcat, setup, security, security-tool]
 models: [gpt-4, claude-3]

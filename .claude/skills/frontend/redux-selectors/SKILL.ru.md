@@ -1,6 +1,6 @@
 ---
 name: redux-selectors
-description: Selectors with Redux. derived data.
+description: "Selectors with Redux. derived data."
 category: frontend
 tags: [redux-selectors, frontend, russian]
 models: [sonnet, opus]

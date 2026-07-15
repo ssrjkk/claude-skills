@@ -1,6 +1,6 @@
 ---
 name: numpy-analysis
-description: Analysis with NumPy. data analysis.
+description: "Analysis with NumPy. data analysis."
 category: data
 tags: [numpy, analysis, data, data-science]
 models: [gpt-4, claude-3]

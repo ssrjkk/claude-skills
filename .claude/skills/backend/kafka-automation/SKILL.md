@@ -1,6 +1,6 @@
 ---
 name: kafka-automation
-description: Automation for Kafka: automation and scripting
+description: "Automation for Kafka: automation and scripting"
 category: backend
 tags: [kafka, automation, backend]
 models: [sonnet, opus]

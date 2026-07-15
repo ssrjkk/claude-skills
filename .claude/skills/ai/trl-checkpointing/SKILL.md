@@ -1,6 +1,6 @@
 ---
 name: trl-checkpointing
-description: Checkpointing with Trl. model saving.
+description: "Checkpointing with Trl. model saving."
 category: ai
 tags: [trl, checkpointing, ai, deep-learning]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: teller-compliance
-description: Compliance with Teller. compliance.
+description: "Compliance with Teller. compliance."
 category: finance
 tags: [teller, compliance, finance, fintech]
 models: [gpt-4, claude-3]

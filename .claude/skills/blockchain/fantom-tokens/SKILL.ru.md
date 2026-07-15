@@ -1,6 +1,6 @@
 ---
 name: fantom-tokens
-description: Tokens with Fantom. token standards.
+description: "Tokens with Fantom. token standards."
 category: blockchain
 tags: [fantom-tokens, blockchain, russian]
 models: [sonnet, opus]

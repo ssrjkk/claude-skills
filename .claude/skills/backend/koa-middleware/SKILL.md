@@ -1,6 +1,6 @@
 ---
 name: koa-middleware
-description: Middleware with Koa. request pipeline.
+description: "Middleware with Koa. request pipeline."
 category: backend
 tags: [koa, middleware, backend, backend]
 models: [gpt-4, claude-3]

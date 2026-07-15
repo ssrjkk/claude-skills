@@ -1,6 +1,6 @@
 ---
 name: openshift-ingress
-description: Ingress with OpenShift. ingress controller.
+description: "Ingress with OpenShift. ingress controller."
 category: devops
 tags: [openshift-ingress, devops, russian]
 models: [sonnet, opus]

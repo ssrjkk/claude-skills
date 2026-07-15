@@ -1,6 +1,6 @@
 ---
 name: tsung-spike
-description: Spike with Tsung. spike tests.
+description: "Spike with Tsung. spike tests."
 category: qa
 tags: [tsung-spike, qa, russian]
 models: [sonnet, opus]

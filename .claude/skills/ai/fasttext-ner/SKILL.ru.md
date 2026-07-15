@@ -1,6 +1,6 @@
 ---
 name: fasttext-ner
-description: NER with Fasttext. named entity recognition.
+description: "NER with Fasttext. named entity recognition."
 category: ai
 tags: [fasttext-ner, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gradio-theming
-description: Theming with Gradio. themes.
+description: "Theming with Gradio. themes."
 category: data
 tags: [gradio, theming, data, data-apps]
 models: [gpt-4, claude-3]

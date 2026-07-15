@@ -1,6 +1,6 @@
 ---
 name: loki-logging
-description: Logging with Loki. log collection.
+description: "Logging with Loki. log collection."
 category: devops
 tags: [loki-logging, devops, russian]
 models: [sonnet, opus]

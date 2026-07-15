@@ -1,6 +1,6 @@
 ---
 name: amazon-neptune-security
-description: Security with Amazon Neptune. security.
+description: "Security with Amazon Neptune. security."
 category: database
 tags: [amazon-neptune, security, database, graph-database]
 models: [gpt-4, claude-3]

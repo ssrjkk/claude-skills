@@ -1,6 +1,6 @@
 ---
 name: gri-strategy
-description: Strategy with GRI. strategy.
+description: "Strategy with GRI. strategy."
 category: sustainability
 tags: [gri-strategy, sustainability, russian]
 models: [sonnet, opus]

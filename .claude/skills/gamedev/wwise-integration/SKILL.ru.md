@@ -1,6 +1,6 @@
 ---
 name: wwise-integration
-description: Integration for Wwise: integration with other tools
+description: "Integration for Wwise: integration with other tools"
 category: gamedev
 tags: [wwise-integration, gamedev, russian]
 models: [sonnet, opus]

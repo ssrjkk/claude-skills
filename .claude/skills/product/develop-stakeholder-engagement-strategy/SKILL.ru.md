@@ -1,6 +1,6 @@
 ---
 name: develop-stakeholder-engagement-strategy
-description: Create a plan to identify, analyze, and engage stakeholders throughout the project
+description: "Create a plan to identify, analyze, and engage stakeholders throughout the project"
 category: product
 tags: [develop-stakeholder-engagement-strategy, product, russian]
 models: [sonnet, opus]

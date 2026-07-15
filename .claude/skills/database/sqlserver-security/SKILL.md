@@ -1,6 +1,6 @@
 ---
 name: sqlserver-security
-description: Security with SQL Server. access control.
+description: "Security with SQL Server. access control."
 category: database
 tags: [sqlserver, security, database, sql]
 models: [gpt-4, claude-3]

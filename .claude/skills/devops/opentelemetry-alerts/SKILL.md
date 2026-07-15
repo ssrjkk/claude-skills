@@ -1,6 +1,6 @@
 ---
 name: opentelemetry-alerts
-description: Alerts with OpenTelemetry. alerting rules.
+description: "Alerts with OpenTelemetry. alerting rules."
 category: devops
 tags: [opentelemetry, alerts, devops, monitoring]
 models: [gpt-4, claude-3]

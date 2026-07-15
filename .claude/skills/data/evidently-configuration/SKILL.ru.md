@@ -1,6 +1,6 @@
 ---
 name: evidently-configuration
-description: Configuration for Evidently: configuration and setup
+description: "Configuration for Evidently: configuration and setup"
 category: data
 tags: [evidently-configuration, data, russian]
 models: [sonnet, opus]

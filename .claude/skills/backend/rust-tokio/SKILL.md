@@ -1,6 +1,6 @@
 ---
 name: rust-tokio
-description: Async Rust with Tokio runtime
+description: "Async Rust with Tokio runtime"
 category: backend
 tags: [rust, tokio, async, concurrency, runtime]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: bootstrap-dark-mode
-description: Dark Mode with Bootstrap. dark theme.
+description: "Dark Mode with Bootstrap. dark theme."
 category: frontend
 tags: [bootstrap-dark-mode, frontend, russian]
 models: [sonnet, opus]

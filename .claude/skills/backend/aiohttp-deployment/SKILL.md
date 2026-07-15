@@ -1,6 +1,6 @@
 ---
 name: aiohttp-deployment
-description: Deployment with aiohttp. production deploy.
+description: "Deployment with aiohttp. production deploy."
 category: backend
 tags: [aiohttp, deployment, backend, backend]
 models: [gpt-4, claude-3]

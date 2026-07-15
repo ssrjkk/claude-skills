@@ -1,6 +1,6 @@
 ---
 name: trl-optimization
-description: Optimization with Trl. model optimization.
+description: "Optimization with Trl. model optimization."
 category: ai
 tags: [trl-optimization, ai, russian]
 models: [sonnet, opus]

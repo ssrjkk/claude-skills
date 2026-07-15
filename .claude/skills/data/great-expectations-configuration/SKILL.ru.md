@@ -1,6 +1,6 @@
 ---
 name: great-expectations-configuration
-description: Configuration for Great-Expectations: configuration and setup
+description: "Configuration for Great-Expectations: configuration and setup"
 category: data
 tags: [great-expectations-configuration, data, russian]
 models: [sonnet, opus]

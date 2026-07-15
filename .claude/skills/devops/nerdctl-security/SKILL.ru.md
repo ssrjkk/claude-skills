@@ -1,6 +1,6 @@
 ---
 name: nerdctl-security
-description: Security with nerdctl. container security.
+description: "Security with nerdctl. container security."
 category: devops
 tags: [nerdctl-security, devops, russian]
 models: [sonnet, opus]

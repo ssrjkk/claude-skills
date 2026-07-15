@@ -1,6 +1,6 @@
 ---
 name: gamemaker-basics
-description: Basics for Gamemaker: fundamentals and core concepts
+description: "Basics for Gamemaker: fundamentals and core concepts"
 category: gamedev
 tags: [gamemaker-basics, gamedev, russian]
 models: [sonnet, opus]

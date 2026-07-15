@@ -1,6 +1,6 @@
 ---
 name: srt-analytics
-description: Analytics with SRT. analytics.
+description: "Analytics with SRT. analytics."
 category: media
 tags: [srt, analytics, media, media-streaming]
 models: [gpt-4, claude-3]

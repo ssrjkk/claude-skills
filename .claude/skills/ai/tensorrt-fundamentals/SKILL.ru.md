@@ -1,6 +1,6 @@
 ---
 name: tensorrt-fundamentals
-description: Fundamentals for Tensorrt: core concepts
+description: "Fundamentals for Tensorrt: core concepts"
 category: ai
 tags: [tensorrt-fundamentals, ai, russian]
 models: [sonnet, opus]

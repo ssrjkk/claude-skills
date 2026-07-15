@@ -1,6 +1,6 @@
 ---
 name: algorand-staking
-description: Staking with Algorand. staking.
+description: "Staking with Algorand. staking."
 category: blockchain
 tags: [algorand, staking, blockchain, blockchain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: testcafe-ci
-description: CI with TestCafe. CI integration.
+description: "CI with TestCafe. CI integration."
 category: qa
 tags: [testcafe, ci, qa, e2e]
 models: [gpt-4, claude-3]

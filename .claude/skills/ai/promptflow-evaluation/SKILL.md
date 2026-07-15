@@ -1,6 +1,6 @@
 ---
 name: promptflow-evaluation
-description: Evaluation with Promptflow. LLM evaluation.
+description: "Evaluation with Promptflow. LLM evaluation."
 category: ai
 tags: [promptflow, evaluation, ai, llm]
 models: [gpt-4, claude-3]

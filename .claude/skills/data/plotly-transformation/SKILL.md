@@ -1,6 +1,6 @@
 ---
 name: plotly-transformation
-description: Transformation with Plotly. transform.
+description: "Transformation with Plotly. transform."
 category: data
 tags: [plotly, transformation, data, data-science]
 models: [gpt-4, claude-3]

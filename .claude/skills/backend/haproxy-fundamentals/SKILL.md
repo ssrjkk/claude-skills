@@ -1,6 +1,6 @@
 ---
 name: haproxy-fundamentals
-description: Fundamentals for Haproxy: core concepts
+description: "Fundamentals for Haproxy: core concepts"
 category: backend
 tags: [haproxy, fundamentals, backend]
 models: [sonnet, opus]

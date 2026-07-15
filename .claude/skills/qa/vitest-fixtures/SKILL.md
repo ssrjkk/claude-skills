@@ -1,6 +1,6 @@
 ---
 name: vitest-fixtures
-description: Fixtures with Vitest. test fixtures.
+description: "Fixtures with Vitest. test fixtures."
 category: qa
 tags: [vitest, fixtures, qa, testing]
 models: [gpt-4, claude-3]

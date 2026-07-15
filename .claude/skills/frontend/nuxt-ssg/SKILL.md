@@ -1,6 +1,6 @@
 ---
 name: nuxt-ssg
-description: SSG with Nuxt. static generation.
+description: "SSG with Nuxt. static generation."
 category: frontend
 tags: [nuxt, ssg, frontend, meta-framework]
 models: [gpt-4, claude-3]

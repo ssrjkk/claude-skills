@@ -1,6 +1,6 @@
 ---
 name: nessus-automation
-description: Automation with Nessus. automation.
+description: "Automation with Nessus. automation."
 category: security
 tags: [nessus, automation, security, security-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: oracle-scm-analytics
-description: Analytics with Oracle SCM. analytics.
+description: "Analytics with Oracle SCM. analytics."
 category: supply-chain
 tags: [oracle-scm-analytics, supply-chain, russian]
 models: [sonnet, opus]

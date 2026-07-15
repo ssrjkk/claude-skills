@@ -1,6 +1,6 @@
 ---
 name: aws-dynamodb-guides
-description: Guides for Aws-Dynamodb: how-to guides
+description: "Guides for Aws-Dynamodb: how-to guides"
 category: cloud
 tags: [aws-dynamodb, guides, cloud]
 models: [sonnet, opus]

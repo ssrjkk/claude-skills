@@ -1,6 +1,6 @@
 ---
 name: xmpp-scaling
-description: Scaling with XMPP. scaling.
+description: "Scaling with XMPP. scaling."
 category: communications
 tags: [xmpp, scaling, communications, communication-protocol]
 models: [gpt-4, claude-3]

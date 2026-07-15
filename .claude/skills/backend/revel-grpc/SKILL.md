@@ -1,6 +1,6 @@
 ---
 name: revel-grpc
-description: gRPC with Revel. gRPC services.
+description: "gRPC with Revel. gRPC services."
 category: backend
 tags: [revel, grpc, backend, backend]
 models: [gpt-4, claude-3]

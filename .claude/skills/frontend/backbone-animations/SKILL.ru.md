@@ -1,6 +1,6 @@
 ---
 name: backbone-animations
-description: Animations with Backbone. UI animations.
+description: "Animations with Backbone. UI animations."
 category: frontend
 tags: [backbone-animations, frontend, russian]
 models: [sonnet, opus]

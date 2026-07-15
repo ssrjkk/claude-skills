@@ -1,6 +1,6 @@
 ---
 name: dvc-pipeline
-description: Pipeline with Dvc. ML pipelines.
+description: "Pipeline with Dvc. ML pipelines."
 category: ai
 tags: [dvc-pipeline, ai, russian]
 models: [sonnet, opus]

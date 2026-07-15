@@ -1,6 +1,6 @@
 ---
 name: scikit-image-face-detection
-description: Face Detection with Scikit Image. facial recognition.
+description: "Face Detection with Scikit Image. facial recognition."
 category: ai
 tags: [scikit-image, face-detection, ai, computer-vision]
 models: [gpt-4, claude-3]

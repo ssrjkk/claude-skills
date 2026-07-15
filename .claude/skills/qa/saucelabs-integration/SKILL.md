@@ -1,6 +1,6 @@
 ---
 name: saucelabs-integration
-description: Integration for Saucelabs: integration with other tools
+description: "Integration for Saucelabs: integration with other tools"
 category: qa
 tags: [saucelabs, integration, qa]
 models: [sonnet, opus]

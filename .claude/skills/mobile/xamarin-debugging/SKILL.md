@@ -1,6 +1,6 @@
 ---
 name: xamarin-debugging
-description: Debugging for Xamarin: debugging and troubleshooting
+description: "Debugging for Xamarin: debugging and troubleshooting"
 category: mobile
 tags: [xamarin, debugging, mobile]
 models: [sonnet, opus]

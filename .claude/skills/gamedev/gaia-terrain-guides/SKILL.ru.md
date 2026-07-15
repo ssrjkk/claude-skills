@@ -1,6 +1,6 @@
 ---
 name: gaia-terrain-guides
-description: Guides for Gaia-Terrain: how-to guides
+description: "Guides for Gaia-Terrain: how-to guides"
 category: gamedev
 tags: [gaia-terrain-guides, gamedev, russian]
 models: [sonnet, opus]

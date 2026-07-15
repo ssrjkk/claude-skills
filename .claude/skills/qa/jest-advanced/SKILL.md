@@ -1,6 +1,6 @@
 ---
 name: jest-advanced
-description: Advanced for Jest: advanced patterns and techniques
+description: "Advanced for Jest: advanced patterns and techniques"
 category: qa
 tags: [jest, advanced, qa]
 models: [sonnet, opus]

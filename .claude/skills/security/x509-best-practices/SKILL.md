@@ -1,6 +1,6 @@
 ---
 name: x509-best-practices
-description: Best Practices with X.509. best practices.
+description: "Best Practices with X.509. best practices."
 category: security
 tags: [x509, best-practices, security, security]
 models: [gpt-4, claude-3]

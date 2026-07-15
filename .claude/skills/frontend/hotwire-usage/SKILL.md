@@ -1,6 +1,6 @@
 ---
 name: hotwire-usage
-description: Usage for Hotwire: usage reference
+description: "Usage for Hotwire: usage reference"
 category: frontend
 tags: [hotwire, usage, frontend]
 models: [sonnet, opus]

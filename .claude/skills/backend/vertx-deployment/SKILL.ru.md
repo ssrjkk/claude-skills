@@ -1,6 +1,6 @@
 ---
 name: vertx-deployment
-description: Deployment with Vert.x. build.
+description: "Deployment with Vert.x. build."
 category: backend
 tags: [vertx-deployment, backend, russian]
 models: [sonnet, opus]

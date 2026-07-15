@@ -1,6 +1,6 @@
 ---
 name: transformers-visualization
-description: Visualization with Transformers. model viz.
+description: "Visualization with Transformers. model viz."
 category: ai
 tags: [transformers, visualization, ai, deep-learning]
 models: [gpt-4, claude-3]

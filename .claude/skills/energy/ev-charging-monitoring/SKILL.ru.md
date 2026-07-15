@@ -1,6 +1,6 @@
 ---
 name: ev-charging-monitoring
-description: Monitoring with EV Charging. monitoring.
+description: "Monitoring with EV Charging. monitoring."
 category: energy
 tags: [ev-charging-monitoring, energy, russian]
 models: [sonnet, opus]

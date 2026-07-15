@@ -1,6 +1,6 @@
 ---
 name: wwise-best-practices
-description: Best Practices for Wwise: best practices and patterns
+description: "Best Practices for Wwise: best practices and patterns"
 category: gamedev
 tags: [wwise, best-practices, gamedev]
 models: [sonnet, opus]

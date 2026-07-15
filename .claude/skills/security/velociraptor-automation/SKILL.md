@@ -1,6 +1,6 @@
 ---
 name: velociraptor-automation
-description: Automation for Velociraptor: automation and scripting
+description: "Automation for Velociraptor: automation and scripting"
 category: security
 tags: [velociraptor, automation, security]
 models: [sonnet, opus]

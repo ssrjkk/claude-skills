@@ -1,6 +1,6 @@
 ---
 name: javascript-async
-description: Async with Javascript. async operations.
+description: "Async with Javascript. async operations."
 category: backend
 tags: [javascript, async, backend, backend]
 models: [gpt-4, claude-3]

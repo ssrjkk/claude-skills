@@ -1,6 +1,6 @@
 ---
 name: shippo-tracking
-description: Tracking with Shippo. tracking.
+description: "Tracking with Shippo. tracking."
 category: supply-chain
 tags: [shippo, tracking, supply-chain, logistics]
 models: [gpt-4, claude-3]

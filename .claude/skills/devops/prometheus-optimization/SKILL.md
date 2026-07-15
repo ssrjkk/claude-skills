@@ -1,6 +1,6 @@
 ---
 name: prometheus-optimization
-description: Optimization for Prometheus: performance tuning and optimization
+description: "Optimization for Prometheus: performance tuning and optimization"
 category: devops
 tags: [prometheus, optimization, devops]
 models: [sonnet, opus]

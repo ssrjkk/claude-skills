@@ -1,6 +1,6 @@
 ---
 name: color-grading-setup
-description: Setup with Color Grading. setup.
+description: "Setup with Color Grading. setup."
 category: media
 tags: [color-grading-setup, media, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sphinx-aggregations
-description: Aggregations with Sphinx. bucket aggs.
+description: "Aggregations with Sphinx. bucket aggs."
 category: database
 tags: [sphinx, aggregations, database, search-engine]
 models: [gpt-4, claude-3]

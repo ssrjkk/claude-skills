@@ -1,6 +1,6 @@
 ---
 name: backtesting-implementation
-description: Implementation with Backtesting. implementation.
+description: "Implementation with Backtesting. implementation."
 category: finance
 tags: [backtesting-implementation, finance, russian]
 models: [sonnet, opus]

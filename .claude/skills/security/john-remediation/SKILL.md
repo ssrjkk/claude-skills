@@ -1,6 +1,6 @@
 ---
 name: john-remediation
-description: Remediation with John the Ripper. fixing vulns.
+description: "Remediation with John the Ripper. fixing vulns."
 category: security
 tags: [john, remediation, security, security-tool]
 models: [gpt-4, claude-3]

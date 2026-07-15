@@ -1,6 +1,6 @@
 ---
 name: solana-nft
-description: NFT with Solana. tokens.
+description: "NFT with Solana. tokens."
 category: blockchain
 tags: [solana-nft, blockchain, russian]
 models: [sonnet, opus]

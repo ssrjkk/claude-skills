@@ -1,6 +1,6 @@
 ---
 name: event-storming-collaboration
-description: Collaboration with Event Storming. team collaboration.
+description: "Collaboration with Event Storming. team collaboration."
 category: engineering
 tags: [event-storming, collaboration, engineering, modeling]
 models: [gpt-4, claude-3]

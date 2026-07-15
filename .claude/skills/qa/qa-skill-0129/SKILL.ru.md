@@ -1,6 +1,6 @@
 ---
 name: qa-skill-0129
-description: Specialized skill #0129 for qa development
+description: "Specialized skill #0129 for qa development"
 category: qa
 tags: [skill-0129, qa, russian]
 models: [sonnet, opus]

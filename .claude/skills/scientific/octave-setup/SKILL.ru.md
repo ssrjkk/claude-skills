@@ -1,6 +1,6 @@
 ---
 name: octave-setup
-description: Setup with GNU Octave. installation.
+description: "Setup with GNU Octave. installation."
 category: scientific
 tags: [octave-setup, scientific, russian]
 models: [sonnet, opus]

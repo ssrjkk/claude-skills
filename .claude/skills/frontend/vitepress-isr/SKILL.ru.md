@@ -1,6 +1,6 @@
 ---
 name: vitepress-isr
-description: ISR with VitePress. incremental.
+description: "ISR with VitePress. incremental."
 category: frontend
 tags: [vitepress-isr, frontend, russian]
 models: [sonnet, opus]

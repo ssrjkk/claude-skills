@@ -1,6 +1,6 @@
 ---
 name: unreal-publishing
-description: Publishing with Unreal Engine. publishing.
+description: "Publishing with Unreal Engine. publishing."
 category: gamedev
 tags: [unreal, publishing, gamedev, game-engine]
 models: [gpt-4, claude-3]

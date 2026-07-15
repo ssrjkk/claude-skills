@@ -1,6 +1,6 @@
 ---
 name: cuba-api
-description: API with Cuba. API building.
+description: "API with Cuba. API building."
 category: backend
 tags: [cuba, api, backend, backend]
 models: [gpt-4, claude-3]

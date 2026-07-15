@@ -1,6 +1,6 @@
 ---
 name: vlan-basics
-description: Basics with VLAN. fundamentals.
+description: "Basics with VLAN. fundamentals."
 category: networking
 tags: [vlan-basics, networking, russian]
 models: [sonnet, opus]

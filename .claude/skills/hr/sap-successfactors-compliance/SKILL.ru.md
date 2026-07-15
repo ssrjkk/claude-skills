@@ -1,6 +1,6 @@
 ---
 name: sap-successfactors-compliance
-description: Compliance with SAP SuccessFactors. compliance.
+description: "Compliance with SAP SuccessFactors. compliance."
 category: hr
 tags: [sap-successfactors-compliance, hr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: godot-ui
-description: UI with Godot. game UI.
+description: "UI with Godot. game UI."
 category: gamedev
 tags: [godot-ui, gamedev, russian]
 models: [sonnet, opus]

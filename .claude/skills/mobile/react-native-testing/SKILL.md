@@ -1,6 +1,6 @@
 ---
 name: react-native-testing
-description: Testing with React Native. testing.
+description: "Testing with React Native. testing."
 category: mobile
 tags: [react-native, testing, mobile, mobile]
 models: [gpt-4, claude-3]

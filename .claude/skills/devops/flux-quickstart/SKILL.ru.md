@@ -1,6 +1,6 @@
 ---
 name: flux-quickstart
-description: Quickstart for Flux: quick start guide
+description: "Quickstart for Flux: quick start guide"
 category: devops
 tags: [flux-quickstart, devops, russian]
 models: [sonnet, opus]

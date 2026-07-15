@@ -1,6 +1,6 @@
 ---
 name: textblob-tokenization
-description: Tokenization with Textblob. text tokenization.
+description: "Tokenization with Textblob. text tokenization."
 category: ai
 tags: [textblob-tokenization, ai, russian]
 models: [sonnet, opus]

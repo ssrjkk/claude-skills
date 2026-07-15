@@ -1,6 +1,6 @@
 ---
 name: firestore-aggregation
-description: Aggregation with Firestore. aggregation pipelines.
+description: "Aggregation with Firestore. aggregation pipelines."
 category: database
 tags: [firestore, aggregation, database, nosql]
 models: [gpt-4, claude-3]

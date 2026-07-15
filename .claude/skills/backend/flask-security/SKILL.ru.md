@@ -1,6 +1,6 @@
 ---
 name: flask-security
-description: Security for Flask: security best practices
+description: "Security for Flask: security best practices"
 category: backend
 tags: [flask-security, backend, russian]
 models: [sonnet, opus]

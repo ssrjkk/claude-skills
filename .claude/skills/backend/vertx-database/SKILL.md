@@ -1,6 +1,6 @@
 ---
 name: vertx-database
-description: Database with Vert.x. DB access.
+description: "Database with Vert.x. DB access."
 category: backend
 tags: [vertx, database, backend, backend]
 models: [gpt-4, claude-3]

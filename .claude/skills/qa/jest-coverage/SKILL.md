@@ -1,6 +1,6 @@
 ---
 name: jest-coverage
-description: Coverage with Jest. code coverage.
+description: "Coverage with Jest. code coverage."
 category: qa
 tags: [jest, coverage, qa, testing]
 models: [gpt-4, claude-3]

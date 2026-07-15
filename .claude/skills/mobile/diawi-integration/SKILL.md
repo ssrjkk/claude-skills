@@ -1,6 +1,6 @@
 ---
 name: diawi-integration
-description: Integration for Diawi: integration with other tools
+description: "Integration for Diawi: integration with other tools"
 category: mobile
 tags: [diawi, integration, mobile]
 models: [sonnet, opus]

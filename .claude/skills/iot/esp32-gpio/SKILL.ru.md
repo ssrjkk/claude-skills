@@ -1,6 +1,6 @@
 ---
 name: esp32-gpio
-description: GPIO with ESP32. digital I/O.
+description: "GPIO with ESP32. digital I/O."
 category: iot
 tags: [esp32-gpio, iot, russian]
 models: [sonnet, opus]

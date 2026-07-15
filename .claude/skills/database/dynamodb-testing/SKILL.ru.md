@@ -1,6 +1,6 @@
 ---
 name: dynamodb-testing
-description: Testing for Dynamodb: testing and validation
+description: "Testing for Dynamodb: testing and validation"
 category: database
 tags: [dynamodb-testing, database, russian]
 models: [sonnet, opus]

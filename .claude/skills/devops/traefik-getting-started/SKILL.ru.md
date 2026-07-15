@@ -1,6 +1,6 @@
 ---
 name: traefik-getting-started
-description: Getting Started for Traefik: initial setup and first steps
+description: "Getting Started for Traefik: initial setup and first steps"
 category: devops
 tags: [traefik-getting-started, devops, russian]
 models: [sonnet, opus]

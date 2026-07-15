@@ -1,6 +1,6 @@
 ---
 name: selenoid-getting-started
-description: Getting Started for Selenoid: initial setup and first steps
+description: "Getting Started for Selenoid: initial setup and first steps"
 category: qa
 tags: [selenoid, getting-started, qa]
 models: [sonnet, opus]

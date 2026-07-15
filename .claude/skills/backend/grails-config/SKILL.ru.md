@@ -1,6 +1,6 @@
 ---
 name: grails-config
-description: Config with Grails. configuration.
+description: "Config with Grails. configuration."
 category: backend
 tags: [grails-config, backend, russian]
 models: [sonnet, opus]

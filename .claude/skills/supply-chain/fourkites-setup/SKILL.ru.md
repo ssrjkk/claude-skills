@@ -1,6 +1,6 @@
 ---
 name: fourkites-setup
-description: Setup with FourKites. setup.
+description: "Setup with FourKites. setup."
 category: supply-chain
 tags: [fourkites-setup, supply-chain, russian]
 models: [sonnet, opus]

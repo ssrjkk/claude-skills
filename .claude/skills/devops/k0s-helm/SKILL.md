@@ -1,6 +1,6 @@
 ---
 name: k0s-helm
-description: Helm with K0s. package management.
+description: "Helm with K0s. package management."
 category: devops
 tags: [k0s, helm, devops, kubernetes]
 models: [gpt-4, claude-3]

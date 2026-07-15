@@ -1,6 +1,6 @@
 ---
 name: capacitor-optimization
-description: Optimization for Capacitor: performance tuning and optimization
+description: "Optimization for Capacitor: performance tuning and optimization"
 category: mobile
 tags: [capacitor, optimization, mobile]
 models: [sonnet, opus]

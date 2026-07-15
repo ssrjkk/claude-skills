@@ -1,6 +1,6 @@
 ---
 name: pulsar-setup
-description: Setup with Pulsar. installation.
+description: "Setup with Pulsar. installation."
 category: data
 tags: [pulsar, setup, data, data-engineering]
 models: [gpt-4, claude-3]

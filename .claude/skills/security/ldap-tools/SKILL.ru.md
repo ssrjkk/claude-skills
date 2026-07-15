@@ -1,6 +1,6 @@
 ---
 name: ldap-tools
-description: Tools with LDAP. security tools.
+description: "Tools with LDAP. security tools."
 category: security
 tags: [ldap-tools, security, russian]
 models: [sonnet, opus]

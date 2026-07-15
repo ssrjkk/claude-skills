@@ -1,6 +1,6 @@
 ---
 name: containerd-images
-description: Images with containerd. building images.
+description: "Images with containerd. building images."
 category: devops
 tags: [containerd, images, devops, container]
 models: [gpt-4, claude-3]

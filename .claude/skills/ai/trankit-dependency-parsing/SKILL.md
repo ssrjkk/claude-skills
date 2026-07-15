@@ -1,6 +1,6 @@
 ---
 name: trankit-dependency-parsing
-description: Dependency Parsing with Trankit. syntax analysis.
+description: "Dependency Parsing with Trankit. syntax analysis."
 category: ai
 tags: [trankit, dependency-parsing, ai, nlp]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: jest-optimization
-description: Optimization for Jest: performance tuning and optimization
+description: "Optimization for Jest: performance tuning and optimization"
 category: qa
 tags: [jest, optimization, qa]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: swift-ios-testing
-description: Testing with Swift iOS. testing.
+description: "Testing with Swift iOS. testing."
 category: mobile
 tags: [swift-ios-testing, mobile, russian]
 models: [sonnet, opus]

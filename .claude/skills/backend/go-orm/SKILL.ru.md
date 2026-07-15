@@ -1,6 +1,6 @@
 ---
 name: go-orm
-description: ORM with Go. database access.
+description: "ORM with Go. database access."
 category: backend
 tags: [go-orm, backend, russian]
 models: [sonnet, opus]

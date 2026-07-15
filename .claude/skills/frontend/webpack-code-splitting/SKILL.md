@@ -1,6 +1,6 @@
 ---
 name: webpack-code-splitting
-description: Code Splitting with Webpack. lazy loading.
+description: "Code Splitting with Webpack. lazy loading."
 category: frontend
 tags: [webpack, code-splitting, frontend, build-tool]
 models: [gpt-4, claude-3]

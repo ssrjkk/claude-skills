@@ -1,6 +1,6 @@
 ---
 name: leaflet-data
-description: Data with Leaflet. geospatial data.
+description: "Data with Leaflet. geospatial data."
 category: geospatial
 tags: [leaflet, data, geospatial, gis]
 models: [gpt-4, claude-3]

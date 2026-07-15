@@ -1,6 +1,6 @@
 ---
 name: zipkin-dashboards
-description: Dashboards with Zipkin. dashboards.
+description: "Dashboards with Zipkin. dashboards."
 category: devops
 tags: [zipkin-dashboards, devops, russian]
 models: [sonnet, opus]

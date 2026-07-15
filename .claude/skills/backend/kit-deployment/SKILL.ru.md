@@ -1,6 +1,6 @@
 ---
 name: kit-deployment
-description: Deployment with Go Kit. build.
+description: "Deployment with Go Kit. build."
 category: backend
 tags: [kit-deployment, backend, russian]
 models: [sonnet, opus]

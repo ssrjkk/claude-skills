@@ -1,6 +1,6 @@
 ---
 name: magic-leap-audio
-description: Audio with Magic Leap. spatial audio.
+description: "Audio with Magic Leap. spatial audio."
 category: ar-vr
 tags: [magic-leap-audio, ar-vr, russian]
 models: [sonnet, opus]

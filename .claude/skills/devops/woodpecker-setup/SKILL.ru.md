@@ -1,6 +1,6 @@
 ---
 name: woodpecker-setup
-description: Setup with Woodpecker. pipeline setup.
+description: "Setup with Woodpecker. pipeline setup."
 category: devops
 tags: [woodpecker-setup, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: docker-compose
-description: Compose with Docker. multi-container.
+description: "Compose with Docker. multi-container."
 category: devops
 tags: [docker-compose, devops, russian]
 models: [sonnet, opus]

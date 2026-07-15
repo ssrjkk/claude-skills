@@ -1,6 +1,6 @@
 ---
 name: jest-coverage
-description: Coverage with Jest. code coverage.
+description: "Coverage with Jest. code coverage."
 category: qa
 tags: [jest-coverage, qa, russian]
 models: [sonnet, opus]

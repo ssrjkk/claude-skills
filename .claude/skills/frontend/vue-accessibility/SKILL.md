@@ -1,6 +1,6 @@
 ---
 name: vue-accessibility
-description: Accessibility with Vue. a11y.
+description: "Accessibility with Vue. a11y."
 category: frontend
 tags: [vue, accessibility, frontend, frontend]
 models: [gpt-4, claude-3]

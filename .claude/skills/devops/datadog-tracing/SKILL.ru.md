@@ -1,6 +1,6 @@
 ---
 name: datadog-tracing
-description: Tracing with Datadog. distributed tracing.
+description: "Tracing with Datadog. distributed tracing."
 category: devops
 tags: [datadog-tracing, devops, russian]
 models: [sonnet, opus]

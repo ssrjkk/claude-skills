@@ -1,6 +1,6 @@
 ---
 name: peft-training
-description: Training with Peft. training models.
+description: "Training with Peft. training models."
 category: ai
 tags: [peft, training, ai, deep-learning]
 models: [gpt-4, claude-3]

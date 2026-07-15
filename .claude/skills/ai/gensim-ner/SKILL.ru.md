@@ -1,6 +1,6 @@
 ---
 name: gensim-ner
-description: NER with Gensim. named entity recognition.
+description: "NER with Gensim. named entity recognition."
 category: ai
 tags: [gensim-ner, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: clickhouse-compression
-description: Compression with ClickHouse. compression.
+description: "Compression with ClickHouse. compression."
 category: database
 tags: [clickhouse, compression, database, time-series]
 models: [gpt-4, claude-3]

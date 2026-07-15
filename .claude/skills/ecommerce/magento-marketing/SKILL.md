@@ -1,6 +1,6 @@
 ---
 name: magento-marketing
-description: Marketing with Magento. marketing.
+description: "Marketing with Magento. marketing."
 category: ecommerce
 tags: [magento, marketing, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

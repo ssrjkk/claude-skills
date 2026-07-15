@@ -1,6 +1,6 @@
 ---
 name: openvas-scanning
-description: Scanning with OpenVAS. security scanning.
+description: "Scanning with OpenVAS. security scanning."
 category: security
 tags: [openvas-scanning, security, russian]
 models: [sonnet, opus]

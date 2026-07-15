@@ -1,6 +1,6 @@
 ---
 name: cqrs-implementation
-description: Implementation with CQRS. practical implementation.
+description: "Implementation with CQRS. practical implementation."
 category: backend
 tags: [cqrs, implementation, backend, architecture]
 models: [gpt-4, claude-3]

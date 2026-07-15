@@ -1,6 +1,6 @@
 ---
 name: vitess-guides
-description: Guides for Vitess: how-to guides
+description: "Guides for Vitess: how-to guides"
 category: database
 tags: [vitess-guides, database, russian]
 models: [sonnet, opus]

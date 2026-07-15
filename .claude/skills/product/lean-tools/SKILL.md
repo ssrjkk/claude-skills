@@ -1,6 +1,6 @@
 ---
 name: lean-tools
-description: Tools with Lean. tooling.
+description: "Tools with Lean. tooling."
 category: product
 tags: [lean, tools, product, methodology]
 models: [gpt-4, claude-3]

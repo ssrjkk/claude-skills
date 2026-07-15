@@ -1,6 +1,6 @@
 ---
 name: ember-accessibility
-description: Accessibility with Ember. a11y.
+description: "Accessibility with Ember. a11y."
 category: frontend
 tags: [ember-accessibility, frontend, russian]
 models: [sonnet, opus]

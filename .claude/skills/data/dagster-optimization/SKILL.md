@@ -1,6 +1,6 @@
 ---
 name: dagster-optimization
-description: Optimization with Dagster. performance.
+description: "Optimization with Dagster. performance."
 category: data
 tags: [dagster, optimization, data, data-engineering]
 models: [gpt-4, claude-3]

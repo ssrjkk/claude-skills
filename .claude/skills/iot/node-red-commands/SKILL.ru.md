@@ -1,6 +1,6 @@
 ---
 name: node-red-commands
-description: Commands with Node-RED. device commands.
+description: "Commands with Node-RED. device commands."
 category: iot
 tags: [node-red-commands, iot, russian]
 models: [sonnet, opus]

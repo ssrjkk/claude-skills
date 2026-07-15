@@ -1,6 +1,6 @@
 ---
 name: solidstart-deployment
-description: Deployment with SolidStart. production.
+description: "Deployment with SolidStart. production."
 category: frontend
 tags: [solidstart, deployment, frontend, meta-framework]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: laravel-testing
-description: Testing with Laravel. PHPUnit.
+description: "Testing with Laravel. PHPUnit."
 category: backend
 tags: [laravel-testing, backend, russian]
 models: [sonnet, opus]

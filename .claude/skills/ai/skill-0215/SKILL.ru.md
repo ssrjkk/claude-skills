@@ -1,6 +1,6 @@
 ---
 name: skill-0215
-description: Specialized skill #0215 for ai development
+description: "Specialized skill #0215 for ai development"
 category: ai
 tags: [skill-0215, ai, russian]
 models: [sonnet, opus]

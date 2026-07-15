@@ -1,6 +1,6 @@
 ---
 name: chakra-ui-guides
-description: Guides for Chakra-Ui: how-to guides
+description: "Guides for Chakra-Ui: how-to guides"
 category: frontend
 tags: [chakra-ui, guides, frontend]
 models: [sonnet, opus]

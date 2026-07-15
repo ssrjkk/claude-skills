@@ -1,6 +1,6 @@
 ---
 name: dropwizard-database
-description: Database with Dropwizard. DB access.
+description: "Database with Dropwizard. DB access."
 category: backend
 tags: [dropwizard, database, backend, backend]
 models: [gpt-4, claude-3]

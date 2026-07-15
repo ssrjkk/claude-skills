@@ -1,6 +1,6 @@
 ---
 name: salvo-middleware
-description: Middleware with Salvo. request pipeline.
+description: "Middleware with Salvo. request pipeline."
 category: backend
 tags: [salvo, middleware, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: saga-migration
-description: Migration with Saga. adopting the pattern.
+description: "Migration with Saga. adopting the pattern."
 category: backend
 tags: [saga-migration, backend, russian]
 models: [sonnet, opus]

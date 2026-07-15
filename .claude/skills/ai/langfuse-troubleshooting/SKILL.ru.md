@@ -1,6 +1,6 @@
 ---
 name: langfuse-troubleshooting
-description: Troubleshooting for Langfuse: troubleshooting common issues
+description: "Troubleshooting for Langfuse: troubleshooting common issues"
 category: ai
 tags: [langfuse-troubleshooting, ai, russian]
 models: [sonnet, opus]

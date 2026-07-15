@@ -1,6 +1,6 @@
 ---
 name: rust-rest-api
-description: REST API with Rust. building REST APIs.
+description: "REST API with Rust. building REST APIs."
 category: backend
 tags: [rust-rest-api, backend, russian]
 models: [sonnet, opus]

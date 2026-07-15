@@ -1,6 +1,6 @@
 ---
 name: saml-implementation
-description: Implementation with SAML. implementation.
+description: "Implementation with SAML. implementation."
 category: security
 tags: [saml, implementation, security, security]
 models: [gpt-4, claude-3]

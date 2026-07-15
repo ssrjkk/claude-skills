@@ -1,6 +1,6 @@
 ---
 name: vercel-database
-description: Database with Vercel. managed databases.
+description: "Database with Vercel. managed databases."
 category: devops
 tags: [vercel, database, devops, cloud]
 models: [gpt-4, claude-3]

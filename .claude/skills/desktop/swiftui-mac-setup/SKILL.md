@@ -1,6 +1,6 @@
 ---
 name: swiftui-mac-setup
-description: Setup with SwiftUI Mac. SDK setup.
+description: "Setup with SwiftUI Mac. SDK setup."
 category: desktop
 tags: [swiftui-mac, setup, desktop, desktop]
 models: [gpt-4, claude-3]

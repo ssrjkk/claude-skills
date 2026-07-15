@@ -1,6 +1,6 @@
 ---
 name: unreal-advanced
-description: Advanced for Unreal: advanced patterns and techniques
+description: "Advanced for Unreal: advanced patterns and techniques"
 category: gamedev
 tags: [unreal, advanced, gamedev]
 models: [sonnet, opus]

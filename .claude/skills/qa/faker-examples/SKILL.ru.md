@@ -1,6 +1,6 @@
 ---
 name: faker-examples
-description: Examples for Faker: practical examples
+description: "Examples for Faker: practical examples"
 category: qa
 tags: [faker-examples, qa, russian]
 models: [sonnet, opus]

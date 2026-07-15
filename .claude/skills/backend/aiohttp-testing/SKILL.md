@@ -1,6 +1,6 @@
 ---
 name: aiohttp-testing
-description: Testing with aiohttp. integration tests.
+description: "Testing with aiohttp. integration tests."
 category: backend
 tags: [aiohttp, testing, backend, backend]
 models: [gpt-4, claude-3]

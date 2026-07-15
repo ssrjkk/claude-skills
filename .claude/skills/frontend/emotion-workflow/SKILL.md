@@ -1,6 +1,6 @@
 ---
 name: emotion-workflow
-description: Workflow for Emotion: workflow optimization
+description: "Workflow for Emotion: workflow optimization"
 category: frontend
 tags: [emotion, workflow, frontend]
 models: [sonnet, opus]

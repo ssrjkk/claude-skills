@@ -1,6 +1,6 @@
 ---
 name: teensy-adc
-description: ADC with Teensy. analog input.
+description: "ADC with Teensy. analog input."
 category: iot
 tags: [teensy-adc, iot, russian]
 models: [sonnet, opus]

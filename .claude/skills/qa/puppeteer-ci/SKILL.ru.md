@@ -1,6 +1,6 @@
 ---
 name: puppeteer-ci
-description: CI with Puppeteer. CI integration.
+description: "CI with Puppeteer. CI integration."
 category: qa
 tags: [puppeteer-ci, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: apache-spark-streaming
-description: Streaming with Apache Spark. real-time.
+description: "Streaming with Apache Spark. real-time."
 category: data
 tags: [apache-spark, streaming, data, data-engineering]
 models: [gpt-4, claude-3]

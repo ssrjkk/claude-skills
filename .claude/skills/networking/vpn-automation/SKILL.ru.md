@@ -1,6 +1,6 @@
 ---
 name: vpn-automation
-description: Automation with VPN. network automation.
+description: "Automation with VPN. network automation."
 category: networking
 tags: [vpn-automation, networking, russian]
 models: [sonnet, opus]

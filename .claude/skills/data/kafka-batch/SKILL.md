@@ -1,6 +1,6 @@
 ---
 name: kafka-batch
-description: Batch with Kafka. batch processing.
+description: "Batch with Kafka. batch processing."
 category: data
 tags: [kafka, batch, data, data-engineering]
 models: [gpt-4, claude-3]

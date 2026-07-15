@@ -1,6 +1,6 @@
 ---
 name: loopback-deployment
-description: Deployment with LoopBack. deploy.
+description: "Deployment with LoopBack. deploy."
 category: backend
 tags: [loopback-deployment, backend, russian]
 models: [sonnet, opus]

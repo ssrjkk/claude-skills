@@ -1,6 +1,6 @@
 ---
 name: shopify-storefront-products
-description: Products with Shopify Storefront. product API.
+description: "Products with Shopify Storefront. product API."
 category: ecommerce
 tags: [shopify-storefront-products, ecommerce, russian]
 models: [sonnet, opus]

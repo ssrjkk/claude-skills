@@ -1,6 +1,6 @@
 ---
 name: zig-rest-api
-description: REST API with Zig. building REST APIs.
+description: "REST API with Zig. building REST APIs."
 category: backend
 tags: [zig, rest-api, backend, backend]
 models: [gpt-4, claude-3]

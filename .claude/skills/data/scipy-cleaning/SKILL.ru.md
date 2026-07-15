@@ -1,6 +1,6 @@
 ---
 name: scipy-cleaning
-description: Cleaning with SciPy. data cleaning.
+description: "Cleaning with SciPy. data cleaning."
 category: data
 tags: [scipy-cleaning, data, russian]
 models: [sonnet, opus]

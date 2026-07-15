@@ -1,6 +1,6 @@
 ---
 name: sbti-basics
-description: Basics with SBTi. fundamentals.
+description: "Basics with SBTi. fundamentals."
 category: sustainability
 tags: [sbti, basics, sustainability, sustainability]
 models: [gpt-4, claude-3]

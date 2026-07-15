@@ -1,6 +1,6 @@
 ---
 name: mergestat-intro
-description: Intro for Mergestat: introduction
+description: "Intro for Mergestat: introduction"
 category: data
 tags: [mergestat-intro, data, russian]
 models: [sonnet, opus]

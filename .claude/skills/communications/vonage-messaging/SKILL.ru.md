@@ -1,6 +1,6 @@
 ---
 name: vonage-messaging
-description: Messaging with Vonage. sending messages.
+description: "Messaging with Vonage. sending messages."
 category: communications
 tags: [vonage-messaging, communications, russian]
 models: [sonnet, opus]

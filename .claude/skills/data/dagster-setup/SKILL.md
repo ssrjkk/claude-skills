@@ -1,6 +1,6 @@
 ---
 name: dagster-setup
-description: Setup with Dagster. installation.
+description: "Setup with Dagster. installation."
 category: data
 tags: [dagster, setup, data, data-engineering]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: render-storage
-description: Storage with Render. object storage.
+description: "Storage with Render. object storage."
 category: devops
 tags: [render, storage, devops, cloud]
 models: [gpt-4, claude-3]

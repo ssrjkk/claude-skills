@@ -1,6 +1,6 @@
 ---
 name: aws-ecs-fundamentals
-description: Fundamentals for Aws-Ecs: core concepts
+description: "Fundamentals for Aws-Ecs: core concepts"
 category: cloud
 tags: [aws-ecs, fundamentals, cloud]
 models: [sonnet, opus]

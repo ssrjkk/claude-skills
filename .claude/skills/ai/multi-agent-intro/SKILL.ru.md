@@ -1,6 +1,6 @@
 ---
 name: multi-agent-intro
-description: Intro for Multi-Agent: introduction
+description: "Intro for Multi-Agent: introduction"
 category: ai
 tags: [multi-agent-intro, ai, russian]
 models: [sonnet, opus]

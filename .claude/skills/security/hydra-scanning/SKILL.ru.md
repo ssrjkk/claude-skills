@@ -1,6 +1,6 @@
 ---
 name: hydra-scanning
-description: Scanning with Hydra. security scanning.
+description: "Scanning with Hydra. security scanning."
 category: security
 tags: [hydra-scanning, security, russian]
 models: [sonnet, opus]

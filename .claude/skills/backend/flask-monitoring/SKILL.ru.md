@@ -1,6 +1,6 @@
 ---
 name: flask-monitoring
-description: Monitoring for Flask: monitoring and observability
+description: "Monitoring for Flask: monitoring and observability"
 category: backend
 tags: [flask-monitoring, backend, russian]
 models: [sonnet, opus]

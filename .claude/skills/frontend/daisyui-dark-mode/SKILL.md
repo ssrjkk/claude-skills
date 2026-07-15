@@ -1,6 +1,6 @@
 ---
 name: daisyui-dark-mode
-description: Dark Mode with daisyUI. dark theme.
+description: "Dark Mode with daisyUI. dark theme."
 category: frontend
 tags: [daisyui, dark-mode, frontend, css]
 models: [gpt-4, claude-3]

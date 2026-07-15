@@ -1,6 +1,6 @@
 ---
 name: prometheus-alerts
-description: Alerts with Prometheus. alerting rules.
+description: "Alerts with Prometheus. alerting rules."
 category: devops
 tags: [prometheus-alerts, devops, russian]
 models: [sonnet, opus]

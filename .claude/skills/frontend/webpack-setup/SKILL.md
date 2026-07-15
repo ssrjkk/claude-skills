@@ -1,6 +1,6 @@
 ---
 name: webpack-setup
-description: Setup with Webpack. initial setup.
+description: "Setup with Webpack. initial setup."
 category: frontend
 tags: [webpack, setup, frontend, build-tool]
 models: [gpt-4, claude-3]

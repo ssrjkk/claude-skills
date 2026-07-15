@@ -1,6 +1,6 @@
 ---
 name: roadmap-best-practices
-description: Best Practices with Roadmapping. tips.
+description: "Best Practices with Roadmapping. tips."
 category: product
 tags: [roadmap, best-practices, product, product-framework]
 models: [gpt-4, claude-3]

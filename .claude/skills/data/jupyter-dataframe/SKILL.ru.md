@@ -1,6 +1,6 @@
 ---
 name: jupyter-dataframe
-description: DataFrame with Jupyter. data manipulation.
+description: "DataFrame with Jupyter. data manipulation."
 category: data
 tags: [jupyter-dataframe, data, russian]
 models: [sonnet, opus]

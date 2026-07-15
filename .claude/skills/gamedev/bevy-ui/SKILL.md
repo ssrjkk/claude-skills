@@ -1,6 +1,6 @@
 ---
 name: bevy-ui
-description: UI with Bevy. game UI.
+description: "UI with Bevy. game UI."
 category: gamedev
 tags: [bevy, ui, gamedev, game-engine]
 models: [gpt-4, claude-3]

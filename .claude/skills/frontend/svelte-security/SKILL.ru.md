@@ -1,6 +1,6 @@
 ---
 name: svelte-security
-description: Security for Svelte: security best practices
+description: "Security for Svelte: security best practices"
 category: frontend
 tags: [svelte-security, frontend, russian]
 models: [sonnet, opus]

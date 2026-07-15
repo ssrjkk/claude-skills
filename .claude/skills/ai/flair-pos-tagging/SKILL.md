@@ -1,6 +1,6 @@
 ---
 name: flair-pos-tagging
-description: POS Tagging with Flair. POS tagging.
+description: "POS Tagging with Flair. POS tagging."
 category: ai
 tags: [flair, pos-tagging, ai, nlp]
 models: [gpt-4, claude-3]

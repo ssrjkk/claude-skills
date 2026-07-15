@@ -1,6 +1,6 @@
 ---
 name: tyk-fundamentals
-description: Fundamentals for Tyk: core concepts
+description: "Fundamentals for Tyk: core concepts"
 category: backend
 tags: [tyk-fundamentals, backend, russian]
 models: [sonnet, opus]

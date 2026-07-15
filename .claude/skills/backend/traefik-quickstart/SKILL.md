@@ -1,6 +1,6 @@
 ---
 name: traefik-quickstart
-description: Quickstart for Traefik: quick start guide
+description: "Quickstart for Traefik: quick start guide"
 category: backend
 tags: [traefik, quickstart, backend]
 models: [sonnet, opus]

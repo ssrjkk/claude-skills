@@ -1,6 +1,6 @@
 ---
 name: webpack-plugins
-description: Plugins with Webpack. plugins.
+description: "Plugins with Webpack. plugins."
 category: frontend
 tags: [webpack, plugins, frontend, build-tool]
 models: [gpt-4, claude-3]

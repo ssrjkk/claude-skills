@@ -1,6 +1,6 @@
 ---
 name: blender-automation
-description: Automation for Blender: automation and scripting
+description: "Automation for Blender: automation and scripting"
 category: gamedev
 tags: [blender, automation, gamedev]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: tls-ssl-optimization
-description: Optimization with TLS/SSL. tuning.
+description: "Optimization with TLS/SSL. tuning."
 category: networking
 tags: [tls-ssl, optimization, networking, networking]
 models: [gpt-4, claude-3]

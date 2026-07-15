@@ -1,6 +1,6 @@
 ---
 name: signoz-setup
-description: Setup with SigNoz. installation.
+description: "Setup with SigNoz. installation."
 category: devops
 tags: [signoz, setup, devops, monitoring]
 models: [gpt-4, claude-3]

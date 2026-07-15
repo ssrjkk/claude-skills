@@ -1,6 +1,6 @@
 ---
 name: vite-bundling
-description: Bundling with Vite. code bundling.
+description: "Bundling with Vite. code bundling."
 category: frontend
 tags: [vite, bundling, frontend, build-tool]
 models: [gpt-4, claude-3]

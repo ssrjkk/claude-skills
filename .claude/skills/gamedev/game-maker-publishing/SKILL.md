@@ -1,6 +1,6 @@
 ---
 name: game-maker-publishing
-description: Publishing with GameMaker. publishing.
+description: "Publishing with GameMaker. publishing."
 category: gamedev
 tags: [game-maker, publishing, gamedev, game-engine]
 models: [gpt-4, claude-3]

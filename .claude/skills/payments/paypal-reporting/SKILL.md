@@ -1,6 +1,6 @@
 ---
 name: paypal-reporting
-description: Reporting with PayPal. reports.
+description: "Reporting with PayPal. reports."
 category: payments
 tags: [paypal, reporting, payments, payments]
 models: [gpt-4, claude-3]

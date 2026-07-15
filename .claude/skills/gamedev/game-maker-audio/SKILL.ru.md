@@ -1,6 +1,6 @@
 ---
 name: game-maker-audio
-description: Audio with GameMaker. audio.
+description: "Audio with GameMaker. audio."
 category: gamedev
 tags: [game-maker-audio, gamedev, russian]
 models: [sonnet, opus]

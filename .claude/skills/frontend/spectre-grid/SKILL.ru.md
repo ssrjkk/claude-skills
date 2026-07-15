@@ -1,6 +1,6 @@
 ---
 name: spectre-grid
-description: Grid with Spectre.css. layout grids.
+description: "Grid with Spectre.css. layout grids."
 category: frontend
 tags: [spectre-grid, frontend, russian]
 models: [sonnet, opus]

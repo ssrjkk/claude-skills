@@ -1,6 +1,6 @@
 ---
 name: highjump-transportation
-description: Transportation with HighJump. TMS.
+description: "Transportation with HighJump. TMS."
 category: supply-chain
 tags: [highjump, transportation, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

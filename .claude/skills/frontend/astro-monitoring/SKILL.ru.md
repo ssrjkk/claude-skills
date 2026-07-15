@@ -1,6 +1,6 @@
 ---
 name: astro-monitoring
-description: Monitoring for Astro: monitoring and observability
+description: "Monitoring for Astro: monitoring and observability"
 category: frontend
 tags: [astro-monitoring, frontend, russian]
 models: [sonnet, opus]

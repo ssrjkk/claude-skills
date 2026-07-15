@@ -1,6 +1,6 @@
 ---
 name: quantum
-description: Development with Quantum: tools and best practices
+description: "Development with Quantum: tools and best practices"
 category: gamedev
 tags: [quantum, gamedev, development]
 models: [sonnet, opus]

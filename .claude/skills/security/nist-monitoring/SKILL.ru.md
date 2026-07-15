@@ -1,6 +1,6 @@
 ---
 name: nist-monitoring
-description: Monitoring with NIST. security monitoring.
+description: "Monitoring with NIST. security monitoring."
 category: security
 tags: [nist-monitoring, security, russian]
 models: [sonnet, opus]

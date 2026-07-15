@@ -1,6 +1,6 @@
 ---
 name: maya-best-practices
-description: Best Practices for Maya: best practices and patterns
+description: "Best Practices for Maya: best practices and patterns"
 category: gamedev
 tags: [maya-best-practices, gamedev, russian]
 models: [sonnet, opus]

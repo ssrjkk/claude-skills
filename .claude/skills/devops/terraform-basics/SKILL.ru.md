@@ -1,6 +1,6 @@
 ---
 name: terraform-basics
-description: Basics for Terraform: fundamentals and core concepts
+description: "Basics for Terraform: fundamentals and core concepts"
 category: devops
 tags: [terraform-basics, devops, russian]
 models: [sonnet, opus]

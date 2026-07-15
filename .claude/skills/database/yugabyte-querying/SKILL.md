@@ -1,6 +1,6 @@
 ---
 name: yugabyte-querying
-description: Querying with YugabyteDB. SQL queries.
+description: "Querying with YugabyteDB. SQL queries."
 category: database
 tags: [yugabyte, querying, database, sql]
 models: [gpt-4, claude-3]

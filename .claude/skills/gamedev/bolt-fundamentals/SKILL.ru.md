@@ -1,6 +1,6 @@
 ---
 name: bolt-fundamentals
-description: Fundamentals for Bolt: core concepts
+description: "Fundamentals for Bolt: core concepts"
 category: gamedev
 tags: [bolt-fundamentals, gamedev, russian]
 models: [sonnet, opus]

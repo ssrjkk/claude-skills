@@ -1,6 +1,6 @@
 ---
 name: pinia-testing
-description: Testing with Pinia. state testing.
+description: "Testing with Pinia. state testing."
 category: frontend
 tags: [pinia, testing, frontend, state-management]
 models: [gpt-4, claude-3]

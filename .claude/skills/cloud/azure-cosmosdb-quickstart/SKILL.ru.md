@@ -1,6 +1,6 @@
 ---
 name: azure-cosmosdb-quickstart
-description: Quickstart for Azure-Cosmosdb: quick start guide
+description: "Quickstart for Azure-Cosmosdb: quick start guide"
 category: cloud
 tags: [azure-cosmosdb-quickstart, cloud, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: x509-incident-response
-description: Incident Response with X.509. incident response.
+description: "Incident Response with X.509. incident response."
 category: security
 tags: [x509, incident-response, security, security]
 models: [gpt-4, claude-3]

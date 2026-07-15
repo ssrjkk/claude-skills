@@ -1,6 +1,6 @@
 ---
 name: pulsar-integration
-description: Integration with Pulsar. connectors.
+description: "Integration with Pulsar. connectors."
 category: data
 tags: [pulsar-integration, data, russian]
 models: [sonnet, opus]

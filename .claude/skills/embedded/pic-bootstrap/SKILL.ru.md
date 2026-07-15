@@ -1,6 +1,6 @@
 ---
 name: pic-bootstrap
-description: Bootstrap with PIC. startup code.
+description: "Bootstrap with PIC. startup code."
 category: embedded
 tags: [pic-bootstrap, embedded, russian]
 models: [sonnet, opus]

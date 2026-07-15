@@ -1,6 +1,6 @@
 ---
 name: nessus-setup
-description: Setup with Nessus. installation.
+description: "Setup with Nessus. installation."
 category: security
 tags: [nessus-setup, security, russian]
 models: [sonnet, opus]

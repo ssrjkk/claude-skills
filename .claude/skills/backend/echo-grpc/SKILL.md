@@ -1,6 +1,6 @@
 ---
 name: echo-grpc
-description: gRPC with Echo. gRPC services.
+description: "gRPC with Echo. gRPC services."
 category: backend
 tags: [echo, grpc, backend, backend]
 models: [gpt-4, claude-3]

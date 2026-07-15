@@ -1,6 +1,6 @@
 ---
 name: tvm-distributed
-description: Distributed with Tvm. distributed training.
+description: "Distributed with Tvm. distributed training."
 category: ai
 tags: [tvm, distributed, ai, deep-learning]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: tsc-code-splitting
-description: Code Splitting with TypeScript. lazy loading.
+description: "Code Splitting with TypeScript. lazy loading."
 category: frontend
 tags: [tsc, code-splitting, frontend, build-tool]
 models: [gpt-4, claude-3]

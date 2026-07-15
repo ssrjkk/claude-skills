@@ -1,6 +1,6 @@
 ---
 name: opentofu-networking
-description: Networking with OpenTofu. network infra.
+description: "Networking with OpenTofu. network infra."
 category: devops
 tags: [opentofu, networking, devops, iac]
 models: [gpt-4, claude-3]

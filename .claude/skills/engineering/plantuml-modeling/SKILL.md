@@ -1,6 +1,6 @@
 ---
 name: plantuml-modeling
-description: Modeling with PlantUML. system modeling.
+description: "Modeling with PlantUML. system modeling."
 category: engineering
 tags: [plantuml, modeling, engineering, modeling]
 models: [gpt-4, claude-3]

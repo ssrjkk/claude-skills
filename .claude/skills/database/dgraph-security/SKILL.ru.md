@@ -1,6 +1,6 @@
 ---
 name: dgraph-security
-description: Security with Dgraph. security.
+description: "Security with Dgraph. security."
 category: database
 tags: [dgraph-security, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: janusgraph-modeling
-description: Modeling with JanusGraph. graph modeling.
+description: "Modeling with JanusGraph. graph modeling."
 category: database
 tags: [janusgraph-modeling, database, russian]
 models: [sonnet, opus]

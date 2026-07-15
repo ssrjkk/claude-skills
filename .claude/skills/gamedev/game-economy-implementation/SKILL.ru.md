@@ -1,6 +1,6 @@
 ---
 name: game-economy-implementation
-description: Implementation with Game Economy. implementation.
+description: "Implementation with Game Economy. implementation."
 category: gamedev
 tags: [game-economy-implementation, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: er-diagrams-best-practices
-description: Best Practices with ER Diagrams. practices.
+description: "Best Practices with ER Diagrams. practices."
 category: engineering
 tags: [er-diagrams, best-practices, engineering, modeling]
 models: [gpt-4, claude-3]

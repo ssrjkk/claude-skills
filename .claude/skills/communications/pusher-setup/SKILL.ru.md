@@ -1,6 +1,6 @@
 ---
 name: pusher-setup
-description: Setup with Pusher. account setup.
+description: "Setup with Pusher. account setup."
 category: communications
 tags: [pusher-setup, communications, russian]
 models: [sonnet, opus]

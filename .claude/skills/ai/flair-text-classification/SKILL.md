@@ -1,6 +1,6 @@
 ---
 name: flair-text-classification
-description: Text Classification with Flair. document categorization.
+description: "Text Classification with Flair. document categorization."
 category: ai
 tags: [flair, text-classification, ai, nlp]
 models: [gpt-4, claude-3]

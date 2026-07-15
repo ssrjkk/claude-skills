@@ -1,6 +1,6 @@
 ---
 name: github-actions-security
-description: Security with GitHub Actions. security scanning.
+description: "Security with GitHub Actions. security scanning."
 category: devops
 tags: [github-actions, security, devops, ci-cd]
 models: [gpt-4, claude-3]

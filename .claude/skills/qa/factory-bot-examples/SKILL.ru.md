@@ -1,6 +1,6 @@
 ---
 name: factory-bot-examples
-description: Examples for Factory-Bot: practical examples
+description: "Examples for Factory-Bot: practical examples"
 category: qa
 tags: [factory-bot-examples, qa, russian]
 models: [sonnet, opus]

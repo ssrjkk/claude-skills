@@ -1,6 +1,6 @@
 ---
 name: workflow-ai-intro
-description: Intro for Workflow-Ai: introduction
+description: "Intro for Workflow-Ai: introduction"
 category: ai
 tags: [workflow-ai-intro, ai, russian]
 models: [sonnet, opus]

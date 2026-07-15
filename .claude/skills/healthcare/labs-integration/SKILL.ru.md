@@ -1,6 +1,6 @@
 ---
 name: labs-integration
-description: Integration with LIS. system integration.
+description: "Integration with LIS. system integration."
 category: healthcare
 tags: [labs-integration, healthcare, russian]
 models: [sonnet, opus]

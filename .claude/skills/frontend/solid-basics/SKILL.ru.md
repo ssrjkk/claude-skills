@@ -1,6 +1,6 @@
 ---
 name: solid-basics
-description: Basics for Solid: fundamentals and core concepts
+description: "Basics for Solid: fundamentals and core concepts"
 category: frontend
 tags: [solid-basics, frontend, russian]
 models: [sonnet, opus]

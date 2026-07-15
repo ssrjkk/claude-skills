@@ -1,6 +1,6 @@
 ---
 name: threadx-tasks
-description: Tasks with ThreadX. task management.
+description: "Tasks with ThreadX. task management."
 category: embedded
 tags: [threadx-tasks, embedded, russian]
 models: [sonnet, opus]

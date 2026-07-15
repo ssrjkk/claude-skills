@@ -1,6 +1,6 @@
 ---
 name: prometheus-debugging
-description: Debugging for Prometheus: debugging and troubleshooting
+description: "Debugging for Prometheus: debugging and troubleshooting"
 category: devops
 tags: [prometheus, debugging, devops]
 models: [sonnet, opus]

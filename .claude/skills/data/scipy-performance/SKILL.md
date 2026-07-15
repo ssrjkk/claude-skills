@@ -1,6 +1,6 @@
 ---
 name: scipy-performance
-description: Performance with SciPy. optimization.
+description: "Performance with SciPy. optimization."
 category: data
 tags: [scipy, performance, data, data-science]
 models: [gpt-4, claude-3]

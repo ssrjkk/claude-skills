@@ -1,6 +1,6 @@
 ---
 name: fastlane-troubleshooting
-description: Troubleshooting for Fastlane: troubleshooting common issues
+description: "Troubleshooting for Fastlane: troubleshooting common issues"
 category: mobile
 tags: [fastlane-troubleshooting, mobile, russian]
 models: [sonnet, opus]

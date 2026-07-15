@@ -1,6 +1,6 @@
 ---
 name: plaid-data
-description: Data with Plaid. financial data.
+description: "Data with Plaid. financial data."
 category: finance
 tags: [plaid, data, finance, fintech]
 models: [gpt-4, claude-3]

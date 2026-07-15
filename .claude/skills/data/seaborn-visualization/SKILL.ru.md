@@ -1,6 +1,6 @@
 ---
 name: seaborn-visualization
-description: Visualization with Seaborn. charting.
+description: "Visualization with Seaborn. charting."
 category: data
 tags: [seaborn-visualization, data, russian]
 models: [sonnet, opus]

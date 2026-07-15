@@ -1,6 +1,6 @@
 ---
 name: pki-best-practices
-description: Best Practices with PKI. best practices.
+description: "Best Practices with PKI. best practices."
 category: security
 tags: [pki-best-practices, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: synctera-data
-description: Data with Synctera. financial data.
+description: "Data with Synctera. financial data."
 category: finance
 tags: [synctera, data, finance, fintech]
 models: [gpt-4, claude-3]

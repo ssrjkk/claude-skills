@@ -1,6 +1,6 @@
 ---
 name: pytorch-visualization
-description: Visualization with Pytorch. model viz.
+description: "Visualization with Pytorch. model viz."
 category: ai
 tags: [pytorch-visualization, ai, russian]
 models: [sonnet, opus]

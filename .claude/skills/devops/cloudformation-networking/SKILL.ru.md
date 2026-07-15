@@ -1,6 +1,6 @@
 ---
 name: cloudformation-networking
-description: Networking with CloudFormation. network infra.
+description: "Networking with CloudFormation. network infra."
 category: devops
 tags: [cloudformation-networking, devops, russian]
 models: [sonnet, opus]

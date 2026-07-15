@@ -1,6 +1,6 @@
 ---
 name: rancher-secrets
-description: Secrets with Rancher. secret management.
+description: "Secrets with Rancher. secret management."
 category: devops
 tags: [rancher-secrets, devops, russian]
 models: [sonnet, opus]

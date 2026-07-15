@@ -1,6 +1,6 @@
 ---
 name: numpy-transformation
-description: Transformation with NumPy. transform.
+description: "Transformation with NumPy. transform."
 category: data
 tags: [numpy-transformation, data, russian]
 models: [sonnet, opus]

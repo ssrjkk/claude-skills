@@ -1,6 +1,6 @@
 ---
 name: singlestore-production
-description: Production for Singlestore: production deployment
+description: "Production for Singlestore: production deployment"
 category: database
 tags: [singlestore-production, database, russian]
 models: [sonnet, opus]

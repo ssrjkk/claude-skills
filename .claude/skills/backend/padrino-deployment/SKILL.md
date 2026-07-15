@@ -1,6 +1,6 @@
 ---
 name: padrino-deployment
-description: Deployment with Padrino. deploy.
+description: "Deployment with Padrino. deploy."
 category: backend
 tags: [padrino, deployment, backend, backend]
 models: [gpt-4, claude-3]

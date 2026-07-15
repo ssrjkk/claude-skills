@@ -1,6 +1,6 @@
 ---
 name: snowflake-basics
-description: Basics for Snowflake: fundamentals and core concepts
+description: "Basics for Snowflake: fundamentals and core concepts"
 category: data
 tags: [snowflake, basics, data]
 models: [sonnet, opus]

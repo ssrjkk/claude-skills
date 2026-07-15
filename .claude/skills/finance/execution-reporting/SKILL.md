@@ -1,6 +1,6 @@
 ---
 name: execution-reporting
-description: Reporting with Execution Systems. reports.
+description: "Reporting with Execution Systems. reports."
 category: finance
 tags: [execution, reporting, finance, trading]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: arangodb-optimization
-description: Optimization with ArangoDB. performance.
+description: "Optimization with ArangoDB. performance."
 category: database
 tags: [arangodb-optimization, database, russian]
 models: [sonnet, opus]

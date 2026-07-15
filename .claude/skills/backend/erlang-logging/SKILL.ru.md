@@ -1,6 +1,6 @@
 ---
 name: erlang-logging
-description: Logging with Erlang. app logging.
+description: "Logging with Erlang. app logging."
 category: backend
 tags: [erlang-logging, backend, russian]
 models: [sonnet, opus]

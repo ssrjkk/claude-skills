@@ -1,6 +1,6 @@
 ---
 name: huggingface-optimization
-description: Optimization for Huggingface: performance tuning and optimization
+description: "Optimization for Huggingface: performance tuning and optimization"
 category: ai
 tags: [huggingface, optimization, ai]
 models: [sonnet, opus]

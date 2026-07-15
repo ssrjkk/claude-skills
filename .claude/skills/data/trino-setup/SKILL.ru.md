@@ -1,6 +1,6 @@
 ---
 name: trino-setup
-description: Setup with Trino. installation.
+description: "Setup with Trino. installation."
 category: data
 tags: [trino-setup, data, russian]
 models: [sonnet, opus]

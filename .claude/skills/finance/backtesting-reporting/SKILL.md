@@ -1,6 +1,6 @@
 ---
 name: backtesting-reporting
-description: Reporting with Backtesting. reports.
+description: "Reporting with Backtesting. reports."
 category: finance
 tags: [backtesting, reporting, finance, trading]
 models: [gpt-4, claude-3]

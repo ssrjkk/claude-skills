@@ -1,6 +1,6 @@
 ---
 name: webrtc-streaming-encoding
-description: Encoding with WebRTC Streaming. encoding.
+description: "Encoding with WebRTC Streaming. encoding."
 category: media
 tags: [webrtc-streaming-encoding, media, russian]
 models: [sonnet, opus]

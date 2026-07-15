@@ -1,6 +1,6 @@
 ---
 name: react-native-navigation
-description: Navigation with React Native. navigation.
+description: "Navigation with React Native. navigation."
 category: mobile
 tags: [react-native, navigation, mobile, mobile]
 models: [gpt-4, claude-3]

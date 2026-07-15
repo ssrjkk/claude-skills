@@ -1,6 +1,6 @@
 ---
 name: swc-optimization
-description: Optimization with SWC. build optimization.
+description: "Optimization with SWC. build optimization."
 category: frontend
 tags: [swc-optimization, frontend, russian]
 models: [sonnet, opus]

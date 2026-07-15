@@ -1,6 +1,6 @@
 ---
 name: dns-security
-description: Security with DNS. hardening.
+description: "Security with DNS. hardening."
 category: networking
 tags: [dns, security, networking, networking]
 models: [gpt-4, claude-3]

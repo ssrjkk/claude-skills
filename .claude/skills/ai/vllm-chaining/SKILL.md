@@ -1,6 +1,6 @@
 ---
 name: vllm-chaining
-description: Chaining with Vllm. multi-step workflows.
+description: "Chaining with Vllm. multi-step workflows."
 category: ai
 tags: [vllm, chaining, ai, llm]
 models: [gpt-4, claude-3]

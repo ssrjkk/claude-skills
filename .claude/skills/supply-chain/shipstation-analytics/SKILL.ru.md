@@ -1,6 +1,6 @@
 ---
 name: shipstation-analytics
-description: Analytics with ShipStation. analytics.
+description: "Analytics with ShipStation. analytics."
 category: supply-chain
 tags: [shipstation-analytics, supply-chain, russian]
 models: [sonnet, opus]

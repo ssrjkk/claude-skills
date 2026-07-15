@@ -1,6 +1,6 @@
 ---
 name: falco-api
-description: API for Falco: API development and integration
+description: "API for Falco: API development and integration"
 category: security
 tags: [falco, api, security]
 models: [sonnet, opus]

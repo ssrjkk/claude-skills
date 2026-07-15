@@ -1,6 +1,6 @@
 ---
 name: couchbase-persistence
-description: Persistence with Couchbase. persistence.
+description: "Persistence with Couchbase. persistence."
 category: database
 tags: [couchbase-persistence, database, russian]
 models: [sonnet, opus]

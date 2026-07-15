@@ -1,6 +1,6 @@
 ---
 name: retry-implementation
-description: Implementation with Retry. practical implementation.
+description: "Implementation with Retry. practical implementation."
 category: backend
 tags: [retry, implementation, backend, architecture]
 models: [gpt-4, claude-3]

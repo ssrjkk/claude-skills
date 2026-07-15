@@ -1,6 +1,6 @@
 ---
 name: vonage-messaging
-description: Messaging with Vonage. sending messages.
+description: "Messaging with Vonage. sending messages."
 category: communications
 tags: [vonage, messaging, communications, communication-platform]
 models: [gpt-4, claude-3]

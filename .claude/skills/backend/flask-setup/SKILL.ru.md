@@ -1,6 +1,6 @@
 ---
 name: flask-setup
-description: Setup for Flask: installation and configuration
+description: "Setup for Flask: installation and configuration"
 category: backend
 tags: [flask-setup, backend, russian]
 models: [sonnet, opus]

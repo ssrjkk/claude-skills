@@ -1,6 +1,6 @@
 ---
 name: oauth2-monitoring
-description: Monitoring with OAuth 2.0. security monitoring.
+description: "Monitoring with OAuth 2.0. security monitoring."
 category: security
 tags: [oauth2-monitoring, security, russian]
 models: [sonnet, opus]

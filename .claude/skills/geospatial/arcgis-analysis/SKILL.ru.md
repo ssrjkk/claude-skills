@@ -1,6 +1,6 @@
 ---
 name: arcgis-analysis
-description: Analysis with ArcGIS. spatial analysis.
+description: "Analysis with ArcGIS. spatial analysis."
 category: geospatial
 tags: [arcgis-analysis, geospatial, russian]
 models: [sonnet, opus]

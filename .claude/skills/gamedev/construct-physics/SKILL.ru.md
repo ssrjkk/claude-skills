@@ -1,6 +1,6 @@
 ---
 name: construct-physics
-description: Physics with Construct. physics.
+description: "Physics with Construct. physics."
 category: gamedev
 tags: [construct-physics, gamedev, russian]
 models: [sonnet, opus]

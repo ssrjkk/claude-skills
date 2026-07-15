@@ -1,6 +1,6 @@
 ---
 name: arcore-tracking
-description: Tracking with ARCore. spatial tracking.
+description: "Tracking with ARCore. spatial tracking."
 category: ar-vr
 tags: [arcore, tracking, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

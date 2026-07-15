@@ -1,6 +1,6 @@
 ---
 name: mixamo-examples
-description: Examples for Mixamo: practical examples
+description: "Examples for Mixamo: practical examples"
 category: gamedev
 tags: [mixamo-examples, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ionic-ui
-description: UI with Ionic. UI components.
+description: "UI with Ionic. UI components."
 category: mobile
 tags: [ionic, ui, mobile, mobile]
 models: [gpt-4, claude-3]

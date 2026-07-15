@@ -1,6 +1,6 @@
 ---
 name: debian-processes
-description: Processes with Debian. process management.
+description: "Processes with Debian. process management."
 category: os-admin
 tags: [debian-processes, os-admin, russian]
 models: [sonnet, opus]

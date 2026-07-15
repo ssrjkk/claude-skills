@@ -1,6 +1,6 @@
 ---
 name: mariadb-replication
-description: Replication with MariaDB. replication.
+description: "Replication with MariaDB. replication."
 category: database
 tags: [mariadb, replication, database, sql]
 models: [gpt-4, claude-3]

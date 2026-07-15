@@ -1,6 +1,6 @@
 ---
 name: remotion-quickstart
-description: Quickstart for Remotion: quick start guide
+description: "Quickstart for Remotion: quick start guide"
 category: design
 tags: [remotion, quickstart, design]
 models: [sonnet, opus]

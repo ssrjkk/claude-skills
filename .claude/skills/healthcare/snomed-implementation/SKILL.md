@@ -1,6 +1,6 @@
 ---
 name: snomed-implementation
-description: Implementation with SNOMED CT. integration.
+description: "Implementation with SNOMED CT. integration."
 category: healthcare
 tags: [snomed, implementation, healthcare, healthcare]
 models: [gpt-4, claude-3]

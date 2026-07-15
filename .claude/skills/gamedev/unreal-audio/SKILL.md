@@ -1,6 +1,6 @@
 ---
 name: unreal-audio
-description: Audio with Unreal Engine. audio.
+description: "Audio with Unreal Engine. audio."
 category: gamedev
 tags: [unreal, audio, gamedev, game-engine]
 models: [gpt-4, claude-3]

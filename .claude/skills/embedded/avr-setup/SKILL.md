@@ -1,6 +1,6 @@
 ---
 name: avr-setup
-description: Setup with AVR. toolchain.
+description: "Setup with AVR. toolchain."
 category: embedded
 tags: [avr, setup, embedded, embedded-arch]
 models: [gpt-4, claude-3]

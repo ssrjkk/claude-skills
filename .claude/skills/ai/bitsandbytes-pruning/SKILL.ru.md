@@ -1,6 +1,6 @@
 ---
 name: bitsandbytes-pruning
-description: Pruning with Bitsandbytes. model pruning.
+description: "Pruning with Bitsandbytes. model pruning."
 category: ai
 tags: [bitsandbytes-pruning, ai, russian]
 models: [sonnet, opus]

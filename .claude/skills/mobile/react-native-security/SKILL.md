@@ -1,6 +1,6 @@
 ---
 name: react-native-security
-description: Security for React-Native: security best practices
+description: "Security for React-Native: security best practices"
 category: mobile
 tags: [react-native, security, mobile]
 models: [sonnet, opus]

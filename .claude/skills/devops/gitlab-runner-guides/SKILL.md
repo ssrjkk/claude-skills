@@ -1,6 +1,6 @@
 ---
 name: gitlab-runner-guides
-description: Guides for Gitlab-Runner: how-to guides
+description: "Guides for Gitlab-Runner: how-to guides"
 category: devops
 tags: [gitlab-runner, guides, devops]
 models: [sonnet, opus]

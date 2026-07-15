@@ -1,6 +1,6 @@
 ---
 name: owasp-basics
-description: Basics with OWASP. fundamentals.
+description: "Basics with OWASP. fundamentals."
 category: security
 tags: [owasp-basics, security, russian]
 models: [sonnet, opus]

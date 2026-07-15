@@ -1,6 +1,6 @@
 ---
 name: auto-sklearn-experiment-tracking
-description: Experiment Tracking with Auto Sklearn. tracking experiments.
+description: "Experiment Tracking with Auto Sklearn. tracking experiments."
 category: ai
 tags: [auto-sklearn-experiment-tracking, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: puppet-state
-description: State with Puppet. state management.
+description: "State with Puppet. state management."
 category: devops
 tags: [puppet-state, devops, russian]
 models: [sonnet, opus]

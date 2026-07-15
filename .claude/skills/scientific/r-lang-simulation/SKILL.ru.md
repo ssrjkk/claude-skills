@@ -1,6 +1,6 @@
 ---
 name: r-lang-simulation
-description: Simulation with R. Monte Carlo.
+description: "Simulation with R. Monte Carlo."
 category: scientific
 tags: [r-lang-simulation, scientific, russian]
 models: [sonnet, opus]

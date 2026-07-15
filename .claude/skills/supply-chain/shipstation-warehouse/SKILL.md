@@ -1,6 +1,6 @@
 ---
 name: shipstation-warehouse
-description: Warehouse with ShipStation. warehouse ops.
+description: "Warehouse with ShipStation. warehouse ops."
 category: supply-chain
 tags: [shipstation, warehouse, supply-chain, logistics]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: react-native-basics
-description: Basics for React-Native: fundamentals and core concepts
+description: "Basics for React-Native: fundamentals and core concepts"
 category: mobile
 tags: [react-native-basics, mobile, russian]
 models: [sonnet, opus]

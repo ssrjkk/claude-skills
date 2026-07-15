@@ -1,6 +1,6 @@
 ---
 name: rollup-hmr
-description: HMR with Rollup. hot reload.
+description: "HMR with Rollup. hot reload."
 category: frontend
 tags: [rollup-hmr, frontend, russian]
 models: [sonnet, opus]

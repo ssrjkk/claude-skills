@@ -1,6 +1,6 @@
 ---
 name: tekton-fundamentals
-description: Fundamentals for Tekton: core concepts
+description: "Fundamentals for Tekton: core concepts"
 category: devops
 tags: [tekton, fundamentals, devops]
 models: [sonnet, opus]

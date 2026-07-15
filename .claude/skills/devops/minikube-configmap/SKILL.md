@@ -1,6 +1,6 @@
 ---
 name: minikube-configmap
-description: ConfigMap with Minikube. config management.
+description: "ConfigMap with Minikube. config management."
 category: devops
 tags: [minikube, configmap, devops, kubernetes]
 models: [gpt-4, claude-3]

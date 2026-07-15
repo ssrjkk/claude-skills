@@ -1,6 +1,6 @@
 ---
 name: llama-index-streaming
-description: Streaming with Llama Index. token streaming.
+description: "Streaming with Llama Index. token streaming."
 category: ai
 tags: [llama-index-streaming, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sendgrid-chat
-description: Chat with SendGrid. chat.
+description: "Chat with SendGrid. chat."
 category: communications
 tags: [sendgrid, chat, communications, communication-platform]
 models: [gpt-4, claude-3]

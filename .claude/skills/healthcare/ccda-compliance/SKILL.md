@@ -1,6 +1,6 @@
 ---
 name: ccda-compliance
-description: Compliance with C-CDA. compliance.
+description: "Compliance with C-CDA. compliance."
 category: healthcare
 tags: [ccda, compliance, healthcare, healthcare]
 models: [gpt-4, claude-3]

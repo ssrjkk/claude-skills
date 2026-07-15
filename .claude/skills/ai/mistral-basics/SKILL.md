@@ -1,6 +1,6 @@
 ---
 name: mistral-basics
-description: Basics for Mistral: fundamentals and core concepts
+description: "Basics for Mistral: fundamentals and core concepts"
 category: ai
 tags: [mistral, basics, ai]
 models: [sonnet, opus]

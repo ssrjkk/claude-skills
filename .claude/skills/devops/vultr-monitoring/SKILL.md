@@ -1,6 +1,6 @@
 ---
 name: vultr-monitoring
-description: Monitoring with Vultr. monitoring.
+description: "Monitoring with Vultr. monitoring."
 category: devops
 tags: [vultr, monitoring, devops, cloud]
 models: [gpt-4, claude-3]

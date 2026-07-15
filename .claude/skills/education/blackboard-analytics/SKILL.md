@@ -1,6 +1,6 @@
 ---
 name: blackboard-analytics
-description: Analytics with Blackboard. analytics.
+description: "Analytics with Blackboard. analytics."
 category: education
 tags: [blackboard, analytics, education, education-platform]
 models: [gpt-4, claude-3]

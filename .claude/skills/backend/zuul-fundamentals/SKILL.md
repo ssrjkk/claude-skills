@@ -1,6 +1,6 @@
 ---
 name: zuul-fundamentals
-description: Fundamentals for Zuul: core concepts
+description: "Fundamentals for Zuul: core concepts"
 category: backend
 tags: [zuul, fundamentals, backend]
 models: [sonnet, opus]

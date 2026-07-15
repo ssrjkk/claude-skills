@@ -1,6 +1,6 @@
 ---
 name: phalcon-templating
-description: Templating with Phalcon. Blade.
+description: "Templating with Phalcon. Blade."
 category: backend
 tags: [phalcon-templating, backend, russian]
 models: [sonnet, opus]

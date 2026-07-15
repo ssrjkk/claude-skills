@@ -1,6 +1,6 @@
 ---
 name: wandb-clustering
-description: Clustering with Wandb. grouping data.
+description: "Clustering with Wandb. grouping data."
 category: ai
 tags: [wandb, clustering, ai, ml]
 models: [gpt-4, claude-3]

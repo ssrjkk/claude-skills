@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-mapping
-description: Mapping with Elasticsearch. field mapping.
+description: "Mapping with Elasticsearch. field mapping."
 category: database
 tags: [elasticsearch, mapping, database, search-engine]
 models: [gpt-4, claude-3]

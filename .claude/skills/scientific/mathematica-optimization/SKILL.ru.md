@@ -1,6 +1,6 @@
 ---
 name: mathematica-optimization
-description: Optimization with Mathematica. optimization.
+description: "Optimization with Mathematica. optimization."
 category: scientific
 tags: [mathematica-optimization, scientific, russian]
 models: [sonnet, opus]

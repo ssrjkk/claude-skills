@@ -1,6 +1,6 @@
 ---
 name: weaviate-monitoring
-description: Monitoring with Weaviate. cluster monitoring.
+description: "Monitoring with Weaviate. cluster monitoring."
 category: database
 tags: [weaviate, monitoring, database, search-engine]
 models: [gpt-4, claude-3]

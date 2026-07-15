@@ -1,6 +1,6 @@
 ---
 name: xstate-selectors
-description: Selectors with XState. derived data.
+description: "Selectors with XState. derived data."
 category: frontend
 tags: [xstate-selectors, frontend, russian]
 models: [sonnet, opus]

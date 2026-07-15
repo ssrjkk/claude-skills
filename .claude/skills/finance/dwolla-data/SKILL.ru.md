@@ -1,6 +1,6 @@
 ---
 name: dwolla-data
-description: Data with Dwolla. financial data.
+description: "Data with Dwolla. financial data."
 category: finance
 tags: [dwolla-data, finance, russian]
 models: [sonnet, opus]

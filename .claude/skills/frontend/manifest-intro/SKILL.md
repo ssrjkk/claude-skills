@@ -1,6 +1,6 @@
 ---
 name: manifest-intro
-description: Intro for Manifest: introduction
+description: "Intro for Manifest: introduction"
 category: frontend
 tags: [manifest, intro, frontend]
 models: [sonnet, opus]

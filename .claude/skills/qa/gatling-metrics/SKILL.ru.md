@@ -1,6 +1,6 @@
 ---
 name: gatling-metrics
-description: Metrics with Gatling. performance metrics.
+description: "Metrics with Gatling. performance metrics."
 category: qa
 tags: [gatling-metrics, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: langgraph-fundamentals
-description: Fundamentals for Langgraph: core concepts
+description: "Fundamentals for Langgraph: core concepts"
 category: ai
 tags: [langgraph-fundamentals, ai, russian]
 models: [sonnet, opus]

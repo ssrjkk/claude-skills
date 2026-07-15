@@ -1,6 +1,6 @@
 ---
 name: mocha-setup
-description: Setup with Mocha. installation.
+description: "Setup with Mocha. installation."
 category: qa
 tags: [mocha-setup, qa, russian]
 models: [sonnet, opus]

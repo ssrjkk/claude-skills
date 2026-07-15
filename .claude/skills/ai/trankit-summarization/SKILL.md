@@ -1,6 +1,6 @@
 ---
 name: trankit-summarization
-description: Summarization with Trankit. text summarization.
+description: "Summarization with Trankit. text summarization."
 category: ai
 tags: [trankit, summarization, ai, nlp]
 models: [gpt-4, claude-3]

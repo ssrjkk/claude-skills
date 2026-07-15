@@ -1,6 +1,6 @@
 ---
 name: textblob-sentiment
-description: Sentiment Analysis with Textblob. sentiment detection.
+description: "Sentiment Analysis with Textblob. sentiment detection."
 category: ai
 tags: [textblob-sentiment, ai, russian]
 models: [sonnet, opus]

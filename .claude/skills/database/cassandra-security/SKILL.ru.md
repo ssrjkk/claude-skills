@@ -1,6 +1,6 @@
 ---
 name: cassandra-security
-description: Security with Cassandra. security.
+description: "Security with Cassandra. security."
 category: database
 tags: [cassandra-security, database, russian]
 models: [sonnet, opus]

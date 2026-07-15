@@ -1,6 +1,6 @@
 ---
 name: babel-bundling
-description: Bundling with Babel. code bundling.
+description: "Bundling with Babel. code bundling."
 category: frontend
 tags: [babel, bundling, frontend, build-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: fastapi-deployment
-description: Deployment with FastAPI. production deploy.
+description: "Deployment with FastAPI. production deploy."
 category: backend
 tags: [fastapi, deployment, backend, backend]
 models: [gpt-4, claude-3]

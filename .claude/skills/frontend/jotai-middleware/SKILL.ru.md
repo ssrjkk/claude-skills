@@ -1,6 +1,6 @@
 ---
 name: jotai-middleware
-description: Middleware with Jotai. side effects.
+description: "Middleware with Jotai. side effects."
 category: frontend
 tags: [jotai-middleware, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: albumentations-image-classification
-description: Image Classification with Albumentations. classifying images.
+description: "Image Classification with Albumentations. classifying images."
 category: ai
 tags: [albumentations-image-classification, ai, russian]
 models: [sonnet, opus]

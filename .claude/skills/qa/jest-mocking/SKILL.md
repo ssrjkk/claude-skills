@@ -1,6 +1,6 @@
 ---
 name: jest-mocking
-description: Mocking with Jest. mocks.
+description: "Mocking with Jest. mocks."
 category: qa
 tags: [jest, mocking, qa, testing]
 models: [gpt-4, claude-3]

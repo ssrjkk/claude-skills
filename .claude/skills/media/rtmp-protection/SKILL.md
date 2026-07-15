@@ -1,6 +1,6 @@
 ---
 name: rtmp-protection
-description: Protection with RTMP. DRM.
+description: "Protection with RTMP. DRM."
 category: media
 tags: [rtmp, protection, media, media-streaming]
 models: [gpt-4, claude-3]

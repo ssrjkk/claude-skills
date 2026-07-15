@@ -1,6 +1,6 @@
 ---
 name: argocd-advanced
-description: Advanced for Argocd: advanced patterns and techniques
+description: "Advanced for Argocd: advanced patterns and techniques"
 category: devops
 tags: [argocd-advanced, devops, russian]
 models: [sonnet, opus]

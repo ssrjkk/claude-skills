@@ -1,6 +1,6 @@
 ---
 name: expo-api
-description: API for Expo: API development and integration
+description: "API for Expo: API development and integration"
 category: mobile
 tags: [expo, api, mobile]
 models: [sonnet, opus]

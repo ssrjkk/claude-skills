@@ -1,6 +1,6 @@
 ---
 name: uptrace-intro
-description: Intro for Uptrace: introduction
+description: "Intro for Uptrace: introduction"
 category: devops
 tags: [uptrace-intro, devops, russian]
 models: [sonnet, opus]

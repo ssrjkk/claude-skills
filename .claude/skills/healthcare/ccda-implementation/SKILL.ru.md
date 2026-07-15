@@ -1,6 +1,6 @@
 ---
 name: ccda-implementation
-description: Implementation with C-CDA. integration.
+description: "Implementation with C-CDA. integration."
 category: healthcare
 tags: [ccda-implementation, healthcare, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ionic-advanced
-description: Advanced for Ionic: advanced patterns and techniques
+description: "Advanced for Ionic: advanced patterns and techniques"
 category: mobile
 tags: [ionic-advanced, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: yugabytedb-quickstart
-description: Quickstart for Yugabytedb: quick start guide
+description: "Quickstart for Yugabytedb: quick start guide"
 category: database
 tags: [yugabytedb-quickstart, database, russian]
 models: [sonnet, opus]

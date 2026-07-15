@@ -1,6 +1,6 @@
 ---
 name: plaid-security
-description: Security with Plaid. security.
+description: "Security with Plaid. security."
 category: finance
 tags: [plaid, security, finance, fintech]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: woodpecker-monitoring
-description: Monitoring with Woodpecker. monitoring.
+description: "Monitoring with Woodpecker. monitoring."
 category: devops
 tags: [woodpecker-monitoring, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gke-storage
-description: Storage with Google GKE. persistent storage.
+description: "Storage with Google GKE. persistent storage."
 category: devops
 tags: [gke-storage, devops, russian]
 models: [sonnet, opus]

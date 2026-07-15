@@ -1,6 +1,6 @@
 ---
 name: zap-compliance
-description: Compliance with ZAP. compliance.
+description: "Compliance with ZAP. compliance."
 category: security
 tags: [zap-compliance, security, russian]
 models: [sonnet, opus]

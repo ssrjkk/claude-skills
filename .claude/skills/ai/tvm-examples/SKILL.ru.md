@@ -1,6 +1,6 @@
 ---
 name: tvm-examples
-description: Examples for Tvm: practical examples
+description: "Examples for Tvm: practical examples"
 category: ai
 tags: [tvm-examples, ai, russian]
 models: [sonnet, opus]

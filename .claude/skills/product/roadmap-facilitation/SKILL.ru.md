@@ -1,6 +1,6 @@
 ---
 name: roadmap-facilitation
-description: Facilitation with Roadmapping. running.
+description: "Facilitation with Roadmapping. running."
 category: product
 tags: [roadmap-facilitation, product, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: solid-accessibility
-description: Accessibility with Solid. a11y.
+description: "Accessibility with Solid. a11y."
 category: frontend
 tags: [solid-accessibility, frontend, russian]
 models: [sonnet, opus]

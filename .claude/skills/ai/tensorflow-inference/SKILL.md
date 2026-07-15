@@ -1,6 +1,6 @@
 ---
 name: tensorflow-inference
-description: Inference with Tensorflow. running models.
+description: "Inference with Tensorflow. running models."
 category: ai
 tags: [tensorflow, inference, ai, deep-learning]
 models: [gpt-4, claude-3]

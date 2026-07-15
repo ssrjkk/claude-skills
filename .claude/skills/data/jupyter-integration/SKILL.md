@@ -1,6 +1,6 @@
 ---
 name: jupyter-integration
-description: Integration with Jupyter. data sources.
+description: "Integration with Jupyter. data sources."
 category: data
 tags: [jupyter, integration, data, data-science]
 models: [gpt-4, claude-3]

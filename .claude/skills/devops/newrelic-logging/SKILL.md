@@ -1,6 +1,6 @@
 ---
 name: newrelic-logging
-description: Logging with New Relic. log collection.
+description: "Logging with New Relic. log collection."
 category: devops
 tags: [newrelic, logging, devops, monitoring]
 models: [gpt-4, claude-3]

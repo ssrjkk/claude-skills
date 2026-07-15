@@ -1,6 +1,6 @@
 ---
 name: contract-testing-pact
-description: Implements contract testing for APIs with Pact. Use for checking compatibility between services.
+description: "Implements contract testing for APIs with Pact. Use for checking compatibility between services."
 category: qa
 tags: [contract-testing-pact, qa, russian]
 models: [sonnet, opus]

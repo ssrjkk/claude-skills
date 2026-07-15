@@ -1,6 +1,6 @@
 ---
 name: population-health-reporting
-description: Reporting with Population Health. reports.
+description: "Reporting with Population Health. reports."
 category: healthcare
 tags: [population-health, reporting, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

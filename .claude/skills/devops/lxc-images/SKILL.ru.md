@@ -1,6 +1,6 @@
 ---
 name: lxc-images
-description: Images with LXC. building images.
+description: "Images with LXC. building images."
 category: devops
 tags: [lxc-images, devops, russian]
 models: [sonnet, opus]

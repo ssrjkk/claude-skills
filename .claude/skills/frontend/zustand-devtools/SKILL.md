@@ -1,6 +1,6 @@
 ---
 name: zustand-devtools
-description: DevTools with Zustand. debugging.
+description: "DevTools with Zustand. debugging."
 category: frontend
 tags: [zustand, devtools, frontend, state-management]
 models: [gpt-4, claude-3]

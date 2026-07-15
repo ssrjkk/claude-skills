@@ -1,6 +1,6 @@
 ---
 name: docker-registry
-description: Registry with Docker. image registry.
+description: "Registry with Docker. image registry."
 category: devops
 tags: [docker, registry, devops, container]
 models: [gpt-4, claude-3]

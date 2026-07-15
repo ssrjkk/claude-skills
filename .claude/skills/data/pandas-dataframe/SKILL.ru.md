@@ -1,6 +1,6 @@
 ---
 name: pandas-dataframe
-description: DataFrame with Pandas. data manipulation.
+description: "DataFrame with Pandas. data manipulation."
 category: data
 tags: [pandas-dataframe, data, russian]
 models: [sonnet, opus]

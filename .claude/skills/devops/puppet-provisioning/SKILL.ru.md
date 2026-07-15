@@ -1,6 +1,6 @@
 ---
 name: puppet-provisioning
-description: Provisioning with Puppet. provisioning.
+description: "Provisioning with Puppet. provisioning."
 category: devops
 tags: [puppet-provisioning, devops, russian]
 models: [sonnet, opus]

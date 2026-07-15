@@ -1,6 +1,6 @@
 ---
 name: arduino-setup
-description: Setup with Arduino. board setup.
+description: "Setup with Arduino. board setup."
 category: iot
 tags: [arduino-setup, iot, russian]
 models: [sonnet, opus]

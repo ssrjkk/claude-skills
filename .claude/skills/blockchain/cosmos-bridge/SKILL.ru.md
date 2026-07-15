@@ -1,6 +1,6 @@
 ---
 name: cosmos-bridge
-description: Bridge with Cosmos. cross-chain.
+description: "Bridge with Cosmos. cross-chain."
 category: blockchain
 tags: [cosmos-bridge, blockchain, russian]
 models: [sonnet, opus]

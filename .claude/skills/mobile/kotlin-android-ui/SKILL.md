@@ -1,6 +1,6 @@
 ---
 name: kotlin-android-ui
-description: UI with Kotlin Android. UI components.
+description: "UI with Kotlin Android. UI components."
 category: mobile
 tags: [kotlin-android, ui, mobile, mobile]
 models: [gpt-4, claude-3]

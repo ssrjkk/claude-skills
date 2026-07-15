@@ -1,6 +1,6 @@
 ---
 name: stable-diffusion-configuration
-description: Configuration for Stable-Diffusion: configuration and setup
+description: "Configuration for Stable-Diffusion: configuration and setup"
 category: ai
 tags: [stable-diffusion-configuration, ai, russian]
 models: [sonnet, opus]

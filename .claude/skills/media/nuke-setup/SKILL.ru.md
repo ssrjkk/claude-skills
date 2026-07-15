@@ -1,6 +1,6 @@
 ---
 name: nuke-setup
-description: Setup with Nuke. setup.
+description: "Setup with Nuke. setup."
 category: media
 tags: [nuke-setup, media, russian]
 models: [sonnet, opus]

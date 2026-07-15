@@ -1,6 +1,6 @@
 ---
 name: kit-testing
-description: Testing with Go Kit. unit tests.
+description: "Testing with Go Kit. unit tests."
 category: backend
 tags: [kit-testing, backend, russian]
 models: [sonnet, opus]

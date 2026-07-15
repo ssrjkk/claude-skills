@@ -1,6 +1,6 @@
 ---
 name: ant-design-forms
-description: Forms with Ant Design. form styling.
+description: "Forms with Ant Design. form styling."
 category: frontend
 tags: [ant-design, forms, frontend, css]
 models: [gpt-4, claude-3]

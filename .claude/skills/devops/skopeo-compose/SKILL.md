@@ -1,6 +1,6 @@
 ---
 name: skopeo-compose
-description: Compose with Skopeo. multi-container.
+description: "Compose with Skopeo. multi-container."
 category: devops
 tags: [skopeo, compose, devops, container]
 models: [gpt-4, claude-3]

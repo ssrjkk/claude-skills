@@ -1,6 +1,6 @@
 ---
 name: github-actions-debugging
-description: Debugging for Github-Actions: debugging and troubleshooting
+description: "Debugging for Github-Actions: debugging and troubleshooting"
 category: devops
 tags: [github-actions, debugging, devops]
 models: [sonnet, opus]

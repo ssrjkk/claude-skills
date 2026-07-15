@@ -1,6 +1,6 @@
 ---
 name: packer-setup
-description: Setup with Packer. installation.
+description: "Setup with Packer. installation."
 category: devops
 tags: [packer, setup, devops, iac]
 models: [gpt-4, claude-3]

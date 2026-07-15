@@ -1,6 +1,6 @@
 ---
 name: circuitpython-actuators
-description: Actuators with CircuitPython. motors.
+description: "Actuators with CircuitPython. motors."
 category: iot
 tags: [circuitpython-actuators, iot, russian]
 models: [sonnet, opus]

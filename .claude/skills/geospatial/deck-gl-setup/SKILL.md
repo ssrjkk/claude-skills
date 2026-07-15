@@ -1,6 +1,6 @@
 ---
 name: deck-gl-setup
-description: Setup with Deck.gl. setup.
+description: "Setup with Deck.gl. setup."
 category: geospatial
 tags: [deck-gl, setup, geospatial, gis]
 models: [gpt-4, claude-3]

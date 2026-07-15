@@ -1,6 +1,6 @@
 ---
 name: powershell-backup
-description: Backup with PowerShell. backup.
+description: "Backup with PowerShell. backup."
 category: os-admin
 tags: [powershell, backup, os-admin, windows]
 models: [gpt-4, claude-3]

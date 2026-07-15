@@ -1,6 +1,6 @@
 ---
 name: elastic-path-customers
-description: Customers with Elastic Path. customer API.
+description: "Customers with Elastic Path. customer API."
 category: ecommerce
 tags: [elastic-path, customers, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

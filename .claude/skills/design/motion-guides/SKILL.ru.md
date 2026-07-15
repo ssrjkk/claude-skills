@@ -1,6 +1,6 @@
 ---
 name: motion-guides
-description: Guides for Motion: how-to guides
+description: "Guides for Motion: how-to guides"
 category: design
 tags: [motion-guides, design, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: lightgbm-pipeline
-description: Pipeline with Lightgbm. ML pipelines.
+description: "Pipeline with Lightgbm. ML pipelines."
 category: ai
 tags: [lightgbm-pipeline, ai, russian]
 models: [sonnet, opus]

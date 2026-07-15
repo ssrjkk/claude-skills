@@ -1,6 +1,6 @@
 ---
 name: turso-automation
-description: Automation for Turso: automation and scripting
+description: "Automation for Turso: automation and scripting"
 category: database
 tags: [turso-automation, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: outlines-streaming
-description: Streaming with Outlines. token streaming.
+description: "Streaming with Outlines. token streaming."
 category: ai
 tags: [outlines-streaming, ai, russian]
 models: [sonnet, opus]

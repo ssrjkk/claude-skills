@@ -1,6 +1,6 @@
 ---
 name: substance-troubleshooting
-description: Troubleshooting for Substance: troubleshooting common issues
+description: "Troubleshooting for Substance: troubleshooting common issues"
 category: gamedev
 tags: [substance, troubleshooting, gamedev]
 models: [sonnet, opus]

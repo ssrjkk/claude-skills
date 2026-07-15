@@ -1,6 +1,6 @@
 ---
 name: bdd-team
-description: Team with BDD. team adoption.
+description: "Team with BDD. team adoption."
 category: engineering
 tags: [bdd-team, engineering, russian]
 models: [sonnet, opus]

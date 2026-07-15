@@ -1,6 +1,6 @@
 ---
 name: allure-automation
-description: Automation for Allure: automation and scripting
+description: "Automation for Allure: automation and scripting"
 category: qa
 tags: [allure-automation, qa, russian]
 models: [sonnet, opus]

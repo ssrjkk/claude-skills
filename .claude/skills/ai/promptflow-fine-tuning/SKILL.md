@@ -1,6 +1,6 @@
 ---
 name: promptflow-fine-tuning
-description: Fine-Tuning with Promptflow. model customization.
+description: "Fine-Tuning with Promptflow. model customization."
 category: ai
 tags: [promptflow, fine-tuning, ai, llm]
 models: [gpt-4, claude-3]

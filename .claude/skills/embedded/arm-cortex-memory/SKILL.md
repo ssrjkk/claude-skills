@@ -1,6 +1,6 @@
 ---
 name: arm-cortex-memory
-description: Memory with ARM Cortex-M. memory layout.
+description: "Memory with ARM Cortex-M. memory layout."
 category: embedded
 tags: [arm-cortex, memory, embedded, embedded-arch]
 models: [gpt-4, claude-3]

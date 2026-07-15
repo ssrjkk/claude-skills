@@ -1,6 +1,6 @@
 ---
 name: solar-pv-monitoring
-description: Monitoring with Solar PV. monitoring.
+description: "Monitoring with Solar PV. monitoring."
 category: energy
 tags: [solar-pv-monitoring, energy, russian]
 models: [sonnet, opus]

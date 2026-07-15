@@ -1,6 +1,6 @@
 ---
 name: shopify-storefront-setup
-description: Setup with Shopify Storefront. setup.
+description: "Setup with Shopify Storefront. setup."
 category: ecommerce
 tags: [shopify-storefront-setup, ecommerce, russian]
 models: [sonnet, opus]

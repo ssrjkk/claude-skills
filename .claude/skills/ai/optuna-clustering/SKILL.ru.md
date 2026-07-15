@@ -1,6 +1,6 @@
 ---
 name: optuna-clustering
-description: Clustering with Optuna. grouping data.
+description: "Clustering with Optuna. grouping data."
 category: ai
 tags: [optuna-clustering, ai, russian]
 models: [sonnet, opus]

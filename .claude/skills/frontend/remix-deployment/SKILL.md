@@ -1,6 +1,6 @@
 ---
 name: remix-deployment
-description: Deployment with Remix. production.
+description: "Deployment with Remix. production."
 category: frontend
 tags: [remix, deployment, frontend, meta-framework]
 models: [gpt-4, claude-3]

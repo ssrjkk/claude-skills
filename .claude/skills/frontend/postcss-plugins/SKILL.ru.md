@@ -1,6 +1,6 @@
 ---
 name: postcss-plugins
-description: Plugins with PostCSS. plugins.
+description: "Plugins with PostCSS. plugins."
 category: frontend
 tags: [postcss-plugins, frontend, russian]
 models: [sonnet, opus]

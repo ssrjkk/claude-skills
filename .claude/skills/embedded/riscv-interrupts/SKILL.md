@@ -1,6 +1,6 @@
 ---
 name: riscv-interrupts
-description: Interrupts with RISC-V. interrupts.
+description: "Interrupts with RISC-V. interrupts."
 category: embedded
 tags: [riscv, interrupts, embedded, embedded-arch]
 models: [gpt-4, claude-3]

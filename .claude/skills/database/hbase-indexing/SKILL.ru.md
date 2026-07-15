@@ -1,6 +1,6 @@
 ---
 name: hbase-indexing
-description: Indexing with HBase. indexes.
+description: "Indexing with HBase. indexes."
 category: database
 tags: [hbase-indexing, database, russian]
 models: [sonnet, opus]

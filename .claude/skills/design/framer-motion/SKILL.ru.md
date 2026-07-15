@@ -1,6 +1,6 @@
 ---
 name: framer-motion
-description: Creates animations in React with Framer Motion, including layout, gesture, and scroll animations.
+description: "Creates animations in React with Framer Motion, including layout, gesture, and scroll animations."
 category: design
 tags: [framer-motion, design, russian]
 models: [sonnet, opus]

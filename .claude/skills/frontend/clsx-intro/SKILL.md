@@ -1,6 +1,6 @@
 ---
 name: clsx-intro
-description: Intro for Clsx: introduction
+description: "Intro for Clsx: introduction"
 category: frontend
 tags: [clsx, intro, frontend]
 models: [sonnet, opus]

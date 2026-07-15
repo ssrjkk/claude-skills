@@ -1,6 +1,6 @@
 ---
 name: go-rest-api
-description: REST API with Go. building REST APIs.
+description: "REST API with Go. building REST APIs."
 category: backend
 tags: [go, rest-api, backend, backend]
 models: [gpt-4, claude-3]

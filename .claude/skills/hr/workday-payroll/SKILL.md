@@ -1,6 +1,6 @@
 ---
 name: workday-payroll
-description: Payroll with Workday. payroll.
+description: "Payroll with Workday. payroll."
 category: hr
 tags: [workday, payroll, hr, hr-tech]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: mollie-webhooks
-description: Webhooks with Mollie. webhooks.
+description: "Webhooks with Mollie. webhooks."
 category: payments
 tags: [mollie, webhooks, payments, payments]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: owasp-monitoring
-description: Monitoring with OWASP. security monitoring.
+description: "Monitoring with OWASP. security monitoring."
 category: security
 tags: [owasp-monitoring, security, russian]
 models: [sonnet, opus]

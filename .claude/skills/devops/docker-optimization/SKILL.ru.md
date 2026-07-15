@@ -1,6 +1,6 @@
 ---
 name: docker-optimization
-description: Optimizes Docker images with multi-stage builds, layer caching, and size reduction. Use for CI/CD acceleration and disk savings.
+description: "Optimizes Docker images with multi-stage builds, layer caching, and size reduction. Use for CI/CD acceleration and disk savings."
 category: devops
 tags: [docker-optimization, devops, russian]
 models: [sonnet, opus]

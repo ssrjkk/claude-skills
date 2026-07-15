@@ -1,6 +1,6 @@
 ---
 name: final-cut-effects
-description: Effects with Final Cut Pro. VFX.
+description: "Effects with Final Cut Pro. VFX."
 category: media
 tags: [final-cut, effects, media, media-production]
 models: [gpt-4, claude-3]

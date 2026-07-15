@@ -1,6 +1,6 @@
 ---
 name: dhcp-troubleshooting
-description: Troubleshooting with DHCP. diagnostics.
+description: "Troubleshooting with DHCP. diagnostics."
 category: networking
 tags: [dhcp-troubleshooting, networking, russian]
 models: [sonnet, opus]

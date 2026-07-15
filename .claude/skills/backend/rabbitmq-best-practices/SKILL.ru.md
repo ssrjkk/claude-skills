@@ -1,6 +1,6 @@
 ---
 name: rabbitmq-best-practices
-description: Best Practices for Rabbitmq: best practices and patterns
+description: "Best Practices for Rabbitmq: best practices and patterns"
 category: backend
 tags: [rabbitmq-best-practices, backend, russian]
 models: [sonnet, opus]

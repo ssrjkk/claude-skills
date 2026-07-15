@@ -1,6 +1,6 @@
 ---
 name: rancher-monitoring
-description: Monitoring with Rancher. monitoring.
+description: "Monitoring with Rancher. monitoring."
 category: devops
 tags: [rancher-monitoring, devops, russian]
 models: [sonnet, opus]

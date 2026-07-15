@@ -1,6 +1,6 @@
 ---
 name: sinon-fundamentals
-description: Fundamentals for Sinon: core concepts
+description: "Fundamentals for Sinon: core concepts"
 category: qa
 tags: [sinon-fundamentals, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gitleaks-workflow
-description: Workflow for Gitleaks: workflow optimization
+description: "Workflow for Gitleaks: workflow optimization"
 category: security
 tags: [gitleaks-workflow, security, russian]
 models: [sonnet, opus]

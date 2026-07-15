@@ -1,6 +1,6 @@
 ---
 name: wwise-automation
-description: Automation for Wwise: automation and scripting
+description: "Automation for Wwise: automation and scripting"
 category: gamedev
 tags: [wwise-automation, gamedev, russian]
 models: [sonnet, opus]

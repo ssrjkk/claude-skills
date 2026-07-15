@@ -1,6 +1,6 @@
 ---
 name: aesprite-best-practices
-description: Best Practices for Aesprite: best practices and patterns
+description: "Best Practices for Aesprite: best practices and patterns"
 category: gamedev
 tags: [aesprite, best-practices, gamedev]
 models: [sonnet, opus]

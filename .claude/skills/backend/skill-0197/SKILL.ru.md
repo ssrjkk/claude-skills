@@ -1,6 +1,6 @@
 ---
 name: skill-0197
-description: Specialized skill #0197 for backend development
+description: "Specialized skill #0197 for backend development"
 category: backend
 tags: [skill-0197, backend, russian]
 models: [sonnet, opus]

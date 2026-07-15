@@ -1,6 +1,6 @@
 ---
 name: security-skill-0022
-description: security specialized skill #0022 for security development
+description: "security specialized skill #0022 for security development"
 category: security
 tags: [security, skill, 0022]
 models: [sonnet, opus]

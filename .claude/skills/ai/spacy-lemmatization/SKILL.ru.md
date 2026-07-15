@@ -1,6 +1,6 @@
 ---
 name: spacy-lemmatization
-description: Lemmatization with Spacy. word lemmatization.
+description: "Lemmatization with Spacy. word lemmatization."
 category: ai
 tags: [spacy-lemmatization, ai, russian]
 models: [sonnet, opus]

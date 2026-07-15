@@ -1,6 +1,6 @@
 ---
 name: play-config
-description: Config with Play. configuration.
+description: "Config with Play. configuration."
 category: backend
 tags: [play-config, backend, russian]
 models: [sonnet, opus]

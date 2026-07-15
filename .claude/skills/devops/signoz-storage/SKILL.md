@@ -1,6 +1,6 @@
 ---
 name: signoz-storage
-description: Storage with SigNoz. data retention.
+description: "Storage with SigNoz. data retention."
 category: devops
 tags: [signoz, storage, devops, monitoring]
 models: [gpt-4, claude-3]

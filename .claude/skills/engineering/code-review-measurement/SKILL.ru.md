@@ -1,6 +1,6 @@
 ---
 name: code-review-measurement
-description: Measurement with Code Review. metrics.
+description: "Measurement with Code Review. metrics."
 category: engineering
 tags: [code-review-measurement, engineering, russian]
 models: [sonnet, opus]

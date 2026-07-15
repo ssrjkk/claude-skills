@@ -1,6 +1,6 @@
 ---
 name: flutter-navigation
-description: Navigation with Flutter. navigation.
+description: "Navigation with Flutter. navigation."
 category: mobile
 tags: [flutter-navigation, mobile, russian]
 models: [sonnet, opus]

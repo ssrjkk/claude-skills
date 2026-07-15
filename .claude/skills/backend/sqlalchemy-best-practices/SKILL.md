@@ -1,6 +1,6 @@
 ---
 name: sqlalchemy-best-practices
-description: Best Practices for Sqlalchemy: best practices and patterns
+description: "Best Practices for Sqlalchemy: best practices and patterns"
 category: backend
 tags: [sqlalchemy, best-practices, backend]
 models: [sonnet, opus]

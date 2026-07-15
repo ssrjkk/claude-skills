@@ -1,6 +1,6 @@
 ---
 name: product-analytics
-description: Implements product analytics with Mixpanel, Amplitude, or PostHog for user behavior tracking.
+description: "Implements product analytics with Mixpanel, Amplitude, or PostHog for user behavior tracking."
 category: product
 tags: [analytics, mixpanel, amplitude, product, metrics]
 models: [sonnet, opus]

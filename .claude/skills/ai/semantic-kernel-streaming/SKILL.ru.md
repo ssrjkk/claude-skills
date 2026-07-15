@@ -1,6 +1,6 @@
 ---
 name: semantic-kernel-streaming
-description: Streaming with Semantic Kernel. token streaming.
+description: "Streaming with Semantic Kernel. token streaming."
 category: ai
 tags: [semantic-kernel-streaming, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: compositing-color
-description: Color with Compositing. color grading.
+description: "Color with Compositing. color grading."
 category: media
 tags: [compositing, color, media, media-production]
 models: [gpt-4, claude-3]

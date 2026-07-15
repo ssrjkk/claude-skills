@@ -1,6 +1,6 @@
 ---
 name: kind-autoscaling
-description: Autoscaling with Kind. HPA.
+description: "Autoscaling with Kind. HPA."
 category: devops
 tags: [kind-autoscaling, devops, russian]
 models: [sonnet, opus]

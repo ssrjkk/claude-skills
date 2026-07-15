@@ -1,6 +1,6 @@
 ---
 name: wpf-threading
-description: Threading with WPF. multithreading.
+description: "Threading with WPF. multithreading."
 category: desktop
 tags: [wpf-threading, desktop, russian]
 models: [sonnet, opus]

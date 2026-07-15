@@ -1,6 +1,6 @@
 ---
 name: qgis-analysis
-description: Analysis with QGIS. spatial analysis.
+description: "Analysis with QGIS. spatial analysis."
 category: geospatial
 tags: [qgis, analysis, geospatial, gis]
 models: [gpt-4, claude-3]

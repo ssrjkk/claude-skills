@@ -1,6 +1,6 @@
 ---
 name: caffe2-quantization
-description: Quantization with Caffe2. model quantization.
+description: "Quantization with Caffe2. model quantization."
 category: ai
 tags: [caffe2-quantization, ai, russian]
 models: [sonnet, opus]

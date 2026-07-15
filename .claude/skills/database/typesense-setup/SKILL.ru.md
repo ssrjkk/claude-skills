@@ -1,6 +1,6 @@
 ---
 name: typesense-setup
-description: Setup with Typesense. installation.
+description: "Setup with Typesense. installation."
 category: database
 tags: [typesense-setup, database, russian]
 models: [sonnet, opus]

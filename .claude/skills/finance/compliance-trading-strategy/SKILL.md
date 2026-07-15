@@ -1,6 +1,6 @@
 ---
 name: compliance-trading-strategy
-description: Strategy with Trading Compliance. strategy dev.
+description: "Strategy with Trading Compliance. strategy dev."
 category: finance
 tags: [compliance-trading, strategy, finance, trading]
 models: [gpt-4, claude-3]

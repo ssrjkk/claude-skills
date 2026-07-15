@@ -1,6 +1,6 @@
 ---
 name: vagrant-setup
-description: Setup with Vagrant. installation.
+description: "Setup with Vagrant. installation."
 category: devops
 tags: [vagrant, setup, devops, iac]
 models: [gpt-4, claude-3]

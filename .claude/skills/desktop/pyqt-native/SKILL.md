@@ -1,6 +1,6 @@
 ---
 name: pyqt-native
-description: Native with PyQt. native APIs.
+description: "Native with PyQt. native APIs."
 category: desktop
 tags: [pyqt, native, desktop, desktop]
 models: [gpt-4, claude-3]

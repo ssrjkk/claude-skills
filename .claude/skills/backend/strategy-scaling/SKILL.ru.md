@@ -1,6 +1,6 @@
 ---
 name: strategy-scaling
-description: Scaling with Strategy. scaling considerations.
+description: "Scaling with Strategy. scaling considerations."
 category: backend
 tags: [strategy-scaling, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: falco-debugging
-description: Debugging for Falco: debugging and troubleshooting
+description: "Debugging for Falco: debugging and troubleshooting"
 category: security
 tags: [falco, debugging, security]
 models: [sonnet, opus]

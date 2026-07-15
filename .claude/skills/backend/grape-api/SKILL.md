@@ -1,6 +1,6 @@
 ---
 name: grape-api
-description: API with Grape. API building.
+description: "API with Grape. API building."
 category: backend
 tags: [grape, api, backend, backend]
 models: [gpt-4, claude-3]

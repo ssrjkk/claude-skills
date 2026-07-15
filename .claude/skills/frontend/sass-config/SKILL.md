@@ -1,6 +1,6 @@
 ---
 name: sass-config
-description: Config with Sass. configuration.
+description: "Config with Sass. configuration."
 category: frontend
 tags: [sass, config, frontend, build-tool]
 models: [gpt-4, claude-3]

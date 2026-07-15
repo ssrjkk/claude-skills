@@ -1,6 +1,6 @@
 ---
 name: paddle-billing-analytics
-description: Analytics with Paddle Billing. revenue analytics.
+description: "Analytics with Paddle Billing. revenue analytics."
 category: payments
 tags: [paddle-billing, analytics, payments, billing]
 models: [gpt-4, claude-3]

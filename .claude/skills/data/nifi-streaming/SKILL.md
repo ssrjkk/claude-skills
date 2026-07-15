@@ -1,6 +1,6 @@
 ---
 name: nifi-streaming
-description: Streaming with NiFi. real-time.
+description: "Streaming with NiFi. real-time."
 category: data
 tags: [nifi, streaming, data, data-engineering]
 models: [gpt-4, claude-3]

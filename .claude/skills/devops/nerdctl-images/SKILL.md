@@ -1,6 +1,6 @@
 ---
 name: nerdctl-images
-description: Images with nerdctl. building images.
+description: "Images with nerdctl. building images."
 category: devops
 tags: [nerdctl, images, devops, container]
 models: [gpt-4, claude-3]

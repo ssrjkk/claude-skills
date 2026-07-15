@@ -1,6 +1,6 @@
 ---
 name: ab-scenarios
-description: Scenarios with Apache Bench. test scenarios.
+description: "Scenarios with Apache Bench. test scenarios."
 category: qa
 tags: [ab-scenarios, qa, russian]
 models: [sonnet, opus]

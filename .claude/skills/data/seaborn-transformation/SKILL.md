@@ -1,6 +1,6 @@
 ---
 name: seaborn-transformation
-description: Transformation with Seaborn. transform.
+description: "Transformation with Seaborn. transform."
 category: data
 tags: [seaborn, transformation, data, data-science]
 models: [gpt-4, claude-3]

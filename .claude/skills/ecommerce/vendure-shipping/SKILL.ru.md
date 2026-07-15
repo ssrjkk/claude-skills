@@ -1,6 +1,6 @@
 ---
 name: vendure-shipping
-description: Shipping with Vendure. shipping.
+description: "Shipping with Vendure. shipping."
 category: ecommerce
 tags: [vendure-shipping, ecommerce, russian]
 models: [sonnet, opus]

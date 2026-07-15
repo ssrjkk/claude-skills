@@ -1,6 +1,6 @@
 ---
 name: hotwire-intro
-description: Intro for Hotwire: introduction
+description: "Intro for Hotwire: introduction"
 category: frontend
 tags: [hotwire, intro, frontend]
 models: [sonnet, opus]

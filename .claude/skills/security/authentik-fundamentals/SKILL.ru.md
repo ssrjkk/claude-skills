@@ -1,6 +1,6 @@
 ---
 name: authentik-fundamentals
-description: Fundamentals for Authentik: core concepts
+description: "Fundamentals for Authentik: core concepts"
 category: security
 tags: [authentik-fundamentals, security, russian]
 models: [sonnet, opus]

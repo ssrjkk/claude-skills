@@ -1,6 +1,6 @@
 ---
 name: phalcon-database
-description: Database with Phalcon. Eloquent.
+description: "Database with Phalcon. Eloquent."
 category: backend
 tags: [phalcon-database, backend, russian]
 models: [sonnet, opus]

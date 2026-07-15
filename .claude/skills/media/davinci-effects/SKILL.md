@@ -1,6 +1,6 @@
 ---
 name: davinci-effects
-description: Effects with DaVinci Resolve. VFX.
+description: "Effects with DaVinci Resolve. VFX."
 category: media
 tags: [davinci, effects, media, media-production]
 models: [gpt-4, claude-3]

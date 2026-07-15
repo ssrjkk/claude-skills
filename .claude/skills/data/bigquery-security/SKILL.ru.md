@@ -1,6 +1,6 @@
 ---
 name: bigquery-security
-description: Security for Bigquery: security best practices
+description: "Security for Bigquery: security best practices"
 category: data
 tags: [bigquery-security, data, russian]
 models: [sonnet, opus]

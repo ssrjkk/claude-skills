@@ -1,6 +1,6 @@
 ---
 name: bgp-basics
-description: Basics with BGP. fundamentals.
+description: "Basics with BGP. fundamentals."
 category: networking
 tags: [bgp, basics, networking, networking]
 models: [gpt-4, claude-3]

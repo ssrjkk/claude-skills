@@ -1,6 +1,6 @@
 ---
 name: mollie-refunds
-description: Refunds with Mollie. refunds.
+description: "Refunds with Mollie. refunds."
 category: payments
 tags: [mollie, refunds, payments, payments]
 models: [gpt-4, claude-3]

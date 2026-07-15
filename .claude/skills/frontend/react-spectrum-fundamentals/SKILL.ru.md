@@ -1,6 +1,6 @@
 ---
 name: react-spectrum-fundamentals
-description: Fundamentals for React-Spectrum: core concepts
+description: "Fundamentals for React-Spectrum: core concepts"
 category: frontend
 tags: [react-spectrum-fundamentals, frontend, russian]
 models: [sonnet, opus]

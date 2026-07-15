@@ -1,6 +1,6 @@
 ---
 name: pillow-optical-flow
-description: Optical Flow with Pillow. motion detection.
+description: "Optical Flow with Pillow. motion detection."
 category: ai
 tags: [pillow-optical-flow, ai, russian]
 models: [sonnet, opus]

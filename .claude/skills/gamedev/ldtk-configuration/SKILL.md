@@ -1,6 +1,6 @@
 ---
 name: ldtk-configuration
-description: Configuration for Ldtk: configuration and setup
+description: "Configuration for Ldtk: configuration and setup"
 category: gamedev
 tags: [ldtk, configuration, gamedev]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: stylus-config
-description: Config with Stylus. configuration.
+description: "Config with Stylus. configuration."
 category: frontend
 tags: [stylus, config, frontend, build-tool]
 models: [gpt-4, claude-3]

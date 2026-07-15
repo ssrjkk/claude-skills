@@ -1,6 +1,6 @@
 ---
 name: water-components
-description: Components with Water.css. UI components.
+description: "Components with Water.css. UI components."
 category: frontend
 tags: [water-components, frontend, russian]
 models: [sonnet, opus]

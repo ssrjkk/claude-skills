@@ -1,6 +1,6 @@
 ---
 name: kotlin-debugging
-description: Debugging for Kotlin: debugging and troubleshooting
+description: "Debugging for Kotlin: debugging and troubleshooting"
 category: mobile
 tags: [kotlin-debugging, mobile, russian]
 models: [sonnet, opus]

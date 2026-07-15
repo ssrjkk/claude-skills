@@ -1,6 +1,6 @@
 ---
 name: mxnet-data-loading
-description: Data Loading with Mxnet. data pipelines.
+description: "Data Loading with Mxnet. data pipelines."
 category: ai
 tags: [mxnet-data-loading, ai, russian]
 models: [sonnet, opus]

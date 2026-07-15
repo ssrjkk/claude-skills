@@ -1,6 +1,6 @@
 ---
 name: laravel-database
-description: Database with Laravel. Eloquent.
+description: "Database with Laravel. Eloquent."
 category: backend
 tags: [laravel-database, backend, russian]
 models: [sonnet, opus]

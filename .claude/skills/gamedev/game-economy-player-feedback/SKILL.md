@@ -1,6 +1,6 @@
 ---
 name: game-economy-player-feedback
-description: Feedback with Game Economy. player feedback.
+description: "Feedback with Game Economy. player feedback."
 category: gamedev
 tags: [game-economy, player-feedback, gamedev, game-design]
 models: [gpt-4, claude-3]

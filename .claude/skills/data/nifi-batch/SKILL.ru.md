@@ -1,6 +1,6 @@
 ---
 name: nifi-batch
-description: Batch with NiFi. batch processing.
+description: "Batch with NiFi. batch processing."
 category: data
 tags: [nifi-batch, data, russian]
 models: [sonnet, opus]

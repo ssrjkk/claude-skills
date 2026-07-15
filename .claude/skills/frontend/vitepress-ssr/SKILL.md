@@ -1,6 +1,6 @@
 ---
 name: vitepress-ssr
-description: SSR with VitePress. server rendering.
+description: "SSR with VitePress. server rendering."
 category: frontend
 tags: [vitepress, ssr, frontend, meta-framework]
 models: [gpt-4, claude-3]

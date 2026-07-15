@@ -1,6 +1,6 @@
 ---
 name: mqtt-basics
-description: Basics with MQTT. fundamentals.
+description: "Basics with MQTT. fundamentals."
 category: communications
 tags: [mqtt-basics, communications, russian]
 models: [sonnet, opus]

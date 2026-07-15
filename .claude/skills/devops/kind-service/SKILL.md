@@ -1,6 +1,6 @@
 ---
 name: kind-service
-description: Service with Kind. services.
+description: "Service with Kind. services."
 category: devops
 tags: [kind, service, devops, kubernetes]
 models: [gpt-4, claude-3]

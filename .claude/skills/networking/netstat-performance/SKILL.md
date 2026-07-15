@@ -1,6 +1,6 @@
 ---
 name: netstat-performance
-description: Performance with netstat/ss. benchmarking.
+description: "Performance with netstat/ss. benchmarking."
 category: networking
 tags: [netstat, performance, networking, networking-tool]
 models: [gpt-4, claude-3]

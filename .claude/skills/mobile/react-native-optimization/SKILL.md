@@ -1,6 +1,6 @@
 ---
 name: react-native-optimization
-description: Optimization for React-Native: performance tuning and optimization
+description: "Optimization for React-Native: performance tuning and optimization"
 category: mobile
 tags: [react-native, optimization, mobile]
 models: [sonnet, opus]

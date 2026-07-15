@@ -1,6 +1,6 @@
 ---
 name: material-ui-components
-description: Components with MUI. UI components.
+description: "Components with MUI. UI components."
 category: frontend
 tags: [material-ui-components, frontend, russian]
 models: [sonnet, opus]

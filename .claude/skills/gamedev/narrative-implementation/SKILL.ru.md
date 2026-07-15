@@ -1,6 +1,6 @@
 ---
 name: narrative-implementation
-description: Implementation with Narrative Design. implementation.
+description: "Implementation with Narrative Design. implementation."
 category: gamedev
 tags: [narrative-implementation, gamedev, russian]
 models: [sonnet, opus]

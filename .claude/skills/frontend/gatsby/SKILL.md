@@ -1,6 +1,6 @@
 ---
 name: gatsby
-description: Builds blazing-fast static sites and progressive web apps with Gatsby, React, and GraphQL. Use for content-driven sites and documentation.
+description: "Builds blazing-fast static sites and progressive web apps with Gatsby, React, and GraphQL. Use for content-driven sites and documentation."
 category: frontend
 tags: [gatsby, react, graphql, static-site, pwa]
 models: [sonnet, opus]

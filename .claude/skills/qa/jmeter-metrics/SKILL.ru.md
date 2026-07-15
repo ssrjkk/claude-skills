@@ -1,6 +1,6 @@
 ---
 name: jmeter-metrics
-description: Metrics with JMeter. performance metrics.
+description: "Metrics with JMeter. performance metrics."
 category: qa
 tags: [jmeter-metrics, qa, russian]
 models: [sonnet, opus]

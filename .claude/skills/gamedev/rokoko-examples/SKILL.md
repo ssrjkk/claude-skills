@@ -1,6 +1,6 @@
 ---
 name: rokoko-examples
-description: Examples for Rokoko: practical examples
+description: "Examples for Rokoko: practical examples"
 category: gamedev
 tags: [rokoko, examples, gamedev]
 models: [sonnet, opus]

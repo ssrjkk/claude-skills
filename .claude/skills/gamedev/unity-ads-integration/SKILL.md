@@ -1,6 +1,6 @@
 ---
 name: unity-ads-integration
-description: Integration for Unity-Ads: integration with other tools
+description: "Integration for Unity-Ads: integration with other tools"
 category: gamedev
 tags: [unity-ads, integration, gamedev]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kotlin-advanced
-description: Advanced for Kotlin: advanced patterns and techniques
+description: "Advanced for Kotlin: advanced patterns and techniques"
 category: mobile
 tags: [kotlin, advanced, mobile]
 models: [sonnet, opus]

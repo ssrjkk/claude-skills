@@ -1,6 +1,6 @@
 ---
 name: optimism-smart-contracts
-description: Smart Contracts with Optimism. contracts.
+description: "Smart Contracts with Optimism. contracts."
 category: blockchain
 tags: [optimism, smart-contracts, blockchain, blockchain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: uml-basics
-description: Basics with UML. fundamentals.
+description: "Basics with UML. fundamentals."
 category: engineering
 tags: [uml-basics, engineering, russian]
 models: [sonnet, opus]

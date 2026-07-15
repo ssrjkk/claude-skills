@@ -1,6 +1,6 @@
 ---
 name: k3s-helm
-description: Helm with K3s. package management.
+description: "Helm with K3s. package management."
 category: devops
 tags: [k3s-helm, devops, russian]
 models: [sonnet, opus]

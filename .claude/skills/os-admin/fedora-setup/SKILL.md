@@ -1,6 +1,6 @@
 ---
 name: fedora-setup
-description: Setup with Fedora. installation.
+description: "Setup with Fedora. installation."
 category: os-admin
 tags: [fedora, setup, os-admin, linux]
 models: [gpt-4, claude-3]

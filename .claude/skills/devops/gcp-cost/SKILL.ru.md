@@ -1,6 +1,6 @@
 ---
 name: gcp-cost
-description: Cost with GCP. cost optimization.
+description: "Cost with GCP. cost optimization."
 category: devops
 tags: [gcp-cost, devops, russian]
 models: [sonnet, opus]

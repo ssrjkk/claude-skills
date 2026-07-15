@@ -1,6 +1,6 @@
 ---
 name: tailwind-css
-description: Creates responsive UIs with Tailwind CSS utility classes and custom design tokens. Use for rapid, consistent styling.
+description: "Creates responsive UIs with Tailwind CSS utility classes and custom design tokens. Use for rapid, consistent styling."
 category: frontend
 tags: [tailwind-css, frontend, russian]
 models: [sonnet, opus]

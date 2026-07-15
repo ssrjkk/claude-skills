@@ -1,6 +1,6 @@
 ---
 name: hipaa-best-practices
-description: Best Practices with HIPAA. best practices.
+description: "Best Practices with HIPAA. best practices."
 category: security
 tags: [hipaa, best-practices, security, security]
 models: [gpt-4, claude-3]

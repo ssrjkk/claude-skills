@@ -1,6 +1,6 @@
 ---
 name: openid-testing
-description: Testing with OpenID Connect. security testing.
+description: "Testing with OpenID Connect. security testing."
 category: security
 tags: [openid-testing, security, russian]
 models: [sonnet, opus]

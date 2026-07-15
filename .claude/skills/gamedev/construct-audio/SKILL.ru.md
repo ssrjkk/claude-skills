@@ -1,6 +1,6 @@
 ---
 name: construct-audio
-description: Audio with Construct. audio.
+description: "Audio with Construct. audio."
 category: gamedev
 tags: [construct-audio, gamedev, russian]
 models: [sonnet, opus]

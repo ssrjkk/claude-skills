@@ -1,6 +1,6 @@
 ---
 name: imaging-compliance
-description: Compliance with PACS. compliance.
+description: "Compliance with PACS. compliance."
 category: healthcare
 tags: [imaging, compliance, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

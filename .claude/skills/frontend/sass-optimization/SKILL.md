@@ -1,6 +1,6 @@
 ---
 name: sass-optimization
-description: Optimization with Sass. build optimization.
+description: "Optimization with Sass. build optimization."
 category: frontend
 tags: [sass, optimization, frontend, build-tool]
 models: [gpt-4, claude-3]

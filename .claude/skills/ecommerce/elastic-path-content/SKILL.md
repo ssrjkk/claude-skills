@@ -1,6 +1,6 @@
 ---
 name: elastic-path-content
-description: Content with Elastic Path. content management.
+description: "Content with Elastic Path. content management."
 category: ecommerce
 tags: [elastic-path, content, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

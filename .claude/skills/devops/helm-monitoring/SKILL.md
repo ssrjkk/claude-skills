@@ -1,6 +1,6 @@
 ---
 name: helm-monitoring
-description: Monitoring for Helm: monitoring and observability
+description: "Monitoring for Helm: monitoring and observability"
 category: devops
 tags: [helm, monitoring, devops]
 models: [sonnet, opus]

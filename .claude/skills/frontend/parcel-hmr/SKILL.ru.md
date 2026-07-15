@@ -1,6 +1,6 @@
 ---
 name: parcel-hmr
-description: HMR with Parcel. hot reload.
+description: "HMR with Parcel. hot reload."
 category: frontend
 tags: [parcel-hmr, frontend, russian]
 models: [sonnet, opus]

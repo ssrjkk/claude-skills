@@ -1,6 +1,6 @@
 ---
 name: iceberg-usage
-description: Usage for Iceberg: usage reference
+description: "Usage for Iceberg: usage reference"
 category: data
 tags: [iceberg-usage, data, russian]
 models: [sonnet, opus]

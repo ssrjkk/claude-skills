@@ -1,6 +1,6 @@
 ---
 name: tkinter-window
-description: Window with Tkinter. windows.
+description: "Window with Tkinter. windows."
 category: desktop
 tags: [tkinter, window, desktop, desktop]
 models: [gpt-4, claude-3]

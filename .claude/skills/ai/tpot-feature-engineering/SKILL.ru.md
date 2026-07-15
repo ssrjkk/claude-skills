@@ -1,6 +1,6 @@
 ---
 name: tpot-feature-engineering
-description: Feature Engineering with Tpot. creating features.
+description: "Feature Engineering with Tpot. creating features."
 category: ai
 tags: [tpot-feature-engineering, ai, russian]
 models: [sonnet, opus]

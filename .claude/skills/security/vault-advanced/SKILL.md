@@ -1,6 +1,6 @@
 ---
 name: vault-advanced
-description: Advanced for Vault: advanced patterns and techniques
+description: "Advanced for Vault: advanced patterns and techniques"
 category: security
 tags: [vault, advanced, security]
 models: [sonnet, opus]

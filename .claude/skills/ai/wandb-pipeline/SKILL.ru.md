@@ -1,6 +1,6 @@
 ---
 name: wandb-pipeline
-description: Pipeline with Wandb. ML pipelines.
+description: "Pipeline with Wandb. ML pipelines."
 category: ai
 tags: [wandb-pipeline, ai, russian]
 models: [sonnet, opus]

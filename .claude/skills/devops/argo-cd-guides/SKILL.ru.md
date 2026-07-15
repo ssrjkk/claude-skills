@@ -1,6 +1,6 @@
 ---
 name: argo-cd-guides
-description: Guides for Argo-Cd: how-to guides
+description: "Guides for Argo-Cd: how-to guides"
 category: devops
 tags: [argo-cd-guides, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: prisma-best-practices
-description: Best Practices for Prisma: best practices and patterns
+description: "Best Practices for Prisma: best practices and patterns"
 category: backend
 tags: [prisma-best-practices, backend, russian]
 models: [sonnet, opus]

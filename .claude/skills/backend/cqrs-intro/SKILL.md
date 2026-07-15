@@ -1,6 +1,6 @@
 ---
 name: cqrs-intro
-description: Introduction with CQRS. understanding the pattern.
+description: "Introduction with CQRS. understanding the pattern."
 category: backend
 tags: [cqrs, intro, backend, architecture]
 models: [gpt-4, claude-3]

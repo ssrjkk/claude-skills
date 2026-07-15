@@ -1,6 +1,6 @@
 ---
 name: ddd-tools
-description: Tools with Domain-Driven Design. tooling.
+description: "Tools with Domain-Driven Design. tooling."
 category: engineering
 tags: [ddd-tools, engineering, russian]
 models: [sonnet, opus]

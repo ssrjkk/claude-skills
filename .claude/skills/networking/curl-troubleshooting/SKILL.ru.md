@@ -1,6 +1,6 @@
 ---
 name: curl-troubleshooting
-description: Troubleshooting with curl. debugging.
+description: "Troubleshooting with curl. debugging."
 category: networking
 tags: [curl-troubleshooting, networking, russian]
 models: [sonnet, opus]

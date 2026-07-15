@@ -1,6 +1,6 @@
 ---
 name: taipy-performance
-description: Performance with Taipy. performance.
+description: "Performance with Taipy. performance."
 category: data
 tags: [taipy, performance, data, data-apps]
 models: [gpt-4, claude-3]

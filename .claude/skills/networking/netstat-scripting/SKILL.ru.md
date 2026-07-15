@@ -1,6 +1,6 @@
 ---
 name: netstat-scripting
-description: Scripting with netstat/ss. automation.
+description: "Scripting with netstat/ss. automation."
 category: networking
 tags: [netstat-scripting, networking, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: django-monitoring
-description: Monitoring for Django: monitoring and observability
+description: "Monitoring for Django: monitoring and observability"
 category: backend
 tags: [django, monitoring, backend]
 models: [sonnet, opus]

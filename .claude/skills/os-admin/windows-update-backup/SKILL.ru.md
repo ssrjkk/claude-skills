@@ -1,6 +1,6 @@
 ---
 name: windows-update-backup
-description: Backup with Windows Update. backup.
+description: "Backup with Windows Update. backup."
 category: os-admin
 tags: [windows-update-backup, os-admin, russian]
 models: [sonnet, opus]

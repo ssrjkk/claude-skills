@@ -1,6 +1,6 @@
 ---
 name: ossec-workflow
-description: Workflow for Ossec: workflow optimization
+description: "Workflow for Ossec: workflow optimization"
 category: security
 tags: [ossec-workflow, security, russian]
 models: [sonnet, opus]

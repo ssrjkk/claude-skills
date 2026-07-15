@@ -1,6 +1,6 @@
 ---
 name: dart-api
-description: API for Dart: API development and integration
+description: "API for Dart: API development and integration"
 category: mobile
 tags: [dart-api, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: unity-api
-description: API for Unity: API development and integration
+description: "API for Unity: API development and integration"
 category: gamedev
 tags: [unity, api, gamedev]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: pubnub-voice
-description: Voice with PubNub. voice calls.
+description: "Voice with PubNub. voice calls."
 category: communications
 tags: [pubnub, voice, communications, communication-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: ray-tune-regression
-description: Regression with Ray Tune. predicting values.
+description: "Regression with Ray Tune. predicting values."
 category: ai
 tags: [ray-tune, regression, ai, ml]
 models: [gpt-4, claude-3]

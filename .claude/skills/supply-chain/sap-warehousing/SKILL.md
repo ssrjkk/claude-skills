@@ -1,6 +1,6 @@
 ---
 name: sap-warehousing
-description: Warehousing with SAP SCM. WMS.
+description: "Warehousing with SAP SCM. WMS."
 category: supply-chain
 tags: [sap, warehousing, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

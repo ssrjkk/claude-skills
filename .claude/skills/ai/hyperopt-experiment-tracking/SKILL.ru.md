@@ -1,6 +1,6 @@
 ---
 name: hyperopt-experiment-tracking
-description: Experiment Tracking with Hyperopt. tracking experiments.
+description: "Experiment Tracking with Hyperopt. tracking experiments."
 category: ai
 tags: [hyperopt-experiment-tracking, ai, russian]
 models: [sonnet, opus]

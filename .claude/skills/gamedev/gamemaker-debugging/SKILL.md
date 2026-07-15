@@ -1,6 +1,6 @@
 ---
 name: gamemaker-debugging
-description: Debugging for Gamemaker: debugging and troubleshooting
+description: "Debugging for Gamemaker: debugging and troubleshooting"
 category: gamedev
 tags: [gamemaker, debugging, gamedev]
 models: [sonnet, opus]

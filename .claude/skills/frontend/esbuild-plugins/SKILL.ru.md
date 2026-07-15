@@ -1,6 +1,6 @@
 ---
 name: esbuild-plugins
-description: Plugins with esbuild. plugins.
+description: "Plugins with esbuild. plugins."
 category: frontend
 tags: [esbuild-plugins, frontend, russian]
 models: [sonnet, opus]

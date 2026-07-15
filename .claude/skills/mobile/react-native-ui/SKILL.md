@@ -1,6 +1,6 @@
 ---
 name: react-native-ui
-description: UI with React Native. UI components.
+description: "UI with React Native. UI components."
 category: mobile
 tags: [react-native, ui, mobile, mobile]
 models: [gpt-4, claude-3]

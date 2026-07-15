@@ -1,6 +1,6 @@
 ---
 name: aks-secrets
-description: Secrets with Azure AKS. secret management.
+description: "Secrets with Azure AKS. secret management."
 category: devops
 tags: [aks-secrets, devops, russian]
 models: [sonnet, opus]

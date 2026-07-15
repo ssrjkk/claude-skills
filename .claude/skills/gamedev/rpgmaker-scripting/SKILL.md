@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-scripting
-description: Scripting with RPG Maker. game logic.
+description: "Scripting with RPG Maker. game logic."
 category: gamedev
 tags: [rpgmaker, scripting, gamedev, game-engine]
 models: [gpt-4, claude-3]

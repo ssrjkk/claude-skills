@@ -1,6 +1,6 @@
 ---
 name: teensy-setup
-description: Setup with Teensy. board setup.
+description: "Setup with Teensy. board setup."
 category: iot
 tags: [teensy, setup, iot, iot]
 models: [gpt-4, claude-3]

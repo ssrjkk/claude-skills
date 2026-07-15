@@ -1,6 +1,6 @@
 ---
 name: typeorm-production
-description: Production for Typeorm: production deployment
+description: "Production for Typeorm: production deployment"
 category: backend
 tags: [typeorm, production, backend]
 models: [sonnet, opus]

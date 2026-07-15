@@ -1,6 +1,6 @@
 ---
 name: istio-troubleshooting
-description: Troubleshooting for Istio: troubleshooting common issues
+description: "Troubleshooting for Istio: troubleshooting common issues"
 category: devops
 tags: [istio, troubleshooting, devops]
 models: [sonnet, opus]

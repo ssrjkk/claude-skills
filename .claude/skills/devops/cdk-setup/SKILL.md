@@ -1,6 +1,6 @@
 ---
 name: cdk-setup
-description: Setup with AWS CDK. installation.
+description: "Setup with AWS CDK. installation."
 category: devops
 tags: [cdk, setup, devops, iac]
 models: [gpt-4, claude-3]

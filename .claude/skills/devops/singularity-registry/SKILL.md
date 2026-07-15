@@ -1,6 +1,6 @@
 ---
 name: singularity-registry
-description: Registry with Singularity. image registry.
+description: "Registry with Singularity. image registry."
 category: devops
 tags: [singularity, registry, devops, container]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: dagger-security
-description: Security with Dagger. security scanning.
+description: "Security with Dagger. security scanning."
 category: devops
 tags: [dagger, security, devops, ci-cd]
 models: [gpt-4, claude-3]

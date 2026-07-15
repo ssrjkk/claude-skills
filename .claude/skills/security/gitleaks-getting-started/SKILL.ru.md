@@ -1,6 +1,6 @@
 ---
 name: gitleaks-getting-started
-description: Getting Started for Gitleaks: initial setup and first steps
+description: "Getting Started for Gitleaks: initial setup and first steps"
 category: security
 tags: [gitleaks-getting-started, security, russian]
 models: [sonnet, opus]

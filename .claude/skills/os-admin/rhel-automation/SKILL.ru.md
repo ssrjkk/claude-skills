@@ -1,6 +1,6 @@
 ---
 name: rhel-automation
-description: Automation with RHEL. scripting.
+description: "Automation with RHEL. scripting."
 category: os-admin
 tags: [rhel-automation, os-admin, russian]
 models: [sonnet, opus]

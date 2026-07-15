@@ -1,6 +1,6 @@
 ---
 name: ruby-config
-description: Configuration with Ruby. config management.
+description: "Configuration with Ruby. config management."
 category: backend
 tags: [ruby, config, backend, backend]
 models: [gpt-4, claude-3]

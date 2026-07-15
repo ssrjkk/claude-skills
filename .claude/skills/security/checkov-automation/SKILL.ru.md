@@ -1,6 +1,6 @@
 ---
 name: checkov-automation
-description: Automation for Checkov: automation and scripting
+description: "Automation for Checkov: automation and scripting"
 category: security
 tags: [checkov-automation, security, russian]
 models: [sonnet, opus]

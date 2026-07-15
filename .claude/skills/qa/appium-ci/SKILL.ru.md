@@ -1,6 +1,6 @@
 ---
 name: appium-ci
-description: CI with Appium. CI integration.
+description: "CI with Appium. CI integration."
 category: qa
 tags: [appium-ci, qa, russian]
 models: [sonnet, opus]

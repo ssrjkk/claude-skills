@@ -1,6 +1,6 @@
 ---
 name: mocha-ci
-description: CI with Mocha. CI integration.
+description: "CI with Mocha. CI integration."
 category: qa
 tags: [mocha-ci, qa, russian]
 models: [sonnet, opus]

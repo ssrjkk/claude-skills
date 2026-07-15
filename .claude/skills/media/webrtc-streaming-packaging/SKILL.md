@@ -1,6 +1,6 @@
 ---
 name: webrtc-streaming-packaging
-description: Packaging with WebRTC Streaming. packaging.
+description: "Packaging with WebRTC Streaming. packaging."
 category: media
 tags: [webrtc-streaming, packaging, media, media-streaming]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: motherduck-best-practices
-description: Best Practices for Motherduck: best practices and patterns
+description: "Best Practices for Motherduck: best practices and patterns"
 category: database
 tags: [motherduck-best-practices, database, russian]
 models: [sonnet, opus]

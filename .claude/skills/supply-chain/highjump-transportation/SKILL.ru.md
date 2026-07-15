@@ -1,6 +1,6 @@
 ---
 name: highjump-transportation
-description: Transportation with HighJump. TMS.
+description: "Transportation with HighJump. TMS."
 category: supply-chain
 tags: [highjump-transportation, supply-chain, russian]
 models: [sonnet, opus]

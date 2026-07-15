@@ -1,6 +1,6 @@
 ---
 name: gamedev-skill-0100
-description: gamedev specialized skill #0100 for gamedev development
+description: "gamedev specialized skill #0100 for gamedev development"
 category: gamedev
 tags: [gamedev, skill, 0100]
 models: [sonnet, opus]

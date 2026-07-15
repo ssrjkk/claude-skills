@@ -1,6 +1,6 @@
 ---
 name: bigquery-deployment
-description: Deployment for Bigquery: deployment and release
+description: "Deployment for Bigquery: deployment and release"
 category: data
 tags: [bigquery, deployment, data]
 models: [sonnet, opus]

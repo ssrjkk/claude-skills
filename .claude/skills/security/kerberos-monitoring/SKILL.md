@@ -1,6 +1,6 @@
 ---
 name: kerberos-monitoring
-description: Monitoring with Kerberos. security monitoring.
+description: "Monitoring with Kerberos. security monitoring."
 category: security
 tags: [kerberos, monitoring, security, security]
 models: [gpt-4, claude-3]

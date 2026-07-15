@@ -1,6 +1,6 @@
 ---
 name: gcp-cloud-run-quickstart
-description: Quickstart for Gcp-Cloud-Run: quick start guide
+description: "Quickstart for Gcp-Cloud-Run: quick start guide"
 category: cloud
 tags: [gcp-cloud-run-quickstart, cloud, russian]
 models: [sonnet, opus]

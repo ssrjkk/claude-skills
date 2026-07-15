@@ -1,6 +1,6 @@
 ---
 name: user-stories-best-practices
-description: Best Practices with User Stories. tips.
+description: "Best Practices with User Stories. tips."
 category: product
 tags: [user-stories, best-practices, product, product-framework]
 models: [gpt-4, claude-3]

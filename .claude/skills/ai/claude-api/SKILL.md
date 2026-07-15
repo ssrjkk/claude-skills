@@ -1,6 +1,6 @@
 ---
 name: claude-api
-description: API for Claude: API development and integration
+description: "API for Claude: API development and integration"
 category: ai
 tags: [claude, api, ai]
 models: [sonnet, opus]

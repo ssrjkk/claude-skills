@@ -1,6 +1,6 @@
 ---
 name: crystal-logging
-description: Logging with Crystal. app logging.
+description: "Logging with Crystal. app logging."
 category: backend
 tags: [crystal, logging, backend, backend]
 models: [gpt-4, claude-3]

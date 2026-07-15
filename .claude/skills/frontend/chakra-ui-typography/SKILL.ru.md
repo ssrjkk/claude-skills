@@ -1,6 +1,6 @@
 ---
 name: chakra-ui-typography
-description: Typography with Chakra UI. text styling.
+description: "Typography with Chakra UI. text styling."
 category: frontend
 tags: [chakra-ui-typography, frontend, russian]
 models: [sonnet, opus]

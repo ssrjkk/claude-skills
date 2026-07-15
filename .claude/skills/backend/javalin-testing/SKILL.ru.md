@@ -1,6 +1,6 @@
 ---
 name: javalin-testing
-description: Testing with Javalin. unit tests.
+description: "Testing with Javalin. unit tests."
 category: backend
 tags: [javalin-testing, backend, russian]
 models: [sonnet, opus]

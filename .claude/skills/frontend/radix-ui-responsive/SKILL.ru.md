@@ -1,6 +1,6 @@
 ---
 name: radix-ui-responsive
-description: Responsive with Radix UI. mobile-first.
+description: "Responsive with Radix UI. mobile-first."
 category: frontend
 tags: [radix-ui-responsive, frontend, russian]
 models: [sonnet, opus]

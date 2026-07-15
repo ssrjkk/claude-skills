@@ -1,6 +1,6 @@
 ---
 name: julia-setup
-description: Setup with Julia. installation.
+description: "Setup with Julia. installation."
 category: scientific
 tags: [julia, setup, scientific, scientific-computing]
 models: [gpt-4, claude-3]

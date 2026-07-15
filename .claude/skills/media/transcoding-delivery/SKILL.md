@@ -1,6 +1,6 @@
 ---
 name: transcoding-delivery
-description: Delivery with Transcoding. delivery.
+description: "Delivery with Transcoding. delivery."
 category: media
 tags: [transcoding, delivery, media, media-streaming]
 models: [gpt-4, claude-3]

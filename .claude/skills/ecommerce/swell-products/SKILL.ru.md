@@ -1,6 +1,6 @@
 ---
 name: swell-products
-description: Products with Swell. product API.
+description: "Products with Swell. product API."
 category: ecommerce
 tags: [swell-products, ecommerce, russian]
 models: [sonnet, opus]

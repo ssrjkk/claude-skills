@@ -1,6 +1,6 @@
 ---
 name: dynamodb-setup
-description: Setup with DynamoDB. installation.
+description: "Setup with DynamoDB. installation."
 category: database
 tags: [dynamodb-setup, database, russian]
 models: [sonnet, opus]

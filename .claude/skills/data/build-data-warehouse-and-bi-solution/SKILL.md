@@ -1,6 +1,6 @@
 ---
 name: build-data-warehouse-and-bi-solution
-description: Design and implement a data warehouse with business intelligence and reporting capabilities
+description: "Design and implement a data warehouse with business intelligence and reporting capabilities"
 category: data
 tags: [data warehouse, BI, ETL, analytics]
 models: [sonnet, opus]

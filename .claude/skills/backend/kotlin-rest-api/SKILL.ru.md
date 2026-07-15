@@ -1,6 +1,6 @@
 ---
 name: kotlin-rest-api
-description: REST API with Kotlin. building REST APIs.
+description: "REST API with Kotlin. building REST APIs."
 category: backend
 tags: [kotlin-rest-api, backend, russian]
 models: [sonnet, opus]

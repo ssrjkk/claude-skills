@@ -1,6 +1,6 @@
 ---
 name: security-skill-0206
-description: Specialized skill #0206 for security development
+description: "Specialized skill #0206 for security development"
 category: security
 tags: [skill-0206, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: wpf-ui
-description: UI with WPF. UI components.
+description: "UI with WPF. UI components."
 category: desktop
 tags: [wpf-ui, desktop, russian]
 models: [sonnet, opus]

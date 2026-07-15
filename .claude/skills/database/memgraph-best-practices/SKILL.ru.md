@@ -1,6 +1,6 @@
 ---
 name: memgraph-best-practices
-description: Best Practices for Memgraph: best practices and patterns
+description: "Best Practices for Memgraph: best practices and patterns"
 category: database
 tags: [memgraph-best-practices, database, russian]
 models: [sonnet, opus]

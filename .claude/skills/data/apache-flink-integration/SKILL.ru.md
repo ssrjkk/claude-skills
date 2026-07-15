@@ -1,6 +1,6 @@
 ---
 name: apache-flink-integration
-description: Integration with Apache Flink. connectors.
+description: "Integration with Apache Flink. connectors."
 category: data
 tags: [apache-flink-integration, data, russian]
 models: [sonnet, opus]

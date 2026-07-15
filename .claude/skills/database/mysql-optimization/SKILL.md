@@ -1,6 +1,6 @@
 ---
 name: mysql-optimization
-description: Optimization with MySQL. query tuning.
+description: "Optimization with MySQL. query tuning."
 category: database
 tags: [mysql, optimization, database, sql]
 models: [gpt-4, claude-3]

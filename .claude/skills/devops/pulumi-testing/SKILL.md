@@ -1,6 +1,6 @@
 ---
 name: pulumi-testing
-description: Testing with Pulumi. infra testing.
+description: "Testing with Pulumi. infra testing."
 category: devops
 tags: [pulumi, testing, devops, iac]
 models: [gpt-4, claude-3]

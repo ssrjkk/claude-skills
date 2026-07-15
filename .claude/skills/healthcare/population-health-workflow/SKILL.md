@@ -1,6 +1,6 @@
 ---
 name: population-health-workflow
-description: Workflow with Population Health. clinical workflow.
+description: "Workflow with Population Health. clinical workflow."
 category: healthcare
 tags: [population-health, workflow, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

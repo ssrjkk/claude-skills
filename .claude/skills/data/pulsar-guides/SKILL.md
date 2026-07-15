@@ -1,6 +1,6 @@
 ---
 name: pulsar-guides
-description: Guides for Pulsar: how-to guides
+description: "Guides for Pulsar: how-to guides"
 category: data
 tags: [pulsar, guides, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: buildkite-security
-description: Security with Buildkite. security scanning.
+description: "Security with Buildkite. security scanning."
 category: devops
 tags: [buildkite-security, devops, russian]
 models: [sonnet, opus]

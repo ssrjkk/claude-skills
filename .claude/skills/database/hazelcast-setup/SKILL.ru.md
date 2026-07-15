@@ -1,6 +1,6 @@
 ---
 name: hazelcast-setup
-description: Setup with Hazelcast. installation.
+description: "Setup with Hazelcast. installation."
 category: database
 tags: [hazelcast-setup, database, russian]
 models: [sonnet, opus]

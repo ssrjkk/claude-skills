@@ -1,6 +1,6 @@
 ---
 name: raspberry-pi-ble
-description: BLE with Raspberry Pi. Bluetooth.
+description: "BLE with Raspberry Pi. Bluetooth."
 category: iot
 tags: [raspberry-pi-ble, iot, russian]
 models: [sonnet, opus]

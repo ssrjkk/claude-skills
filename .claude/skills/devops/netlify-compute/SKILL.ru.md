@@ -1,6 +1,6 @@
 ---
 name: netlify-compute
-description: Compute with Netlify. VM/compute.
+description: "Compute with Netlify. VM/compute."
 category: devops
 tags: [netlify-compute, devops, russian]
 models: [sonnet, opus]

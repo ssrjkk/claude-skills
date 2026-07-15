@@ -1,6 +1,6 @@
 ---
 name: chi-config
-description: Config with Chi. config management.
+description: "Config with Chi. config management."
 category: backend
 tags: [chi-config, backend, russian]
 models: [sonnet, opus]

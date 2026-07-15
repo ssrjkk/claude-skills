@@ -1,6 +1,6 @@
 ---
 name: commercetools-marketing
-description: Marketing with commercetools. marketing.
+description: "Marketing with commercetools. marketing."
 category: ecommerce
 tags: [commercetools-marketing, ecommerce, russian]
 models: [sonnet, opus]

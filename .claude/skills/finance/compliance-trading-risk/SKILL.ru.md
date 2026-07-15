@@ -1,6 +1,6 @@
 ---
 name: compliance-trading-risk
-description: Risk with Trading Compliance. risk analysis.
+description: "Risk with Trading Compliance. risk analysis."
 category: finance
 tags: [compliance-trading-risk, finance, russian]
 models: [sonnet, opus]

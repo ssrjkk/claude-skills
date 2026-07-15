@@ -1,6 +1,6 @@
 ---
 name: tempo-storage
-description: Storage with Tempo. data retention.
+description: "Storage with Tempo. data retention."
 category: devops
 tags: [tempo, storage, devops, monitoring]
 models: [gpt-4, claude-3]

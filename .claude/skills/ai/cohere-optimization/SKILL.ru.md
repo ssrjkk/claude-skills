@@ -1,6 +1,6 @@
 ---
 name: cohere-optimization
-description: Optimization for Cohere: performance tuning and optimization
+description: "Optimization for Cohere: performance tuning and optimization"
 category: ai
 tags: [cohere-optimization, ai, russian]
 models: [sonnet, opus]

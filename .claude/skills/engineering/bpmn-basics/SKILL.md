@@ -1,6 +1,6 @@
 ---
 name: bpmn-basics
-description: Basics with BPMN. fundamentals.
+description: "Basics with BPMN. fundamentals."
 category: engineering
 tags: [bpmn, basics, engineering, modeling]
 models: [gpt-4, claude-3]

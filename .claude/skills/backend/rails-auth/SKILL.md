@@ -1,6 +1,6 @@
 ---
 name: rails-auth
-description: Auth with Rails. authentication.
+description: "Auth with Rails. authentication."
 category: backend
 tags: [rails, auth, backend, backend]
 models: [gpt-4, claude-3]

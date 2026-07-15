@@ -1,6 +1,6 @@
 ---
 name: openid-best-practices
-description: Best Practices with OpenID Connect. best practices.
+description: "Best Practices with OpenID Connect. best practices."
 category: security
 tags: [openid-best-practices, security, russian]
 models: [sonnet, opus]

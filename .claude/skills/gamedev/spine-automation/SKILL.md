@@ -1,6 +1,6 @@
 ---
 name: spine-automation
-description: Automation for Spine: automation and scripting
+description: "Automation for Spine: automation and scripting"
 category: gamedev
 tags: [spine, automation, gamedev]
 models: [sonnet, opus]

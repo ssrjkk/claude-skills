@@ -1,6 +1,6 @@
 ---
 name: vercel-networking
-description: Networking with Vercel. VPC.
+description: "Networking with Vercel. VPC."
 category: devops
 tags: [vercel-networking, devops, russian]
 models: [sonnet, opus]

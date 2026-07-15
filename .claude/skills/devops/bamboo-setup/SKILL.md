@@ -1,6 +1,6 @@
 ---
 name: bamboo-setup
-description: Setup with Bamboo. pipeline setup.
+description: "Setup with Bamboo. pipeline setup."
 category: devops
 tags: [bamboo, setup, devops, ci-cd]
 models: [gpt-4, claude-3]

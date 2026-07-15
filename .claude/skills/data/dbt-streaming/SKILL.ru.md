@@ -1,6 +1,6 @@
 ---
 name: dbt-streaming
-description: Streaming with dbt. real-time.
+description: "Streaming with dbt. real-time."
 category: data
 tags: [dbt-streaming, data, russian]
 models: [sonnet, opus]

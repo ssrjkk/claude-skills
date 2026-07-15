@@ -1,6 +1,6 @@
 ---
 name: nltk-dependency-parsing
-description: Dependency Parsing with Nltk. syntax analysis.
+description: "Dependency Parsing with Nltk. syntax analysis."
 category: ai
 tags: [nltk, dependency-parsing, ai, nlp]
 models: [gpt-4, claude-3]

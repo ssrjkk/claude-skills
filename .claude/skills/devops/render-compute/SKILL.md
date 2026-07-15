@@ -1,6 +1,6 @@
 ---
 name: render-compute
-description: Compute with Render. VM/compute.
+description: "Compute with Render. VM/compute."
 category: devops
 tags: [render, compute, devops, cloud]
 models: [gpt-4, claude-3]

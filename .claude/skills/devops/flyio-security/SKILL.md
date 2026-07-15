@@ -1,6 +1,6 @@
 ---
 name: flyio-security
-description: Security with Fly.io. cloud security.
+description: "Security with Fly.io. cloud security."
 category: devops
 tags: [flyio, security, devops, cloud]
 models: [gpt-4, claude-3]

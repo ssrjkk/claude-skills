@@ -1,6 +1,6 @@
 ---
 name: open-banking-setup
-description: Setup with Open Banking. account setup.
+description: "Setup with Open Banking. account setup."
 category: finance
 tags: [open-banking, setup, finance, fintech]
 models: [gpt-4, claude-3]

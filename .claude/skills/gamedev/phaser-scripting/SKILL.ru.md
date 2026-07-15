@@ -1,6 +1,6 @@
 ---
 name: phaser-scripting
-description: Scripting with Phaser. game logic.
+description: "Scripting with Phaser. game logic."
 category: gamedev
 tags: [phaser-scripting, gamedev, russian]
 models: [sonnet, opus]

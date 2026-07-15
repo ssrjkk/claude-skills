@@ -1,6 +1,6 @@
 ---
 name: dspy-quickstart
-description: Quickstart for Dspy: quick start guide
+description: "Quickstart for Dspy: quick start guide"
 category: ai
 tags: [dspy-quickstart, ai, russian]
 models: [sonnet, opus]

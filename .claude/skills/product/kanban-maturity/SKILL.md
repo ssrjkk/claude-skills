@@ -1,6 +1,6 @@
 ---
 name: kanban-maturity
-description: Maturity with Kanban. assessment.
+description: "Maturity with Kanban. assessment."
 category: product
 tags: [kanban, maturity, product, methodology]
 models: [gpt-4, claude-3]

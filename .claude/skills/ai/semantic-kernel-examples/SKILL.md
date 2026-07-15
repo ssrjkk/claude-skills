@@ -1,6 +1,6 @@
 ---
 name: semantic-kernel-examples
-description: Examples for Semantic-Kernel: practical examples
+description: "Examples for Semantic-Kernel: practical examples"
 category: ai
 tags: [semantic-kernel, examples, ai]
 models: [sonnet, opus]

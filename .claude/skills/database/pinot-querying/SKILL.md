@@ -1,6 +1,6 @@
 ---
 name: pinot-querying
-description: Querying with Apache Pinot. time-series queries.
+description: "Querying with Apache Pinot. time-series queries."
 category: database
 tags: [pinot, querying, database, time-series]
 models: [gpt-4, claude-3]

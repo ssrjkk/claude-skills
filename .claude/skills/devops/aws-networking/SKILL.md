@@ -1,6 +1,6 @@
 ---
 name: aws-networking
-description: Networking with AWS. VPC.
+description: "Networking with AWS. VPC."
 category: devops
 tags: [aws, networking, devops, cloud]
 models: [gpt-4, claude-3]

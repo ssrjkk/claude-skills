@@ -1,6 +1,6 @@
 ---
 name: vlan-optimization
-description: Optimization with VLAN. tuning.
+description: "Optimization with VLAN. tuning."
 category: networking
 tags: [vlan-optimization, networking, russian]
 models: [sonnet, opus]

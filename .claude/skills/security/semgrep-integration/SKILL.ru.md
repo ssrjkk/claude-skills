@@ -1,6 +1,6 @@
 ---
 name: semgrep-integration
-description: Integration for Semgrep: integration with other tools
+description: "Integration for Semgrep: integration with other tools"
 category: security
 tags: [semgrep-integration, security, russian]
 models: [sonnet, opus]

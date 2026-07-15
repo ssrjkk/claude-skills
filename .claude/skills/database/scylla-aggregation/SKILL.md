@@ -1,6 +1,6 @@
 ---
 name: scylla-aggregation
-description: Aggregation with ScyllaDB. aggregation pipelines.
+description: "Aggregation with ScyllaDB. aggregation pipelines."
 category: database
 tags: [scylla, aggregation, database, nosql]
 models: [gpt-4, claude-3]

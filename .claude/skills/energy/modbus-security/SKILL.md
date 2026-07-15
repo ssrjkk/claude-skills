@@ -1,6 +1,6 @@
 ---
 name: modbus-security
-description: Security with Modbus. security.
+description: "Security with Modbus. security."
 category: energy
 tags: [modbus, security, energy, smart-grid]
 models: [gpt-4, claude-3]

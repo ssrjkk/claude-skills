@@ -1,6 +1,6 @@
 ---
 name: fhir-tools
-description: Tools with FHIR. tools.
+description: "Tools with FHIR. tools."
 category: healthcare
 tags: [fhir-tools, healthcare, russian]
 models: [sonnet, opus]

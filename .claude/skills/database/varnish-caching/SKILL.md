@@ -1,6 +1,6 @@
 ---
 name: varnish-caching
-description: Caching with Varnish. caching strategies.
+description: "Caching with Varnish. caching strategies."
 category: database
 tags: [varnish, caching, database, caching]
 models: [gpt-4, claude-3]

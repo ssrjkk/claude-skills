@@ -1,6 +1,6 @@
 ---
 name: kubernetes-testing
-description: Testing for Kubernetes: testing and validation
+description: "Testing for Kubernetes: testing and validation"
 category: devops
 tags: [kubernetes, testing, devops]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: a-b-testing-basics
-description: Basics with A/B Testing. fundamentals.
+description: "Basics with A/B Testing. fundamentals."
 category: design
 tags: [a-b-testing, basics, design, ux-research]
 models: [gpt-4, claude-3]

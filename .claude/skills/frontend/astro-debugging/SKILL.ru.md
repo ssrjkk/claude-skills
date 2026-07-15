@@ -1,6 +1,6 @@
 ---
 name: astro-debugging
-description: Debugging for Astro: debugging and troubleshooting
+description: "Debugging for Astro: debugging and troubleshooting"
 category: frontend
 tags: [astro-debugging, frontend, russian]
 models: [sonnet, opus]

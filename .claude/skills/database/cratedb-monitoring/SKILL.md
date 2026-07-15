@@ -1,6 +1,6 @@
 ---
 name: cratedb-monitoring
-description: Monitoring with CrateDB. monitoring.
+description: "Monitoring with CrateDB. monitoring."
 category: database
 tags: [cratedb, monitoring, database, sql]
 models: [gpt-4, claude-3]

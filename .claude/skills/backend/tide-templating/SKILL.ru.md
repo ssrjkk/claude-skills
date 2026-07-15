@@ -1,6 +1,6 @@
 ---
 name: tide-templating
-description: Templating with Tide. templates.
+description: "Templating with Tide. templates."
 category: backend
 tags: [tide-templating, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mocha-mocking
-description: Mocking with Mocha. mocks.
+description: "Mocking with Mocha. mocks."
 category: qa
 tags: [mocha, mocking, qa, testing]
 models: [gpt-4, claude-3]

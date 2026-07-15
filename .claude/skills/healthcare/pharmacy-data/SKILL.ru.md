@@ -1,6 +1,6 @@
 ---
 name: pharmacy-data
-description: Data with Pharmacy Systems. data management.
+description: "Data with Pharmacy Systems. data management."
 category: healthcare
 tags: [pharmacy-data, healthcare, russian]
 models: [sonnet, opus]

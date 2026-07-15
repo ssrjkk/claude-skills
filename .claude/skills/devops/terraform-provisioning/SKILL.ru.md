@@ -1,6 +1,6 @@
 ---
 name: terraform-provisioning
-description: Provisioning with Terraform. provisioning.
+description: "Provisioning with Terraform. provisioning."
 category: devops
 tags: [terraform-provisioning, devops, russian]
 models: [sonnet, opus]

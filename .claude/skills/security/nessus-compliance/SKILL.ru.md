@@ -1,6 +1,6 @@
 ---
 name: nessus-compliance
-description: Compliance with Nessus. compliance.
+description: "Compliance with Nessus. compliance."
 category: security
 tags: [nessus-compliance, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: polars-performance
-description: Performance with Polars. optimization.
+description: "Performance with Polars. optimization."
 category: data
 tags: [polars, performance, data, data-science]
 models: [gpt-4, claude-3]

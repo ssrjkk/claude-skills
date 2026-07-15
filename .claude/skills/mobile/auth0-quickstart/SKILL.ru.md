@@ -1,6 +1,6 @@
 ---
 name: auth0-quickstart
-description: Quickstart for Auth0: quick start guide
+description: "Quickstart for Auth0: quick start guide"
 category: mobile
 tags: [auth0-quickstart, mobile, russian]
 models: [sonnet, opus]

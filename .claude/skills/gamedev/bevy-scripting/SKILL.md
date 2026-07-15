@@ -1,6 +1,6 @@
 ---
 name: bevy-scripting
-description: Scripting with Bevy. game logic.
+description: "Scripting with Bevy. game logic."
 category: gamedev
 tags: [bevy, scripting, gamedev, game-engine]
 models: [gpt-4, claude-3]

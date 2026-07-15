@@ -1,6 +1,6 @@
 ---
 name: k3s-storage
-description: Storage with K3s. persistent storage.
+description: "Storage with K3s. persistent storage."
 category: devops
 tags: [k3s, storage, devops, kubernetes]
 models: [gpt-4, claude-3]

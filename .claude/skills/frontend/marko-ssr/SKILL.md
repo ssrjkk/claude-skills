@@ -1,6 +1,6 @@
 ---
 name: marko-ssr
-description: SSR with Marko. server rendering.
+description: "SSR with Marko. server rendering."
 category: frontend
 tags: [marko, ssr, frontend, frontend]
 models: [gpt-4, claude-3]

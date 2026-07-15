@@ -1,6 +1,6 @@
 ---
 name: workday-integration
-description: Integration with Workday. integration.
+description: "Integration with Workday. integration."
 category: hr
 tags: [workday-integration, hr, russian]
 models: [sonnet, opus]

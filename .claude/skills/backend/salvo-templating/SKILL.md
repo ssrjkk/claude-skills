@@ -1,6 +1,6 @@
 ---
 name: salvo-templating
-description: Templating with Salvo. templates.
+description: "Templating with Salvo. templates."
 category: backend
 tags: [salvo, templating, backend, backend]
 models: [gpt-4, claude-3]

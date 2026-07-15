@@ -1,6 +1,6 @@
 ---
 name: tide-database
-description: Database with Tide. DB access.
+description: "Database with Tide. DB access."
 category: backend
 tags: [tide, database, backend, backend]
 models: [gpt-4, claude-3]

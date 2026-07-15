@@ -1,6 +1,6 @@
 ---
 name: project44-shipping
-description: Shipping with project44. shipping.
+description: "Shipping with project44. shipping."
 category: supply-chain
 tags: [project44, shipping, supply-chain, logistics]
 models: [gpt-4, claude-3]

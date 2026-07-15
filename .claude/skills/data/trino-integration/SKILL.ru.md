@@ -1,6 +1,6 @@
 ---
 name: trino-integration
-description: Integration with Trino. connectors.
+description: "Integration with Trino. connectors."
 category: data
 tags: [trino-integration, data, russian]
 models: [sonnet, opus]

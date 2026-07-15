@@ -1,6 +1,6 @@
 ---
 name: kinesis-optimization
-description: Optimization with Kinesis. performance.
+description: "Optimization with Kinesis. performance."
 category: data
 tags: [kinesis-optimization, data, russian]
 models: [sonnet, opus]

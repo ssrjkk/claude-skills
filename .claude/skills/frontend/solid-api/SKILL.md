@@ -1,6 +1,6 @@
 ---
 name: solid-api
-description: API for Solid: API development and integration
+description: "API for Solid: API development and integration"
 category: frontend
 tags: [solid, api, frontend]
 models: [sonnet, opus]

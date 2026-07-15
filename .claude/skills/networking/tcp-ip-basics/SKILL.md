@@ -1,6 +1,6 @@
 ---
 name: tcp-ip-basics
-description: Basics with TCP/IP. fundamentals.
+description: "Basics with TCP/IP. fundamentals."
 category: networking
 tags: [tcp-ip, basics, networking, networking]
 models: [gpt-4, claude-3]

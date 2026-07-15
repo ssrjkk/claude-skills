@@ -1,6 +1,6 @@
 ---
 name: selenium-advanced
-description: Advanced for Selenium: advanced patterns and techniques
+description: "Advanced for Selenium: advanced patterns and techniques"
 category: qa
 tags: [selenium, advanced, qa]
 models: [sonnet, opus]

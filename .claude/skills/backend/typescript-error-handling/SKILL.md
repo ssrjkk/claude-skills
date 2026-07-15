@@ -1,6 +1,6 @@
 ---
 name: typescript-error-handling
-description: Error Handling with Typescript. error management.
+description: "Error Handling with Typescript. error management."
 category: backend
 tags: [typescript, error-handling, backend, backend]
 models: [gpt-4, claude-3]

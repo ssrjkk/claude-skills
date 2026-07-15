@@ -1,6 +1,6 @@
 ---
 name: sagemath-signal-processing
-description: Signal Processing with SageMath. FFT.
+description: "Signal Processing with SageMath. FFT."
 category: scientific
 tags: [sagemath, signal-processing, scientific, scientific-computing]
 models: [gpt-4, claude-3]

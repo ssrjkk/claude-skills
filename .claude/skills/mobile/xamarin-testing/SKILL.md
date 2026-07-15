@@ -1,6 +1,6 @@
 ---
 name: xamarin-testing
-description: Testing with Xamarin. testing.
+description: "Testing with Xamarin. testing."
 category: mobile
 tags: [xamarin, testing, mobile, mobile]
 models: [gpt-4, claude-3]

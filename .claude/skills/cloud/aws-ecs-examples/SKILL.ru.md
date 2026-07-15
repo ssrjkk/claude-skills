@@ -1,6 +1,6 @@
 ---
 name: aws-ecs-examples
-description: Examples for Aws-Ecs: practical examples
+description: "Examples for Aws-Ecs: practical examples"
 category: cloud
 tags: [aws-ecs-examples, cloud, russian]
 models: [sonnet, opus]

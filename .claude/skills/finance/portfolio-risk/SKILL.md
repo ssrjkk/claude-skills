@@ -1,6 +1,6 @@
 ---
 name: portfolio-risk
-description: Risk with Portfolio Management. risk analysis.
+description: "Risk with Portfolio Management. risk analysis."
 category: finance
 tags: [portfolio, risk, finance, trading]
 models: [gpt-4, claude-3]

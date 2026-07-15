@@ -1,6 +1,6 @@
 ---
 name: lit-routing
-description: Routing with Lit. client routing.
+description: "Routing with Lit. client routing."
 category: frontend
 tags: [lit, routing, frontend, frontend]
 models: [gpt-4, claude-3]

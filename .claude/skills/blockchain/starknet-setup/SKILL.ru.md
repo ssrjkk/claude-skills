@@ -1,6 +1,6 @@
 ---
 name: starknet-setup
-description: Setup with StarkNet. node setup.
+description: "Setup with StarkNet. node setup."
 category: blockchain
 tags: [starknet-setup, blockchain, russian]
 models: [sonnet, opus]

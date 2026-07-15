@@ -1,6 +1,6 @@
 ---
 name: travis-ci-deployment
-description: Deployment with Travis CI. auto-deploy.
+description: "Deployment with Travis CI. auto-deploy."
 category: devops
 tags: [travis-ci, deployment, devops, ci-cd]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: powershell-setup
-description: Setup with PowerShell. installation.
+description: "Setup with PowerShell. installation."
 category: os-admin
 tags: [powershell, setup, os-admin, windows]
 models: [gpt-4, claude-3]

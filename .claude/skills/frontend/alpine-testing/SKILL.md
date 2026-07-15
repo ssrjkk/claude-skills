@@ -1,6 +1,6 @@
 ---
 name: alpine-testing
-description: Testing with Alpine. component testing.
+description: "Testing with Alpine. component testing."
 category: frontend
 tags: [alpine, testing, frontend, frontend]
 models: [gpt-4, claude-3]

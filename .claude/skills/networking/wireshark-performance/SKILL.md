@@ -1,6 +1,6 @@
 ---
 name: wireshark-performance
-description: Performance with Wireshark. benchmarking.
+description: "Performance with Wireshark. benchmarking."
 category: networking
 tags: [wireshark, performance, networking, networking-tool]
 models: [gpt-4, claude-3]

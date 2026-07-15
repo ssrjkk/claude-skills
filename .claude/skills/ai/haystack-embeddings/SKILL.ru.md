@@ -1,6 +1,6 @@
 ---
 name: haystack-embeddings
-description: Embeddings with Haystack. text embeddings.
+description: "Embeddings with Haystack. text embeddings."
 category: ai
 tags: [haystack-embeddings, ai, russian]
 models: [sonnet, opus]

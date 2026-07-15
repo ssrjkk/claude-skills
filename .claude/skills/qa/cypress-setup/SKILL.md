@@ -1,6 +1,6 @@
 ---
 name: cypress-setup
-description: Setup with Cypress. installation.
+description: "Setup with Cypress. installation."
 category: qa
 tags: [cypress, setup, qa, e2e]
 models: [gpt-4, claude-3]

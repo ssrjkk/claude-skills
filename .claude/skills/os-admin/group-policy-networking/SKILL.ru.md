@@ -1,6 +1,6 @@
 ---
 name: group-policy-networking
-description: Networking with Group Policy. network.
+description: "Networking with Group Policy. network."
 category: os-admin
 tags: [group-policy-networking, os-admin, russian]
 models: [sonnet, opus]

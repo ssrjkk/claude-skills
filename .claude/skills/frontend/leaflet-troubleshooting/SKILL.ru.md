@@ -1,6 +1,6 @@
 ---
 name: leaflet-troubleshooting
-description: Troubleshooting for Leaflet: troubleshooting common issues
+description: "Troubleshooting for Leaflet: troubleshooting common issues"
 category: frontend
 tags: [leaflet-troubleshooting, frontend, russian]
 models: [sonnet, opus]

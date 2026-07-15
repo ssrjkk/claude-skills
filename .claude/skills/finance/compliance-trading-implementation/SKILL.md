@@ -1,6 +1,6 @@
 ---
 name: compliance-trading-implementation
-description: Implementation with Trading Compliance. implementation.
+description: "Implementation with Trading Compliance. implementation."
 category: finance
 tags: [compliance-trading, implementation, finance, trading]
 models: [gpt-4, claude-3]

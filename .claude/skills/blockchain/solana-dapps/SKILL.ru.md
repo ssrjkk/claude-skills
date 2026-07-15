@@ -1,6 +1,6 @@
 ---
 name: solana-dapps
-description: DApps with Solana. decentralized apps.
+description: "DApps with Solana. decentralized apps."
 category: blockchain
 tags: [solana-dapps, blockchain, russian]
 models: [sonnet, opus]

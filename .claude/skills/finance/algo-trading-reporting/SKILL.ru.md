@@ -1,6 +1,6 @@
 ---
 name: algo-trading-reporting
-description: Reporting with Algorithmic Trading. reports.
+description: "Reporting with Algorithmic Trading. reports."
 category: finance
 tags: [algo-trading-reporting, finance, russian]
 models: [sonnet, opus]

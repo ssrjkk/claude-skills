@@ -1,6 +1,6 @@
 ---
 name: yugabytedb-examples
-description: Examples for Yugabytedb: practical examples
+description: "Examples for Yugabytedb: practical examples"
 category: database
 tags: [yugabytedb-examples, database, russian]
 models: [sonnet, opus]

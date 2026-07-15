@@ -1,6 +1,6 @@
 ---
 name: capacitor-monitoring
-description: Monitoring for Capacitor: monitoring and observability
+description: "Monitoring for Capacitor: monitoring and observability"
 category: mobile
 tags: [capacitor-monitoring, mobile, russian]
 models: [sonnet, opus]

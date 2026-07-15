@@ -1,6 +1,6 @@
 ---
 name: testcafe-parallel
-description: Parallel with TestCafe. parallel execution.
+description: "Parallel with TestCafe. parallel execution."
 category: qa
 tags: [testcafe-parallel, qa, russian]
 models: [sonnet, opus]

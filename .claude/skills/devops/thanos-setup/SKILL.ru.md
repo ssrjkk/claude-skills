@@ -1,6 +1,6 @@
 ---
 name: thanos-setup
-description: Setup with Thanos. installation.
+description: "Setup with Thanos. installation."
 category: devops
 tags: [thanos-setup, devops, russian]
 models: [sonnet, opus]

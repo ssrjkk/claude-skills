@@ -1,6 +1,6 @@
 ---
 name: mapbox-gl-analysis
-description: Analysis with Mapbox GL. spatial analysis.
+description: "Analysis with Mapbox GL. spatial analysis."
 category: geospatial
 tags: [mapbox-gl, analysis, geospatial, gis]
 models: [gpt-4, claude-3]

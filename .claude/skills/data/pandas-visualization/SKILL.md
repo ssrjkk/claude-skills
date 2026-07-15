@@ -1,6 +1,6 @@
 ---
 name: pandas-visualization
-description: Visualization with Pandas. charting.
+description: "Visualization with Pandas. charting."
 category: data
 tags: [pandas, visualization, data, data-science]
 models: [gpt-4, claude-3]

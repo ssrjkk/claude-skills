@@ -1,6 +1,6 @@
 ---
 name: trl-quantization
-description: Quantization with Trl. model quantization.
+description: "Quantization with Trl. model quantization."
 category: ai
 tags: [trl-quantization, ai, russian]
 models: [sonnet, opus]

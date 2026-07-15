@@ -1,6 +1,6 @@
 ---
 name: fourkites-analytics
-description: Analytics with FourKites. analytics.
+description: "Analytics with FourKites. analytics."
 category: supply-chain
 tags: [fourkites, analytics, supply-chain, logistics]
 models: [gpt-4, claude-3]

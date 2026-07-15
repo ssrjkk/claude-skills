@@ -1,6 +1,6 @@
 ---
 name: tdd-implementation
-description: Implementation with TDD. practice.
+description: "Implementation with TDD. practice."
 category: engineering
 tags: [tdd-implementation, engineering, russian]
 models: [sonnet, opus]

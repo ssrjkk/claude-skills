@@ -1,6 +1,6 @@
 ---
 name: sqlite-replication
-description: Replication with SQLite. replication.
+description: "Replication with SQLite. replication."
 category: database
 tags: [sqlite, replication, database, sql]
 models: [gpt-4, claude-3]

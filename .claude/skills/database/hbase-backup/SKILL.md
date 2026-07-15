@@ -1,6 +1,6 @@
 ---
 name: hbase-backup
-description: Backup with HBase. backup.
+description: "Backup with HBase. backup."
 category: database
 tags: [hbase, backup, database, nosql]
 models: [gpt-4, claude-3]

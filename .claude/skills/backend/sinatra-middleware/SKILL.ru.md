@@ -1,6 +1,6 @@
 ---
 name: sinatra-middleware
-description: Middleware with Sinatra. rack middleware.
+description: "Middleware with Sinatra. rack middleware."
 category: backend
 tags: [sinatra-middleware, backend, russian]
 models: [sonnet, opus]

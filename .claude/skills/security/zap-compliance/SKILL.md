@@ -1,6 +1,6 @@
 ---
 name: zap-compliance
-description: Compliance with ZAP. compliance.
+description: "Compliance with ZAP. compliance."
 category: security
 tags: [zap, compliance, security, security-tool]
 models: [gpt-4, claude-3]

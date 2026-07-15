@@ -1,6 +1,6 @@
 ---
 name: ehr-setup
-description: Setup with EHR Systems. implementation.
+description: "Setup with EHR Systems. implementation."
 category: healthcare
 tags: [ehr, setup, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

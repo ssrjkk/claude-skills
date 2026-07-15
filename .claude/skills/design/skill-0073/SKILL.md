@@ -1,6 +1,6 @@
 ---
 name: skill-0073
-description: Specialized skill #0073 for design development
+description: "Specialized skill #0073 for design development"
 category: design
 tags: [design, skill, 0073]
 models: [sonnet, opus]

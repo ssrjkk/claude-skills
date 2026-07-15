@@ -1,6 +1,6 @@
 ---
 name: sakai-analytics
-description: Analytics with Sakai. analytics.
+description: "Analytics with Sakai. analytics."
 category: education
 tags: [sakai-analytics, education, russian]
 models: [sonnet, opus]

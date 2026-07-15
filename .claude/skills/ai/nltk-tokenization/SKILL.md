@@ -1,6 +1,6 @@
 ---
 name: nltk-tokenization
-description: Tokenization with Nltk. text tokenization.
+description: "Tokenization with Nltk. text tokenization."
 category: ai
 tags: [nltk, tokenization, ai, nlp]
 models: [gpt-4, claude-3]

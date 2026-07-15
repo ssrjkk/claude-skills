@@ -1,6 +1,6 @@
 ---
 name: node-red
-description: Creates IoT and automation flows with Node-RED, visual programming for event-driven applications.
+description: "Creates IoT and automation flows with Node-RED, visual programming for event-driven applications."
 category: iot
 tags: [node-red, flow-based, iot, automation, visual-programming]
 models: [sonnet, opus]

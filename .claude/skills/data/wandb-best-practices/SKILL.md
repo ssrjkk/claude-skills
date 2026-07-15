@@ -1,6 +1,6 @@
 ---
 name: wandb-best-practices
-description: Best Practices for Wandb: best practices and patterns
+description: "Best Practices for Wandb: best practices and patterns"
 category: data
 tags: [wandb, best-practices, data]
 models: [sonnet, opus]

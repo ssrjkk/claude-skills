@@ -1,6 +1,6 @@
 ---
 name: falco-basics
-description: Basics for Falco: fundamentals and core concepts
+description: "Basics for Falco: fundamentals and core concepts"
 category: security
 tags: [falco-basics, security, russian]
 models: [sonnet, opus]

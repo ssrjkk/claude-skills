@@ -1,6 +1,6 @@
 ---
 name: micronaut-monitoring
-description: Monitoring with Micronaut. metrics.
+description: "Monitoring with Micronaut. metrics."
 category: backend
 tags: [micronaut, monitoring, backend, backend]
 models: [gpt-4, claude-3]

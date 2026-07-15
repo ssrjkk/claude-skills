@@ -1,6 +1,6 @@
 ---
 name: skill-0054
-description: Specialized skill #0054 for ai development
+description: "Specialized skill #0054 for ai development"
 category: ai
 tags: [skill-0054, ai, russian]
 models: [sonnet, opus]

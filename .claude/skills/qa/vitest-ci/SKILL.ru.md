@@ -1,6 +1,6 @@
 ---
 name: vitest-ci
-description: CI with Vitest. CI integration.
+description: "CI with Vitest. CI integration."
 category: qa
 tags: [vitest-ci, qa, russian]
 models: [sonnet, opus]

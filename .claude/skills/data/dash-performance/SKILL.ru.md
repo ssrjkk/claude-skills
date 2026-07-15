@@ -1,6 +1,6 @@
 ---
 name: dash-performance
-description: Performance with Dash. performance.
+description: "Performance with Dash. performance."
 category: data
 tags: [dash-performance, data, russian]
 models: [sonnet, opus]

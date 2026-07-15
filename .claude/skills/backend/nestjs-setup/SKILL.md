@@ -1,6 +1,6 @@
 ---
 name: nestjs-setup
-description: Setup for Nestjs: installation and configuration
+description: "Setup for Nestjs: installation and configuration"
 category: backend
 tags: [nestjs, setup, backend]
 models: [sonnet, opus]

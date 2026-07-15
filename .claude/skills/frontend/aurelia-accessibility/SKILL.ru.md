@@ -1,6 +1,6 @@
 ---
 name: aurelia-accessibility
-description: Accessibility with Aurelia. a11y.
+description: "Accessibility with Aurelia. a11y."
 category: frontend
 tags: [aurelia-accessibility, frontend, russian]
 models: [sonnet, opus]

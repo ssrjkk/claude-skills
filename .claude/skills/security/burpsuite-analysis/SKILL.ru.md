@@ -1,6 +1,6 @@
 ---
 name: burpsuite-analysis
-description: Analysis with Burp Suite. analysis.
+description: "Analysis with Burp Suite. analysis."
 category: security
 tags: [burpsuite-analysis, security, russian]
 models: [sonnet, opus]

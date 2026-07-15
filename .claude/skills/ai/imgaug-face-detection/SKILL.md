@@ -1,6 +1,6 @@
 ---
 name: imgaug-face-detection
-description: Face Detection with Imgaug. facial recognition.
+description: "Face Detection with Imgaug. facial recognition."
 category: ai
 tags: [imgaug, face-detection, ai, computer-vision]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: ziprecruiter-screening
-description: Screening with ZipRecruiter. resume screening.
+description: "Screening with ZipRecruiter. resume screening."
 category: hr
 tags: [ziprecruiter, screening, hr, recruiting]
 models: [gpt-4, claude-3]

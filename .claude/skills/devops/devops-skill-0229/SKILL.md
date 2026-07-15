@@ -1,6 +1,6 @@
 ---
 name: devops-skill-0229
-description: devops specialized skill #0229 for devops development
+description: "devops specialized skill #0229 for devops development"
 category: devops
 tags: [devops, skill, 0229]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gatling-ci
-description: CI with Gatling. CI integration.
+description: "CI with Gatling. CI integration."
 category: qa
 tags: [gatling-ci, qa, russian]
 models: [sonnet, opus]

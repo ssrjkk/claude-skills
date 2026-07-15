@@ -1,6 +1,6 @@
 ---
 name: group-policy-security
-description: Security with Group Policy. security.
+description: "Security with Group Policy. security."
 category: os-admin
 tags: [group-policy, security, os-admin, windows]
 models: [gpt-4, claude-3]

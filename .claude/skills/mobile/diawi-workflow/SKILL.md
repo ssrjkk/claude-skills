@@ -1,6 +1,6 @@
 ---
 name: diawi-workflow
-description: Workflow for Diawi: workflow optimization
+description: "Workflow for Diawi: workflow optimization"
 category: mobile
 tags: [diawi, workflow, mobile]
 models: [sonnet, opus]

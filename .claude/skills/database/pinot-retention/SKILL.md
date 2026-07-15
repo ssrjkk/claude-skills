@@ -1,6 +1,6 @@
 ---
 name: pinot-retention
-description: Retention with Apache Pinot. data retention.
+description: "Retention with Apache Pinot. data retention."
 category: database
 tags: [pinot, retention, database, time-series]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: grails-monitoring
-description: Monitoring with Grails. metrics.
+description: "Monitoring with Grails. metrics."
 category: backend
 tags: [grails-monitoring, backend, russian]
 models: [sonnet, opus]

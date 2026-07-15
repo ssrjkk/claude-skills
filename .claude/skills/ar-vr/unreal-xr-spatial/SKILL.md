@@ -1,6 +1,6 @@
 ---
 name: unreal-xr-spatial
-description: Spatial with Unreal XR. room mapping.
+description: "Spatial with Unreal XR. room mapping."
 category: ar-vr
 tags: [unreal-xr, spatial, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

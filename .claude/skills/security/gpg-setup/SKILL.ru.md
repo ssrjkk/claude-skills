@@ -1,6 +1,6 @@
 ---
 name: gpg-setup
-description: Setup for Gpg: installation and configuration
+description: "Setup for Gpg: installation and configuration"
 category: security
 tags: [gpg-setup, security, russian]
 models: [sonnet, opus]

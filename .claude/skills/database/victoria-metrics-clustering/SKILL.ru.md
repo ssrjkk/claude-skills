@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-clustering
-description: Clustering with VictoriaMetrics. clustering.
+description: "Clustering with VictoriaMetrics. clustering."
 category: database
 tags: [victoria-metrics-clustering, database, russian]
 models: [sonnet, opus]

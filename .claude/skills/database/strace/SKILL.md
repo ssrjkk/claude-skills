@@ -1,6 +1,6 @@
 ---
 name: strace
-description: Development with Strace: tools and best practices
+description: "Development with Strace: tools and best practices"
 category: database
 tags: [strace, database, development]
 models: [sonnet, opus]

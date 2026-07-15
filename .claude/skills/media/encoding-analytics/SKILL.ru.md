@@ -1,6 +1,6 @@
 ---
 name: encoding-analytics
-description: Analytics with Encoding. analytics.
+description: "Analytics with Encoding. analytics."
 category: media
 tags: [encoding-analytics, media, russian]
 models: [sonnet, opus]

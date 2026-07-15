@@ -1,6 +1,6 @@
 ---
 name: kotlin-multiplatform-setup
-description: Setup with Kotlin Multiplatform. setup.
+description: "Setup with Kotlin Multiplatform. setup."
 category: mobile
 tags: [kotlin-multiplatform, setup, mobile, mobile]
 models: [gpt-4, claude-3]

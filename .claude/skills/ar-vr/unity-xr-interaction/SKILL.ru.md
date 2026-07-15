@@ -1,6 +1,6 @@
 ---
 name: unity-xr-interaction
-description: Interaction with Unity XR. hand tracking.
+description: "Interaction with Unity XR. hand tracking."
 category: ar-vr
 tags: [unity-xr-interaction, ar-vr, russian]
 models: [sonnet, opus]

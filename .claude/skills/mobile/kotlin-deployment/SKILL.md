@@ -1,6 +1,6 @@
 ---
 name: kotlin-deployment
-description: Deployment for Kotlin: deployment and release
+description: "Deployment for Kotlin: deployment and release"
 category: mobile
 tags: [kotlin, deployment, mobile]
 models: [sonnet, opus]

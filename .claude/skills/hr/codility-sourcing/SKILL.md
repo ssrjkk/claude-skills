@@ -1,6 +1,6 @@
 ---
 name: codility-sourcing
-description: Sourcing with Codility. candidate sourcing.
+description: "Sourcing with Codility. candidate sourcing."
 category: hr
 tags: [codility, sourcing, hr, recruiting]
 models: [gpt-4, claude-3]

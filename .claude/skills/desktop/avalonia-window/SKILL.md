@@ -1,6 +1,6 @@
 ---
 name: avalonia-window
-description: Window with Avalonia. windows.
+description: "Window with Avalonia. windows."
 category: desktop
 tags: [avalonia, window, desktop, desktop]
 models: [gpt-4, claude-3]

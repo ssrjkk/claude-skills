@@ -1,6 +1,6 @@
 ---
 name: blue-yonder-integration
-description: Integration with Blue Yonder. integration.
+description: "Integration with Blue Yonder. integration."
 category: supply-chain
 tags: [blue-yonder-integration, supply-chain, russian]
 models: [sonnet, opus]

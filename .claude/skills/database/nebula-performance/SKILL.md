@@ -1,6 +1,6 @@
 ---
 name: nebula-performance
-description: Performance with Nebula Graph. optimization.
+description: "Performance with Nebula Graph. optimization."
 category: database
 tags: [nebula, performance, database, graph-database]
 models: [gpt-4, claude-3]

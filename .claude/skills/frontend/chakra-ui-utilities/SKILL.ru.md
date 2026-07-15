@@ -1,6 +1,6 @@
 ---
 name: chakra-ui-utilities
-description: Utilities with Chakra UI. utility classes.
+description: "Utilities with Chakra UI. utility classes."
 category: frontend
 tags: [chakra-ui-utilities, frontend, russian]
 models: [sonnet, opus]

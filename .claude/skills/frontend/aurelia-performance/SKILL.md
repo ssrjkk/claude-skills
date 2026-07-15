@@ -1,6 +1,6 @@
 ---
 name: aurelia-performance
-description: Performance with Aurelia. optimization.
+description: "Performance with Aurelia. optimization."
 category: frontend
 tags: [aurelia, performance, frontend, frontend]
 models: [gpt-4, claude-3]

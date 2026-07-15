@@ -1,6 +1,6 @@
 ---
 name: geoserver-integration
-description: Integration with GeoServer. integration.
+description: "Integration with GeoServer. integration."
 category: geospatial
 tags: [geoserver-integration, geospatial, russian]
 models: [sonnet, opus]

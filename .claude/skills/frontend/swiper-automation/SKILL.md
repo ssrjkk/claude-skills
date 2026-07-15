@@ -1,6 +1,6 @@
 ---
 name: swiper-automation
-description: Automation for Swiper: automation and scripting
+description: "Automation for Swiper: automation and scripting"
 category: frontend
 tags: [swiper, automation, frontend]
 models: [sonnet, opus]

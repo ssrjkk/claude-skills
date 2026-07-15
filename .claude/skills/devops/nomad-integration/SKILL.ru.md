@@ -1,6 +1,6 @@
 ---
 name: nomad-integration
-description: Integration for Nomad: integration with other tools
+description: "Integration for Nomad: integration with other tools"
 category: devops
 tags: [nomad-integration, devops, russian]
 models: [sonnet, opus]

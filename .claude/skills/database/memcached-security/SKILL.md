@@ -1,6 +1,6 @@
 ---
 name: memcached-security
-description: Security with Memcached. security.
+description: "Security with Memcached. security."
 category: database
 tags: [memcached, security, database, caching]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: refactoring-tools
-description: Tools with Refactoring. tooling.
+description: "Tools with Refactoring. tooling."
 category: engineering
 tags: [refactoring-tools, engineering, russian]
 models: [sonnet, opus]

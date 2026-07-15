@@ -1,6 +1,6 @@
 ---
 name: chargebee-setup
-description: Setup with Chargebee. account setup.
+description: "Setup with Chargebee. account setup."
 category: payments
 tags: [chargebee-setup, payments, russian]
 models: [sonnet, opus]

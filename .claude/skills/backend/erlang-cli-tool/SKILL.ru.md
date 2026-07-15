@@ -1,6 +1,6 @@
 ---
 name: erlang-cli-tool
-description: CLI Tool with Erlang. building CLI tools.
+description: "CLI Tool with Erlang. building CLI tools."
 category: backend
 tags: [erlang-cli-tool, backend, russian]
 models: [sonnet, opus]

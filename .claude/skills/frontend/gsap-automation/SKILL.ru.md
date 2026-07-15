@@ -1,6 +1,6 @@
 ---
 name: gsap-automation
-description: Automation for Gsap: automation and scripting
+description: "Automation for Gsap: automation and scripting"
 category: frontend
 tags: [gsap-automation, frontend, russian]
 models: [sonnet, opus]

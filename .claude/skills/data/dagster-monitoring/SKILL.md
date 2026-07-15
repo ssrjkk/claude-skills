@@ -1,6 +1,6 @@
 ---
 name: dagster-monitoring
-description: Monitoring with Dagster. monitoring.
+description: "Monitoring with Dagster. monitoring."
 category: data
 tags: [dagster, monitoring, data, data-engineering]
 models: [gpt-4, claude-3]

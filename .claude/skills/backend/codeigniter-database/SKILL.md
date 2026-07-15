@@ -1,6 +1,6 @@
 ---
 name: codeigniter-database
-description: Database with CodeIgniter. Eloquent.
+description: "Database with CodeIgniter. Eloquent."
 category: backend
 tags: [codeigniter, database, backend, backend]
 models: [gpt-4, claude-3]

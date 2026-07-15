@@ -1,6 +1,6 @@
 ---
 name: polygon-tokens
-description: Tokens with Polygon. token standards.
+description: "Tokens with Polygon. token standards."
 category: blockchain
 tags: [polygon, tokens, blockchain, blockchain]
 models: [gpt-4, claude-3]

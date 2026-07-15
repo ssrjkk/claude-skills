@@ -1,6 +1,6 @@
 ---
 name: taipy-layout
-description: Layout with Taipy. app layout.
+description: "Layout with Taipy. app layout."
 category: data
 tags: [taipy, layout, data, data-apps]
 models: [gpt-4, claude-3]

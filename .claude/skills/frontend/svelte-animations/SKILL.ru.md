@@ -1,6 +1,6 @@
 ---
 name: svelte-animations
-description: Animations with Svelte. UI animations.
+description: "Animations with Svelte. UI animations."
 category: frontend
 tags: [svelte-animations, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mobile-skill-0207
-description: Specialized skill #0207 for mobile development
+description: "Specialized skill #0207 for mobile development"
 category: mobile
 tags: [skill-0207, mobile, russian]
 models: [sonnet, opus]

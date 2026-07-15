@@ -1,6 +1,6 @@
 ---
 name: cassandra-replication
-description: Replication with Cassandra. replication.
+description: "Replication with Cassandra. replication."
 category: database
 tags: [cassandra-replication, database, russian]
 models: [sonnet, opus]

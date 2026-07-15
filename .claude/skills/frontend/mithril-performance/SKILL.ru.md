@@ -1,6 +1,6 @@
 ---
 name: mithril-performance
-description: Performance with Mithril. optimization.
+description: "Performance with Mithril. optimization."
 category: frontend
 tags: [mithril-performance, frontend, russian]
 models: [sonnet, opus]

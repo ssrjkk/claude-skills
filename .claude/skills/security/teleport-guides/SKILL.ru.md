@@ -1,6 +1,6 @@
 ---
 name: teleport-guides
-description: Guides for Teleport: how-to guides
+description: "Guides for Teleport: how-to guides"
 category: security
 tags: [teleport-guides, security, russian]
 models: [sonnet, opus]

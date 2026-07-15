@@ -1,6 +1,6 @@
 ---
 name: sentence-transformers-text-classification
-description: Text Classification with Sentence Transformers. document categorization.
+description: "Text Classification with Sentence Transformers. document categorization."
 category: ai
 tags: [sentence-transformers-text-classification, ai, russian]
 models: [sonnet, opus]

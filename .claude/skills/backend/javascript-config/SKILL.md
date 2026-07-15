@@ -1,6 +1,6 @@
 ---
 name: javascript-config
-description: Configuration with Javascript. config management.
+description: "Configuration with Javascript. config management."
 category: backend
 tags: [javascript, config, backend, backend]
 models: [gpt-4, claude-3]

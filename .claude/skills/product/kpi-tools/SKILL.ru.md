@@ -1,6 +1,6 @@
 ---
 name: kpi-tools
-description: Tools with KPIs. tools.
+description: "Tools with KPIs. tools."
 category: product
 tags: [kpi-tools, product, russian]
 models: [sonnet, opus]

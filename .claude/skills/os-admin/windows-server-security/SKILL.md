@@ -1,6 +1,6 @@
 ---
 name: windows-server-security
-description: Security with Windows Server. security.
+description: "Security with Windows Server. security."
 category: os-admin
 tags: [windows-server, security, os-admin, windows]
 models: [gpt-4, claude-3]

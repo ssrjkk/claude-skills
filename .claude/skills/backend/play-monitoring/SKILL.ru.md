@@ -1,6 +1,6 @@
 ---
 name: play-monitoring
-description: Monitoring with Play. metrics.
+description: "Monitoring with Play. metrics."
 category: backend
 tags: [play-monitoring, backend, russian]
 models: [sonnet, opus]

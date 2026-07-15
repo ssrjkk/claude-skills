@@ -1,6 +1,6 @@
 ---
 name: vagrant-testing
-description: Testing with Vagrant. infra testing.
+description: "Testing with Vagrant. infra testing."
 category: devops
 tags: [vagrant, testing, devops, iac]
 models: [gpt-4, claude-3]

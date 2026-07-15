@@ -1,6 +1,6 @@
 ---
 name: unity-ads-workflow
-description: Workflow for Unity-Ads: workflow optimization
+description: "Workflow for Unity-Ads: workflow optimization"
 category: gamedev
 tags: [unity-ads-workflow, gamedev, russian]
 models: [sonnet, opus]

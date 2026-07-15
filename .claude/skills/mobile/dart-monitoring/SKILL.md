@@ -1,6 +1,6 @@
 ---
 name: dart-monitoring
-description: Monitoring for Dart: monitoring and observability
+description: "Monitoring for Dart: monitoring and observability"
 category: mobile
 tags: [dart, monitoring, mobile]
 models: [sonnet, opus]

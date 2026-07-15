@@ -1,6 +1,6 @@
 ---
 name: ldap-implementation
-description: Implementation with LDAP. implementation.
+description: "Implementation with LDAP. implementation."
 category: security
 tags: [ldap, implementation, security, security]
 models: [gpt-4, claude-3]

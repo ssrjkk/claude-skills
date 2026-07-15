@@ -1,6 +1,6 @@
 ---
 name: sqlite-querying
-description: Querying with SQLite. SQL queries.
+description: "Querying with SQLite. SQL queries."
 category: database
 tags: [sqlite-querying, database, russian]
 models: [sonnet, opus]

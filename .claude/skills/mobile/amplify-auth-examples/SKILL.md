@@ -1,6 +1,6 @@
 ---
 name: amplify-auth-examples
-description: Examples for Amplify-Auth: practical examples
+description: "Examples for Amplify-Auth: practical examples"
 category: mobile
 tags: [amplify-auth, examples, mobile]
 models: [sonnet, opus]

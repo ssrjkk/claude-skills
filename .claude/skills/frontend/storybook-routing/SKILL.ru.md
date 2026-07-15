@@ -1,6 +1,6 @@
 ---
 name: storybook-routing
-description: Routing with Storybook. file-based routing.
+description: "Routing with Storybook. file-based routing."
 category: frontend
 tags: [storybook-routing, frontend, russian]
 models: [sonnet, opus]

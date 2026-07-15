@@ -1,6 +1,6 @@
 ---
 name: saltstack-testing
-description: Testing with SaltStack. infra testing.
+description: "Testing with SaltStack. infra testing."
 category: devops
 tags: [saltstack-testing, devops, russian]
 models: [sonnet, opus]

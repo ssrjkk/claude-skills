@@ -1,6 +1,6 @@
 ---
 name: falco-deployment
-description: Deployment for Falco: deployment and release
+description: "Deployment for Falco: deployment and release"
 category: security
 tags: [falco, deployment, security]
 models: [sonnet, opus]

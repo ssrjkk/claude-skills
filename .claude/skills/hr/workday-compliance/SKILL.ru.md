@@ -1,6 +1,6 @@
 ---
 name: workday-compliance
-description: Compliance with Workday. compliance.
+description: "Compliance with Workday. compliance."
 category: hr
 tags: [workday-compliance, hr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: oxlint-source-maps
-description: Source Maps with Oxlint. debugging.
+description: "Source Maps with Oxlint. debugging."
 category: frontend
 tags: [oxlint, source-maps, frontend, build-tool]
 models: [gpt-4, claude-3]

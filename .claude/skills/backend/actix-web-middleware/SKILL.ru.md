@@ -1,6 +1,6 @@
 ---
 name: actix-web-middleware
-description: Middleware with Actix Web. request pipeline.
+description: "Middleware with Actix Web. request pipeline."
 category: backend
 tags: [actix-web-middleware, backend, russian]
 models: [sonnet, opus]

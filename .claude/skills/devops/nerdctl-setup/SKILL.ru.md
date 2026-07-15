@@ -1,6 +1,6 @@
 ---
 name: nerdctl-setup
-description: Setup with nerdctl. installation.
+description: "Setup with nerdctl. installation."
 category: devops
 tags: [nerdctl-setup, devops, russian]
 models: [sonnet, opus]

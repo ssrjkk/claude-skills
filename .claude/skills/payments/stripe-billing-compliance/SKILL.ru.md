@@ -1,6 +1,6 @@
 ---
 name: stripe-billing-compliance
-description: Compliance with Stripe Billing. tax compliance.
+description: "Compliance with Stripe Billing. tax compliance."
 category: payments
 tags: [stripe-billing-compliance, payments, russian]
 models: [sonnet, opus]

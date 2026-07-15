@@ -1,6 +1,6 @@
 ---
 name: erlang-async
-description: Async with Erlang. async operations.
+description: "Async with Erlang. async operations."
 category: backend
 tags: [erlang, async, backend, backend]
 models: [gpt-4, claude-3]

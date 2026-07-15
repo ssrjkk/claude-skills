@@ -1,6 +1,6 @@
 ---
 name: ubuntu-packages
-description: Packages with Ubuntu. package management.
+description: "Packages with Ubuntu. package management."
 category: os-admin
 tags: [ubuntu-packages, os-admin, russian]
 models: [sonnet, opus]

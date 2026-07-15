@@ -1,6 +1,6 @@
 ---
 name: gcp-gke-guides
-description: Guides for Gcp-Gke: how-to guides
+description: "Guides for Gcp-Gke: how-to guides"
 category: cloud
 tags: [gcp-gke, guides, cloud]
 models: [sonnet, opus]

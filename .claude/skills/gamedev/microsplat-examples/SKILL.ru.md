@@ -1,6 +1,6 @@
 ---
 name: microsplat-examples
-description: Examples for Microsplat: practical examples
+description: "Examples for Microsplat: practical examples"
 category: gamedev
 tags: [microsplat-examples, gamedev, russian]
 models: [sonnet, opus]

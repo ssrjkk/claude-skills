@@ -1,6 +1,6 @@
 ---
 name: redis-workflow
-description: Workflow for Redis: workflow optimization
+description: "Workflow for Redis: workflow optimization"
 category: backend
 tags: [redis-workflow, backend, russian]
 models: [sonnet, opus]

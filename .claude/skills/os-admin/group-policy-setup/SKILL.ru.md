@@ -1,6 +1,6 @@
 ---
 name: group-policy-setup
-description: Setup with Group Policy. installation.
+description: "Setup with Group Policy. installation."
 category: os-admin
 tags: [group-policy-setup, os-admin, russian]
 models: [sonnet, opus]

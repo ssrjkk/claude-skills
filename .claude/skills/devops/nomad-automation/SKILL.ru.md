@@ -1,6 +1,6 @@
 ---
 name: nomad-automation
-description: Automation for Nomad: automation and scripting
+description: "Automation for Nomad: automation and scripting"
 category: devops
 tags: [nomad-automation, devops, russian]
 models: [sonnet, opus]

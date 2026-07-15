@@ -1,6 +1,6 @@
 ---
 name: http-monitoring
-description: Monitoring with HTTP. monitoring.
+description: "Monitoring with HTTP. monitoring."
 category: networking
 tags: [http, monitoring, networking, networking]
 models: [gpt-4, claude-3]

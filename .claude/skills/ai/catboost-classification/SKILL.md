@@ -1,6 +1,6 @@
 ---
 name: catboost-classification
-description: Classification with Catboost. building classifiers.
+description: "Classification with Catboost. building classifiers."
 category: ai
 tags: [catboost, classification, ai, ml]
 models: [gpt-4, claude-3]

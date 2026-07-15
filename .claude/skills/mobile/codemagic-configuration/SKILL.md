@@ -1,6 +1,6 @@
 ---
 name: codemagic-configuration
-description: Configuration for Codemagic: configuration and setup
+description: "Configuration for Codemagic: configuration and setup"
 category: mobile
 tags: [codemagic, configuration, mobile]
 models: [sonnet, opus]

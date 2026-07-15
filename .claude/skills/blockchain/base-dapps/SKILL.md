@@ -1,6 +1,6 @@
 ---
 name: base-dapps
-description: DApps with Base. decentralized apps.
+description: "DApps with Base. decentralized apps."
 category: blockchain
 tags: [base, dapps, blockchain, blockchain]
 models: [gpt-4, claude-3]

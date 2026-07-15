@@ -1,6 +1,6 @@
 ---
 name: tcp-ip-design
-description: Design with TCP/IP. network design.
+description: "Design with TCP/IP. network design."
 category: networking
 tags: [tcp-ip-design, networking, russian]
 models: [sonnet, opus]

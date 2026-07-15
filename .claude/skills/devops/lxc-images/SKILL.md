@@ -1,6 +1,6 @@
 ---
 name: lxc-images
-description: Images with LXC. building images.
+description: "Images with LXC. building images."
 category: devops
 tags: [lxc, images, devops, container]
 models: [gpt-4, claude-3]

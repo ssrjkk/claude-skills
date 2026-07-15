@@ -1,6 +1,6 @@
 ---
 name: vegeta-reports
-description: Reports with Vegeta. report generation.
+description: "Reports with Vegeta. report generation."
 category: qa
 tags: [vegeta-reports, qa, russian]
 models: [sonnet, opus]

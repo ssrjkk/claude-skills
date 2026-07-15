@@ -1,6 +1,6 @@
 ---
 name: inferno-performance
-description: Performance with Inferno. optimization.
+description: "Performance with Inferno. optimization."
 category: frontend
 tags: [inferno, performance, frontend, frontend]
 models: [gpt-4, claude-3]

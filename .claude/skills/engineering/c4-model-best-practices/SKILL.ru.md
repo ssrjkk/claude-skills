@@ -1,6 +1,6 @@
 ---
 name: c4-model-best-practices
-description: Best Practices with C4 Model. practices.
+description: "Best Practices with C4 Model. practices."
 category: engineering
 tags: [c4-model-best-practices, engineering, russian]
 models: [sonnet, opus]

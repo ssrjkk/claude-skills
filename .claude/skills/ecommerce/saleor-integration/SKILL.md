@@ -1,6 +1,6 @@
 ---
 name: saleor-integration
-description: Integration with Saleor. frontend integration.
+description: "Integration with Saleor. frontend integration."
 category: ecommerce
 tags: [saleor, integration, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: commercetools-products
-description: Products with commercetools. product management.
+description: "Products with commercetools. product management."
 category: ecommerce
 tags: [commercetools-products, ecommerce, russian]
 models: [sonnet, opus]

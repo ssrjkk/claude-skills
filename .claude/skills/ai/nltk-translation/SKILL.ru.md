@@ -1,6 +1,6 @@
 ---
 name: nltk-translation
-description: Translation with Nltk. machine translation.
+description: "Translation with Nltk. machine translation."
 category: ai
 tags: [nltk-translation, ai, russian]
 models: [sonnet, opus]

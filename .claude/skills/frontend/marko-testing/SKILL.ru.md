@@ -1,6 +1,6 @@
 ---
 name: marko-testing
-description: Testing with Marko. component testing.
+description: "Testing with Marko. component testing."
 category: frontend
 tags: [marko-testing, frontend, russian]
 models: [sonnet, opus]

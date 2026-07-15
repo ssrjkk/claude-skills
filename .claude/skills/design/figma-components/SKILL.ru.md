@@ -1,6 +1,6 @@
 ---
 name: figma-components
-description: Components with Figma. components.
+description: "Components with Figma. components."
 category: design
 tags: [figma-components, design, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: arangodb-graph-performance
-description: Performance with ArangoDB Graph. optimization.
+description: "Performance with ArangoDB Graph. optimization."
 category: database
 tags: [arangodb-graph, performance, database, graph-database]
 models: [gpt-4, claude-3]

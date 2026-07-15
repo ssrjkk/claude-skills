@@ -1,6 +1,6 @@
 ---
 name: nightwatch-actions
-description: Actions with Nightwatch. user actions.
+description: "Actions with Nightwatch. user actions."
 category: qa
 tags: [nightwatch-actions, qa, russian]
 models: [sonnet, opus]

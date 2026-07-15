@@ -1,6 +1,6 @@
 ---
 name: deel-recruiting
-description: Recruiting with Deel. ATS.
+description: "Recruiting with Deel. ATS."
 category: hr
 tags: [deel-recruiting, hr, russian]
 models: [sonnet, opus]

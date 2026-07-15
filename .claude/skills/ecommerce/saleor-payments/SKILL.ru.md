@@ -1,6 +1,6 @@
 ---
 name: saleor-payments
-description: Payments with Saleor. payment integration.
+description: "Payments with Saleor. payment integration."
 category: ecommerce
 tags: [saleor-payments, ecommerce, russian]
 models: [sonnet, opus]

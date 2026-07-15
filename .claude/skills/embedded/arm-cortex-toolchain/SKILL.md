@@ -1,6 +1,6 @@
 ---
 name: arm-cortex-toolchain
-description: Toolchain with ARM Cortex-M. compiler.
+description: "Toolchain with ARM Cortex-M. compiler."
 category: embedded
 tags: [arm-cortex, toolchain, embedded, embedded-arch]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: varnish-monitoring
-description: Monitoring with Varnish. monitoring.
+description: "Monitoring with Varnish. monitoring."
 category: database
 tags: [varnish-monitoring, database, russian]
 models: [sonnet, opus]

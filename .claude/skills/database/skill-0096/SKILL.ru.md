@@ -1,6 +1,6 @@
 ---
 name: skill-0096
-description: Specialized skill #0096 for database development
+description: "Specialized skill #0096 for database development"
 category: database
 tags: [skill-0096, database, russian]
 models: [sonnet, opus]

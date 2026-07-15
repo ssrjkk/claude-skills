@@ -1,6 +1,6 @@
 ---
 name: microk8s-helm
-description: Helm with MicroK8s. package management.
+description: "Helm with MicroK8s. package management."
 category: devops
 tags: [microk8s, helm, devops, kubernetes]
 models: [gpt-4, claude-3]

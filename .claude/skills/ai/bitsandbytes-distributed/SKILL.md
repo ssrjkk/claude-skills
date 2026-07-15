@@ -1,6 +1,6 @@
 ---
 name: bitsandbytes-distributed
-description: Distributed with Bitsandbytes. distributed training.
+description: "Distributed with Bitsandbytes. distributed training."
 category: ai
 tags: [bitsandbytes, distributed, ai, deep-learning]
 models: [gpt-4, claude-3]

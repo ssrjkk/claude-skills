@@ -1,6 +1,6 @@
 ---
 name: swift-test-mocking
-description: Mocking with Swift Testing. mocks.
+description: "Mocking with Swift Testing. mocks."
 category: qa
 tags: [swift-test, mocking, qa, testing]
 models: [gpt-4, claude-3]

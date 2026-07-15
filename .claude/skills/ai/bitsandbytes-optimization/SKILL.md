@@ -1,6 +1,6 @@
 ---
 name: bitsandbytes-optimization
-description: Optimization with Bitsandbytes. model optimization.
+description: "Optimization with Bitsandbytes. model optimization."
 category: ai
 tags: [bitsandbytes, optimization, ai, deep-learning]
 models: [gpt-4, claude-3]

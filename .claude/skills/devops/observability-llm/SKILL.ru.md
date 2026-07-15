@@ -1,6 +1,6 @@
 ---
 name: observability-llm
-description: LLM observability with Langfuse/LangSmith
+description: "LLM observability with Langfuse/LangSmith"
 category: devops
 tags: [observability-llm, devops, russian]
 models: [sonnet, opus]

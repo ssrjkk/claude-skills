@@ -1,6 +1,6 @@
 ---
 name: couchbase-security
-description: Security with Couchbase. security.
+description: "Security with Couchbase. security."
 category: database
 tags: [couchbase, security, database, caching]
 models: [gpt-4, claude-3]

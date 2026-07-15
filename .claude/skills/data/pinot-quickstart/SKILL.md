@@ -1,6 +1,6 @@
 ---
 name: pinot-quickstart
-description: Quickstart for Pinot: quick start guide
+description: "Quickstart for Pinot: quick start guide"
 category: data
 tags: [pinot, quickstart, data]
 models: [sonnet, opus]

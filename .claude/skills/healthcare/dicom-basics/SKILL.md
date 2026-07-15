@@ -1,6 +1,6 @@
 ---
 name: dicom-basics
-description: Basics with DICOM. fundamentals.
+description: "Basics with DICOM. fundamentals."
 category: healthcare
 tags: [dicom, basics, healthcare, healthcare]
 models: [gpt-4, claude-3]

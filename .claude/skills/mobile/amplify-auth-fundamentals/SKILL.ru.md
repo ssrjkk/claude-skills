@@ -1,6 +1,6 @@
 ---
 name: amplify-auth-fundamentals
-description: Fundamentals for Amplify-Auth: core concepts
+description: "Fundamentals for Amplify-Auth: core concepts"
 category: mobile
 tags: [amplify-auth-fundamentals, mobile, russian]
 models: [sonnet, opus]

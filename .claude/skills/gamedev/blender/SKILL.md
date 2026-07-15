@@ -1,6 +1,6 @@
 ---
 name: blender
-description: Creates 3D models, animations, and scenes in Blender using Python scripting and the bpy module.
+description: "Creates 3D models, animations, and scenes in Blender using Python scripting and the bpy module."
 category: gamedev
 tags: [blender, 3d-modeling, animation, python, bpy]
 models: [sonnet, opus]

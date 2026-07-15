@@ -1,6 +1,6 @@
 ---
 name: envoy-automation
-description: Automation for Envoy: automation and scripting
+description: "Automation for Envoy: automation and scripting"
 category: devops
 tags: [envoy, automation, devops]
 models: [sonnet, opus]

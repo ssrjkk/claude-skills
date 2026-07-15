@@ -1,6 +1,6 @@
 ---
 name: hls-analytics
-description: Analytics with HLS. analytics.
+description: "Analytics with HLS. analytics."
 category: media
 tags: [hls-analytics, media, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: less-best-practices
-description: Best Practices with LeSS. practices.
+description: "Best Practices with LeSS. practices."
 category: product
 tags: [less, best-practices, product, methodology]
 models: [gpt-4, claude-3]

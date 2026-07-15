@@ -1,6 +1,6 @@
 ---
 name: combat-design-balancing
-description: Balancing with Combat Design. balancing.
+description: "Balancing with Combat Design. balancing."
 category: gamedev
 tags: [combat-design-balancing, gamedev, russian]
 models: [sonnet, opus]

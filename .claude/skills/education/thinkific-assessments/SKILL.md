@@ -1,6 +1,6 @@
 ---
 name: thinkific-assessments
-description: Assessments with Thinkific. quizzes.
+description: "Assessments with Thinkific. quizzes."
 category: education
 tags: [thinkific, assessments, education, education-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: docker-networking
-description: Networking with Docker. container networks.
+description: "Networking with Docker. container networks."
 category: devops
 tags: [docker-networking, devops, russian]
 models: [sonnet, opus]

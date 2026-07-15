@@ -1,6 +1,6 @@
 ---
 name: emotion-production
-description: Production for Emotion: production deployment
+description: "Production for Emotion: production deployment"
 category: frontend
 tags: [emotion-production, frontend, russian]
 models: [sonnet, opus]

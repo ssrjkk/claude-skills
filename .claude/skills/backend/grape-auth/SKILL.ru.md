@@ -1,6 +1,6 @@
 ---
 name: grape-auth
-description: Auth with Grape. authentication.
+description: "Auth with Grape. authentication."
 category: backend
 tags: [grape-auth, backend, russian]
 models: [sonnet, opus]

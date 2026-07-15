@@ -1,6 +1,6 @@
 ---
 name: rabbitmq-streams-guides
-description: Guides for Rabbitmq-Streams: how-to guides
+description: "Guides for Rabbitmq-Streams: how-to guides"
 category: data
 tags: [rabbitmq-streams, guides, data]
 models: [sonnet, opus]

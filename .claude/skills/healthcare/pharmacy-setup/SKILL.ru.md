@@ -1,6 +1,6 @@
 ---
 name: pharmacy-setup
-description: Setup with Pharmacy Systems. implementation.
+description: "Setup with Pharmacy Systems. implementation."
 category: healthcare
 tags: [pharmacy-setup, healthcare, russian]
 models: [sonnet, opus]

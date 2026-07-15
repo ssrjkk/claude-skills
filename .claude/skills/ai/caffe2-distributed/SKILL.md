@@ -1,6 +1,6 @@
 ---
 name: caffe2-distributed
-description: Distributed with Caffe2. distributed training.
+description: "Distributed with Caffe2. distributed training."
 category: ai
 tags: [caffe2, distributed, ai, deep-learning]
 models: [gpt-4, claude-3]

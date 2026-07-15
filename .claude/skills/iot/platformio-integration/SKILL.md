@@ -1,6 +1,6 @@
 ---
 name: platformio-integration
-description: Integration with PlatformIO. integrations.
+description: "Integration with PlatformIO. integrations."
 category: iot
 tags: [platformio, integration, iot, iot-platform]
 models: [gpt-4, claude-3]

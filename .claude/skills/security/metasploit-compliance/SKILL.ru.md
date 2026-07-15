@@ -1,6 +1,6 @@
 ---
 name: metasploit-compliance
-description: Compliance with Metasploit. compliance.
+description: "Compliance with Metasploit. compliance."
 category: security
 tags: [metasploit-compliance, security, russian]
 models: [sonnet, opus]

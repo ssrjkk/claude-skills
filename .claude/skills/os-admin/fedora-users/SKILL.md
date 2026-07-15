@@ -1,6 +1,6 @@
 ---
 name: fedora-users
-description: Users with Fedora. user management.
+description: "Users with Fedora. user management."
 category: os-admin
 tags: [fedora, users, os-admin, linux]
 models: [gpt-4, claude-3]

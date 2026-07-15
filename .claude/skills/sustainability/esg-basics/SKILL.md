@@ -1,6 +1,6 @@
 ---
 name: esg-basics
-description: Basics with ESG. fundamentals.
+description: "Basics with ESG. fundamentals."
 category: sustainability
 tags: [esg, basics, sustainability, sustainability]
 models: [gpt-4, claude-3]

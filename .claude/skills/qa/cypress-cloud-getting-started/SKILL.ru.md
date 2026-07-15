@@ -1,6 +1,6 @@
 ---
 name: cypress-cloud-getting-started
-description: Getting Started for Cypress-Cloud: initial setup and first steps
+description: "Getting Started for Cypress-Cloud: initial setup and first steps"
 category: qa
 tags: [cypress-cloud-getting-started, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: fastly-database
-description: Database with Fastly. managed databases.
+description: "Database with Fastly. managed databases."
 category: devops
 tags: [fastly, database, devops, cloud]
 models: [gpt-4, claude-3]

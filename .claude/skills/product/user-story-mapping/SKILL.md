@@ -1,6 +1,6 @@
 ---
 name: user-story-mapping
-description: Facilitates User Story Mapping sessions and requirement structuring. Use for product planning.
+description: "Facilitates User Story Mapping sessions and requirement structuring. Use for product planning."
 category: product
 tags: [user-story, agile, product, planning]
 models: [sonnet, opus]

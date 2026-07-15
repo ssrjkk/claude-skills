@@ -1,6 +1,6 @@
 ---
 name: jetpack-compose-automation
-description: Automation for Jetpack-Compose: automation and scripting
+description: "Automation for Jetpack-Compose: automation and scripting"
 category: mobile
 tags: [jetpack-compose-automation, mobile, russian]
 models: [sonnet, opus]

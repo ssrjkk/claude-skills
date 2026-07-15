@@ -1,6 +1,6 @@
 ---
 name: elastic-setup
-description: Setup with Elastic Stack. installation.
+description: "Setup with Elastic Stack. installation."
 category: devops
 tags: [elastic, setup, devops, monitoring]
 models: [gpt-4, claude-3]

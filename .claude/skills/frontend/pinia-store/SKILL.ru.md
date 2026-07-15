@@ -1,6 +1,6 @@
 ---
 name: pinia-store
-description: Store with Pinia. state store.
+description: "Store with Pinia. state store."
 category: frontend
 tags: [pinia-store, frontend, russian]
 models: [sonnet, opus]

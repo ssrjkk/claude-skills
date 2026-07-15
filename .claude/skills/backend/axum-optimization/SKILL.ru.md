@@ -1,6 +1,6 @@
 ---
 name: axum-optimization
-description: Optimization for Axum: performance tuning and optimization
+description: "Optimization for Axum: performance tuning and optimization"
 category: backend
 tags: [axum-optimization, backend, russian]
 models: [sonnet, opus]

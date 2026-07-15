@@ -1,6 +1,6 @@
 ---
 name: clsx-usage
-description: Usage for Clsx: usage guide
+description: "Usage for Clsx: usage guide"
 category: frontend
 tags: [clsx, usage, frontend]
 models: [sonnet, opus]

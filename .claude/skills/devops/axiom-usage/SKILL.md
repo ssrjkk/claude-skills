@@ -1,6 +1,6 @@
 ---
 name: axiom-usage
-description: Usage for Axiom: usage reference
+description: "Usage for Axiom: usage reference"
 category: devops
 tags: [axiom, usage, devops]
 models: [sonnet, opus]

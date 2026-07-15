@@ -1,6 +1,6 @@
 ---
 name: flask-optimization
-description: Optimization for Flask: performance tuning and optimization
+description: "Optimization for Flask: performance tuning and optimization"
 category: backend
 tags: [flask-optimization, backend, russian]
 models: [sonnet, opus]

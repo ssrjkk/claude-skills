@@ -1,6 +1,6 @@
 ---
 name: clearml-clustering
-description: Clustering with Clearml. grouping data.
+description: "Clustering with Clearml. grouping data."
 category: ai
 tags: [clearml-clustering, ai, russian]
 models: [sonnet, opus]

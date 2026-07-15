@@ -1,6 +1,6 @@
 ---
 name: avalanche-nft
-description: NFT with Avalanche. tokens.
+description: "NFT with Avalanche. tokens."
 category: blockchain
 tags: [avalanche, nft, blockchain, blockchain]
 models: [gpt-4, claude-3]

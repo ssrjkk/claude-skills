@@ -1,6 +1,6 @@
 ---
 name: flutter-debugging
-description: Debugging for Flutter: debugging and troubleshooting
+description: "Debugging for Flutter: debugging and troubleshooting"
 category: mobile
 tags: [flutter-debugging, mobile, russian]
 models: [sonnet, opus]

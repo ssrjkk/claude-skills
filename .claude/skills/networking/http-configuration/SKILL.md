@@ -1,6 +1,6 @@
 ---
 name: http-configuration
-description: Config with HTTP. setup.
+description: "Config with HTTP. setup."
 category: networking
 tags: [http, configuration, networking, networking]
 models: [gpt-4, claude-3]

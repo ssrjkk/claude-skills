@@ -1,6 +1,6 @@
 ---
 name: zuora-dunning
-description: Dunning with Zuora. retry logic.
+description: "Dunning with Zuora. retry logic."
 category: payments
 tags: [zuora-dunning, payments, russian]
 models: [sonnet, opus]

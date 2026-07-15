@@ -1,6 +1,6 @@
 ---
 name: doris-examples
-description: Examples for Doris: practical examples
+description: "Examples for Doris: practical examples"
 category: data
 tags: [doris, examples, data]
 models: [sonnet, opus]

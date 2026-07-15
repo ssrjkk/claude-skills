@@ -1,6 +1,6 @@
 ---
 name: appcenter-production
-description: Production for Appcenter: production deployment
+description: "Production for Appcenter: production deployment"
 category: mobile
 tags: [appcenter, production, mobile]
 models: [sonnet, opus]

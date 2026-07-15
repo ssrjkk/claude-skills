@@ -1,6 +1,6 @@
 ---
 name: stomp-scaling
-description: Scaling with STOMP. scaling.
+description: "Scaling with STOMP. scaling."
 category: communications
 tags: [stomp-scaling, communications, russian]
 models: [sonnet, opus]

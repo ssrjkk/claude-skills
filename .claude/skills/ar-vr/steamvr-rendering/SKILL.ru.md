@@ -1,6 +1,6 @@
 ---
 name: steamvr-rendering
-description: Rendering with SteamVR. stereoscopic.
+description: "Rendering with SteamVR. stereoscopic."
 category: ar-vr
 tags: [steamvr-rendering, ar-vr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: registry-iis
-description: IIS with Windows Registry. web server.
+description: "IIS with Windows Registry. web server."
 category: os-admin
 tags: [registry-iis, os-admin, russian]
 models: [sonnet, opus]

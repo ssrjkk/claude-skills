@@ -1,6 +1,6 @@
 ---
 name: adobe-xd-design-system
-description: Design Systems with Adobe XD. tokens.
+description: "Design Systems with Adobe XD. tokens."
 category: design
 tags: [adobe-xd, design-system, design, design]
 models: [gpt-4, claude-3]

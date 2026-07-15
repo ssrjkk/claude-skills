@@ -1,6 +1,6 @@
 ---
 name: consul-production
-description: Production for Consul: production deployment
+description: "Production for Consul: production deployment"
 category: devops
 tags: [consul, production, devops]
 models: [sonnet, opus]

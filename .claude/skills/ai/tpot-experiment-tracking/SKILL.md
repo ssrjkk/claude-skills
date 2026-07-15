@@ -1,6 +1,6 @@
 ---
 name: tpot-experiment-tracking
-description: Experiment Tracking with Tpot. tracking experiments.
+description: "Experiment Tracking with Tpot. tracking experiments."
 category: ai
 tags: [tpot, experiment-tracking, ai, ml]
 models: [gpt-4, claude-3]

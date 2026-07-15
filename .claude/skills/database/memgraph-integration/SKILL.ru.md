@@ -1,6 +1,6 @@
 ---
 name: memgraph-integration
-description: Integration for Memgraph: integration with other tools
+description: "Integration for Memgraph: integration with other tools"
 category: database
 tags: [memgraph-integration, database, russian]
 models: [sonnet, opus]

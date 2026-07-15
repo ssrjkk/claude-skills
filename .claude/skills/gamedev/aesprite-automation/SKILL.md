@@ -1,6 +1,6 @@
 ---
 name: aesprite-automation
-description: Automation for Aesprite: automation and scripting
+description: "Automation for Aesprite: automation and scripting"
 category: gamedev
 tags: [aesprite, automation, gamedev]
 models: [sonnet, opus]

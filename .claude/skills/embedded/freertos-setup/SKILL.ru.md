@@ -1,6 +1,6 @@
 ---
 name: freertos-setup
-description: Setup with FreeRTOS. setup.
+description: "Setup with FreeRTOS. setup."
 category: embedded
 tags: [freertos-setup, embedded, russian]
 models: [sonnet, opus]

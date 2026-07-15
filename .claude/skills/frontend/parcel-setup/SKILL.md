@@ -1,6 +1,6 @@
 ---
 name: parcel-setup
-description: Setup with Parcel. initial setup.
+description: "Setup with Parcel. initial setup."
 category: frontend
 tags: [parcel, setup, frontend, build-tool]
 models: [gpt-4, claude-3]

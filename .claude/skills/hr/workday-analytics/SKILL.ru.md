@@ -1,6 +1,6 @@
 ---
 name: workday-analytics
-description: Analytics with Workday. analytics.
+description: "Analytics with Workday. analytics."
 category: hr
 tags: [workday-analytics, hr, russian]
 models: [sonnet, opus]

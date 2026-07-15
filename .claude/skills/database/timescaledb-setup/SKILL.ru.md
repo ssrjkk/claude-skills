@@ -1,6 +1,6 @@
 ---
 name: timescaledb-setup
-description: Setup with TimescaleDB. installation.
+description: "Setup with TimescaleDB. installation."
 category: database
 tags: [timescaledb-setup, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cakephp-auth
-description: Auth with CakePHP. authentication.
+description: "Auth with CakePHP. authentication."
 category: backend
 tags: [cakephp-auth, backend, russian]
 models: [sonnet, opus]

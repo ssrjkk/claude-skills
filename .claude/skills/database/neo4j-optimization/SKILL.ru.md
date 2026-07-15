@@ -1,6 +1,6 @@
 ---
 name: neo4j-optimization
-description: Optimization with Neo4j. performance.
+description: "Optimization with Neo4j. performance."
 category: database
 tags: [neo4j-optimization, database, russian]
 models: [sonnet, opus]

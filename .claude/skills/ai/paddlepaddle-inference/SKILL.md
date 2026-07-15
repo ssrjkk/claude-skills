@@ -1,6 +1,6 @@
 ---
 name: paddlepaddle-inference
-description: Inference with Paddlepaddle. running models.
+description: "Inference with Paddlepaddle. running models."
 category: ai
 tags: [paddlepaddle, inference, ai, deep-learning]
 models: [gpt-4, claude-3]

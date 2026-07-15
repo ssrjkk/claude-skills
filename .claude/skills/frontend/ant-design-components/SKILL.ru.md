@@ -1,6 +1,6 @@
 ---
 name: ant-design-components
-description: Components with Ant Design. UI components.
+description: "Components with Ant Design. UI components."
 category: frontend
 tags: [ant-design-components, frontend, russian]
 models: [sonnet, opus]

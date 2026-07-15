@@ -1,6 +1,6 @@
 ---
 name: superagent-fundamentals
-description: Fundamentals for Superagent: core concepts
+description: "Fundamentals for Superagent: core concepts"
 category: qa
 tags: [superagent, fundamentals, qa]
 models: [sonnet, opus]

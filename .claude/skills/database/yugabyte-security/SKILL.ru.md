@@ -1,6 +1,6 @@
 ---
 name: yugabyte-security
-description: Security with YugabyteDB. access control.
+description: "Security with YugabyteDB. access control."
 category: database
 tags: [yugabyte-security, database, russian]
 models: [sonnet, opus]

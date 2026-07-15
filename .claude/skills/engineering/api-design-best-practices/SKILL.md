@@ -1,6 +1,6 @@
 ---
 name: api-design-best-practices
-description: Best Practices with API Design. tips.
+description: "Best Practices with API Design. tips."
 category: engineering
 tags: [api-design, best-practices, engineering, engineering]
 models: [gpt-4, claude-3]

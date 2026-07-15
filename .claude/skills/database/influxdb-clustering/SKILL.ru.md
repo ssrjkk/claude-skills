@@ -1,6 +1,6 @@
 ---
 name: influxdb-clustering
-description: Clustering with InfluxDB. clustering.
+description: "Clustering with InfluxDB. clustering."
 category: database
 tags: [influxdb-clustering, database, russian]
 models: [sonnet, opus]

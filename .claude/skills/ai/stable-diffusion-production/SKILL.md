@@ -1,6 +1,6 @@
 ---
 name: stable-diffusion-production
-description: Production for Stable-Diffusion: production deployment
+description: "Production for Stable-Diffusion: production deployment"
 category: ai
 tags: [stable-diffusion, production, ai]
 models: [sonnet, opus]

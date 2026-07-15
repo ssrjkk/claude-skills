@@ -1,6 +1,6 @@
 ---
 name: openxr-interaction
-description: Interaction with OpenXR. hand tracking.
+description: "Interaction with OpenXR. hand tracking."
 category: ar-vr
 tags: [openxr, interaction, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

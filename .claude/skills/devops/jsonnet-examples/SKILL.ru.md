@@ -1,6 +1,6 @@
 ---
 name: jsonnet-examples
-description: Examples for Jsonnet: practical examples
+description: "Examples for Jsonnet: practical examples"
 category: devops
 tags: [jsonnet-examples, devops, russian]
 models: [sonnet, opus]

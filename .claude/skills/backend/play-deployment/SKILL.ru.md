@@ -1,6 +1,6 @@
 ---
 name: play-deployment
-description: Deployment with Play. build.
+description: "Deployment with Play. build."
 category: backend
 tags: [play-deployment, backend, russian]
 models: [sonnet, opus]

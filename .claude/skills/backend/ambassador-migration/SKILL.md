@@ -1,6 +1,6 @@
 ---
 name: ambassador-migration
-description: Migration with Ambassador. adopting the pattern.
+description: "Migration with Ambassador. adopting the pattern."
 category: backend
 tags: [ambassador, migration, backend, architecture]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: usability-testing-reporting
-description: Reporting with Usability Testing. reports.
+description: "Reporting with Usability Testing. reports."
 category: design
 tags: [usability-testing-reporting, design, russian]
 models: [sonnet, opus]

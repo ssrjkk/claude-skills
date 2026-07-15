@@ -1,6 +1,6 @@
 ---
 name: shipstation-setup
-description: Setup with ShipStation. setup.
+description: "Setup with ShipStation. setup."
 category: supply-chain
 tags: [shipstation-setup, supply-chain, russian]
 models: [sonnet, opus]

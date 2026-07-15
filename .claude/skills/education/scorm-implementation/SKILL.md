@@ -1,6 +1,6 @@
 ---
 name: scorm-implementation
-description: Implementation with SCORM. implementation.
+description: "Implementation with SCORM. implementation."
 category: education
 tags: [scorm, implementation, education, education-standard]
 models: [gpt-4, claude-3]

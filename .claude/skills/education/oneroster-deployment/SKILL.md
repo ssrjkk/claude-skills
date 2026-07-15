@@ -1,6 +1,6 @@
 ---
 name: oneroster-deployment
-description: Deployment with OneRoster. deployment.
+description: "Deployment with OneRoster. deployment."
 category: education
 tags: [oneroster, deployment, education, education-standard]
 models: [gpt-4, claude-3]

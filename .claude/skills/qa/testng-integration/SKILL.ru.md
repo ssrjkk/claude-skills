@@ -1,6 +1,6 @@
 ---
 name: testng-integration
-description: Integration with TestNG. integration tests.
+description: "Integration with TestNG. integration tests."
 category: qa
 tags: [testng-integration, qa, russian]
 models: [sonnet, opus]

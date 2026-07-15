@@ -1,6 +1,6 @@
 ---
 name: spacy-pos-tagging
-description: POS Tagging with Spacy. POS tagging.
+description: "POS Tagging with Spacy. POS tagging."
 category: ai
 tags: [spacy, pos-tagging, ai, nlp]
 models: [gpt-4, claude-3]

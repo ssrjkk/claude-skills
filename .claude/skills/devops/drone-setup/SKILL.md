@@ -1,6 +1,6 @@
 ---
 name: drone-setup
-description: Setup with Drone CI. pipeline setup.
+description: "Setup with Drone CI. pipeline setup."
 category: devops
 tags: [drone, setup, devops, ci-cd]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: xtensa-dma
-description: DMA with Xtensa. DMA.
+description: "DMA with Xtensa. DMA."
 category: embedded
 tags: [xtensa, dma, embedded, embedded-arch]
 models: [gpt-4, claude-3]

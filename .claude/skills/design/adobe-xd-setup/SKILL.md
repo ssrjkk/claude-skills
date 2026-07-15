@@ -1,6 +1,6 @@
 ---
 name: adobe-xd-setup
-description: Setup with Adobe XD. workspace.
+description: "Setup with Adobe XD. workspace."
 category: design
 tags: [adobe-xd, setup, design, design]
 models: [gpt-4, claude-3]

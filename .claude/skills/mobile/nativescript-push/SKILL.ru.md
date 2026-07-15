@@ -1,6 +1,6 @@
 ---
 name: nativescript-push
-description: Push with NativeScript. push notifications.
+description: "Push with NativeScript. push notifications."
 category: mobile
 tags: [nativescript-push, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vegeta-metrics
-description: Metrics with Vegeta. performance metrics.
+description: "Metrics with Vegeta. performance metrics."
 category: qa
 tags: [vegeta, metrics, qa, performance-testing]
 models: [gpt-4, claude-3]

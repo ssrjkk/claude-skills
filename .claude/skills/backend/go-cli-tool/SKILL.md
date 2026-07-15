@@ -1,6 +1,6 @@
 ---
 name: go-cli-tool
-description: CLI Tool with Go. building CLI tools.
+description: "CLI Tool with Go. building CLI tools."
 category: backend
 tags: [go, cli-tool, backend, backend]
 models: [gpt-4, claude-3]

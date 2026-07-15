@@ -1,6 +1,6 @@
 ---
 name: angular-animations
-description: Animations with Angular. UI animations.
+description: "Animations with Angular. UI animations."
 category: frontend
 tags: [angular-animations, frontend, russian]
 models: [sonnet, opus]

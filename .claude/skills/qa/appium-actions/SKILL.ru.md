@@ -1,6 +1,6 @@
 ---
 name: appium-actions
-description: Actions with Appium. user actions.
+description: "Actions with Appium. user actions."
 category: qa
 tags: [appium-actions, qa, russian]
 models: [sonnet, opus]

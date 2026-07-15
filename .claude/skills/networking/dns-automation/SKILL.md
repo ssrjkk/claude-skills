@@ -1,6 +1,6 @@
 ---
 name: dns-automation
-description: Automation with DNS. network automation.
+description: "Automation with DNS. network automation."
 category: networking
 tags: [dns, automation, networking, networking]
 models: [gpt-4, claude-3]

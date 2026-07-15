@@ -1,6 +1,6 @@
 ---
 name: phaser-api
-description: API for Phaser: API development and integration
+description: "API for Phaser: API development and integration"
 category: gamedev
 tags: [phaser-api, gamedev, russian]
 models: [sonnet, opus]

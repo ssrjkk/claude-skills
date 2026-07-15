@@ -1,6 +1,6 @@
 ---
 name: slack-api-webhooks
-description: Webhooks with Slack API. webhooks.
+description: "Webhooks with Slack API. webhooks."
 category: communications
 tags: [slack-api-webhooks, communications, russian]
 models: [sonnet, opus]

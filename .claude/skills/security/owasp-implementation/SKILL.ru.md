@@ -1,6 +1,6 @@
 ---
 name: owasp-implementation
-description: Implementation with OWASP. implementation.
+description: "Implementation with OWASP. implementation."
 category: security
 tags: [owasp-implementation, security, russian]
 models: [sonnet, opus]

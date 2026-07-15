@@ -1,6 +1,6 @@
 ---
 name: srt-setup
-description: Setup with SRT. setup.
+description: "Setup with SRT. setup."
 category: media
 tags: [srt, setup, media, media-streaming]
 models: [gpt-4, claude-3]

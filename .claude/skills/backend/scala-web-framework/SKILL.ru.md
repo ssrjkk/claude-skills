@@ -1,6 +1,6 @@
 ---
 name: scala-web-framework
-description: Web Framework with Scala. web dev.
+description: "Web Framework with Scala. web dev."
 category: backend
 tags: [scala-web-framework, backend, russian]
 models: [sonnet, opus]

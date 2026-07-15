@@ -1,6 +1,6 @@
 ---
 name: ev-charging-optimization
-description: Optimization with EV Charging. optimization.
+description: "Optimization with EV Charging. optimization."
 category: energy
 tags: [ev-charging, optimization, energy, renewable-energy]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: valtio-persistence
-description: Persistence with Valtio. state persistence.
+description: "Persistence with Valtio. state persistence."
 category: frontend
 tags: [valtio-persistence, frontend, russian]
 models: [sonnet, opus]

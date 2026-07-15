@@ -1,6 +1,6 @@
 ---
 name: neptune-clustering
-description: Clustering with Neptune. grouping data.
+description: "Clustering with Neptune. grouping data."
 category: ai
 tags: [neptune, clustering, ai, ml]
 models: [gpt-4, claude-3]

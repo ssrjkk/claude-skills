@@ -1,6 +1,6 @@
 ---
 name: snort-best-practices
-description: Best Practices for Snort: best practices and patterns
+description: "Best Practices for Snort: best practices and patterns"
 category: security
 tags: [snort-best-practices, security, russian]
 models: [sonnet, opus]

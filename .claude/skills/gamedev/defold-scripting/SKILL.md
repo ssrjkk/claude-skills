@@ -1,6 +1,6 @@
 ---
 name: defold-scripting
-description: Scripting with Defold. game logic.
+description: "Scripting with Defold. game logic."
 category: gamedev
 tags: [defold, scripting, gamedev, game-engine]
 models: [gpt-4, claude-3]

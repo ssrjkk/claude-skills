@@ -1,6 +1,6 @@
 ---
 name: druid-visualization
-description: Visualization with Apache Druid. charting.
+description: "Visualization with Apache Druid. charting."
 category: database
 tags: [druid, visualization, database, time-series]
 models: [gpt-4, claude-3]

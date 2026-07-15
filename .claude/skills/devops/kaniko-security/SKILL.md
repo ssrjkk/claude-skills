@@ -1,6 +1,6 @@
 ---
 name: kaniko-security
-description: Security with Kaniko. container security.
+description: "Security with Kaniko. container security."
 category: devops
 tags: [kaniko, security, devops, container]
 models: [gpt-4, claude-3]

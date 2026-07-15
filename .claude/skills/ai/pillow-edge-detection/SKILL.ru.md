@@ -1,6 +1,6 @@
 ---
 name: pillow-edge-detection
-description: Edge Detection with Pillow. edge detection.
+description: "Edge Detection with Pillow. edge detection."
 category: ai
 tags: [pillow-edge-detection, ai, russian]
 models: [sonnet, opus]

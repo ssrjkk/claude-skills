@@ -1,6 +1,6 @@
 ---
 name: labs-compliance
-description: Compliance with LIS. compliance.
+description: "Compliance with LIS. compliance."
 category: healthcare
 tags: [labs, compliance, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

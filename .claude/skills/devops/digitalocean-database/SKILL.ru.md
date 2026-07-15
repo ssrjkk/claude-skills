@@ -1,6 +1,6 @@
 ---
 name: digitalocean-database
-description: Database with DigitalOcean. managed databases.
+description: "Database with DigitalOcean. managed databases."
 category: devops
 tags: [digitalocean-database, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: neo4j
-description: Models graph data with Neo4j and Cypher query language for connected data and relationship-rich domains.
+description: "Models graph data with Neo4j and Cypher query language for connected data and relationship-rich domains."
 category: database
 tags: [neo4j, database, russian]
 models: [sonnet, opus]

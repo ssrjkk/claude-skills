@@ -1,6 +1,6 @@
 ---
 name: github-actions-setup
-description: Setup with GitHub Actions. pipeline setup.
+description: "Setup with GitHub Actions. pipeline setup."
 category: devops
 tags: [github-actions-setup, devops, russian]
 models: [sonnet, opus]

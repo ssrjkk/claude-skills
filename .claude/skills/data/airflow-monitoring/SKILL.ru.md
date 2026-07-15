@@ -1,6 +1,6 @@
 ---
 name: airflow-monitoring
-description: Monitoring with Airflow. monitoring.
+description: "Monitoring with Airflow. monitoring."
 category: data
 tags: [airflow-monitoring, data, russian]
 models: [sonnet, opus]

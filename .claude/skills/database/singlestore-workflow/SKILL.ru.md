@@ -1,6 +1,6 @@
 ---
 name: singlestore-workflow
-description: Workflow for Singlestore: workflow optimization
+description: "Workflow for Singlestore: workflow optimization"
 category: database
 tags: [singlestore-workflow, database, russian]
 models: [sonnet, opus]

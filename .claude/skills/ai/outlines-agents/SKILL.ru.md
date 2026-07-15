@@ -1,6 +1,6 @@
 ---
 name: outlines-agents
-description: Agents with Outlines. building agents.
+description: "Agents with Outlines. building agents."
 category: ai
 tags: [outlines-agents, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: pytest-debugging
-description: Debugging for Pytest: debugging and troubleshooting
+description: "Debugging for Pytest: debugging and troubleshooting"
 category: qa
 tags: [pytest, debugging, qa]
 models: [sonnet, opus]

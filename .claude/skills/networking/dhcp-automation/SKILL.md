@@ -1,6 +1,6 @@
 ---
 name: dhcp-automation
-description: Automation with DHCP. network automation.
+description: "Automation with DHCP. network automation."
 category: networking
 tags: [dhcp, automation, networking, networking]
 models: [gpt-4, claude-3]

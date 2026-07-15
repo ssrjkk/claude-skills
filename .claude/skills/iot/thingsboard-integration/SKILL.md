@@ -1,6 +1,6 @@
 ---
 name: thingsboard-integration
-description: Integration with ThingsBoard. integrations.
+description: "Integration with ThingsBoard. integrations."
 category: iot
 tags: [thingsboard, integration, iot, iot-platform]
 models: [gpt-4, claude-3]

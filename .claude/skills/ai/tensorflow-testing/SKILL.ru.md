@@ -1,6 +1,6 @@
 ---
 name: tensorflow-testing
-description: Testing for Tensorflow: testing and validation
+description: "Testing for Tensorflow: testing and validation"
 category: ai
 tags: [tensorflow-testing, ai, russian]
 models: [sonnet, opus]

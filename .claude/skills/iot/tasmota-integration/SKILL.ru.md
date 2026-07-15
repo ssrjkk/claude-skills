@@ -1,6 +1,6 @@
 ---
 name: tasmota-integration
-description: Integration with Tasmota. integrations.
+description: "Integration with Tasmota. integrations."
 category: iot
 tags: [tasmota-integration, iot, russian]
 models: [sonnet, opus]

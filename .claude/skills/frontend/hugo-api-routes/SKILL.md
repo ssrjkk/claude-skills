@@ -1,6 +1,6 @@
 ---
 name: hugo-api-routes
-description: API Routes with Hugo. API endpoints.
+description: "API Routes with Hugo. API endpoints."
 category: frontend
 tags: [hugo, api-routes, frontend, meta-framework]
 models: [gpt-4, claude-3]

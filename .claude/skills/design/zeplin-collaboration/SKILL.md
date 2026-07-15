@@ -1,6 +1,6 @@
 ---
 name: zeplin-collaboration
-description: Collaboration with Zeplin. collaboration.
+description: "Collaboration with Zeplin. collaboration."
 category: design
 tags: [zeplin, collaboration, design, design]
 models: [gpt-4, claude-3]

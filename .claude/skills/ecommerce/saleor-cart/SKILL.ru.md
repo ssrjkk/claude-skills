@@ -1,6 +1,6 @@
 ---
 name: saleor-cart
-description: Cart with Saleor. cart.
+description: "Cart with Saleor. cart."
 category: ecommerce
 tags: [saleor-cart, ecommerce, russian]
 models: [sonnet, opus]

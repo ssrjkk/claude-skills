@@ -1,6 +1,6 @@
 ---
 name: aws-security
-description: Security with AWS. cloud security.
+description: "Security with AWS. cloud security."
 category: devops
 tags: [aws, security, devops, cloud]
 models: [gpt-4, claude-3]

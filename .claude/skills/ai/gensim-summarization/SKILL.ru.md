@@ -1,6 +1,6 @@
 ---
 name: gensim-summarization
-description: Summarization with Gensim. text summarization.
+description: "Summarization with Gensim. text summarization."
 category: ai
 tags: [gensim-summarization, ai, russian]
 models: [sonnet, opus]

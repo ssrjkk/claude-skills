@@ -1,6 +1,6 @@
 ---
 name: nmap-performance
-description: Performance with Nmap. benchmarking.
+description: "Performance with Nmap. benchmarking."
 category: networking
 tags: [nmap-performance, networking, russian]
 models: [sonnet, opus]

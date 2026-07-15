@@ -1,6 +1,6 @@
 ---
 name: gcp-gke-examples
-description: Examples for Gcp-Gke: practical examples
+description: "Examples for Gcp-Gke: practical examples"
 category: cloud
 tags: [gcp-gke-examples, cloud, russian]
 models: [sonnet, opus]

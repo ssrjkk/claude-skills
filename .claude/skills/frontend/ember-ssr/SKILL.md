@@ -1,6 +1,6 @@
 ---
 name: ember-ssr
-description: SSR with Ember. server rendering.
+description: "SSR with Ember. server rendering."
 category: frontend
 tags: [ember, ssr, frontend, frontend]
 models: [gpt-4, claude-3]

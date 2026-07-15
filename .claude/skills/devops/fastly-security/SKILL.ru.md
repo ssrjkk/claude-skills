@@ -1,6 +1,6 @@
 ---
 name: fastly-security
-description: Security with Fastly. cloud security.
+description: "Security with Fastly. cloud security."
 category: devops
 tags: [fastly-security, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cyberark-quickstart
-description: Quickstart for Cyberark: quick start guide
+description: "Quickstart for Cyberark: quick start guide"
 category: security
 tags: [cyberark-quickstart, security, russian]
 models: [sonnet, opus]

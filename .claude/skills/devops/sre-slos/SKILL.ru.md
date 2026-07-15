@@ -1,6 +1,6 @@
 ---
 name: sre-slos
-description: SRE SLI/SLO/SLA implementation
+description: "SRE SLI/SLO/SLA implementation"
 category: devops
 tags: [sre-slos, devops, russian]
 models: [sonnet, opus]

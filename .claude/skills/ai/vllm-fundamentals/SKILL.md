@@ -1,6 +1,6 @@
 ---
 name: vllm-fundamentals
-description: Fundamentals for Vllm: core concepts
+description: "Fundamentals for Vllm: core concepts"
 category: ai
 tags: [vllm, fundamentals, ai]
 models: [sonnet, opus]

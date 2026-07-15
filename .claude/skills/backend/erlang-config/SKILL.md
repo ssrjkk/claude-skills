@@ -1,6 +1,6 @@
 ---
 name: erlang-config
-description: Configuration with Erlang. config management.
+description: "Configuration with Erlang. config management."
 category: backend
 tags: [erlang, config, backend, backend]
 models: [gpt-4, claude-3]

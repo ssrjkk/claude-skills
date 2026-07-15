@@ -1,6 +1,6 @@
 ---
 name: dla
-description: Development with Dla: tools and best practices
+description: "Development with Dla: tools and best practices"
 category: frontend
 tags: [dla, frontend, development]
 models: [sonnet, opus]

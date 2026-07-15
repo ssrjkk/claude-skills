@@ -1,6 +1,6 @@
 ---
 name: medusa-shipping
-description: Shipping with Medusa. shipping.
+description: "Shipping with Medusa. shipping."
 category: ecommerce
 tags: [medusa, shipping, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

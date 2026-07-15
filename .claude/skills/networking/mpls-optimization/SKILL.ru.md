@@ -1,6 +1,6 @@
 ---
 name: mpls-optimization
-description: Optimization with MPLS. tuning.
+description: "Optimization with MPLS. tuning."
 category: networking
 tags: [mpls-optimization, networking, russian]
 models: [sonnet, opus]

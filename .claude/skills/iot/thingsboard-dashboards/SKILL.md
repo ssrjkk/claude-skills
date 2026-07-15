@@ -1,6 +1,6 @@
 ---
 name: thingsboard-dashboards
-description: Dashboards with ThingsBoard. dashboards.
+description: "Dashboards with ThingsBoard. dashboards."
 category: iot
 tags: [thingsboard, dashboards, iot, iot-platform]
 models: [gpt-4, claude-3]

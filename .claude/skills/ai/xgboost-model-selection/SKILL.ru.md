@@ -1,6 +1,6 @@
 ---
 name: xgboost-model-selection
-description: Model Selection with Xgboost. choosing models.
+description: "Model Selection with Xgboost. choosing models."
 category: ai
 tags: [xgboost-model-selection, ai, russian]
 models: [sonnet, opus]

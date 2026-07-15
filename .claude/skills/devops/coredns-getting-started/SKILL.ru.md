@@ -1,6 +1,6 @@
 ---
 name: coredns-getting-started
-description: Getting Started for Coredns: initial setup and first steps
+description: "Getting Started for Coredns: initial setup and first steps"
 category: devops
 tags: [coredns-getting-started, devops, russian]
 models: [sonnet, opus]

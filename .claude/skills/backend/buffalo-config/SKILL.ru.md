@@ -1,6 +1,6 @@
 ---
 name: buffalo-config
-description: Config with Buffalo. config management.
+description: "Config with Buffalo. config management."
 category: backend
 tags: [buffalo-config, backend, russian]
 models: [sonnet, opus]

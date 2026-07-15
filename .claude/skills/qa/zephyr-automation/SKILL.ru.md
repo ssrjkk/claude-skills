@@ -1,6 +1,6 @@
 ---
 name: zephyr-automation
-description: Automation for Zephyr: automation and scripting
+description: "Automation for Zephyr: automation and scripting"
 category: qa
 tags: [zephyr-automation, qa, russian]
 models: [sonnet, opus]

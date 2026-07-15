@@ -1,6 +1,6 @@
 ---
 name: trivy-optimization
-description: Optimization for Trivy: performance tuning and optimization
+description: "Optimization for Trivy: performance tuning and optimization"
 category: security
 tags: [trivy, optimization, security]
 models: [sonnet, opus]

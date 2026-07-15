@@ -1,6 +1,6 @@
 ---
 name: preact-animations
-description: Animations with Preact. UI animations.
+description: "Animations with Preact. UI animations."
 category: frontend
 tags: [preact, animations, frontend, frontend]
 models: [gpt-4, claude-3]

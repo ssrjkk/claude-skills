@@ -1,6 +1,6 @@
 ---
 name: prometheus-tsdb-ingestion
-description: Ingestion with Prometheus TSDB. data ingestion.
+description: "Ingestion with Prometheus TSDB. data ingestion."
 category: database
 tags: [prometheus-tsdb-ingestion, database, russian]
 models: [sonnet, opus]

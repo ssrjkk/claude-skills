@@ -1,6 +1,6 @@
 ---
 name: manhattan-setup
-description: Setup with Manhattan Associates. setup.
+description: "Setup with Manhattan Associates. setup."
 category: supply-chain
 tags: [manhattan, setup, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

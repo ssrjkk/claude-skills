@@ -1,6 +1,6 @@
 ---
 name: teller-security
-description: Security with Teller. security.
+description: "Security with Teller. security."
 category: finance
 tags: [teller, security, finance, fintech]
 models: [gpt-4, claude-3]

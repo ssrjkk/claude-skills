@@ -1,6 +1,6 @@
 ---
 name: open-world-player-feedback
-description: Feedback with Open World Design. player feedback.
+description: "Feedback with Open World Design. player feedback."
 category: gamedev
 tags: [open-world, player-feedback, gamedev, game-design]
 models: [gpt-4, claude-3]

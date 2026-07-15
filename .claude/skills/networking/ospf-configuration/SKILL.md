@@ -1,6 +1,6 @@
 ---
 name: ospf-configuration
-description: Config with OSPF. setup.
+description: "Config with OSPF. setup."
 category: networking
 tags: [ospf, configuration, networking, networking]
 models: [gpt-4, claude-3]

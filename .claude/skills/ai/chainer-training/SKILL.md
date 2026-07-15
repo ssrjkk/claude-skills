@@ -1,6 +1,6 @@
 ---
 name: chainer-training
-description: Training with Chainer. training models.
+description: "Training with Chainer. training models."
 category: ai
 tags: [chainer, training, ai, deep-learning]
 models: [gpt-4, claude-3]

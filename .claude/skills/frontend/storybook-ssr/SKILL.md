@@ -1,6 +1,6 @@
 ---
 name: storybook-ssr
-description: SSR with Storybook. server rendering.
+description: "SSR with Storybook. server rendering."
 category: frontend
 tags: [storybook, ssr, frontend, meta-framework]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: delta-lake-production
-description: Production for Delta-Lake: production deployment
+description: "Production for Delta-Lake: production deployment"
 category: data
 tags: [delta-lake, production, data]
 models: [sonnet, opus]

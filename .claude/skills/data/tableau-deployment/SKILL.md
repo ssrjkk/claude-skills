@@ -1,6 +1,6 @@
 ---
 name: tableau-deployment
-description: Deployment for Tableau: deployment and release
+description: "Deployment for Tableau: deployment and release"
 category: data
 tags: [tableau, deployment, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: zap-automation
-description: Automation with ZAP. automation.
+description: "Automation with ZAP. automation."
 category: security
 tags: [zap-automation, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cypress-api
-description: API for Cypress: API development and integration
+description: "API for Cypress: API development and integration"
 category: qa
 tags: [cypress, api, qa]
 models: [sonnet, opus]

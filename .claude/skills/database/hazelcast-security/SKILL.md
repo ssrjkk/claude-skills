@@ -1,6 +1,6 @@
 ---
 name: hazelcast-security
-description: Security with Hazelcast. security.
+description: "Security with Hazelcast. security."
 category: database
 tags: [hazelcast, security, database, caching]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: php-config
-description: Configuration with Php. config management.
+description: "Configuration with Php. config management."
 category: backend
 tags: [php, config, backend, backend]
 models: [gpt-4, claude-3]

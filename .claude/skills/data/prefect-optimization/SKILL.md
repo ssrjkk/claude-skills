@@ -1,6 +1,6 @@
 ---
 name: prefect-optimization
-description: Optimization with Prefect. performance.
+description: "Optimization with Prefect. performance."
 category: data
 tags: [prefect, optimization, data, data-engineering]
 models: [gpt-4, claude-3]

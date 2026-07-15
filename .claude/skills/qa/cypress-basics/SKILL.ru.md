@@ -1,6 +1,6 @@
 ---
 name: cypress-basics
-description: Basics for Cypress: fundamentals and core concepts
+description: "Basics for Cypress: fundamentals and core concepts"
 category: qa
 tags: [cypress-basics, qa, russian]
 models: [sonnet, opus]

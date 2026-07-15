@@ -1,6 +1,6 @@
 ---
 name: axum-basics
-description: Basics for Axum: fundamentals and core concepts
+description: "Basics for Axum: fundamentals and core concepts"
 category: backend
 tags: [axum, basics, backend]
 models: [sonnet, opus]

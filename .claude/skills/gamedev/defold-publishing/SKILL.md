@@ -1,6 +1,6 @@
 ---
 name: defold-publishing
-description: Publishing with Defold. publishing.
+description: "Publishing with Defold. publishing."
 category: gamedev
 tags: [defold, publishing, gamedev, game-engine]
 models: [gpt-4, claude-3]

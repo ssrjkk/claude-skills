@@ -1,6 +1,6 @@
 ---
 name: gradio
-description: Creates ML demo interfaces with Gradio, supporting images, text, audio, and video inputs/outputs.
+description: "Creates ML demo interfaces with Gradio, supporting images, text, audio, and video inputs/outputs."
 category: ai
 tags: [gradio, python, ml, demo, interactive]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kotlin-android-performance
-description: Performance with Kotlin Android. optimization.
+description: "Performance with Kotlin Android. optimization."
 category: mobile
 tags: [kotlin-android-performance, mobile, russian]
 models: [sonnet, opus]

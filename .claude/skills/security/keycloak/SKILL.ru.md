@@ -1,6 +1,6 @@
 ---
 name: keycloak
-description: Configures Keycloak for identity and access management, including SSO, OAuth2, SAML, and user federation.
+description: "Configures Keycloak for identity and access management, including SSO, OAuth2, SAML, and user federation."
 category: security
 tags: [keycloak, security, russian]
 models: [sonnet, opus]

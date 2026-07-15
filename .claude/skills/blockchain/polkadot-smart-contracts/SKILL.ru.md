@@ -1,6 +1,6 @@
 ---
 name: polkadot-smart-contracts
-description: Smart Contracts with Polkadot. contracts.
+description: "Smart Contracts with Polkadot. contracts."
 category: blockchain
 tags: [polkadot-smart-contracts, blockchain, russian]
 models: [sonnet, opus]

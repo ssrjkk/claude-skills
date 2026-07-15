@@ -1,6 +1,6 @@
 ---
 name: jaeger-tracing
-description: Tracing with Jaeger. distributed tracing.
+description: "Tracing with Jaeger. distributed tracing."
 category: devops
 tags: [jaeger, tracing, devops, monitoring]
 models: [gpt-4, claude-3]

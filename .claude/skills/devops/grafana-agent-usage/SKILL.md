@@ -1,6 +1,6 @@
 ---
 name: grafana-agent-usage
-description: Usage for Grafana-Agent: usage reference
+description: "Usage for Grafana-Agent: usage reference"
 category: devops
 tags: [grafana-agent, usage, devops]
 models: [sonnet, opus]

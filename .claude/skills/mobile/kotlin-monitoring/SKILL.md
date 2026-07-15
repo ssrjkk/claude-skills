@@ -1,6 +1,6 @@
 ---
 name: kotlin-monitoring
-description: Monitoring for Kotlin: monitoring and observability
+description: "Monitoring for Kotlin: monitoring and observability"
 category: mobile
 tags: [kotlin, monitoring, mobile]
 models: [sonnet, opus]

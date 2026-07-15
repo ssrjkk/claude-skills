@@ -1,6 +1,6 @@
 ---
 name: sap-integration
-description: Integration with SAP SCM. integration.
+description: "Integration with SAP SCM. integration."
 category: supply-chain
 tags: [sap-integration, supply-chain, russian]
 models: [sonnet, opus]

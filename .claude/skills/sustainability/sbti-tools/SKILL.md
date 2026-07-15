@@ -1,6 +1,6 @@
 ---
 name: sbti-tools
-description: Tools with SBTi. tools.
+description: "Tools with SBTi. tools."
 category: sustainability
 tags: [sbti, tools, sustainability, sustainability]
 models: [gpt-4, claude-3]

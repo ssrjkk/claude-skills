@@ -1,6 +1,6 @@
 ---
 name: zeroheight-prototyping
-description: Prototyping with Zeroheight. prototypes.
+description: "Prototyping with Zeroheight. prototypes."
 category: design
 tags: [zeroheight-prototyping, design, russian]
 models: [sonnet, opus]

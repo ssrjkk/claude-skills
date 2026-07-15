@@ -1,6 +1,6 @@
 ---
 name: oxlint-hmr
-description: HMR with Oxlint. hot reload.
+description: "HMR with Oxlint. hot reload."
 category: frontend
 tags: [oxlint, hmr, frontend, build-tool]
 models: [gpt-4, claude-3]

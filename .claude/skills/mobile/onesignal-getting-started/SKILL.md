@@ -1,6 +1,6 @@
 ---
 name: onesignal-getting-started
-description: Getting Started for Onesignal: initial setup and first steps
+description: "Getting Started for Onesignal: initial setup and first steps"
 category: mobile
 tags: [onesignal, getting-started, mobile]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sinatra-database
-description: Database with Sinatra. ActiveRecord.
+description: "Database with Sinatra. ActiveRecord."
 category: backend
 tags: [sinatra, database, backend, backend]
 models: [gpt-4, claude-3]

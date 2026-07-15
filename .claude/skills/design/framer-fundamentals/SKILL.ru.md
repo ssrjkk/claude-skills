@@ -1,6 +1,6 @@
 ---
 name: framer-fundamentals
-description: Fundamentals for Framer: core concepts
+description: "Fundamentals for Framer: core concepts"
 category: design
 tags: [framer-fundamentals, design, russian]
 models: [sonnet, opus]

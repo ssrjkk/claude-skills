@@ -1,6 +1,6 @@
 ---
 name: kotlin-cli-tool
-description: CLI Tool with Kotlin. building CLI tools.
+description: "CLI Tool with Kotlin. building CLI tools."
 category: backend
 tags: [kotlin, cli-tool, backend, backend]
 models: [gpt-4, claude-3]

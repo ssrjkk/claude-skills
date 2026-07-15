@@ -1,6 +1,6 @@
 ---
 name: express-security
-description: Security for Express: security best practices
+description: "Security for Express: security best practices"
 category: backend
 tags: [express, security, backend]
 models: [sonnet, opus]

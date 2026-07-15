@@ -1,6 +1,6 @@
 ---
 name: coap-basics
-description: Basics with CoAP. fundamentals.
+description: "Basics with CoAP. fundamentals."
 category: communications
 tags: [coap-basics, communications, russian]
 models: [sonnet, opus]

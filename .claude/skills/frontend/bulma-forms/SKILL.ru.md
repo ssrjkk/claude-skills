@@ -1,6 +1,6 @@
 ---
 name: bulma-forms
-description: Forms with Bulma. form styling.
+description: "Forms with Bulma. form styling."
 category: frontend
 tags: [bulma-forms, frontend, russian]
 models: [sonnet, opus]

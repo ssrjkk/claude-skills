@@ -1,6 +1,6 @@
 ---
 name: janusgraph-security
-description: Security with JanusGraph. security.
+description: "Security with JanusGraph. security."
 category: database
 tags: [janusgraph-security, database, russian]
 models: [sonnet, opus]

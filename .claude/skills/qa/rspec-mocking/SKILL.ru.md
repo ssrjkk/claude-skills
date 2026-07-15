@@ -1,6 +1,6 @@
 ---
 name: rspec-mocking
-description: Mocking with RSpec. mocks.
+description: "Mocking with RSpec. mocks."
 category: qa
 tags: [rspec-mocking, qa, russian]
 models: [sonnet, opus]

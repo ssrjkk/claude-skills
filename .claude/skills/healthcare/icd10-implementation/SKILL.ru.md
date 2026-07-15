@@ -1,6 +1,6 @@
 ---
 name: icd10-implementation
-description: Implementation with ICD-10. integration.
+description: "Implementation with ICD-10. integration."
 category: healthcare
 tags: [icd10-implementation, healthcare, russian]
 models: [sonnet, opus]

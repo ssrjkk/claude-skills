@@ -1,6 +1,6 @@
 ---
 name: sass-config
-description: Config with Sass. configuration.
+description: "Config with Sass. configuration."
 category: frontend
 tags: [sass-config, frontend, russian]
 models: [sonnet, opus]

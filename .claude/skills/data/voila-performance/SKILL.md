@@ -1,6 +1,6 @@
 ---
 name: voila-performance
-description: Performance with Voila. performance.
+description: "Performance with Voila. performance."
 category: data
 tags: [voila, performance, data, data-apps]
 models: [gpt-4, claude-3]

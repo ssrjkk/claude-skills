@@ -1,6 +1,6 @@
 ---
 name: polars-deployment
-description: Deployment with Polars. app deployment.
+description: "Deployment with Polars. app deployment."
 category: data
 tags: [polars-deployment, data, russian]
 models: [sonnet, opus]

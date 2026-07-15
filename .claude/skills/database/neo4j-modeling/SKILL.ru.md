@@ -1,6 +1,6 @@
 ---
 name: neo4j-modeling
-description: Modeling with Neo4j. graph modeling.
+description: "Modeling with Neo4j. graph modeling."
 category: database
 tags: [neo4j-modeling, database, russian]
 models: [sonnet, opus]

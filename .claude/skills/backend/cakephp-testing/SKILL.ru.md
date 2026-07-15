@@ -1,6 +1,6 @@
 ---
 name: cakephp-testing
-description: Testing with CakePHP. PHPUnit.
+description: "Testing with CakePHP. PHPUnit."
 category: backend
 tags: [cakephp-testing, backend, russian]
 models: [sonnet, opus]

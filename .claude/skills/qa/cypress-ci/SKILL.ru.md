@@ -1,6 +1,6 @@
 ---
 name: cypress-ci
-description: CI with Cypress. CI integration.
+description: "CI with Cypress. CI integration."
 category: qa
 tags: [cypress-ci, qa, russian]
 models: [sonnet, opus]

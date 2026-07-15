@@ -1,6 +1,6 @@
 ---
 name: calico-integration
-description: Integration for Calico: integration with other tools
+description: "Integration for Calico: integration with other tools"
 category: devops
 tags: [calico-integration, devops, russian]
 models: [sonnet, opus]

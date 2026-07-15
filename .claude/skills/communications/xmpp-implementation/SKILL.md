@@ -1,6 +1,6 @@
 ---
 name: xmpp-implementation
-description: Implementation with XMPP. implementation.
+description: "Implementation with XMPP. implementation."
 category: communications
 tags: [xmpp, implementation, communications, communication-protocol]
 models: [gpt-4, claude-3]

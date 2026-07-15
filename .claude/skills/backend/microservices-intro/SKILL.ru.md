@@ -1,6 +1,6 @@
 ---
 name: microservices-intro
-description: Introduction with Microservices. understanding the pattern.
+description: "Introduction with Microservices. understanding the pattern."
 category: backend
 tags: [microservices-intro, backend, russian]
 models: [sonnet, opus]

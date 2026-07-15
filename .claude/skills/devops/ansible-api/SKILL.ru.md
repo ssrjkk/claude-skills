@@ -1,6 +1,6 @@
 ---
 name: ansible-api
-description: API for Ansible: API development and integration
+description: "API for Ansible: API development and integration"
 category: devops
 tags: [ansible-api, devops, russian]
 models: [sonnet, opus]

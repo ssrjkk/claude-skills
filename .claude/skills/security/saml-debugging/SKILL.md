@@ -1,6 +1,6 @@
 ---
 name: saml-debugging
-description: Debugging for Saml: debugging and troubleshooting
+description: "Debugging for Saml: debugging and troubleshooting"
 category: security
 tags: [saml, debugging, security]
 models: [sonnet, opus]

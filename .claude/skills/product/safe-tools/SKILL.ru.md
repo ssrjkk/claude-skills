@@ -1,6 +1,6 @@
 ---
 name: safe-tools
-description: Tools with SAFe. tooling.
+description: "Tools with SAFe. tooling."
 category: product
 tags: [safe-tools, product, russian]
 models: [sonnet, opus]

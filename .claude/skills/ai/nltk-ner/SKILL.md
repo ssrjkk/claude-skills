@@ -1,6 +1,6 @@
 ---
 name: nltk-ner
-description: NER with Nltk. named entity recognition.
+description: "NER with Nltk. named entity recognition."
 category: ai
 tags: [nltk, ner, ai, nlp]
 models: [gpt-4, claude-3]

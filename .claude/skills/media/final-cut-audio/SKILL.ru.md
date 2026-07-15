@@ -1,6 +1,6 @@
 ---
 name: final-cut-audio
-description: Audio with Final Cut Pro. audio editing.
+description: "Audio with Final Cut Pro. audio editing."
 category: media
 tags: [final-cut-audio, media, russian]
 models: [sonnet, opus]

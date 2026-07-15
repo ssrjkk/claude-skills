@@ -1,6 +1,6 @@
 ---
 name: webrtc-streaming-analytics
-description: Analytics with WebRTC Streaming. analytics.
+description: "Analytics with WebRTC Streaming. analytics."
 category: media
 tags: [webrtc-streaming-analytics, media, russian]
 models: [sonnet, opus]

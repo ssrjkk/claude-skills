@@ -1,6 +1,6 @@
 ---
 name: conjur-guides
-description: Guides for Conjur: how-to guides
+description: "Guides for Conjur: how-to guides"
 category: security
 tags: [conjur-guides, security, russian]
 models: [sonnet, opus]

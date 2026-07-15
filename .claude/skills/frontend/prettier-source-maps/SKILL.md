@@ -1,6 +1,6 @@
 ---
 name: prettier-source-maps
-description: Source Maps with Prettier. debugging.
+description: "Source Maps with Prettier. debugging."
 category: frontend
 tags: [prettier, source-maps, frontend, build-tool]
 models: [gpt-4, claude-3]

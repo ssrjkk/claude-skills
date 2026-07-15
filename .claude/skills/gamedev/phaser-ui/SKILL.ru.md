@@ -1,6 +1,6 @@
 ---
 name: phaser-ui
-description: UI with Phaser. game UI.
+description: "UI with Phaser. game UI."
 category: gamedev
 tags: [phaser-ui, gamedev, russian]
 models: [sonnet, opus]

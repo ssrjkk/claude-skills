@@ -1,6 +1,6 @@
 ---
 name: dnp3-implementation
-description: Implementation with DNP3. deployment.
+description: "Implementation with DNP3. deployment."
 category: energy
 tags: [dnp3-implementation, energy, russian]
 models: [sonnet, opus]

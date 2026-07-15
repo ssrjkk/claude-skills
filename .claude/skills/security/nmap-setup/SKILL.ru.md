@@ -1,6 +1,6 @@
 ---
 name: nmap-setup
-description: Setup with Nmap. installation.
+description: "Setup with Nmap. installation."
 category: security
 tags: [nmap-setup, security, russian]
 models: [sonnet, opus]

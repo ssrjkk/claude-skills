@@ -1,6 +1,6 @@
 ---
 name: john-reporting
-description: Reporting with John the Ripper. reports.
+description: "Reporting with John the Ripper. reports."
 category: security
 tags: [john-reporting, security, russian]
 models: [sonnet, opus]

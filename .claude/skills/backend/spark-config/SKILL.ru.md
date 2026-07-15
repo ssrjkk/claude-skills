@@ -1,6 +1,6 @@
 ---
 name: spark-config
-description: Config with Spark. configuration.
+description: "Config with Spark. configuration."
 category: backend
 tags: [spark-config, backend, russian]
 models: [sonnet, opus]

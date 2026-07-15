@@ -1,6 +1,6 @@
 ---
 name: cloudformation-state
-description: State with CloudFormation. state management.
+description: "State with CloudFormation. state management."
 category: devops
 tags: [cloudformation-state, devops, russian]
 models: [sonnet, opus]

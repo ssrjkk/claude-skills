@@ -1,6 +1,6 @@
 ---
 name: phpunit-integration
-description: Integration with PHPUnit. integration tests.
+description: "Integration with PHPUnit. integration tests."
 category: qa
 tags: [phpunit, integration, qa, testing]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: transformers-distributed
-description: Distributed with Transformers. distributed training.
+description: "Distributed with Transformers. distributed training."
 category: ai
 tags: [transformers, distributed, ai, deep-learning]
 models: [gpt-4, claude-3]

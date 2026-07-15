@@ -1,6 +1,6 @@
 ---
 name: sqlmap-compliance
-description: Compliance with SQLmap. compliance.
+description: "Compliance with SQLmap. compliance."
 category: security
 tags: [sqlmap-compliance, security, russian]
 models: [sonnet, opus]

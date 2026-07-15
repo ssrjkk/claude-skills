@@ -1,6 +1,6 @@
 ---
 name: guidance-rag
-description: RAG with Guidance. building RAG systems.
+description: "RAG with Guidance. building RAG systems."
 category: ai
 tags: [guidance, rag, ai, llm]
 models: [gpt-4, claude-3]

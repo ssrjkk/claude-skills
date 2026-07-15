@@ -1,6 +1,6 @@
 ---
 name: twilio-video
-description: Video with Twilio. video calls.
+description: "Video with Twilio. video calls."
 category: communications
 tags: [twilio-video, communications, russian]
 models: [sonnet, opus]

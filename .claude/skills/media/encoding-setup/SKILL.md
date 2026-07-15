@@ -1,6 +1,6 @@
 ---
 name: encoding-setup
-description: Setup with Encoding. setup.
+description: "Setup with Encoding. setup."
 category: media
 tags: [encoding, setup, media, media-streaming]
 models: [gpt-4, claude-3]

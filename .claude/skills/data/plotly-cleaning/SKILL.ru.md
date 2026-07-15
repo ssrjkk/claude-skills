@@ -1,6 +1,6 @@
 ---
 name: plotly-cleaning
-description: Cleaning with Plotly. data cleaning.
+description: "Cleaning with Plotly. data cleaning."
 category: data
 tags: [plotly-cleaning, data, russian]
 models: [sonnet, opus]

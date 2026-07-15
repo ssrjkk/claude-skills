@@ -1,6 +1,6 @@
 ---
 name: construct-multiplayer
-description: Multiplayer with Construct. networking.
+description: "Multiplayer with Construct. networking."
 category: gamedev
 tags: [construct-multiplayer, gamedev, russian]
 models: [sonnet, opus]

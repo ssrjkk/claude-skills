@@ -1,6 +1,6 @@
 ---
 name: blender-getting-started
-description: Getting Started for Blender: initial setup and first steps
+description: "Getting Started for Blender: initial setup and first steps"
 category: gamedev
 tags: [blender, getting-started, gamedev]
 models: [sonnet, opus]

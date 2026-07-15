@@ -1,6 +1,6 @@
 ---
 name: unreal-rendering
-description: Rendering with Unreal Engine. graphics.
+description: "Rendering with Unreal Engine. graphics."
 category: gamedev
 tags: [unreal-rendering, gamedev, russian]
 models: [sonnet, opus]

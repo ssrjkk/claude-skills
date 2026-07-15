@@ -1,6 +1,6 @@
 ---
 name: metasploit-automation
-description: Automation with Metasploit. automation.
+description: "Automation with Metasploit. automation."
 category: security
 tags: [metasploit-automation, security, russian]
 models: [sonnet, opus]

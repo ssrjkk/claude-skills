@@ -1,6 +1,6 @@
 ---
 name: voila-charts
-description: Charts with Voila. charts.
+description: "Charts with Voila. charts."
 category: data
 tags: [voila-charts, data, russian]
 models: [sonnet, opus]

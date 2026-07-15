@@ -1,6 +1,6 @@
 ---
 name: solr-aggregations
-description: Aggregations with Solr. bucket aggs.
+description: "Aggregations with Solr. bucket aggs."
 category: database
 tags: [solr-aggregations, database, russian]
 models: [sonnet, opus]

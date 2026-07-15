@@ -1,6 +1,6 @@
 ---
 name: great-expectations-getting-started
-description: Getting Started for Great-Expectations: initial setup and first steps
+description: "Getting Started for Great-Expectations: initial setup and first steps"
 category: data
 tags: [great-expectations, getting-started, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kornia-face-detection
-description: Face Detection with Kornia. facial recognition.
+description: "Face Detection with Kornia. facial recognition."
 category: ai
 tags: [kornia-face-detection, ai, russian]
 models: [sonnet, opus]

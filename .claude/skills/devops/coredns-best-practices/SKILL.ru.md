@@ -1,6 +1,6 @@
 ---
 name: coredns-best-practices
-description: Best Practices for Coredns: best practices and patterns
+description: "Best Practices for Coredns: best practices and patterns"
 category: devops
 tags: [coredns-best-practices, devops, russian]
 models: [sonnet, opus]

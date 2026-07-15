@@ -1,6 +1,6 @@
 ---
 name: bamboohr-analytics
-description: Analytics with BambooHR. analytics.
+description: "Analytics with BambooHR. analytics."
 category: hr
 tags: [bamboohr-analytics, hr, russian]
 models: [sonnet, opus]

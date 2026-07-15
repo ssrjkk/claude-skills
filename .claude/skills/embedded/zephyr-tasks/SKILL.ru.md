@@ -1,6 +1,6 @@
 ---
 name: zephyr-tasks
-description: Tasks with Zephyr. task management.
+description: "Tasks with Zephyr. task management."
 category: embedded
 tags: [zephyr-tasks, embedded, russian]
 models: [sonnet, opus]

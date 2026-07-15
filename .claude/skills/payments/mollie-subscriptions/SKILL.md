@@ -1,6 +1,6 @@
 ---
 name: mollie-subscriptions
-description: Subscriptions with Mollie. recurring.
+description: "Subscriptions with Mollie. recurring."
 category: payments
 tags: [mollie, subscriptions, payments, payments]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: rollup-setup
-description: Setup with Rollup. initial setup.
+description: "Setup with Rollup. initial setup."
 category: frontend
 tags: [rollup, setup, frontend, build-tool]
 models: [gpt-4, claude-3]

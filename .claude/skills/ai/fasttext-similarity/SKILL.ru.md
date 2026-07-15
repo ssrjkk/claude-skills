@@ -1,6 +1,6 @@
 ---
 name: fasttext-similarity
-description: Similarity with Fasttext. text similarity.
+description: "Similarity with Fasttext. text similarity."
 category: ai
 tags: [fasttext-similarity, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kubernetes-configmap
-description: ConfigMap with Kubernetes. config management.
+description: "ConfigMap with Kubernetes. config management."
 category: devops
 tags: [kubernetes, configmap, devops, kubernetes]
 models: [gpt-4, claude-3]

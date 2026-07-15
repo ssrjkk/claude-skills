@@ -1,6 +1,6 @@
 ---
 name: livewire-usage
-description: Usage for Livewire: usage reference
+description: "Usage for Livewire: usage reference"
 category: frontend
 tags: [livewire-usage, frontend, russian]
 models: [sonnet, opus]

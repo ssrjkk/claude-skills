@@ -1,6 +1,6 @@
 ---
 name: minikube-ingress
-description: Ingress with Minikube. ingress controller.
+description: "Ingress with Minikube. ingress controller."
 category: devops
 tags: [minikube-ingress, devops, russian]
 models: [sonnet, opus]

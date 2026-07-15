@@ -1,6 +1,6 @@
 ---
 name: alpine-processes
-description: Processes with Alpine Linux. process management.
+description: "Processes with Alpine Linux. process management."
 category: os-admin
 tags: [alpine-processes, os-admin, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: aiohttp-deployment
-description: Deployment with aiohttp. production deploy.
+description: "Deployment with aiohttp. production deploy."
 category: backend
 tags: [aiohttp-deployment, backend, russian]
 models: [sonnet, opus]

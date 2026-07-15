@@ -1,6 +1,6 @@
 ---
 name: api-design-implementation
-description: Implementation with API Design. practice.
+description: "Implementation with API Design. practice."
 category: engineering
 tags: [api-design-implementation, engineering, russian]
 models: [sonnet, opus]

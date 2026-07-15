@@ -1,6 +1,6 @@
 ---
 name: rails-auth
-description: Auth with Rails. authentication.
+description: "Auth with Rails. authentication."
 category: backend
 tags: [rails-auth, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: xray-configuration
-description: Configuration for Xray: configuration and setup
+description: "Configuration for Xray: configuration and setup"
 category: qa
 tags: [xray-configuration, qa, russian]
 models: [sonnet, opus]

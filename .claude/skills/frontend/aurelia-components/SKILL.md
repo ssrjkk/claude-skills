@@ -1,6 +1,6 @@
 ---
 name: aurelia-components
-description: Components with Aurelia. building components.
+description: "Components with Aurelia. building components."
 category: frontend
 tags: [aurelia, components, frontend, frontend]
 models: [gpt-4, claude-3]

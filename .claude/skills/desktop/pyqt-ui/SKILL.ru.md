@@ -1,6 +1,6 @@
 ---
 name: pyqt-ui
-description: UI with PyQt. UI components.
+description: "UI with PyQt. UI components."
 category: desktop
 tags: [pyqt-ui, desktop, russian]
 models: [sonnet, opus]

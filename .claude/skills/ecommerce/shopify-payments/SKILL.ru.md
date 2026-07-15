@@ -1,6 +1,6 @@
 ---
 name: shopify-payments
-description: Payments with Shopify. payment integration.
+description: "Payments with Shopify. payment integration."
 category: ecommerce
 tags: [shopify-payments, ecommerce, russian]
 models: [sonnet, opus]

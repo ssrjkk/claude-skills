@@ -1,6 +1,6 @@
 ---
 name: r-lang-numerical
-description: Numerical with R. numerical methods.
+description: "Numerical with R. numerical methods."
 category: scientific
 tags: [r-lang-numerical, scientific, russian]
 models: [sonnet, opus]

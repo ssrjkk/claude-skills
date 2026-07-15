@@ -1,6 +1,6 @@
 ---
 name: packer-state
-description: State with Packer. state management.
+description: "State with Packer. state management."
 category: devops
 tags: [packer, state, devops, iac]
 models: [gpt-4, claude-3]

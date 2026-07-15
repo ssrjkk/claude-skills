@@ -1,6 +1,6 @@
 ---
 name: solidity-optimization
-description: Gas optimization in Solidity
+description: "Gas optimization in Solidity"
 category: blockchain
 tags: [solidity, gas-optimization, ethereum, smart-contracts]
 models: [sonnet, opus]

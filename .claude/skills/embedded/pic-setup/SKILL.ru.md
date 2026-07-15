@@ -1,6 +1,6 @@
 ---
 name: pic-setup
-description: Setup with PIC. toolchain.
+description: "Setup with PIC. toolchain."
 category: embedded
 tags: [pic-setup, embedded, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: esp8266-adc
-description: ADC with ESP8266. analog input.
+description: "ADC with ESP8266. analog input."
 category: iot
 tags: [esp8266, adc, iot, iot]
 models: [gpt-4, claude-3]

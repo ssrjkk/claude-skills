@@ -1,6 +1,6 @@
 ---
 name: fantom-smart-contracts
-description: Smart Contracts with Fantom. contracts.
+description: "Smart Contracts with Fantom. contracts."
 category: blockchain
 tags: [fantom-smart-contracts, blockchain, russian]
 models: [sonnet, opus]

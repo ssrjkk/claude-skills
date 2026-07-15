@@ -1,6 +1,6 @@
 ---
 name: openlayers-mapping
-description: Mapping with OpenLayers. mapping.
+description: "Mapping with OpenLayers. mapping."
 category: geospatial
 tags: [openlayers, mapping, geospatial, gis]
 models: [gpt-4, claude-3]

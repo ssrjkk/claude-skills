@@ -1,6 +1,6 @@
 ---
 name: applitools-configuration
-description: Configuration for Applitools: configuration and setup
+description: "Configuration for Applitools: configuration and setup"
 category: qa
 tags: [applitools-configuration, qa, russian]
 models: [sonnet, opus]

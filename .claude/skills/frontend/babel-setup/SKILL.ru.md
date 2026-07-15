@@ -1,6 +1,6 @@
 ---
 name: babel-setup
-description: Setup with Babel. initial setup.
+description: "Setup with Babel. initial setup."
 category: frontend
 tags: [babel-setup, frontend, russian]
 models: [sonnet, opus]

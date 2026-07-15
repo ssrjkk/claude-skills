@@ -1,6 +1,6 @@
 ---
 name: qt-ui
-description: UI with Qt. UI components.
+description: "UI with Qt. UI components."
 category: desktop
 tags: [qt, ui, desktop, desktop]
 models: [gpt-4, claude-3]

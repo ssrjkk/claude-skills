@@ -1,6 +1,6 @@
 ---
 name: hbase-monitoring
-description: Monitoring with HBase. monitoring.
+description: "Monitoring with HBase. monitoring."
 category: database
 tags: [hbase, monitoring, database, nosql]
 models: [gpt-4, claude-3]

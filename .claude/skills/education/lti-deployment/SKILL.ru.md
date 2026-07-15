@@ -1,6 +1,6 @@
 ---
 name: lti-deployment
-description: Deployment with LTI. deployment.
+description: "Deployment with LTI. deployment."
 category: education
 tags: [lti-deployment, education, russian]
 models: [sonnet, opus]

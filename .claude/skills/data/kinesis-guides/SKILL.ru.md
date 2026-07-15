@@ -1,6 +1,6 @@
 ---
 name: kinesis-guides
-description: Guides for Kinesis: how-to guides
+description: "Guides for Kinesis: how-to guides"
 category: data
 tags: [kinesis-guides, data, russian]
 models: [sonnet, opus]

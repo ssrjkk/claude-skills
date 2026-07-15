@@ -1,6 +1,6 @@
 ---
 name: scylla-backup
-description: Backup with ScyllaDB. backup.
+description: "Backup with ScyllaDB. backup."
 category: database
 tags: [scylla-backup, database, russian]
 models: [sonnet, opus]

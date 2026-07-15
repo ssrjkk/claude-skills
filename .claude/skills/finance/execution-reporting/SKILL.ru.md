@@ -1,6 +1,6 @@
 ---
 name: execution-reporting
-description: Reporting with Execution Systems. reports.
+description: "Reporting with Execution Systems. reports."
 category: finance
 tags: [execution-reporting, finance, russian]
 models: [sonnet, opus]

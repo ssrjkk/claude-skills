@@ -1,6 +1,6 @@
 ---
 name: symfony-middleware
-description: Middleware with Symfony. pipeline.
+description: "Middleware with Symfony. pipeline."
 category: backend
 tags: [symfony, middleware, backend, backend]
 models: [gpt-4, claude-3]

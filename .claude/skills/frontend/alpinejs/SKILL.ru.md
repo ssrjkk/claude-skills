@@ -1,6 +1,6 @@
 ---
 name: alpinejs
-description: Adds JavaScript behavior to HTML with Alpine.js, a minimal reactive framework. Use for sprinkling interactivity into server-rendered apps.
+description: "Adds JavaScript behavior to HTML with Alpine.js, a minimal reactive framework. Use for sprinkling interactivity into server-rendered apps."
 category: frontend
 tags: [alpinejs, frontend, russian]
 models: [sonnet, opus]

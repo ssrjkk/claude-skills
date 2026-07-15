@@ -1,6 +1,6 @@
 ---
 name: mobile-skill-0203
-description: mobile specialized skill #0203 for mobile development
+description: "mobile specialized skill #0203 for mobile development"
 category: mobile
 tags: [mobile, skill, 0203]
 models: [sonnet, opus]

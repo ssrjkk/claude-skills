@@ -1,6 +1,6 @@
 ---
 name: steamvr-optimization
-description: Optimization with SteamVR. performance.
+description: "Optimization with SteamVR. performance."
 category: ar-vr
 tags: [steamvr, optimization, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

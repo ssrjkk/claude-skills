@@ -1,6 +1,6 @@
 ---
 name: microgrid-design
-description: Design with Microgrid. system design.
+description: "Design with Microgrid. system design."
 category: energy
 tags: [microgrid, design, energy, renewable-energy]
 models: [gpt-4, claude-3]

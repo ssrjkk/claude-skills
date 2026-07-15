@@ -1,6 +1,6 @@
 ---
 name: premiere-setup
-description: Setup with Premiere Pro. setup.
+description: "Setup with Premiere Pro. setup."
 category: media
 tags: [premiere-setup, media, russian]
 models: [sonnet, opus]

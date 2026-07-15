@@ -1,6 +1,6 @@
 ---
 name: express-websocket
-description: WebSocket with Express. Socket.io.
+description: "WebSocket with Express. Socket.io."
 category: backend
 tags: [express-websocket, backend, russian]
 models: [sonnet, opus]

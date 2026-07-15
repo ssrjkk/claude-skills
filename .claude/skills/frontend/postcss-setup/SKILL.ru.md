@@ -1,6 +1,6 @@
 ---
 name: postcss-setup
-description: Setup with PostCSS. initial setup.
+description: "Setup with PostCSS. initial setup."
 category: frontend
 tags: [postcss-setup, frontend, russian]
 models: [sonnet, opus]

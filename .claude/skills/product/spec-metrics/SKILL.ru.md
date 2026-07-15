@@ -1,6 +1,6 @@
 ---
 name: spec-metrics
-description: Metrics with Specification Writing. measurement.
+description: "Metrics with Specification Writing. measurement."
 category: product
 tags: [spec-metrics, product, russian]
 models: [sonnet, opus]

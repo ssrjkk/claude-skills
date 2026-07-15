@@ -1,6 +1,6 @@
 ---
 name: journey-mapping-basics
-description: Basics with Journey Mapping. fundamentals.
+description: "Basics with Journey Mapping. fundamentals."
 category: design
 tags: [journey-mapping, basics, design, ux-research]
 models: [gpt-4, claude-3]

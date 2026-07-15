@@ -1,6 +1,6 @@
 ---
 name: nmap-analysis
-description: Analysis with Nmap. analysis.
+description: "Analysis with Nmap. analysis."
 category: security
 tags: [nmap, analysis, security, security-tool]
 models: [gpt-4, claude-3]

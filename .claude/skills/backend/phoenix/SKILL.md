@@ -1,6 +1,6 @@
 ---
 name: phoenix
-description: Builds scalable web applications with Phoenix, Elixir, LiveView, and Ecto. Use for real-time, fault-tolerant apps.
+description: "Builds scalable web applications with Phoenix, Elixir, LiveView, and Ecto. Use for real-time, fault-tolerant apps."
 category: backend
 tags: [phoenix, elixir, liveview, ecto, realtime]
 models: [sonnet, opus]

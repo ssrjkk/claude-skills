@@ -1,6 +1,6 @@
 ---
 name: zig-config
-description: Configuration with Zig. config management.
+description: "Configuration with Zig. config management."
 category: backend
 tags: [zig-config, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: soda-workflow
-description: Workflow for Soda: workflow optimization
+description: "Workflow for Soda: workflow optimization"
 category: data
 tags: [soda-workflow, data, russian]
 models: [sonnet, opus]

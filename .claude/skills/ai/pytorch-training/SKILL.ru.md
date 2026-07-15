@@ -1,6 +1,6 @@
 ---
 name: pytorch-training
-description: Training with Pytorch. training models.
+description: "Training with Pytorch. training models."
 category: ai
 tags: [pytorch-training, ai, russian]
 models: [sonnet, opus]

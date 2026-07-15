@@ -1,6 +1,6 @@
 ---
 name: java-testing
-description: Testing with Java. writing tests.
+description: "Testing with Java. writing tests."
 category: backend
 tags: [java, testing, backend, backend]
 models: [gpt-4, claude-3]

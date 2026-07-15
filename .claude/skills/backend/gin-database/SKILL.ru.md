@@ -1,6 +1,6 @@
 ---
 name: gin-database
-description: Database with Gin. DB access.
+description: "Database with Gin. DB access."
 category: backend
 tags: [gin-database, backend, russian]
 models: [sonnet, opus]

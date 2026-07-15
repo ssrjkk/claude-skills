@@ -1,6 +1,6 @@
 ---
 name: petite-vue-usage
-description: Usage for Petite-Vue: usage reference
+description: "Usage for Petite-Vue: usage reference"
 category: frontend
 tags: [petite-vue, usage, frontend]
 models: [sonnet, opus]

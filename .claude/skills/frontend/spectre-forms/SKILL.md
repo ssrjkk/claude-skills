@@ -1,6 +1,6 @@
 ---
 name: spectre-forms
-description: Forms with Spectre.css. form styling.
+description: "Forms with Spectre.css. form styling."
 category: frontend
 tags: [spectre, forms, frontend, css]
 models: [gpt-4, claude-3]

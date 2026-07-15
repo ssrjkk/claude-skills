@@ -1,6 +1,6 @@
 ---
 name: phaser-multiplayer
-description: Multiplayer with Phaser. networking.
+description: "Multiplayer with Phaser. networking."
 category: gamedev
 tags: [phaser-multiplayer, gamedev, russian]
 models: [sonnet, opus]

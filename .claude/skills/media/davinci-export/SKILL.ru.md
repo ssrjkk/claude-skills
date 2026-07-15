@@ -1,6 +1,6 @@
 ---
 name: davinci-export
-description: Export with DaVinci Resolve. export.
+description: "Export with DaVinci Resolve. export."
 category: media
 tags: [davinci-export, media, russian]
 models: [sonnet, opus]

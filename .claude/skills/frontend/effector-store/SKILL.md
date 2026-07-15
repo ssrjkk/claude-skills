@@ -1,6 +1,6 @@
 ---
 name: effector-store
-description: Store with Effector. state store.
+description: "Store with Effector. state store."
 category: frontend
 tags: [effector, store, frontend, state-management]
 models: [gpt-4, claude-3]

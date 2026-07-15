@@ -1,6 +1,6 @@
 ---
 name: poem-deployment
-description: Deployment with Poem. build.
+description: "Deployment with Poem. build."
 category: backend
 tags: [poem-deployment, backend, russian]
 models: [sonnet, opus]

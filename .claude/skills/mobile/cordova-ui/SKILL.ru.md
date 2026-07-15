@@ -1,6 +1,6 @@
 ---
 name: cordova-ui
-description: UI with Cordova. UI components.
+description: "UI with Cordova. UI components."
 category: mobile
 tags: [cordova-ui, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: doris-fundamentals
-description: Fundamentals for Doris: core concepts
+description: "Fundamentals for Doris: core concepts"
 category: data
 tags: [doris-fundamentals, data, russian]
 models: [sonnet, opus]

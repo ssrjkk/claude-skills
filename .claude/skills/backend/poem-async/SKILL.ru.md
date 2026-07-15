@@ -1,6 +1,6 @@
 ---
 name: poem-async
-description: Async with Poem. async handlers.
+description: "Async with Poem. async handlers."
 category: backend
 tags: [poem-async, backend, russian]
 models: [sonnet, opus]

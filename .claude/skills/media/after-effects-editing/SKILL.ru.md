@@ -1,6 +1,6 @@
 ---
 name: after-effects-editing
-description: Editing with After Effects. editing.
+description: "Editing with After Effects. editing."
 category: media
 tags: [after-effects-editing, media, russian]
 models: [sonnet, opus]

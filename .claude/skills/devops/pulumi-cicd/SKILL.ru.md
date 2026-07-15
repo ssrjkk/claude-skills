@@ -1,6 +1,6 @@
 ---
 name: pulumi-cicd
-description: CI/CD with Pulumi. pipeline integration.
+description: "CI/CD with Pulumi. pipeline integration."
 category: devops
 tags: [pulumi-cicd, devops, russian]
 models: [sonnet, opus]

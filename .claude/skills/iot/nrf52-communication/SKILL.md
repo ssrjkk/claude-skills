@@ -1,6 +1,6 @@
 ---
 name: nrf52-communication
-description: Comm with nRF52. I2C.
+description: "Comm with nRF52. I2C."
 category: iot
 tags: [nrf52, communication, iot, iot]
 models: [gpt-4, claude-3]

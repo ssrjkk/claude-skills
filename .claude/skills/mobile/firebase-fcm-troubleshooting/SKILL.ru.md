@@ -1,6 +1,6 @@
 ---
 name: firebase-fcm-troubleshooting
-description: Troubleshooting for Firebase-Fcm: troubleshooting common issues
+description: "Troubleshooting for Firebase-Fcm: troubleshooting common issues"
 category: mobile
 tags: [firebase-fcm-troubleshooting, mobile, russian]
 models: [sonnet, opus]

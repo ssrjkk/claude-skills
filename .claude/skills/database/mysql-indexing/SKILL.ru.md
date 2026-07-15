@@ -1,6 +1,6 @@
 ---
 name: mysql-indexing
-description: Indexing with MySQL. indexes.
+description: "Indexing with MySQL. indexes."
 category: database
 tags: [mysql-indexing, database, russian]
 models: [sonnet, opus]

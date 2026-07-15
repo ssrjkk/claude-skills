@@ -1,6 +1,6 @@
 ---
 name: micropython-adc
-description: ADC with MicroPython. analog input.
+description: "ADC with MicroPython. analog input."
 category: iot
 tags: [micropython, adc, iot, iot]
 models: [gpt-4, claude-3]

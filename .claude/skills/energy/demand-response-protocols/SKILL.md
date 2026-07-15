@@ -1,6 +1,6 @@
 ---
 name: demand-response-protocols
-description: Protocols with Demand Response. communication.
+description: "Protocols with Demand Response. communication."
 category: energy
 tags: [demand-response, protocols, energy, smart-grid]
 models: [gpt-4, claude-3]

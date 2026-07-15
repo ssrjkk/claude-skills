@@ -1,6 +1,6 @@
 ---
 name: mocha-fixtures
-description: Fixtures with Mocha. test fixtures.
+description: "Fixtures with Mocha. test fixtures."
 category: qa
 tags: [mocha, fixtures, qa, testing]
 models: [gpt-4, claude-3]

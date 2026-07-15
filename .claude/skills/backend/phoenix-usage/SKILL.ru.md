@@ -1,6 +1,6 @@
 ---
 name: phoenix-usage
-description: Usage for Phoenix: usage reference
+description: "Usage for Phoenix: usage reference"
 category: backend
 tags: [phoenix-usage, backend, russian]
 models: [sonnet, opus]

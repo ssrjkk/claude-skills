@@ -1,6 +1,6 @@
 ---
 name: yodlee-setup
-description: Setup with Yodlee. account setup.
+description: "Setup with Yodlee. account setup."
 category: finance
 tags: [yodlee, setup, finance, fintech]
 models: [gpt-4, claude-3]

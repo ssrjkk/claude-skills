@@ -1,6 +1,6 @@
 ---
 name: cocos-ui
-description: UI with Cocos Creator. game UI.
+description: "UI with Cocos Creator. game UI."
 category: gamedev
 tags: [cocos-ui, gamedev, russian]
 models: [sonnet, opus]

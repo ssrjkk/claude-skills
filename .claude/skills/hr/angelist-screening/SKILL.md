@@ -1,6 +1,6 @@
 ---
 name: angelist-screening
-description: Screening with AngelList/Wellfound. resume screening.
+description: "Screening with AngelList/Wellfound. resume screening."
 category: hr
 tags: [angelist, screening, hr, recruiting]
 models: [gpt-4, claude-3]

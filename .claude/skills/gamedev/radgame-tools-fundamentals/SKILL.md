@@ -1,6 +1,6 @@
 ---
 name: radgame-tools-fundamentals
-description: Fundamentals for Radgame-Tools: core concepts
+description: "Fundamentals for Radgame-Tools: core concepts"
 category: gamedev
 tags: [radgame-tools, fundamentals, gamedev]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sasb-tools
-description: Tools with SASB. tools.
+description: "Tools with SASB. tools."
 category: sustainability
 tags: [sasb, tools, sustainability, sustainability]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: motherduck-integration
-description: Integration for Motherduck: integration with other tools
+description: "Integration for Motherduck: integration with other tools"
 category: database
 tags: [motherduck, integration, database]
 models: [sonnet, opus]

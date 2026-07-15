@@ -1,6 +1,6 @@
 ---
 name: procedural-generation-player-feedback
-description: Feedback with Procedural Generation. player feedback.
+description: "Feedback with Procedural Generation. player feedback."
 category: gamedev
 tags: [procedural-generation-player-feedback, gamedev, russian]
 models: [sonnet, opus]

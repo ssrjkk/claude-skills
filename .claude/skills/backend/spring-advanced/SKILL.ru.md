@@ -1,6 +1,6 @@
 ---
 name: spring-advanced
-description: Advanced for Spring: advanced patterns and techniques
+description: "Advanced for Spring: advanced patterns and techniques"
 category: backend
 tags: [spring-advanced, backend, russian]
 models: [sonnet, opus]

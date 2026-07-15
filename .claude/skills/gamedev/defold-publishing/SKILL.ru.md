@@ -1,6 +1,6 @@
 ---
 name: defold-publishing
-description: Publishing with Defold. publishing.
+description: "Publishing with Defold. publishing."
 category: gamedev
 tags: [defold-publishing, gamedev, russian]
 models: [sonnet, opus]

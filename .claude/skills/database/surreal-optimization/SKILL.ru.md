@@ -1,6 +1,6 @@
 ---
 name: surreal-optimization
-description: Optimization with SurrealDB. performance.
+description: "Optimization with SurrealDB. performance."
 category: database
 tags: [surreal-optimization, database, russian]
 models: [sonnet, opus]

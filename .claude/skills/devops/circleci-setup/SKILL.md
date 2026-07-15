@@ -1,6 +1,6 @@
 ---
 name: circleci-setup
-description: Setup with CircleCI. pipeline setup.
+description: "Setup with CircleCI. pipeline setup."
 category: devops
 tags: [circleci, setup, devops, ci-cd]
 models: [gpt-4, claude-3]

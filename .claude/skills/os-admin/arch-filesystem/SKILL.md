@@ -1,6 +1,6 @@
 ---
 name: arch-filesystem
-description: Filesystem with Arch Linux. filesystem.
+description: "Filesystem with Arch Linux. filesystem."
 category: os-admin
 tags: [arch, filesystem, os-admin, linux]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: react-hook-form-configuration
-description: Configuration for React-Hook-Form: configuration and setup
+description: "Configuration for React-Hook-Form: configuration and setup"
 category: frontend
 tags: [react-hook-form-configuration, frontend, russian]
 models: [sonnet, opus]

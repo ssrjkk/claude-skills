@@ -1,6 +1,6 @@
 ---
 name: arkit-tracking
-description: Tracking with ARKit. spatial tracking.
+description: "Tracking with ARKit. spatial tracking."
 category: ar-vr
 tags: [arkit, tracking, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

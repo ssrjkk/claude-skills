@@ -1,6 +1,6 @@
 ---
 name: webxr-interaction
-description: Interaction with WebXR. hand tracking.
+description: "Interaction with WebXR. hand tracking."
 category: ar-vr
 tags: [webxr-interaction, ar-vr, russian]
 models: [sonnet, opus]

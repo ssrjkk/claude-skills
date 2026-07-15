@@ -1,6 +1,6 @@
 ---
 name: sbti-strategy
-description: Strategy with SBTi. strategy.
+description: "Strategy with SBTi. strategy."
 category: sustainability
 tags: [sbti-strategy, sustainability, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: digitalocean-networking
-description: Networking with DigitalOcean. VPC.
+description: "Networking with DigitalOcean. VPC."
 category: devops
 tags: [digitalocean, networking, devops, cloud]
 models: [gpt-4, claude-3]

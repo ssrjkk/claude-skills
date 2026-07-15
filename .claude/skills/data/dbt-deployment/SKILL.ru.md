@@ -1,6 +1,6 @@
 ---
 name: dbt-deployment
-description: Deployment for Dbt: deployment and release
+description: "Deployment for Dbt: deployment and release"
 category: data
 tags: [dbt-deployment, data, russian]
 models: [sonnet, opus]

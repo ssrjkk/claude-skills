@@ -1,6 +1,6 @@
 ---
 name: chartjs-automation
-description: Automation for Chartjs: automation and scripting
+description: "Automation for Chartjs: automation and scripting"
 category: frontend
 tags: [chartjs, automation, frontend]
 models: [sonnet, opus]

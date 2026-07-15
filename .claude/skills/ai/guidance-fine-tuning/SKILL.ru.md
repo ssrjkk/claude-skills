@@ -1,6 +1,6 @@
 ---
 name: guidance-fine-tuning
-description: Fine-Tuning with Guidance. model customization.
+description: "Fine-Tuning with Guidance. model customization."
 category: ai
 tags: [guidance-fine-tuning, ai, russian]
 models: [sonnet, opus]

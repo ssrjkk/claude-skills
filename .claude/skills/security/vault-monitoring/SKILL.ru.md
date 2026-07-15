@@ -1,6 +1,6 @@
 ---
 name: vault-monitoring
-description: Monitoring for Vault: monitoring and observability
+description: "Monitoring for Vault: monitoring and observability"
 category: security
 tags: [vault-monitoring, security, russian]
 models: [sonnet, opus]

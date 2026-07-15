@@ -1,6 +1,6 @@
 ---
 name: vagrant-troubleshooting
-description: Troubleshooting for Vagrant: troubleshooting common issues
+description: "Troubleshooting for Vagrant: troubleshooting common issues"
 category: devops
 tags: [vagrant-troubleshooting, devops, russian]
 models: [sonnet, opus]

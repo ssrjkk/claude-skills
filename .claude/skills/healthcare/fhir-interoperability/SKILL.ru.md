@@ -1,6 +1,6 @@
 ---
 name: fhir-interoperability
-description: Interop with FHIR. interoperability.
+description: "Interop with FHIR. interoperability."
 category: healthcare
 tags: [fhir-interoperability, healthcare, russian]
 models: [sonnet, opus]

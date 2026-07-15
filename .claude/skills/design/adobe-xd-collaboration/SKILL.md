@@ -1,6 +1,6 @@
 ---
 name: adobe-xd-collaboration
-description: Collaboration with Adobe XD. collaboration.
+description: "Collaboration with Adobe XD. collaboration."
 category: design
 tags: [adobe-xd, collaboration, design, design]
 models: [gpt-4, claude-3]

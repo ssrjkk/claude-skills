@@ -1,6 +1,6 @@
 ---
 name: telegram-bot-setup
-description: Setup with Telegram Bot. account setup.
+description: "Setup with Telegram Bot. account setup."
 category: communications
 tags: [telegram-bot, setup, communications, communication-platform]
 models: [gpt-4, claude-3]

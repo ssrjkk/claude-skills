@@ -1,6 +1,6 @@
 ---
 name: kotlin-multiplatform-testing
-description: Testing with Kotlin Multiplatform. testing.
+description: "Testing with Kotlin Multiplatform. testing."
 category: mobile
 tags: [kotlin-multiplatform, testing, mobile, mobile]
 models: [gpt-4, claude-3]

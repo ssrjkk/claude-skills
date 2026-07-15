@@ -1,6 +1,6 @@
 ---
 name: vagrant-configuration
-description: Configuration for Vagrant: configuration and setup
+description: "Configuration for Vagrant: configuration and setup"
 category: devops
 tags: [vagrant, configuration, devops]
 models: [sonnet, opus]

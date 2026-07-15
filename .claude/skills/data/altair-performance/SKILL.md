@@ -1,6 +1,6 @@
 ---
 name: altair-performance
-description: Performance with Altair. optimization.
+description: "Performance with Altair. optimization."
 category: data
 tags: [altair, performance, data, data-science]
 models: [gpt-4, claude-3]

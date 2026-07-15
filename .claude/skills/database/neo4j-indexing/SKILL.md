@@ -1,6 +1,6 @@
 ---
 name: neo4j-indexing
-description: Indexing with Neo4j. indexes.
+description: "Indexing with Neo4j. indexes."
 category: database
 tags: [neo4j, indexing, database, nosql]
 models: [gpt-4, claude-3]

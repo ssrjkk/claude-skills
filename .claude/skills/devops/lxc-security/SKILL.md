@@ -1,6 +1,6 @@
 ---
 name: lxc-security
-description: Security with LXC. container security.
+description: "Security with LXC. container security."
 category: devops
 tags: [lxc, security, devops, container]
 models: [gpt-4, claude-3]

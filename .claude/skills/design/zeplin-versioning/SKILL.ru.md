@@ -1,6 +1,6 @@
 ---
 name: zeplin-versioning
-description: Versioning with Zeplin. version control.
+description: "Versioning with Zeplin. version control."
 category: design
 tags: [zeplin-versioning, design, russian]
 models: [sonnet, opus]

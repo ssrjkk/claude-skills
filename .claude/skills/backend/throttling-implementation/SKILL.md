@@ -1,6 +1,6 @@
 ---
 name: throttling-implementation
-description: Implementation with Throttling. practical implementation.
+description: "Implementation with Throttling. practical implementation."
 category: backend
 tags: [throttling, implementation, backend, architecture]
 models: [gpt-4, claude-3]

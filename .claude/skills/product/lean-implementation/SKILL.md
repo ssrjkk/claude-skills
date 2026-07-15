@@ -1,6 +1,6 @@
 ---
 name: lean-implementation
-description: Implementation with Lean. adoption.
+description: "Implementation with Lean. adoption."
 category: product
 tags: [lean, implementation, product, methodology]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: qwik-advanced
-description: Advanced for Qwik: advanced patterns and techniques
+description: "Advanced for Qwik: advanced patterns and techniques"
 category: frontend
 tags: [qwik-advanced, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: clickhouse-setup
-description: Setup with ClickHouse. installation.
+description: "Setup with ClickHouse. installation."
 category: database
 tags: [clickhouse-setup, database, russian]
 models: [sonnet, opus]

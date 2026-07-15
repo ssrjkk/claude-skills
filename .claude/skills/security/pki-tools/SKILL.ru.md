@@ -1,6 +1,6 @@
 ---
 name: pki-tools
-description: Tools with PKI. security tools.
+description: "Tools with PKI. security tools."
 category: security
 tags: [pki-tools, security, russian]
 models: [sonnet, opus]

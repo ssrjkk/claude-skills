@@ -1,6 +1,6 @@
 ---
 name: quarkus-auth
-description: Auth with Quarkus. security.
+description: "Auth with Quarkus. security."
 category: backend
 tags: [quarkus, auth, backend, backend]
 models: [gpt-4, claude-3]

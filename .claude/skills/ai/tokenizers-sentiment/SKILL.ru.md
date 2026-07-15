@@ -1,6 +1,6 @@
 ---
 name: tokenizers-sentiment
-description: Sentiment Analysis with Tokenizers. sentiment detection.
+description: "Sentiment Analysis with Tokenizers. sentiment detection."
 category: ai
 tags: [tokenizers-sentiment, ai, russian]
 models: [sonnet, opus]

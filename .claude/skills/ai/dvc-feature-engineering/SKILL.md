@@ -1,6 +1,6 @@
 ---
 name: dvc-feature-engineering
-description: Feature Engineering with Dvc. creating features.
+description: "Feature Engineering with Dvc. creating features."
 category: ai
 tags: [dvc, feature-engineering, ai, ml]
 models: [gpt-4, claude-3]

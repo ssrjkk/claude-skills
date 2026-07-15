@@ -1,6 +1,6 @@
 ---
 name: windsurf-ide
-description: Using Windsurf/Cascade IDE
+description: "Using Windsurf/Cascade IDE"
 category: ai
 tags: [windsurf, cascade, ide, ai, editor]
 models: [sonnet, opus]

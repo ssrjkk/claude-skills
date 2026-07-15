@@ -1,6 +1,6 @@
 ---
 name: checkov-troubleshooting
-description: Troubleshooting for Checkov: troubleshooting common issues
+description: "Troubleshooting for Checkov: troubleshooting common issues"
 category: security
 tags: [checkov-troubleshooting, security, russian]
 models: [sonnet, opus]

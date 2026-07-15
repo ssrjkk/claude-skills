@@ -1,6 +1,6 @@
 ---
 name: debian-automation
-description: Automation with Debian. scripting.
+description: "Automation with Debian. scripting."
 category: os-admin
 tags: [debian-automation, os-admin, russian]
 models: [sonnet, opus]

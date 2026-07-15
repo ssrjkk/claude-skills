@@ -1,6 +1,6 @@
 ---
 name: rust-config
-description: Configuration with Rust. config management.
+description: "Configuration with Rust. config management."
 category: backend
 tags: [rust-config, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: grafana-testing
-description: Testing for Grafana: testing and validation
+description: "Testing for Grafana: testing and validation"
 category: devops
 tags: [grafana, testing, devops]
 models: [sonnet, opus]

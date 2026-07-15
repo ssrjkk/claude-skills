@@ -1,6 +1,6 @@
 ---
 name: arkit-spatial
-description: Spatial with ARKit. room mapping.
+description: "Spatial with ARKit. room mapping."
 category: ar-vr
 tags: [arkit-spatial, ar-vr, russian]
 models: [sonnet, opus]

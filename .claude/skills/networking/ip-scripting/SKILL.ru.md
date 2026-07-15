@@ -1,6 +1,6 @@
 ---
 name: ip-scripting
-description: Scripting with ip/ifconfig. automation.
+description: "Scripting with ip/ifconfig. automation."
 category: networking
 tags: [ip-scripting, networking, russian]
 models: [sonnet, opus]

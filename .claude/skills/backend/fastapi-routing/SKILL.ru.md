@@ -1,6 +1,6 @@
 ---
 name: fastapi-routing
-description: Routing with FastAPI. HTTP routing.
+description: "Routing with FastAPI. HTTP routing."
 category: backend
 tags: [fastapi-routing, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: travis-ci-security
-description: Security with Travis CI. security scanning.
+description: "Security with Travis CI. security scanning."
 category: devops
 tags: [travis-ci, security, devops, ci-cd]
 models: [gpt-4, claude-3]

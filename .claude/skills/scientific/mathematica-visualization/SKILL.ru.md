@@ -1,6 +1,6 @@
 ---
 name: mathematica-visualization
-description: Visualization with Mathematica. scientific plots.
+description: "Visualization with Mathematica. scientific plots."
 category: scientific
 tags: [mathematica-visualization, scientific, russian]
 models: [sonnet, opus]

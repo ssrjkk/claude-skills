@@ -1,6 +1,6 @@
 ---
 name: freertos-timers
-description: Timers with FreeRTOS. software timers.
+description: "Timers with FreeRTOS. software timers."
 category: embedded
 tags: [freertos, timers, embedded, rtos]
 models: [gpt-4, claude-3]

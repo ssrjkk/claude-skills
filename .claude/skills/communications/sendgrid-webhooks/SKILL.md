@@ -1,6 +1,6 @@
 ---
 name: sendgrid-webhooks
-description: Webhooks with SendGrid. webhooks.
+description: "Webhooks with SendGrid. webhooks."
 category: communications
 tags: [sendgrid, webhooks, communications, communication-platform]
 models: [gpt-4, claude-3]

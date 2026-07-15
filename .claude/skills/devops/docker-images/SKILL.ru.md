@@ -1,6 +1,6 @@
 ---
 name: docker-images
-description: Images with Docker. building images.
+description: "Images with Docker. building images."
 category: devops
 tags: [docker-images, devops, russian]
 models: [sonnet, opus]

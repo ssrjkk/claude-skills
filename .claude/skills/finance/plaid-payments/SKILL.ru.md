@@ -1,6 +1,6 @@
 ---
 name: plaid-payments
-description: Payments with Plaid. payments.
+description: "Payments with Plaid. payments."
 category: finance
 tags: [plaid-payments, finance, russian]
 models: [sonnet, opus]

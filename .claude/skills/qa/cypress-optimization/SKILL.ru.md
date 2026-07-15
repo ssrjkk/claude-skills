@@ -1,6 +1,6 @@
 ---
 name: cypress-optimization
-description: Optimization for Cypress: performance tuning and optimization
+description: "Optimization for Cypress: performance tuning and optimization"
 category: qa
 tags: [cypress-optimization, qa, russian]
 models: [sonnet, opus]

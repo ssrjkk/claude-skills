@@ -1,6 +1,6 @@
 ---
 name: qwik-api
-description: API for Qwik: API development and integration
+description: "API for Qwik: API development and integration"
 category: frontend
 tags: [qwik-api, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mlflow-clustering
-description: Clustering with Mlflow. grouping data.
+description: "Clustering with Mlflow. grouping data."
 category: ai
 tags: [mlflow-clustering, ai, russian]
 models: [sonnet, opus]

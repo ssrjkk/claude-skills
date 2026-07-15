@@ -1,6 +1,6 @@
 ---
 name: infor-analytics
-description: Analytics with Infor SCM. analytics.
+description: "Analytics with Infor SCM. analytics."
 category: supply-chain
 tags: [infor-analytics, supply-chain, russian]
 models: [sonnet, opus]

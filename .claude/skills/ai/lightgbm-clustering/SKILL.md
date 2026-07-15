@@ -1,6 +1,6 @@
 ---
 name: lightgbm-clustering
-description: Clustering with Lightgbm. grouping data.
+description: "Clustering with Lightgbm. grouping data."
 category: ai
 tags: [lightgbm, clustering, ai, ml]
 models: [gpt-4, claude-3]

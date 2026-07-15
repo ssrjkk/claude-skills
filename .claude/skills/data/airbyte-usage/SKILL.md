@@ -1,6 +1,6 @@
 ---
 name: airbyte-usage
-description: Usage for Airbyte: usage reference
+description: "Usage for Airbyte: usage reference"
 category: data
 tags: [airbyte, usage, data]
 models: [sonnet, opus]

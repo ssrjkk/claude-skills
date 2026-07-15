@@ -1,6 +1,6 @@
 ---
 name: foundation-components
-description: Components with Foundation. UI components.
+description: "Components with Foundation. UI components."
 category: frontend
 tags: [foundation, components, frontend, css]
 models: [gpt-4, claude-3]

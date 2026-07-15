@@ -1,6 +1,6 @@
 ---
 name: cratedb-indexing
-description: Indexing with CrateDB. indexes.
+description: "Indexing with CrateDB. indexes."
 category: database
 tags: [cratedb, indexing, database, sql]
 models: [gpt-4, claude-3]

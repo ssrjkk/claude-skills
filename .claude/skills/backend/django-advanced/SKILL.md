@@ -1,6 +1,6 @@
 ---
 name: django-advanced
-description: Advanced for Django: advanced patterns and techniques
+description: "Advanced for Django: advanced patterns and techniques"
 category: backend
 tags: [django, advanced, backend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: fasttext-text-classification
-description: Text Classification with Fasttext. document categorization.
+description: "Text Classification with Fasttext. document categorization."
 category: ai
 tags: [fasttext, text-classification, ai, nlp]
 models: [gpt-4, claude-3]

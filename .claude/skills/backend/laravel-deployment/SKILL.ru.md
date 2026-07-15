@@ -1,6 +1,6 @@
 ---
 name: laravel-deployment
-description: Deployment with Laravel. deploy.
+description: "Deployment with Laravel. deploy."
 category: backend
 tags: [laravel-deployment, backend, russian]
 models: [sonnet, opus]

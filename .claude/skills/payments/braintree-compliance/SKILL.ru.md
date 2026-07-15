@@ -1,6 +1,6 @@
 ---
 name: braintree-compliance
-description: Compliance with Braintree. PCI DSS.
+description: "Compliance with Braintree. PCI DSS."
 category: payments
 tags: [braintree-compliance, payments, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: adobe-xd-components
-description: Components with Adobe XD. components.
+description: "Components with Adobe XD. components."
 category: design
 tags: [adobe-xd, components, design, design]
 models: [gpt-4, claude-3]

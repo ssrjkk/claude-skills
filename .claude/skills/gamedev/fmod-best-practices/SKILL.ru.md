@@ -1,6 +1,6 @@
 ---
 name: fmod-best-practices
-description: Best Practices for Fmod: best practices and patterns
+description: "Best Practices for Fmod: best practices and patterns"
 category: gamedev
 tags: [fmod-best-practices, gamedev, russian]
 models: [sonnet, opus]

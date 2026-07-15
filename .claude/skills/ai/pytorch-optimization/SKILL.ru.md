@@ -1,6 +1,6 @@
 ---
 name: pytorch-optimization
-description: Optimization with Pytorch. model optimization.
+description: "Optimization with Pytorch. model optimization."
 category: ai
 tags: [pytorch-optimization, ai, russian]
 models: [sonnet, opus]

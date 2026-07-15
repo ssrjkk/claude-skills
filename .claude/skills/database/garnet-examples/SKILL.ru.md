@@ -1,6 +1,6 @@
 ---
 name: garnet-examples
-description: Examples for Garnet: practical examples
+description: "Examples for Garnet: practical examples"
 category: database
 tags: [garnet-examples, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: codility-offers
-description: Offers with Codility. offer mgmt.
+description: "Offers with Codility. offer mgmt."
 category: hr
 tags: [codility, offers, hr, recruiting]
 models: [gpt-4, claude-3]

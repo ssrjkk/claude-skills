@@ -1,6 +1,6 @@
 ---
 name: vonage-integration
-description: Integration with Vonage. integration.
+description: "Integration with Vonage. integration."
 category: communications
 tags: [vonage-integration, communications, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: rspec-coverage
-description: Coverage with RSpec. code coverage.
+description: "Coverage with RSpec. code coverage."
 category: qa
 tags: [rspec, coverage, qa, testing]
 models: [gpt-4, claude-3]

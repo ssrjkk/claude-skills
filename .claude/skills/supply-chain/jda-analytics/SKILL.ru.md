@@ -1,6 +1,6 @@
 ---
 name: jda-analytics
-description: Analytics with JDA/Blue Yonder. analytics.
+description: "Analytics with JDA/Blue Yonder. analytics."
 category: supply-chain
 tags: [jda-analytics, supply-chain, russian]
 models: [sonnet, opus]

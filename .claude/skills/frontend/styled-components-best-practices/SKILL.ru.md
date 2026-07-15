@@ -1,6 +1,6 @@
 ---
 name: styled-components-best-practices
-description: Best Practices for Styled-Components: best practices and patterns
+description: "Best Practices for Styled-Components: best practices and patterns"
 category: frontend
 tags: [styled-components-best-practices, frontend, russian]
 models: [sonnet, opus]

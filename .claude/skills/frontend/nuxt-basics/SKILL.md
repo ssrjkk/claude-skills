@@ -1,6 +1,6 @@
 ---
 name: nuxt-basics
-description: Basics for Nuxt: fundamentals and core concepts
+description: "Basics for Nuxt: fundamentals and core concepts"
 category: frontend
 tags: [nuxt, basics, frontend]
 models: [sonnet, opus]

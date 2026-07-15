@@ -1,6 +1,6 @@
 ---
 name: linkerd-configuration
-description: Configuration for Linkerd: configuration and setup
+description: "Configuration for Linkerd: configuration and setup"
 category: devops
 tags: [linkerd-configuration, devops, russian]
 models: [sonnet, opus]

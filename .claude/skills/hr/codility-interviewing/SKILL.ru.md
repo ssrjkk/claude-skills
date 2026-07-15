@@ -1,6 +1,6 @@
 ---
 name: codility-interviewing
-description: Interviewing with Codility. interviews.
+description: "Interviewing with Codility. interviews."
 category: hr
 tags: [codility-interviewing, hr, russian]
 models: [sonnet, opus]

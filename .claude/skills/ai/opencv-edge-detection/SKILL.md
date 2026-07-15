@@ -1,6 +1,6 @@
 ---
 name: opencv-edge-detection
-description: Edge Detection with Opencv. edge detection.
+description: "Edge Detection with Opencv. edge detection."
 category: ai
 tags: [opencv, edge-detection, ai, computer-vision]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: skill-0163
-description: Specialized skill #0163 for design development
+description: "Specialized skill #0163 for design development"
 category: design
 tags: [skill-0163, design, russian]
 models: [sonnet, opus]

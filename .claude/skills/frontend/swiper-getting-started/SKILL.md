@@ -1,6 +1,6 @@
 ---
 name: swiper-getting-started
-description: Getting Started for Swiper: initial setup and first steps
+description: "Getting Started for Swiper: initial setup and first steps"
 category: frontend
 tags: [swiper, getting-started, frontend]
 models: [sonnet, opus]

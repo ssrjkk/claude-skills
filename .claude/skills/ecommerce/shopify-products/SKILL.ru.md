@@ -1,6 +1,6 @@
 ---
 name: shopify-products
-description: Products with Shopify. product management.
+description: "Products with Shopify. product management."
 category: ecommerce
 tags: [shopify-products, ecommerce, russian]
 models: [sonnet, opus]

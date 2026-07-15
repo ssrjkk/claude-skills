@@ -1,6 +1,6 @@
 ---
 name: mocha-debugging
-description: Debugging for Mocha: debugging and troubleshooting
+description: "Debugging for Mocha: debugging and troubleshooting"
 category: qa
 tags: [mocha, debugging, qa]
 models: [sonnet, opus]

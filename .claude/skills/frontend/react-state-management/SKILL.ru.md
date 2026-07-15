@@ -1,6 +1,6 @@
 ---
 name: react-state-management
-description: State Management with React. state handling.
+description: "State Management with React. state handling."
 category: frontend
 tags: [react-state-management, frontend, russian]
 models: [sonnet, opus]

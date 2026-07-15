@@ -1,6 +1,6 @@
 ---
 name: edx-integration
-description: Integration with Open edX. LTI.
+description: "Integration with Open edX. LTI."
 category: education
 tags: [edx-integration, education, russian]
 models: [sonnet, opus]

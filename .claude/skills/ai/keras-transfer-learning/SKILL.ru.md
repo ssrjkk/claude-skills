@@ -1,6 +1,6 @@
 ---
 name: keras-transfer-learning
-description: Transfer Learning with Keras. transfer learning.
+description: "Transfer Learning with Keras. transfer learning."
 category: ai
 tags: [keras-transfer-learning, ai, russian]
 models: [sonnet, opus]

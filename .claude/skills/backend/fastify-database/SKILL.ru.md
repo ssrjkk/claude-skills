@@ -1,6 +1,6 @@
 ---
 name: fastify-database
-description: Database with Fastify. ORM.
+description: "Database with Fastify. ORM."
 category: backend
 tags: [fastify-database, backend, russian]
 models: [sonnet, opus]

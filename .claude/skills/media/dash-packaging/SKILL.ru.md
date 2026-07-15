@@ -1,6 +1,6 @@
 ---
 name: dash-packaging
-description: Packaging with MPEG-DASH. packaging.
+description: "Packaging with MPEG-DASH. packaging."
 category: media
 tags: [dash-packaging, media, russian]
 models: [sonnet, opus]

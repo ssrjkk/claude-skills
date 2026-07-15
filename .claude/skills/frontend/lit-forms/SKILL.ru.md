@@ -1,6 +1,6 @@
 ---
 name: lit-forms
-description: Forms with Lit. form handling.
+description: "Forms with Lit. form handling."
 category: frontend
 tags: [lit-forms, frontend, russian]
 models: [sonnet, opus]

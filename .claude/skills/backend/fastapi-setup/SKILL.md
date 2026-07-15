@@ -1,6 +1,6 @@
 ---
 name: fastapi-setup
-description: Setup for Fastapi: installation and configuration
+description: "Setup for Fastapi: installation and configuration"
 category: backend
 tags: [fastapi, setup, backend]
 models: [sonnet, opus]

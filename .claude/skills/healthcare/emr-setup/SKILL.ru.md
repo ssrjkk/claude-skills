@@ -1,6 +1,6 @@
 ---
 name: emr-setup
-description: Setup with EMR Systems. implementation.
+description: "Setup with EMR Systems. implementation."
 category: healthcare
 tags: [emr-setup, healthcare, russian]
 models: [sonnet, opus]

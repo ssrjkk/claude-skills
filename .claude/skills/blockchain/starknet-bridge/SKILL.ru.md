@@ -1,6 +1,6 @@
 ---
 name: starknet-bridge
-description: Bridge with StarkNet. cross-chain.
+description: "Bridge with StarkNet. cross-chain."
 category: blockchain
 tags: [starknet-bridge, blockchain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: square-subscriptions
-description: Subscriptions with Square. recurring.
+description: "Subscriptions with Square. recurring."
 category: payments
 tags: [square-subscriptions, payments, russian]
 models: [sonnet, opus]

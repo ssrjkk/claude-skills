@@ -1,6 +1,6 @@
 ---
 name: onesignal-integration
-description: Integration for Onesignal: integration with other tools
+description: "Integration for Onesignal: integration with other tools"
 category: mobile
 tags: [onesignal-integration, mobile, russian]
 models: [sonnet, opus]

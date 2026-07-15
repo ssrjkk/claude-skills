@@ -1,6 +1,6 @@
 ---
 name: tiled-best-practices
-description: Best Practices for Tiled: best practices and patterns
+description: "Best Practices for Tiled: best practices and patterns"
 category: gamedev
 tags: [tiled-best-practices, gamedev, russian]
 models: [sonnet, opus]

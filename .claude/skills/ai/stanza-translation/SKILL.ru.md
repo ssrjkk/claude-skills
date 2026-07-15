@@ -1,6 +1,6 @@
 ---
 name: stanza-translation
-description: Translation with Stanza. machine translation.
+description: "Translation with Stanza. machine translation."
 category: ai
 tags: [stanza-translation, ai, russian]
 models: [sonnet, opus]

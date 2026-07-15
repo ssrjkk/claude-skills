@@ -1,6 +1,6 @@
 ---
 name: pic-memory
-description: Memory with PIC. memory layout.
+description: "Memory with PIC. memory layout."
 category: embedded
 tags: [pic, memory, embedded, embedded-arch]
 models: [gpt-4, claude-3]

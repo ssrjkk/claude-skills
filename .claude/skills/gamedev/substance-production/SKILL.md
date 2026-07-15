@@ -1,6 +1,6 @@
 ---
 name: substance-production
-description: Production for Substance: production deployment
+description: "Production for Substance: production deployment"
 category: gamedev
 tags: [substance, production, gamedev]
 models: [sonnet, opus]

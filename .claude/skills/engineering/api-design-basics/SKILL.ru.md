@@ -1,6 +1,6 @@
 ---
 name: api-design-basics
-description: Basics with API Design. fundamentals.
+description: "Basics with API Design. fundamentals."
 category: engineering
 tags: [api-design-basics, engineering, russian]
 models: [sonnet, opus]

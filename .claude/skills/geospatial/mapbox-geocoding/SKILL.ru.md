@@ -1,6 +1,6 @@
 ---
 name: mapbox-geocoding
-description: Geocoding with Mapbox. geocoding.
+description: "Geocoding with Mapbox. geocoding."
 category: geospatial
 tags: [mapbox-geocoding, geospatial, russian]
 models: [sonnet, opus]

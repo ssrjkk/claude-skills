@@ -1,6 +1,6 @@
 ---
 name: flask-deployment
-description: Deployment with Flask. production deploy.
+description: "Deployment with Flask. production deploy."
 category: backend
 tags: [flask, deployment, backend, backend]
 models: [gpt-4, claude-3]

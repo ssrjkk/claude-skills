@@ -1,6 +1,6 @@
 ---
 name: open-world-implementation
-description: Implementation with Open World Design. implementation.
+description: "Implementation with Open World Design. implementation."
 category: gamedev
 tags: [open-world, implementation, gamedev, game-design]
 models: [gpt-4, claude-3]

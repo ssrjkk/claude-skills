@@ -1,6 +1,6 @@
 ---
 name: actix-optimization
-description: Optimization for Actix: performance tuning and optimization
+description: "Optimization for Actix: performance tuning and optimization"
 category: backend
 tags: [actix-optimization, backend, russian]
 models: [sonnet, opus]

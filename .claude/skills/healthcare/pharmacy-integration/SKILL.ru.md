@@ -1,6 +1,6 @@
 ---
 name: pharmacy-integration
-description: Integration with Pharmacy Systems. system integration.
+description: "Integration with Pharmacy Systems. system integration."
 category: healthcare
 tags: [pharmacy-integration, healthcare, russian]
 models: [sonnet, opus]

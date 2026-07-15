@@ -1,6 +1,6 @@
 ---
 name: electron-window
-description: Window with Electron. windows.
+description: "Window with Electron. windows."
 category: desktop
 tags: [electron, window, desktop, desktop]
 models: [gpt-4, claude-3]

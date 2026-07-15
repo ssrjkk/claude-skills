@@ -1,6 +1,6 @@
 ---
 name: agentic-intro
-description: Intro for Agentic: introduction
+description: "Intro for Agentic: introduction"
 category: ai
 tags: [agentic-intro, ai, russian]
 models: [sonnet, opus]

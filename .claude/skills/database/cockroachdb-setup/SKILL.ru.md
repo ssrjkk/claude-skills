@@ -1,6 +1,6 @@
 ---
 name: cockroachdb-setup
-description: Setup with CockroachDB. installation.
+description: "Setup with CockroachDB. installation."
 category: database
 tags: [cockroachdb-setup, database, russian]
 models: [sonnet, opus]

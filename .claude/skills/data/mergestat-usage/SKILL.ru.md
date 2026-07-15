@@ -1,6 +1,6 @@
 ---
 name: mergestat-usage
-description: Usage for Mergestat: usage reference
+description: "Usage for Mergestat: usage reference"
 category: data
 tags: [mergestat-usage, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: decorator-scaling
-description: Scaling with Decorator. scaling considerations.
+description: "Scaling with Decorator. scaling considerations."
 category: backend
 tags: [decorator, scaling, backend, architecture]
 models: [gpt-4, claude-3]

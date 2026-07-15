@@ -1,6 +1,6 @@
 ---
 name: detox-selectors
-description: Selectors with Detox. element selectors.
+description: "Selectors with Detox. element selectors."
 category: qa
 tags: [detox, selectors, qa, e2e]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: nebula-modeling
-description: Modeling with Nebula Graph. graph modeling.
+description: "Modeling with Nebula Graph. graph modeling."
 category: database
 tags: [nebula-modeling, database, russian]
 models: [sonnet, opus]

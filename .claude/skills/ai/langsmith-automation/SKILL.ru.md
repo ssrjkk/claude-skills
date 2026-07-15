@@ -1,6 +1,6 @@
 ---
 name: langsmith-automation
-description: Automation for Langsmith: automation and scripting
+description: "Automation for Langsmith: automation and scripting"
 category: ai
 tags: [langsmith-automation, ai, russian]
 models: [sonnet, opus]

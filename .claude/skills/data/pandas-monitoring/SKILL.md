@@ -1,6 +1,6 @@
 ---
 name: pandas-monitoring
-description: Monitoring for Pandas: monitoring and observability
+description: "Monitoring for Pandas: monitoring and observability"
 category: data
 tags: [pandas, monitoring, data]
 models: [sonnet, opus]

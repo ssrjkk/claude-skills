@@ -1,6 +1,6 @@
 ---
 name: steamvr-audio
-description: Audio with SteamVR. spatial audio.
+description: "Audio with SteamVR. spatial audio."
 category: ar-vr
 tags: [steamvr, audio, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

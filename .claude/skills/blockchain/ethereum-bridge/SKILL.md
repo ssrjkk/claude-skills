@@ -1,6 +1,6 @@
 ---
 name: ethereum-bridge
-description: Bridge with Ethereum. cross-chain.
+description: "Bridge with Ethereum. cross-chain."
 category: blockchain
 tags: [ethereum, bridge, blockchain, blockchain]
 models: [gpt-4, claude-3]

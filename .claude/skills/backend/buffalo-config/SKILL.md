@@ -1,6 +1,6 @@
 ---
 name: buffalo-config
-description: Config with Buffalo. config management.
+description: "Config with Buffalo. config management."
 category: backend
 tags: [buffalo, config, backend, backend]
 models: [gpt-4, claude-3]

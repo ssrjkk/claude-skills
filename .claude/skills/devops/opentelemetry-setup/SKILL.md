@@ -1,6 +1,6 @@
 ---
 name: opentelemetry-setup
-description: Setup with OpenTelemetry. installation.
+description: "Setup with OpenTelemetry. installation."
 category: devops
 tags: [opentelemetry, setup, devops, monitoring]
 models: [gpt-4, claude-3]

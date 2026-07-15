@@ -1,6 +1,6 @@
 ---
 name: buffalo-grpc
-description: gRPC with Buffalo. gRPC services.
+description: "gRPC with Buffalo. gRPC services."
 category: backend
 tags: [buffalo-grpc, backend, russian]
 models: [sonnet, opus]

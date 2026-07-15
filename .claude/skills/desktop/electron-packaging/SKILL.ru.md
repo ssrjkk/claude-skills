@@ -1,6 +1,6 @@
 ---
 name: electron-packaging
-description: Packaging with Electron. app packaging.
+description: "Packaging with Electron. app packaging."
 category: desktop
 tags: [electron-packaging, desktop, russian]
 models: [sonnet, opus]

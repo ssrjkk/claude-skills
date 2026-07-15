@@ -1,6 +1,6 @@
 ---
 name: aks-monitoring
-description: Monitoring with Azure AKS. monitoring.
+description: "Monitoring with Azure AKS. monitoring."
 category: devops
 tags: [aks, monitoring, devops, kubernetes]
 models: [gpt-4, claude-3]

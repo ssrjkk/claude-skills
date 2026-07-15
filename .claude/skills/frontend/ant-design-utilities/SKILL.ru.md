@@ -1,6 +1,6 @@
 ---
 name: ant-design-utilities
-description: Utilities with Ant Design. utility classes.
+description: "Utilities with Ant Design. utility classes."
 category: frontend
 tags: [ant-design-utilities, frontend, russian]
 models: [sonnet, opus]

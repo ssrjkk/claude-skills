@@ -1,6 +1,6 @@
 ---
 name: salvo-websocket
-description: WebSocket with Salvo. real-time.
+description: "WebSocket with Salvo. real-time."
 category: backend
 tags: [salvo-websocket, backend, russian]
 models: [sonnet, opus]

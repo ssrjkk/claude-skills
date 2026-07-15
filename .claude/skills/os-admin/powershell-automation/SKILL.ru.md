@@ -1,6 +1,6 @@
 ---
 name: powershell-automation
-description: Automation with PowerShell. PowerShell.
+description: "Automation with PowerShell. PowerShell."
 category: os-admin
 tags: [powershell-automation, os-admin, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: react-optimization
-description: Optimization for React: performance tuning and optimization
+description: "Optimization for React: performance tuning and optimization"
 category: frontend
 tags: [react-optimization, frontend, russian]
 models: [sonnet, opus]

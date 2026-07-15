@@ -1,6 +1,6 @@
 ---
 name: mxnet-inference
-description: Inference with Mxnet. running models.
+description: "Inference with Mxnet. running models."
 category: ai
 tags: [mxnet-inference, ai, russian]
 models: [sonnet, opus]

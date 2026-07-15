@@ -1,6 +1,6 @@
 ---
 name: deel-employees
-description: Employees with Deel. employee mgmt.
+description: "Employees with Deel. employee mgmt."
 category: hr
 tags: [deel, employees, hr, hr-tech]
 models: [gpt-4, claude-3]

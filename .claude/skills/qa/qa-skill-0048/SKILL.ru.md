@@ -1,6 +1,6 @@
 ---
 name: qa-skill-0048
-description: Specialized skill #0048 for qa development
+description: "Specialized skill #0048 for qa development"
 category: qa
 tags: [skill-0048, qa, russian]
 models: [sonnet, opus]

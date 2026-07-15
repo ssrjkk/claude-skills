@@ -1,6 +1,6 @@
 ---
 name: solana-smart-contracts
-description: Smart Contracts with Solana. contracts.
+description: "Smart Contracts with Solana. contracts."
 category: blockchain
 tags: [solana-smart-contracts, blockchain, russian]
 models: [sonnet, opus]

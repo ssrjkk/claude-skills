@@ -1,6 +1,6 @@
 ---
 name: grid-optimization-analytics
-description: Analytics with Grid Optimization. analytics.
+description: "Analytics with Grid Optimization. analytics."
 category: energy
 tags: [grid-optimization, analytics, energy, smart-grid]
 models: [gpt-4, claude-3]

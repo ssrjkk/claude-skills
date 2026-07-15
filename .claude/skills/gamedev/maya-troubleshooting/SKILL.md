@@ -1,6 +1,6 @@
 ---
 name: maya-troubleshooting
-description: Troubleshooting for Maya: troubleshooting common issues
+description: "Troubleshooting for Maya: troubleshooting common issues"
 category: gamedev
 tags: [maya, troubleshooting, gamedev]
 models: [sonnet, opus]

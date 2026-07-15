@@ -1,6 +1,6 @@
 ---
 name: rt-thread-setup
-description: Setup with RT-Thread. setup.
+description: "Setup with RT-Thread. setup."
 category: embedded
 tags: [rt-thread-setup, embedded, russian]
 models: [sonnet, opus]

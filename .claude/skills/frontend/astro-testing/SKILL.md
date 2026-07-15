@@ -1,6 +1,6 @@
 ---
 name: astro-testing
-description: Testing for Astro: testing and validation
+description: "Testing for Astro: testing and validation"
 category: frontend
 tags: [astro, testing, frontend]
 models: [sonnet, opus]

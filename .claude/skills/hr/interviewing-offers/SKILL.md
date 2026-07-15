@@ -1,6 +1,6 @@
 ---
 name: interviewing-offers
-description: Offers with Technical Interviewing. offer mgmt.
+description: "Offers with Technical Interviewing. offer mgmt."
 category: hr
 tags: [interviewing, offers, hr, recruiting]
 models: [gpt-4, claude-3]

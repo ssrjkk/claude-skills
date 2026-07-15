@@ -1,6 +1,6 @@
 ---
 name: cargo-test-unit-tests
-description: Unit Tests with Cargo Test. unit testing.
+description: "Unit Tests with Cargo Test. unit testing."
 category: qa
 tags: [cargo-test-unit-tests, qa, russian]
 models: [sonnet, opus]

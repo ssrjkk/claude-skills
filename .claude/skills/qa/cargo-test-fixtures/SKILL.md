@@ -1,6 +1,6 @@
 ---
 name: cargo-test-fixtures
-description: Fixtures with Cargo Test. test fixtures.
+description: "Fixtures with Cargo Test. test fixtures."
 category: qa
 tags: [cargo-test, fixtures, qa, testing]
 models: [gpt-4, claude-3]

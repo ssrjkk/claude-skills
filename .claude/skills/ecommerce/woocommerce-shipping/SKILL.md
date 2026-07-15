@@ -1,6 +1,6 @@
 ---
 name: woocommerce-shipping
-description: Shipping with WooCommerce. shipping.
+description: "Shipping with WooCommerce. shipping."
 category: ecommerce
 tags: [woocommerce, shipping, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

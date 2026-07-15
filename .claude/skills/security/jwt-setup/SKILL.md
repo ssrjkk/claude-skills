@@ -1,6 +1,6 @@
 ---
 name: jwt-setup
-description: Setup for Jwt: installation and configuration
+description: "Setup for Jwt: installation and configuration"
 category: security
 tags: [jwt, setup, security]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: taipy-widgets
-description: Widgets with Taipy. input widgets.
+description: "Widgets with Taipy. input widgets."
 category: data
 tags: [taipy-widgets, data, russian]
 models: [sonnet, opus]

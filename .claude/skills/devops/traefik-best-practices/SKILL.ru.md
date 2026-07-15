@@ -1,6 +1,6 @@
 ---
 name: traefik-best-practices
-description: Best Practices for Traefik: best practices and patterns
+description: "Best Practices for Traefik: best practices and patterns"
 category: devops
 tags: [traefik-best-practices, devops, russian]
 models: [sonnet, opus]

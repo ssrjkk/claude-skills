@@ -1,6 +1,6 @@
 ---
 name: podman-optimization
-description: Optimization with Podman. image optimization.
+description: "Optimization with Podman. image optimization."
 category: devops
 tags: [podman, optimization, devops, container]
 models: [gpt-4, claude-3]

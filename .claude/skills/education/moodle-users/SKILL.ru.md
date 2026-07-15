@@ -1,6 +1,6 @@
 ---
 name: moodle-users
-description: Users with Moodle. user management.
+description: "Users with Moodle. user management."
 category: education
 tags: [moodle-users, education, russian]
 models: [sonnet, opus]

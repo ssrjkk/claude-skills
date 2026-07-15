@@ -1,6 +1,6 @@
 ---
 name: near-staking
-description: Staking with NEAR. staking.
+description: "Staking with NEAR. staking."
 category: blockchain
 tags: [near, staking, blockchain, blockchain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: cypress-actions
-description: Actions with Cypress. user actions.
+description: "Actions with Cypress. user actions."
 category: qa
 tags: [cypress, actions, qa, e2e]
 models: [gpt-4, claude-3]

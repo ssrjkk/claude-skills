@@ -1,6 +1,6 @@
 ---
 name: less-plugins
-description: Plugins with Less. plugins.
+description: "Plugins with Less. plugins."
 category: frontend
 tags: [less-plugins, frontend, russian]
 models: [sonnet, opus]

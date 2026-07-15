@@ -1,6 +1,6 @@
 ---
 name: langfuse-automation
-description: Automation for Langfuse: automation and scripting
+description: "Automation for Langfuse: automation and scripting"
 category: ai
 tags: [langfuse-automation, ai, russian]
 models: [sonnet, opus]

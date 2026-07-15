@@ -1,6 +1,6 @@
 ---
 name: spec-facilitation
-description: Facilitation with Specification Writing. running.
+description: "Facilitation with Specification Writing. running."
 category: product
 tags: [spec, facilitation, product, product-framework]
 models: [gpt-4, claude-3]

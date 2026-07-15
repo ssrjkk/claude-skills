@@ -1,6 +1,6 @@
 ---
 name: microservices-architecture
-description: Design and implement enterprise-grade microservices architectures with service discovery, load balancing, and distributed tracing
+description: "Design and implement enterprise-grade microservices architectures with service discovery, load balancing, and distributed tracing"
 category: backend
 tags: [microservices-architecture, backend, russian]
 models: [sonnet, opus]

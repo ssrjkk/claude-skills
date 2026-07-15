@@ -1,6 +1,6 @@
 ---
 name: adonisjs-deployment
-description: Deployment with AdonisJS. deploy.
+description: "Deployment with AdonisJS. deploy."
 category: backend
 tags: [adonisjs-deployment, backend, russian]
 models: [sonnet, opus]

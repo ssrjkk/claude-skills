@@ -1,6 +1,6 @@
 ---
 name: bevy-animation
-description: Animation with Bevy. animation.
+description: "Animation with Bevy. animation."
 category: gamedev
 tags: [bevy-animation, gamedev, russian]
 models: [sonnet, opus]

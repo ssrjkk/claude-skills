@@ -1,6 +1,6 @@
 ---
 name: optuna-model-selection
-description: Model Selection with Optuna. choosing models.
+description: "Model Selection with Optuna. choosing models."
 category: ai
 tags: [optuna, model-selection, ai, ml]
 models: [gpt-4, claude-3]

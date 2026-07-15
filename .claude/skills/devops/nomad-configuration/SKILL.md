@@ -1,6 +1,6 @@
 ---
 name: nomad-configuration
-description: Configuration for Nomad: configuration and setup
+description: "Configuration for Nomad: configuration and setup"
 category: devops
 tags: [nomad, configuration, devops]
 models: [sonnet, opus]

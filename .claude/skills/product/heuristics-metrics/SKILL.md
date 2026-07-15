@@ -1,6 +1,6 @@
 ---
 name: heuristics-metrics
-description: Metrics with Heuristics. measurement.
+description: "Metrics with Heuristics. measurement."
 category: product
 tags: [heuristics, metrics, product, product-framework]
 models: [gpt-4, claude-3]

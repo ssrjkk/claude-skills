@@ -1,6 +1,6 @@
 ---
 name: hyperopt-clustering
-description: Clustering with Hyperopt. grouping data.
+description: "Clustering with Hyperopt. grouping data."
 category: ai
 tags: [hyperopt, clustering, ai, ml]
 models: [gpt-4, claude-3]

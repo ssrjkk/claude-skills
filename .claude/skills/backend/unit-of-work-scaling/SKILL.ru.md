@@ -1,6 +1,6 @@
 ---
 name: unit-of-work-scaling
-description: Scaling with Unit of Work. scaling considerations.
+description: "Scaling with Unit of Work. scaling considerations."
 category: backend
 tags: [unit-of-work-scaling, backend, russian]
 models: [sonnet, opus]

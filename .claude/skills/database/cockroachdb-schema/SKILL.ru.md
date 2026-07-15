@@ -1,6 +1,6 @@
 ---
 name: cockroachdb-schema
-description: Schema Design with CockroachDB. schema.
+description: "Schema Design with CockroachDB. schema."
 category: database
 tags: [cockroachdb-schema, database, russian]
 models: [sonnet, opus]

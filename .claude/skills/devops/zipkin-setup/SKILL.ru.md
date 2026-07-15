@@ -1,6 +1,6 @@
 ---
 name: zipkin-setup
-description: Setup with Zipkin. installation.
+description: "Setup with Zipkin. installation."
 category: devops
 tags: [zipkin-setup, devops, russian]
 models: [sonnet, opus]

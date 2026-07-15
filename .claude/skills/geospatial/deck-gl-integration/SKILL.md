@@ -1,6 +1,6 @@
 ---
 name: deck-gl-integration
-description: Integration with Deck.gl. integration.
+description: "Integration with Deck.gl. integration."
 category: geospatial
 tags: [deck-gl, integration, geospatial, gis]
 models: [gpt-4, claude-3]

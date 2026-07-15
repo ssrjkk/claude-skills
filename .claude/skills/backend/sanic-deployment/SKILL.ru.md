@@ -1,6 +1,6 @@
 ---
 name: sanic-deployment
-description: Deployment with Sanic. production deploy.
+description: "Deployment with Sanic. production deploy."
 category: backend
 tags: [sanic-deployment, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: wandb-troubleshooting
-description: Troubleshooting for Wandb: troubleshooting common issues
+description: "Troubleshooting for Wandb: troubleshooting common issues"
 category: data
 tags: [wandb, troubleshooting, data]
 models: [sonnet, opus]

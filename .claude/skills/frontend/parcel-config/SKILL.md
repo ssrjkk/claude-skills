@@ -1,6 +1,6 @@
 ---
 name: parcel-config
-description: Config with Parcel. configuration.
+description: "Config with Parcel. configuration."
 category: frontend
 tags: [parcel, config, frontend, build-tool]
 models: [gpt-4, claude-3]

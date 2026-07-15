@@ -1,6 +1,6 @@
 ---
 name: riscv-debugging
-description: Debugging with RISC-V. debug.
+description: "Debugging with RISC-V. debug."
 category: embedded
 tags: [riscv-debugging, embedded, russian]
 models: [sonnet, opus]

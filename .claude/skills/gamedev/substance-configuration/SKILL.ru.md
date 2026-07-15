@@ -1,6 +1,6 @@
 ---
 name: substance-configuration
-description: Configuration for Substance: configuration and setup
+description: "Configuration for Substance: configuration and setup"
 category: gamedev
 tags: [substance-configuration, gamedev, russian]
 models: [sonnet, opus]

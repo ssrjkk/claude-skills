@@ -1,6 +1,6 @@
 ---
 name: sd-wan-configuration
-description: Config with SD-WAN. setup.
+description: "Config with SD-WAN. setup."
 category: networking
 tags: [sd-wan, configuration, networking, networking]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: micronaut-auth
-description: Auth with Micronaut. security.
+description: "Auth with Micronaut. security."
 category: backend
 tags: [micronaut, auth, backend, backend]
 models: [gpt-4, claude-3]

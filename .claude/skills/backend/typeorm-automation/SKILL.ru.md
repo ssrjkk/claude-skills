@@ -1,6 +1,6 @@
 ---
 name: typeorm-automation
-description: Automation for Typeorm: automation and scripting
+description: "Automation for Typeorm: automation and scripting"
 category: backend
 tags: [typeorm-automation, backend, russian]
 models: [sonnet, opus]

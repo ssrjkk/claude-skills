@@ -1,6 +1,6 @@
 ---
 name: testcafe-selectors
-description: Selectors with TestCafe. element selectors.
+description: "Selectors with TestCafe. element selectors."
 category: qa
 tags: [testcafe-selectors, qa, russian]
 models: [sonnet, opus]

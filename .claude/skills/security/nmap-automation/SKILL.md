@@ -1,6 +1,6 @@
 ---
 name: nmap-automation
-description: Automation with Nmap. automation.
+description: "Automation with Nmap. automation."
 category: security
 tags: [nmap, automation, security, security-tool]
 models: [gpt-4, claude-3]

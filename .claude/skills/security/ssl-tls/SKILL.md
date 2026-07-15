@@ -1,6 +1,6 @@
 ---
 name: ssl-tls
-description: Configures SSL/TLS certificates for web servers, including Let's Encrypt, certbot, and HTTPS hardening.
+description: "Configures SSL/TLS certificates for web servers, including Let's Encrypt, certbot, and HTTPS hardening."
 category: security
 tags: [ssl, tls, https, certificates, encryption]
 models: [sonnet, opus]

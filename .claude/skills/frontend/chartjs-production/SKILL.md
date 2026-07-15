@@ -1,6 +1,6 @@
 ---
 name: chartjs-production
-description: Production for Chartjs: production deployment
+description: "Production for Chartjs: production deployment"
 category: frontend
 tags: [chartjs, production, frontend]
 models: [sonnet, opus]

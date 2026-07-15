@@ -1,6 +1,6 @@
 ---
 name: weaviate-workflow
-description: Workflow for Weaviate: workflow optimization
+description: "Workflow for Weaviate: workflow optimization"
 category: ai
 tags: [weaviate, workflow, ai]
 models: [sonnet, opus]

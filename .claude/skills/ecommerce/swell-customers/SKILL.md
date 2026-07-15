@@ -1,6 +1,6 @@
 ---
 name: swell-customers
-description: Customers with Swell. customer API.
+description: "Customers with Swell. customer API."
 category: ecommerce
 tags: [swell, customers, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

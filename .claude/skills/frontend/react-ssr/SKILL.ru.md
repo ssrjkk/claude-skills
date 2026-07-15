@@ -1,6 +1,6 @@
 ---
 name: react-ssr
-description: SSR with React. server rendering.
+description: "SSR with React. server rendering."
 category: frontend
 tags: [react-ssr, frontend, russian]
 models: [sonnet, opus]

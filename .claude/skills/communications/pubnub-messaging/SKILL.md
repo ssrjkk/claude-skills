@@ -1,6 +1,6 @@
 ---
 name: pubnub-messaging
-description: Messaging with PubNub. sending messages.
+description: "Messaging with PubNub. sending messages."
 category: communications
 tags: [pubnub, messaging, communications, communication-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: angular-debugging
-description: Debugging for Angular: debugging and troubleshooting
+description: "Debugging for Angular: debugging and troubleshooting"
 category: frontend
 tags: [angular, debugging, frontend]
 models: [sonnet, opus]

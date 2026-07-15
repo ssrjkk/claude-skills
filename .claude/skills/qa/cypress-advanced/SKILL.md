@@ -1,6 +1,6 @@
 ---
 name: cypress-advanced
-description: Advanced for Cypress: advanced patterns and techniques
+description: "Advanced for Cypress: advanced patterns and techniques"
 category: qa
 tags: [cypress, advanced, qa]
 models: [sonnet, opus]

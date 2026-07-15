@@ -1,6 +1,6 @@
 ---
 name: gke-helm
-description: Helm with Google GKE. package management.
+description: "Helm with Google GKE. package management."
 category: devops
 tags: [gke-helm, devops, russian]
 models: [sonnet, opus]

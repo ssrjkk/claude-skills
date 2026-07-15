@@ -1,6 +1,6 @@
 ---
 name: travis-ci-deployment
-description: Deployment with Travis CI. auto-deploy.
+description: "Deployment with Travis CI. auto-deploy."
 category: devops
 tags: [travis-ci-deployment, devops, russian]
 models: [sonnet, opus]

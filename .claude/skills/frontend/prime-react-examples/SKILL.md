@@ -1,6 +1,6 @@
 ---
 name: prime-react-examples
-description: Examples for Prime-React: practical examples
+description: "Examples for Prime-React: practical examples"
 category: frontend
 tags: [prime-react, examples, frontend]
 models: [sonnet, opus]

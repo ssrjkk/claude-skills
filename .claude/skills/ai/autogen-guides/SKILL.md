@@ -1,6 +1,6 @@
 ---
 name: autogen-guides
-description: Guides for Autogen: how-to guides
+description: "Guides for Autogen: how-to guides"
 category: ai
 tags: [autogen, guides, ai]
 models: [sonnet, opus]

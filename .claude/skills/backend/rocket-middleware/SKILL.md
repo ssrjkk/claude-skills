@@ -1,6 +1,6 @@
 ---
 name: rocket-middleware
-description: Middleware with Rocket. request pipeline.
+description: "Middleware with Rocket. request pipeline."
 category: backend
 tags: [rocket, middleware, backend, backend]
 models: [gpt-4, claude-3]

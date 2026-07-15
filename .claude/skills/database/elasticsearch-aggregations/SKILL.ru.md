@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-aggregations
-description: Aggregations with Elasticsearch. bucket aggs.
+description: "Aggregations with Elasticsearch. bucket aggs."
 category: database
 tags: [elasticsearch-aggregations, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gemini-security
-description: Security for Gemini: security best practices
+description: "Security for Gemini: security best practices"
 category: ai
 tags: [gemini, security, ai]
 models: [sonnet, opus]

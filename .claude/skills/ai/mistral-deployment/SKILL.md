@@ -1,6 +1,6 @@
 ---
 name: mistral-deployment
-description: Deployment for Mistral: deployment and release
+description: "Deployment for Mistral: deployment and release"
 category: ai
 tags: [mistral, deployment, ai]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: hololens-audio
-description: Audio with HoloLens. spatial audio.
+description: "Audio with HoloLens. spatial audio."
 category: ar-vr
 tags: [hololens, audio, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

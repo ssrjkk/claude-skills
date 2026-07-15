@@ -1,6 +1,6 @@
 ---
 name: argo-rollouts-fundamentals
-description: Fundamentals for Argo-Rollouts: core concepts
+description: "Fundamentals for Argo-Rollouts: core concepts"
 category: devops
 tags: [argo-rollouts, fundamentals, devops]
 models: [sonnet, opus]

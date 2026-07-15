@@ -1,6 +1,6 @@
 ---
 name: zeplin-setup
-description: Setup with Zeplin. workspace.
+description: "Setup with Zeplin. workspace."
 category: design
 tags: [zeplin, setup, design, design]
 models: [gpt-4, claude-3]

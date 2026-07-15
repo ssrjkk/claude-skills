@@ -1,6 +1,6 @@
 ---
 name: gradio-setup
-description: Setup with Gradio. installation.
+description: "Setup with Gradio. installation."
 category: data
 tags: [gradio, setup, data, data-apps]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: azure-pipelines-caching
-description: Caching with Azure Pipelines. dependency caching.
+description: "Caching with Azure Pipelines. dependency caching."
 category: devops
 tags: [azure-pipelines-caching, devops, russian]
 models: [sonnet, opus]

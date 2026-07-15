@@ -1,6 +1,6 @@
 ---
 name: tasmota-automation
-description: Automation with Tasmota. automation.
+description: "Automation with Tasmota. automation."
 category: iot
 tags: [tasmota, automation, iot, iot-platform]
 models: [gpt-4, claude-3]

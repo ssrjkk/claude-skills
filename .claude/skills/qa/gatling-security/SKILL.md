@@ -1,6 +1,6 @@
 ---
 name: gatling-security
-description: Security for Gatling: security best practices
+description: "Security for Gatling: security best practices"
 category: qa
 tags: [gatling, security, qa]
 models: [sonnet, opus]

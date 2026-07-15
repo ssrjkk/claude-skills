@@ -1,6 +1,6 @@
 ---
 name: beego-testing
-description: Testing with Beego. unit tests.
+description: "Testing with Beego. unit tests."
 category: backend
 tags: [beego, testing, backend, backend]
 models: [gpt-4, claude-3]

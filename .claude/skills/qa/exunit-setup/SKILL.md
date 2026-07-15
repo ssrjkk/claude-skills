@@ -1,6 +1,6 @@
 ---
 name: exunit-setup
-description: Setup with ExUnit. installation.
+description: "Setup with ExUnit. installation."
 category: qa
 tags: [exunit, setup, qa, testing]
 models: [gpt-4, claude-3]

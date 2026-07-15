@@ -1,6 +1,6 @@
 ---
 name: encoding-encoding
-description: Encoding with Encoding. encoding.
+description: "Encoding with Encoding. encoding."
 category: media
 tags: [encoding, encoding, media, media-streaming]
 models: [gpt-4, claude-3]

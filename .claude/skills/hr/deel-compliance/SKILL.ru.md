@@ -1,6 +1,6 @@
 ---
 name: deel-compliance
-description: Compliance with Deel. compliance.
+description: "Compliance with Deel. compliance."
 category: hr
 tags: [deel-compliance, hr, russian]
 models: [sonnet, opus]

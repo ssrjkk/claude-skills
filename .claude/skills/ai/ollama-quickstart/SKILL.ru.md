@@ -1,6 +1,6 @@
 ---
 name: ollama-quickstart
-description: Quickstart for Ollama: quick start guide
+description: "Quickstart for Ollama: quick start guide"
 category: ai
 tags: [ollama-quickstart, ai, russian]
 models: [sonnet, opus]

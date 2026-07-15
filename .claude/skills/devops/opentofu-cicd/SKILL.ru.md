@@ -1,6 +1,6 @@
 ---
 name: opentofu-cicd
-description: CI/CD with OpenTofu. pipeline integration.
+description: "CI/CD with OpenTofu. pipeline integration."
 category: devops
 tags: [opentofu-cicd, devops, russian]
 models: [sonnet, opus]

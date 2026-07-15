@@ -1,6 +1,6 @@
 ---
 name: marvin-rag
-description: RAG with Marvin. building RAG systems.
+description: "RAG with Marvin. building RAG systems."
 category: ai
 tags: [marvin, rag, ai, llm]
 models: [gpt-4, claude-3]

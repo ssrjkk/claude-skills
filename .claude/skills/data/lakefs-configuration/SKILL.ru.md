@@ -1,6 +1,6 @@
 ---
 name: lakefs-configuration
-description: Configuration for Lakefs: configuration and setup
+description: "Configuration for Lakefs: configuration and setup"
 category: data
 tags: [lakefs-configuration, data, russian]
 models: [sonnet, opus]

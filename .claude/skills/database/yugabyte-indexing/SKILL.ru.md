@@ -1,6 +1,6 @@
 ---
 name: yugabyte-indexing
-description: Indexing with YugabyteDB. indexes.
+description: "Indexing with YugabyteDB. indexes."
 category: database
 tags: [yugabyte-indexing, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: falco-setup
-description: Setup for Falco: installation and configuration
+description: "Setup for Falco: installation and configuration"
 category: security
 tags: [falco, setup, security]
 models: [sonnet, opus]

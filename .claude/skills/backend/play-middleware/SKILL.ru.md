@@ -1,6 +1,6 @@
 ---
 name: play-middleware
-description: Middleware with Play. request processing.
+description: "Middleware with Play. request processing."
 category: backend
 tags: [play-middleware, backend, russian]
 models: [sonnet, opus]

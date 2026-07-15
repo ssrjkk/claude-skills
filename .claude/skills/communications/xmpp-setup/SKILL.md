@@ -1,6 +1,6 @@
 ---
 name: xmpp-setup
-description: Setup with XMPP. setup.
+description: "Setup with XMPP. setup."
 category: communications
 tags: [xmpp, setup, communications, communication-protocol]
 models: [gpt-4, claude-3]

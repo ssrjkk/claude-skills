@@ -1,6 +1,6 @@
 ---
 name: polkadot-dapps
-description: DApps with Polkadot. decentralized apps.
+description: "DApps with Polkadot. decentralized apps."
 category: blockchain
 tags: [polkadot-dapps, blockchain, russian]
 models: [sonnet, opus]

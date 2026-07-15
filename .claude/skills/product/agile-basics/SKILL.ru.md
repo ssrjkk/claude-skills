@@ -1,6 +1,6 @@
 ---
 name: agile-basics
-description: Basics with Agile. fundamentals.
+description: "Basics with Agile. fundamentals."
 category: product
 tags: [agile-basics, product, russian]
 models: [sonnet, opus]

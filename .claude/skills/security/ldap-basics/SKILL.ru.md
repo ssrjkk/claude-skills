@@ -1,6 +1,6 @@
 ---
 name: ldap-basics
-description: Basics with LDAP. fundamentals.
+description: "Basics with LDAP. fundamentals."
 category: security
 tags: [ldap-basics, security, russian]
 models: [sonnet, opus]

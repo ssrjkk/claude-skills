@@ -1,6 +1,6 @@
 ---
 name: unreal-xr-optimization
-description: Optimization with Unreal XR. performance.
+description: "Optimization with Unreal XR. performance."
 category: ar-vr
 tags: [unreal-xr-optimization, ar-vr, russian]
 models: [sonnet, opus]

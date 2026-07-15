@@ -1,6 +1,6 @@
 ---
 name: react-styling
-description: Styling with React. component styling.
+description: "Styling with React. component styling."
 category: frontend
 tags: [react, styling, frontend, frontend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: tezos-bridge
-description: Bridge with Tezos. cross-chain.
+description: "Bridge with Tezos. cross-chain."
 category: blockchain
 tags: [tezos, bridge, blockchain, blockchain]
 models: [gpt-4, claude-3]

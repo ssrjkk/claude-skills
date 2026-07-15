@@ -1,6 +1,6 @@
 ---
 name: circuitpython-adc
-description: ADC with CircuitPython. analog input.
+description: "ADC with CircuitPython. analog input."
 category: iot
 tags: [circuitpython-adc, iot, russian]
 models: [sonnet, opus]

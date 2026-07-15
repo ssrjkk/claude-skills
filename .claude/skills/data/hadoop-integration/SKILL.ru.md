@@ -1,6 +1,6 @@
 ---
 name: hadoop-integration
-description: Integration with Hadoop. connectors.
+description: "Integration with Hadoop. connectors."
 category: data
 tags: [hadoop-integration, data, russian]
 models: [sonnet, opus]

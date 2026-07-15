@@ -1,6 +1,6 @@
 ---
 name: dynatrace-tracing
-description: Tracing with Dynatrace. distributed tracing.
+description: "Tracing with Dynatrace. distributed tracing."
 category: devops
 tags: [dynatrace, tracing, devops, monitoring]
 models: [gpt-4, claude-3]

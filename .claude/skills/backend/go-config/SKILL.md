@@ -1,6 +1,6 @@
 ---
 name: go-config
-description: Configuration with Go. config management.
+description: "Configuration with Go. config management."
 category: backend
 tags: [go, config, backend, backend]
 models: [gpt-4, claude-3]

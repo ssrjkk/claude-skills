@@ -1,6 +1,6 @@
 ---
 name: puppet-networking
-description: Networking with Puppet. network infra.
+description: "Networking with Puppet. network infra."
 category: devops
 tags: [puppet, networking, devops, iac]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: openhab-commands
-description: Commands with openHAB. device commands.
+description: "Commands with openHAB. device commands."
 category: iot
 tags: [openhab-commands, iot, russian]
 models: [sonnet, opus]

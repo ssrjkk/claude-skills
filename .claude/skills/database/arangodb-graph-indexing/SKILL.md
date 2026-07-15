@@ -1,6 +1,6 @@
 ---
 name: arangodb-graph-indexing
-description: Indexing with ArangoDB Graph. indexes.
+description: "Indexing with ArangoDB Graph. indexes."
 category: database
 tags: [arangodb-graph, indexing, database, graph-database]
 models: [gpt-4, claude-3]

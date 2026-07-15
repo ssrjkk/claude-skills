@@ -1,6 +1,6 @@
 ---
 name: zuora-analytics
-description: Analytics with Zuora. revenue analytics.
+description: "Analytics with Zuora. revenue analytics."
 category: payments
 tags: [zuora-analytics, payments, russian]
 models: [sonnet, opus]

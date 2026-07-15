@@ -1,6 +1,6 @@
 ---
 name: haproxy-examples
-description: Examples for Haproxy: practical examples
+description: "Examples for Haproxy: practical examples"
 category: backend
 tags: [haproxy, examples, backend]
 models: [sonnet, opus]

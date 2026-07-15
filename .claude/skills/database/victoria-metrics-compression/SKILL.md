@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-compression
-description: Compression with VictoriaMetrics. compression.
+description: "Compression with VictoriaMetrics. compression."
 category: database
 tags: [victoria-metrics, compression, database, time-series]
 models: [gpt-4, claude-3]

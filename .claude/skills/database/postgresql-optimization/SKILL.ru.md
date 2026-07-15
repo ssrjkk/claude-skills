@@ -1,6 +1,6 @@
 ---
 name: postgresql-optimization
-description: Optimization with PostgreSQL. query tuning.
+description: "Optimization with PostgreSQL. query tuning."
 category: database
 tags: [postgresql-optimization, database, russian]
 models: [sonnet, opus]

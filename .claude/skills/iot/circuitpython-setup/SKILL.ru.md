@@ -1,6 +1,6 @@
 ---
 name: circuitpython-setup
-description: Setup with CircuitPython. board setup.
+description: "Setup with CircuitPython. board setup."
 category: iot
 tags: [circuitpython-setup, iot, russian]
 models: [sonnet, opus]

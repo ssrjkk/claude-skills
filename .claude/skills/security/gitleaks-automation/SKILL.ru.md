@@ -1,6 +1,6 @@
 ---
 name: gitleaks-automation
-description: Automation for Gitleaks: automation and scripting
+description: "Automation for Gitleaks: automation and scripting"
 category: security
 tags: [gitleaks-automation, security, russian]
 models: [sonnet, opus]

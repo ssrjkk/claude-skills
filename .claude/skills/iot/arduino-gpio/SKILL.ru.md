@@ -1,6 +1,6 @@
 ---
 name: arduino-gpio
-description: GPIO with Arduino. digital I/O.
+description: "GPIO with Arduino. digital I/O."
 category: iot
 tags: [arduino-gpio, iot, russian]
 models: [sonnet, opus]

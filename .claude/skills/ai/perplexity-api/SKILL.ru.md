@@ -1,6 +1,6 @@
 ---
 name: perplexity-api
-description: Integrates Perplexity AI's online LLM API for web-connected search and generation with real-time information.
+description: "Integrates Perplexity AI's online LLM API for web-connected search and generation with real-time information."
 category: ai
 tags: [perplexity-api, ai, russian]
 models: [sonnet, opus]

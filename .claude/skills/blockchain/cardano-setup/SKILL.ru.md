@@ -1,6 +1,6 @@
 ---
 name: cardano-setup
-description: Setup with Cardano. node setup.
+description: "Setup with Cardano. node setup."
 category: blockchain
 tags: [cardano-setup, blockchain, russian]
 models: [sonnet, opus]

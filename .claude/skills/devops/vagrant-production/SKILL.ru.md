@@ -1,6 +1,6 @@
 ---
 name: vagrant-production
-description: Production for Vagrant: production deployment
+description: "Production for Vagrant: production deployment"
 category: devops
 tags: [vagrant-production, devops, russian]
 models: [sonnet, opus]

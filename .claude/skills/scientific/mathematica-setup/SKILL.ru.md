@@ -1,6 +1,6 @@
 ---
 name: mathematica-setup
-description: Setup with Mathematica. installation.
+description: "Setup with Mathematica. installation."
 category: scientific
 tags: [mathematica-setup, scientific, russian]
 models: [sonnet, opus]

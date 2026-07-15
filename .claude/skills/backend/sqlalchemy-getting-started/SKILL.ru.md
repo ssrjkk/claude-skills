@@ -1,6 +1,6 @@
 ---
 name: sqlalchemy-getting-started
-description: Getting Started for Sqlalchemy: initial setup and first steps
+description: "Getting Started for Sqlalchemy: initial setup and first steps"
 category: backend
 tags: [sqlalchemy-getting-started, backend, russian]
 models: [sonnet, opus]

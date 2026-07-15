@@ -1,6 +1,6 @@
 ---
 name: sbti-data
-description: Data with SBTi. data collection.
+description: "Data with SBTi. data collection."
 category: sustainability
 tags: [sbti, data, sustainability, sustainability]
 models: [gpt-4, claude-3]

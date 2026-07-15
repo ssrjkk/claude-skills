@@ -1,6 +1,6 @@
 ---
 name: earthly-caching
-description: Caching with Earthly. dependency caching.
+description: "Caching with Earthly. dependency caching."
 category: devops
 tags: [earthly-caching, devops, russian]
 models: [sonnet, opus]

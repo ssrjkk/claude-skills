@@ -1,6 +1,6 @@
 ---
 name: redux-optimization
-description: Optimization with Redux. performance.
+description: "Optimization with Redux. performance."
 category: frontend
 tags: [redux, optimization, frontend, state-management]
 models: [gpt-4, claude-3]

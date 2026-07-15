@@ -1,6 +1,6 @@
 ---
 name: diffusers-distributed
-description: Distributed with Diffusers. distributed training.
+description: "Distributed with Diffusers. distributed training."
 category: ai
 tags: [diffusers, distributed, ai, deep-learning]
 models: [gpt-4, claude-3]

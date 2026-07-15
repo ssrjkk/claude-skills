@@ -1,6 +1,6 @@
 ---
 name: riot-accessibility
-description: Accessibility with Riot. a11y.
+description: "Accessibility with Riot. a11y."
 category: frontend
 tags: [riot, accessibility, frontend, frontend]
 models: [gpt-4, claude-3]

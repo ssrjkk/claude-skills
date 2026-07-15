@@ -1,6 +1,6 @@
 ---
 name: astro-security
-description: Security for Astro: security best practices
+description: "Security for Astro: security best practices"
 category: frontend
 tags: [astro, security, frontend]
 models: [sonnet, opus]

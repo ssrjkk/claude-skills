@@ -1,6 +1,6 @@
 ---
 name: tableau-advanced
-description: Advanced for Tableau: advanced patterns and techniques
+description: "Advanced for Tableau: advanced patterns and techniques"
 category: data
 tags: [tableau-advanced, data, russian]
 models: [sonnet, opus]

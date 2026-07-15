@@ -1,6 +1,6 @@
 ---
 name: zap-analysis
-description: Analysis with ZAP. analysis.
+description: "Analysis with ZAP. analysis."
 category: security
 tags: [zap, analysis, security, security-tool]
 models: [gpt-4, claude-3]

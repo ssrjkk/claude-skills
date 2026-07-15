@@ -1,6 +1,6 @@
 ---
 name: whisper-getting-started
-description: Getting Started for Whisper: initial setup and first steps
+description: "Getting Started for Whisper: initial setup and first steps"
 category: ai
 tags: [whisper, getting-started, ai]
 models: [sonnet, opus]

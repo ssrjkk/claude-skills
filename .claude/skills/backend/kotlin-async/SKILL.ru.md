@@ -1,6 +1,6 @@
 ---
 name: kotlin-async
-description: Async with Kotlin. async operations.
+description: "Async with Kotlin. async operations."
 category: backend
 tags: [kotlin-async, backend, russian]
 models: [sonnet, opus]

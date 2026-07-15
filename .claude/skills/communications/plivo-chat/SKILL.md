@@ -1,6 +1,6 @@
 ---
 name: plivo-chat
-description: Chat with Plivo. chat.
+description: "Chat with Plivo. chat."
 category: communications
 tags: [plivo, chat, communications, communication-platform]
 models: [gpt-4, claude-3]

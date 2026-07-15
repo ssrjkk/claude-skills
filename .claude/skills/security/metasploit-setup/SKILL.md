@@ -1,6 +1,6 @@
 ---
 name: metasploit-setup
-description: Setup with Metasploit. installation.
+description: "Setup with Metasploit. installation."
 category: security
 tags: [metasploit, setup, security, security-tool]
 models: [gpt-4, claude-3]

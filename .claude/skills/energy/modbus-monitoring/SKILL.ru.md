@@ -1,6 +1,6 @@
 ---
 name: modbus-monitoring
-description: Monitoring with Modbus. monitoring.
+description: "Monitoring with Modbus. monitoring."
 category: energy
 tags: [modbus-monitoring, energy, russian]
 models: [sonnet, opus]

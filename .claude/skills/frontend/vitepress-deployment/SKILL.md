@@ -1,6 +1,6 @@
 ---
 name: vitepress-deployment
-description: Deployment with VitePress. production.
+description: "Deployment with VitePress. production."
 category: frontend
 tags: [vitepress, deployment, frontend, meta-framework]
 models: [gpt-4, claude-3]

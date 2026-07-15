@@ -1,6 +1,6 @@
 ---
 name: twilio-voice
-description: Voice with Twilio. voice calls.
+description: "Voice with Twilio. voice calls."
 category: communications
 tags: [twilio-voice, communications, russian]
 models: [sonnet, opus]

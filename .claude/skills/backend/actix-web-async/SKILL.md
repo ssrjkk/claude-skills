@@ -1,6 +1,6 @@
 ---
 name: actix-web-async
-description: Async with Actix Web. async handlers.
+description: "Async with Actix Web. async handlers."
 category: backend
 tags: [actix-web, async, backend, backend]
 models: [gpt-4, claude-3]

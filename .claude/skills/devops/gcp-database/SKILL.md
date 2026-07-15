@@ -1,6 +1,6 @@
 ---
 name: gcp-database
-description: Database with GCP. managed databases.
+description: "Database with GCP. managed databases."
 category: devops
 tags: [gcp, database, devops, cloud]
 models: [gpt-4, claude-3]

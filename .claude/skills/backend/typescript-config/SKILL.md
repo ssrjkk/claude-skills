@@ -1,6 +1,6 @@
 ---
 name: typescript-config
-description: Configuration with Typescript. config management.
+description: "Configuration with Typescript. config management."
 category: backend
 tags: [typescript, config, backend, backend]
 models: [gpt-4, claude-3]

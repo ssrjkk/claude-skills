@@ -1,6 +1,6 @@
 ---
 name: ansible-modules
-description: Modules with Ansible. modules.
+description: "Modules with Ansible. modules."
 category: devops
 tags: [ansible, modules, devops, iac]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: bokeh-deployment
-description: Deployment with Bokeh. app deployment.
+description: "Deployment with Bokeh. app deployment."
 category: data
 tags: [bokeh-deployment, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kubernetes-debugging
-description: Debugging for Kubernetes: debugging and troubleshooting
+description: "Debugging for Kubernetes: debugging and troubleshooting"
 category: devops
 tags: [kubernetes, debugging, devops]
 models: [sonnet, opus]

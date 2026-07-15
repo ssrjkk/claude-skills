@@ -1,6 +1,6 @@
 ---
 name: mariadb-setup
-description: Setup with MariaDB. installation.
+description: "Setup with MariaDB. installation."
 category: database
 tags: [mariadb-setup, database, russian]
 models: [sonnet, opus]

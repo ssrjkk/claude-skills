@@ -1,6 +1,6 @@
 ---
 name: twilio-analytics
-description: Analytics with Twilio. analytics.
+description: "Analytics with Twilio. analytics."
 category: communications
 tags: [twilio, analytics, communications, communication-platform]
 models: [gpt-4, claude-3]

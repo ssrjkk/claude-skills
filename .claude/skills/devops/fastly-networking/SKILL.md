@@ -1,6 +1,6 @@
 ---
 name: fastly-networking
-description: Networking with Fastly. VPC.
+description: "Networking with Fastly. VPC."
 category: devops
 tags: [fastly, networking, devops, cloud]
 models: [gpt-4, claude-3]

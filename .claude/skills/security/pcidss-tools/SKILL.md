@@ -1,6 +1,6 @@
 ---
 name: pcidss-tools
-description: Tools with PCI DSS. security tools.
+description: "Tools with PCI DSS. security tools."
 category: security
 tags: [pcidss, tools, security, security]
 models: [gpt-4, claude-3]

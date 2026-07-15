@@ -1,6 +1,6 @@
 ---
 name: conjur-examples
-description: Examples for Conjur: practical examples
+description: "Examples for Conjur: practical examples"
 category: security
 tags: [conjur, examples, security]
 models: [sonnet, opus]

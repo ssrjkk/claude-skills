@@ -1,6 +1,6 @@
 ---
 name: hono-testing
-description: Testing with Hono. Jest.
+description: "Testing with Hono. Jest."
 category: backend
 tags: [hono, testing, backend, backend]
 models: [gpt-4, claude-3]

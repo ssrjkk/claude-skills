@@ -1,6 +1,6 @@
 ---
 name: hbase-querying
-description: Querying with HBase. queries.
+description: "Querying with HBase. queries."
 category: database
 tags: [hbase-querying, database, russian]
 models: [sonnet, opus]

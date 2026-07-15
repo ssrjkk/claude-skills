@@ -1,6 +1,6 @@
 ---
 name: mongodb-security
-description: Security with MongoDB. security.
+description: "Security with MongoDB. security."
 category: database
 tags: [mongodb-security, database, russian]
 models: [sonnet, opus]

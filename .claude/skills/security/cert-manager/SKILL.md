@@ -1,6 +1,6 @@
 ---
 name: cert-manager
-description: Manages TLS certificates in Kubernetes with cert-manager, Let's Encrypt, and auto-renewal.
+description: "Manages TLS certificates in Kubernetes with cert-manager, Let's Encrypt, and auto-renewal."
 category: security
 tags: [cert-manager, tls, kubernetes, lets-encrypt, certificates]
 models: [sonnet, opus]

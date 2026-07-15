@@ -1,6 +1,6 @@
 ---
 name: oauth-deployment
-description: Deployment for Oauth: deployment and release
+description: "Deployment for Oauth: deployment and release"
 category: security
 tags: [oauth-deployment, security, russian]
 models: [sonnet, opus]

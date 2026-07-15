@@ -1,6 +1,6 @@
 ---
 name: solidstart-middleware
-description: Middleware with SolidStart. request middleware.
+description: "Middleware with SolidStart. request middleware."
 category: frontend
 tags: [solidstart-middleware, frontend, russian]
 models: [sonnet, opus]

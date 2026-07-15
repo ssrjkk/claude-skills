@@ -1,6 +1,6 @@
 ---
 name: tezos-tokens
-description: Tokens with Tezos. token standards.
+description: "Tokens with Tezos. token standards."
 category: blockchain
 tags: [tezos, tokens, blockchain, blockchain]
 models: [gpt-4, claude-3]

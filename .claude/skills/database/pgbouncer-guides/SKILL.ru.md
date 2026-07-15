@@ -1,6 +1,6 @@
 ---
 name: pgbouncer-guides
-description: Guides for Pgbouncer: how-to guides
+description: "Guides for Pgbouncer: how-to guides"
 category: database
 tags: [pgbouncer-guides, database, russian]
 models: [sonnet, opus]

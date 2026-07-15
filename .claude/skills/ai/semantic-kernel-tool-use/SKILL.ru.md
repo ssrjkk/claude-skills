@@ -1,6 +1,6 @@
 ---
 name: semantic-kernel-tool-use
-description: Tool Use with Semantic Kernel. function calling.
+description: "Tool Use with Semantic Kernel. function calling."
 category: ai
 tags: [semantic-kernel-tool-use, ai, russian]
 models: [sonnet, opus]

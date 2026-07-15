@@ -1,6 +1,6 @@
 ---
 name: sre-slos
-description: SRE SLI/SLO/SLA implementation
+description: "SRE SLI/SLO/SLA implementation"
 category: devops
 tags: [sre, sli, slo, sla, reliability, monitoring]
 models: [sonnet, opus]

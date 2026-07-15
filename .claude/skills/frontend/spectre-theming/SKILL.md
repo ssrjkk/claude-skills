@@ -1,6 +1,6 @@
 ---
 name: spectre-theming
-description: Theming with Spectre.css. custom themes.
+description: "Theming with Spectre.css. custom themes."
 category: frontend
 tags: [spectre, theming, frontend, css]
 models: [gpt-4, claude-3]

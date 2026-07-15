@@ -1,6 +1,6 @@
 ---
 name: express-debugging
-description: Debugging for Express: debugging and troubleshooting
+description: "Debugging for Express: debugging and troubleshooting"
 category: backend
 tags: [express, debugging, backend]
 models: [sonnet, opus]

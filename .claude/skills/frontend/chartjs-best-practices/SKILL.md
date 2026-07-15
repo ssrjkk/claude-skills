@@ -1,6 +1,6 @@
 ---
 name: chartjs-best-practices
-description: Best Practices for Chartjs: best practices and patterns
+description: "Best Practices for Chartjs: best practices and patterns"
 category: frontend
 tags: [chartjs, best-practices, frontend]
 models: [sonnet, opus]

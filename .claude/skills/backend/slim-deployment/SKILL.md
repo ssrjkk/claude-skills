@@ -1,6 +1,6 @@
 ---
 name: slim-deployment
-description: Deployment with Slim. deploy.
+description: "Deployment with Slim. deploy."
 category: backend
 tags: [slim, deployment, backend, backend]
 models: [gpt-4, claude-3]

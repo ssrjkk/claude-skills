@@ -1,6 +1,6 @@
 ---
 name: actions-runner-fundamentals
-description: Fundamentals for Actions-Runner: core concepts
+description: "Fundamentals for Actions-Runner: core concepts"
 category: devops
 tags: [actions-runner, fundamentals, devops]
 models: [sonnet, opus]

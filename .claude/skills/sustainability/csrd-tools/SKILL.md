@@ -1,6 +1,6 @@
 ---
 name: csrd-tools
-description: Tools with CSRD. tools.
+description: "Tools with CSRD. tools."
 category: sustainability
 tags: [csrd, tools, sustainability, sustainability]
 models: [gpt-4, claude-3]

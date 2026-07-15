@@ -1,6 +1,6 @@
 ---
 name: stomp-setup
-description: Setup with STOMP. setup.
+description: "Setup with STOMP. setup."
 category: communications
 tags: [stomp-setup, communications, russian]
 models: [sonnet, opus]

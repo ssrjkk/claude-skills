@@ -1,6 +1,6 @@
 ---
 name: tvm-fundamentals
-description: Fundamentals for Tvm: core concepts
+description: "Fundamentals for Tvm: core concepts"
 category: ai
 tags: [tvm, fundamentals, ai]
 models: [sonnet, opus]

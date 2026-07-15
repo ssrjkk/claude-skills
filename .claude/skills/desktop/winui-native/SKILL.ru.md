@@ -1,6 +1,6 @@
 ---
 name: winui-native
-description: Native with WinUI. native APIs.
+description: "Native with WinUI. native APIs."
 category: desktop
 tags: [winui-native, desktop, russian]
 models: [sonnet, opus]

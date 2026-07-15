@@ -1,6 +1,6 @@
 ---
 name: cordova-navigation
-description: Navigation with Cordova. navigation.
+description: "Navigation with Cordova. navigation."
 category: mobile
 tags: [cordova-navigation, mobile, russian]
 models: [sonnet, opus]

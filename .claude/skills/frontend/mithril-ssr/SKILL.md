@@ -1,6 +1,6 @@
 ---
 name: mithril-ssr
-description: SSR with Mithril. server rendering.
+description: "SSR with Mithril. server rendering."
 category: frontend
 tags: [mithril, ssr, frontend, frontend]
 models: [gpt-4, claude-3]

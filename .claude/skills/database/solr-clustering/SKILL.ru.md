@@ -1,6 +1,6 @@
 ---
 name: solr-clustering
-description: Clustering with Solr. cluster setup.
+description: "Clustering with Solr. cluster setup."
 category: database
 tags: [solr-clustering, database, russian]
 models: [sonnet, opus]

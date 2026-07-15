@@ -1,6 +1,6 @@
 ---
 name: stellar-dapps
-description: DApps with Stellar. decentralized apps.
+description: "DApps with Stellar. decentralized apps."
 category: blockchain
 tags: [stellar, dapps, blockchain, blockchain]
 models: [gpt-4, claude-3]

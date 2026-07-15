@@ -1,6 +1,6 @@
 ---
 name: semantic-ui-responsive
-description: Responsive with Semantic UI. mobile-first.
+description: "Responsive with Semantic UI. mobile-first."
 category: frontend
 tags: [semantic-ui-responsive, frontend, russian]
 models: [sonnet, opus]

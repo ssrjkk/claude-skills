@@ -1,6 +1,6 @@
 ---
 name: agile-best-practices
-description: Best Practices with Agile. practices.
+description: "Best Practices with Agile. practices."
 category: product
 tags: [agile-best-practices, product, russian]
 models: [sonnet, opus]

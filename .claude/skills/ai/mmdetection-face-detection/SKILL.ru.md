@@ -1,6 +1,6 @@
 ---
 name: mmdetection-face-detection
-description: Face Detection with Mmdetection. facial recognition.
+description: "Face Detection with Mmdetection. facial recognition."
 category: ai
 tags: [mmdetection-face-detection, ai, russian]
 models: [sonnet, opus]

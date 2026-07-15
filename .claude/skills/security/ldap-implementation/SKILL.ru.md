@@ -1,6 +1,6 @@
 ---
 name: ldap-implementation
-description: Implementation with LDAP. implementation.
+description: "Implementation with LDAP. implementation."
 category: security
 tags: [ldap-implementation, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: scikit-image-feature-extraction
-description: Feature Extraction with Scikit Image. extracting features.
+description: "Feature Extraction with Scikit Image. extracting features."
 category: ai
 tags: [scikit-image, feature-extraction, ai, computer-vision]
 models: [gpt-4, claude-3]

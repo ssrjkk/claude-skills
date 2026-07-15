@@ -1,6 +1,6 @@
 ---
 name: locomotive-scroll-examples
-description: Examples for Locomotive-Scroll: practical examples
+description: "Examples for Locomotive-Scroll: practical examples"
 category: design
 tags: [locomotive-scroll-examples, design, russian]
 models: [sonnet, opus]

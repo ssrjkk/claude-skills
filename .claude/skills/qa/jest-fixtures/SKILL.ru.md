@@ -1,6 +1,6 @@
 ---
 name: jest-fixtures
-description: Fixtures with Jest. test fixtures.
+description: "Fixtures with Jest. test fixtures."
 category: qa
 tags: [jest-fixtures, qa, russian]
 models: [sonnet, opus]

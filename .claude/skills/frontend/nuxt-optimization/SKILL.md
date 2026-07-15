@@ -1,6 +1,6 @@
 ---
 name: nuxt-optimization
-description: Optimization for Nuxt: performance tuning and optimization
+description: "Optimization for Nuxt: performance tuning and optimization"
 category: frontend
 tags: [nuxt, optimization, frontend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: onesignal-workflow
-description: Workflow for Onesignal: workflow optimization
+description: "Workflow for Onesignal: workflow optimization"
 category: mobile
 tags: [onesignal-workflow, mobile, russian]
 models: [sonnet, opus]

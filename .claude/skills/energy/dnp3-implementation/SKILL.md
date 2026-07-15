@@ -1,6 +1,6 @@
 ---
 name: dnp3-implementation
-description: Implementation with DNP3. deployment.
+description: "Implementation with DNP3. deployment."
 category: energy
 tags: [dnp3, implementation, energy, smart-grid]
 models: [gpt-4, claude-3]

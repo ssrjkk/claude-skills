@@ -1,6 +1,6 @@
 ---
 name: weaviate-production
-description: Production for Weaviate: production deployment
+description: "Production for Weaviate: production deployment"
 category: ai
 tags: [weaviate-production, ai, russian]
 models: [sonnet, opus]

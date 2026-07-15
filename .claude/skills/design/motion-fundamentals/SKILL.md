@@ -1,6 +1,6 @@
 ---
 name: motion-fundamentals
-description: Fundamentals for Motion: core concepts
+description: "Fundamentals for Motion: core concepts"
 category: design
 tags: [motion, fundamentals, design]
 models: [sonnet, opus]

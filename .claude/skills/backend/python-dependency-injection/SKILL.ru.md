@@ -1,6 +1,6 @@
 ---
 name: python-dependency-injection
-description: DI with Python. DI containers.
+description: "DI with Python. DI containers."
 category: backend
 tags: [python-dependency-injection, backend, russian]
 models: [sonnet, opus]

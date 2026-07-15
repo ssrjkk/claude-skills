@@ -1,6 +1,6 @@
 ---
 name: slack-api-voice
-description: Voice with Slack API. voice calls.
+description: "Voice with Slack API. voice calls."
 category: communications
 tags: [slack-api-voice, communications, russian]
 models: [sonnet, opus]

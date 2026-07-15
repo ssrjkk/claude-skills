@@ -1,6 +1,6 @@
 ---
 name: bash-processes
-description: Processes with Bash Scripting. process management.
+description: "Processes with Bash Scripting. process management."
 category: os-admin
 tags: [bash, processes, os-admin, linux]
 models: [gpt-4, claude-3]

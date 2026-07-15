@@ -1,6 +1,6 @@
 ---
 name: infor-transportation
-description: Transportation with Infor SCM. TMS.
+description: "Transportation with Infor SCM. TMS."
 category: supply-chain
 tags: [infor-transportation, supply-chain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: skopeo-images
-description: Images with Skopeo. building images.
+description: "Images with Skopeo. building images."
 category: devops
 tags: [skopeo-images, devops, russian]
 models: [sonnet, opus]

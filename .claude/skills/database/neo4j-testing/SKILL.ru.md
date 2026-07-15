@@ -1,6 +1,6 @@
 ---
 name: neo4j-testing
-description: Testing for Neo4J: testing and validation
+description: "Testing for Neo4J: testing and validation"
 category: database
 tags: [neo4j-testing, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: wxwidgets-events
-description: Events with wxWidgets. event handling.
+description: "Events with wxWidgets. event handling."
 category: desktop
 tags: [wxwidgets, events, desktop, desktop]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: loinc-basics
-description: Basics with LOINC. fundamentals.
+description: "Basics with LOINC. fundamentals."
 category: healthcare
 tags: [loinc, basics, healthcare, healthcare]
 models: [gpt-4, claude-3]

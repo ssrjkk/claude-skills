@@ -1,6 +1,6 @@
 ---
 name: lean-basics
-description: Basics with Lean. fundamentals.
+description: "Basics with Lean. fundamentals."
 category: product
 tags: [lean, basics, product, methodology]
 models: [gpt-4, claude-3]

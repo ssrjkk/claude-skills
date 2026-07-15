@@ -1,6 +1,6 @@
 ---
 name: bitlocker-setup
-description: Setup with BitLocker. installation.
+description: "Setup with BitLocker. installation."
 category: os-admin
 tags: [bitlocker-setup, os-admin, russian]
 models: [sonnet, opus]

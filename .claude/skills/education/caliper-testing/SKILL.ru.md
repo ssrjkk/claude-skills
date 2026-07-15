@@ -1,6 +1,6 @@
 ---
 name: caliper-testing
-description: Testing with Caliper. testing.
+description: "Testing with Caliper. testing."
 category: education
 tags: [caliper-testing, education, russian]
 models: [sonnet, opus]

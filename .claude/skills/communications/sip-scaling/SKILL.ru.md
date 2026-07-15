@@ -1,6 +1,6 @@
 ---
 name: sip-scaling
-description: Scaling with SIP. scaling.
+description: "Scaling with SIP. scaling."
 category: communications
 tags: [sip-scaling, communications, russian]
 models: [sonnet, opus]

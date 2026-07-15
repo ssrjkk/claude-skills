@@ -1,6 +1,6 @@
 ---
 name: skill-0226
-description: Specialized skill #0226 for blockchain development
+description: "Specialized skill #0226 for blockchain development"
 category: blockchain
 tags: [skill-0226, blockchain, russian]
 models: [sonnet, opus]

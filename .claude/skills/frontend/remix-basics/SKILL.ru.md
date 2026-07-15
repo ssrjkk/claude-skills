@@ -1,6 +1,6 @@
 ---
 name: remix-basics
-description: Basics for Remix: fundamentals and core concepts
+description: "Basics for Remix: fundamentals and core concepts"
 category: frontend
 tags: [remix-basics, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ansible-automation
-description: Automates server configuration and deployment using Ansible playbooks. Use for configuration management.
+description: "Automates server configuration and deployment using Ansible playbooks. Use for configuration management."
 category: devops
 tags: [ansible, automation, configuration-management, devops]
 models: [sonnet, opus]

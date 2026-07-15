@@ -1,6 +1,6 @@
 ---
 name: avalanche-staking
-description: Staking with Avalanche. staking.
+description: "Staking with Avalanche. staking."
 category: blockchain
 tags: [avalanche-staking, blockchain, russian]
 models: [sonnet, opus]

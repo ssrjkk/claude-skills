@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-monitoring
-description: Monitoring with Elasticsearch. cluster monitoring.
+description: "Monitoring with Elasticsearch. cluster monitoring."
 category: database
 tags: [elasticsearch, monitoring, database, search-engine]
 models: [gpt-4, claude-3]

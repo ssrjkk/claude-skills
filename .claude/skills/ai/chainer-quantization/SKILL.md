@@ -1,6 +1,6 @@
 ---
 name: chainer-quantization
-description: Quantization with Chainer. model quantization.
+description: "Quantization with Chainer. model quantization."
 category: ai
 tags: [chainer, quantization, ai, deep-learning]
 models: [gpt-4, claude-3]

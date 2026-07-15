@@ -1,6 +1,6 @@
 ---
 name: supabase-integration
-description: Integration for Supabase: integration with other tools
+description: "Integration for Supabase: integration with other tools"
 category: database
 tags: [supabase-integration, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: bamboohr-payroll
-description: Payroll with BambooHR. payroll.
+description: "Payroll with BambooHR. payroll."
 category: hr
 tags: [bamboohr, payroll, hr, hr-tech]
 models: [gpt-4, claude-3]

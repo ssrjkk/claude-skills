@@ -1,6 +1,6 @@
 ---
 name: hubstaff-setup
-description: Setup with Hubstaff. setup.
+description: "Setup with Hubstaff. setup."
 category: hr
 tags: [hubstaff, setup, hr, hr-tech]
 models: [gpt-4, claude-3]

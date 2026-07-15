@@ -1,6 +1,6 @@
 ---
 name: animejs-guides
-description: Guides for Animejs: how-to guides
+description: "Guides for Animejs: how-to guides"
 category: design
 tags: [animejs-guides, design, russian]
 models: [sonnet, opus]

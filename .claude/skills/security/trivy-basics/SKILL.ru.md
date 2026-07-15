@@ -1,6 +1,6 @@
 ---
 name: trivy-basics
-description: Basics for Trivy: fundamentals and core concepts
+description: "Basics for Trivy: fundamentals and core concepts"
 category: security
 tags: [trivy-basics, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: calico-configuration
-description: Configuration for Calico: configuration and setup
+description: "Configuration for Calico: configuration and setup"
 category: devops
 tags: [calico, configuration, devops]
 models: [sonnet, opus]

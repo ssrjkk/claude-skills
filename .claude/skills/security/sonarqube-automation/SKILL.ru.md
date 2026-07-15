@@ -1,6 +1,6 @@
 ---
 name: sonarqube-automation
-description: Automation with SonarQube. automation.
+description: "Automation with SonarQube. automation."
 category: security
 tags: [sonarqube-automation, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: labs-setup
-description: Setup with LIS. implementation.
+description: "Setup with LIS. implementation."
 category: healthcare
 tags: [labs-setup, healthcare, russian]
 models: [sonnet, opus]

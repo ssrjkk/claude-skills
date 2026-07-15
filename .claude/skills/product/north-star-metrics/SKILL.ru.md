@@ -1,6 +1,6 @@
 ---
 name: north-star-metrics
-description: Metrics with North Star. measurement.
+description: "Metrics with North Star. measurement."
 category: product
 tags: [north-star-metrics, product, russian]
 models: [sonnet, opus]

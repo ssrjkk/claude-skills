@@ -1,6 +1,6 @@
 ---
 name: electron-setup
-description: Setup with Electron. SDK setup.
+description: "Setup with Electron. SDK setup."
 category: desktop
 tags: [electron-setup, desktop, russian]
 models: [sonnet, opus]

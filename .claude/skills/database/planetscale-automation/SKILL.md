@@ -1,6 +1,6 @@
 ---
 name: planetscale-automation
-description: Automation for Planetscale: automation and scripting
+description: "Automation for Planetscale: automation and scripting"
 category: database
 tags: [planetscale, automation, database]
 models: [sonnet, opus]

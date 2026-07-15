@@ -1,6 +1,6 @@
 ---
 name: nim-error-handling
-description: Error Handling with Nim. error management.
+description: "Error Handling with Nim. error management."
 category: backend
 tags: [nim, error-handling, backend, backend]
 models: [gpt-4, claude-3]

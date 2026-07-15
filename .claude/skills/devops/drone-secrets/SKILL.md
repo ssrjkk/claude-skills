@@ -1,6 +1,6 @@
 ---
 name: drone-secrets
-description: Secrets with Drone CI. secret management.
+description: "Secrets with Drone CI. secret management."
 category: devops
 tags: [drone, secrets, devops, ci-cd]
 models: [gpt-4, claude-3]

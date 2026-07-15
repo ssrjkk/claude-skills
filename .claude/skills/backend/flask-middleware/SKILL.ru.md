@@ -1,6 +1,6 @@
 ---
 name: flask-middleware
-description: Middleware with Flask. middleware pipelines.
+description: "Middleware with Flask. middleware pipelines."
 category: backend
 tags: [flask-middleware, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: wireshark-automation
-description: Automation with Wireshark. automation.
+description: "Automation with Wireshark. automation."
 category: security
 tags: [wireshark, automation, security, security-tool]
 models: [gpt-4, claude-3]

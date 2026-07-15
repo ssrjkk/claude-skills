@@ -1,6 +1,6 @@
 ---
 name: stomp-security
-description: Security with STOMP. security.
+description: "Security with STOMP. security."
 category: communications
 tags: [stomp, security, communications, communication-protocol]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: micropython-sensors
-description: Sensors with MicroPython. sensor integration.
+description: "Sensors with MicroPython. sensor integration."
 category: iot
 tags: [micropython-sensors, iot, russian]
 models: [sonnet, opus]

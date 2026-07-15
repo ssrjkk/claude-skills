@@ -1,6 +1,6 @@
 ---
 name: datadog-metrics
-description: Metrics with Datadog. collecting metrics.
+description: "Metrics with Datadog. collecting metrics."
 category: devops
 tags: [datadog, metrics, devops, monitoring]
 models: [gpt-4, claude-3]

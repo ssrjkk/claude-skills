@@ -1,6 +1,6 @@
 ---
 name: geoserver-routing
-description: Routing with GeoServer. routing.
+description: "Routing with GeoServer. routing."
 category: geospatial
 tags: [geoserver, routing, geospatial, gis]
 models: [gpt-4, claude-3]

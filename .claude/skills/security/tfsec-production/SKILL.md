@@ -1,6 +1,6 @@
 ---
 name: tfsec-production
-description: Production for Tfsec: production deployment
+description: "Production for Tfsec: production deployment"
 category: security
 tags: [tfsec, production, security]
 models: [sonnet, opus]

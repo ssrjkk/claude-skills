@@ -1,6 +1,6 @@
 ---
 name: julia-simulation
-description: Simulation with Julia. Monte Carlo.
+description: "Simulation with Julia. Monte Carlo."
 category: scientific
 tags: [julia, simulation, scientific, scientific-computing]
 models: [gpt-4, claude-3]

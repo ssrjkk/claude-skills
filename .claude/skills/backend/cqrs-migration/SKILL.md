@@ -1,6 +1,6 @@
 ---
 name: cqrs-migration
-description: Migration with CQRS. adopting the pattern.
+description: "Migration with CQRS. adopting the pattern."
 category: backend
 tags: [cqrs, migration, backend, architecture]
 models: [gpt-4, claude-3]

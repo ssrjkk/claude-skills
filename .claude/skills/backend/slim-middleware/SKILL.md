@@ -1,6 +1,6 @@
 ---
 name: slim-middleware
-description: Middleware with Slim. pipeline.
+description: "Middleware with Slim. pipeline."
 category: backend
 tags: [slim, middleware, backend, backend]
 models: [gpt-4, claude-3]

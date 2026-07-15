@@ -1,6 +1,6 @@
 ---
 name: material-tailwind-guides
-description: Guides for Material-Tailwind: how-to guides
+description: "Guides for Material-Tailwind: how-to guides"
 category: frontend
 tags: [material-tailwind-guides, frontend, russian]
 models: [sonnet, opus]

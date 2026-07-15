@@ -1,6 +1,6 @@
 ---
 name: ldtk-best-practices
-description: Best Practices for Ldtk: best practices and patterns
+description: "Best Practices for Ldtk: best practices and patterns"
 category: gamedev
 tags: [ldtk-best-practices, gamedev, russian]
 models: [sonnet, opus]

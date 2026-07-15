@@ -1,6 +1,6 @@
 ---
 name: surreal-setup
-description: Setup with SurrealDB. installation.
+description: "Setup with SurrealDB. installation."
 category: database
 tags: [surreal-setup, database, russian]
 models: [sonnet, opus]

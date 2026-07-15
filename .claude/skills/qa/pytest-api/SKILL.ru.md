@@ -1,6 +1,6 @@
 ---
 name: pytest-api
-description: API for Pytest: API development and integration
+description: "API for Pytest: API development and integration"
 category: qa
 tags: [pytest-api, qa, russian]
 models: [sonnet, opus]

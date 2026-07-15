@@ -1,6 +1,6 @@
 ---
 name: wasmtime
-description: Development with Wasmtime: tools and best practices
+description: "Development with Wasmtime: tools and best practices"
 category: security
 tags: [wasmtime, security, development]
 models: [sonnet, opus]

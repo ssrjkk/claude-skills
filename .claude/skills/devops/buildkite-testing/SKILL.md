@@ -1,6 +1,6 @@
 ---
 name: buildkite-testing
-description: Testing with Buildkite. automated tests.
+description: "Testing with Buildkite. automated tests."
 category: devops
 tags: [buildkite, testing, devops, ci-cd]
 models: [gpt-4, claude-3]

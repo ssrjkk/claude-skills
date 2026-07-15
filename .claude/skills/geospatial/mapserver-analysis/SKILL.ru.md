@@ -1,6 +1,6 @@
 ---
 name: mapserver-analysis
-description: Analysis with MapServer. spatial analysis.
+description: "Analysis with MapServer. spatial analysis."
 category: geospatial
 tags: [mapserver-analysis, geospatial, russian]
 models: [sonnet, opus]

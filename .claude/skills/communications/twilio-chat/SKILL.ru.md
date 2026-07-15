@@ -1,6 +1,6 @@
 ---
 name: twilio-chat
-description: Chat with Twilio. chat.
+description: "Chat with Twilio. chat."
 category: communications
 tags: [twilio-chat, communications, russian]
 models: [sonnet, opus]

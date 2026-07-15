@@ -1,6 +1,6 @@
 ---
 name: netlify
-description: Deploys static sites and serverless functions with Netlify, including forms, identity, and split testing.
+description: "Deploys static sites and serverless functions with Netlify, including forms, identity, and split testing."
 category: devops
 tags: [netlify, devops, russian]
 models: [sonnet, opus]

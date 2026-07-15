@@ -1,6 +1,6 @@
 ---
 name: kinesis-etl
-description: ETL with Kinesis. extract-transform-load.
+description: "ETL with Kinesis. extract-transform-load."
 category: data
 tags: [kinesis-etl, data, russian]
 models: [sonnet, opus]

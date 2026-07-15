@@ -1,6 +1,6 @@
 ---
 name: react-accessibility
-description: Accessibility with React. a11y.
+description: "Accessibility with React. a11y."
 category: frontend
 tags: [react-accessibility, frontend, russian]
 models: [sonnet, opus]

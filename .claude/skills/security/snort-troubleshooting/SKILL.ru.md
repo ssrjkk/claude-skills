@@ -1,6 +1,6 @@
 ---
 name: snort-troubleshooting
-description: Troubleshooting for Snort: troubleshooting common issues
+description: "Troubleshooting for Snort: troubleshooting common issues"
 category: security
 tags: [snort-troubleshooting, security, russian]
 models: [sonnet, opus]

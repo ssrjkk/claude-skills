@@ -1,6 +1,6 @@
 ---
 name: jda-inventory
-description: Inventory with JDA/Blue Yonder. inventory mgmt.
+description: "Inventory with JDA/Blue Yonder. inventory mgmt."
 category: supply-chain
 tags: [jda-inventory, supply-chain, russian]
 models: [sonnet, opus]

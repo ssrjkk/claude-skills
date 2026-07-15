@@ -1,6 +1,6 @@
 ---
 name: nativescript-deployment
-description: Deployment with NativeScript. app store.
+description: "Deployment with NativeScript. app store."
 category: mobile
 tags: [nativescript-deployment, mobile, russian]
 models: [sonnet, opus]

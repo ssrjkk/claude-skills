@@ -1,6 +1,6 @@
 ---
 name: azure-pipelines-pipeline
-description: Pipeline with Azure Pipelines. pipeline creation.
+description: "Pipeline with Azure Pipelines. pipeline creation."
 category: devops
 tags: [azure-pipelines-pipeline, devops, russian]
 models: [sonnet, opus]

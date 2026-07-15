@@ -1,6 +1,6 @@
 ---
 name: tdd-best-practices
-description: Best Practices with TDD. tips.
+description: "Best Practices with TDD. tips."
 category: engineering
 tags: [tdd-best-practices, engineering, russian]
 models: [sonnet, opus]

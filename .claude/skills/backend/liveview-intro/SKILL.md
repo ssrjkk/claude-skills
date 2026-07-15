@@ -1,6 +1,6 @@
 ---
 name: liveview-intro
-description: Intro for Liveview: introduction
+description: "Intro for Liveview: introduction"
 category: backend
 tags: [liveview, intro, backend]
 models: [sonnet, opus]

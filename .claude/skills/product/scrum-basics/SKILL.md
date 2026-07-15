@@ -1,6 +1,6 @@
 ---
 name: scrum-basics
-description: Basics with Scrum. fundamentals.
+description: "Basics with Scrum. fundamentals."
 category: product
 tags: [scrum, basics, product, methodology]
 models: [gpt-4, claude-3]

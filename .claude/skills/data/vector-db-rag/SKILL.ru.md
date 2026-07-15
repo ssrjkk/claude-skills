@@ -1,6 +1,6 @@
 ---
 name: vector-db-rag
-description: Builds RAG pipelines with vector databases (Chroma, Pinecone) and embedding models. Use for semantic search and LLM applications.
+description: "Builds RAG pipelines with vector databases (Chroma, Pinecone) and embedding models. Use for semantic search and LLM applications."
 category: data
 tags: [vector-db-rag, data, russian]
 models: [sonnet, opus]

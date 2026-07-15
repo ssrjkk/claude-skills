@@ -1,6 +1,6 @@
 ---
 name: owasp-debugging
-description: Debugging for Owasp: debugging and troubleshooting
+description: "Debugging for Owasp: debugging and troubleshooting"
 category: security
 tags: [owasp-debugging, security, russian]
 models: [sonnet, opus]

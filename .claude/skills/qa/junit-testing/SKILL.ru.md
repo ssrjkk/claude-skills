@@ -1,6 +1,6 @@
 ---
 name: junit-testing
-description: Testing for Junit: testing and validation
+description: "Testing for Junit: testing and validation"
 category: qa
 tags: [junit-testing, qa, russian]
 models: [sonnet, opus]

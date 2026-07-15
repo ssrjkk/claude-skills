@@ -1,6 +1,6 @@
 ---
 name: riscv-setup
-description: Setup with RISC-V. toolchain.
+description: "Setup with RISC-V. toolchain."
 category: embedded
 tags: [riscv-setup, embedded, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ladle-setup
-description: Setup for Ladle: setup guide
+description: "Setup for Ladle: setup guide"
 category: frontend
 tags: [ladle-setup, frontend, russian]
 models: [sonnet, opus]

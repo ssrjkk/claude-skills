@@ -1,6 +1,6 @@
 ---
 name: pinot-guides
-description: Guides for Pinot: how-to guides
+description: "Guides for Pinot: how-to guides"
 category: data
 tags: [pinot-guides, data, russian]
 models: [sonnet, opus]

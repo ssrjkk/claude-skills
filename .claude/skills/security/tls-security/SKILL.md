@@ -1,6 +1,6 @@
 ---
 name: tls-security
-description: Security for Tls: security best practices
+description: "Security for Tls: security best practices"
 category: security
 tags: [tls, security, security]
 models: [sonnet, opus]

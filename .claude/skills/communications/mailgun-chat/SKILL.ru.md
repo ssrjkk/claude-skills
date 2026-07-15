@@ -1,6 +1,6 @@
 ---
 name: mailgun-chat
-description: Chat with Mailgun. chat.
+description: "Chat with Mailgun. chat."
 category: communications
 tags: [mailgun-chat, communications, russian]
 models: [sonnet, opus]

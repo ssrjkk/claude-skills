@@ -1,6 +1,6 @@
 ---
 name: tide-websocket
-description: WebSocket with Tide. real-time.
+description: "WebSocket with Tide. real-time."
 category: backend
 tags: [tide-websocket, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: widget-ios-usage
-description: Usage for Widget-Ios: usage reference
+description: "Usage for Widget-Ios: usage reference"
 category: mobile
 tags: [widget-ios, usage, mobile]
 models: [sonnet, opus]

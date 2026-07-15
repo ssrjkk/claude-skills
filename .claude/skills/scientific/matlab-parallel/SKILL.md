@@ -1,6 +1,6 @@
 ---
 name: matlab-parallel
-description: Parallel with MATLAB. parallel computing.
+description: "Parallel with MATLAB. parallel computing."
 category: scientific
 tags: [matlab, parallel, scientific, scientific-computing]
 models: [gpt-4, claude-3]

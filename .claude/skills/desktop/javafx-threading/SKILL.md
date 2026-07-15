@@ -1,6 +1,6 @@
 ---
 name: javafx-threading
-description: Threading with JavaFX. multithreading.
+description: "Threading with JavaFX. multithreading."
 category: desktop
 tags: [javafx, threading, desktop, desktop]
 models: [gpt-4, claude-3]

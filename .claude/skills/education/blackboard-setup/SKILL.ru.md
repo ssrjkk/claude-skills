@@ -1,6 +1,6 @@
 ---
 name: blackboard-setup
-description: Setup with Blackboard. setup.
+description: "Setup with Blackboard. setup."
 category: education
 tags: [blackboard-setup, education, russian]
 models: [sonnet, opus]

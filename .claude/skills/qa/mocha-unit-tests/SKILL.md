@@ -1,6 +1,6 @@
 ---
 name: mocha-unit-tests
-description: Unit Tests with Mocha. unit testing.
+description: "Unit Tests with Mocha. unit testing."
 category: qa
 tags: [mocha, unit-tests, qa, testing]
 models: [gpt-4, claude-3]

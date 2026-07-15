@@ -1,6 +1,6 @@
 ---
 name: game-balance-tools
-description: Tools with Game Balance. tools.
+description: "Tools with Game Balance. tools."
 category: gamedev
 tags: [game-balance, tools, gamedev, game-design]
 models: [gpt-4, claude-3]

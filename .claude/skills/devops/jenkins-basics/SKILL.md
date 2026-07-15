@@ -1,6 +1,6 @@
 ---
 name: jenkins-basics
-description: Basics for Jenkins: fundamentals and core concepts
+description: "Basics for Jenkins: fundamentals and core concepts"
 category: devops
 tags: [jenkins, basics, devops]
 models: [sonnet, opus]

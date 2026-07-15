@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-monitoring
-description: Monitoring with Elasticsearch. cluster monitoring.
+description: "Monitoring with Elasticsearch. cluster monitoring."
 category: database
 tags: [elasticsearch-monitoring, database, russian]
 models: [sonnet, opus]

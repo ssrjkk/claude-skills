@@ -1,6 +1,6 @@
 ---
 name: buildkite-monitoring
-description: Monitoring with Buildkite. monitoring.
+description: "Monitoring with Buildkite. monitoring."
 category: devops
 tags: [buildkite-monitoring, devops, russian]
 models: [sonnet, opus]

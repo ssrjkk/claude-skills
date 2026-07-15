@@ -1,6 +1,6 @@
 ---
 name: freertos-memory
-description: Memory with FreeRTOS. memory management.
+description: "Memory with FreeRTOS. memory management."
 category: embedded
 tags: [freertos, memory, embedded, rtos]
 models: [gpt-4, claude-3]

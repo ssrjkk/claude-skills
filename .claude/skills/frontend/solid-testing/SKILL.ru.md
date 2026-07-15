@@ -1,6 +1,6 @@
 ---
 name: solid-testing
-description: Testing with Solid. component testing.
+description: "Testing with Solid. component testing."
 category: frontend
 tags: [solid-testing, frontend, russian]
 models: [sonnet, opus]

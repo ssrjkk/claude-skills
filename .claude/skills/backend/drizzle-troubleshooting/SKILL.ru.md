@@ -1,6 +1,6 @@
 ---
 name: drizzle-troubleshooting
-description: Troubleshooting for Drizzle: troubleshooting common issues
+description: "Troubleshooting for Drizzle: troubleshooting common issues"
 category: backend
 tags: [drizzle-troubleshooting, backend, russian]
 models: [sonnet, opus]

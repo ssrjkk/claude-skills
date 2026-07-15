@@ -1,6 +1,6 @@
 ---
 name: peft-distributed
-description: Distributed with Peft. distributed training.
+description: "Distributed with Peft. distributed training."
 category: ai
 tags: [peft-distributed, ai, russian]
 models: [sonnet, opus]

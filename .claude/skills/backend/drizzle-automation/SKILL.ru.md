@@ -1,6 +1,6 @@
 ---
 name: drizzle-automation
-description: Automation for Drizzle: automation and scripting
+description: "Automation for Drizzle: automation and scripting"
 category: backend
 tags: [drizzle-automation, backend, russian]
 models: [sonnet, opus]

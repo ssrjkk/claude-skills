@@ -1,6 +1,6 @@
 ---
 name: workos-guides
-description: Guides for Workos: how-to guides
+description: "Guides for Workos: how-to guides"
 category: mobile
 tags: [workos, guides, mobile]
 models: [sonnet, opus]

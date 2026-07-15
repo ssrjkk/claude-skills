@@ -1,6 +1,6 @@
 ---
 name: redis
-description: Implements caching, session storage, and pub/sub messaging with Redis. Use for high-performance in-memory data.
+description: "Implements caching, session storage, and pub/sub messaging with Redis. Use for high-performance in-memory data."
 category: database
 tags: [redis, database, russian]
 models: [sonnet, opus]

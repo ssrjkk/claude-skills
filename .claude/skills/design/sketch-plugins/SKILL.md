@@ -1,6 +1,6 @@
 ---
 name: sketch-plugins
-description: Plugins with Sketch. plugins.
+description: "Plugins with Sketch. plugins."
 category: design
 tags: [sketch, plugins, design, design]
 models: [gpt-4, claude-3]

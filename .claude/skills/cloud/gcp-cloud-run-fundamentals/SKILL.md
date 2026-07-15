@@ -1,6 +1,6 @@
 ---
 name: gcp-cloud-run-fundamentals
-description: Fundamentals for Gcp-Cloud-Run: core concepts
+description: "Fundamentals for Gcp-Cloud-Run: core concepts"
 category: cloud
 tags: [gcp-cloud-run, fundamentals, cloud]
 models: [sonnet, opus]

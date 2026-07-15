@@ -1,6 +1,6 @@
 ---
 name: cypress-cloud-production
-description: Production for Cypress-Cloud: production deployment
+description: "Production for Cypress-Cloud: production deployment"
 category: qa
 tags: [cypress-cloud-production, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: arbitrum-staking
-description: Staking with Arbitrum. staking.
+description: "Staking with Arbitrum. staking."
 category: blockchain
 tags: [arbitrum-staking, blockchain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: auto-sklearn-monitoring
-description: Monitoring with Auto Sklearn. model monitoring.
+description: "Monitoring with Auto Sklearn. model monitoring."
 category: ai
 tags: [auto-sklearn-monitoring, ai, russian]
 models: [sonnet, opus]

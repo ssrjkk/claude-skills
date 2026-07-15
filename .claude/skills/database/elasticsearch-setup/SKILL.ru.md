@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-setup
-description: Setup with Elasticsearch. installation.
+description: "Setup with Elasticsearch. installation."
 category: database
 tags: [elasticsearch-setup, database, russian]
 models: [sonnet, opus]

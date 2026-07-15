@@ -1,6 +1,6 @@
 ---
 name: spine-troubleshooting
-description: Troubleshooting for Spine: troubleshooting common issues
+description: "Troubleshooting for Spine: troubleshooting common issues"
 category: gamedev
 tags: [spine-troubleshooting, gamedev, russian]
 models: [sonnet, opus]

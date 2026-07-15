@@ -1,6 +1,6 @@
 ---
 name: penpot-examples
-description: Examples for Penpot: practical examples
+description: "Examples for Penpot: practical examples"
 category: design
 tags: [penpot, examples, design]
 models: [sonnet, opus]

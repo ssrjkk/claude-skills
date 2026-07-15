@@ -1,6 +1,6 @@
 ---
 name: trankit-ner
-description: NER with Trankit. named entity recognition.
+description: "NER with Trankit. named entity recognition."
 category: ai
 tags: [trankit-ner, ai, russian]
 models: [sonnet, opus]

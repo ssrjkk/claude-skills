@@ -1,6 +1,6 @@
 ---
 name: sass-optimization
-description: Optimization with Sass. build optimization.
+description: "Optimization with Sass. build optimization."
 category: frontend
 tags: [sass-optimization, frontend, russian]
 models: [sonnet, opus]

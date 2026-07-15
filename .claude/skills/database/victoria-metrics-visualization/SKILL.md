@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-visualization
-description: Visualization with VictoriaMetrics. charting.
+description: "Visualization with VictoriaMetrics. charting."
 category: database
 tags: [victoria-metrics, visualization, database, time-series]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: phaser-rendering
-description: Rendering with Phaser. graphics.
+description: "Rendering with Phaser. graphics."
 category: gamedev
 tags: [phaser, rendering, gamedev, game-engine]
 models: [gpt-4, claude-3]

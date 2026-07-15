@@ -1,6 +1,6 @@
 ---
 name: zeek-integration
-description: Integration for Zeek: integration with other tools
+description: "Integration for Zeek: integration with other tools"
 category: security
 tags: [zeek, integration, security]
 models: [sonnet, opus]

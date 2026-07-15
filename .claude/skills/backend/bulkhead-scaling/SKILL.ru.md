@@ -1,6 +1,6 @@
 ---
 name: bulkhead-scaling
-description: Scaling with Bulkhead. scaling considerations.
+description: "Scaling with Bulkhead. scaling considerations."
 category: backend
 tags: [bulkhead-scaling, backend, russian]
 models: [sonnet, opus]

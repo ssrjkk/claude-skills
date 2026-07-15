@@ -1,6 +1,6 @@
 ---
 name: midjourney-integration
-description: Integration for Midjourney: integration with other tools
+description: "Integration for Midjourney: integration with other tools"
 category: ai
 tags: [midjourney-integration, ai, russian]
 models: [sonnet, opus]

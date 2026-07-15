@@ -1,6 +1,6 @@
 ---
 name: drawio-diagrams
-description: Diagrams with Draw.io. diagramming.
+description: "Diagrams with Draw.io. diagramming."
 category: engineering
 tags: [drawio, diagrams, engineering, modeling]
 models: [gpt-4, claude-3]

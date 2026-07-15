@@ -1,6 +1,6 @@
 ---
 name: octave-simulation
-description: Simulation with GNU Octave. Monte Carlo.
+description: "Simulation with GNU Octave. Monte Carlo."
 category: scientific
 tags: [octave-simulation, scientific, russian]
 models: [sonnet, opus]

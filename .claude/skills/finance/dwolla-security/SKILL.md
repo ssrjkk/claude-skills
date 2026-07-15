@@ -1,6 +1,6 @@
 ---
 name: dwolla-security
-description: Security with Dwolla. security.
+description: "Security with Dwolla. security."
 category: finance
 tags: [dwolla, security, finance, fintech]
 models: [gpt-4, claude-3]

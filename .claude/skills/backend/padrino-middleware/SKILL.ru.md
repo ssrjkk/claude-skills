@@ -1,6 +1,6 @@
 ---
 name: padrino-middleware
-description: Middleware with Padrino. rack middleware.
+description: "Middleware with Padrino. rack middleware."
 category: backend
 tags: [padrino-middleware, backend, russian]
 models: [sonnet, opus]

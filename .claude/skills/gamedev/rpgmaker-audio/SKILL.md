@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-audio
-description: Audio with RPG Maker. audio.
+description: "Audio with RPG Maker. audio."
 category: gamedev
 tags: [rpgmaker, audio, gamedev, game-engine]
 models: [gpt-4, claude-3]

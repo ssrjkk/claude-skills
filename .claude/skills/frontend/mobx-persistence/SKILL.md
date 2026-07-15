@@ -1,6 +1,6 @@
 ---
 name: mobx-persistence
-description: Persistence with MobX. state persistence.
+description: "Persistence with MobX. state persistence."
 category: frontend
 tags: [mobx, persistence, frontend, state-management]
 models: [gpt-4, claude-3]

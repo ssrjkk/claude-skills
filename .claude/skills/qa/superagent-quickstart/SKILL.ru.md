@@ -1,6 +1,6 @@
 ---
 name: superagent-quickstart
-description: Quickstart for Superagent: quick start guide
+description: "Quickstart for Superagent: quick start guide"
 category: qa
 tags: [superagent-quickstart, qa, russian]
 models: [sonnet, opus]

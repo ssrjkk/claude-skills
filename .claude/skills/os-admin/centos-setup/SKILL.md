@@ -1,6 +1,6 @@
 ---
 name: centos-setup
-description: Setup with CentOS. installation.
+description: "Setup with CentOS. installation."
 category: os-admin
 tags: [centos, setup, os-admin, linux]
 models: [gpt-4, claude-3]

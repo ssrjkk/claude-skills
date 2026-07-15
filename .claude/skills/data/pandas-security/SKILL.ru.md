@@ -1,6 +1,6 @@
 ---
 name: pandas-security
-description: Security for Pandas: security best practices
+description: "Security for Pandas: security best practices"
 category: data
 tags: [pandas-security, data, russian]
 models: [sonnet, opus]

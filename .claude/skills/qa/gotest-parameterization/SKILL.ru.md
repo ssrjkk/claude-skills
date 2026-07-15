@@ -1,6 +1,6 @@
 ---
 name: gotest-parameterization
-description: Parameterization with Go Test. parametrized tests.
+description: "Parameterization with Go Test. parametrized tests."
 category: qa
 tags: [gotest-parameterization, qa, russian]
 models: [sonnet, opus]

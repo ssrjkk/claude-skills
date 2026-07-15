@@ -1,6 +1,6 @@
 ---
 name: qt-events
-description: Events with Qt. event handling.
+description: "Events with Qt. event handling."
 category: desktop
 tags: [qt, events, desktop, desktop]
 models: [gpt-4, claude-3]

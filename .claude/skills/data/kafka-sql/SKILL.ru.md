@@ -1,6 +1,6 @@
 ---
 name: kafka-sql
-description: SQL with Kafka. SQL queries.
+description: "SQL with Kafka. SQL queries."
 category: data
 tags: [kafka-sql, data, russian]
 models: [sonnet, opus]

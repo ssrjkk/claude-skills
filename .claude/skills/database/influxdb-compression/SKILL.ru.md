@@ -1,6 +1,6 @@
 ---
 name: influxdb-compression
-description: Compression with InfluxDB. compression.
+description: "Compression with InfluxDB. compression."
 category: database
 tags: [influxdb-compression, database, russian]
 models: [sonnet, opus]

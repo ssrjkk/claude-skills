@@ -1,6 +1,6 @@
 ---
 name: less-optimization
-description: Optimization with Less. build optimization.
+description: "Optimization with Less. build optimization."
 category: frontend
 tags: [less, optimization, frontend, build-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: pillow-face-detection
-description: Face Detection with Pillow. facial recognition.
+description: "Face Detection with Pillow. facial recognition."
 category: ai
 tags: [pillow-face-detection, ai, russian]
 models: [sonnet, opus]

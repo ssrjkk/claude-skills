@@ -1,6 +1,6 @@
 ---
 name: kinde-quickstart
-description: Quickstart for Kinde: quick start guide
+description: "Quickstart for Kinde: quick start guide"
 category: mobile
 tags: [kinde-quickstart, mobile, russian]
 models: [sonnet, opus]

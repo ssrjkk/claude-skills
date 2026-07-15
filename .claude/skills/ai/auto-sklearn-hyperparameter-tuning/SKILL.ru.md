@@ -1,6 +1,6 @@
 ---
 name: auto-sklearn-hyperparameter-tuning
-description: Hyperparameter Tuning with Auto Sklearn. optimizing params.
+description: "Hyperparameter Tuning with Auto Sklearn. optimizing params."
 category: ai
 tags: [auto-sklearn-hyperparameter-tuning, ai, russian]
 models: [sonnet, opus]

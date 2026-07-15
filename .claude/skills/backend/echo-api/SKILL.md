@@ -1,6 +1,6 @@
 ---
 name: echo-api
-description: API for Echo: API development and integration
+description: "API for Echo: API development and integration"
 category: backend
 tags: [echo, api, backend]
 models: [sonnet, opus]

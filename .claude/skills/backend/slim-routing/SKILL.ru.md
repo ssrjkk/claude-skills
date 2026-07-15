@@ -1,6 +1,6 @@
 ---
 name: slim-routing
-description: Routing with Slim. HTTP routing.
+description: "Routing with Slim. HTTP routing."
 category: backend
 tags: [slim-routing, backend, russian]
 models: [sonnet, opus]

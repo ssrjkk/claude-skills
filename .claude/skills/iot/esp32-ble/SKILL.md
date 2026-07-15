@@ -1,6 +1,6 @@
 ---
 name: esp32-ble
-description: BLE with ESP32. Bluetooth.
+description: "BLE with ESP32. Bluetooth."
 category: iot
 tags: [esp32, ble, iot, iot]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: steam-sdk-automation
-description: Automation for Steam-Sdk: automation and scripting
+description: "Automation for Steam-Sdk: automation and scripting"
 category: gamedev
 tags: [steam-sdk-automation, gamedev, russian]
 models: [sonnet, opus]

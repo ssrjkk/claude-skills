@@ -1,6 +1,6 @@
 ---
 name: algo-trading-basics
-description: Basics with Algorithmic Trading. fundamentals.
+description: "Basics with Algorithmic Trading. fundamentals."
 category: finance
 tags: [algo-trading, basics, finance, trading]
 models: [gpt-4, claude-3]

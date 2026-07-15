@@ -1,6 +1,6 @@
 ---
 name: authentik-quickstart
-description: Quickstart for Authentik: quick start guide
+description: "Quickstart for Authentik: quick start guide"
 category: security
 tags: [authentik-quickstart, security, russian]
 models: [sonnet, opus]

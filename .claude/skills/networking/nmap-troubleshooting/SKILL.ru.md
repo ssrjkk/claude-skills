@@ -1,6 +1,6 @@
 ---
 name: nmap-troubleshooting
-description: Troubleshooting with Nmap. debugging.
+description: "Troubleshooting with Nmap. debugging."
 category: networking
 tags: [nmap-troubleshooting, networking, russian]
 models: [sonnet, opus]

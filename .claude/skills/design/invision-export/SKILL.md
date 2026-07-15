@@ -1,6 +1,6 @@
 ---
 name: invision-export
-description: Export with InVision. assets.
+description: "Export with InVision. assets."
 category: design
 tags: [invision, export, design, design]
 models: [gpt-4, claude-3]

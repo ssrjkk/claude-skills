@@ -1,6 +1,6 @@
 ---
 name: iperf-troubleshooting
-description: Troubleshooting with iperf. debugging.
+description: "Troubleshooting with iperf. debugging."
 category: networking
 tags: [iperf-troubleshooting, networking, russian]
 models: [sonnet, opus]

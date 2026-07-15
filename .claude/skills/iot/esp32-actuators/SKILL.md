@@ -1,6 +1,6 @@
 ---
 name: esp32-actuators
-description: Actuators with ESP32. motors.
+description: "Actuators with ESP32. motors."
 category: iot
 tags: [esp32, actuators, iot, iot]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: sqlalchemy-troubleshooting
-description: Troubleshooting for Sqlalchemy: troubleshooting common issues
+description: "Troubleshooting for Sqlalchemy: troubleshooting common issues"
 category: backend
 tags: [sqlalchemy-troubleshooting, backend, russian]
 models: [sonnet, opus]

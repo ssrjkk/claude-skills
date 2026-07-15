@@ -1,6 +1,6 @@
 ---
 name: flutter-state
-description: State with Flutter. state management.
+description: "State with Flutter. state management."
 category: mobile
 tags: [flutter, state, mobile, mobile]
 models: [gpt-4, claude-3]

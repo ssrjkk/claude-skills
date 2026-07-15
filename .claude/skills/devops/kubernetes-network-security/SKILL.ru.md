@@ -1,6 +1,6 @@
 ---
 name: kubernetes-network-security
-description: Design and implement secure Kubernetes networking with network policies, service mesh, and mTLS
+description: "Design and implement secure Kubernetes networking with network policies, service mesh, and mTLS"
 category: devops
 tags: [kubernetes-network-security, devops, russian]
 models: [sonnet, opus]

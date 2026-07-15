@@ -1,6 +1,6 @@
 ---
 name: rtmp-encoding
-description: Encoding with RTMP. encoding.
+description: "Encoding with RTMP. encoding."
 category: media
 tags: [rtmp-encoding, media, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: streamlit-widgets
-description: Widgets with Streamlit. input widgets.
+description: "Widgets with Streamlit. input widgets."
 category: data
 tags: [streamlit-widgets, data, russian]
 models: [sonnet, opus]

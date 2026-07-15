@@ -1,6 +1,6 @@
 ---
 name: hashicorp-vault-guides
-description: Guides for Hashicorp-Vault: how-to guides
+description: "Guides for Hashicorp-Vault: how-to guides"
 category: security
 tags: [hashicorp-vault, guides, security]
 models: [sonnet, opus]

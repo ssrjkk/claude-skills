@@ -1,6 +1,6 @@
 ---
 name: jest-debugging
-description: Debugging for Jest: debugging and troubleshooting
+description: "Debugging for Jest: debugging and troubleshooting"
 category: qa
 tags: [jest, debugging, qa]
 models: [sonnet, opus]

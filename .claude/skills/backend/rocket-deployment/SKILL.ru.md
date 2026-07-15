@@ -1,6 +1,6 @@
 ---
 name: rocket-deployment
-description: Deployment with Rocket. build.
+description: "Deployment with Rocket. build."
 category: backend
 tags: [rocket-deployment, backend, russian]
 models: [sonnet, opus]

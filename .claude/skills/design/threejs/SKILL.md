@@ -1,6 +1,6 @@
 ---
 name: threejs
-description: Creates 3D graphics on the web with Three.js, including scenes, cameras, animations, and WebGL.
+description: "Creates 3D graphics on the web with Three.js, including scenes, cameras, animations, and WebGL."
 category: design
 tags: [threejs, 3d, webgl, graphics, animation]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: promptflow-tool-use
-description: Tool Use with Promptflow. function calling.
+description: "Tool Use with Promptflow. function calling."
 category: ai
 tags: [promptflow, tool-use, ai, llm]
 models: [gpt-4, claude-3]

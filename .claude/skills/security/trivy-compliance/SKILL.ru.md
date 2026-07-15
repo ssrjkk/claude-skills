@@ -1,6 +1,6 @@
 ---
 name: trivy-compliance
-description: Compliance with Trivy. compliance.
+description: "Compliance with Trivy. compliance."
 category: security
 tags: [trivy-compliance, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: jest-ci
-description: CI with Jest. CI integration.
+description: "CI with Jest. CI integration."
 category: qa
 tags: [jest-ci, qa, russian]
 models: [sonnet, opus]

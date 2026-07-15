@@ -1,6 +1,6 @@
 ---
 name: openxr-spatial
-description: Spatial with OpenXR. room mapping.
+description: "Spatial with OpenXR. room mapping."
 category: ar-vr
 tags: [openxr-spatial, ar-vr, russian]
 models: [sonnet, opus]

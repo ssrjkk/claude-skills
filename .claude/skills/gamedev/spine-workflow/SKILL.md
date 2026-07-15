@@ -1,6 +1,6 @@
 ---
 name: spine-workflow
-description: Workflow for Spine: workflow optimization
+description: "Workflow for Spine: workflow optimization"
 category: gamedev
 tags: [spine, workflow, gamedev]
 models: [sonnet, opus]

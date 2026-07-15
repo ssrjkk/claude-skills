@@ -1,6 +1,6 @@
 ---
 name: wrk-reports
-description: Reports with wrk. report generation.
+description: "Reports with wrk. report generation."
 category: qa
 tags: [wrk, reports, qa, performance-testing]
 models: [gpt-4, claude-3]

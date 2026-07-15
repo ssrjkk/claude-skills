@@ -1,6 +1,6 @@
 ---
 name: varnish-setup
-description: Setup with Varnish. installation.
+description: "Setup with Varnish. installation."
 category: database
 tags: [varnish, setup, database, caching]
 models: [gpt-4, claude-3]

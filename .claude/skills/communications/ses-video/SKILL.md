@@ -1,6 +1,6 @@
 ---
 name: ses-video
-description: Video with Amazon SES. video calls.
+description: "Video with Amazon SES. video calls."
 category: communications
 tags: [ses, video, communications, communication-platform]
 models: [gpt-4, claude-3]

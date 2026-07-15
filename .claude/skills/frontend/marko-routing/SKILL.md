@@ -1,6 +1,6 @@
 ---
 name: marko-routing
-description: Routing with Marko. client routing.
+description: "Routing with Marko. client routing."
 category: frontend
 tags: [marko, routing, frontend, frontend]
 models: [gpt-4, claude-3]

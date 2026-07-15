@@ -1,6 +1,6 @@
 ---
 name: xmpp-testing
-description: Testing with XMPP. testing.
+description: "Testing with XMPP. testing."
 category: communications
 tags: [xmpp, testing, communications, communication-protocol]
 models: [gpt-4, claude-3]

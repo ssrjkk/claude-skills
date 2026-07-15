@@ -1,6 +1,6 @@
 ---
 name: stimulus-accessibility
-description: Accessibility with Stimulus. a11y.
+description: "Accessibility with Stimulus. a11y."
 category: frontend
 tags: [stimulus, accessibility, frontend, frontend]
 models: [gpt-4, claude-3]

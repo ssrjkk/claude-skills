@@ -1,6 +1,6 @@
 ---
 name: invision-plugins
-description: Plugins with InVision. plugins.
+description: "Plugins with InVision. plugins."
 category: design
 tags: [invision, plugins, design, design]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: raspberry-pi-wifi
-description: WiFi with Raspberry Pi. wireless.
+description: "WiFi with Raspberry Pi. wireless."
 category: iot
 tags: [raspberry-pi, wifi, iot, iot]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: linux-kernel-networking
-description: Networking with Linux Kernel. network config.
+description: "Networking with Linux Kernel. network config."
 category: os-admin
 tags: [linux-kernel-networking, os-admin, russian]
 models: [sonnet, opus]

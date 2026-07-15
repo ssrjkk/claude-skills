@@ -1,6 +1,6 @@
 ---
 name: fixture-factory-guides
-description: Guides for Fixture-Factory: how-to guides
+description: "Guides for Fixture-Factory: how-to guides"
 category: qa
 tags: [fixture-factory, guides, qa]
 models: [sonnet, opus]

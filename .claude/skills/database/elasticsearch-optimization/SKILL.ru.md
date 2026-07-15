@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-optimization
-description: Optimization for Elasticsearch: performance tuning and optimization
+description: "Optimization for Elasticsearch: performance tuning and optimization"
 category: database
 tags: [elasticsearch-optimization, database, russian]
 models: [sonnet, opus]

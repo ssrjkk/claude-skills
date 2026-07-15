@@ -1,6 +1,6 @@
 ---
 name: north-star-best-practices
-description: Best Practices with North Star. tips.
+description: "Best Practices with North Star. tips."
 category: product
 tags: [north-star, best-practices, product, product-framework]
 models: [gpt-4, claude-3]

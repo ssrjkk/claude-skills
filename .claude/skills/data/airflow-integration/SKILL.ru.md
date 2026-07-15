@@ -1,6 +1,6 @@
 ---
 name: airflow-integration
-description: Integration with Airflow. connectors.
+description: "Integration with Airflow. connectors."
 category: data
 tags: [airflow-integration, data, russian]
 models: [sonnet, opus]

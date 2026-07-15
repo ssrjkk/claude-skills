@@ -1,6 +1,6 @@
 ---
 name: siege-distributed
-description: Distributed with Siege. distributed load.
+description: "Distributed with Siege. distributed load."
 category: qa
 tags: [siege, distributed, qa, performance-testing]
 models: [gpt-4, claude-3]

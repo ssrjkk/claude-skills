@@ -1,6 +1,6 @@
 ---
 name: qdrant-workflow
-description: Workflow for Qdrant: workflow optimization
+description: "Workflow for Qdrant: workflow optimization"
 category: ai
 tags: [qdrant, workflow, ai]
 models: [sonnet, opus]

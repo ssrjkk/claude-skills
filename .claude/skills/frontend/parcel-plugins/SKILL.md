@@ -1,6 +1,6 @@
 ---
 name: parcel-plugins
-description: Plugins with Parcel. plugins.
+description: "Plugins with Parcel. plugins."
 category: frontend
 tags: [parcel, plugins, frontend, build-tool]
 models: [gpt-4, claude-3]

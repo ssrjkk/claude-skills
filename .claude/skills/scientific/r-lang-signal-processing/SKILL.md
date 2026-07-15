@@ -1,6 +1,6 @@
 ---
 name: r-lang-signal-processing
-description: Signal Processing with R. FFT.
+description: "Signal Processing with R. FFT."
 category: scientific
 tags: [r-lang, signal-processing, scientific, scientific-computing]
 models: [gpt-4, claude-3]

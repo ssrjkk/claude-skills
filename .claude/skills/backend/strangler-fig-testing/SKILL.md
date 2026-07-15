@@ -1,6 +1,6 @@
 ---
 name: strangler-fig-testing
-description: Testing with Strangler Fig. testing the pattern.
+description: "Testing with Strangler Fig. testing the pattern."
 category: backend
 tags: [strangler-fig, testing, backend, architecture]
 models: [gpt-4, claude-3]

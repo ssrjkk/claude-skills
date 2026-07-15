@@ -1,6 +1,6 @@
 ---
 name: blender-production
-description: Production for Blender: production deployment
+description: "Production for Blender: production deployment"
 category: gamedev
 tags: [blender-production, gamedev, russian]
 models: [sonnet, opus]

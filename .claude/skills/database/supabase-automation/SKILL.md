@@ -1,6 +1,6 @@
 ---
 name: supabase-automation
-description: Automation for Supabase: automation and scripting
+description: "Automation for Supabase: automation and scripting"
 category: database
 tags: [supabase, automation, database]
 models: [sonnet, opus]

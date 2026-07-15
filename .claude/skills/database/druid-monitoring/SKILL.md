@@ -1,6 +1,6 @@
 ---
 name: druid-monitoring
-description: Monitoring with Apache Druid. monitoring.
+description: "Monitoring with Apache Druid. monitoring."
 category: database
 tags: [druid, monitoring, database, time-series]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: selenium-selectors
-description: Selectors with Selenium. element selectors.
+description: "Selectors with Selenium. element selectors."
 category: qa
 tags: [selenium, selectors, qa, e2e]
 models: [gpt-4, claude-3]

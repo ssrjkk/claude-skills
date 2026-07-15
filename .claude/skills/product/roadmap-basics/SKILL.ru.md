@@ -1,6 +1,6 @@
 ---
 name: roadmap-basics
-description: Basics with Roadmapping. fundamentals.
+description: "Basics with Roadmapping. fundamentals."
 category: product
 tags: [roadmap-basics, product, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: scrum-implementation
-description: Implementation with Scrum. adoption.
+description: "Implementation with Scrum. adoption."
 category: product
 tags: [scrum, implementation, product, methodology]
 models: [gpt-4, claude-3]

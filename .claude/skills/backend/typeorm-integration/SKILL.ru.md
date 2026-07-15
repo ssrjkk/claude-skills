@@ -1,6 +1,6 @@
 ---
 name: typeorm-integration
-description: Integration for Typeorm: integration with other tools
+description: "Integration for Typeorm: integration with other tools"
 category: backend
 tags: [typeorm-integration, backend, russian]
 models: [sonnet, opus]

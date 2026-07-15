@@ -1,6 +1,6 @@
 ---
 name: react-basics
-description: Basics for React: fundamentals and core concepts
+description: "Basics for React: fundamentals and core concepts"
 category: frontend
 tags: [react, basics, frontend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gsap-integration
-description: Integration for Gsap: integration with other tools
+description: "Integration for Gsap: integration with other tools"
 category: frontend
 tags: [gsap-integration, frontend, russian]
 models: [sonnet, opus]

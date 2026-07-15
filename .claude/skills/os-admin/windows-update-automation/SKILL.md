@@ -1,6 +1,6 @@
 ---
 name: windows-update-automation
-description: Automation with Windows Update. PowerShell.
+description: "Automation with Windows Update. PowerShell."
 category: os-admin
 tags: [windows-update, automation, os-admin, windows]
 models: [gpt-4, claude-3]

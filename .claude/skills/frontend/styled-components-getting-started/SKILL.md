@@ -1,6 +1,6 @@
 ---
 name: styled-components-getting-started
-description: Getting Started for Styled-Components: initial setup and first steps
+description: "Getting Started for Styled-Components: initial setup and first steps"
 category: frontend
 tags: [styled-components, getting-started, frontend]
 models: [sonnet, opus]

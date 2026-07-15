@@ -1,6 +1,6 @@
 ---
 name: sd-wan-automation
-description: Automation with SD-WAN. network automation.
+description: "Automation with SD-WAN. network automation."
 category: networking
 tags: [sd-wan-automation, networking, russian]
 models: [sonnet, opus]

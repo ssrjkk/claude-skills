@@ -1,6 +1,6 @@
 ---
 name: arangodb-graph-visualization
-description: Visualization with ArangoDB Graph. graph viz.
+description: "Visualization with ArangoDB Graph. graph viz."
 category: database
 tags: [arangodb-graph, visualization, database, graph-database]
 models: [gpt-4, claude-3]

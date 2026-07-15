@@ -1,6 +1,6 @@
 ---
 name: slack-api-setup
-description: Setup with Slack API. account setup.
+description: "Setup with Slack API. account setup."
 category: communications
 tags: [slack-api, setup, communications, communication-platform]
 models: [gpt-4, claude-3]

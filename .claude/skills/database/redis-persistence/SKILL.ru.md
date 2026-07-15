@@ -1,6 +1,6 @@
 ---
 name: redis-persistence
-description: Persistence with Redis. persistence.
+description: "Persistence with Redis. persistence."
 category: database
 tags: [redis-persistence, database, russian]
 models: [sonnet, opus]

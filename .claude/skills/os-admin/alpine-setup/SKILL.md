@@ -1,6 +1,6 @@
 ---
 name: alpine-setup
-description: Setup with Alpine Linux. installation.
+description: "Setup with Alpine Linux. installation."
 category: os-admin
 tags: [alpine, setup, os-admin, linux]
 models: [gpt-4, claude-3]

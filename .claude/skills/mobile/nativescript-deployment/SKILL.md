@@ -1,6 +1,6 @@
 ---
 name: nativescript-deployment
-description: Deployment with NativeScript. app store.
+description: "Deployment with NativeScript. app store."
 category: mobile
 tags: [nativescript, deployment, mobile, mobile]
 models: [gpt-4, claude-3]

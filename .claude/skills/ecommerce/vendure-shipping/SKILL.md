@@ -1,6 +1,6 @@
 ---
 name: vendure-shipping
-description: Shipping with Vendure. shipping.
+description: "Shipping with Vendure. shipping."
 category: ecommerce
 tags: [vendure, shipping, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: jenkins-secrets
-description: Secrets with Jenkins. secret management.
+description: "Secrets with Jenkins. secret management."
 category: devops
 tags: [jenkins, secrets, devops, ci-cd]
 models: [gpt-4, claude-3]

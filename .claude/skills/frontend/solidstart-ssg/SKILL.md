@@ -1,6 +1,6 @@
 ---
 name: solidstart-ssg
-description: SSG with SolidStart. static generation.
+description: "SSG with SolidStart. static generation."
 category: frontend
 tags: [solidstart, ssg, frontend, meta-framework]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: projectq
-description: Development with Projectq: tools and best practices
+description: "Development with Projectq: tools and best practices"
 category: ai
 tags: [projectq, ai, development]
 models: [sonnet, opus]

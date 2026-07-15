@@ -1,6 +1,6 @@
 ---
 name: jwt-basics
-description: Basics for Jwt: fundamentals and core concepts
+description: "Basics for Jwt: fundamentals and core concepts"
 category: security
 tags: [jwt-basics, security, russian]
 models: [sonnet, opus]

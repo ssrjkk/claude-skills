@@ -1,6 +1,6 @@
 ---
 name: zeroheight-setup
-description: Setup with Zeroheight. workspace.
+description: "Setup with Zeroheight. workspace."
 category: design
 tags: [zeroheight, setup, design, design]
 models: [gpt-4, claude-3]

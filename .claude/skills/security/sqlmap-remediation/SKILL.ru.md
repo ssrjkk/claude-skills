@@ -1,6 +1,6 @@
 ---
 name: sqlmap-remediation
-description: Remediation with SQLmap. fixing vulns.
+description: "Remediation with SQLmap. fixing vulns."
 category: security
 tags: [sqlmap-remediation, security, russian]
 models: [sonnet, opus]

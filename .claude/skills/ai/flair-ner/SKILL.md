@@ -1,6 +1,6 @@
 ---
 name: flair-ner
-description: NER with Flair. named entity recognition.
+description: "NER with Flair. named entity recognition."
 category: ai
 tags: [flair, ner, ai, nlp]
 models: [gpt-4, claude-3]

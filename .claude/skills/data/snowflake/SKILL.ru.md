@@ -1,6 +1,6 @@
 ---
 name: snowflake
-description: Manages data warehousing with Snowflake, including virtual warehouses, clustering, and semi-structured data support. Use for cloud analytics at scale.
+description: "Manages data warehousing with Snowflake, including virtual warehouses, clustering, and semi-structured data support. Use for cloud analytics at scale."
 category: data
 tags: [snowflake, data, russian]
 models: [sonnet, opus]

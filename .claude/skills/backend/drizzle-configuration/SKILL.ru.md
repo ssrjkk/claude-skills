@@ -1,6 +1,6 @@
 ---
 name: drizzle-configuration
-description: Configuration for Drizzle: configuration and setup
+description: "Configuration for Drizzle: configuration and setup"
 category: backend
 tags: [drizzle-configuration, backend, russian]
 models: [sonnet, opus]

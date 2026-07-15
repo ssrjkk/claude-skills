@@ -1,6 +1,6 @@
 ---
 name: edx-users
-description: Users with Open edX. user management.
+description: "Users with Open edX. user management."
 category: education
 tags: [edx-users, education, russian]
 models: [sonnet, opus]

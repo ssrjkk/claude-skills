@@ -1,6 +1,6 @@
 ---
 name: arbitrum-tokens
-description: Tokens with Arbitrum. token standards.
+description: "Tokens with Arbitrum. token standards."
 category: blockchain
 tags: [arbitrum, tokens, blockchain, blockchain]
 models: [gpt-4, claude-3]

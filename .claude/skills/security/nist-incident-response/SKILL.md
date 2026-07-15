@@ -1,6 +1,6 @@
 ---
 name: nist-incident-response
-description: Incident Response with NIST. incident response.
+description: "Incident Response with NIST. incident response."
 category: security
 tags: [nist, incident-response, security, security]
 models: [gpt-4, claude-3]

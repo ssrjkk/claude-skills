@@ -1,6 +1,6 @@
 ---
 name: snyk-remediation
-description: Remediation with Snyk. fixing vulns.
+description: "Remediation with Snyk. fixing vulns."
 category: security
 tags: [snyk-remediation, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: testcafe-assertions
-description: Assertions with TestCafe. assertions.
+description: "Assertions with TestCafe. assertions."
 category: qa
 tags: [testcafe, assertions, qa, e2e]
 models: [gpt-4, claude-3]

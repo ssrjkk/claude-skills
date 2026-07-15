@@ -1,6 +1,6 @@
 ---
 name: bevy-security
-description: Security for Bevy: security best practices
+description: "Security for Bevy: security best practices"
 category: gamedev
 tags: [bevy, security, gamedev]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: neo4j-clustering
-description: Clustering with Neo4j. clustering.
+description: "Clustering with Neo4j. clustering."
 category: database
 tags: [neo4j, clustering, database, graph-database]
 models: [gpt-4, claude-3]

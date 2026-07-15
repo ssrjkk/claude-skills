@@ -1,6 +1,6 @@
 ---
 name: pico-dark-mode
-description: Dark Mode with Pico CSS. dark theme.
+description: "Dark Mode with Pico CSS. dark theme."
 category: frontend
 tags: [pico, dark-mode, frontend, css]
 models: [gpt-4, claude-3]

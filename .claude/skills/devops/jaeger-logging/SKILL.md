@@ -1,6 +1,6 @@
 ---
 name: jaeger-logging
-description: Logging with Jaeger. log collection.
+description: "Logging with Jaeger. log collection."
 category: devops
 tags: [jaeger, logging, devops, monitoring]
 models: [gpt-4, claude-3]

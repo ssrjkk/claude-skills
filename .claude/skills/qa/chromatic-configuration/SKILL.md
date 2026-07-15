@@ -1,6 +1,6 @@
 ---
 name: chromatic-configuration
-description: Configuration for Chromatic: configuration and setup
+description: "Configuration for Chromatic: configuration and setup"
 category: qa
 tags: [chromatic, configuration, qa]
 models: [sonnet, opus]

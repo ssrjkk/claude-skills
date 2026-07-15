@@ -1,6 +1,6 @@
 ---
 name: brightspace-users
-description: Users with Brightspace. user management.
+description: "Users with Brightspace. user management."
 category: education
 tags: [brightspace-users, education, russian]
 models: [sonnet, opus]

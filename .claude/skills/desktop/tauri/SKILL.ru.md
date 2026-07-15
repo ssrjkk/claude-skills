@@ -1,6 +1,6 @@
 ---
 name: tauri
-description: Builds lightweight, secure desktop applications with Tauri, Rust backend, and web frontend. Use for small, fast native apps.
+description: "Builds lightweight, secure desktop applications with Tauri, Rust backend, and web frontend. Use for small, fast native apps."
 category: desktop
 tags: [tauri, desktop, russian]
 models: [sonnet, opus]

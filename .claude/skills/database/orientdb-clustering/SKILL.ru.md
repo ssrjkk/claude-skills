@@ -1,6 +1,6 @@
 ---
 name: orientdb-clustering
-description: Clustering with OrientDB. clustering.
+description: "Clustering with OrientDB. clustering."
 category: database
 tags: [orientdb-clustering, database, russian]
 models: [sonnet, opus]

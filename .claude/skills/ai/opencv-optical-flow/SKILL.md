@@ -1,6 +1,6 @@
 ---
 name: opencv-optical-flow
-description: Optical Flow with Opencv. motion detection.
+description: "Optical Flow with Opencv. motion detection."
 category: ai
 tags: [opencv, optical-flow, ai, computer-vision]
 models: [gpt-4, claude-3]

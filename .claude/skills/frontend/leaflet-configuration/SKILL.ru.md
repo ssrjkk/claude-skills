@@ -1,6 +1,6 @@
 ---
 name: leaflet-configuration
-description: Configuration for Leaflet: configuration and setup
+description: "Configuration for Leaflet: configuration and setup"
 category: frontend
 tags: [leaflet-configuration, frontend, russian]
 models: [sonnet, opus]

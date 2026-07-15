@@ -1,6 +1,6 @@
 ---
 name: eslint-optimization
-description: Optimization with ESLint. build optimization.
+description: "Optimization with ESLint. build optimization."
 category: frontend
 tags: [eslint, optimization, frontend, build-tool]
 models: [gpt-4, claude-3]

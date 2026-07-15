@@ -1,6 +1,6 @@
 ---
 name: accelerate-optimization
-description: Optimization with Accelerate. model optimization.
+description: "Optimization with Accelerate. model optimization."
 category: ai
 tags: [accelerate, optimization, ai, deep-learning]
 models: [gpt-4, claude-3]

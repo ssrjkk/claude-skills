@@ -1,6 +1,6 @@
 ---
 name: gatling-monitoring
-description: Monitoring for Gatling: monitoring and observability
+description: "Monitoring for Gatling: monitoring and observability"
 category: qa
 tags: [gatling-monitoring, qa, russian]
 models: [sonnet, opus]

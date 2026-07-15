@@ -1,6 +1,6 @@
 ---
 name: tokenizers-ner
-description: NER with Tokenizers. named entity recognition.
+description: "NER with Tokenizers. named entity recognition."
 category: ai
 tags: [tokenizers-ner, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: code-review-implementation
-description: Implementation with Code Review. practice.
+description: "Implementation with Code Review. practice."
 category: engineering
 tags: [code-review, implementation, engineering, engineering]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: foundation-theming
-description: Theming with Foundation. custom themes.
+description: "Theming with Foundation. custom themes."
 category: frontend
 tags: [foundation, theming, frontend, css]
 models: [gpt-4, claude-3]

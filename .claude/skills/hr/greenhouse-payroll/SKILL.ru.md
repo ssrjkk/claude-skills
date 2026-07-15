@@ -1,6 +1,6 @@
 ---
 name: greenhouse-payroll
-description: Payroll with Greenhouse. payroll.
+description: "Payroll with Greenhouse. payroll."
 category: hr
 tags: [greenhouse-payroll, hr, russian]
 models: [sonnet, opus]

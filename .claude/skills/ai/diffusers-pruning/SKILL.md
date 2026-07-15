@@ -1,6 +1,6 @@
 ---
 name: diffusers-pruning
-description: Pruning with Diffusers. model pruning.
+description: "Pruning with Diffusers. model pruning."
 category: ai
 tags: [diffusers, pruning, ai, deep-learning]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: concourse-security
-description: Security with Concourse. security scanning.
+description: "Security with Concourse. security scanning."
 category: devops
 tags: [concourse-security, devops, russian]
 models: [sonnet, opus]

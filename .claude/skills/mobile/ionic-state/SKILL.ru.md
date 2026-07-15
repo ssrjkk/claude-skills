@@ -1,6 +1,6 @@
 ---
 name: ionic-state
-description: State with Ionic. state management.
+description: "State with Ionic. state management."
 category: mobile
 tags: [ionic-state, mobile, russian]
 models: [sonnet, opus]

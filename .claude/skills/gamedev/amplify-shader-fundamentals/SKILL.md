@@ -1,6 +1,6 @@
 ---
 name: amplify-shader-fundamentals
-description: Fundamentals for Amplify-Shader: core concepts
+description: "Fundamentals for Amplify-Shader: core concepts"
 category: gamedev
 tags: [amplify-shader, fundamentals, gamedev]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: winui-window
-description: Window with WinUI. windows.
+description: "Window with WinUI. windows."
 category: desktop
 tags: [winui, window, desktop, desktop]
 models: [gpt-4, claude-3]

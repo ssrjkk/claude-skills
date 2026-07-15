@@ -1,6 +1,6 @@
 ---
 name: responder-templating
-description: Templating with Responder. server templates.
+description: "Templating with Responder. server templates."
 category: backend
 tags: [responder-templating, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: winui-window
-description: Window with WinUI. windows.
+description: "Window with WinUI. windows."
 category: desktop
 tags: [winui-window, desktop, russian]
 models: [sonnet, opus]

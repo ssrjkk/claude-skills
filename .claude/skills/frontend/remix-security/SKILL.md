@@ -1,6 +1,6 @@
 ---
 name: remix-security
-description: Security for Remix: security best practices
+description: "Security for Remix: security best practices"
 category: frontend
 tags: [remix, security, frontend]
 models: [sonnet, opus]

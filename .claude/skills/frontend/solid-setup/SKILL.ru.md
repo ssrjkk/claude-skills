@@ -1,6 +1,6 @@
 ---
 name: solid-setup
-description: Setup for Solid: installation and configuration
+description: "Setup for Solid: installation and configuration"
 category: frontend
 tags: [solid-setup, frontend, russian]
 models: [sonnet, opus]

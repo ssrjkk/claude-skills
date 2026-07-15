@@ -1,6 +1,6 @@
 ---
 name: sinatra-routing
-description: Routing with Sinatra. HTTP routing.
+description: "Routing with Sinatra. HTTP routing."
 category: backend
 tags: [sinatra, routing, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: webrtc-streaming-protection
-description: Protection with WebRTC Streaming. DRM.
+description: "Protection with WebRTC Streaming. DRM."
 category: media
 tags: [webrtc-streaming, protection, media, media-streaming]
 models: [gpt-4, claude-3]

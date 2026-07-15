@@ -1,6 +1,6 @@
 ---
 name: sinatra-auth
-description: Auth with Sinatra. authentication.
+description: "Auth with Sinatra. authentication."
 category: backend
 tags: [sinatra-auth, backend, russian]
 models: [sonnet, opus]

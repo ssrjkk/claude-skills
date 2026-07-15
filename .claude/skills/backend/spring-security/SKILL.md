@@ -1,6 +1,6 @@
 ---
 name: spring-security
-description: Security for Spring: security best practices
+description: "Security for Spring: security best practices"
 category: backend
 tags: [spring, security, backend]
 models: [sonnet, opus]

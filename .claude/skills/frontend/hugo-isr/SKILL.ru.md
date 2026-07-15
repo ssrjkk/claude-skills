@@ -1,6 +1,6 @@
 ---
 name: hugo-isr
-description: ISR with Hugo. incremental.
+description: "ISR with Hugo. incremental."
 category: frontend
 tags: [hugo-isr, frontend, russian]
 models: [sonnet, opus]

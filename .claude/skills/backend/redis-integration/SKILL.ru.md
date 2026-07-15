@@ -1,6 +1,6 @@
 ---
 name: redis-integration
-description: Integration for Redis: integration with other tools
+description: "Integration for Redis: integration with other tools"
 category: backend
 tags: [redis-integration, backend, russian]
 models: [sonnet, opus]

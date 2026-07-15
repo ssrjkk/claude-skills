@@ -1,6 +1,6 @@
 ---
 name: testng-unit-tests
-description: Unit Tests with TestNG. unit testing.
+description: "Unit Tests with TestNG. unit testing."
 category: qa
 tags: [testng, unit-tests, qa, testing]
 models: [gpt-4, claude-3]

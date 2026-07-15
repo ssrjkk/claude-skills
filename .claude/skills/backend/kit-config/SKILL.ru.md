@@ -1,6 +1,6 @@
 ---
 name: kit-config
-description: Config with Go Kit. config management.
+description: "Config with Go Kit. config management."
 category: backend
 tags: [kit-config, backend, russian]
 models: [sonnet, opus]

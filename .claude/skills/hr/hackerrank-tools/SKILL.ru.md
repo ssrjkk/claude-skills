@@ -1,6 +1,6 @@
 ---
 name: hackerrank-tools
-description: Tools with HackerRank. tools.
+description: "Tools with HackerRank. tools."
 category: hr
 tags: [hackerrank-tools, hr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: k6-scenarios
-description: Scenarios with k6. test scenarios.
+description: "Scenarios with k6. test scenarios."
 category: qa
 tags: [k6-scenarios, qa, russian]
 models: [sonnet, opus]

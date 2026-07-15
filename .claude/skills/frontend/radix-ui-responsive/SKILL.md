@@ -1,6 +1,6 @@
 ---
 name: radix-ui-responsive
-description: Responsive with Radix UI. mobile-first.
+description: "Responsive with Radix UI. mobile-first."
 category: frontend
 tags: [radix-ui, responsive, frontend, css]
 models: [gpt-4, claude-3]

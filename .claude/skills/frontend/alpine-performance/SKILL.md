@@ -1,6 +1,6 @@
 ---
 name: alpine-performance
-description: Performance with Alpine. optimization.
+description: "Performance with Alpine. optimization."
 category: frontend
 tags: [alpine, performance, frontend, frontend]
 models: [gpt-4, claude-3]

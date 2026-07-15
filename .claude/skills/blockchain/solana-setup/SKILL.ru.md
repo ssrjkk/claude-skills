@@ -1,6 +1,6 @@
 ---
 name: solana-setup
-description: Setup with Solana. node setup.
+description: "Setup with Solana. node setup."
 category: blockchain
 tags: [solana-setup, blockchain, russian]
 models: [sonnet, opus]

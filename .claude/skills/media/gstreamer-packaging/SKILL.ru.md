@@ -1,6 +1,6 @@
 ---
 name: gstreamer-packaging
-description: Packaging with GStreamer. packaging.
+description: "Packaging with GStreamer. packaging."
 category: media
 tags: [gstreamer-packaging, media, russian]
 models: [sonnet, opus]

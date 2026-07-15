@@ -1,6 +1,6 @@
 ---
 name: premiere-export
-description: Export with Premiere Pro. export.
+description: "Export with Premiere Pro. export."
 category: media
 tags: [premiere, export, media, media-production]
 models: [gpt-4, claude-3]

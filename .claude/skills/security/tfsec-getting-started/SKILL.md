@@ -1,6 +1,6 @@
 ---
 name: tfsec-getting-started
-description: Getting Started for Tfsec: initial setup and first steps
+description: "Getting Started for Tfsec: initial setup and first steps"
 category: security
 tags: [tfsec, getting-started, security]
 models: [sonnet, opus]

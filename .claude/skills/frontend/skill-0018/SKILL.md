@@ -1,6 +1,6 @@
 ---
 name: skill-0018
-description: Specialized skill #0018 for frontend development
+description: "Specialized skill #0018 for frontend development"
 category: frontend
 tags: [frontend, skill, 0018]
 models: [sonnet, opus]

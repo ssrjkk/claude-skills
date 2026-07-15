@@ -1,6 +1,6 @@
 ---
 name: unreal-testing
-description: Testing for Unreal: testing and validation
+description: "Testing for Unreal: testing and validation"
 category: gamedev
 tags: [unreal, testing, gamedev]
 models: [sonnet, opus]

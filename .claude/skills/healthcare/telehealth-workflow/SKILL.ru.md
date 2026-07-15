@@ -1,6 +1,6 @@
 ---
 name: telehealth-workflow
-description: Workflow with Telehealth. clinical workflow.
+description: "Workflow with Telehealth. clinical workflow."
 category: healthcare
 tags: [telehealth-workflow, healthcare, russian]
 models: [sonnet, opus]

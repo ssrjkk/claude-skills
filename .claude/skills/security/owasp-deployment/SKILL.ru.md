@@ -1,6 +1,6 @@
 ---
 name: owasp-deployment
-description: Deployment for Owasp: deployment and release
+description: "Deployment for Owasp: deployment and release"
 category: security
 tags: [owasp-deployment, security, russian]
 models: [sonnet, opus]

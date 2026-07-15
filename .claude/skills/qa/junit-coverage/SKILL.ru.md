@@ -1,6 +1,6 @@
 ---
 name: junit-coverage
-description: Coverage with JUnit. code coverage.
+description: "Coverage with JUnit. code coverage."
 category: qa
 tags: [junit-coverage, qa, russian]
 models: [sonnet, opus]

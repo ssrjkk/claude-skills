@@ -1,6 +1,6 @@
 ---
 name: dart-logging
-description: Logging with Dart. app logging.
+description: "Logging with Dart. app logging."
 category: backend
 tags: [dart, logging, backend, backend]
 models: [gpt-4, claude-3]

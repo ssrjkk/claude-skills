@@ -1,6 +1,6 @@
 ---
 name: soc2-monitoring
-description: Monitoring with SOC 2. security monitoring.
+description: "Monitoring with SOC 2. security monitoring."
 category: security
 tags: [soc2-monitoring, security, russian]
 models: [sonnet, opus]

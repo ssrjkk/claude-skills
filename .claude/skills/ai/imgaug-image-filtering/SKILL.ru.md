@@ -1,6 +1,6 @@
 ---
 name: imgaug-image-filtering
-description: Image Filtering with Imgaug. image filters.
+description: "Image Filtering with Imgaug. image filters."
 category: ai
 tags: [imgaug-image-filtering, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ziprecruiter-offers
-description: Offers with ZipRecruiter. offer mgmt.
+description: "Offers with ZipRecruiter. offer mgmt."
 category: hr
 tags: [ziprecruiter, offers, hr, recruiting]
 models: [gpt-4, claude-3]

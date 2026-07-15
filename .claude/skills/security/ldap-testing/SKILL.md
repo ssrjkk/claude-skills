@@ -1,6 +1,6 @@
 ---
 name: ldap-testing
-description: Testing with LDAP. security testing.
+description: "Testing with LDAP. security testing."
 category: security
 tags: [ldap, testing, security, security]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: spacy-sentiment
-description: Sentiment Analysis with Spacy. sentiment detection.
+description: "Sentiment Analysis with Spacy. sentiment detection."
 category: ai
 tags: [spacy, sentiment, ai, nlp]
 models: [gpt-4, claude-3]

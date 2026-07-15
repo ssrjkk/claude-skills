@@ -1,6 +1,6 @@
 ---
 name: semantic-ui-responsive
-description: Responsive with Semantic UI. mobile-first.
+description: "Responsive with Semantic UI. mobile-first."
 category: frontend
 tags: [semantic-ui, responsive, frontend, css]
 models: [gpt-4, claude-3]

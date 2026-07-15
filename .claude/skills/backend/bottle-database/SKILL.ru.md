@@ -1,6 +1,6 @@
 ---
 name: bottle-database
-description: Database with Bottle. DB access.
+description: "Database with Bottle. DB access."
 category: backend
 tags: [bottle-database, backend, russian]
 models: [sonnet, opus]

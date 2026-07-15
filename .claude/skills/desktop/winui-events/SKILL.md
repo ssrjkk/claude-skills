@@ -1,6 +1,6 @@
 ---
 name: winui-events
-description: Events with WinUI. event handling.
+description: "Events with WinUI. event handling."
 category: desktop
 tags: [winui, events, desktop, desktop]
 models: [gpt-4, claude-3]

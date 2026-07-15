@@ -1,6 +1,6 @@
 ---
 name: penpot-export
-description: Export with Penpot. assets.
+description: "Export with Penpot. assets."
 category: design
 tags: [penpot-export, design, russian]
 models: [sonnet, opus]

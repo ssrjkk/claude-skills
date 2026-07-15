@@ -1,6 +1,6 @@
 ---
 name: nrf52-gpio
-description: GPIO with nRF52. digital I/O.
+description: "GPIO with nRF52. digital I/O."
 category: iot
 tags: [nrf52-gpio, iot, russian]
 models: [sonnet, opus]

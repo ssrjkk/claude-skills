@@ -1,6 +1,6 @@
 ---
 name: webpack-hmr
-description: HMR with Webpack. hot reload.
+description: "HMR with Webpack. hot reload."
 category: frontend
 tags: [webpack, hmr, frontend, build-tool]
 models: [gpt-4, claude-3]

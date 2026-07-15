@@ -1,6 +1,6 @@
 ---
 name: after-effects-export
-description: Export with After Effects. export.
+description: "Export with After Effects. export."
 category: media
 tags: [after-effects-export, media, russian]
 models: [sonnet, opus]

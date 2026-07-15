@@ -1,6 +1,6 @@
 ---
 name: mmdetection-image-augmentation
-description: Image Augmentation with Mmdetection. data augmentation.
+description: "Image Augmentation with Mmdetection. data augmentation."
 category: ai
 tags: [mmdetection-image-augmentation, ai, russian]
 models: [sonnet, opus]

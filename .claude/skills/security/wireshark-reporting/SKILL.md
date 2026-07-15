@@ -1,6 +1,6 @@
 ---
 name: wireshark-reporting
-description: Reporting with Wireshark. reports.
+description: "Reporting with Wireshark. reports."
 category: security
 tags: [wireshark, reporting, security, security-tool]
 models: [gpt-4, claude-3]

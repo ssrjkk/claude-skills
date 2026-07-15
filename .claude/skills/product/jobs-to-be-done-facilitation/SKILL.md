@@ -1,6 +1,6 @@
 ---
 name: jobs-to-be-done-facilitation
-description: Facilitation with Jobs to be Done. running.
+description: "Facilitation with Jobs to be Done. running."
 category: product
 tags: [jobs-to-be-done, facilitation, product, product-framework]
 models: [gpt-4, claude-3]

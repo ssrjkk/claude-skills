@@ -1,6 +1,6 @@
 ---
 name: vendure-integration
-description: Integration with Vendure. frontend integration.
+description: "Integration with Vendure. frontend integration."
 category: ecommerce
 tags: [vendure-integration, ecommerce, russian]
 models: [sonnet, opus]

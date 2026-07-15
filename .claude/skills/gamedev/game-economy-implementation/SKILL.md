@@ -1,6 +1,6 @@
 ---
 name: game-economy-implementation
-description: Implementation with Game Economy. implementation.
+description: "Implementation with Game Economy. implementation."
 category: gamedev
 tags: [game-economy, implementation, gamedev, game-design]
 models: [gpt-4, claude-3]

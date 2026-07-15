@@ -1,6 +1,6 @@
 ---
 name: sketch-setup
-description: Setup with Sketch. workspace.
+description: "Setup with Sketch. workspace."
 category: design
 tags: [sketch-setup, design, russian]
 models: [sonnet, opus]

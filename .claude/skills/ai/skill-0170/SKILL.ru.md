@@ -1,6 +1,6 @@
 ---
 name: skill-0170
-description: Specialized skill #0170 for ai development
+description: "Specialized skill #0170 for ai development"
 category: ai
 tags: [skill-0170, ai, russian]
 models: [sonnet, opus]

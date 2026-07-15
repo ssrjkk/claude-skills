@@ -1,6 +1,6 @@
 ---
 name: peft-transfer-learning
-description: Transfer Learning with Peft. transfer learning.
+description: "Transfer Learning with Peft. transfer learning."
 category: ai
 tags: [peft, transfer-learning, ai, deep-learning]
 models: [gpt-4, claude-3]

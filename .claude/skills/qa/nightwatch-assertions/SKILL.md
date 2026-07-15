@@ -1,6 +1,6 @@
 ---
 name: nightwatch-assertions
-description: Assertions with Nightwatch. assertions.
+description: "Assertions with Nightwatch. assertions."
 category: qa
 tags: [nightwatch, assertions, qa, e2e]
 models: [gpt-4, claude-3]

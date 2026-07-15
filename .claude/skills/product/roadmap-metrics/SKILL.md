@@ -1,6 +1,6 @@
 ---
 name: roadmap-metrics
-description: Metrics with Roadmapping. measurement.
+description: "Metrics with Roadmapping. measurement."
 category: product
 tags: [roadmap, metrics, product, product-framework]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: pandas-testing
-description: Testing for Pandas: testing and validation
+description: "Testing for Pandas: testing and validation"
 category: data
 tags: [pandas-testing, data, russian]
 models: [sonnet, opus]

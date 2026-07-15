@@ -1,6 +1,6 @@
 ---
 name: square-webhooks
-description: Webhooks with Square. webhooks.
+description: "Webhooks with Square. webhooks."
 category: payments
 tags: [square-webhooks, payments, russian]
 models: [sonnet, opus]

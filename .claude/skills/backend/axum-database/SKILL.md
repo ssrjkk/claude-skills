@@ -1,6 +1,6 @@
 ---
 name: axum-database
-description: Database with Axum. DB access.
+description: "Database with Axum. DB access."
 category: backend
 tags: [axum, database, backend, backend]
 models: [gpt-4, claude-3]

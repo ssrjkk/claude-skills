@@ -1,6 +1,6 @@
 ---
 name: zuul-quickstart
-description: Quickstart for Zuul: quick start guide
+description: "Quickstart for Zuul: quick start guide"
 category: backend
 tags: [zuul-quickstart, backend, russian]
 models: [sonnet, opus]

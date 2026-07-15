@@ -1,6 +1,6 @@
 ---
 name: duckdb-production
-description: Production for Duckdb: production deployment
+description: "Production for Duckdb: production deployment"
 category: database
 tags: [duckdb-production, database, russian]
 models: [sonnet, opus]

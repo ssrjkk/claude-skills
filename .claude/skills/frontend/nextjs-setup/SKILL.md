@@ -1,6 +1,6 @@
 ---
 name: nextjs-setup
-description: Setup for Nextjs: installation and configuration
+description: "Setup for Nextjs: installation and configuration"
 category: frontend
 tags: [nextjs, setup, frontend]
 models: [sonnet, opus]

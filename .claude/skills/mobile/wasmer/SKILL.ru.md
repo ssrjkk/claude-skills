@@ -1,6 +1,6 @@
 ---
 name: wasmer
-description: Development with Wasmer: tools and best practices
+description: "Development with Wasmer: tools and best practices"
 category: mobile
 tags: [wasmer, mobile, russian]
 models: [sonnet, opus]

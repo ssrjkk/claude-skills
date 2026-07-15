@@ -1,6 +1,6 @@
 ---
 name: paypal-compliance
-description: Compliance with PayPal. PCI DSS.
+description: "Compliance with PayPal. PCI DSS."
 category: payments
 tags: [paypal, compliance, payments, payments]
 models: [gpt-4, claude-3]

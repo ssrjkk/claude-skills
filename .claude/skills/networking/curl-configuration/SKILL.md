@@ -1,6 +1,6 @@
 ---
 name: curl-configuration
-description: Config with curl. advanced config.
+description: "Config with curl. advanced config."
 category: networking
 tags: [curl, configuration, networking, networking-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: sqlmap-analysis
-description: Analysis with SQLmap. analysis.
+description: "Analysis with SQLmap. analysis."
 category: security
 tags: [sqlmap-analysis, security, russian]
 models: [sonnet, opus]

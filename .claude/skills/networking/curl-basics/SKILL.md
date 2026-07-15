@@ -1,6 +1,6 @@
 ---
 name: curl-basics
-description: Basics with curl. basic usage.
+description: "Basics with curl. basic usage."
 category: networking
 tags: [curl, basics, networking, networking-tool]
 models: [gpt-4, claude-3]

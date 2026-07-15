@@ -1,6 +1,6 @@
 ---
 name: albumentations-color-processing
-description: Color Processing with Albumentations. color manipulation.
+description: "Color Processing with Albumentations. color manipulation."
 category: ai
 tags: [albumentations-color-processing, ai, russian]
 models: [sonnet, opus]

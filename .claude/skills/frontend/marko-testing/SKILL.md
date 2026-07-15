@@ -1,6 +1,6 @@
 ---
 name: marko-testing
-description: Testing with Marko. component testing.
+description: "Testing with Marko. component testing."
 category: frontend
 tags: [marko, testing, frontend, frontend]
 models: [gpt-4, claude-3]

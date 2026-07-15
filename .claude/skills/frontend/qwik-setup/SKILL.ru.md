@@ -1,6 +1,6 @@
 ---
 name: qwik-setup
-description: Setup for Qwik: installation and configuration
+description: "Setup for Qwik: installation and configuration"
 category: frontend
 tags: [qwik-setup, frontend, russian]
 models: [sonnet, opus]

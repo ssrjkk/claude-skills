@@ -1,6 +1,6 @@
 ---
 name: multi-agent-usage
-description: Usage for Multi-Agent: usage reference
+description: "Usage for Multi-Agent: usage reference"
 category: ai
 tags: [multi-agent, usage, ai]
 models: [sonnet, opus]

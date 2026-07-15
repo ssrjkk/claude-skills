@@ -1,6 +1,6 @@
 ---
 name: locust-setup
-description: Setup with Locust. installation.
+description: "Setup with Locust. installation."
 category: qa
 tags: [locust, setup, qa, performance-testing]
 models: [gpt-4, claude-3]

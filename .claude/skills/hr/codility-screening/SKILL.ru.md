@@ -1,6 +1,6 @@
 ---
 name: codility-screening
-description: Screening with Codility. resume screening.
+description: "Screening with Codility. resume screening."
 category: hr
 tags: [codility-screening, hr, russian]
 models: [sonnet, opus]

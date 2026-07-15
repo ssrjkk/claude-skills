@@ -1,6 +1,6 @@
 ---
 name: xamarin-state
-description: State with Xamarin. state management.
+description: "State with Xamarin. state management."
 category: mobile
 tags: [xamarin-state, mobile, russian]
 models: [sonnet, opus]

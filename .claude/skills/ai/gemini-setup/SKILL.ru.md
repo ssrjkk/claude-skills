@@ -1,6 +1,6 @@
 ---
 name: gemini-setup
-description: Setup for Gemini: installation and configuration
+description: "Setup for Gemini: installation and configuration"
 category: ai
 tags: [gemini-setup, ai, russian]
 models: [sonnet, opus]

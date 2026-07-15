@@ -1,6 +1,6 @@
 ---
 name: hyperopt-feature-engineering
-description: Feature Engineering with Hyperopt. creating features.
+description: "Feature Engineering with Hyperopt. creating features."
 category: ai
 tags: [hyperopt-feature-engineering, ai, russian]
 models: [sonnet, opus]

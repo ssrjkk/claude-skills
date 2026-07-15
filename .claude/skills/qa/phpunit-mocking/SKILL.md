@@ -1,6 +1,6 @@
 ---
 name: phpunit-mocking
-description: Mocking with PHPUnit. mocks.
+description: "Mocking with PHPUnit. mocks."
 category: qa
 tags: [phpunit, mocking, qa, testing]
 models: [gpt-4, claude-3]

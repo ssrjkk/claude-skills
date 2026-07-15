@@ -1,6 +1,6 @@
 ---
 name: fasttext-lemmatization
-description: Lemmatization with Fasttext. word lemmatization.
+description: "Lemmatization with Fasttext. word lemmatization."
 category: ai
 tags: [fasttext, lemmatization, ai, nlp]
 models: [gpt-4, claude-3]

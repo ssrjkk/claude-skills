@@ -1,6 +1,6 @@
 ---
 name: vite-config
-description: Config with Vite. configuration.
+description: "Config with Vite. configuration."
 category: frontend
 tags: [vite, config, frontend, build-tool]
 models: [gpt-4, claude-3]

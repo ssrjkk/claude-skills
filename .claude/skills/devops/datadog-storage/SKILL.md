@@ -1,6 +1,6 @@
 ---
 name: datadog-storage
-description: Storage with Datadog. data retention.
+description: "Storage with Datadog. data retention."
 category: devops
 tags: [datadog, storage, devops, monitoring]
 models: [gpt-4, claude-3]

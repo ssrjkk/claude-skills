@@ -1,6 +1,6 @@
 ---
 name: vpn-security
-description: Security with VPN. hardening.
+description: "Security with VPN. hardening."
 category: networking
 tags: [vpn-security, networking, russian]
 models: [sonnet, opus]

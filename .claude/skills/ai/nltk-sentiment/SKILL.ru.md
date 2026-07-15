@@ -1,6 +1,6 @@
 ---
 name: nltk-sentiment
-description: Sentiment Analysis with Nltk. sentiment detection.
+description: "Sentiment Analysis with Nltk. sentiment detection."
 category: ai
 tags: [nltk-sentiment, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: firebase-auth-fundamentals
-description: Fundamentals for Firebase-Auth: core concepts
+description: "Fundamentals for Firebase-Auth: core concepts"
 category: mobile
 tags: [firebase-auth, fundamentals, mobile]
 models: [sonnet, opus]

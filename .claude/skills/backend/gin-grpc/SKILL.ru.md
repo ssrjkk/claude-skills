@@ -1,6 +1,6 @@
 ---
 name: gin-grpc
-description: gRPC with Gin. gRPC services.
+description: "gRPC with Gin. gRPC services."
 category: backend
 tags: [gin-grpc, backend, russian]
 models: [sonnet, opus]

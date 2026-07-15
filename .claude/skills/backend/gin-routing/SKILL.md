@@ -1,6 +1,6 @@
 ---
 name: gin-routing
-description: Routing with Gin. HTTP routing.
+description: "Routing with Gin. HTTP routing."
 category: backend
 tags: [gin, routing, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: radix-ui
-description: Builds accessible React UI primitives with Radix UI, including dialogs, dropdowns, and tooltips.
+description: "Builds accessible React UI primitives with Radix UI, including dialogs, dropdowns, and tooltips."
 category: design
 tags: [radix-ui, react, accessibility, headless, components]
 models: [sonnet, opus]

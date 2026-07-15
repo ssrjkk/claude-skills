@@ -1,6 +1,6 @@
 ---
 name: dynamodb-setup
-description: Setup with DynamoDB. installation.
+description: "Setup with DynamoDB. installation."
 category: database
 tags: [dynamodb, setup, database, nosql]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: k6-api
-description: API for K6: API development and integration
+description: "API for K6: API development and integration"
 category: qa
 tags: [k6, api, qa]
 models: [sonnet, opus]

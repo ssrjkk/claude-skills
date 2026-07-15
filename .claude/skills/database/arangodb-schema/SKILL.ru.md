@@ -1,6 +1,6 @@
 ---
 name: arangodb-schema
-description: Schema Design with ArangoDB. schema design.
+description: "Schema Design with ArangoDB. schema design."
 category: database
 tags: [arangodb-schema, database, russian]
 models: [sonnet, opus]

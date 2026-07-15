@@ -1,6 +1,6 @@
 ---
 name: tableau-optimization
-description: Optimization for Tableau: performance tuning and optimization
+description: "Optimization for Tableau: performance tuning and optimization"
 category: data
 tags: [tableau, optimization, data]
 models: [sonnet, opus]

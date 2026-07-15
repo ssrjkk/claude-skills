@@ -1,6 +1,6 @@
 ---
 name: phaser-monitoring
-description: Monitoring for Phaser: monitoring and observability
+description: "Monitoring for Phaser: monitoring and observability"
 category: gamedev
 tags: [phaser, monitoring, gamedev]
 models: [sonnet, opus]

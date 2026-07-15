@@ -1,6 +1,6 @@
 ---
 name: postgis-data
-description: Data with PostGIS. geospatial data.
+description: "Data with PostGIS. geospatial data."
 category: geospatial
 tags: [postgis, data, geospatial, gis]
 models: [gpt-4, claude-3]

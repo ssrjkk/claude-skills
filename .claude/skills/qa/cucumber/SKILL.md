@@ -1,6 +1,6 @@
 ---
 name: cucumber
-description: Implements Behavior-Driven Development with Cucumber, Gherkin scenarios, and step definitions.
+description: "Implements Behavior-Driven Development with Cucumber, Gherkin scenarios, and step definitions."
 category: qa
 tags: [cucumber, bdd, gherkin, testing, acceptance]
 models: [sonnet, opus]

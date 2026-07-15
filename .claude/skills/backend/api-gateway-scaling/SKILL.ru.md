@@ -1,6 +1,6 @@
 ---
 name: api-gateway-scaling
-description: Scaling with API Gateway. scaling considerations.
+description: "Scaling with API Gateway. scaling considerations."
 category: backend
 tags: [api-gateway-scaling, backend, russian]
 models: [sonnet, opus]

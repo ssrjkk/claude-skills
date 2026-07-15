@@ -1,6 +1,6 @@
 ---
 name: caffe2-visualization
-description: Visualization with Caffe2. model viz.
+description: "Visualization with Caffe2. model viz."
 category: ai
 tags: [caffe2-visualization, ai, russian]
 models: [sonnet, opus]

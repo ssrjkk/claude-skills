@@ -1,6 +1,6 @@
 ---
 name: unreal-scripting
-description: Scripting with Unreal Engine. game logic.
+description: "Scripting with Unreal Engine. game logic."
 category: gamedev
 tags: [unreal, scripting, gamedev, game-engine]
 models: [gpt-4, claude-3]

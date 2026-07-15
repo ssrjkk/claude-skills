@@ -1,6 +1,6 @@
 ---
 name: prompt-chaining
-description: Multi-step prompt chaining strategies
+description: "Multi-step prompt chaining strategies"
 category: ai
 tags: [prompt-chaining, workflow, llm, multi-step]
 models: [sonnet, opus]

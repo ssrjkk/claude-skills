@@ -1,6 +1,6 @@
 ---
 name: expo-update-usage
-description: Usage for Expo-Update: usage reference
+description: "Usage for Expo-Update: usage reference"
 category: mobile
 tags: [expo-update-usage, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: typeorm-troubleshooting
-description: Troubleshooting for Typeorm: troubleshooting common issues
+description: "Troubleshooting for Typeorm: troubleshooting common issues"
 category: backend
 tags: [typeorm-troubleshooting, backend, russian]
 models: [sonnet, opus]

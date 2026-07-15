@@ -1,6 +1,6 @@
 ---
 name: netstat-basics
-description: Basics with netstat/ss. basic usage.
+description: "Basics with netstat/ss. basic usage."
 category: networking
 tags: [netstat-basics, networking, russian]
 models: [sonnet, opus]

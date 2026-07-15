@@ -1,6 +1,6 @@
 ---
 name: squid-guides
-description: Guides for Squid: how-to guides
+description: "Guides for Squid: how-to guides"
 category: backend
 tags: [squid, guides, backend]
 models: [sonnet, opus]

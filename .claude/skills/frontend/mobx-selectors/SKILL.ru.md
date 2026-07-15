@@ -1,6 +1,6 @@
 ---
 name: mobx-selectors
-description: Selectors with MobX. derived data.
+description: "Selectors with MobX. derived data."
 category: frontend
 tags: [mobx-selectors, frontend, russian]
 models: [sonnet, opus]

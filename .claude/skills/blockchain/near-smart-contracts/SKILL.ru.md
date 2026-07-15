@@ -1,6 +1,6 @@
 ---
 name: near-smart-contracts
-description: Smart Contracts with NEAR. contracts.
+description: "Smart Contracts with NEAR. contracts."
 category: blockchain
 tags: [near-smart-contracts, blockchain, russian]
 models: [sonnet, opus]

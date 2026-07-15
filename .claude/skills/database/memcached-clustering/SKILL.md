@@ -1,6 +1,6 @@
 ---
 name: memcached-clustering
-description: Clustering with Memcached. cluster setup.
+description: "Clustering with Memcached. cluster setup."
 category: database
 tags: [memcached, clustering, database, caching]
 models: [gpt-4, claude-3]

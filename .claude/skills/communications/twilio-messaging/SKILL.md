@@ -1,6 +1,6 @@
 ---
 name: twilio-messaging
-description: Messaging with Twilio. sending messages.
+description: "Messaging with Twilio. sending messages."
 category: communications
 tags: [twilio, messaging, communications, communication-platform]
 models: [gpt-4, claude-3]

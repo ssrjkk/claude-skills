@@ -1,6 +1,6 @@
 ---
 name: d3js-workflow
-description: Workflow for D3Js: workflow optimization
+description: "Workflow for D3Js: workflow optimization"
 category: frontend
 tags: [d3js, workflow, frontend]
 models: [sonnet, opus]

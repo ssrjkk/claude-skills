@@ -1,6 +1,6 @@
 ---
 name: panel-data
-description: Data with Panel. data binding.
+description: "Data with Panel. data binding."
 category: data
 tags: [panel-data, data, russian]
 models: [sonnet, opus]

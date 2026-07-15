@@ -1,6 +1,6 @@
 ---
 name: mistral-setup
-description: Setup for Mistral: installation and configuration
+description: "Setup for Mistral: installation and configuration"
 category: ai
 tags: [mistral, setup, ai]
 models: [sonnet, opus]

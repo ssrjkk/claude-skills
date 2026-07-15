@@ -1,6 +1,6 @@
 ---
 name: padrino-database
-description: Database with Padrino. ActiveRecord.
+description: "Database with Padrino. ActiveRecord."
 category: backend
 tags: [padrino-database, backend, russian]
 models: [sonnet, opus]

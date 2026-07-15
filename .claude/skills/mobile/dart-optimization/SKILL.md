@@ -1,6 +1,6 @@
 ---
 name: dart-optimization
-description: Optimization for Dart: performance tuning and optimization
+description: "Optimization for Dart: performance tuning and optimization"
 category: mobile
 tags: [dart, optimization, mobile]
 models: [sonnet, opus]

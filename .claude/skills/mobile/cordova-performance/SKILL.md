@@ -1,6 +1,6 @@
 ---
 name: cordova-performance
-description: Performance with Cordova. optimization.
+description: "Performance with Cordova. optimization."
 category: mobile
 tags: [cordova, performance, mobile, mobile]
 models: [gpt-4, claude-3]

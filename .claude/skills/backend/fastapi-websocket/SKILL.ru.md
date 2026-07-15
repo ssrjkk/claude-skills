@@ -1,6 +1,6 @@
 ---
 name: fastapi-websocket
-description: WebSocket with FastAPI. real-time.
+description: "WebSocket with FastAPI. real-time."
 category: backend
 tags: [fastapi-websocket, backend, russian]
 models: [sonnet, opus]

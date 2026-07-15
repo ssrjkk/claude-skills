@@ -1,6 +1,6 @@
 ---
 name: braintree-setup
-description: Setup with Braintree. account setup.
+description: "Setup with Braintree. account setup."
 category: payments
 tags: [braintree-setup, payments, russian]
 models: [sonnet, opus]

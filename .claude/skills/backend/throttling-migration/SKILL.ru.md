@@ -1,6 +1,6 @@
 ---
 name: throttling-migration
-description: Migration with Throttling. adopting the pattern.
+description: "Migration with Throttling. adopting the pattern."
 category: backend
 tags: [throttling-migration, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: loom-intro
-description: Intro for Loom: introduction
+description: "Intro for Loom: introduction"
 category: backend
 tags: [loom, intro, backend]
 models: [sonnet, opus]

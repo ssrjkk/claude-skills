@@ -1,6 +1,6 @@
 ---
 name: gamedev-skill-0131
-description: Specialized skill #0131 for gamedev development
+description: "Specialized skill #0131 for gamedev development"
 category: gamedev
 tags: [skill-0131, gamedev, russian]
 models: [sonnet, opus]

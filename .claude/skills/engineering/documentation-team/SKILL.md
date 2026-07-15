@@ -1,6 +1,6 @@
 ---
 name: documentation-team
-description: Team with Documentation. team adoption.
+description: "Team with Documentation. team adoption."
 category: engineering
 tags: [documentation, team, engineering, engineering]
 models: [gpt-4, claude-3]

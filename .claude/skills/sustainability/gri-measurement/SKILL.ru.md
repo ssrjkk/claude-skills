@@ -1,6 +1,6 @@
 ---
 name: gri-measurement
-description: Measurement with GRI. measurement.
+description: "Measurement with GRI. measurement."
 category: sustainability
 tags: [gri-measurement, sustainability, russian]
 models: [sonnet, opus]

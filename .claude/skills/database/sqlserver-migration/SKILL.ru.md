@@ -1,6 +1,6 @@
 ---
 name: sqlserver-migration
-description: Migration with SQL Server. schema migrations.
+description: "Migration with SQL Server. schema migrations."
 category: database
 tags: [sqlserver-migration, database, russian]
 models: [sonnet, opus]

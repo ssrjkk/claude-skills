@@ -1,6 +1,6 @@
 ---
 name: elixir-async
-description: Async with Elixir. async operations.
+description: "Async with Elixir. async operations."
 category: backend
 tags: [elixir, async, backend, backend]
 models: [gpt-4, claude-3]

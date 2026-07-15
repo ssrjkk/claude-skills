@@ -1,6 +1,6 @@
 ---
 name: owasp-tools
-description: Tools with OWASP. security tools.
+description: "Tools with OWASP. security tools."
 category: security
 tags: [owasp, tools, security, security]
 models: [gpt-4, claude-3]

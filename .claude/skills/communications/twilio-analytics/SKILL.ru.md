@@ -1,6 +1,6 @@
 ---
 name: twilio-analytics
-description: Analytics with Twilio. analytics.
+description: "Analytics with Twilio. analytics."
 category: communications
 tags: [twilio-analytics, communications, russian]
 models: [sonnet, opus]

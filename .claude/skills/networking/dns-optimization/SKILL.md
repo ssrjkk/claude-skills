@@ -1,6 +1,6 @@
 ---
 name: dns-optimization
-description: Optimization with DNS. tuning.
+description: "Optimization with DNS. tuning."
 category: networking
 tags: [dns, optimization, networking, networking]
 models: [gpt-4, claude-3]

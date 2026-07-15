@@ -1,6 +1,6 @@
 ---
 name: vendure-integration
-description: Integration with Vendure. frontend integration.
+description: "Integration with Vendure. frontend integration."
 category: ecommerce
 tags: [vendure, integration, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

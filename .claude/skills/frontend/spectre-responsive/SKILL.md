@@ -1,6 +1,6 @@
 ---
 name: spectre-responsive
-description: Responsive with Spectre.css. mobile-first.
+description: "Responsive with Spectre.css. mobile-first."
 category: frontend
 tags: [spectre, responsive, frontend, css]
 models: [gpt-4, claude-3]

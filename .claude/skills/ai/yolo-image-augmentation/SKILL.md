@@ -1,6 +1,6 @@
 ---
 name: yolo-image-augmentation
-description: Image Augmentation with Yolo. data augmentation.
+description: "Image Augmentation with Yolo. data augmentation."
 category: ai
 tags: [yolo, image-augmentation, ai, computer-vision]
 models: [gpt-4, claude-3]

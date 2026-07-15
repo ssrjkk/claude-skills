@@ -1,6 +1,6 @@
 ---
 name: fmod-automation
-description: Automation for Fmod: automation and scripting
+description: "Automation for Fmod: automation and scripting"
 category: gamedev
 tags: [fmod-automation, gamedev, russian]
 models: [sonnet, opus]

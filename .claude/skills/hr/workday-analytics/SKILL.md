@@ -1,6 +1,6 @@
 ---
 name: workday-analytics
-description: Analytics with Workday. analytics.
+description: "Analytics with Workday. analytics."
 category: hr
 tags: [workday, analytics, hr, hr-tech]
 models: [gpt-4, claude-3]

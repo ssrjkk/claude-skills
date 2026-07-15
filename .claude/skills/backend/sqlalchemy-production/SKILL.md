@@ -1,6 +1,6 @@
 ---
 name: sqlalchemy-production
-description: Production for Sqlalchemy: production deployment
+description: "Production for Sqlalchemy: production deployment"
 category: backend
 tags: [sqlalchemy, production, backend]
 models: [sonnet, opus]

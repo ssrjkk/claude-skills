@@ -1,6 +1,6 @@
 ---
 name: lightgbm-classification
-description: Classification with Lightgbm. building classifiers.
+description: "Classification with Lightgbm. building classifiers."
 category: ai
 tags: [lightgbm, classification, ai, ml]
 models: [gpt-4, claude-3]

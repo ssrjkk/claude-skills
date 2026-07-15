@@ -1,6 +1,6 @@
 ---
 name: testng-mocking
-description: Mocking with TestNG. mocks.
+description: "Mocking with TestNG. mocks."
 category: qa
 tags: [testng, mocking, qa, testing]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: optuna-classification
-description: Classification with Optuna. building classifiers.
+description: "Classification with Optuna. building classifiers."
 category: ai
 tags: [optuna-classification, ai, russian]
 models: [sonnet, opus]

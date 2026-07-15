@@ -1,6 +1,6 @@
 ---
 name: magento-payments
-description: Payments with Magento. payment integration.
+description: "Payments with Magento. payment integration."
 category: ecommerce
 tags: [magento, payments, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

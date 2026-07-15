@@ -1,6 +1,6 @@
 ---
 name: google-iot-setup
-description: Setup with Google IoT. setup.
+description: "Setup with Google IoT. setup."
 category: iot
 tags: [google-iot, setup, iot, iot-platform]
 models: [gpt-4, claude-3]

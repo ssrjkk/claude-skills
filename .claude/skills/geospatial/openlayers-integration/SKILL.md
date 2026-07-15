@@ -1,6 +1,6 @@
 ---
 name: openlayers-integration
-description: Integration with OpenLayers. integration.
+description: "Integration with OpenLayers. integration."
 category: geospatial
 tags: [openlayers, integration, geospatial, gis]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: nicegui-layout
-description: Layout with NiceGUI. app layout.
+description: "Layout with NiceGUI. app layout."
 category: data
 tags: [nicegui, layout, data, data-apps]
 models: [gpt-4, claude-3]

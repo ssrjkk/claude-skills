@@ -1,6 +1,6 @@
 ---
 name: testcafe-setup
-description: Setup with TestCafe. installation.
+description: "Setup with TestCafe. installation."
 category: qa
 tags: [testcafe, setup, qa, e2e]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: medusa-shipping
-description: Shipping with Medusa. shipping.
+description: "Shipping with Medusa. shipping."
 category: ecommerce
 tags: [medusa-shipping, ecommerce, russian]
 models: [sonnet, opus]

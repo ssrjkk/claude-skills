@@ -1,6 +1,6 @@
 ---
 name: circuitpython-sensors
-description: Sensors with CircuitPython. sensor integration.
+description: "Sensors with CircuitPython. sensor integration."
 category: iot
 tags: [circuitpython, sensors, iot, iot]
 models: [gpt-4, claude-3]

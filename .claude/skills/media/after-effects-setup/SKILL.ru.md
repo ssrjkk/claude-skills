@@ -1,6 +1,6 @@
 ---
 name: after-effects-setup
-description: Setup with After Effects. setup.
+description: "Setup with After Effects. setup."
 category: media
 tags: [after-effects-setup, media, russian]
 models: [sonnet, opus]

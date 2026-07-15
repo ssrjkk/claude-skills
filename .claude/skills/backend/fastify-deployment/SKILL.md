@@ -1,6 +1,6 @@
 ---
 name: fastify-deployment
-description: Deployment with Fastify. deploy.
+description: "Deployment with Fastify. deploy."
 category: backend
 tags: [fastify, deployment, backend, backend]
 models: [gpt-4, claude-3]

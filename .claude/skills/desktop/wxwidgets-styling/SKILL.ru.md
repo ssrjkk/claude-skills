@@ -1,6 +1,6 @@
 ---
 name: wxwidgets-styling
-description: Styling with wxWidgets. styling.
+description: "Styling with wxWidgets. styling."
 category: desktop
 tags: [wxwidgets-styling, desktop, russian]
 models: [sonnet, opus]

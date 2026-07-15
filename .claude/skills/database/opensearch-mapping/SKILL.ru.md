@@ -1,6 +1,6 @@
 ---
 name: opensearch-mapping
-description: Mapping with OpenSearch. field mapping.
+description: "Mapping with OpenSearch. field mapping."
 category: database
 tags: [opensearch-mapping, database, russian]
 models: [sonnet, opus]

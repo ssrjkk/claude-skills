@@ -1,6 +1,6 @@
 ---
 name: voila-theming
-description: Theming with Voila. themes.
+description: "Theming with Voila. themes."
 category: data
 tags: [voila-theming, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: tide-async
-description: Async with Tide. async handlers.
+description: "Async with Tide. async handlers."
 category: backend
 tags: [tide-async, backend, russian]
 models: [sonnet, opus]

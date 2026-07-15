@@ -1,6 +1,6 @@
 ---
 name: reactphp-usage
-description: Usage for Reactphp: usage reference
+description: "Usage for Reactphp: usage reference"
 category: backend
 tags: [reactphp, usage, backend]
 models: [sonnet, opus]

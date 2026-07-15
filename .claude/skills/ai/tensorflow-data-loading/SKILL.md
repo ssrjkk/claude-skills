@@ -1,6 +1,6 @@
 ---
 name: tensorflow-data-loading
-description: Data Loading with Tensorflow. data pipelines.
+description: "Data Loading with Tensorflow. data pipelines."
 category: ai
 tags: [tensorflow, data-loading, ai, deep-learning]
 models: [gpt-4, claude-3]

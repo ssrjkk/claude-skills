@@ -1,6 +1,6 @@
 ---
 name: opentelemetry-dashboards
-description: Dashboards with OpenTelemetry. dashboards.
+description: "Dashboards with OpenTelemetry. dashboards."
 category: devops
 tags: [opentelemetry-dashboards, devops, russian]
 models: [sonnet, opus]

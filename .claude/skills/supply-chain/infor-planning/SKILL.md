@@ -1,6 +1,6 @@
 ---
 name: infor-planning
-description: Planning with Infor SCM. demand planning.
+description: "Planning with Infor SCM. demand planning."
 category: supply-chain
 tags: [infor, planning, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

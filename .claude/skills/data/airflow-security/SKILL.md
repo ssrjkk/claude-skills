@@ -1,6 +1,6 @@
 ---
 name: airflow-security
-description: Security for Airflow: security best practices
+description: "Security for Airflow: security best practices"
 category: data
 tags: [airflow, security, data]
 models: [sonnet, opus]

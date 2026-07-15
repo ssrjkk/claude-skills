@@ -1,6 +1,6 @@
 ---
 name: hls-setup
-description: Setup with HLS. setup.
+description: "Setup with HLS. setup."
 category: media
 tags: [hls, setup, media, media-streaming]
 models: [gpt-4, claude-3]

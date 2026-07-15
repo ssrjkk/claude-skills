@@ -1,6 +1,6 @@
 ---
 name: project44-integration
-description: Integration with project44. integration.
+description: "Integration with project44. integration."
 category: supply-chain
 tags: [project44, integration, supply-chain, logistics]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: nuke-export
-description: Export with Nuke. export.
+description: "Export with Nuke. export."
 category: media
 tags: [nuke, export, media, media-production]
 models: [gpt-4, claude-3]

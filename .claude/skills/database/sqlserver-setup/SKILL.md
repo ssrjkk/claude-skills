@@ -1,6 +1,6 @@
 ---
 name: sqlserver-setup
-description: Setup with SQL Server. installation.
+description: "Setup with SQL Server. installation."
 category: database
 tags: [sqlserver, setup, database, sql]
 models: [gpt-4, claude-3]

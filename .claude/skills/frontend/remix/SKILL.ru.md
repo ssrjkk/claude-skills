@@ -1,6 +1,6 @@
 ---
 name: remix
-description: Builds full-stack web applications with Remix, nested routes, and server-side rendering. Use for modern React apps with SSR.
+description: "Builds full-stack web applications with Remix, nested routes, and server-side rendering. Use for modern React apps with SSR."
 category: frontend
 tags: [remix, frontend, russian]
 models: [sonnet, opus]

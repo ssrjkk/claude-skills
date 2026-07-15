@@ -1,6 +1,6 @@
 ---
 name: octane-intro
-description: Intro for Octane: introduction
+description: "Intro for Octane: introduction"
 category: backend
 tags: [octane-intro, backend, russian]
 models: [sonnet, opus]

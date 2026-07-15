@@ -1,6 +1,6 @@
 ---
 name: voila-data
-description: Data with Voila. data binding.
+description: "Data with Voila. data binding."
 category: data
 tags: [voila-data, data, russian]
 models: [sonnet, opus]

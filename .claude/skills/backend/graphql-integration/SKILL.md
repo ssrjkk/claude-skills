@@ -1,6 +1,6 @@
 ---
 name: graphql-integration
-description: Integration for Graphql: integration with other tools
+description: "Integration for Graphql: integration with other tools"
 category: backend
 tags: [graphql, integration, backend]
 models: [sonnet, opus]

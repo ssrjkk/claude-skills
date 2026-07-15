@@ -1,6 +1,6 @@
 ---
 name: ladle-usage
-description: Usage for Ladle: usage guide
+description: "Usage for Ladle: usage guide"
 category: frontend
 tags: [ladle-usage, frontend, russian]
 models: [sonnet, opus]

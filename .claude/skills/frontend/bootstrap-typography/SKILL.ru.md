@@ -1,6 +1,6 @@
 ---
 name: bootstrap-typography
-description: Typography with Bootstrap. text styling.
+description: "Typography with Bootstrap. text styling."
 category: frontend
 tags: [bootstrap-typography, frontend, russian]
 models: [sonnet, opus]

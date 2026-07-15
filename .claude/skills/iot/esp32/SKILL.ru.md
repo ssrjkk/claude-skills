@@ -1,6 +1,6 @@
 ---
 name: esp32
-description: Programs ESP32 microcontrollers in C/C++ or MicroPython. Use for IoT projects with WiFi/Bluetooth.
+description: "Programs ESP32 microcontrollers in C/C++ or MicroPython. Use for IoT projects with WiFi/Bluetooth."
 category: iot
 tags: [esp32, iot, russian]
 models: [sonnet, opus]

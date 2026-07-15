@@ -1,6 +1,6 @@
 ---
 name: mathematica-parallel
-description: Parallel with Mathematica. parallel computing.
+description: "Parallel with Mathematica. parallel computing."
 category: scientific
 tags: [mathematica-parallel, scientific, russian]
 models: [sonnet, opus]

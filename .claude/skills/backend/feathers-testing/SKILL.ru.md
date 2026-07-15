@@ -1,6 +1,6 @@
 ---
 name: feathers-testing
-description: Testing with FeathersJS. Jest.
+description: "Testing with FeathersJS. Jest."
 category: backend
 tags: [feathers-testing, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: numpy-deployment
-description: Deployment with NumPy. app deployment.
+description: "Deployment with NumPy. app deployment."
 category: data
 tags: [numpy-deployment, data, russian]
 models: [sonnet, opus]

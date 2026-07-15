@@ -1,6 +1,6 @@
 ---
 name: jaeger-logging
-description: Logging with Jaeger. log collection.
+description: "Logging with Jaeger. log collection."
 category: devops
 tags: [jaeger-logging, devops, russian]
 models: [sonnet, opus]

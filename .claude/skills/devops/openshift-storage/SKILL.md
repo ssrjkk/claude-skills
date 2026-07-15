@@ -1,6 +1,6 @@
 ---
 name: openshift-storage
-description: Storage with OpenShift. persistent storage.
+description: "Storage with OpenShift. persistent storage."
 category: devops
 tags: [openshift, storage, devops, kubernetes]
 models: [gpt-4, claude-3]

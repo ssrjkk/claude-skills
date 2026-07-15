@@ -1,6 +1,6 @@
 ---
 name: sentinelone-integration
-description: Integration for Sentinelone: integration with other tools
+description: "Integration for Sentinelone: integration with other tools"
 category: security
 tags: [sentinelone, integration, security]
 models: [sonnet, opus]

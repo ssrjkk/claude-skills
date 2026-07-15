@@ -1,6 +1,6 @@
 ---
 name: telegram-bot-analytics
-description: Analytics with Telegram Bot. analytics.
+description: "Analytics with Telegram Bot. analytics."
 category: communications
 tags: [telegram-bot, analytics, communications, communication-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: yolo-face-detection
-description: Face Detection with Yolo. facial recognition.
+description: "Face Detection with Yolo. facial recognition."
 category: ai
 tags: [yolo, face-detection, ai, computer-vision]
 models: [gpt-4, claude-3]

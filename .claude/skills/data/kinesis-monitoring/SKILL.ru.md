@@ -1,6 +1,6 @@
 ---
 name: kinesis-monitoring
-description: Monitoring with Kinesis. monitoring.
+description: "Monitoring with Kinesis. monitoring."
 category: data
 tags: [kinesis-monitoring, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: architecture-best-practices
-description: Best Practices with Software Architecture. practices.
+description: "Best Practices with Software Architecture. practices."
 category: engineering
 tags: [architecture, best-practices, engineering, modeling]
 models: [gpt-4, claude-3]

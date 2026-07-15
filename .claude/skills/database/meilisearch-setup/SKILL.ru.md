@@ -1,6 +1,6 @@
 ---
 name: meilisearch-setup
-description: Setup with Meilisearch. installation.
+description: "Setup with Meilisearch. installation."
 category: database
 tags: [meilisearch-setup, database, russian]
 models: [sonnet, opus]

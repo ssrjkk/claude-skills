@@ -1,6 +1,6 @@
 ---
 name: descope-quickstart
-description: Quickstart for Descope: quick start guide
+description: "Quickstart for Descope: quick start guide"
 category: mobile
 tags: [descope-quickstart, mobile, russian]
 models: [sonnet, opus]

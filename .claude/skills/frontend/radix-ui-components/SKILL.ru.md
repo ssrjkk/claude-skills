@@ -1,6 +1,6 @@
 ---
 name: radix-ui-components
-description: Components with Radix UI. UI components.
+description: "Components with Radix UI. UI components."
 category: frontend
 tags: [radix-ui-components, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: electron-ui
-description: UI with Electron. UI components.
+description: "UI with Electron. UI components."
 category: desktop
 tags: [electron-ui, desktop, russian]
 models: [sonnet, opus]

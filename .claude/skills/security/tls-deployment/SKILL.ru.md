@@ -1,6 +1,6 @@
 ---
 name: tls-deployment
-description: Deployment for Tls: deployment and release
+description: "Deployment for Tls: deployment and release"
 category: security
 tags: [tls-deployment, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: weaviate-mapping
-description: Mapping with Weaviate. field mapping.
+description: "Mapping with Weaviate. field mapping."
 category: database
 tags: [weaviate, mapping, database, search-engine]
 models: [gpt-4, claude-3]

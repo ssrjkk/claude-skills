@@ -1,6 +1,6 @@
 ---
 name: amplify-shader-examples
-description: Examples for Amplify-Shader: practical examples
+description: "Examples for Amplify-Shader: practical examples"
 category: gamedev
 tags: [amplify-shader, examples, gamedev]
 models: [sonnet, opus]

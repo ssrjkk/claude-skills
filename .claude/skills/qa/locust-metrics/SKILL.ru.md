@@ -1,6 +1,6 @@
 ---
 name: locust-metrics
-description: Metrics with Locust. performance metrics.
+description: "Metrics with Locust. performance metrics."
 category: qa
 tags: [locust-metrics, qa, russian]
 models: [sonnet, opus]

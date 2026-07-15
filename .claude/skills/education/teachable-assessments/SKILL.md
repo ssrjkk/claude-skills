@@ -1,6 +1,6 @@
 ---
 name: teachable-assessments
-description: Assessments with Teachable. quizzes.
+description: "Assessments with Teachable. quizzes."
 category: education
 tags: [teachable, assessments, education, education-platform]
 models: [gpt-4, claude-3]

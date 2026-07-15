@@ -1,6 +1,6 @@
 ---
 name: north-star-facilitation
-description: Facilitation with North Star. running.
+description: "Facilitation with North Star. running."
 category: product
 tags: [north-star-facilitation, product, russian]
 models: [sonnet, opus]

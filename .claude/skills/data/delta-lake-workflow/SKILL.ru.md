@@ -1,6 +1,6 @@
 ---
 name: delta-lake-workflow
-description: Workflow for Delta-Lake: workflow optimization
+description: "Workflow for Delta-Lake: workflow optimization"
 category: data
 tags: [delta-lake-workflow, data, russian]
 models: [sonnet, opus]

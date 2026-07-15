@@ -1,6 +1,6 @@
 ---
 name: lakefs-production
-description: Production for Lakefs: production deployment
+description: "Production for Lakefs: production deployment"
 category: data
 tags: [lakefs-production, data, russian]
 models: [sonnet, opus]

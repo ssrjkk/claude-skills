@@ -1,6 +1,6 @@
 ---
 name: react-spectrum-examples
-description: Examples for React-Spectrum: practical examples
+description: "Examples for React-Spectrum: practical examples"
 category: frontend
 tags: [react-spectrum, examples, frontend]
 models: [sonnet, opus]

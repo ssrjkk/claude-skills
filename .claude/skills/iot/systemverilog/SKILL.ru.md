@@ -1,6 +1,6 @@
 ---
 name: systemverilog
-description: Development with Systemverilog: tools and best practices
+description: "Development with Systemverilog: tools and best practices"
 category: iot
 tags: [systemverilog, iot, russian]
 models: [sonnet, opus]

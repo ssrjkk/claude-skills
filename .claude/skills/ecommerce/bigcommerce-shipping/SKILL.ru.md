@@ -1,6 +1,6 @@
 ---
 name: bigcommerce-shipping
-description: Shipping with BigCommerce. shipping.
+description: "Shipping with BigCommerce. shipping."
 category: ecommerce
 tags: [bigcommerce-shipping, ecommerce, russian]
 models: [sonnet, opus]

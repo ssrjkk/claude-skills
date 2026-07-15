@@ -1,6 +1,6 @@
 ---
 name: hipaa-testing
-description: Testing with HIPAA. testing.
+description: "Testing with HIPAA. testing."
 category: healthcare
 tags: [hipaa, testing, healthcare, healthcare]
 models: [gpt-4, claude-3]

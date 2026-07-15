@@ -1,6 +1,6 @@
 ---
 name: arch-processes
-description: Processes with Arch Linux. process management.
+description: "Processes with Arch Linux. process management."
 category: os-admin
 tags: [arch, processes, os-admin, linux]
 models: [gpt-4, claude-3]

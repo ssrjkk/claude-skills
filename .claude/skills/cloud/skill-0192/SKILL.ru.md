@@ -1,6 +1,6 @@
 ---
 name: skill-0192
-description: Specialized skill #0192 for cloud development
+description: "Specialized skill #0192 for cloud development"
 category: cloud
 tags: [skill-0192, cloud, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: arcgis-mapping
-description: Mapping with ArcGIS. mapping.
+description: "Mapping with ArcGIS. mapping."
 category: geospatial
 tags: [arcgis-mapping, geospatial, russian]
 models: [sonnet, opus]

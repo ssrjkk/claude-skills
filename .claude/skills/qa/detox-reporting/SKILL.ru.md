@@ -1,6 +1,6 @@
 ---
 name: detox-reporting
-description: Reporting with Detox. reports.
+description: "Reporting with Detox. reports."
 category: qa
 tags: [detox-reporting, qa, russian]
 models: [sonnet, opus]

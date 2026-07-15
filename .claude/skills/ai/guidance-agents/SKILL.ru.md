@@ -1,6 +1,6 @@
 ---
 name: guidance-agents
-description: Agents with Guidance. building agents.
+description: "Agents with Guidance. building agents."
 category: ai
 tags: [guidance-agents, ai, russian]
 models: [sonnet, opus]

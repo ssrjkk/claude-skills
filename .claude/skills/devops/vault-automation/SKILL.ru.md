@@ -1,6 +1,6 @@
 ---
 name: vault-automation
-description: Automation for Vault: automation and scripting
+description: "Automation for Vault: automation and scripting"
 category: devops
 tags: [vault-automation, devops, russian]
 models: [sonnet, opus]

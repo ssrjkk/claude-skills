@@ -1,6 +1,6 @@
 ---
 name: ab-ci
-description: CI with Apache Bench. CI integration.
+description: "CI with Apache Bench. CI integration."
 category: qa
 tags: [ab-ci, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: varnish-examples
-description: Examples for Varnish: practical examples
+description: "Examples for Varnish: practical examples"
 category: backend
 tags: [varnish-examples, backend, russian]
 models: [sonnet, opus]

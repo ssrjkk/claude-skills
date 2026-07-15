@@ -1,6 +1,6 @@
 ---
 name: node-red-telemetry
-description: Telemetry with Node-RED. data collection.
+description: "Telemetry with Node-RED. data collection."
 category: iot
 tags: [node-red-telemetry, iot, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: solr-clustering
-description: Clustering with Solr. cluster setup.
+description: "Clustering with Solr. cluster setup."
 category: database
 tags: [solr, clustering, database, search-engine]
 models: [gpt-4, claude-3]

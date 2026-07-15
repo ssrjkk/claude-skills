@@ -1,6 +1,6 @@
 ---
 name: alpine-automation
-description: Automation with Alpine Linux. scripting.
+description: "Automation with Alpine Linux. scripting."
 category: os-admin
 tags: [alpine, automation, os-admin, linux]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: oculus-deployment
-description: Deployment with Oculus SDK. deployment.
+description: "Deployment with Oculus SDK. deployment."
 category: ar-vr
 tags: [oculus-deployment, ar-vr, russian]
 models: [sonnet, opus]

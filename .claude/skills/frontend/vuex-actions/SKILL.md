@@ -1,6 +1,6 @@
 ---
 name: vuex-actions
-description: Actions with Vuex. actions.
+description: "Actions with Vuex. actions."
 category: frontend
 tags: [vuex, actions, frontend, state-management]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: react-native-monitoring
-description: Monitoring for React-Native: monitoring and observability
+description: "Monitoring for React-Native: monitoring and observability"
 category: mobile
 tags: [react-native-monitoring, mobile, russian]
 models: [sonnet, opus]

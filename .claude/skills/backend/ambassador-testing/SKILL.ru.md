@@ -1,6 +1,6 @@
 ---
 name: ambassador-testing
-description: Testing with Ambassador. testing the pattern.
+description: "Testing with Ambassador. testing the pattern."
 category: backend
 tags: [ambassador-testing, backend, russian]
 models: [sonnet, opus]

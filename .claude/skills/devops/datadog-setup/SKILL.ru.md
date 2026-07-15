@@ -1,6 +1,6 @@
 ---
 name: datadog-setup
-description: Setup with Datadog. installation.
+description: "Setup with Datadog. installation."
 category: devops
 tags: [datadog-setup, devops, russian]
 models: [sonnet, opus]

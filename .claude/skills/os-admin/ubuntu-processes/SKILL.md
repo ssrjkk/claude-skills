@@ -1,6 +1,6 @@
 ---
 name: ubuntu-processes
-description: Processes with Ubuntu. process management.
+description: "Processes with Ubuntu. process management."
 category: os-admin
 tags: [ubuntu, processes, os-admin, linux]
 models: [gpt-4, claude-3]

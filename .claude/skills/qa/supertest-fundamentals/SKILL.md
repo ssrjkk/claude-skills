@@ -1,6 +1,6 @@
 ---
 name: supertest-fundamentals
-description: Fundamentals for Supertest: core concepts
+description: "Fundamentals for Supertest: core concepts"
 category: qa
 tags: [supertest, fundamentals, qa]
 models: [sonnet, opus]

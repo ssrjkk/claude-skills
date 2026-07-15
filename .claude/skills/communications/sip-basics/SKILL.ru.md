@@ -1,6 +1,6 @@
 ---
 name: sip-basics
-description: Basics with SIP. fundamentals.
+description: "Basics with SIP. fundamentals."
 category: communications
 tags: [sip-basics, communications, russian]
 models: [sonnet, opus]

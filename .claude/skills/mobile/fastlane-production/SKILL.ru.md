@@ -1,6 +1,6 @@
 ---
 name: fastlane-production
-description: Production for Fastlane: production deployment
+description: "Production for Fastlane: production deployment"
 category: mobile
 tags: [fastlane-production, mobile, russian]
 models: [sonnet, opus]

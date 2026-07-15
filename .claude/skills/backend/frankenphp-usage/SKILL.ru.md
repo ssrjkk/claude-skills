@@ -1,6 +1,6 @@
 ---
 name: frankenphp-usage
-description: Usage for Frankenphp: usage reference
+description: "Usage for Frankenphp: usage reference"
 category: backend
 tags: [frankenphp-usage, backend, russian]
 models: [sonnet, opus]

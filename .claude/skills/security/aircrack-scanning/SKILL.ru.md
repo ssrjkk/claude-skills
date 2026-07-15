@@ -1,6 +1,6 @@
 ---
 name: aircrack-scanning
-description: Scanning with Aircrack-ng. security scanning.
+description: "Scanning with Aircrack-ng. security scanning."
 category: security
 tags: [aircrack-scanning, security, russian]
 models: [sonnet, opus]

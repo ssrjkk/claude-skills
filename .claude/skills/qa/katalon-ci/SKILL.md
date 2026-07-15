@@ -1,6 +1,6 @@
 ---
 name: katalon-ci
-description: CI with Katalon. CI integration.
+description: "CI with Katalon. CI integration."
 category: qa
 tags: [katalon, ci, qa, e2e]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: algolia-monitoring
-description: Monitoring with Algolia. cluster monitoring.
+description: "Monitoring with Algolia. cluster monitoring."
 category: database
 tags: [algolia, monitoring, database, search-engine]
 models: [gpt-4, claude-3]

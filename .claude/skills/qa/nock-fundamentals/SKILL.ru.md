@@ -1,6 +1,6 @@
 ---
 name: nock-fundamentals
-description: Fundamentals for Nock: core concepts
+description: "Fundamentals for Nock: core concepts"
 category: qa
 tags: [nock-fundamentals, qa, russian]
 models: [sonnet, opus]

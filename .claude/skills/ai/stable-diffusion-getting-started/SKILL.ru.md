@@ -1,6 +1,6 @@
 ---
 name: stable-diffusion-getting-started
-description: Getting Started for Stable-Diffusion: initial setup and first steps
+description: "Getting Started for Stable-Diffusion: initial setup and first steps"
 category: ai
 tags: [stable-diffusion-getting-started, ai, russian]
 models: [sonnet, opus]

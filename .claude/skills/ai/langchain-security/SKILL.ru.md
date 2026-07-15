@@ -1,6 +1,6 @@
 ---
 name: langchain-security
-description: Security for Langchain: security best practices
+description: "Security for Langchain: security best practices"
 category: ai
 tags: [langchain-security, ai, russian]
 models: [sonnet, opus]

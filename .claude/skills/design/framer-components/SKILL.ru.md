@@ -1,6 +1,6 @@
 ---
 name: framer-components
-description: Components with Framer. components.
+description: "Components with Framer. components."
 category: design
 tags: [framer-components, design, russian]
 models: [sonnet, opus]

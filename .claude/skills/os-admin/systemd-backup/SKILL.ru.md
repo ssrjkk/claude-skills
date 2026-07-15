@@ -1,6 +1,6 @@
 ---
 name: systemd-backup
-description: Backup with systemd. backup.
+description: "Backup with systemd. backup."
 category: os-admin
 tags: [systemd-backup, os-admin, russian]
 models: [sonnet, opus]

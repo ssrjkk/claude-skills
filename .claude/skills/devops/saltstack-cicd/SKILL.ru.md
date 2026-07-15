@@ -1,6 +1,6 @@
 ---
 name: saltstack-cicd
-description: CI/CD with SaltStack. pipeline integration.
+description: "CI/CD with SaltStack. pipeline integration."
 category: devops
 tags: [saltstack-cicd, devops, russian]
 models: [sonnet, opus]

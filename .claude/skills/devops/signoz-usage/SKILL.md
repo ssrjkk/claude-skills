@@ -1,6 +1,6 @@
 ---
 name: signoz-usage
-description: Usage for Signoz: usage reference
+description: "Usage for Signoz: usage reference"
 category: devops
 tags: [signoz, usage, devops]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kotlin-multiplatform-push
-description: Push with Kotlin Multiplatform. push notifications.
+description: "Push with Kotlin Multiplatform. push notifications."
 category: mobile
 tags: [kotlin-multiplatform-push, mobile, russian]
 models: [sonnet, opus]

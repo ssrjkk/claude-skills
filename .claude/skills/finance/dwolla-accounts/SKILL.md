@@ -1,6 +1,6 @@
 ---
 name: dwolla-accounts
-description: Accounts with Dwolla. account linking.
+description: "Accounts with Dwolla. account linking."
 category: finance
 tags: [dwolla, accounts, finance, fintech]
 models: [gpt-4, claude-3]

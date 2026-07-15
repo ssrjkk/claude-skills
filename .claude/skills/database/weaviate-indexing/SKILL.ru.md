@@ -1,6 +1,6 @@
 ---
 name: weaviate-indexing
-description: Indexing with Weaviate. document indexing.
+description: "Indexing with Weaviate. document indexing."
 category: database
 tags: [weaviate-indexing, database, russian]
 models: [sonnet, opus]

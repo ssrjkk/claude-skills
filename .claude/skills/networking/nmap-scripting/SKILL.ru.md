@@ -1,6 +1,6 @@
 ---
 name: nmap-scripting
-description: Scripting with Nmap. automation.
+description: "Scripting with Nmap. automation."
 category: networking
 tags: [nmap-scripting, networking, russian]
 models: [sonnet, opus]

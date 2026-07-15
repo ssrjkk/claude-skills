@@ -1,6 +1,6 @@
 ---
 name: compositing-editing
-description: Editing with Compositing. editing.
+description: "Editing with Compositing. editing."
 category: media
 tags: [compositing, editing, media, media-production]
 models: [gpt-4, claude-3]

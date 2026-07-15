@@ -1,6 +1,6 @@
 ---
 name: clearml-deployment
-description: Deployment with Clearml. model serving.
+description: "Deployment with Clearml. model serving."
 category: ai
 tags: [clearml-deployment, ai, russian]
 models: [sonnet, opus]

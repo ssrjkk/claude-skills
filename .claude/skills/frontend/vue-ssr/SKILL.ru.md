@@ -1,6 +1,6 @@
 ---
 name: vue-ssr
-description: SSR with Vue. server rendering.
+description: "SSR with Vue. server rendering."
 category: frontend
 tags: [vue-ssr, frontend, russian]
 models: [sonnet, opus]

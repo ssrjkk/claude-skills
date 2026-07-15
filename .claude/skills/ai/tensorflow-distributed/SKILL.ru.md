@@ -1,6 +1,6 @@
 ---
 name: tensorflow-distributed
-description: Distributed with Tensorflow. distributed training.
+description: "Distributed with Tensorflow. distributed training."
 category: ai
 tags: [tensorflow-distributed, ai, russian]
 models: [sonnet, opus]

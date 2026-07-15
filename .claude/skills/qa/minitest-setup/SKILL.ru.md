@@ -1,6 +1,6 @@
 ---
 name: minitest-setup
-description: Setup with Minitest. installation.
+description: "Setup with Minitest. installation."
 category: qa
 tags: [minitest-setup, qa, russian]
 models: [sonnet, opus]

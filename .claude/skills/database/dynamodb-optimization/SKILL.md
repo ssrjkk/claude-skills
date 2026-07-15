@@ -1,6 +1,6 @@
 ---
 name: dynamodb-optimization
-description: Optimization with DynamoDB. performance.
+description: "Optimization with DynamoDB. performance."
 category: database
 tags: [dynamodb, optimization, database, nosql]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: icd10-tools
-description: Tools with ICD-10. tools.
+description: "Tools with ICD-10. tools."
 category: healthcare
 tags: [icd10-tools, healthcare, russian]
 models: [sonnet, opus]

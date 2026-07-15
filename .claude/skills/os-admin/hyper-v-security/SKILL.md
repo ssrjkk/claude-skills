@@ -1,6 +1,6 @@
 ---
 name: hyper-v-security
-description: Security with Hyper-V. security.
+description: "Security with Hyper-V. security."
 category: os-admin
 tags: [hyper-v, security, os-admin, windows]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: xstate-devtools
-description: DevTools with XState. debugging.
+description: "DevTools with XState. debugging."
 category: frontend
 tags: [xstate-devtools, frontend, russian]
 models: [sonnet, opus]

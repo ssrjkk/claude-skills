@@ -1,6 +1,6 @@
 ---
 name: matlab-statistics
-description: Statistics with MATLAB. statistical analysis.
+description: "Statistics with MATLAB. statistical analysis."
 category: scientific
 tags: [matlab-statistics, scientific, russian]
 models: [sonnet, opus]

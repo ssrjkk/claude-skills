@@ -1,6 +1,6 @@
 ---
 name: typeorm-best-practices
-description: Best Practices for Typeorm: best practices and patterns
+description: "Best Practices for Typeorm: best practices and patterns"
 category: backend
 tags: [typeorm-best-practices, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: netcat-troubleshooting
-description: Troubleshooting with netcat. debugging.
+description: "Troubleshooting with netcat. debugging."
 category: networking
 tags: [netcat, troubleshooting, networking, networking-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: web3-frontend
-description: Web3 dApp frontend with wagmi/viem
+description: "Web3 dApp frontend with wagmi/viem"
 category: blockchain
 tags: [web3, dapp, frontend, wagmi, viem, react]
 models: [sonnet, opus]

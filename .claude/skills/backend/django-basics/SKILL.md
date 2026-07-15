@@ -1,6 +1,6 @@
 ---
 name: django-basics
-description: Basics for Django: fundamentals and core concepts
+description: "Basics for Django: fundamentals and core concepts"
 category: backend
 tags: [django, basics, backend]
 models: [sonnet, opus]

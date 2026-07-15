@@ -1,6 +1,6 @@
 ---
 name: graph-ai-usage
-description: Usage for Graph-Ai: usage reference
+description: "Usage for Graph-Ai: usage reference"
 category: ai
 tags: [graph-ai, usage, ai]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: networking-skill-0089
-description: networking specialized skill #0089 for networking development
+description: "networking specialized skill #0089 for networking development"
 category: networking
 tags: [networking, skill, 0089]
 models: [sonnet, opus]

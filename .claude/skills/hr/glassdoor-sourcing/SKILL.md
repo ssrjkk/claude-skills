@@ -1,6 +1,6 @@
 ---
 name: glassdoor-sourcing
-description: Sourcing with Glassdoor. candidate sourcing.
+description: "Sourcing with Glassdoor. candidate sourcing."
 category: hr
 tags: [glassdoor, sourcing, hr, recruiting]
 models: [gpt-4, claude-3]

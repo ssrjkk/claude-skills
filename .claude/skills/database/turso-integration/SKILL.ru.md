@@ -1,6 +1,6 @@
 ---
 name: turso-integration
-description: Integration for Turso: integration with other tools
+description: "Integration for Turso: integration with other tools"
 category: database
 tags: [turso-integration, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gpg-advanced
-description: Advanced for Gpg: advanced patterns and techniques
+description: "Advanced for Gpg: advanced patterns and techniques"
 category: security
 tags: [gpg-advanced, security, russian]
 models: [sonnet, opus]

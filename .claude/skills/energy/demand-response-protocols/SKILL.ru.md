@@ -1,6 +1,6 @@
 ---
 name: demand-response-protocols
-description: Protocols with Demand Response. communication.
+description: "Protocols with Demand Response. communication."
 category: energy
 tags: [demand-response-protocols, energy, russian]
 models: [sonnet, opus]

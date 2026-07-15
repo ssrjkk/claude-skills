@@ -1,6 +1,6 @@
 ---
 name: backtesting-strategy
-description: Strategy with Backtesting. strategy dev.
+description: "Strategy with Backtesting. strategy dev."
 category: finance
 tags: [backtesting-strategy, finance, russian]
 models: [sonnet, opus]

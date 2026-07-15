@@ -1,6 +1,6 @@
 ---
 name: webpack-optimization
-description: Optimization with Webpack. build optimization.
+description: "Optimization with Webpack. build optimization."
 category: frontend
 tags: [webpack-optimization, frontend, russian]
 models: [sonnet, opus]

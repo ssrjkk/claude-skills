@@ -1,6 +1,6 @@
 ---
 name: nats-examples
-description: Examples for Nats: practical examples
+description: "Examples for Nats: practical examples"
 category: data
 tags: [nats-examples, data, russian]
 models: [sonnet, opus]

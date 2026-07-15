@@ -1,6 +1,6 @@
 ---
 name: applitools-best-practices
-description: Best Practices for Applitools: best practices and patterns
+description: "Best Practices for Applitools: best practices and patterns"
 category: qa
 tags: [applitools-best-practices, qa, russian]
 models: [sonnet, opus]

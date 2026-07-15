@@ -1,6 +1,6 @@
 ---
 name: woodpecker-pipeline
-description: Pipeline with Woodpecker. pipeline creation.
+description: "Pipeline with Woodpecker. pipeline creation."
 category: devops
 tags: [woodpecker-pipeline, devops, russian]
 models: [sonnet, opus]

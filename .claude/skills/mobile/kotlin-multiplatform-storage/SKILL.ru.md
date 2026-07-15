@@ -1,6 +1,6 @@
 ---
 name: kotlin-multiplatform-storage
-description: Storage with Kotlin Multiplatform. local storage.
+description: "Storage with Kotlin Multiplatform. local storage."
 category: mobile
 tags: [kotlin-multiplatform-storage, mobile, russian]
 models: [sonnet, opus]

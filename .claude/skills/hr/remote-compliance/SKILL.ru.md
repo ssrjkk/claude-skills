@@ -1,6 +1,6 @@
 ---
 name: remote-compliance
-description: Compliance with Remote.com. compliance.
+description: "Compliance with Remote.com. compliance."
 category: hr
 tags: [remote-compliance, hr, russian]
 models: [sonnet, opus]

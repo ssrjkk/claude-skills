@@ -1,6 +1,6 @@
 ---
 name: ionic-security
-description: Security for Ionic: security best practices
+description: "Security for Ionic: security best practices"
 category: mobile
 tags: [ionic, security, mobile]
 models: [sonnet, opus]

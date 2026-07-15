@@ -1,6 +1,6 @@
 ---
 name: scada-analytics
-description: Analytics with SCADA. analytics.
+description: "Analytics with SCADA. analytics."
 category: energy
 tags: [scada-analytics, energy, russian]
 models: [sonnet, opus]

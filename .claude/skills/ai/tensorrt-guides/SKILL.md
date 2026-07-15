@@ -1,6 +1,6 @@
 ---
 name: tensorrt-guides
-description: Guides for Tensorrt: how-to guides
+description: "Guides for Tensorrt: how-to guides"
 category: ai
 tags: [tensorrt, guides, ai]
 models: [sonnet, opus]

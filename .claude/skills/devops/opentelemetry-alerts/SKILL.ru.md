@@ -1,6 +1,6 @@
 ---
 name: opentelemetry-alerts
-description: Alerts with OpenTelemetry. alerting rules.
+description: "Alerts with OpenTelemetry. alerting rules."
 category: devops
 tags: [opentelemetry-alerts, devops, russian]
 models: [sonnet, opus]

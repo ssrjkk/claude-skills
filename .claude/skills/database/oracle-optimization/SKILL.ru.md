@@ -1,6 +1,6 @@
 ---
 name: oracle-optimization
-description: Optimization with Oracle. query tuning.
+description: "Optimization with Oracle. query tuning."
 category: database
 tags: [oracle-optimization, database, russian]
 models: [sonnet, opus]

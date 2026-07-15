@@ -1,6 +1,6 @@
 ---
 name: openlayers-data
-description: Data with OpenLayers. geospatial data.
+description: "Data with OpenLayers. geospatial data."
 category: geospatial
 tags: [openlayers, data, geospatial, gis]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: interpreter
-description: Development with Interpreter: tools and best practices
+description: "Development with Interpreter: tools and best practices"
 category: database
 tags: [interpreter, database, development]
 models: [sonnet, opus]

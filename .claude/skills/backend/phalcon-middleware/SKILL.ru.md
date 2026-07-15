@@ -1,6 +1,6 @@
 ---
 name: phalcon-middleware
-description: Middleware with Phalcon. pipeline.
+description: "Middleware with Phalcon. pipeline."
 category: backend
 tags: [phalcon-middleware, backend, russian]
 models: [sonnet, opus]

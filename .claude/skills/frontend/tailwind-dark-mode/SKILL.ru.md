@@ -1,6 +1,6 @@
 ---
 name: tailwind-dark-mode
-description: Dark Mode with Tailwind CSS. dark theme.
+description: "Dark Mode with Tailwind CSS. dark theme."
 category: frontend
 tags: [tailwind-dark-mode, frontend, russian]
 models: [sonnet, opus]

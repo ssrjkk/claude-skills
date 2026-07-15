@@ -1,6 +1,6 @@
 ---
 name: iec61850-monitoring
-description: Monitoring with IEC 61850. monitoring.
+description: "Monitoring with IEC 61850. monitoring."
 category: energy
 tags: [iec61850-monitoring, energy, russian]
 models: [sonnet, opus]

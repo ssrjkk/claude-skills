@@ -1,6 +1,6 @@
 ---
 name: proxysql-examples
-description: Examples for Proxysql: practical examples
+description: "Examples for Proxysql: practical examples"
 category: database
 tags: [proxysql, examples, database]
 models: [sonnet, opus]

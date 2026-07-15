@@ -1,6 +1,6 @@
 ---
 name: shippo-shipping
-description: Shipping with Shippo. shipping.
+description: "Shipping with Shippo. shipping."
 category: supply-chain
 tags: [shippo-shipping, supply-chain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: katalon-reporting
-description: Reporting with Katalon. reports.
+description: "Reporting with Katalon. reports."
 category: qa
 tags: [katalon, reporting, qa, e2e]
 models: [gpt-4, claude-3]

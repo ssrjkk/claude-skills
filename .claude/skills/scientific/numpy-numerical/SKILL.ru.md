@@ -1,6 +1,6 @@
 ---
 name: numpy-numerical
-description: Numerical with NumPy. numerical methods.
+description: "Numerical with NumPy. numerical methods."
 category: scientific
 tags: [numpy-numerical, scientific, russian]
 models: [sonnet, opus]

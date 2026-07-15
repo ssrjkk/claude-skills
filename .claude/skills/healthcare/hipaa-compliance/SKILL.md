@@ -1,6 +1,6 @@
 ---
 name: hipaa-compliance
-description: Compliance with HIPAA. compliance.
+description: "Compliance with HIPAA. compliance."
 category: healthcare
 tags: [hipaa, compliance, healthcare, healthcare]
 models: [gpt-4, claude-3]

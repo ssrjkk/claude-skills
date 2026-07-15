@@ -1,6 +1,6 @@
 ---
 name: scrum-maturity
-description: Maturity with Scrum. assessment.
+description: "Maturity with Scrum. assessment."
 category: product
 tags: [scrum-maturity, product, russian]
 models: [sonnet, opus]

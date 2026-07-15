@@ -1,6 +1,6 @@
 ---
 name: arduino-communication
-description: Comm with Arduino. I2C.
+description: "Comm with Arduino. I2C."
 category: iot
 tags: [arduino, communication, iot, iot]
 models: [gpt-4, claude-3]

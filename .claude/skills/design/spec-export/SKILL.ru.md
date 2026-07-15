@@ -1,6 +1,6 @@
 ---
 name: spec-export
-description: Export with Spec. assets.
+description: "Export with Spec. assets."
 category: design
 tags: [spec-export, design, russian]
 models: [sonnet, opus]

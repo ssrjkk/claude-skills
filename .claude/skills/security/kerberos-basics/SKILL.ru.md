@@ -1,6 +1,6 @@
 ---
 name: kerberos-basics
-description: Basics with Kerberos. fundamentals.
+description: "Basics with Kerberos. fundamentals."
 category: security
 tags: [kerberos-basics, security, russian]
 models: [sonnet, opus]

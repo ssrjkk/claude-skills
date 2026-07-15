@@ -1,6 +1,6 @@
 ---
 name: minikube-helm
-description: Helm with Minikube. package management.
+description: "Helm with Minikube. package management."
 category: devops
 tags: [minikube-helm, devops, russian]
 models: [sonnet, opus]

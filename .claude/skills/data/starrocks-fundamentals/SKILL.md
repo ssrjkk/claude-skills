@@ -1,6 +1,6 @@
 ---
 name: starrocks-fundamentals
-description: Fundamentals for Starrocks: core concepts
+description: "Fundamentals for Starrocks: core concepts"
 category: data
 tags: [starrocks, fundamentals, data]
 models: [sonnet, opus]

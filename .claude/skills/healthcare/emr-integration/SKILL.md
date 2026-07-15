@@ -1,6 +1,6 @@
 ---
 name: emr-integration
-description: Integration with EMR Systems. system integration.
+description: "Integration with EMR Systems. system integration."
 category: healthcare
 tags: [emr, integration, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

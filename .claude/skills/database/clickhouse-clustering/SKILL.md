@@ -1,6 +1,6 @@
 ---
 name: clickhouse-clustering
-description: Clustering with ClickHouse. clustering.
+description: "Clustering with ClickHouse. clustering."
 category: database
 tags: [clickhouse, clustering, database, time-series]
 models: [gpt-4, claude-3]

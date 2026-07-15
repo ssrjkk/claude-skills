@@ -1,6 +1,6 @@
 ---
 name: kafka-production
-description: Production for Kafka: production deployment
+description: "Production for Kafka: production deployment"
 category: backend
 tags: [kafka-production, backend, russian]
 models: [sonnet, opus]

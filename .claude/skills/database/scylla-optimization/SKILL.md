@@ -1,6 +1,6 @@
 ---
 name: scylla-optimization
-description: Optimization with ScyllaDB. performance.
+description: "Optimization with ScyllaDB. performance."
 category: database
 tags: [scylla, optimization, database, nosql]
 models: [gpt-4, claude-3]

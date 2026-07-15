@@ -1,6 +1,6 @@
 ---
 name: http-security
-description: Security with HTTP. hardening.
+description: "Security with HTTP. hardening."
 category: networking
 tags: [http, security, networking, networking]
 models: [gpt-4, claude-3]

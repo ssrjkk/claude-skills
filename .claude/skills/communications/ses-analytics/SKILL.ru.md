@@ -1,6 +1,6 @@
 ---
 name: ses-analytics
-description: Analytics with Amazon SES. analytics.
+description: "Analytics with Amazon SES. analytics."
 category: communications
 tags: [ses-analytics, communications, russian]
 models: [sonnet, opus]

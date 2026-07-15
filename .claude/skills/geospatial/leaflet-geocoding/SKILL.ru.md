@@ -1,6 +1,6 @@
 ---
 name: leaflet-geocoding
-description: Geocoding with Leaflet. geocoding.
+description: "Geocoding with Leaflet. geocoding."
 category: geospatial
 tags: [leaflet-geocoding, geospatial, russian]
 models: [sonnet, opus]

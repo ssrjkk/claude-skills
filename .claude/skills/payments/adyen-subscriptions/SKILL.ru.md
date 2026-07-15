@@ -1,6 +1,6 @@
 ---
 name: adyen-subscriptions
-description: Subscriptions with Adyen. recurring.
+description: "Subscriptions with Adyen. recurring."
 category: payments
 tags: [adyen-subscriptions, payments, russian]
 models: [sonnet, opus]

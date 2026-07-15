@@ -1,6 +1,6 @@
 ---
 name: mailgun-integration
-description: Integration with Mailgun. integration.
+description: "Integration with Mailgun. integration."
 category: communications
 tags: [mailgun, integration, communications, communication-platform]
 models: [gpt-4, claude-3]

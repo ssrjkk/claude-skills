@@ -1,6 +1,6 @@
 ---
 name: junit-setup
-description: Setup with JUnit. installation.
+description: "Setup with JUnit. installation."
 category: qa
 tags: [junit-setup, qa, russian]
 models: [sonnet, opus]

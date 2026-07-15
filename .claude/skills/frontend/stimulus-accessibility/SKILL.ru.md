@@ -1,6 +1,6 @@
 ---
 name: stimulus-accessibility
-description: Accessibility with Stimulus. a11y.
+description: "Accessibility with Stimulus. a11y."
 category: frontend
 tags: [stimulus-accessibility, frontend, russian]
 models: [sonnet, opus]

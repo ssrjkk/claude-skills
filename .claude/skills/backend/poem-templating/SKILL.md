@@ -1,6 +1,6 @@
 ---
 name: poem-templating
-description: Templating with Poem. templates.
+description: "Templating with Poem. templates."
 category: backend
 tags: [poem, templating, backend, backend]
 models: [gpt-4, claude-3]

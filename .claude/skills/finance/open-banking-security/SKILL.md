@@ -1,6 +1,6 @@
 ---
 name: open-banking-security
-description: Security with Open Banking. security.
+description: "Security with Open Banking. security."
 category: finance
 tags: [open-banking, security, finance, fintech]
 models: [gpt-4, claude-3]

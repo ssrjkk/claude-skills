@@ -1,6 +1,6 @@
 ---
 name: hyperdx-intro
-description: Intro for Hyperdx: introduction
+description: "Intro for Hyperdx: introduction"
 category: devops
 tags: [hyperdx, intro, devops]
 models: [sonnet, opus]

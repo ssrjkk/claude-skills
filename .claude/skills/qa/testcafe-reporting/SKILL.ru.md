@@ -1,6 +1,6 @@
 ---
 name: testcafe-reporting
-description: Reporting with TestCafe. reports.
+description: "Reporting with TestCafe. reports."
 category: qa
 tags: [testcafe-reporting, qa, russian]
 models: [sonnet, opus]

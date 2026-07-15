@@ -1,6 +1,6 @@
 ---
 name: sonarqube-reporting
-description: Reporting with SonarQube. reports.
+description: "Reporting with SonarQube. reports."
 category: security
 tags: [sonarqube, reporting, security, security-tool]
 models: [gpt-4, claude-3]

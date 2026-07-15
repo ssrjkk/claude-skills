@@ -1,6 +1,6 @@
 ---
 name: arduino-ble
-description: BLE with Arduino. Bluetooth.
+description: "BLE with Arduino. Bluetooth."
 category: iot
 tags: [arduino, ble, iot, iot]
 models: [gpt-4, claude-3]

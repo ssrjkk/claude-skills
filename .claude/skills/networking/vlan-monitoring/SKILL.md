@@ -1,6 +1,6 @@
 ---
 name: vlan-monitoring
-description: Monitoring with VLAN. monitoring.
+description: "Monitoring with VLAN. monitoring."
 category: networking
 tags: [vlan, monitoring, networking, networking]
 models: [gpt-4, claude-3]

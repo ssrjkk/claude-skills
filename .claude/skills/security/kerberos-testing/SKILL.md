@@ -1,6 +1,6 @@
 ---
 name: kerberos-testing
-description: Testing with Kerberos. security testing.
+description: "Testing with Kerberos. security testing."
 category: security
 tags: [kerberos, testing, security, security]
 models: [gpt-4, claude-3]

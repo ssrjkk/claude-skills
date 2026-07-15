@@ -1,6 +1,6 @@
 ---
 name: svelte-accessibility
-description: Accessibility with Svelte. a11y.
+description: "Accessibility with Svelte. a11y."
 category: frontend
 tags: [svelte, accessibility, frontend, frontend]
 models: [gpt-4, claude-3]

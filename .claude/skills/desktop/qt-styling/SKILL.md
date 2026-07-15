@@ -1,6 +1,6 @@
 ---
 name: qt-styling
-description: Styling with Qt. styling.
+description: "Styling with Qt. styling."
 category: desktop
 tags: [qt, styling, desktop, desktop]
 models: [gpt-4, claude-3]

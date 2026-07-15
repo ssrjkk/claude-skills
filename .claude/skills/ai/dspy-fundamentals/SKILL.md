@@ -1,6 +1,6 @@
 ---
 name: dspy-fundamentals
-description: Fundamentals for Dspy: core concepts
+description: "Fundamentals for Dspy: core concepts"
 category: ai
 tags: [dspy, fundamentals, ai]
 models: [sonnet, opus]

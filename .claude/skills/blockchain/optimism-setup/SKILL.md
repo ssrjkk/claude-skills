@@ -1,6 +1,6 @@
 ---
 name: optimism-setup
-description: Setup with Optimism. node setup.
+description: "Setup with Optimism. node setup."
 category: blockchain
 tags: [optimism, setup, blockchain, blockchain]
 models: [gpt-4, claude-3]

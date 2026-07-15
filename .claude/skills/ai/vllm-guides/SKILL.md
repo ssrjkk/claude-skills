@@ -1,6 +1,6 @@
 ---
 name: vllm-guides
-description: Guides for Vllm: how-to guides
+description: "Guides for Vllm: how-to guides"
 category: ai
 tags: [vllm, guides, ai]
 models: [sonnet, opus]

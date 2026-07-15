@@ -1,6 +1,6 @@
 ---
 name: remix-ssg
-description: SSG with Remix. static generation.
+description: "SSG with Remix. static generation."
 category: frontend
 tags: [remix-ssg, frontend, russian]
 models: [sonnet, opus]

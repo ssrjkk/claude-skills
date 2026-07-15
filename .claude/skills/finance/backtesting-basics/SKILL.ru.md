@@ -1,6 +1,6 @@
 ---
 name: backtesting-basics
-description: Basics with Backtesting. fundamentals.
+description: "Basics with Backtesting. fundamentals."
 category: finance
 tags: [backtesting-basics, finance, russian]
 models: [sonnet, opus]

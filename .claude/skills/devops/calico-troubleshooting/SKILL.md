@@ -1,6 +1,6 @@
 ---
 name: calico-troubleshooting
-description: Troubleshooting for Calico: troubleshooting common issues
+description: "Troubleshooting for Calico: troubleshooting common issues"
 category: devops
 tags: [calico, troubleshooting, devops]
 models: [sonnet, opus]

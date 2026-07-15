@@ -1,6 +1,6 @@
 ---
 name: skill-0208
-description: Specialized skill #0208 for design development
+description: "Specialized skill #0208 for design development"
 category: design
 tags: [skill-0208, design, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: pillow-image-augmentation
-description: Image Augmentation with Pillow. data augmentation.
+description: "Image Augmentation with Pillow. data augmentation."
 category: ai
 tags: [pillow, image-augmentation, ai, computer-vision]
 models: [gpt-4, claude-3]

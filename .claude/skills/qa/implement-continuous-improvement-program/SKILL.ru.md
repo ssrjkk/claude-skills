@@ -1,6 +1,6 @@
 ---
 name: implement-continuous-improvement-program
-description: Establish systematic approach to ongoing process improvement and optimization
+description: "Establish systematic approach to ongoing process improvement and optimization"
 category: qa
 tags: [implement-continuous-improvement-program, qa, russian]
 models: [sonnet, opus]

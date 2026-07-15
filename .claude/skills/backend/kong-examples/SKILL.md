@@ -1,6 +1,6 @@
 ---
 name: kong-examples
-description: Examples for Kong: practical examples
+description: "Examples for Kong: practical examples"
 category: backend
 tags: [kong, examples, backend]
 models: [sonnet, opus]

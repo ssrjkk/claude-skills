@@ -1,6 +1,6 @@
 ---
 name: signoz-tracing
-description: Tracing with SigNoz. distributed tracing.
+description: "Tracing with SigNoz. distributed tracing."
 category: devops
 tags: [signoz, tracing, devops, monitoring]
 models: [gpt-4, claude-3]

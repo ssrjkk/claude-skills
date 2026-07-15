@@ -1,6 +1,6 @@
 ---
 name: plivo-integration
-description: Integration with Plivo. integration.
+description: "Integration with Plivo. integration."
 category: communications
 tags: [plivo, integration, communications, communication-platform]
 models: [gpt-4, claude-3]

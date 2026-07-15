@@ -1,6 +1,6 @@
 ---
 name: gemini-debugging
-description: Debugging for Gemini: debugging and troubleshooting
+description: "Debugging for Gemini: debugging and troubleshooting"
 category: ai
 tags: [gemini, debugging, ai]
 models: [sonnet, opus]

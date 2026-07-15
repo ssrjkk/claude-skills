@@ -1,6 +1,6 @@
 ---
 name: axum-debugging
-description: Debugging for Axum: debugging and troubleshooting
+description: "Debugging for Axum: debugging and troubleshooting"
 category: backend
 tags: [axum-debugging, backend, russian]
 models: [sonnet, opus]

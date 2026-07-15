@@ -1,6 +1,6 @@
 ---
 name: angular-ssr
-description: SSR with Angular. server rendering.
+description: "SSR with Angular. server rendering."
 category: frontend
 tags: [angular, ssr, frontend, frontend]
 models: [gpt-4, claude-3]

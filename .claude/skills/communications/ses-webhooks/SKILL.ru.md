@@ -1,6 +1,6 @@
 ---
 name: ses-webhooks
-description: Webhooks with Amazon SES. webhooks.
+description: "Webhooks with Amazon SES. webhooks."
 category: communications
 tags: [ses-webhooks, communications, russian]
 models: [sonnet, opus]

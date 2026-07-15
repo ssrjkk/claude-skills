@@ -1,6 +1,6 @@
 ---
 name: cilium-configuration
-description: Configuration for Cilium: configuration and setup
+description: "Configuration for Cilium: configuration and setup"
 category: devops
 tags: [cilium-configuration, devops, russian]
 models: [sonnet, opus]

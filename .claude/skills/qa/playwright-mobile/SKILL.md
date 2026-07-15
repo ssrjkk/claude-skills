@@ -1,6 +1,6 @@
 ---
 name: playwright-mobile
-description: Mobile with Playwright. mobile testing.
+description: "Mobile with Playwright. mobile testing."
 category: qa
 tags: [playwright, mobile, qa, e2e]
 models: [gpt-4, claude-3]

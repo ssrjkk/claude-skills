@@ -1,6 +1,6 @@
 ---
 name: bevy-debugging
-description: Debugging for Bevy: debugging and troubleshooting
+description: "Debugging for Bevy: debugging and troubleshooting"
 category: gamedev
 tags: [bevy-debugging, gamedev, russian]
 models: [sonnet, opus]

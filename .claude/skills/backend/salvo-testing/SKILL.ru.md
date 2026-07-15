@@ -1,6 +1,6 @@
 ---
 name: salvo-testing
-description: Testing with Salvo. unit tests.
+description: "Testing with Salvo. unit tests."
 category: backend
 tags: [salvo-testing, backend, russian]
 models: [sonnet, opus]

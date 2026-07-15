@@ -1,6 +1,6 @@
 ---
 name: hl7-interoperability
-description: Interop with HL7 v2. interoperability.
+description: "Interop with HL7 v2. interoperability."
 category: healthcare
 tags: [hl7-interoperability, healthcare, russian]
 models: [sonnet, opus]

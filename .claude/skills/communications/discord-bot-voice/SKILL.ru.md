@@ -1,6 +1,6 @@
 ---
 name: discord-bot-voice
-description: Voice with Discord Bot. voice calls.
+description: "Voice with Discord Bot. voice calls."
 category: communications
 tags: [discord-bot-voice, communications, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: phaser-basics
-description: Basics for Phaser: fundamentals and core concepts
+description: "Basics for Phaser: fundamentals and core concepts"
 category: gamedev
 tags: [phaser-basics, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: dwolla-payments
-description: Payments with Dwolla. payments.
+description: "Payments with Dwolla. payments."
 category: finance
 tags: [dwolla-payments, finance, russian]
 models: [sonnet, opus]

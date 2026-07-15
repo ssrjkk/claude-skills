@@ -1,6 +1,6 @@
 ---
 name: duckdb-getting-started
-description: Getting Started for Duckdb: initial setup and first steps
+description: "Getting Started for Duckdb: initial setup and first steps"
 category: database
 tags: [duckdb-getting-started, database, russian]
 models: [sonnet, opus]

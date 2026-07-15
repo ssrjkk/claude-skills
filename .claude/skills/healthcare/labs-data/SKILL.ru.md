@@ -1,6 +1,6 @@
 ---
 name: labs-data
-description: Data with LIS. data management.
+description: "Data with LIS. data management."
 category: healthcare
 tags: [labs-data, healthcare, russian]
 models: [sonnet, opus]

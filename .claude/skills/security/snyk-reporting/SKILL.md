@@ -1,6 +1,6 @@
 ---
 name: snyk-reporting
-description: Reporting with Snyk. reports.
+description: "Reporting with Snyk. reports."
 category: security
 tags: [snyk, reporting, security, security-tool]
 models: [gpt-4, claude-3]

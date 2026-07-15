@@ -1,6 +1,6 @@
 ---
 name: vault-configuration
-description: Configuration for Vault: configuration and setup
+description: "Configuration for Vault: configuration and setup"
 category: devops
 tags: [vault, configuration, devops]
 models: [sonnet, opus]

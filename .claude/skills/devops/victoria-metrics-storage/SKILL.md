@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-storage
-description: Storage with VictoriaMetrics. data retention.
+description: "Storage with VictoriaMetrics. data retention."
 category: devops
 tags: [victoria-metrics, storage, devops, monitoring]
 models: [gpt-4, claude-3]

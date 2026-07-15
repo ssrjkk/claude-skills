@@ -1,6 +1,6 @@
 ---
 name: pico-theming
-description: Theming with Pico CSS. custom themes.
+description: "Theming with Pico CSS. custom themes."
 category: frontend
 tags: [pico, theming, frontend, css]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: nextjs-api
-description: API for Nextjs: API development and integration
+description: "API for Nextjs: API development and integration"
 category: frontend
 tags: [nextjs, api, frontend]
 models: [sonnet, opus]

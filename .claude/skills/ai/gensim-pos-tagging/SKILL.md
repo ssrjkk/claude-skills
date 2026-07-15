@@ -1,6 +1,6 @@
 ---
 name: gensim-pos-tagging
-description: POS Tagging with Gensim. POS tagging.
+description: "POS Tagging with Gensim. POS tagging."
 category: ai
 tags: [gensim, pos-tagging, ai, nlp]
 models: [gpt-4, claude-3]

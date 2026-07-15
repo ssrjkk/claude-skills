@@ -1,6 +1,6 @@
 ---
 name: wrk-metrics
-description: Metrics with wrk. performance metrics.
+description: "Metrics with wrk. performance metrics."
 category: qa
 tags: [wrk-metrics, qa, russian]
 models: [sonnet, opus]

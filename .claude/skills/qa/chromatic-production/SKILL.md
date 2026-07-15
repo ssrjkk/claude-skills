@@ -1,6 +1,6 @@
 ---
 name: chromatic-production
-description: Production for Chromatic: production deployment
+description: "Production for Chromatic: production deployment"
 category: qa
 tags: [chromatic, production, qa]
 models: [sonnet, opus]

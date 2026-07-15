@@ -1,6 +1,6 @@
 ---
 name: fantom-staking
-description: Staking with Fantom. staking.
+description: "Staking with Fantom. staking."
 category: blockchain
 tags: [fantom-staking, blockchain, russian]
 models: [sonnet, opus]

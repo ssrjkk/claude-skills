@@ -1,6 +1,6 @@
 ---
 name: bootstrap-theming
-description: Theming with Bootstrap. custom themes.
+description: "Theming with Bootstrap. custom themes."
 category: frontend
 tags: [bootstrap, theming, frontend, css]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: bevy-testing
-description: Testing for Bevy: testing and validation
+description: "Testing for Bevy: testing and validation"
 category: gamedev
 tags: [bevy-testing, gamedev, russian]
 models: [sonnet, opus]

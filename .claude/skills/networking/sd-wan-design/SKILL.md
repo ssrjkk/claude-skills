@@ -1,6 +1,6 @@
 ---
 name: sd-wan-design
-description: Design with SD-WAN. network design.
+description: "Design with SD-WAN. network design."
 category: networking
 tags: [sd-wan, design, networking, networking]
 models: [gpt-4, claude-3]

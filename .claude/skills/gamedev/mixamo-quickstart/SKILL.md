@@ -1,6 +1,6 @@
 ---
 name: mixamo-quickstart
-description: Quickstart for Mixamo: quick start guide
+description: "Quickstart for Mixamo: quick start guide"
 category: gamedev
 tags: [mixamo, quickstart, gamedev]
 models: [sonnet, opus]

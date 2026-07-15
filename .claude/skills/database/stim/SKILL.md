@@ -1,6 +1,6 @@
 ---
 name: stim
-description: Development with Stim: tools and best practices
+description: "Development with Stim: tools and best practices"
 category: database
 tags: [stim, database, development]
 models: [sonnet, opus]

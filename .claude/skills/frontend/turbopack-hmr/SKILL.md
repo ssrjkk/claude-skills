@@ -1,6 +1,6 @@
 ---
 name: turbopack-hmr
-description: HMR with Turbopack. hot reload.
+description: "HMR with Turbopack. hot reload."
 category: frontend
 tags: [turbopack, hmr, frontend, build-tool]
 models: [gpt-4, claude-3]

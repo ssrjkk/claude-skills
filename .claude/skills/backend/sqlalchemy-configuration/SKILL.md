@@ -1,6 +1,6 @@
 ---
 name: sqlalchemy-configuration
-description: Configuration for Sqlalchemy: configuration and setup
+description: "Configuration for Sqlalchemy: configuration and setup"
 category: backend
 tags: [sqlalchemy, configuration, backend]
 models: [sonnet, opus]

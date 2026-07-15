@@ -1,6 +1,6 @@
 ---
 name: koa-templating
-description: Templating with Koa. Pug.
+description: "Templating with Koa. Pug."
 category: backend
 tags: [koa, templating, backend, backend]
 models: [gpt-4, claude-3]

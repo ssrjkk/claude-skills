@@ -1,6 +1,6 @@
 ---
 name: weaviate-setup
-description: Setup with Weaviate. installation.
+description: "Setup with Weaviate. installation."
 category: database
 tags: [weaviate, setup, database, search-engine]
 models: [gpt-4, claude-3]

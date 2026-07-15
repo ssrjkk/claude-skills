@@ -1,6 +1,6 @@
 ---
 name: postgis-tiles
-description: Tiles with PostGIS. tile serving.
+description: "Tiles with PostGIS. tile serving."
 category: geospatial
 tags: [postgis-tiles, geospatial, russian]
 models: [sonnet, opus]

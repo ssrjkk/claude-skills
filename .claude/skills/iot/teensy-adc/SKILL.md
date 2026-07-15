@@ -1,6 +1,6 @@
 ---
 name: teensy-adc
-description: ADC with Teensy. analog input.
+description: "ADC with Teensy. analog input."
 category: iot
 tags: [teensy, adc, iot, iot]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: ffmpeg-delivery
-description: Delivery with FFmpeg. delivery.
+description: "Delivery with FFmpeg. delivery."
 category: media
 tags: [ffmpeg, delivery, media, media-streaming]
 models: [gpt-4, claude-3]

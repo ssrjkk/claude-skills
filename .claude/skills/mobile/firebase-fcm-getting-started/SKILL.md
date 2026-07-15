@@ -1,6 +1,6 @@
 ---
 name: firebase-fcm-getting-started
-description: Getting Started for Firebase-Fcm: initial setup and first steps
+description: "Getting Started for Firebase-Fcm: initial setup and first steps"
 category: mobile
 tags: [firebase-fcm, getting-started, mobile]
 models: [sonnet, opus]

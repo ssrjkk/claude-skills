@@ -1,6 +1,6 @@
 ---
 name: hydra-analysis
-description: Analysis with Hydra. analysis.
+description: "Analysis with Hydra. analysis."
 category: security
 tags: [hydra-analysis, security, russian]
 models: [sonnet, opus]

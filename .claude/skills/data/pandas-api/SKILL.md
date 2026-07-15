@@ -1,6 +1,6 @@
 ---
 name: pandas-api
-description: API for Pandas: API development and integration
+description: "API for Pandas: API development and integration"
 category: data
 tags: [pandas, api, data]
 models: [sonnet, opus]

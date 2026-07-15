@@ -1,6 +1,6 @@
 ---
 name: vegeta-metrics
-description: Metrics with Vegeta. performance metrics.
+description: "Metrics with Vegeta. performance metrics."
 category: qa
 tags: [vegeta-metrics, qa, russian]
 models: [sonnet, opus]

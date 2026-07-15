@@ -1,6 +1,6 @@
 ---
 name: logging-elk
-description: Sets up centralized log collection and analysis with ELK stack. Use for debugging and log monitoring.
+description: "Sets up centralized log collection and analysis with ELK stack. Use for debugging and log monitoring."
 category: devops
 tags: [logging-elk, devops, russian]
 models: [sonnet, opus]

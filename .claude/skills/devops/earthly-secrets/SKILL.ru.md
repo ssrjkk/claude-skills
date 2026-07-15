@@ -1,6 +1,6 @@
 ---
 name: earthly-secrets
-description: Secrets with Earthly. secret management.
+description: "Secrets with Earthly. secret management."
 category: devops
 tags: [earthly-secrets, devops, russian]
 models: [sonnet, opus]

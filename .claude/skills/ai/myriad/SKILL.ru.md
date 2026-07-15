@@ -1,6 +1,6 @@
 ---
 name: myriad
-description: Development with Myriad: tools and best practices
+description: "Development with Myriad: tools and best practices"
 category: ai
 tags: [myriad, ai, russian]
 models: [sonnet, opus]

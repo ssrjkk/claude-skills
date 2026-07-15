@@ -1,6 +1,6 @@
 ---
 name: sap-successfactors-analytics
-description: Analytics with SAP SuccessFactors. analytics.
+description: "Analytics with SAP SuccessFactors. analytics."
 category: hr
 tags: [sap-successfactors-analytics, hr, russian]
 models: [sonnet, opus]

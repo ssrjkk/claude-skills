@@ -1,6 +1,6 @@
 ---
 name: zeroheight-collaboration
-description: Collaboration with Zeroheight. collaboration.
+description: "Collaboration with Zeroheight. collaboration."
 category: design
 tags: [zeroheight-collaboration, design, russian]
 models: [sonnet, opus]

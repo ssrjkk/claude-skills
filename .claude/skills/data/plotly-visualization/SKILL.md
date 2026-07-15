@@ -1,6 +1,6 @@
 ---
 name: plotly-visualization
-description: Visualization with Plotly. charting.
+description: "Visualization with Plotly. charting."
 category: data
 tags: [plotly, visualization, data, data-science]
 models: [gpt-4, claude-3]

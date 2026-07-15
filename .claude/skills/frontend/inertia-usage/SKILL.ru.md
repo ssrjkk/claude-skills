@@ -1,6 +1,6 @@
 ---
 name: inertia-usage
-description: Usage for Inertia: usage reference
+description: "Usage for Inertia: usage reference"
 category: frontend
 tags: [inertia-usage, frontend, russian]
 models: [sonnet, opus]

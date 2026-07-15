@@ -1,6 +1,6 @@
 ---
 name: linux-kernel-backup
-description: Backup with Linux Kernel. backup.
+description: "Backup with Linux Kernel. backup."
 category: os-admin
 tags: [linux-kernel, backup, os-admin, linux]
 models: [gpt-4, claude-3]

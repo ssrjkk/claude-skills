@@ -1,6 +1,6 @@
 ---
 name: cdk-testing
-description: Testing with AWS CDK. infra testing.
+description: "Testing with AWS CDK. infra testing."
 category: devops
 tags: [cdk-testing, devops, russian]
 models: [sonnet, opus]

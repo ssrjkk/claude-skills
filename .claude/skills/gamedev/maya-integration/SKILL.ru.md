@@ -1,6 +1,6 @@
 ---
 name: maya-integration
-description: Integration for Maya: integration with other tools
+description: "Integration for Maya: integration with other tools"
 category: gamedev
 tags: [maya-integration, gamedev, russian]
 models: [sonnet, opus]

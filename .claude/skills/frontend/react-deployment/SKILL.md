@@ -1,6 +1,6 @@
 ---
 name: react-deployment
-description: Deployment for React: deployment and release
+description: "Deployment for React: deployment and release"
 category: frontend
 tags: [react, deployment, frontend]
 models: [sonnet, opus]

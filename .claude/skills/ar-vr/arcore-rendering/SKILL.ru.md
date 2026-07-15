@@ -1,6 +1,6 @@
 ---
 name: arcore-rendering
-description: Rendering with ARCore. stereoscopic.
+description: "Rendering with ARCore. stereoscopic."
 category: ar-vr
 tags: [arcore-rendering, ar-vr, russian]
 models: [sonnet, opus]

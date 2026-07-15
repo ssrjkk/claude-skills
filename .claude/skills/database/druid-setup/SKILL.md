@@ -1,6 +1,6 @@
 ---
 name: druid-setup
-description: Setup with Apache Druid. installation.
+description: "Setup with Apache Druid. installation."
 category: database
 tags: [druid, setup, database, time-series]
 models: [gpt-4, claude-3]

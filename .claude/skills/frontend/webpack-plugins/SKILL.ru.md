@@ -1,6 +1,6 @@
 ---
 name: webpack-plugins
-description: Plugins with Webpack. plugins.
+description: "Plugins with Webpack. plugins."
 category: frontend
 tags: [webpack-plugins, frontend, russian]
 models: [sonnet, opus]

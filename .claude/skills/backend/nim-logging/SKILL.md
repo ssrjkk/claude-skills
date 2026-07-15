@@ -1,6 +1,6 @@
 ---
 name: nim-logging
-description: Logging with Nim. app logging.
+description: "Logging with Nim. app logging."
 category: backend
 tags: [nim, logging, backend, backend]
 models: [gpt-4, claude-3]

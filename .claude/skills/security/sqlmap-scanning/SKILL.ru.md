@@ -1,6 +1,6 @@
 ---
 name: sqlmap-scanning
-description: Scanning with SQLmap. security scanning.
+description: "Scanning with SQLmap. security scanning."
 category: security
 tags: [sqlmap-scanning, security, russian]
 models: [sonnet, opus]

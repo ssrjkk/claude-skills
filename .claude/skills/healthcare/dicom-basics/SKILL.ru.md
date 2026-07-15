@@ -1,6 +1,6 @@
 ---
 name: dicom-basics
-description: Basics with DICOM. fundamentals.
+description: "Basics with DICOM. fundamentals."
 category: healthcare
 tags: [dicom-basics, healthcare, russian]
 models: [sonnet, opus]

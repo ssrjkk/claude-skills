@@ -1,6 +1,6 @@
 ---
 name: ember-testing
-description: Testing with Ember. component testing.
+description: "Testing with Ember. component testing."
 category: frontend
 tags: [ember, testing, frontend, frontend]
 models: [gpt-4, claude-3]

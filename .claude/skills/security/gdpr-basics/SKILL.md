@@ -1,6 +1,6 @@
 ---
 name: gdpr-basics
-description: Basics with GDPR. fundamentals.
+description: "Basics with GDPR. fundamentals."
 category: security
 tags: [gdpr, basics, security, security]
 models: [gpt-4, claude-3]

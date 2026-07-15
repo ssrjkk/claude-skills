@@ -1,6 +1,6 @@
 ---
 name: godot-basics
-description: Basics for Godot: fundamentals and core concepts
+description: "Basics for Godot: fundamentals and core concepts"
 category: gamedev
 tags: [godot, basics, gamedev]
 models: [sonnet, opus]

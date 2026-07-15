@@ -1,6 +1,6 @@
 ---
 name: gtk-packaging
-description: Packaging with GTK. app packaging.
+description: "Packaging with GTK. app packaging."
 category: desktop
 tags: [gtk, packaging, desktop, desktop]
 models: [gpt-4, claude-3]

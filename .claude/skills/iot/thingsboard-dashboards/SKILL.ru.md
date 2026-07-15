@@ -1,6 +1,6 @@
 ---
 name: thingsboard-dashboards
-description: Dashboards with ThingsBoard. dashboards.
+description: "Dashboards with ThingsBoard. dashboards."
 category: iot
 tags: [thingsboard-dashboards, iot, russian]
 models: [sonnet, opus]

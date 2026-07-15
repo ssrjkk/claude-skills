@@ -1,6 +1,6 @@
 ---
 name: dragonfly-examples
-description: Examples for Dragonfly: practical examples
+description: "Examples for Dragonfly: practical examples"
 category: database
 tags: [dragonfly-examples, database, russian]
 models: [sonnet, opus]

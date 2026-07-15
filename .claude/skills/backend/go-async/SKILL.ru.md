@@ -1,6 +1,6 @@
 ---
 name: go-async
-description: Async with Go. async operations.
+description: "Async with Go. async operations."
 category: backend
 tags: [go-async, backend, russian]
 models: [sonnet, opus]

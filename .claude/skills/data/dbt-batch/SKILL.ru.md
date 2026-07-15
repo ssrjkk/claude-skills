@@ -1,6 +1,6 @@
 ---
 name: dbt-batch
-description: Batch with dbt. batch processing.
+description: "Batch with dbt. batch processing."
 category: data
 tags: [dbt-batch, data, russian]
 models: [sonnet, opus]

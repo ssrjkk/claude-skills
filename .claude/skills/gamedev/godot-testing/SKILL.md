@@ -1,6 +1,6 @@
 ---
 name: godot-testing
-description: Testing for Godot: testing and validation
+description: "Testing for Godot: testing and validation"
 category: gamedev
 tags: [godot, testing, gamedev]
 models: [sonnet, opus]

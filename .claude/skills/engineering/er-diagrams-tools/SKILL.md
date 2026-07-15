@@ -1,6 +1,6 @@
 ---
 name: er-diagrams-tools
-description: Tools with ER Diagrams. tooling.
+description: "Tools with ER Diagrams. tooling."
 category: engineering
 tags: [er-diagrams, tools, engineering, modeling]
 models: [gpt-4, claude-3]

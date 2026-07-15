@@ -1,6 +1,6 @@
 ---
 name: arangodb-graph-setup
-description: Setup with ArangoDB Graph. installation.
+description: "Setup with ArangoDB Graph. installation."
 category: database
 tags: [arangodb-graph-setup, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: unity-audio
-description: Audio with Unity. audio.
+description: "Audio with Unity. audio."
 category: gamedev
 tags: [unity-audio, gamedev, russian]
 models: [sonnet, opus]

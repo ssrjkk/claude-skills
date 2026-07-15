@@ -1,6 +1,6 @@
 ---
 name: pytorch-distributed
-description: Distributed with Pytorch. distributed training.
+description: "Distributed with Pytorch. distributed training."
 category: ai
 tags: [pytorch-distributed, ai, russian]
 models: [sonnet, opus]

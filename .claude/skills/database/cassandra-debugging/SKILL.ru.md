@@ -1,6 +1,6 @@
 ---
 name: cassandra-debugging
-description: Debugging for Cassandra: debugging and troubleshooting
+description: "Debugging for Cassandra: debugging and troubleshooting"
 category: database
 tags: [cassandra-debugging, database, russian]
 models: [sonnet, opus]

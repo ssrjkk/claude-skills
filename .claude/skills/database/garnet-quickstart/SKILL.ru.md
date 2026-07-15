@@ -1,6 +1,6 @@
 ---
 name: garnet-quickstart
-description: Quickstart for Garnet: quick start guide
+description: "Quickstart for Garnet: quick start guide"
 category: database
 tags: [garnet-quickstart, database, russian]
 models: [sonnet, opus]

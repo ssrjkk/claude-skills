@@ -1,6 +1,6 @@
 ---
 name: hedera-nft
-description: NFT with Hedera. tokens.
+description: "NFT with Hedera. tokens."
 category: blockchain
 tags: [hedera-nft, blockchain, russian]
 models: [sonnet, opus]

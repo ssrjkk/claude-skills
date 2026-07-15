@@ -1,6 +1,6 @@
 ---
 name: bdd-tools
-description: Tools with BDD. tooling.
+description: "Tools with BDD. tooling."
 category: engineering
 tags: [bdd, tools, engineering, engineering]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: chi-database
-description: Database with Chi. DB access.
+description: "Database with Chi. DB access."
 category: backend
 tags: [chi, database, backend, backend]
 models: [gpt-4, claude-3]

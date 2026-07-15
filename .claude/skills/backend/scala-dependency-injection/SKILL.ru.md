@@ -1,6 +1,6 @@
 ---
 name: scala-dependency-injection
-description: DI with Scala. DI containers.
+description: "DI with Scala. DI containers."
 category: backend
 tags: [scala-dependency-injection, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: trino-etl
-description: ETL with Trino. extract-transform-load.
+description: "ETL with Trino. extract-transform-load."
 category: data
 tags: [trino-etl, data, russian]
 models: [sonnet, opus]

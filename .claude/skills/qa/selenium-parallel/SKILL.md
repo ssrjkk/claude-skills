@@ -1,6 +1,6 @@
 ---
 name: selenium-parallel
-description: Parallel with Selenium. parallel execution.
+description: "Parallel with Selenium. parallel execution."
 category: qa
 tags: [selenium, parallel, qa, e2e]
 models: [gpt-4, claude-3]

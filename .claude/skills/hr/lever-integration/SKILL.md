@@ -1,6 +1,6 @@
 ---
 name: lever-integration
-description: Integration with Lever. integration.
+description: "Integration with Lever. integration."
 category: hr
 tags: [lever, integration, hr, hr-tech]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: lightgbm-classification
-description: Classification with Lightgbm. building classifiers.
+description: "Classification with Lightgbm. building classifiers."
 category: ai
 tags: [lightgbm-classification, ai, russian]
 models: [sonnet, opus]

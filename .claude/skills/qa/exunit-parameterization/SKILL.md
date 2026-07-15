@@ -1,6 +1,6 @@
 ---
 name: exunit-parameterization
-description: Parameterization with ExUnit. parametrized tests.
+description: "Parameterization with ExUnit. parametrized tests."
 category: qa
 tags: [exunit, parameterization, qa, testing]
 models: [gpt-4, claude-3]

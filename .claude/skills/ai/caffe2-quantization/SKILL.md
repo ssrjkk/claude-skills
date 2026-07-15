@@ -1,6 +1,6 @@
 ---
 name: caffe2-quantization
-description: Quantization with Caffe2. model quantization.
+description: "Quantization with Caffe2. model quantization."
 category: ai
 tags: [caffe2, quantization, ai, deep-learning]
 models: [gpt-4, claude-3]

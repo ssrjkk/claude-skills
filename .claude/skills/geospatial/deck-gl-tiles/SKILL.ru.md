@@ -1,6 +1,6 @@
 ---
 name: deck-gl-tiles
-description: Tiles with Deck.gl. tile serving.
+description: "Tiles with Deck.gl. tile serving."
 category: geospatial
 tags: [deck-gl-tiles, geospatial, russian]
 models: [sonnet, opus]

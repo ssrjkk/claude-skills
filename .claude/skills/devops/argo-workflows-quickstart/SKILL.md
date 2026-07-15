@@ -1,6 +1,6 @@
 ---
 name: argo-workflows-quickstart
-description: Quickstart for Argo-Workflows: quick start guide
+description: "Quickstart for Argo-Workflows: quick start guide"
 category: devops
 tags: [argo-workflows, quickstart, devops]
 models: [sonnet, opus]

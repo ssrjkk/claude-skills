@@ -1,6 +1,6 @@
 ---
 name: airflow-testing
-description: Testing for Airflow: testing and validation
+description: "Testing for Airflow: testing and validation"
 category: data
 tags: [airflow-testing, data, russian]
 models: [sonnet, opus]

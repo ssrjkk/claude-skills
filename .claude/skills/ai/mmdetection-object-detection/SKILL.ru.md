@@ -1,6 +1,6 @@
 ---
 name: mmdetection-object-detection
-description: Object Detection with Mmdetection. detecting objects.
+description: "Object Detection with Mmdetection. detecting objects."
 category: ai
 tags: [mmdetection-object-detection, ai, russian]
 models: [sonnet, opus]

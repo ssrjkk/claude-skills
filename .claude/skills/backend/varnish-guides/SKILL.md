@@ -1,6 +1,6 @@
 ---
 name: varnish-guides
-description: Guides for Varnish: how-to guides
+description: "Guides for Varnish: how-to guides"
 category: backend
 tags: [varnish, guides, backend]
 models: [sonnet, opus]

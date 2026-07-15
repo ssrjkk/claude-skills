@@ -1,6 +1,6 @@
 ---
 name: swift-testing
-description: Testing with Swift. writing tests.
+description: "Testing with Swift. writing tests."
 category: backend
 tags: [swift-testing, backend, russian]
 models: [sonnet, opus]

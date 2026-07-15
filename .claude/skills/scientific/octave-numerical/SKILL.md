@@ -1,6 +1,6 @@
 ---
 name: octave-numerical
-description: Numerical with GNU Octave. numerical methods.
+description: "Numerical with GNU Octave. numerical methods."
 category: scientific
 tags: [octave, numerical, scientific, scientific-computing]
 models: [gpt-4, claude-3]

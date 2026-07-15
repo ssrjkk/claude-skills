@@ -1,6 +1,6 @@
 ---
 name: sqlite-monitoring
-description: Monitoring with SQLite. monitoring.
+description: "Monitoring with SQLite. monitoring."
 category: database
 tags: [sqlite, monitoring, database, sql]
 models: [gpt-4, claude-3]

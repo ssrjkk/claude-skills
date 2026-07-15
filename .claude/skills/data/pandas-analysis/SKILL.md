@@ -1,6 +1,6 @@
 ---
 name: pandas-analysis
-description: Analysis with Pandas. data analysis.
+description: "Analysis with Pandas. data analysis."
 category: data
 tags: [pandas, analysis, data, data-science]
 models: [gpt-4, claude-3]

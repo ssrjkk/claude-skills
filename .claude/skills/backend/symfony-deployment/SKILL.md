@@ -1,6 +1,6 @@
 ---
 name: symfony-deployment
-description: Deployment with Symfony. deploy.
+description: "Deployment with Symfony. deploy."
 category: backend
 tags: [symfony, deployment, backend, backend]
 models: [gpt-4, claude-3]

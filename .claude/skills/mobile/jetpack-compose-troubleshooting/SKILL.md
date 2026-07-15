@@ -1,6 +1,6 @@
 ---
 name: jetpack-compose-troubleshooting
-description: Troubleshooting for Jetpack-Compose: troubleshooting common issues
+description: "Troubleshooting for Jetpack-Compose: troubleshooting common issues"
 category: mobile
 tags: [jetpack-compose, troubleshooting, mobile]
 models: [sonnet, opus]

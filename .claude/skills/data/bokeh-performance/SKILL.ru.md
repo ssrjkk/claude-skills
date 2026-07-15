@@ -1,6 +1,6 @@
 ---
 name: bokeh-performance
-description: Performance with Bokeh. optimization.
+description: "Performance with Bokeh. optimization."
 category: data
 tags: [bokeh-performance, data, russian]
 models: [sonnet, opus]

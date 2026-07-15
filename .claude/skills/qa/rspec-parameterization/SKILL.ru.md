@@ -1,6 +1,6 @@
 ---
 name: rspec-parameterization
-description: Parameterization with RSpec. parametrized tests.
+description: "Parameterization with RSpec. parametrized tests."
 category: qa
 tags: [rspec-parameterization, qa, russian]
 models: [sonnet, opus]

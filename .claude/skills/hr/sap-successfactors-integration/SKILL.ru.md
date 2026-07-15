@@ -1,6 +1,6 @@
 ---
 name: sap-successfactors-integration
-description: Integration with SAP SuccessFactors. integration.
+description: "Integration with SAP SuccessFactors. integration."
 category: hr
 tags: [sap-successfactors-integration, hr, russian]
 models: [sonnet, opus]

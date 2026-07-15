@@ -1,6 +1,6 @@
 ---
 name: pyqt-styling
-description: Styling with PyQt. styling.
+description: "Styling with PyQt. styling."
 category: desktop
 tags: [pyqt-styling, desktop, russian]
 models: [sonnet, opus]

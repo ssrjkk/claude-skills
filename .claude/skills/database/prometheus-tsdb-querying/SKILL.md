@@ -1,6 +1,6 @@
 ---
 name: prometheus-tsdb-querying
-description: Querying with Prometheus TSDB. time-series queries.
+description: "Querying with Prometheus TSDB. time-series queries."
 category: database
 tags: [prometheus-tsdb, querying, database, time-series]
 models: [gpt-4, claude-3]

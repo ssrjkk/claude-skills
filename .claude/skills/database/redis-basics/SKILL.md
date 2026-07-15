@@ -1,6 +1,6 @@
 ---
 name: redis-basics
-description: Basics for Redis: fundamentals and core concepts
+description: "Basics for Redis: fundamentals and core concepts"
 category: database
 tags: [redis, basics, database]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vendure-setup
-description: Setup with Vendure. setup.
+description: "Setup with Vendure. setup."
 category: ecommerce
 tags: [vendure, setup, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

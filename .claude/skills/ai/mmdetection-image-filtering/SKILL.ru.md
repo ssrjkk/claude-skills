@@ -1,6 +1,6 @@
 ---
 name: mmdetection-image-filtering
-description: Image Filtering with Mmdetection. image filters.
+description: "Image Filtering with Mmdetection. image filters."
 category: ai
 tags: [mmdetection-image-filtering, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mlflow-workflow
-description: Workflow for Mlflow: workflow optimization
+description: "Workflow for Mlflow: workflow optimization"
 category: data
 tags: [mlflow-workflow, data, russian]
 models: [sonnet, opus]

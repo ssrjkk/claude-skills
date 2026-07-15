@@ -1,6 +1,6 @@
 ---
 name: solid-state-management
-description: State Management with Solid. state handling.
+description: "State Management with Solid. state handling."
 category: frontend
 tags: [solid, state-management, frontend, frontend]
 models: [gpt-4, claude-3]

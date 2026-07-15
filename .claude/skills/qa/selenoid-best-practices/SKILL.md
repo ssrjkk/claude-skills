@@ -1,6 +1,6 @@
 ---
 name: selenoid-best-practices
-description: Best Practices for Selenoid: best practices and patterns
+description: "Best Practices for Selenoid: best practices and patterns"
 category: qa
 tags: [selenoid, best-practices, qa]
 models: [sonnet, opus]

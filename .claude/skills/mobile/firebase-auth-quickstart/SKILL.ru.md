@@ -1,6 +1,6 @@
 ---
 name: firebase-auth-quickstart
-description: Quickstart for Firebase-Auth: quick start guide
+description: "Quickstart for Firebase-Auth: quick start guide"
 category: mobile
 tags: [firebase-auth-quickstart, mobile, russian]
 models: [sonnet, opus]

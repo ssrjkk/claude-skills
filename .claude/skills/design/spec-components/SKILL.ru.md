@@ -1,6 +1,6 @@
 ---
 name: spec-components
-description: Components with Spec. components.
+description: "Components with Spec. components."
 category: design
 tags: [spec-components, design, russian]
 models: [sonnet, opus]

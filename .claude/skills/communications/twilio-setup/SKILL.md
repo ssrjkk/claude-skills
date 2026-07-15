@@ -1,6 +1,6 @@
 ---
 name: twilio-setup
-description: Setup with Twilio. account setup.
+description: "Setup with Twilio. account setup."
 category: communications
 tags: [twilio, setup, communications, communication-platform]
 models: [gpt-4, claude-3]

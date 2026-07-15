@@ -1,6 +1,6 @@
 ---
 name: live-activity-usage
-description: Usage for Live-Activity: usage reference
+description: "Usage for Live-Activity: usage reference"
 category: mobile
 tags: [live-activity-usage, mobile, russian]
 models: [sonnet, opus]

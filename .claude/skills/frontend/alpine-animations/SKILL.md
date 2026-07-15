@@ -1,6 +1,6 @@
 ---
 name: alpine-animations
-description: Animations with Alpine. UI animations.
+description: "Animations with Alpine. UI animations."
 category: frontend
 tags: [alpine, animations, frontend, frontend]
 models: [gpt-4, claude-3]

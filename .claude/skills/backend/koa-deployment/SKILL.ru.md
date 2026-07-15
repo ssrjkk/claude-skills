@@ -1,6 +1,6 @@
 ---
 name: koa-deployment
-description: Deployment with Koa. deploy.
+description: "Deployment with Koa. deploy."
 category: backend
 tags: [koa-deployment, backend, russian]
 models: [sonnet, opus]

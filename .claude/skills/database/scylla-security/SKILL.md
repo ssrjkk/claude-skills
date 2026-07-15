@@ -1,6 +1,6 @@
 ---
 name: scylla-security
-description: Security with ScyllaDB. security.
+description: "Security with ScyllaDB. security."
 category: database
 tags: [scylla, security, database, nosql]
 models: [gpt-4, claude-3]

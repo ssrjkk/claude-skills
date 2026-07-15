@@ -1,6 +1,6 @@
 ---
 name: zeplin-export
-description: Export with Zeplin. assets.
+description: "Export with Zeplin. assets."
 category: design
 tags: [zeplin-export, design, russian]
 models: [sonnet, opus]

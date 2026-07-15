@@ -1,6 +1,6 @@
 ---
 name: pillow-color-processing
-description: Color Processing with Pillow. color manipulation.
+description: "Color Processing with Pillow. color manipulation."
 category: ai
 tags: [pillow-color-processing, ai, russian]
 models: [sonnet, opus]

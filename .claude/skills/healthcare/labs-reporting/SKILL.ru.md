@@ -1,6 +1,6 @@
 ---
 name: labs-reporting
-description: Reporting with LIS. reports.
+description: "Reporting with LIS. reports."
 category: healthcare
 tags: [labs-reporting, healthcare, russian]
 models: [sonnet, opus]

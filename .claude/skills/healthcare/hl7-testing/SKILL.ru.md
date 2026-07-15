@@ -1,6 +1,6 @@
 ---
 name: hl7-testing
-description: Testing with HL7 v2. testing.
+description: "Testing with HL7 v2. testing."
 category: healthcare
 tags: [hl7-testing, healthcare, russian]
 models: [sonnet, opus]

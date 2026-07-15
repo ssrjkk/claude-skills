@@ -1,6 +1,6 @@
 ---
 name: syncthing-intro
-description: Intro for Syncthing: introduction
+description: "Intro for Syncthing: introduction"
 category: data
 tags: [syncthing-intro, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: swift-ios-setup
-description: Setup with Swift iOS. setup.
+description: "Setup with Swift iOS. setup."
 category: mobile
 tags: [swift-ios-setup, mobile, russian]
 models: [sonnet, opus]

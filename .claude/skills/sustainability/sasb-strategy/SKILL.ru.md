@@ -1,6 +1,6 @@
 ---
 name: sasb-strategy
-description: Strategy with SASB. strategy.
+description: "Strategy with SASB. strategy."
 category: sustainability
 tags: [sasb-strategy, sustainability, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: plantuml-collaboration
-description: Collaboration with PlantUML. team collaboration.
+description: "Collaboration with PlantUML. team collaboration."
 category: engineering
 tags: [plantuml, collaboration, engineering, modeling]
 models: [gpt-4, claude-3]

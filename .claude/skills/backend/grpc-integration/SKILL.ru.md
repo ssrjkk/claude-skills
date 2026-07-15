@@ -1,6 +1,6 @@
 ---
 name: grpc-integration
-description: Integration for Grpc: integration with other tools
+description: "Integration for Grpc: integration with other tools"
 category: backend
 tags: [grpc-integration, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: tcp-ip-troubleshooting
-description: Troubleshooting with TCP/IP. diagnostics.
+description: "Troubleshooting with TCP/IP. diagnostics."
 category: networking
 tags: [tcp-ip-troubleshooting, networking, russian]
 models: [sonnet, opus]

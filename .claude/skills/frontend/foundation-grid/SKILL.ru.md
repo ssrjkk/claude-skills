@@ -1,6 +1,6 @@
 ---
 name: foundation-grid
-description: Grid with Foundation. layout grids.
+description: "Grid with Foundation. layout grids."
 category: frontend
 tags: [foundation-grid, frontend, russian]
 models: [sonnet, opus]

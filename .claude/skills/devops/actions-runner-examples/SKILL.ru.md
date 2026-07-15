@@ -1,6 +1,6 @@
 ---
 name: actions-runner-examples
-description: Examples for Actions-Runner: practical examples
+description: "Examples for Actions-Runner: practical examples"
 category: devops
 tags: [actions-runner-examples, devops, russian]
 models: [sonnet, opus]

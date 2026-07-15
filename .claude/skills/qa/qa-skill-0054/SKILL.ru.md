@@ -1,6 +1,6 @@
 ---
 name: qa-skill-0054
-description: Specialized skill #0054 for qa development
+description: "Specialized skill #0054 for qa development"
 category: qa
 tags: [skill-0054, qa, russian]
 models: [sonnet, opus]

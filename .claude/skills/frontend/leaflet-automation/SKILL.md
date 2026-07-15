@@ -1,6 +1,6 @@
 ---
 name: leaflet-automation
-description: Automation for Leaflet: automation and scripting
+description: "Automation for Leaflet: automation and scripting"
 category: frontend
 tags: [leaflet, automation, frontend]
 models: [sonnet, opus]

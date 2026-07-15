@@ -1,6 +1,6 @@
 ---
 name: planetscale-getting-started
-description: Getting Started for Planetscale: initial setup and first steps
+description: "Getting Started for Planetscale: initial setup and first steps"
 category: database
 tags: [planetscale-getting-started, database, russian]
 models: [sonnet, opus]

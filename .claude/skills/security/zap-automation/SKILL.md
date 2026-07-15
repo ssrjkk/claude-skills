@@ -1,6 +1,6 @@
 ---
 name: zap-automation
-description: Automation with ZAP. automation.
+description: "Automation with ZAP. automation."
 category: security
 tags: [zap, automation, security, security-tool]
 models: [gpt-4, claude-3]

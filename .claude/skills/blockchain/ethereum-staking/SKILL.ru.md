@@ -1,6 +1,6 @@
 ---
 name: ethereum-staking
-description: Staking with Ethereum. staking.
+description: "Staking with Ethereum. staking."
 category: blockchain
 tags: [ethereum-staking, blockchain, russian]
 models: [sonnet, opus]

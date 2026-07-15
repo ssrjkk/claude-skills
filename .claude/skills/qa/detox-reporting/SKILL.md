@@ -1,6 +1,6 @@
 ---
 name: detox-reporting
-description: Reporting with Detox. reports.
+description: "Reporting with Detox. reports."
 category: qa
 tags: [detox, reporting, qa, e2e]
 models: [gpt-4, claude-3]

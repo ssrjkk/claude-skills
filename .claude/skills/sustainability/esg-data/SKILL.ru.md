@@ -1,6 +1,6 @@
 ---
 name: esg-data
-description: Data with ESG. data collection.
+description: "Data with ESG. data collection."
 category: sustainability
 tags: [esg-data, sustainability, russian]
 models: [sonnet, opus]

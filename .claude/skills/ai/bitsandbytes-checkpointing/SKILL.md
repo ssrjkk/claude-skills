@@ -1,6 +1,6 @@
 ---
 name: bitsandbytes-checkpointing
-description: Checkpointing with Bitsandbytes. model saving.
+description: "Checkpointing with Bitsandbytes. model saving."
 category: ai
 tags: [bitsandbytes, checkpointing, ai, deep-learning]
 models: [gpt-4, claude-3]

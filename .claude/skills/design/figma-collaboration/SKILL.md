@@ -1,6 +1,6 @@
 ---
 name: figma-collaboration
-description: Collaboration with Figma. collaboration.
+description: "Collaboration with Figma. collaboration."
 category: design
 tags: [figma, collaboration, design, design]
 models: [gpt-4, claude-3]

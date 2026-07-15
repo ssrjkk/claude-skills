@@ -1,6 +1,6 @@
 ---
 name: react-native-networking
-description: Networking with React Native. API calls.
+description: "Networking with React Native. API calls."
 category: mobile
 tags: [react-native-networking, mobile, russian]
 models: [sonnet, opus]

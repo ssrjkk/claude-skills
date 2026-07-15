@@ -1,6 +1,6 @@
 ---
 name: koa-routing
-description: Routing with Koa. HTTP routing.
+description: "Routing with Koa. HTTP routing."
 category: backend
 tags: [koa-routing, backend, russian]
 models: [sonnet, opus]

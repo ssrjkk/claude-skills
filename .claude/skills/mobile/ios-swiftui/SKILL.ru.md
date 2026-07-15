@@ -1,6 +1,6 @@
 ---
 name: ios-swiftui
-description: Creates iOS applications using SwiftUI and modern Apple patterns. Use for native iOS development.
+description: "Creates iOS applications using SwiftUI and modern Apple patterns. Use for native iOS development."
 category: mobile
 tags: [ios-swiftui, mobile, russian]
 models: [sonnet, opus]

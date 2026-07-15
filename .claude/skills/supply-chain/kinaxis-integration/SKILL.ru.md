@@ -1,6 +1,6 @@
 ---
 name: kinaxis-integration
-description: Integration with Kinaxis. integration.
+description: "Integration with Kinaxis. integration."
 category: supply-chain
 tags: [kinaxis-integration, supply-chain, russian]
 models: [sonnet, opus]

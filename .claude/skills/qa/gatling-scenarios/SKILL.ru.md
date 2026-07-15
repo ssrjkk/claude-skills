@@ -1,6 +1,6 @@
 ---
 name: gatling-scenarios
-description: Scenarios with Gatling. test scenarios.
+description: "Scenarios with Gatling. test scenarios."
 category: qa
 tags: [gatling-scenarios, qa, russian]
 models: [sonnet, opus]

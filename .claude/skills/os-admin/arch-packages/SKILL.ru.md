@@ -1,6 +1,6 @@
 ---
 name: arch-packages
-description: Packages with Arch Linux. package management.
+description: "Packages with Arch Linux. package management."
 category: os-admin
 tags: [arch-packages, os-admin, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: appium-selectors
-description: Selectors with Appium. element selectors.
+description: "Selectors with Appium. element selectors."
 category: qa
 tags: [appium-selectors, qa, russian]
 models: [sonnet, opus]

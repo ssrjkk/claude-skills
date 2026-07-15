@@ -1,6 +1,6 @@
 ---
 name: loginradius-quickstart
-description: Quickstart for Loginradius: quick start guide
+description: "Quickstart for Loginradius: quick start guide"
 category: mobile
 tags: [loginradius-quickstart, mobile, russian]
 models: [sonnet, opus]

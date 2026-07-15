@@ -1,6 +1,6 @@
 ---
 name: dvc-production
-description: Production for Dvc: production deployment
+description: "Production for Dvc: production deployment"
 category: data
 tags: [dvc-production, data, russian]
 models: [sonnet, opus]

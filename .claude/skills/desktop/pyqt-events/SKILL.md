@@ -1,6 +1,6 @@
 ---
 name: pyqt-events
-description: Events with PyQt. event handling.
+description: "Events with PyQt. event handling."
 category: desktop
 tags: [pyqt, events, desktop, desktop]
 models: [gpt-4, claude-3]

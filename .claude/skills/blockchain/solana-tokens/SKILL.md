@@ -1,6 +1,6 @@
 ---
 name: solana-tokens
-description: Tokens with Solana. token standards.
+description: "Tokens with Solana. token standards."
 category: blockchain
 tags: [solana, tokens, blockchain, blockchain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: browserstack-workflow
-description: Workflow for Browserstack: workflow optimization
+description: "Workflow for Browserstack: workflow optimization"
 category: qa
 tags: [browserstack, workflow, qa]
 models: [sonnet, opus]

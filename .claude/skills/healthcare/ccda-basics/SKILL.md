@@ -1,6 +1,6 @@
 ---
 name: ccda-basics
-description: Basics with C-CDA. fundamentals.
+description: "Basics with C-CDA. fundamentals."
 category: healthcare
 tags: [ccda, basics, healthcare, healthcare]
 models: [gpt-4, claude-3]

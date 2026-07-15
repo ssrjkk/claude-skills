@@ -1,6 +1,6 @@
 ---
 name: triton-examples
-description: Examples for Triton: practical examples
+description: "Examples for Triton: practical examples"
 category: ai
 tags: [triton-examples, ai, russian]
 models: [sonnet, opus]

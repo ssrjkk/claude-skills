@@ -1,6 +1,6 @@
 ---
 name: poem-websocket
-description: WebSocket with Poem. real-time.
+description: "WebSocket with Poem. real-time."
 category: backend
 tags: [poem-websocket, backend, russian]
 models: [sonnet, opus]

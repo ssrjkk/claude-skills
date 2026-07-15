@@ -1,6 +1,6 @@
 ---
 name: bamboohr-integration
-description: Integration with BambooHR. integration.
+description: "Integration with BambooHR. integration."
 category: hr
 tags: [bamboohr, integration, hr, hr-tech]
 models: [gpt-4, claude-3]

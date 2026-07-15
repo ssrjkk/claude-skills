@@ -1,6 +1,6 @@
 ---
 name: azure-iot-integration
-description: Integration with Azure IoT. integrations.
+description: "Integration with Azure IoT. integrations."
 category: iot
 tags: [azure-iot, integration, iot, iot-platform]
 models: [gpt-4, claude-3]

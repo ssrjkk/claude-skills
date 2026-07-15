@@ -1,6 +1,6 @@
 ---
 name: user-research-execution
-description: Execution with User Research. running sessions.
+description: "Execution with User Research. running sessions."
 category: design
 tags: [user-research-execution, design, russian]
 models: [sonnet, opus]

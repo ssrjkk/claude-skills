@@ -1,6 +1,6 @@
 ---
 name: sonarqube-setup
-description: Setup with SonarQube. installation.
+description: "Setup with SonarQube. installation."
 category: security
 tags: [sonarqube-setup, security, russian]
 models: [sonnet, opus]

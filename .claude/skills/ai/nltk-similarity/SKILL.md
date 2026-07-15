@@ -1,6 +1,6 @@
 ---
 name: nltk-similarity
-description: Similarity with Nltk. text similarity.
+description: "Similarity with Nltk. text similarity."
 category: ai
 tags: [nltk, similarity, ai, nlp]
 models: [gpt-4, claude-3]

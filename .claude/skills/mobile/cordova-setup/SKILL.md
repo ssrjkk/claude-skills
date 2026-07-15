@@ -1,6 +1,6 @@
 ---
 name: cordova-setup
-description: Setup with Cordova. setup.
+description: "Setup with Cordova. setup."
 category: mobile
 tags: [cordova, setup, mobile, mobile]
 models: [gpt-4, claude-3]

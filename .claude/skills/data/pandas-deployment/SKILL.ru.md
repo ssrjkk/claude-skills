@@ -1,6 +1,6 @@
 ---
 name: pandas-deployment
-description: Deployment with Pandas. app deployment.
+description: "Deployment with Pandas. app deployment."
 category: data
 tags: [pandas-deployment, data, russian]
 models: [sonnet, opus]

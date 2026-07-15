@@ -1,6 +1,6 @@
 ---
 name: sketch-components
-description: Components with Sketch. components.
+description: "Components with Sketch. components."
 category: design
 tags: [sketch-components, design, russian]
 models: [sonnet, opus]

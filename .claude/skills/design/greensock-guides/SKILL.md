@@ -1,6 +1,6 @@
 ---
 name: greensock-guides
-description: Guides for Greensock: how-to guides
+description: "Guides for Greensock: how-to guides"
 category: design
 tags: [greensock, guides, design]
 models: [sonnet, opus]

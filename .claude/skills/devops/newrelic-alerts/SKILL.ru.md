@@ -1,6 +1,6 @@
 ---
 name: newrelic-alerts
-description: Alerts with New Relic. alerting rules.
+description: "Alerts with New Relic. alerting rules."
 category: devops
 tags: [newrelic-alerts, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-testing
-description: Testing for Rpgmaker: testing and validation
+description: "Testing for Rpgmaker: testing and validation"
 category: gamedev
 tags: [rpgmaker-testing, gamedev, russian]
 models: [sonnet, opus]

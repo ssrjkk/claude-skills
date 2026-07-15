@@ -1,6 +1,6 @@
 ---
 name: marvin-fine-tuning
-description: Fine-Tuning with Marvin. model customization.
+description: "Fine-Tuning with Marvin. model customization."
 category: ai
 tags: [marvin-fine-tuning, ai, russian]
 models: [sonnet, opus]

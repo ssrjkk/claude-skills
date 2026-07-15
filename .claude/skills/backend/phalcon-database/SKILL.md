@@ -1,6 +1,6 @@
 ---
 name: phalcon-database
-description: Database with Phalcon. Eloquent.
+description: "Database with Phalcon. Eloquent."
 category: backend
 tags: [phalcon, database, backend, backend]
 models: [gpt-4, claude-3]

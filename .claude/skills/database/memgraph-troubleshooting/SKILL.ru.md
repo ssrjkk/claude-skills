@@ -1,6 +1,6 @@
 ---
 name: memgraph-troubleshooting
-description: Troubleshooting for Memgraph: troubleshooting common issues
+description: "Troubleshooting for Memgraph: troubleshooting common issues"
 category: database
 tags: [memgraph-troubleshooting, database, russian]
 models: [sonnet, opus]

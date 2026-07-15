@@ -1,6 +1,6 @@
 ---
 name: threadx-debugging
-description: Debugging with ThreadX. debug.
+description: "Debugging with ThreadX. debug."
 category: embedded
 tags: [threadx, debugging, embedded, rtos]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: framer-variants-intro
-description: Intro for Framer-Variants: introduction
+description: "Intro for Framer-Variants: introduction"
 category: frontend
 tags: [framer-variants-intro, frontend, russian]
 models: [sonnet, opus]

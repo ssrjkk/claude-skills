@@ -1,6 +1,6 @@
 ---
 name: chainer-inference
-description: Inference with Chainer. running models.
+description: "Inference with Chainer. running models."
 category: ai
 tags: [chainer-inference, ai, russian]
 models: [sonnet, opus]

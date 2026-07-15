@@ -1,6 +1,6 @@
 ---
 name: langchain-optimization
-description: Optimization for Langchain: performance tuning and optimization
+description: "Optimization for Langchain: performance tuning and optimization"
 category: ai
 tags: [langchain, optimization, ai]
 models: [sonnet, opus]

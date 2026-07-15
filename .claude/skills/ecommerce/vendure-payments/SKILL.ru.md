@@ -1,6 +1,6 @@
 ---
 name: vendure-payments
-description: Payments with Vendure. payment integration.
+description: "Payments with Vendure. payment integration."
 category: ecommerce
 tags: [vendure-payments, ecommerce, russian]
 models: [sonnet, opus]

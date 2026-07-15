@@ -1,6 +1,6 @@
 ---
 name: ethereum-smart-contracts
-description: Smart Contracts with Ethereum. contracts.
+description: "Smart Contracts with Ethereum. contracts."
 category: blockchain
 tags: [ethereum, smart-contracts, blockchain, blockchain]
 models: [gpt-4, claude-3]

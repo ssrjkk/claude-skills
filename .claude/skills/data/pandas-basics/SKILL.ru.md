@@ -1,6 +1,6 @@
 ---
 name: pandas-basics
-description: Basics for Pandas: fundamentals and core concepts
+description: "Basics for Pandas: fundamentals and core concepts"
 category: data
 tags: [pandas-basics, data, russian]
 models: [sonnet, opus]

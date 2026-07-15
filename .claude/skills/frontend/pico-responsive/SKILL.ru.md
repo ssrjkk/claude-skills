@@ -1,6 +1,6 @@
 ---
 name: pico-responsive
-description: Responsive with Pico CSS. mobile-first.
+description: "Responsive with Pico CSS. mobile-first."
 category: frontend
 tags: [pico-responsive, frontend, russian]
 models: [sonnet, opus]

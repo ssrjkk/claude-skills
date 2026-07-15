@@ -1,6 +1,6 @@
 ---
 name: jax-distributed
-description: Distributed with Jax. distributed training.
+description: "Distributed with Jax. distributed training."
 category: ai
 tags: [jax, distributed, ai, deep-learning]
 models: [gpt-4, claude-3]

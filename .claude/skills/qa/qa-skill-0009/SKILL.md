@@ -1,6 +1,6 @@
 ---
 name: qa-skill-0009
-description: qa specialized skill #0009 for qa development
+description: "qa specialized skill #0009 for qa development"
 category: qa
 tags: [qa, skill, 0009]
 models: [sonnet, opus]

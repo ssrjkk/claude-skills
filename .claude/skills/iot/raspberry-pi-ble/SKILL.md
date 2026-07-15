@@ -1,6 +1,6 @@
 ---
 name: raspberry-pi-ble
-description: BLE with Raspberry Pi. Bluetooth.
+description: "BLE with Raspberry Pi. Bluetooth."
 category: iot
 tags: [raspberry-pi, ble, iot, iot]
 models: [gpt-4, claude-3]

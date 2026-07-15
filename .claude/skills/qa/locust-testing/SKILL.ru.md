@@ -1,6 +1,6 @@
 ---
 name: locust-testing
-description: Testing for Locust: testing and validation
+description: "Testing for Locust: testing and validation"
 category: qa
 tags: [locust-testing, qa, russian]
 models: [sonnet, opus]

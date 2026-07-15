@@ -1,6 +1,6 @@
 ---
 name: cilium-troubleshooting
-description: Troubleshooting for Cilium: troubleshooting common issues
+description: "Troubleshooting for Cilium: troubleshooting common issues"
 category: devops
 tags: [cilium-troubleshooting, devops, russian]
 models: [sonnet, opus]

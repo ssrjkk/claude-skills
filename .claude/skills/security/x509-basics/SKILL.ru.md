@@ -1,6 +1,6 @@
 ---
 name: x509-basics
-description: Basics with X.509. fundamentals.
+description: "Basics with X.509. fundamentals."
 category: security
 tags: [x509-basics, security, russian]
 models: [sonnet, opus]

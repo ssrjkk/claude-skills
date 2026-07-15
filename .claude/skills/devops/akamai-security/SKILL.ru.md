@@ -1,6 +1,6 @@
 ---
 name: akamai-security
-description: Security with Akamai. cloud security.
+description: "Security with Akamai. cloud security."
 category: devops
 tags: [akamai-security, devops, russian]
 models: [sonnet, opus]

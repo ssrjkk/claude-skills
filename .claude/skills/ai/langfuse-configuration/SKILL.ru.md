@@ -1,6 +1,6 @@
 ---
 name: langfuse-configuration
-description: Configuration for Langfuse: configuration and setup
+description: "Configuration for Langfuse: configuration and setup"
 category: ai
 tags: [langfuse-configuration, ai, russian]
 models: [sonnet, opus]

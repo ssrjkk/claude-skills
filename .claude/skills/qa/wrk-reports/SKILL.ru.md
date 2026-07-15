@@ -1,6 +1,6 @@
 ---
 name: wrk-reports
-description: Reports with wrk. report generation.
+description: "Reports with wrk. report generation."
 category: qa
 tags: [wrk-reports, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: selenium-testing
-description: Testing for Selenium: testing and validation
+description: "Testing for Selenium: testing and validation"
 category: qa
 tags: [selenium, testing, qa]
 models: [sonnet, opus]

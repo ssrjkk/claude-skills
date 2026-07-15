@@ -1,6 +1,6 @@
 ---
 name: metasploit-analysis
-description: Analysis with Metasploit. analysis.
+description: "Analysis with Metasploit. analysis."
 category: security
 tags: [metasploit, analysis, security, security-tool]
 models: [gpt-4, claude-3]

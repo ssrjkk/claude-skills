@@ -1,6 +1,6 @@
 ---
 name: javalin-database
-description: Database with Javalin. DB access.
+description: "Database with Javalin. DB access."
 category: backend
 tags: [javalin, database, backend, backend]
 models: [gpt-4, claude-3]

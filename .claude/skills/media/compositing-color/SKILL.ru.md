@@ -1,6 +1,6 @@
 ---
 name: compositing-color
-description: Color with Compositing. color grading.
+description: "Color with Compositing. color grading."
 category: media
 tags: [compositing-color, media, russian]
 models: [sonnet, opus]

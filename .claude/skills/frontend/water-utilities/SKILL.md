@@ -1,6 +1,6 @@
 ---
 name: water-utilities
-description: Utilities with Water.css. utility classes.
+description: "Utilities with Water.css. utility classes."
 category: frontend
 tags: [water, utilities, frontend, css]
 models: [gpt-4, claude-3]

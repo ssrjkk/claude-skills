@@ -1,6 +1,6 @@
 ---
 name: manhattan-inventory
-description: Inventory with Manhattan Associates. inventory mgmt.
+description: "Inventory with Manhattan Associates. inventory mgmt."
 category: supply-chain
 tags: [manhattan, inventory, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

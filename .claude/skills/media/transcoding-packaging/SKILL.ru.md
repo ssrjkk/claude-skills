@@ -1,6 +1,6 @@
 ---
 name: transcoding-packaging
-description: Packaging with Transcoding. packaging.
+description: "Packaging with Transcoding. packaging."
 category: media
 tags: [transcoding-packaging, media, russian]
 models: [sonnet, opus]

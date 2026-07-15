@@ -1,6 +1,6 @@
 ---
 name: substance-best-practices
-description: Best Practices for Substance: best practices and patterns
+description: "Best Practices for Substance: best practices and patterns"
 category: gamedev
 tags: [substance-best-practices, gamedev, russian]
 models: [sonnet, opus]

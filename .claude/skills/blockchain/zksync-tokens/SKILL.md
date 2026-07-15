@@ -1,6 +1,6 @@
 ---
 name: zksync-tokens
-description: Tokens with zkSync. token standards.
+description: "Tokens with zkSync. token standards."
 category: blockchain
 tags: [zksync, tokens, blockchain, blockchain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: serverless-ai
-description: Serverless AI inference (Cloudflare Workers, Lambda)
+description: "Serverless AI inference (Cloudflare Workers, Lambda)"
 category: devops
 tags: [serverless-ai, devops, russian]
 models: [sonnet, opus]

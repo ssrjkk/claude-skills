@@ -1,6 +1,6 @@
 ---
 name: artillery-spike
-description: Spike with Artillery. spike tests.
+description: "Spike with Artillery. spike tests."
 category: qa
 tags: [artillery, spike, qa, performance-testing]
 models: [gpt-4, claude-3]

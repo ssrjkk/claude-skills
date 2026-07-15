@@ -1,6 +1,6 @@
 ---
 name: loinc-interoperability
-description: Interop with LOINC. interoperability.
+description: "Interop with LOINC. interoperability."
 category: healthcare
 tags: [loinc, interoperability, healthcare, healthcare]
 models: [gpt-4, claude-3]

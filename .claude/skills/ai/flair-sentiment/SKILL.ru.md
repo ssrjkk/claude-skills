@@ -1,6 +1,6 @@
 ---
 name: flair-sentiment
-description: Sentiment Analysis with Flair. sentiment detection.
+description: "Sentiment Analysis with Flair. sentiment detection."
 category: ai
 tags: [flair-sentiment, ai, russian]
 models: [sonnet, opus]

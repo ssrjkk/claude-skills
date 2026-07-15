@@ -1,6 +1,6 @@
 ---
 name: webrtc-security
-description: Security with WebRTC. security.
+description: "Security with WebRTC. security."
 category: communications
 tags: [webrtc-security, communications, russian]
 models: [sonnet, opus]

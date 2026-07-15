@@ -1,6 +1,6 @@
 ---
 name: detectron2-face-detection
-description: Face Detection with Detectron2. facial recognition.
+description: "Face Detection with Detectron2. facial recognition."
 category: ai
 tags: [detectron2, face-detection, ai, computer-vision]
 models: [gpt-4, claude-3]

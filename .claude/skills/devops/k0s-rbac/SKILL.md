@@ -1,6 +1,6 @@
 ---
 name: k0s-rbac
-description: RBAC with K0s. access control.
+description: "RBAC with K0s. access control."
 category: devops
 tags: [k0s, rbac, devops, kubernetes]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: postcss-source-maps
-description: Source Maps with PostCSS. debugging.
+description: "Source Maps with PostCSS. debugging."
 category: frontend
 tags: [postcss, source-maps, frontend, build-tool]
 models: [gpt-4, claude-3]

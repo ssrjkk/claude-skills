@@ -1,6 +1,6 @@
 ---
 name: construct-basics
-description: Basics for Construct: fundamentals and core concepts
+description: "Basics for Construct: fundamentals and core concepts"
 category: gamedev
 tags: [construct, basics, gamedev]
 models: [sonnet, opus]

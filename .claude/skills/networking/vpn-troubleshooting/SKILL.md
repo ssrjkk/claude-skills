@@ -1,6 +1,6 @@
 ---
 name: vpn-troubleshooting
-description: Troubleshooting with VPN. diagnostics.
+description: "Troubleshooting with VPN. diagnostics."
 category: networking
 tags: [vpn, troubleshooting, networking, networking]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: scikit-image-image-classification
-description: Image Classification with Scikit Image. classifying images.
+description: "Image Classification with Scikit Image. classifying images."
 category: ai
 tags: [scikit-image, image-classification, ai, computer-vision]
 models: [gpt-4, claude-3]

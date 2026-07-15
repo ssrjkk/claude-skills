@@ -1,6 +1,6 @@
 ---
 name: sd-wan-security
-description: Security with SD-WAN. hardening.
+description: "Security with SD-WAN. hardening."
 category: networking
 tags: [sd-wan-security, networking, russian]
 models: [sonnet, opus]

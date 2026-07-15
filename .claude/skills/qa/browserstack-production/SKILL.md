@@ -1,6 +1,6 @@
 ---
 name: browserstack-production
-description: Production for Browserstack: production deployment
+description: "Production for Browserstack: production deployment"
 category: qa
 tags: [browserstack, production, qa]
 models: [sonnet, opus]

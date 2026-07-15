@@ -1,6 +1,6 @@
 ---
 name: next-auth-fundamentals
-description: Fundamentals for Next-Auth: core concepts
+description: "Fundamentals for Next-Auth: core concepts"
 category: mobile
 tags: [next-auth-fundamentals, mobile, russian]
 models: [sonnet, opus]

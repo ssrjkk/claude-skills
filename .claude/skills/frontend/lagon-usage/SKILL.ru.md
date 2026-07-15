@@ -1,6 +1,6 @@
 ---
 name: lagon-usage
-description: Usage for Lagon: usage guide
+description: "Usage for Lagon: usage guide"
 category: frontend
 tags: [lagon-usage, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: bulma-forms
-description: Forms with Bulma. form styling.
+description: "Forms with Bulma. form styling."
 category: frontend
 tags: [bulma, forms, frontend, css]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: sd-wan-optimization
-description: Optimization with SD-WAN. tuning.
+description: "Optimization with SD-WAN. tuning."
 category: networking
 tags: [sd-wan, optimization, networking, networking]
 models: [gpt-4, claude-3]

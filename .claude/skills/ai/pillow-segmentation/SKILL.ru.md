@@ -1,6 +1,6 @@
 ---
 name: pillow-segmentation
-description: Segmentation with Pillow. image segmentation.
+description: "Segmentation with Pillow. image segmentation."
 category: ai
 tags: [pillow-segmentation, ai, russian]
 models: [sonnet, opus]

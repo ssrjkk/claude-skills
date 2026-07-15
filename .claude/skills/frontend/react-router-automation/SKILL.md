@@ -1,6 +1,6 @@
 ---
 name: react-router-automation
-description: Automation for React-Router: automation and scripting
+description: "Automation for React-Router: automation and scripting"
 category: frontend
 tags: [react-router, automation, frontend]
 models: [sonnet, opus]

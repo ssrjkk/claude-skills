@@ -1,6 +1,6 @@
 ---
 name: angular-api
-description: API for Angular: API development and integration
+description: "API for Angular: API development and integration"
 category: frontend
 tags: [angular-api, frontend, russian]
 models: [sonnet, opus]

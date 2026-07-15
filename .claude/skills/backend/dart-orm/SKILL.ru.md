@@ -1,6 +1,6 @@
 ---
 name: dart-orm
-description: ORM with Dart. database access.
+description: "ORM with Dart. database access."
 category: backend
 tags: [dart-orm, backend, russian]
 models: [sonnet, opus]

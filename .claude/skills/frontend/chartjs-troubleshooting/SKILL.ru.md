@@ -1,6 +1,6 @@
 ---
 name: chartjs-troubleshooting
-description: Troubleshooting for Chartjs: troubleshooting common issues
+description: "Troubleshooting for Chartjs: troubleshooting common issues"
 category: frontend
 tags: [chartjs-troubleshooting, frontend, russian]
 models: [sonnet, opus]

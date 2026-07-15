@@ -1,6 +1,6 @@
 ---
 name: canvas-setup
-description: Setup with Canvas LMS. setup.
+description: "Setup with Canvas LMS. setup."
 category: education
 tags: [canvas-setup, education, russian]
 models: [sonnet, opus]

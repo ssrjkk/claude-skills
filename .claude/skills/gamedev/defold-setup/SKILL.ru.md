@@ -1,6 +1,6 @@
 ---
 name: defold-setup
-description: Setup with Defold. engine setup.
+description: "Setup with Defold. engine setup."
 category: gamedev
 tags: [defold-setup, gamedev, russian]
 models: [sonnet, opus]

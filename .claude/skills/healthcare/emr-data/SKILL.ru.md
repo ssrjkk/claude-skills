@@ -1,6 +1,6 @@
 ---
 name: emr-data
-description: Data with EMR Systems. data management.
+description: "Data with EMR Systems. data management."
 category: healthcare
 tags: [emr-data, healthcare, russian]
 models: [sonnet, opus]

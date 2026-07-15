@@ -1,6 +1,6 @@
 ---
 name: postcss-optimization
-description: Optimization with PostCSS. build optimization.
+description: "Optimization with PostCSS. build optimization."
 category: frontend
 tags: [postcss-optimization, frontend, russian]
 models: [sonnet, opus]

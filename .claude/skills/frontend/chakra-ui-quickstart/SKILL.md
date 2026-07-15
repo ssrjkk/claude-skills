@@ -1,6 +1,6 @@
 ---
 name: chakra-ui-quickstart
-description: Quickstart for Chakra-Ui: quick start guide
+description: "Quickstart for Chakra-Ui: quick start guide"
 category: frontend
 tags: [chakra-ui, quickstart, frontend]
 models: [sonnet, opus]

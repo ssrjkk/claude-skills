@@ -1,6 +1,6 @@
 ---
 name: milvus-best-practices
-description: Best Practices for Milvus: best practices and patterns
+description: "Best Practices for Milvus: best practices and patterns"
 category: ai
 tags: [milvus-best-practices, ai, russian]
 models: [sonnet, opus]

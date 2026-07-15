@@ -1,6 +1,6 @@
 ---
 name: nessus-reporting
-description: Reporting with Nessus. reports.
+description: "Reporting with Nessus. reports."
 category: security
 tags: [nessus, reporting, security, security-tool]
 models: [gpt-4, claude-3]

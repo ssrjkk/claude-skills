@@ -1,6 +1,6 @@
 ---
 name: sonarqube-compliance
-description: Compliance with SonarQube. compliance.
+description: "Compliance with SonarQube. compliance."
 category: security
 tags: [sonarqube-compliance, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: auth0-examples
-description: Examples for Auth0: practical examples
+description: "Examples for Auth0: practical examples"
 category: mobile
 tags: [auth0, examples, mobile]
 models: [sonnet, opus]

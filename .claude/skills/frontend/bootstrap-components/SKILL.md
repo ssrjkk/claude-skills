@@ -1,6 +1,6 @@
 ---
 name: bootstrap-components
-description: Components with Bootstrap. UI components.
+description: "Components with Bootstrap. UI components."
 category: frontend
 tags: [bootstrap, components, frontend, css]
 models: [gpt-4, claude-3]

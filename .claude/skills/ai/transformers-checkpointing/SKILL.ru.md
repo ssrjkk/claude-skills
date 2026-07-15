@@ -1,6 +1,6 @@
 ---
 name: transformers-checkpointing
-description: Checkpointing with Transformers. model saving.
+description: "Checkpointing with Transformers. model saving."
 category: ai
 tags: [transformers-checkpointing, ai, russian]
 models: [sonnet, opus]

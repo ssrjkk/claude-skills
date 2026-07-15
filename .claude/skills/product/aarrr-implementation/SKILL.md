@@ -1,6 +1,6 @@
 ---
 name: aarrr-implementation
-description: Implementation with AARRR. execution.
+description: "Implementation with AARRR. execution."
 category: product
 tags: [aarrr, implementation, product, product-framework]
 models: [gpt-4, claude-3]

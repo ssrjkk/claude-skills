@@ -1,6 +1,6 @@
 ---
 name: esbuild-bundling
-description: Bundling with esbuild. code bundling.
+description: "Bundling with esbuild. code bundling."
 category: frontend
 tags: [esbuild, bundling, frontend, build-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: nuxt-routing
-description: Routing with Nuxt. file-based routing.
+description: "Routing with Nuxt. file-based routing."
 category: frontend
 tags: [nuxt-routing, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: modbus-basics
-description: Basics with Modbus. fundamentals.
+description: "Basics with Modbus. fundamentals."
 category: energy
 tags: [modbus-basics, energy, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ldtk-integration
-description: Integration for Ldtk: integration with other tools
+description: "Integration for Ldtk: integration with other tools"
 category: gamedev
 tags: [ldtk, integration, gamedev]
 models: [sonnet, opus]

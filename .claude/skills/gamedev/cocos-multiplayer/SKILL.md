@@ -1,6 +1,6 @@
 ---
 name: cocos-multiplayer
-description: Multiplayer with Cocos Creator. networking.
+description: "Multiplayer with Cocos Creator. networking."
 category: gamedev
 tags: [cocos, multiplayer, gamedev, game-engine]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: ai-safety
-description: AI safety and responsible AI practices
+description: "AI safety and responsible AI practices"
 category: ai
 tags: [ai-safety, ai, russian]
 models: [sonnet, opus]

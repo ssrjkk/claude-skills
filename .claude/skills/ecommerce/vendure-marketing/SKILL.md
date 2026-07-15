@@ -1,6 +1,6 @@
 ---
 name: vendure-marketing
-description: Marketing with Vendure. marketing.
+description: "Marketing with Vendure. marketing."
 category: ecommerce
 tags: [vendure, marketing, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

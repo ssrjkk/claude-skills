@@ -1,6 +1,6 @@
 ---
 name: webrtc-streaming-setup
-description: Setup with WebRTC Streaming. setup.
+description: "Setup with WebRTC Streaming. setup."
 category: media
 tags: [webrtc-streaming, setup, media, media-streaming]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: prettier-setup
-description: Setup with Prettier. initial setup.
+description: "Setup with Prettier. initial setup."
 category: frontend
 tags: [prettier, setup, frontend, build-tool]
 models: [gpt-4, claude-3]

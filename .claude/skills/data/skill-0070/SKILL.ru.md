@@ -1,6 +1,6 @@
 ---
 name: skill-0070
-description: Specialized skill #0070 for data development
+description: "Specialized skill #0070 for data development"
 category: data
 tags: [skill-0070, data, russian]
 models: [sonnet, opus]

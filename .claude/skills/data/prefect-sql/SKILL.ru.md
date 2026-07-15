@@ -1,6 +1,6 @@
 ---
 name: prefect-sql
-description: SQL with Prefect. SQL queries.
+description: "SQL with Prefect. SQL queries."
 category: data
 tags: [prefect-sql, data, russian]
 models: [sonnet, opus]

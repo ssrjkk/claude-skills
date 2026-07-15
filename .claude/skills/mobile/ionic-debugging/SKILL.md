@@ -1,6 +1,6 @@
 ---
 name: ionic-debugging
-description: Debugging for Ionic: debugging and troubleshooting
+description: "Debugging for Ionic: debugging and troubleshooting"
 category: mobile
 tags: [ionic, debugging, mobile]
 models: [sonnet, opus]

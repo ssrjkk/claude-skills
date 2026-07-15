@@ -1,6 +1,6 @@
 ---
 name: jotai-selectors
-description: Selectors with Jotai. derived data.
+description: "Selectors with Jotai. derived data."
 category: frontend
 tags: [jotai-selectors, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: webrtc-setup
-description: Setup with WebRTC. setup.
+description: "Setup with WebRTC. setup."
 category: communications
 tags: [webrtc-setup, communications, russian]
 models: [sonnet, opus]

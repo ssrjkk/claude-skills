@@ -1,6 +1,6 @@
 ---
 name: dgraph-setup
-description: Setup with Dgraph. installation.
+description: "Setup with Dgraph. installation."
 category: database
 tags: [dgraph, setup, database, graph-database]
 models: [gpt-4, claude-3]

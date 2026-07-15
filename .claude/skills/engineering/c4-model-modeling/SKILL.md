@@ -1,6 +1,6 @@
 ---
 name: c4-model-modeling
-description: Modeling with C4 Model. system modeling.
+description: "Modeling with C4 Model. system modeling."
 category: engineering
 tags: [c4-model, modeling, engineering, modeling]
 models: [gpt-4, claude-3]

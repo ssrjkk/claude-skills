@@ -1,6 +1,6 @@
 ---
 name: highlight-io-usage
-description: Usage for Highlight-Io: usage reference
+description: "Usage for Highlight-Io: usage reference"
 category: devops
 tags: [highlight-io, usage, devops]
 models: [sonnet, opus]

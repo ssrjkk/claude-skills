@@ -1,6 +1,6 @@
 ---
 name: aircrack-compliance
-description: Compliance with Aircrack-ng. compliance.
+description: "Compliance with Aircrack-ng. compliance."
 category: security
 tags: [aircrack, compliance, security, security-tool]
 models: [gpt-4, claude-3]

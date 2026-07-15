@@ -1,6 +1,6 @@
 ---
 name: xgboost-pipeline
-description: Pipeline with Xgboost. ML pipelines.
+description: "Pipeline with Xgboost. ML pipelines."
 category: ai
 tags: [xgboost-pipeline, ai, russian]
 models: [sonnet, opus]

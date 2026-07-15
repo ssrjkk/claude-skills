@@ -1,6 +1,6 @@
 ---
 name: proxysql-fundamentals
-description: Fundamentals for Proxysql: core concepts
+description: "Fundamentals for Proxysql: core concepts"
 category: database
 tags: [proxysql, fundamentals, database]
 models: [sonnet, opus]

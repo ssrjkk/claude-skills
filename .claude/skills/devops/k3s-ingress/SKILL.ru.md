@@ -1,6 +1,6 @@
 ---
 name: k3s-ingress
-description: Ingress with K3s. ingress controller.
+description: "Ingress with K3s. ingress controller."
 category: devops
 tags: [k3s-ingress, devops, russian]
 models: [sonnet, opus]

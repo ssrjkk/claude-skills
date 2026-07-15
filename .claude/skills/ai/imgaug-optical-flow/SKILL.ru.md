@@ -1,6 +1,6 @@
 ---
 name: imgaug-optical-flow
-description: Optical Flow with Imgaug. motion detection.
+description: "Optical Flow with Imgaug. motion detection."
 category: ai
 tags: [imgaug-optical-flow, ai, russian]
 models: [sonnet, opus]

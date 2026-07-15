@@ -1,6 +1,6 @@
 ---
 name: circuit-breaker-intro
-description: Introduction with Circuit Breaker. understanding the pattern.
+description: "Introduction with Circuit Breaker. understanding the pattern."
 category: backend
 tags: [circuit-breaker, intro, backend, architecture]
 models: [gpt-4, claude-3]

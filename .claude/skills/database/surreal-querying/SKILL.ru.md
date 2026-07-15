@@ -1,6 +1,6 @@
 ---
 name: surreal-querying
-description: Querying with SurrealDB. queries.
+description: "Querying with SurrealDB. queries."
 category: database
 tags: [surreal-querying, database, russian]
 models: [sonnet, opus]

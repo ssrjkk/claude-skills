@@ -1,6 +1,6 @@
 ---
 name: ehr-compliance
-description: Compliance with EHR Systems. compliance.
+description: "Compliance with EHR Systems. compliance."
 category: healthcare
 tags: [ehr, compliance, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

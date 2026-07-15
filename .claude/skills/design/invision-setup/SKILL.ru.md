@@ -1,6 +1,6 @@
 ---
 name: invision-setup
-description: Setup with InVision. workspace.
+description: "Setup with InVision. workspace."
 category: design
 tags: [invision-setup, design, russian]
 models: [sonnet, opus]

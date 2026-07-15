@@ -1,6 +1,6 @@
 ---
 name: javafx-events
-description: Events with JavaFX. event handling.
+description: "Events with JavaFX. event handling."
 category: desktop
 tags: [javafx-events, desktop, russian]
 models: [sonnet, opus]

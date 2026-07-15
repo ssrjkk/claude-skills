@@ -1,6 +1,6 @@
 ---
 name: tokenizers-similarity
-description: Similarity with Tokenizers. text similarity.
+description: "Similarity with Tokenizers. text similarity."
 category: ai
 tags: [tokenizers-similarity, ai, russian]
 models: [sonnet, opus]

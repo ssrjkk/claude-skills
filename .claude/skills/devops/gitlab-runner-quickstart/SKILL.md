@@ -1,6 +1,6 @@
 ---
 name: gitlab-runner-quickstart
-description: Quickstart for Gitlab-Runner: quick start guide
+description: "Quickstart for Gitlab-Runner: quick start guide"
 category: devops
 tags: [gitlab-runner, quickstart, devops]
 models: [sonnet, opus]

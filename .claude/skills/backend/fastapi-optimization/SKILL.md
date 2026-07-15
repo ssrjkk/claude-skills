@@ -1,6 +1,6 @@
 ---
 name: fastapi-optimization
-description: Optimization for Fastapi: performance tuning and optimization
+description: "Optimization for Fastapi: performance tuning and optimization"
 category: backend
 tags: [fastapi, optimization, backend]
 models: [sonnet, opus]

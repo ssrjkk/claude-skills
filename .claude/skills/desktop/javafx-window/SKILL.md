@@ -1,6 +1,6 @@
 ---
 name: javafx-window
-description: Window with JavaFX. windows.
+description: "Window with JavaFX. windows."
 category: desktop
 tags: [javafx, window, desktop, desktop]
 models: [gpt-4, claude-3]

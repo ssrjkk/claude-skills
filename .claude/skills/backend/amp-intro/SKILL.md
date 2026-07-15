@@ -1,6 +1,6 @@
 ---
 name: amp-intro
-description: Intro for Amp: introduction
+description: "Intro for Amp: introduction"
 category: backend
 tags: [amp, intro, backend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cdk-networking
-description: Networking with AWS CDK. network infra.
+description: "Networking with AWS CDK. network infra."
 category: devops
 tags: [cdk-networking, devops, russian]
 models: [sonnet, opus]

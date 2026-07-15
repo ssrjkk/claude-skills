@@ -1,6 +1,6 @@
 ---
 name: yii-deployment
-description: Deployment with Yii. deploy.
+description: "Deployment with Yii. deploy."
 category: backend
 tags: [yii, deployment, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: dynatrace-scraping
-description: Scraping with Dynatrace. target discovery.
+description: "Scraping with Dynatrace. target discovery."
 category: devops
 tags: [dynatrace, scraping, devops, monitoring]
 models: [gpt-4, claude-3]

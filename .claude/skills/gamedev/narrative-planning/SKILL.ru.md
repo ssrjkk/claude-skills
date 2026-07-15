@@ -1,6 +1,6 @@
 ---
 name: narrative-planning
-description: Planning with Narrative Design. planning.
+description: "Planning with Narrative Design. planning."
 category: gamedev
 tags: [narrative-planning, gamedev, russian]
 models: [sonnet, opus]

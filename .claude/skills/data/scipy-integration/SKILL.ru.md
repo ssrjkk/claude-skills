@@ -1,6 +1,6 @@
 ---
 name: scipy-integration
-description: Integration with SciPy. data sources.
+description: "Integration with SciPy. data sources."
 category: data
 tags: [scipy-integration, data, russian]
 models: [sonnet, opus]

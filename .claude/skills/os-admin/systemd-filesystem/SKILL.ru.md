@@ -1,6 +1,6 @@
 ---
 name: systemd-filesystem
-description: Filesystem with systemd. filesystem.
+description: "Filesystem with systemd. filesystem."
 category: os-admin
 tags: [systemd-filesystem, os-admin, russian]
 models: [sonnet, opus]

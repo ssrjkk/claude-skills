@@ -1,6 +1,6 @@
 ---
 name: newrelic-dashboards
-description: Dashboards with New Relic. dashboards.
+description: "Dashboards with New Relic. dashboards."
 category: devops
 tags: [newrelic, dashboards, devops, monitoring]
 models: [gpt-4, claude-3]

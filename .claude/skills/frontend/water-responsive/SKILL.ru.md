@@ -1,6 +1,6 @@
 ---
 name: water-responsive
-description: Responsive with Water.css. mobile-first.
+description: "Responsive with Water.css. mobile-first."
 category: frontend
 tags: [water-responsive, frontend, russian]
 models: [sonnet, opus]

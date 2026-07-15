@@ -1,6 +1,6 @@
 ---
 name: mpls-design
-description: Design with MPLS. network design.
+description: "Design with MPLS. network design."
 category: networking
 tags: [mpls-design, networking, russian]
 models: [sonnet, opus]

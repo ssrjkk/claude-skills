@@ -1,6 +1,6 @@
 ---
 name: k0s-secrets
-description: Secrets with K0s. secret management.
+description: "Secrets with K0s. secret management."
 category: devops
 tags: [k0s-secrets, devops, russian]
 models: [sonnet, opus]

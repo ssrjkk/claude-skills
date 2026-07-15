@@ -1,6 +1,6 @@
 ---
 name: concourse-testing
-description: Testing with Concourse. automated tests.
+description: "Testing with Concourse. automated tests."
 category: devops
 tags: [concourse-testing, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: jobs-to-be-done-basics
-description: Basics with Jobs to be Done. fundamentals.
+description: "Basics with Jobs to be Done. fundamentals."
 category: product
 tags: [jobs-to-be-done, basics, product, product-framework]
 models: [gpt-4, claude-3]

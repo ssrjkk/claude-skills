@@ -1,6 +1,6 @@
 ---
 name: less-tools
-description: Tools with LeSS. tooling.
+description: "Tools with LeSS. tooling."
 category: product
 tags: [less-tools, product, russian]
 models: [sonnet, opus]

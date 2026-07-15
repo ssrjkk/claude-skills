@@ -1,6 +1,6 @@
 ---
 name: django-deployment
-description: Deployment with Django. production deploy.
+description: "Deployment with Django. production deploy."
 category: backend
 tags: [django, deployment, backend, backend]
 models: [gpt-4, claude-3]

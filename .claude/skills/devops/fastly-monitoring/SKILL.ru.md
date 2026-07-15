@@ -1,6 +1,6 @@
 ---
 name: fastly-monitoring
-description: Monitoring with Fastly. monitoring.
+description: "Monitoring with Fastly. monitoring."
 category: devops
 tags: [fastly-monitoring, devops, russian]
 models: [sonnet, opus]

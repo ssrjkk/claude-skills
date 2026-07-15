@@ -1,6 +1,6 @@
 ---
 name: terraform-networking
-description: Networking with Terraform. network infra.
+description: "Networking with Terraform. network infra."
 category: devops
 tags: [terraform, networking, devops, iac]
 models: [gpt-4, claude-3]

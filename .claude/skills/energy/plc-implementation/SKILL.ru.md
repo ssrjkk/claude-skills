@@ -1,6 +1,6 @@
 ---
 name: plc-implementation
-description: Implementation with PLC Programming. deployment.
+description: "Implementation with PLC Programming. deployment."
 category: energy
 tags: [plc-implementation, energy, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cocos-basics
-description: Basics for Cocos: fundamentals and core concepts
+description: "Basics for Cocos: fundamentals and core concepts"
 category: gamedev
 tags: [cocos, basics, gamedev]
 models: [sonnet, opus]

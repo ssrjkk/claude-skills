@@ -1,6 +1,6 @@
 ---
 name: arcore-spatial
-description: Spatial with ARCore. room mapping.
+description: "Spatial with ARCore. room mapping."
 category: ar-vr
 tags: [arcore, spatial, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

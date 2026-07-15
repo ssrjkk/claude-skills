@@ -1,6 +1,6 @@
 ---
 name: kinesis-examples
-description: Examples for Kinesis: practical examples
+description: "Examples for Kinesis: practical examples"
 category: data
 tags: [kinesis-examples, data, russian]
 models: [sonnet, opus]

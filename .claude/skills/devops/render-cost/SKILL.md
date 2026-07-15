@@ -1,6 +1,6 @@
 ---
 name: render-cost
-description: Cost with Render. cost optimization.
+description: "Cost with Render. cost optimization."
 category: devops
 tags: [render, cost, devops, cloud]
 models: [gpt-4, claude-3]

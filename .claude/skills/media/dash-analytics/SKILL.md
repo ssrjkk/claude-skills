@@ -1,6 +1,6 @@
 ---
 name: dash-analytics
-description: Analytics with MPEG-DASH. analytics.
+description: "Analytics with MPEG-DASH. analytics."
 category: media
 tags: [dash, analytics, media, media-streaming]
 models: [gpt-4, claude-3]

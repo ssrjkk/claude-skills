@@ -1,6 +1,6 @@
 ---
 name: wxwidgets-setup
-description: Setup with wxWidgets. SDK setup.
+description: "Setup with wxWidgets. SDK setup."
 category: desktop
 tags: [wxwidgets-setup, desktop, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: widget-android-usage
-description: Usage for Widget-Android: usage reference
+description: "Usage for Widget-Android: usage reference"
 category: mobile
 tags: [widget-android-usage, mobile, russian]
 models: [sonnet, opus]

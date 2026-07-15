@@ -1,6 +1,6 @@
 ---
 name: marqeta-data
-description: Data with Marqeta. financial data.
+description: "Data with Marqeta. financial data."
 category: finance
 tags: [marqeta, data, finance, fintech]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: superagent-guides
-description: Guides for Superagent: how-to guides
+description: "Guides for Superagent: how-to guides"
 category: qa
 tags: [superagent, guides, qa]
 models: [sonnet, opus]

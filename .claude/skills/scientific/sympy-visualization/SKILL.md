@@ -1,6 +1,6 @@
 ---
 name: sympy-visualization
-description: Visualization with SymPy. scientific plots.
+description: "Visualization with SymPy. scientific plots."
 category: scientific
 tags: [sympy, visualization, scientific, scientific-computing]
 models: [gpt-4, claude-3]

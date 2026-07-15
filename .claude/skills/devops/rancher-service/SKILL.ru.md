@@ -1,6 +1,6 @@
 ---
 name: rancher-service
-description: Service with Rancher. services.
+description: "Service with Rancher. services."
 category: devops
 tags: [rancher-service, devops, russian]
 models: [sonnet, opus]

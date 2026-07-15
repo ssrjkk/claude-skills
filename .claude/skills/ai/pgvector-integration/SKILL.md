@@ -1,6 +1,6 @@
 ---
 name: pgvector-integration
-description: Integration for Pgvector: integration with other tools
+description: "Integration for Pgvector: integration with other tools"
 category: ai
 tags: [pgvector, integration, ai]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: aws-iot-setup
-description: Setup with AWS IoT. setup.
+description: "Setup with AWS IoT. setup."
 category: iot
 tags: [aws-iot, setup, iot, iot-platform]
 models: [gpt-4, claude-3]

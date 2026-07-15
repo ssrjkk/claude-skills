@@ -1,6 +1,6 @@
 ---
 name: drawio-basics
-description: Basics with Draw.io. fundamentals.
+description: "Basics with Draw.io. fundamentals."
 category: engineering
 tags: [drawio, basics, engineering, modeling]
 models: [gpt-4, claude-3]

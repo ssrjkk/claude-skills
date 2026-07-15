@@ -1,6 +1,6 @@
 ---
 name: sagemath-visualization
-description: Visualization with SageMath. scientific plots.
+description: "Visualization with SageMath. scientific plots."
 category: scientific
 tags: [sagemath-visualization, scientific, russian]
 models: [sonnet, opus]

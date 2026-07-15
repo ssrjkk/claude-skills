@@ -1,6 +1,6 @@
 ---
 name: hololens-spatial
-description: Spatial with HoloLens. room mapping.
+description: "Spatial with HoloLens. room mapping."
 category: ar-vr
 tags: [hololens-spatial, ar-vr, russian]
 models: [sonnet, opus]

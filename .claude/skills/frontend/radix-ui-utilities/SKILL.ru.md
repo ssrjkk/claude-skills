@@ -1,6 +1,6 @@
 ---
 name: radix-ui-utilities
-description: Utilities with Radix UI. utility classes.
+description: "Utilities with Radix UI. utility classes."
 category: frontend
 tags: [radix-ui-utilities, frontend, russian]
 models: [sonnet, opus]

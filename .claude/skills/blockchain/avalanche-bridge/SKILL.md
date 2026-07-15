@@ -1,6 +1,6 @@
 ---
 name: avalanche-bridge
-description: Bridge with Avalanche. cross-chain.
+description: "Bridge with Avalanche. cross-chain."
 category: blockchain
 tags: [avalanche, bridge, blockchain, blockchain]
 models: [gpt-4, claude-3]

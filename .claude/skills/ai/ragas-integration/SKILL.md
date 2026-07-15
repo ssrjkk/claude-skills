@@ -1,6 +1,6 @@
 ---
 name: ragas-integration
-description: Integration for Ragas: integration with other tools
+description: "Integration for Ragas: integration with other tools"
 category: ai
 tags: [ragas, integration, ai]
 models: [sonnet, opus]

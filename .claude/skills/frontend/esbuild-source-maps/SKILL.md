@@ -1,6 +1,6 @@
 ---
 name: esbuild-source-maps
-description: Source Maps with esbuild. debugging.
+description: "Source Maps with esbuild. debugging."
 category: frontend
 tags: [esbuild, source-maps, frontend, build-tool]
 models: [gpt-4, claude-3]

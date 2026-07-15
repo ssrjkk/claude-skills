@@ -1,6 +1,6 @@
 ---
 name: cassandra-querying
-description: Querying with Cassandra. queries.
+description: "Querying with Cassandra. queries."
 category: database
 tags: [cassandra, querying, database, nosql]
 models: [gpt-4, claude-3]

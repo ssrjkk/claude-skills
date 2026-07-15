@@ -1,6 +1,6 @@
 ---
 name: alpine-routing
-description: Routing with Alpine. client routing.
+description: "Routing with Alpine. client routing."
 category: frontend
 tags: [alpine, routing, frontend, frontend]
 models: [gpt-4, claude-3]

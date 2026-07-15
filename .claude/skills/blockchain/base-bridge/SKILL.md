@@ -1,6 +1,6 @@
 ---
 name: base-bridge
-description: Bridge with Base. cross-chain.
+description: "Bridge with Base. cross-chain."
 category: blockchain
 tags: [base, bridge, blockchain, blockchain]
 models: [gpt-4, claude-3]

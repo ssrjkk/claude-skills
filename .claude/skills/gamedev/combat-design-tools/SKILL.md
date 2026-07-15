@@ -1,6 +1,6 @@
 ---
 name: combat-design-tools
-description: Tools with Combat Design. tools.
+description: "Tools with Combat Design. tools."
 category: gamedev
 tags: [combat-design, tools, gamedev, game-design]
 models: [gpt-4, claude-3]

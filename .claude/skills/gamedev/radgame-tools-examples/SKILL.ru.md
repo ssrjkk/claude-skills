@@ -1,6 +1,6 @@
 ---
 name: radgame-tools-examples
-description: Examples for Radgame-Tools: practical examples
+description: "Examples for Radgame-Tools: practical examples"
 category: gamedev
 tags: [radgame-tools-examples, gamedev, russian]
 models: [sonnet, opus]

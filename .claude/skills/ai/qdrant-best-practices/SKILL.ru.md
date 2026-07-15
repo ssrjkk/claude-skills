@@ -1,6 +1,6 @@
 ---
 name: qdrant-best-practices
-description: Best Practices for Qdrant: best practices and patterns
+description: "Best Practices for Qdrant: best practices and patterns"
 category: ai
 tags: [qdrant-best-practices, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: midjourney-workflow
-description: Workflow for Midjourney: workflow optimization
+description: "Workflow for Midjourney: workflow optimization"
 category: ai
 tags: [midjourney-workflow, ai, russian]
 models: [sonnet, opus]

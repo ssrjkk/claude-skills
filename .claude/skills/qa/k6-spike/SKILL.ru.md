@@ -1,6 +1,6 @@
 ---
 name: k6-spike
-description: Spike with k6. spike tests.
+description: "Spike with k6. spike tests."
 category: qa
 tags: [k6-spike, qa, russian]
 models: [sonnet, opus]

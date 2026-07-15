@@ -1,6 +1,6 @@
 ---
 name: flair-tokenization
-description: Tokenization with Flair. text tokenization.
+description: "Tokenization with Flair. text tokenization."
 category: ai
 tags: [flair, tokenization, ai, nlp]
 models: [gpt-4, claude-3]

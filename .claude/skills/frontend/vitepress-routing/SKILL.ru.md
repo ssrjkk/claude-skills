@@ -1,6 +1,6 @@
 ---
 name: vitepress-routing
-description: Routing with VitePress. file-based routing.
+description: "Routing with VitePress. file-based routing."
 category: frontend
 tags: [vitepress-routing, frontend, russian]
 models: [sonnet, opus]

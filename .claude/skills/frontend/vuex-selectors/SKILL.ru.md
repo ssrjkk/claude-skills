@@ -1,6 +1,6 @@
 ---
 name: vuex-selectors
-description: Selectors with Vuex. derived data.
+description: "Selectors with Vuex. derived data."
 category: frontend
 tags: [vuex-selectors, frontend, russian]
 models: [sonnet, opus]

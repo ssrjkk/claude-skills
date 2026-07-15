@@ -1,6 +1,6 @@
 ---
 name: vue-monitoring
-description: Monitoring for Vue: monitoring and observability
+description: "Monitoring for Vue: monitoring and observability"
 category: frontend
 tags: [vue, monitoring, frontend]
 models: [sonnet, opus]

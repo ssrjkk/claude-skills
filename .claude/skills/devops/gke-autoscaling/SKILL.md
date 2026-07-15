@@ -1,6 +1,6 @@
 ---
 name: gke-autoscaling
-description: Autoscaling with Google GKE. HPA.
+description: "Autoscaling with Google GKE. HPA."
 category: devops
 tags: [gke, autoscaling, devops, kubernetes]
 models: [gpt-4, claude-3]

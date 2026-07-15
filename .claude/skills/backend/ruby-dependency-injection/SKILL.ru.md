@@ -1,6 +1,6 @@
 ---
 name: ruby-dependency-injection
-description: DI with Ruby. DI containers.
+description: "DI with Ruby. DI containers."
 category: backend
 tags: [ruby-dependency-injection, backend, russian]
 models: [sonnet, opus]

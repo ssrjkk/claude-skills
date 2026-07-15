@@ -1,6 +1,6 @@
 ---
 name: blue-yonder-analytics
-description: Analytics with Blue Yonder. analytics.
+description: "Analytics with Blue Yonder. analytics."
 category: supply-chain
 tags: [blue-yonder-analytics, supply-chain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: wireshark-scripting
-description: Scripting with Wireshark. automation.
+description: "Scripting with Wireshark. automation."
 category: networking
 tags: [wireshark-scripting, networking, russian]
 models: [sonnet, opus]

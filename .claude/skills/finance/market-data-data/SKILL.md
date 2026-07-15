@@ -1,6 +1,6 @@
 ---
 name: market-data-data
-description: Data with Market Data. data sources.
+description: "Data with Market Data. data sources."
 category: finance
 tags: [market-data, data, finance, trading]
 models: [gpt-4, claude-3]

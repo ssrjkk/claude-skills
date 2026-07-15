@@ -1,6 +1,6 @@
 ---
 name: typesense-indexing
-description: Indexing with Typesense. document indexing.
+description: "Indexing with Typesense. document indexing."
 category: database
 tags: [typesense-indexing, database, russian]
 models: [sonnet, opus]

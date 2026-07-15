@@ -1,6 +1,6 @@
 ---
 name: nat-troubleshooting
-description: Troubleshooting with NAT. diagnostics.
+description: "Troubleshooting with NAT. diagnostics."
 category: networking
 tags: [nat, troubleshooting, networking, networking]
 models: [gpt-4, claude-3]

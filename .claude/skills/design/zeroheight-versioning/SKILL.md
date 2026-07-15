@@ -1,6 +1,6 @@
 ---
 name: zeroheight-versioning
-description: Versioning with Zeroheight. version control.
+description: "Versioning with Zeroheight. version control."
 category: design
 tags: [zeroheight, versioning, design, design]
 models: [gpt-4, claude-3]

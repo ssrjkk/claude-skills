@@ -1,6 +1,6 @@
 ---
 name: threadx-tasks
-description: Tasks with ThreadX. task management.
+description: "Tasks with ThreadX. task management."
 category: embedded
 tags: [threadx, tasks, embedded, rtos]
 models: [gpt-4, claude-3]

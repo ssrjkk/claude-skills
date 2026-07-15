@@ -1,6 +1,6 @@
 ---
 name: openshift-secrets
-description: Secrets with OpenShift. secret management.
+description: "Secrets with OpenShift. secret management."
 category: devops
 tags: [openshift-secrets, devops, russian]
 models: [sonnet, opus]

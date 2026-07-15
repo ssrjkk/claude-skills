@@ -1,6 +1,6 @@
 ---
 name: peft-data-loading
-description: Data Loading with Peft. data pipelines.
+description: "Data Loading with Peft. data pipelines."
 category: ai
 tags: [peft, data-loading, ai, deep-learning]
 models: [gpt-4, claude-3]

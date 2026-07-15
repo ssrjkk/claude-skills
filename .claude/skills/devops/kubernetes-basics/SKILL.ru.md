@@ -1,6 +1,6 @@
 ---
 name: kubernetes-basics
-description: Basics for Kubernetes: fundamentals and core concepts
+description: "Basics for Kubernetes: fundamentals and core concepts"
 category: devops
 tags: [kubernetes-basics, devops, russian]
 models: [sonnet, opus]

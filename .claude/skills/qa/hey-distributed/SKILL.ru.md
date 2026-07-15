@@ -1,6 +1,6 @@
 ---
 name: hey-distributed
-description: Distributed with hey. distributed load.
+description: "Distributed with hey. distributed load."
 category: qa
 tags: [hey-distributed, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: esp32-wifi
-description: WiFi with ESP32. wireless.
+description: "WiFi with ESP32. wireless."
 category: iot
 tags: [esp32-wifi, iot, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: microgrid-integration
-description: Integration with Microgrid. grid integration.
+description: "Integration with Microgrid. grid integration."
 category: energy
 tags: [microgrid-integration, energy, russian]
 models: [sonnet, opus]

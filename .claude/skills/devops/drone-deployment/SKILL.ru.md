@@ -1,6 +1,6 @@
 ---
 name: drone-deployment
-description: Deployment with Drone CI. auto-deploy.
+description: "Deployment with Drone CI. auto-deploy."
 category: devops
 tags: [drone-deployment, devops, russian]
 models: [sonnet, opus]

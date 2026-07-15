@@ -1,6 +1,6 @@
 ---
 name: websocket
-description: Implements real-time bidirectional communication using WebSockets with Socket.IO, ws, or native WebSocket API. Use for chat, live updates, and collaborative apps.
+description: "Implements real-time bidirectional communication using WebSockets with Socket.IO, ws, or native WebSocket API. Use for chat, live updates, and collaborative apps."
 category: backend
 tags: [websocket, backend, russian]
 models: [sonnet, opus]

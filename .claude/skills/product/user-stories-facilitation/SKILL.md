@@ -1,6 +1,6 @@
 ---
 name: user-stories-facilitation
-description: Facilitation with User Stories. running.
+description: "Facilitation with User Stories. running."
 category: product
 tags: [user-stories, facilitation, product, product-framework]
 models: [gpt-4, claude-3]

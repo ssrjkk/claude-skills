@@ -1,6 +1,6 @@
 ---
 name: defold-api
-description: API for Defold: API development and integration
+description: "API for Defold: API development and integration"
 category: gamedev
 tags: [defold, api, gamedev]
 models: [sonnet, opus]

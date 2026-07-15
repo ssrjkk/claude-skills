@@ -1,6 +1,6 @@
 ---
 name: hbase-schema
-description: Schema Design with HBase. schema design.
+description: "Schema Design with HBase. schema design."
 category: database
 tags: [hbase, schema, database, nosql]
 models: [gpt-4, claude-3]

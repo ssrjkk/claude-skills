@@ -1,6 +1,6 @@
 ---
 name: esp32-setup
-description: Setup with ESP32. board setup.
+description: "Setup with ESP32. board setup."
 category: iot
 tags: [esp32, setup, iot, iot]
 models: [gpt-4, claude-3]

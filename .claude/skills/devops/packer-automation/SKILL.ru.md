@@ -1,6 +1,6 @@
 ---
 name: packer-automation
-description: Automation for Packer: automation and scripting
+description: "Automation for Packer: automation and scripting"
 category: devops
 tags: [packer-automation, devops, russian]
 models: [sonnet, opus]

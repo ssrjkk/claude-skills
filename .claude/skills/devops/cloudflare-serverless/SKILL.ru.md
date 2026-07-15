@@ -1,6 +1,6 @@
 ---
 name: cloudflare-serverless
-description: Serverless with Cloudflare. functions.
+description: "Serverless with Cloudflare. functions."
 category: devops
 tags: [cloudflare-serverless, devops, russian]
 models: [sonnet, opus]

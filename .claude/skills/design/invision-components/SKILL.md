@@ -1,6 +1,6 @@
 ---
 name: invision-components
-description: Components with InVision. components.
+description: "Components with InVision. components."
 category: design
 tags: [invision, components, design, design]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: workflow-ai-usage
-description: Usage for Workflow-Ai: usage reference
+description: "Usage for Workflow-Ai: usage reference"
 category: ai
 tags: [workflow-ai-usage, ai, russian]
 models: [sonnet, opus]

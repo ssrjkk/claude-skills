@@ -1,6 +1,6 @@
 ---
 name: huggingface-api
-description: API for Huggingface: API development and integration
+description: "API for Huggingface: API development and integration"
 category: ai
 tags: [huggingface, api, ai]
 models: [sonnet, opus]

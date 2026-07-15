@@ -1,6 +1,6 @@
 ---
 name: nmap-analysis
-description: Analysis with Nmap. analysis.
+description: "Analysis with Nmap. analysis."
 category: security
 tags: [nmap-analysis, security, russian]
 models: [sonnet, opus]

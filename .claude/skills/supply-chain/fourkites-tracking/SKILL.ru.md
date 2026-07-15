@@ -1,6 +1,6 @@
 ---
 name: fourkites-tracking
-description: Tracking with FourKites. tracking.
+description: "Tracking with FourKites. tracking."
 category: supply-chain
 tags: [fourkites-tracking, supply-chain, russian]
 models: [sonnet, opus]

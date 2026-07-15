@@ -1,6 +1,6 @@
 ---
 name: apache-flink-batch
-description: Batch with Apache Flink. batch processing.
+description: "Batch with Apache Flink. batch processing."
 category: data
 tags: [apache-flink-batch, data, russian]
 models: [sonnet, opus]

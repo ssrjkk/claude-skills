@@ -1,6 +1,6 @@
 ---
 name: avalanche-setup
-description: Setup with Avalanche. node setup.
+description: "Setup with Avalanche. node setup."
 category: blockchain
 tags: [avalanche-setup, blockchain, russian]
 models: [sonnet, opus]

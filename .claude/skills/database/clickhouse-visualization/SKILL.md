@@ -1,6 +1,6 @@
 ---
 name: clickhouse-visualization
-description: Visualization with ClickHouse. charting.
+description: "Visualization with ClickHouse. charting."
 category: database
 tags: [clickhouse, visualization, database, time-series]
 models: [gpt-4, claude-3]

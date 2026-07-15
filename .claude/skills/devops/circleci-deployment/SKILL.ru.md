@@ -1,6 +1,6 @@
 ---
 name: circleci-deployment
-description: Deployment with CircleCI. auto-deploy.
+description: "Deployment with CircleCI. auto-deploy."
 category: devops
 tags: [circleci-deployment, devops, russian]
 models: [sonnet, opus]

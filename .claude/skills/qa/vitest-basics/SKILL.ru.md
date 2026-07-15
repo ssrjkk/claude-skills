@@ -1,6 +1,6 @@
 ---
 name: vitest-basics
-description: Basics for Vitest: fundamentals and core concepts
+description: "Basics for Vitest: fundamentals and core concepts"
 category: qa
 tags: [vitest-basics, qa, russian]
 models: [sonnet, opus]

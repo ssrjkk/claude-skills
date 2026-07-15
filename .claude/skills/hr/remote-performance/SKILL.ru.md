@@ -1,6 +1,6 @@
 ---
 name: remote-performance
-description: Performance with Remote.com. performance mgmt.
+description: "Performance with Remote.com. performance mgmt."
 category: hr
 tags: [remote-performance, hr, russian]
 models: [sonnet, opus]

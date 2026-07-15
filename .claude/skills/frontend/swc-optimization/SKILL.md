@@ -1,6 +1,6 @@
 ---
 name: swc-optimization
-description: Optimization with SWC. build optimization.
+description: "Optimization with SWC. build optimization."
 category: frontend
 tags: [swc, optimization, frontend, build-tool]
 models: [gpt-4, claude-3]

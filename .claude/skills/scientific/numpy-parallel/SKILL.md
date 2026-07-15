@@ -1,6 +1,6 @@
 ---
 name: numpy-parallel
-description: Parallel with NumPy. parallel computing.
+description: "Parallel with NumPy. parallel computing."
 category: scientific
 tags: [numpy, parallel, scientific, scientific-computing]
 models: [gpt-4, claude-3]

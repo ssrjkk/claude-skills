@@ -1,6 +1,6 @@
 ---
 name: packer-security
-description: Security with Packer. security groups.
+description: "Security with Packer. security groups."
 category: devops
 tags: [packer-security, devops, russian]
 models: [sonnet, opus]

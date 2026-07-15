@@ -1,6 +1,6 @@
 ---
 name: langchain-memory
-description: Memory with Langchain. conversation memory.
+description: "Memory with Langchain. conversation memory."
 category: ai
 tags: [langchain, memory, ai, llm]
 models: [gpt-4, claude-3]

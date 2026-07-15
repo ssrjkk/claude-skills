@@ -1,6 +1,6 @@
 ---
 name: nuxt-security
-description: Security for Nuxt: security best practices
+description: "Security for Nuxt: security best practices"
 category: frontend
 tags: [nuxt, security, frontend]
 models: [sonnet, opus]

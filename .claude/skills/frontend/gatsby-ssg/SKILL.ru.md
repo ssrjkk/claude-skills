@@ -1,6 +1,6 @@
 ---
 name: gatsby-ssg
-description: SSG with Gatsby. static generation.
+description: "SSG with Gatsby. static generation."
 category: frontend
 tags: [gatsby-ssg, frontend, russian]
 models: [sonnet, opus]

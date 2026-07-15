@@ -1,6 +1,6 @@
 ---
 name: echo-templating
-description: Templating with Echo. HTML templates.
+description: "Templating with Echo. HTML templates."
 category: backend
 tags: [echo-templating, backend, russian]
 models: [sonnet, opus]

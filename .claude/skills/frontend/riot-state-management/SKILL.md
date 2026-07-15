@@ -1,6 +1,6 @@
 ---
 name: riot-state-management
-description: State Management with Riot. state handling.
+description: "State Management with Riot. state handling."
 category: frontend
 tags: [riot, state-management, frontend, frontend]
 models: [gpt-4, claude-3]

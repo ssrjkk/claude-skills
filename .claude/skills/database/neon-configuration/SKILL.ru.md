@@ -1,6 +1,6 @@
 ---
 name: neon-configuration
-description: Configuration for Neon: configuration and setup
+description: "Configuration for Neon: configuration and setup"
 category: database
 tags: [neon-configuration, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ignite-pub-sub
-description: Pub/Sub with Apache Ignite. publish/subscribe.
+description: "Pub/Sub with Apache Ignite. publish/subscribe."
 category: database
 tags: [ignite-pub-sub, database, russian]
 models: [sonnet, opus]

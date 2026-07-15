@@ -1,6 +1,6 @@
 ---
 name: defold-physics
-description: Physics with Defold. physics.
+description: "Physics with Defold. physics."
 category: gamedev
 tags: [defold-physics, gamedev, russian]
 models: [sonnet, opus]

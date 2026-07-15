@@ -1,6 +1,6 @@
 ---
 name: diawi-automation
-description: Automation for Diawi: automation and scripting
+description: "Automation for Diawi: automation and scripting"
 category: mobile
 tags: [diawi, automation, mobile]
 models: [sonnet, opus]

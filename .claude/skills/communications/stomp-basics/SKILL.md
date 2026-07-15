@@ -1,6 +1,6 @@
 ---
 name: stomp-basics
-description: Basics with STOMP. fundamentals.
+description: "Basics with STOMP. fundamentals."
 category: communications
 tags: [stomp, basics, communications, communication-protocol]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: linkedin-recruiter-interviewing
-description: Interviewing with LinkedIn Recruiter. interviews.
+description: "Interviewing with LinkedIn Recruiter. interviews."
 category: hr
 tags: [linkedin-recruiter-interviewing, hr, russian]
 models: [sonnet, opus]

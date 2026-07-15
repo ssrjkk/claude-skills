@@ -1,6 +1,6 @@
 ---
 name: appcenter-getting-started
-description: Getting Started for Appcenter: initial setup and first steps
+description: "Getting Started for Appcenter: initial setup and first steps"
 category: mobile
 tags: [appcenter, getting-started, mobile]
 models: [sonnet, opus]

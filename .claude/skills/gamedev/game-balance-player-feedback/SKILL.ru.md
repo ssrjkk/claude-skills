@@ -1,6 +1,6 @@
 ---
 name: game-balance-player-feedback
-description: Feedback with Game Balance. player feedback.
+description: "Feedback with Game Balance. player feedback."
 category: gamedev
 tags: [game-balance-player-feedback, gamedev, russian]
 models: [sonnet, opus]

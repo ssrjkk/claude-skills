@@ -1,6 +1,6 @@
 ---
 name: google-maps-tiles
-description: Tiles with Google Maps API. tile serving.
+description: "Tiles with Google Maps API. tile serving."
 category: geospatial
 tags: [google-maps, tiles, geospatial, gis]
 models: [gpt-4, claude-3]

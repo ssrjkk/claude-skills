@@ -1,6 +1,6 @@
 ---
 name: finops
-description: Cloud FinOps cost optimization
+description: "Cloud FinOps cost optimization"
 category: devops
 tags: [finops, devops, russian]
 models: [sonnet, opus]

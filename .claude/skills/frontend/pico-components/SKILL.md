@@ -1,6 +1,6 @@
 ---
 name: pico-components
-description: Components with Pico CSS. UI components.
+description: "Components with Pico CSS. UI components."
 category: frontend
 tags: [pico, components, frontend, css]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: react-hook-form-automation
-description: Automation for React-Hook-Form: automation and scripting
+description: "Automation for React-Hook-Form: automation and scripting"
 category: frontend
 tags: [react-hook-form-automation, frontend, russian]
 models: [sonnet, opus]

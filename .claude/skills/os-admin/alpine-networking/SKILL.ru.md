@@ -1,6 +1,6 @@
 ---
 name: alpine-networking
-description: Networking with Alpine Linux. network config.
+description: "Networking with Alpine Linux. network config."
 category: os-admin
 tags: [alpine-networking, os-admin, russian]
 models: [sonnet, opus]

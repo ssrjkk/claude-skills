@@ -1,6 +1,6 @@
 ---
 name: dash-widgets
-description: Widgets with Dash. input widgets.
+description: "Widgets with Dash. input widgets."
 category: data
 tags: [dash, widgets, data, data-apps]
 models: [gpt-4, claude-3]

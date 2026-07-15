@@ -1,6 +1,6 @@
 ---
 name: group-policy-automation
-description: Automation with Group Policy. PowerShell.
+description: "Automation with Group Policy. PowerShell."
 category: os-admin
 tags: [group-policy-automation, os-admin, russian]
 models: [sonnet, opus]

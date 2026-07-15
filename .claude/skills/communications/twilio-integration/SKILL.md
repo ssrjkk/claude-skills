@@ -1,6 +1,6 @@
 ---
 name: twilio-integration
-description: Integration with Twilio. integration.
+description: "Integration with Twilio. integration."
 category: communications
 tags: [twilio, integration, communications, communication-platform]
 models: [gpt-4, claude-3]

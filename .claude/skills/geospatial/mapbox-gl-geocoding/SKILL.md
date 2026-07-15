@@ -1,6 +1,6 @@
 ---
 name: mapbox-gl-geocoding
-description: Geocoding with Mapbox GL. geocoding.
+description: "Geocoding with Mapbox GL. geocoding."
 category: geospatial
 tags: [mapbox-gl, geocoding, geospatial, gis]
 models: [gpt-4, claude-3]

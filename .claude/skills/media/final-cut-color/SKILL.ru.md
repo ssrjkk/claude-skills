@@ -1,6 +1,6 @@
 ---
 name: final-cut-color
-description: Color with Final Cut Pro. color grading.
+description: "Color with Final Cut Pro. color grading."
 category: media
 tags: [final-cut-color, media, russian]
 models: [sonnet, opus]

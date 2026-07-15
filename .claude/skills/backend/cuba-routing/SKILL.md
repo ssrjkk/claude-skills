@@ -1,6 +1,6 @@
 ---
 name: cuba-routing
-description: Routing with Cuba. HTTP routing.
+description: "Routing with Cuba. HTTP routing."
 category: backend
 tags: [cuba, routing, backend, backend]
 models: [gpt-4, claude-3]

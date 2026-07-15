@@ -1,6 +1,6 @@
 ---
 name: rollup-source-maps
-description: Source Maps with Rollup. debugging.
+description: "Source Maps with Rollup. debugging."
 category: frontend
 tags: [rollup-source-maps, frontend, russian]
 models: [sonnet, opus]

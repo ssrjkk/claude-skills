@@ -1,6 +1,6 @@
 ---
 name: spec-basics
-description: Basics with Specification Writing. fundamentals.
+description: "Basics with Specification Writing. fundamentals."
 category: product
 tags: [spec-basics, product, russian]
 models: [sonnet, opus]

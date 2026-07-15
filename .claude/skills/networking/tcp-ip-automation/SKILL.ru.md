@@ -1,6 +1,6 @@
 ---
 name: tcp-ip-automation
-description: Automation with TCP/IP. network automation.
+description: "Automation with TCP/IP. network automation."
 category: networking
 tags: [tcp-ip-automation, networking, russian]
 models: [sonnet, opus]

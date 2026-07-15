@@ -1,6 +1,6 @@
 ---
 name: bamboohr-analytics
-description: Analytics with BambooHR. analytics.
+description: "Analytics with BambooHR. analytics."
 category: hr
 tags: [bamboohr, analytics, hr, hr-tech]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: qwik-security
-description: Security for Qwik: security best practices
+description: "Security for Qwik: security best practices"
 category: frontend
 tags: [qwik, security, frontend]
 models: [sonnet, opus]

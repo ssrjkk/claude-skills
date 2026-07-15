@@ -1,6 +1,6 @@
 ---
 name: grafana-api
-description: API for Grafana: API development and integration
+description: "API for Grafana: API development and integration"
 category: devops
 tags: [grafana, api, devops]
 models: [sonnet, opus]

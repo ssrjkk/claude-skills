@@ -1,6 +1,6 @@
 ---
 name: bgp-troubleshooting
-description: Troubleshooting with BGP. diagnostics.
+description: "Troubleshooting with BGP. diagnostics."
 category: networking
 tags: [bgp, troubleshooting, networking, networking]
 models: [gpt-4, claude-3]

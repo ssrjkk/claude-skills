@@ -1,6 +1,6 @@
 ---
 name: adobe-xd-prototyping
-description: Prototyping with Adobe XD. prototypes.
+description: "Prototyping with Adobe XD. prototypes."
 category: design
 tags: [adobe-xd-prototyping, design, russian]
 models: [sonnet, opus]

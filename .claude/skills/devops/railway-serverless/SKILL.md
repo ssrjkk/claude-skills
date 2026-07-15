@@ -1,6 +1,6 @@
 ---
 name: railway-serverless
-description: Serverless with Railway. functions.
+description: "Serverless with Railway. functions."
 category: devops
 tags: [railway, serverless, devops, cloud]
 models: [gpt-4, claude-3]

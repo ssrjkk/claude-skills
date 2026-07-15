@@ -1,6 +1,6 @@
 ---
 name: chi-grpc
-description: gRPC with Chi. gRPC services.
+description: "gRPC with Chi. gRPC services."
 category: backend
 tags: [chi, grpc, backend, backend]
 models: [gpt-4, claude-3]

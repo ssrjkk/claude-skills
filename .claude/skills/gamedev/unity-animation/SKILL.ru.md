@@ -1,6 +1,6 @@
 ---
 name: unity-animation
-description: Animation with Unity. animation.
+description: "Animation with Unity. animation."
 category: gamedev
 tags: [unity-animation, gamedev, russian]
 models: [sonnet, opus]

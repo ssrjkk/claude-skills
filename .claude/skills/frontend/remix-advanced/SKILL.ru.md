@@ -1,6 +1,6 @@
 ---
 name: remix-advanced
-description: Advanced for Remix: advanced patterns and techniques
+description: "Advanced for Remix: advanced patterns and techniques"
 category: frontend
 tags: [remix-advanced, frontend, russian]
 models: [sonnet, opus]

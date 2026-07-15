@@ -1,6 +1,6 @@
 ---
 name: argocd-basics
-description: Basics for Argocd: fundamentals and core concepts
+description: "Basics for Argocd: fundamentals and core concepts"
 category: devops
 tags: [argocd, basics, devops]
 models: [sonnet, opus]

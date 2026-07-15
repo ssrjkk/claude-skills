@@ -1,6 +1,6 @@
 ---
 name: swift-ios-testing
-description: Testing with Swift iOS. testing.
+description: "Testing with Swift iOS. testing."
 category: mobile
 tags: [swift-ios, testing, mobile, mobile]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: pytorch-inference
-description: Inference with Pytorch. running models.
+description: "Inference with Pytorch. running models."
 category: ai
 tags: [pytorch-inference, ai, russian]
 models: [sonnet, opus]

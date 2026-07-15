@@ -1,6 +1,6 @@
 ---
 name: wpf-threading
-description: Threading with WPF. multithreading.
+description: "Threading with WPF. multithreading."
 category: desktop
 tags: [wpf, threading, desktop, desktop]
 models: [gpt-4, claude-3]

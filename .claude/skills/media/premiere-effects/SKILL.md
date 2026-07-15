@@ -1,6 +1,6 @@
 ---
 name: premiere-effects
-description: Effects with Premiere Pro. VFX.
+description: "Effects with Premiere Pro. VFX."
 category: media
 tags: [premiere, effects, media, media-production]
 models: [gpt-4, claude-3]

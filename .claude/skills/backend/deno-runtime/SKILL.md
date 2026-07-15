@@ -1,6 +1,6 @@
 ---
 name: deno-runtime
-description: Deno runtime and standard library
+description: "Deno runtime and standard library"
 category: backend
 tags: [deno, runtime, typescript, javascript, secure]
 models: [sonnet, opus]

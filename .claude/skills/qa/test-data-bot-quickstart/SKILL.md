@@ -1,6 +1,6 @@
 ---
 name: test-data-bot-quickstart
-description: Quickstart for Test-Data-Bot: quick start guide
+description: "Quickstart for Test-Data-Bot: quick start guide"
 category: qa
 tags: [test-data-bot, quickstart, qa]
 models: [sonnet, opus]

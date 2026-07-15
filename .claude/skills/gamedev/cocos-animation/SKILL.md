@@ -1,6 +1,6 @@
 ---
 name: cocos-animation
-description: Animation with Cocos Creator. animation.
+description: "Animation with Cocos Creator. animation."
 category: gamedev
 tags: [cocos, animation, gamedev, game-engine]
 models: [gpt-4, claude-3]

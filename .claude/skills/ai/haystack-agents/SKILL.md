@@ -1,6 +1,6 @@
 ---
 name: haystack-agents
-description: Agents with Haystack. building agents.
+description: "Agents with Haystack. building agents."
 category: ai
 tags: [haystack, agents, ai, llm]
 models: [gpt-4, claude-3]

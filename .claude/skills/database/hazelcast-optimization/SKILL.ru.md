@@ -1,6 +1,6 @@
 ---
 name: hazelcast-optimization
-description: Optimization with Hazelcast. performance tuning.
+description: "Optimization with Hazelcast. performance tuning."
 category: database
 tags: [hazelcast-optimization, database, russian]
 models: [sonnet, opus]

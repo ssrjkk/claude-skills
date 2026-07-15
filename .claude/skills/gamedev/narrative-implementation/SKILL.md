@@ -1,6 +1,6 @@
 ---
 name: narrative-implementation
-description: Implementation with Narrative Design. implementation.
+description: "Implementation with Narrative Design. implementation."
 category: gamedev
 tags: [narrative, implementation, gamedev, game-design]
 models: [gpt-4, claude-3]

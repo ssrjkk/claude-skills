@@ -1,6 +1,6 @@
 ---
 name: vagrant-setup
-description: Setup with Vagrant. installation.
+description: "Setup with Vagrant. installation."
 category: devops
 tags: [vagrant-setup, devops, russian]
 models: [sonnet, opus]

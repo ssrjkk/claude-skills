@@ -1,6 +1,6 @@
 ---
 name: plivo-voice
-description: Voice with Plivo. voice calls.
+description: "Voice with Plivo. voice calls."
 category: communications
 tags: [plivo-voice, communications, russian]
 models: [sonnet, opus]

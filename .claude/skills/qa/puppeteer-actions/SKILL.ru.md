@@ -1,6 +1,6 @@
 ---
 name: puppeteer-actions
-description: Actions with Puppeteer. user actions.
+description: "Actions with Puppeteer. user actions."
 category: qa
 tags: [puppeteer-actions, qa, russian]
 models: [sonnet, opus]

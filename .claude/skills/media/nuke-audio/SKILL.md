@@ -1,6 +1,6 @@
 ---
 name: nuke-audio
-description: Audio with Nuke. audio editing.
+description: "Audio with Nuke. audio editing."
 category: media
 tags: [nuke, audio, media, media-production]
 models: [gpt-4, claude-3]

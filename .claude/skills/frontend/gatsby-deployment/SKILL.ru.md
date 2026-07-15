@@ -1,6 +1,6 @@
 ---
 name: gatsby-deployment
-description: Deployment with Gatsby. production.
+description: "Deployment with Gatsby. production."
 category: frontend
 tags: [gatsby-deployment, frontend, russian]
 models: [sonnet, opus]

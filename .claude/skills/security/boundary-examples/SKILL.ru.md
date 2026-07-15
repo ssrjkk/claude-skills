@@ -1,6 +1,6 @@
 ---
 name: boundary-examples
-description: Examples for Boundary: practical examples
+description: "Examples for Boundary: practical examples"
 category: security
 tags: [boundary-examples, security, russian]
 models: [sonnet, opus]

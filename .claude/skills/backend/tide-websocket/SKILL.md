@@ -1,6 +1,6 @@
 ---
 name: tide-websocket
-description: WebSocket with Tide. real-time.
+description: "WebSocket with Tide. real-time."
 category: backend
 tags: [tide, websocket, backend, backend]
 models: [gpt-4, claude-3]

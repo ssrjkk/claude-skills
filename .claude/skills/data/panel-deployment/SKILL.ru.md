@@ -1,6 +1,6 @@
 ---
 name: panel-deployment
-description: Deployment with Panel. deploy.
+description: "Deployment with Panel. deploy."
 category: data
 tags: [panel-deployment, data, russian]
 models: [sonnet, opus]

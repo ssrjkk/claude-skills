@@ -1,6 +1,6 @@
 ---
 name: purecss-utilities
-description: Utilities with Pure.css. utility classes.
+description: "Utilities with Pure.css. utility classes."
 category: frontend
 tags: [purecss, utilities, frontend, css]
 models: [gpt-4, claude-3]

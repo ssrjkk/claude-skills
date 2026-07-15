@@ -1,6 +1,6 @@
 ---
 name: spacy-text-classification
-description: Text Classification with Spacy. document categorization.
+description: "Text Classification with Spacy. document categorization."
 category: ai
 tags: [spacy-text-classification, ai, russian]
 models: [sonnet, opus]

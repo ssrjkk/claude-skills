@@ -1,6 +1,6 @@
 ---
 name: containerd-networking
-description: Networking with containerd. container networks.
+description: "Networking with containerd. container networks."
 category: devops
 tags: [containerd-networking, devops, russian]
 models: [sonnet, opus]

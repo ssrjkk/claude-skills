@@ -1,6 +1,6 @@
 ---
 name: svelte-testing
-description: Testing with Svelte. component testing.
+description: "Testing with Svelte. component testing."
 category: frontend
 tags: [svelte, testing, frontend, frontend]
 models: [gpt-4, claude-3]

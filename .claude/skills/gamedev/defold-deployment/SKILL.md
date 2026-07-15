@@ -1,6 +1,6 @@
 ---
 name: defold-deployment
-description: Deployment for Defold: deployment and release
+description: "Deployment for Defold: deployment and release"
 category: gamedev
 tags: [defold, deployment, gamedev]
 models: [sonnet, opus]

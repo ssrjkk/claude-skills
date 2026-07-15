@@ -1,6 +1,6 @@
 ---
 name: polygon-smart-contracts
-description: Smart Contracts with Polygon. contracts.
+description: "Smart Contracts with Polygon. contracts."
 category: blockchain
 tags: [polygon, smart-contracts, blockchain, blockchain]
 models: [gpt-4, claude-3]

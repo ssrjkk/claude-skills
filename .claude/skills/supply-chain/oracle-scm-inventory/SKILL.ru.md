@@ -1,6 +1,6 @@
 ---
 name: oracle-scm-inventory
-description: Inventory with Oracle SCM. inventory mgmt.
+description: "Inventory with Oracle SCM. inventory mgmt."
 category: supply-chain
 tags: [oracle-scm-inventory, supply-chain, russian]
 models: [sonnet, opus]

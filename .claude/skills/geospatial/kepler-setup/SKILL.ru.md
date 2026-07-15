@@ -1,6 +1,6 @@
 ---
 name: kepler-setup
-description: Setup with Kepler.gl. setup.
+description: "Setup with Kepler.gl. setup."
 category: geospatial
 tags: [kepler-setup, geospatial, russian]
 models: [sonnet, opus]

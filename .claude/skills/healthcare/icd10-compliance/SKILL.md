@@ -1,6 +1,6 @@
 ---
 name: icd10-compliance
-description: Compliance with ICD-10. compliance.
+description: "Compliance with ICD-10. compliance."
 category: healthcare
 tags: [icd10, compliance, healthcare, healthcare]
 models: [gpt-4, claude-3]

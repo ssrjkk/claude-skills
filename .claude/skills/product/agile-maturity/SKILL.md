@@ -1,6 +1,6 @@
 ---
 name: agile-maturity
-description: Maturity with Agile. assessment.
+description: "Maturity with Agile. assessment."
 category: product
 tags: [agile, maturity, product, methodology]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: dagster-setup
-description: Setup with Dagster. installation.
+description: "Setup with Dagster. installation."
 category: data
 tags: [dagster-setup, data, russian]
 models: [sonnet, opus]

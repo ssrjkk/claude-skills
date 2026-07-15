@@ -1,6 +1,6 @@
 ---
 name: react-animations
-description: Animations with React. UI animations.
+description: "Animations with React. UI animations."
 category: frontend
 tags: [react, animations, frontend, frontend]
 models: [gpt-4, claude-3]

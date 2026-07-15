@@ -1,6 +1,6 @@
 ---
 name: scylla-indexing
-description: Indexing with ScyllaDB. indexes.
+description: "Indexing with ScyllaDB. indexes."
 category: database
 tags: [scylla-indexing, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kustomize-quickstart
-description: Quickstart for Kustomize: quick start guide
+description: "Quickstart for Kustomize: quick start guide"
 category: devops
 tags: [kustomize-quickstart, devops, russian]
 models: [sonnet, opus]

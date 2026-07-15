@@ -1,6 +1,6 @@
 ---
 name: mongodb-deployment
-description: Deployment for Mongodb: deployment and release
+description: "Deployment for Mongodb: deployment and release"
 category: database
 tags: [mongodb-deployment, database, russian]
 models: [sonnet, opus]

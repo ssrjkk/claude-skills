@@ -1,6 +1,6 @@
 ---
 name: zksync-bridge
-description: Bridge with zkSync. cross-chain.
+description: "Bridge with zkSync. cross-chain."
 category: blockchain
 tags: [zksync-bridge, blockchain, russian]
 models: [sonnet, opus]

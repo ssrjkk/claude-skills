@@ -1,6 +1,6 @@
 ---
 name: podman-setup
-description: Setup with Podman. installation.
+description: "Setup with Podman. installation."
 category: devops
 tags: [podman, setup, devops, container]
 models: [gpt-4, claude-3]

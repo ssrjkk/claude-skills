@@ -1,6 +1,6 @@
 ---
 name: gotest-mocking
-description: Mocking with Go Test. mocks.
+description: "Mocking with Go Test. mocks."
 category: qa
 tags: [gotest-mocking, qa, russian]
 models: [sonnet, opus]

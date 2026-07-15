@@ -1,6 +1,6 @@
 ---
 name: questdb-retention
-description: Retention with QuestDB. data retention.
+description: "Retention with QuestDB. data retention."
 category: database
 tags: [questdb, retention, database, time-series]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: cakephp-routing
-description: Routing with CakePHP. HTTP routing.
+description: "Routing with CakePHP. HTTP routing."
 category: backend
 tags: [cakephp-routing, backend, russian]
 models: [sonnet, opus]

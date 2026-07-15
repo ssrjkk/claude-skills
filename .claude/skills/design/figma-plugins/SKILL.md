@@ -1,6 +1,6 @@
 ---
 name: figma-plugins
-description: Plugins with Figma. plugins.
+description: "Plugins with Figma. plugins."
 category: design
 tags: [figma, plugins, design, design]
 models: [gpt-4, claude-3]

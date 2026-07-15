@@ -1,6 +1,6 @@
 ---
 name: k6-metrics
-description: Metrics with k6. performance metrics.
+description: "Metrics with k6. performance metrics."
 category: qa
 tags: [k6, metrics, qa, performance-testing]
 models: [gpt-4, claude-3]

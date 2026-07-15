@@ -1,6 +1,6 @@
 ---
 name: adyen-refunds
-description: Refunds with Adyen. refunds.
+description: "Refunds with Adyen. refunds."
 category: payments
 tags: [adyen-refunds, payments, russian]
 models: [sonnet, opus]

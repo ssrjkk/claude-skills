@@ -1,6 +1,6 @@
 ---
 name: kafka-connect-best-practices
-description: Best Practices for Kafka-Connect: best practices and patterns
+description: "Best Practices for Kafka-Connect: best practices and patterns"
 category: database
 tags: [kafka-connect, best-practices, database]
 models: [sonnet, opus]

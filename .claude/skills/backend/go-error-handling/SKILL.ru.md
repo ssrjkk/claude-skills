@@ -1,6 +1,6 @@
 ---
 name: go-error-handling
-description: Error Handling with Go. error management.
+description: "Error Handling with Go. error management."
 category: backend
 tags: [go-error-handling, backend, russian]
 models: [sonnet, opus]

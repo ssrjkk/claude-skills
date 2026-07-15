@@ -1,6 +1,6 @@
 ---
 name: nuxt
-description: Creates universal Vue applications with Nuxt 3, file-based routing, SSR, and auto-imports. Use for SEO-friendly Vue apps.
+description: "Creates universal Vue applications with Nuxt 3, file-based routing, SSR, and auto-imports. Use for SEO-friendly Vue apps."
 category: frontend
 tags: [nuxt, vue, ssr, ssg, vue3]
 models: [sonnet, opus]

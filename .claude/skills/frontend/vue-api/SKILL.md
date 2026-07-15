@@ -1,6 +1,6 @@
 ---
 name: vue-api
-description: API for Vue: API development and integration
+description: "API for Vue: API development and integration"
 category: frontend
 tags: [vue, api, frontend]
 models: [sonnet, opus]

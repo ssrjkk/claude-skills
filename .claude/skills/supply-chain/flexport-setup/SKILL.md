@@ -1,6 +1,6 @@
 ---
 name: flexport-setup
-description: Setup with Flexport. setup.
+description: "Setup with Flexport. setup."
 category: supply-chain
 tags: [flexport, setup, supply-chain, logistics]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: buildkite-caching
-description: Caching with Buildkite. dependency caching.
+description: "Caching with Buildkite. dependency caching."
 category: devops
 tags: [buildkite-caching, devops, russian]
 models: [sonnet, opus]

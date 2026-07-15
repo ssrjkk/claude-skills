@@ -1,6 +1,6 @@
 ---
 name: msw-guides
-description: Guides for Msw: how-to guides
+description: "Guides for Msw: how-to guides"
 category: qa
 tags: [msw, guides, qa]
 models: [sonnet, opus]

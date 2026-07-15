@@ -1,6 +1,6 @@
 ---
 name: tornado-testing
-description: Testing with Tornado. integration tests.
+description: "Testing with Tornado. integration tests."
 category: backend
 tags: [tornado-testing, backend, russian]
 models: [sonnet, opus]

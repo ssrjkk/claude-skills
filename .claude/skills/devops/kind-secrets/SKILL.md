@@ -1,6 +1,6 @@
 ---
 name: kind-secrets
-description: Secrets with Kind. secret management.
+description: "Secrets with Kind. secret management."
 category: devops
 tags: [kind, secrets, devops, kubernetes]
 models: [gpt-4, claude-3]

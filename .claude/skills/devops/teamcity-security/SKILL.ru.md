@@ -1,6 +1,6 @@
 ---
 name: teamcity-security
-description: Security with TeamCity. security scanning.
+description: "Security with TeamCity. security scanning."
 category: devops
 tags: [teamcity-security, devops, russian]
 models: [sonnet, opus]

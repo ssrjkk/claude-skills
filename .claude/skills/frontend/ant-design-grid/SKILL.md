@@ -1,6 +1,6 @@
 ---
 name: ant-design-grid
-description: Grid with Ant Design. layout grids.
+description: "Grid with Ant Design. layout grids."
 category: frontend
 tags: [ant-design, grid, frontend, css]
 models: [gpt-4, claude-3]

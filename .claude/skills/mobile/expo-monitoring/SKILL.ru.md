@@ -1,6 +1,6 @@
 ---
 name: expo-monitoring
-description: Monitoring for Expo: monitoring and observability
+description: "Monitoring for Expo: monitoring and observability"
 category: mobile
 tags: [expo-monitoring, mobile, russian]
 models: [sonnet, opus]

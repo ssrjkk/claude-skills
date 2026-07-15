@@ -1,6 +1,6 @@
 ---
 name: hydra-analysis
-description: Analysis with Hydra. analysis.
+description: "Analysis with Hydra. analysis."
 category: security
 tags: [hydra, analysis, security, security-tool]
 models: [gpt-4, claude-3]

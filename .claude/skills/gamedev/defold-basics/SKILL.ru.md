@@ -1,6 +1,6 @@
 ---
 name: defold-basics
-description: Basics for Defold: fundamentals and core concepts
+description: "Basics for Defold: fundamentals and core concepts"
 category: gamedev
 tags: [defold-basics, gamedev, russian]
 models: [sonnet, opus]

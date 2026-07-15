@@ -1,6 +1,6 @@
 ---
 name: wpf-events
-description: Events with WPF. event handling.
+description: "Events with WPF. event handling."
 category: desktop
 tags: [wpf-events, desktop, russian]
 models: [sonnet, opus]

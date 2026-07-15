@@ -1,6 +1,6 @@
 ---
 name: ray-tune-pipeline
-description: Pipeline with Ray Tune. ML pipelines.
+description: "Pipeline with Ray Tune. ML pipelines."
 category: ai
 tags: [ray-tune, pipeline, ai, ml]
 models: [gpt-4, claude-3]

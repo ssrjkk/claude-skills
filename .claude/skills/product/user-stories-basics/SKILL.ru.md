@@ -1,6 +1,6 @@
 ---
 name: user-stories-basics
-description: Basics with User Stories. fundamentals.
+description: "Basics with User Stories. fundamentals."
 category: product
 tags: [user-stories-basics, product, russian]
 models: [sonnet, opus]

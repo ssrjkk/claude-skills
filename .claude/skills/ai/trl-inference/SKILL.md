@@ -1,6 +1,6 @@
 ---
 name: trl-inference
-description: Inference with Trl. running models.
+description: "Inference with Trl. running models."
 category: ai
 tags: [trl, inference, ai, deep-learning]
 models: [gpt-4, claude-3]

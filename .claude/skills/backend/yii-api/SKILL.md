@@ -1,6 +1,6 @@
 ---
 name: yii-api
-description: API with Yii. APIs.
+description: "API with Yii. APIs."
 category: backend
 tags: [yii, api, backend, backend]
 models: [gpt-4, claude-3]

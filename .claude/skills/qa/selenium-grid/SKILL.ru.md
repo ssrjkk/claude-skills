@@ -1,6 +1,6 @@
 ---
 name: selenium-grid
-description: Sets up Selenium Grid for distributed web application testing. Use for parallel test execution.
+description: "Sets up Selenium Grid for distributed web application testing. Use for parallel test execution."
 category: qa
 tags: [selenium-grid, qa, russian]
 models: [sonnet, opus]

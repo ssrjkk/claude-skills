@@ -1,6 +1,6 @@
 ---
 name: react-forms
-description: Forms with React. form handling.
+description: "Forms with React. form handling."
 category: frontend
 tags: [react, forms, frontend, frontend]
 models: [gpt-4, claude-3]

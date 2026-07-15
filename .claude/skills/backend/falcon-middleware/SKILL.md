@@ -1,6 +1,6 @@
 ---
 name: falcon-middleware
-description: Middleware with Falcon. middleware pipelines.
+description: "Middleware with Falcon. middleware pipelines."
 category: backend
 tags: [falcon, middleware, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: paddlepaddle-inference
-description: Inference with Paddlepaddle. running models.
+description: "Inference with Paddlepaddle. running models."
 category: ai
 tags: [paddlepaddle-inference, ai, russian]
 models: [sonnet, opus]

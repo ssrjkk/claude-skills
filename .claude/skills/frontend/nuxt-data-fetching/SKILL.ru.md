@@ -1,6 +1,6 @@
 ---
 name: nuxt-data-fetching
-description: Data Fetching with Nuxt. data loading.
+description: "Data Fetching with Nuxt. data loading."
 category: frontend
 tags: [nuxt-data-fetching, frontend, russian]
 models: [sonnet, opus]

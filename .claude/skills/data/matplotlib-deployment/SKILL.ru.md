@@ -1,6 +1,6 @@
 ---
 name: matplotlib-deployment
-description: Deployment with Matplotlib. app deployment.
+description: "Deployment with Matplotlib. app deployment."
 category: data
 tags: [matplotlib-deployment, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: llama-index-chaining
-description: Chaining with Llama Index. multi-step workflows.
+description: "Chaining with Llama Index. multi-step workflows."
 category: ai
 tags: [llama-index, chaining, ai, llm]
 models: [gpt-4, claude-3]

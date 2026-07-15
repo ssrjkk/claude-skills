@@ -1,6 +1,6 @@
 ---
 name: aws-s3-quickstart
-description: Quickstart for Aws-S3: quick start guide
+description: "Quickstart for Aws-S3: quick start guide"
 category: cloud
 tags: [aws-s3-quickstart, cloud, russian]
 models: [sonnet, opus]

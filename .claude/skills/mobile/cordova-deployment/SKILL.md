@@ -1,6 +1,6 @@
 ---
 name: cordova-deployment
-description: Deployment with Cordova. app store.
+description: "Deployment with Cordova. app store."
 category: mobile
 tags: [cordova, deployment, mobile, mobile]
 models: [gpt-4, claude-3]

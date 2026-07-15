@@ -1,6 +1,6 @@
 ---
 name: cocos-setup
-description: Setup with Cocos Creator. engine setup.
+description: "Setup with Cocos Creator. engine setup."
 category: gamedev
 tags: [cocos-setup, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: pytorch-deployment
-description: Deployment for Pytorch: deployment and release
+description: "Deployment for Pytorch: deployment and release"
 category: ai
 tags: [pytorch, deployment, ai]
 models: [sonnet, opus]

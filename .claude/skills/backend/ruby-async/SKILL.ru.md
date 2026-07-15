@@ -1,6 +1,6 @@
 ---
 name: ruby-async
-description: Async with Ruby. async operations.
+description: "Async with Ruby. async operations."
 category: backend
 tags: [ruby-async, backend, russian]
 models: [sonnet, opus]

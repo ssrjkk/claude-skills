@@ -1,6 +1,6 @@
 ---
 name: nextjs-optimization
-description: Optimization for Nextjs: performance tuning and optimization
+description: "Optimization for Nextjs: performance tuning and optimization"
 category: frontend
 tags: [nextjs, optimization, frontend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: leaflet-setup
-description: Setup with Leaflet. setup.
+description: "Setup with Leaflet. setup."
 category: geospatial
 tags: [leaflet-setup, geospatial, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: k6-debugging
-description: Debugging for K6: debugging and troubleshooting
+description: "Debugging for K6: debugging and troubleshooting"
 category: qa
 tags: [k6-debugging, qa, russian]
 models: [sonnet, opus]

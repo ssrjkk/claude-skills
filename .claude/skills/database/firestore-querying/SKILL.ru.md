@@ -1,6 +1,6 @@
 ---
 name: firestore-querying
-description: Querying with Firestore. queries.
+description: "Querying with Firestore. queries."
 category: database
 tags: [firestore-querying, database, russian]
 models: [sonnet, opus]

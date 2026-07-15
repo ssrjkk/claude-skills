@@ -1,6 +1,6 @@
 ---
 name: usability-testing-basics
-description: Basics with Usability Testing. fundamentals.
+description: "Basics with Usability Testing. fundamentals."
 category: design
 tags: [usability-testing-basics, design, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: marqeta-security
-description: Security with Marqeta. security.
+description: "Security with Marqeta. security."
 category: finance
 tags: [marqeta, security, finance, fintech]
 models: [gpt-4, claude-3]

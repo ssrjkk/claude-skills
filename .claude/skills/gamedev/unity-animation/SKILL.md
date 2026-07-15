@@ -1,6 +1,6 @@
 ---
 name: unity-animation
-description: Animation with Unity. animation.
+description: "Animation with Unity. animation."
 category: gamedev
 tags: [unity, animation, gamedev, game-engine]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: kerberos-implementation
-description: Implementation with Kerberos. implementation.
+description: "Implementation with Kerberos. implementation."
 category: security
 tags: [kerberos, implementation, security, security]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: openlayers-routing
-description: Routing with OpenLayers. routing.
+description: "Routing with OpenLayers. routing."
 category: geospatial
 tags: [openlayers-routing, geospatial, russian]
 models: [sonnet, opus]

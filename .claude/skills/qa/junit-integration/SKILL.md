@@ -1,6 +1,6 @@
 ---
 name: junit-integration
-description: Integration with JUnit. integration tests.
+description: "Integration with JUnit. integration tests."
 category: qa
 tags: [junit, integration, qa, testing]
 models: [gpt-4, claude-3]

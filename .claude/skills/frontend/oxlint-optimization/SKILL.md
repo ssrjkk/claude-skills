@@ -1,6 +1,6 @@
 ---
 name: oxlint-optimization
-description: Optimization with Oxlint. build optimization.
+description: "Optimization with Oxlint. build optimization."
 category: frontend
 tags: [oxlint, optimization, frontend, build-tool]
 models: [gpt-4, claude-3]

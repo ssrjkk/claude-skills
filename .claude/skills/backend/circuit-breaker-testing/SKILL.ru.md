@@ -1,6 +1,6 @@
 ---
 name: circuit-breaker-testing
-description: Testing with Circuit Breaker. testing the pattern.
+description: "Testing with Circuit Breaker. testing the pattern."
 category: backend
 tags: [circuit-breaker-testing, backend, russian]
 models: [sonnet, opus]

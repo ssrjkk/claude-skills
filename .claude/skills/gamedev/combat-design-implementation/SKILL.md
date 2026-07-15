@@ -1,6 +1,6 @@
 ---
 name: combat-design-implementation
-description: Implementation with Combat Design. implementation.
+description: "Implementation with Combat Design. implementation."
 category: gamedev
 tags: [combat-design, implementation, gamedev, game-design]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: sd-wan-design
-description: Design with SD-WAN. network design.
+description: "Design with SD-WAN. network design."
 category: networking
 tags: [sd-wan-design, networking, russian]
 models: [sonnet, opus]

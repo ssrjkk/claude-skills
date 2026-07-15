@@ -1,6 +1,6 @@
 ---
 name: safe-metrics
-description: Metrics with SAFe. measurement.
+description: "Metrics with SAFe. measurement."
 category: product
 tags: [safe, metrics, product, methodology]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: event-storming-modeling
-description: Modeling with Event Storming. system modeling.
+description: "Modeling with Event Storming. system modeling."
 category: engineering
 tags: [event-storming, modeling, engineering, modeling]
 models: [gpt-4, claude-3]

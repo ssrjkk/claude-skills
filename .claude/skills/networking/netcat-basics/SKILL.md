@@ -1,6 +1,6 @@
 ---
 name: netcat-basics
-description: Basics with netcat. basic usage.
+description: "Basics with netcat. basic usage."
 category: networking
 tags: [netcat, basics, networking, networking-tool]
 models: [gpt-4, claude-3]

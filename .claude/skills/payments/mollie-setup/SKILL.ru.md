@@ -1,6 +1,6 @@
 ---
 name: mollie-setup
-description: Setup with Mollie. account setup.
+description: "Setup with Mollie. account setup."
 category: payments
 tags: [mollie-setup, payments, russian]
 models: [sonnet, opus]

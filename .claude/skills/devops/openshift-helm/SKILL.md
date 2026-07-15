@@ -1,6 +1,6 @@
 ---
 name: openshift-helm
-description: Helm with OpenShift. package management.
+description: "Helm with OpenShift. package management."
 category: devops
 tags: [openshift, helm, devops, kubernetes]
 models: [gpt-4, claude-3]

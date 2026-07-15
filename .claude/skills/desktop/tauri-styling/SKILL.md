@@ -1,6 +1,6 @@
 ---
 name: tauri-styling
-description: Styling with Tauri. styling.
+description: "Styling with Tauri. styling."
 category: desktop
 tags: [tauri, styling, desktop, desktop]
 models: [gpt-4, claude-3]

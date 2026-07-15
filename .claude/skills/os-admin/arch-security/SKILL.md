@@ -1,6 +1,6 @@
 ---
 name: arch-security
-description: Security with Arch Linux. hardening.
+description: "Security with Arch Linux. hardening."
 category: os-admin
 tags: [arch, security, os-admin, linux]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: xamarin-basics
-description: Basics for Xamarin: fundamentals and core concepts
+description: "Basics for Xamarin: fundamentals and core concepts"
 category: mobile
 tags: [xamarin-basics, mobile, russian]
 models: [sonnet, opus]

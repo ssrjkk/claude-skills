@@ -1,6 +1,6 @@
 ---
 name: manhattan-transportation
-description: Transportation with Manhattan Associates. TMS.
+description: "Transportation with Manhattan Associates. TMS."
 category: supply-chain
 tags: [manhattan-transportation, supply-chain, russian]
 models: [sonnet, opus]

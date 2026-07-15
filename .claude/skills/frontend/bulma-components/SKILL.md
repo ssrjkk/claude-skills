@@ -1,6 +1,6 @@
 ---
 name: bulma-components
-description: Components with Bulma. UI components.
+description: "Components with Bulma. UI components."
 category: frontend
 tags: [bulma, components, frontend, css]
 models: [gpt-4, claude-3]

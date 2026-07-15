@@ -1,6 +1,6 @@
 ---
 name: tensorflow-basics
-description: Basics for Tensorflow: fundamentals and core concepts
+description: "Basics for Tensorflow: fundamentals and core concepts"
 category: ai
 tags: [tensorflow, basics, ai]
 models: [sonnet, opus]

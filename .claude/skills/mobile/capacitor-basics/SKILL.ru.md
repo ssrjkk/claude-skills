@@ -1,6 +1,6 @@
 ---
 name: capacitor-basics
-description: Basics for Capacitor: fundamentals and core concepts
+description: "Basics for Capacitor: fundamentals and core concepts"
 category: mobile
 tags: [capacitor-basics, mobile, russian]
 models: [sonnet, opus]

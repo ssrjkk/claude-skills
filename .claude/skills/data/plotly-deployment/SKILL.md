@@ -1,6 +1,6 @@
 ---
 name: plotly-deployment
-description: Deployment with Plotly. app deployment.
+description: "Deployment with Plotly. app deployment."
 category: data
 tags: [plotly, deployment, data, data-science]
 models: [gpt-4, claude-3]

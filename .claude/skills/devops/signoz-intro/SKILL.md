@@ -1,6 +1,6 @@
 ---
 name: signoz-intro
-description: Intro for Signoz: introduction
+description: "Intro for Signoz: introduction"
 category: devops
 tags: [signoz, intro, devops]
 models: [sonnet, opus]

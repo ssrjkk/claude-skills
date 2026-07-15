@@ -1,6 +1,6 @@
 ---
 name: saleor-content
-description: Content with Saleor. content management.
+description: "Content with Saleor. content management."
 category: ecommerce
 tags: [saleor-content, ecommerce, russian]
 models: [sonnet, opus]

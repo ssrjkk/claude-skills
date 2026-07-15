@@ -1,6 +1,6 @@
 ---
 name: cakephp-auth
-description: Auth with CakePHP. authentication.
+description: "Auth with CakePHP. authentication."
 category: backend
 tags: [cakephp, auth, backend, backend]
 models: [gpt-4, claude-3]

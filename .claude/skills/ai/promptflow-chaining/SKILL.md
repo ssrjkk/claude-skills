@@ -1,6 +1,6 @@
 ---
 name: promptflow-chaining
-description: Chaining with Promptflow. multi-step workflows.
+description: "Chaining with Promptflow. multi-step workflows."
 category: ai
 tags: [promptflow, chaining, ai, llm]
 models: [gpt-4, claude-3]

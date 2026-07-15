@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-optimization
-description: Optimization with RPG Maker. performance.
+description: "Optimization with RPG Maker. performance."
 category: gamedev
 tags: [rpgmaker-optimization, gamedev, russian]
 models: [sonnet, opus]

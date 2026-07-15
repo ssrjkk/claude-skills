@@ -1,6 +1,6 @@
 ---
 name: pytest-setup
-description: Setup with pytest. installation.
+description: "Setup with pytest. installation."
 category: qa
 tags: [pytest-setup, qa, russian]
 models: [sonnet, opus]

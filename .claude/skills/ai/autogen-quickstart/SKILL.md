@@ -1,6 +1,6 @@
 ---
 name: autogen-quickstart
-description: Quickstart for Autogen: quick start guide
+description: "Quickstart for Autogen: quick start guide"
 category: ai
 tags: [autogen, quickstart, ai]
 models: [sonnet, opus]

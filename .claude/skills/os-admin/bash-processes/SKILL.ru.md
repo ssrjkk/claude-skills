@@ -1,6 +1,6 @@
 ---
 name: bash-processes
-description: Processes with Bash Scripting. process management.
+description: "Processes with Bash Scripting. process management."
 category: os-admin
 tags: [bash-processes, os-admin, russian]
 models: [sonnet, opus]

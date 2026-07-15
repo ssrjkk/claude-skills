@@ -1,6 +1,6 @@
 ---
 name: aws-s3-examples
-description: Examples for Aws-S3: practical examples
+description: "Examples for Aws-S3: practical examples"
 category: cloud
 tags: [aws-s3-examples, cloud, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: swiftui-getting-started
-description: Getting Started for Swiftui: initial setup and first steps
+description: "Getting Started for Swiftui: initial setup and first steps"
 category: mobile
 tags: [swiftui-getting-started, mobile, russian]
 models: [sonnet, opus]

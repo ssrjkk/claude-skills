@@ -1,6 +1,6 @@
 ---
 name: esphome-automation
-description: Automation with ESPHome. automation.
+description: "Automation with ESPHome. automation."
 category: iot
 tags: [esphome-automation, iot, russian]
 models: [sonnet, opus]

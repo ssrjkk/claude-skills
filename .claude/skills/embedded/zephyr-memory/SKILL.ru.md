@@ -1,6 +1,6 @@
 ---
 name: zephyr-memory
-description: Memory with Zephyr. memory management.
+description: "Memory with Zephyr. memory management."
 category: embedded
 tags: [zephyr-memory, embedded, russian]
 models: [sonnet, opus]

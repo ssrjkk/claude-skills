@@ -1,6 +1,6 @@
 ---
 name: arch-setup
-description: Setup with Arch Linux. installation.
+description: "Setup with Arch Linux. installation."
 category: os-admin
 tags: [arch, setup, os-admin, linux]
 models: [gpt-4, claude-3]

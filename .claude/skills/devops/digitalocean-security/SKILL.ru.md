@@ -1,6 +1,6 @@
 ---
 name: digitalocean-security
-description: Security with DigitalOcean. cloud security.
+description: "Security with DigitalOcean. cloud security."
 category: devops
 tags: [digitalocean-security, devops, russian]
 models: [sonnet, opus]

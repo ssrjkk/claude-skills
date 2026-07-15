@@ -1,6 +1,6 @@
 ---
 name: polars-transformation
-description: Transformation with Polars. transform.
+description: "Transformation with Polars. transform."
 category: data
 tags: [polars, transformation, data, data-science]
 models: [gpt-4, claude-3]

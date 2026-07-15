@@ -1,6 +1,6 @@
 ---
 name: polkadot-defi
-description: DeFi with Polkadot. DeFi.
+description: "DeFi with Polkadot. DeFi."
 category: blockchain
 tags: [polkadot, defi, blockchain, blockchain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: qgis-data
-description: Data with QGIS. geospatial data.
+description: "Data with QGIS. geospatial data."
 category: geospatial
 tags: [qgis-data, geospatial, russian]
 models: [sonnet, opus]

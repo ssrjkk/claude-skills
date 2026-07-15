@@ -1,6 +1,6 @@
 ---
 name: svelte-performance
-description: Performance with Svelte. optimization.
+description: "Performance with Svelte. optimization."
 category: frontend
 tags: [svelte, performance, frontend, frontend]
 models: [gpt-4, claude-3]

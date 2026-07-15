@@ -1,6 +1,6 @@
 ---
 name: drone-secrets
-description: Secrets with Drone CI. secret management.
+description: "Secrets with Drone CI. secret management."
 category: devops
 tags: [drone-secrets, devops, russian]
 models: [sonnet, opus]

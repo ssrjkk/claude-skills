@@ -1,6 +1,6 @@
 ---
 name: cohere-monitoring
-description: Monitoring for Cohere: monitoring and observability
+description: "Monitoring for Cohere: monitoring and observability"
 category: ai
 tags: [cohere-monitoring, ai, russian]
 models: [sonnet, opus]

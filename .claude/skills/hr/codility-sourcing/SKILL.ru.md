@@ -1,6 +1,6 @@
 ---
 name: codility-sourcing
-description: Sourcing with Codility. candidate sourcing.
+description: "Sourcing with Codility. candidate sourcing."
 category: hr
 tags: [codility-sourcing, hr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: delta-lake-configuration
-description: Configuration for Delta-Lake: configuration and setup
+description: "Configuration for Delta-Lake: configuration and setup"
 category: data
 tags: [delta-lake, configuration, data]
 models: [sonnet, opus]

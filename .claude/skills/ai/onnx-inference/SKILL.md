@@ -1,6 +1,6 @@
 ---
 name: onnx-inference
-description: Inference with Onnx. running models.
+description: "Inference with Onnx. running models."
 category: ai
 tags: [onnx, inference, ai, deep-learning]
 models: [gpt-4, claude-3]

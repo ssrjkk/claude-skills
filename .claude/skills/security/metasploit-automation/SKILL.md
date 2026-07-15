@@ -1,6 +1,6 @@
 ---
 name: metasploit-automation
-description: Automation with Metasploit. automation.
+description: "Automation with Metasploit. automation."
 category: security
 tags: [metasploit, automation, security, security-tool]
 models: [gpt-4, claude-3]

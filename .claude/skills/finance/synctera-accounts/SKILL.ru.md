@@ -1,6 +1,6 @@
 ---
 name: synctera-accounts
-description: Accounts with Synctera. account linking.
+description: "Accounts with Synctera. account linking."
 category: finance
 tags: [synctera-accounts, finance, russian]
 models: [sonnet, opus]

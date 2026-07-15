@@ -1,6 +1,6 @@
 ---
 name: pki-incident-response
-description: Incident Response with PKI. incident response.
+description: "Incident Response with PKI. incident response."
 category: security
 tags: [pki, incident-response, security, security]
 models: [gpt-4, claude-3]

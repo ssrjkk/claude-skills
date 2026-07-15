@@ -1,6 +1,6 @@
 ---
 name: itil-facilitation
-description: Facilitation with ITIL. sessions.
+description: "Facilitation with ITIL. sessions."
 category: product
 tags: [itil, facilitation, product, methodology]
 models: [gpt-4, claude-3]

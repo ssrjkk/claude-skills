@@ -1,6 +1,6 @@
 ---
 name: cosmos-nft
-description: NFT with Cosmos. tokens.
+description: "NFT with Cosmos. tokens."
 category: blockchain
 tags: [cosmos-nft, blockchain, russian]
 models: [sonnet, opus]

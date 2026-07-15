@@ -1,6 +1,6 @@
 ---
 name: steamvr-interaction
-description: Interaction with SteamVR. hand tracking.
+description: "Interaction with SteamVR. hand tracking."
 category: ar-vr
 tags: [steamvr, interaction, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

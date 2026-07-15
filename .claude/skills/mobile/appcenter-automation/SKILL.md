@@ -1,6 +1,6 @@
 ---
 name: appcenter-automation
-description: Automation for Appcenter: automation and scripting
+description: "Automation for Appcenter: automation and scripting"
 category: mobile
 tags: [appcenter, automation, mobile]
 models: [sonnet, opus]

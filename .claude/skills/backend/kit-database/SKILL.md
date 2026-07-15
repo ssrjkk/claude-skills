@@ -1,6 +1,6 @@
 ---
 name: kit-database
-description: Database with Go Kit. DB access.
+description: "Database with Go Kit. DB access."
 category: backend
 tags: [kit, database, backend, backend]
 models: [gpt-4, claude-3]

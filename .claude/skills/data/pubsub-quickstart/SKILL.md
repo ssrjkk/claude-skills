@@ -1,6 +1,6 @@
 ---
 name: pubsub-quickstart
-description: Quickstart for Pubsub: quick start guide
+description: "Quickstart for Pubsub: quick start guide"
 category: data
 tags: [pubsub, quickstart, data]
 models: [sonnet, opus]

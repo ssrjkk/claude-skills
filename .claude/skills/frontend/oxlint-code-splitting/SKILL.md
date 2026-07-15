@@ -1,6 +1,6 @@
 ---
 name: oxlint-code-splitting
-description: Code Splitting with Oxlint. lazy loading.
+description: "Code Splitting with Oxlint. lazy loading."
 category: frontend
 tags: [oxlint, code-splitting, frontend, build-tool]
 models: [gpt-4, claude-3]

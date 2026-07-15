@@ -1,6 +1,6 @@
 ---
 name: a-b-testing-analysis
-description: Analysis with A/B Testing. data analysis.
+description: "Analysis with A/B Testing. data analysis."
 category: design
 tags: [a-b-testing, analysis, design, ux-research]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: play-testing
-description: Testing with Play. unit tests.
+description: "Testing with Play. unit tests."
 category: backend
 tags: [play, testing, backend, backend]
 models: [gpt-4, claude-3]

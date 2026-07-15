@@ -1,6 +1,6 @@
 ---
 name: clearml-monitoring
-description: Monitoring with Clearml. model monitoring.
+description: "Monitoring with Clearml. model monitoring."
 category: ai
 tags: [clearml-monitoring, ai, russian]
 models: [sonnet, opus]

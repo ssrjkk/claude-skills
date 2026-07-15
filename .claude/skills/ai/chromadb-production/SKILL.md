@@ -1,6 +1,6 @@
 ---
 name: chromadb-production
-description: Production for Chromadb: production deployment
+description: "Production for Chromadb: production deployment"
 category: ai
 tags: [chromadb, production, ai]
 models: [sonnet, opus]

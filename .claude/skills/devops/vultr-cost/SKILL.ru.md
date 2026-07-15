@@ -1,6 +1,6 @@
 ---
 name: vultr-cost
-description: Cost with Vultr. cost optimization.
+description: "Cost with Vultr. cost optimization."
 category: devops
 tags: [vultr-cost, devops, russian]
 models: [sonnet, opus]

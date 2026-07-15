@@ -1,6 +1,6 @@
 ---
 name: commercetools-analytics
-description: Analytics with commercetools. analytics.
+description: "Analytics with commercetools. analytics."
 category: ecommerce
 tags: [commercetools, analytics, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: buffalo-middleware
-description: Middleware with Buffalo. request pipeline.
+description: "Middleware with Buffalo. request pipeline."
 category: backend
 tags: [buffalo, middleware, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: hashcat-scanning
-description: Scanning with Hashcat. security scanning.
+description: "Scanning with Hashcat. security scanning."
 category: security
 tags: [hashcat-scanning, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: openshift-monitoring
-description: Monitoring with OpenShift. monitoring.
+description: "Monitoring with OpenShift. monitoring."
 category: devops
 tags: [openshift, monitoring, devops, kubernetes]
 models: [gpt-4, claude-3]

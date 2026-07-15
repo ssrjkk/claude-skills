@@ -1,6 +1,6 @@
 ---
 name: meilisearch-monitoring
-description: Monitoring with Meilisearch. cluster monitoring.
+description: "Monitoring with Meilisearch. cluster monitoring."
 category: database
 tags: [meilisearch-monitoring, database, russian]
 models: [sonnet, opus]

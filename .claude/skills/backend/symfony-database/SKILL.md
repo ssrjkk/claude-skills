@@ -1,6 +1,6 @@
 ---
 name: symfony-database
-description: Database with Symfony. Eloquent.
+description: "Database with Symfony. Eloquent."
 category: backend
 tags: [symfony, database, backend, backend]
 models: [gpt-4, claude-3]

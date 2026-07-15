@@ -1,6 +1,6 @@
 ---
 name: tide-routing
-description: Routing with Tide. HTTP routing.
+description: "Routing with Tide. HTTP routing."
 category: backend
 tags: [tide, routing, backend, backend]
 models: [gpt-4, claude-3]

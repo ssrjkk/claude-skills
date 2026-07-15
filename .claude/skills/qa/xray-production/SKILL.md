@@ -1,6 +1,6 @@
 ---
 name: xray-production
-description: Production for Xray: production deployment
+description: "Production for Xray: production deployment"
 category: qa
 tags: [xray, production, qa]
 models: [sonnet, opus]

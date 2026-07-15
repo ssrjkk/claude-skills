@@ -1,6 +1,6 @@
 ---
 name: airflow-basics
-description: Basics for Airflow: fundamentals and core concepts
+description: "Basics for Airflow: fundamentals and core concepts"
 category: data
 tags: [airflow, basics, data]
 models: [sonnet, opus]

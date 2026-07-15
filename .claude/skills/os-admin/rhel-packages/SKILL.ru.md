@@ -1,6 +1,6 @@
 ---
 name: rhel-packages
-description: Packages with RHEL. package management.
+description: "Packages with RHEL. package management."
 category: os-admin
 tags: [rhel-packages, os-admin, russian]
 models: [sonnet, opus]

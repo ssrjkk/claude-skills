@@ -1,6 +1,6 @@
 ---
 name: onnx-transfer-learning
-description: Transfer Learning with Onnx. transfer learning.
+description: "Transfer Learning with Onnx. transfer learning."
 category: ai
 tags: [onnx, transfer-learning, ai, deep-learning]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: smart-meter-implementation
-description: Implementation with Smart Metering. deployment.
+description: "Implementation with Smart Metering. deployment."
 category: energy
 tags: [smart-meter, implementation, energy, smart-grid]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: scikit-learn-pipeline
-description: Pipeline with Scikit Learn. ML pipelines.
+description: "Pipeline with Scikit Learn. ML pipelines."
 category: ai
 tags: [scikit-learn-pipeline, ai, russian]
 models: [sonnet, opus]

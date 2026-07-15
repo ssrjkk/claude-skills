@@ -1,6 +1,6 @@
 ---
 name: postgresql-basics
-description: Basics for Postgresql: fundamentals and core concepts
+description: "Basics for Postgresql: fundamentals and core concepts"
 category: database
 tags: [postgresql-basics, database, russian]
 models: [sonnet, opus]

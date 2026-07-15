@@ -1,6 +1,6 @@
 ---
 name: hono-middleware
-description: Middleware with Hono. request pipeline.
+description: "Middleware with Hono. request pipeline."
 category: backend
 tags: [hono, middleware, backend, backend]
 models: [gpt-4, claude-3]

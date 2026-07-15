@@ -1,6 +1,6 @@
 ---
 name: game-economy-tools
-description: Tools with Game Economy. tools.
+description: "Tools with Game Economy. tools."
 category: gamedev
 tags: [game-economy, tools, gamedev, game-design]
 models: [gpt-4, claude-3]

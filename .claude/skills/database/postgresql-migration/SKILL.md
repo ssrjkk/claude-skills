@@ -1,6 +1,6 @@
 ---
 name: postgresql-migration
-description: Migration with PostgreSQL. schema migrations.
+description: "Migration with PostgreSQL. schema migrations."
 category: database
 tags: [postgresql, migration, database, sql]
 models: [gpt-4, claude-3]

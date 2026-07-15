@@ -1,6 +1,6 @@
 ---
 name: symfony-auth
-description: Auth with Symfony. authentication.
+description: "Auth with Symfony. authentication."
 category: backend
 tags: [symfony, auth, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: jetson
-description: Development with Jetson: tools and best practices
+description: "Development with Jetson: tools and best practices"
 category: security
 tags: [jetson, security, development]
 models: [sonnet, opus]

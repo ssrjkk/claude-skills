@@ -1,6 +1,6 @@
 ---
 name: jobs-to-be-done-metrics
-description: Metrics with Jobs to be Done. measurement.
+description: "Metrics with Jobs to be Done. measurement."
 category: product
 tags: [jobs-to-be-done-metrics, product, russian]
 models: [sonnet, opus]

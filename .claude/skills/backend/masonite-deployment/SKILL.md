@@ -1,6 +1,6 @@
 ---
 name: masonite-deployment
-description: Deployment with Masonite. production deploy.
+description: "Deployment with Masonite. production deploy."
 category: backend
 tags: [masonite, deployment, backend, backend]
 models: [gpt-4, claude-3]

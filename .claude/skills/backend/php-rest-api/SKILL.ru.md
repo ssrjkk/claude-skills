@@ -1,6 +1,6 @@
 ---
 name: php-rest-api
-description: REST API with Php. building REST APIs.
+description: "REST API with Php. building REST APIs."
 category: backend
 tags: [php-rest-api, backend, russian]
 models: [sonnet, opus]

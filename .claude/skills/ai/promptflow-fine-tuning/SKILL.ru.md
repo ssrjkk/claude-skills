@@ -1,6 +1,6 @@
 ---
 name: promptflow-fine-tuning
-description: Fine-Tuning with Promptflow. model customization.
+description: "Fine-Tuning with Promptflow. model customization."
 category: ai
 tags: [promptflow-fine-tuning, ai, russian]
 models: [sonnet, opus]

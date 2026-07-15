@@ -1,6 +1,6 @@
 ---
 name: vxworks-synchronization
-description: Sync with VxWorks. mutexes.
+description: "Sync with VxWorks. mutexes."
 category: embedded
 tags: [vxworks-synchronization, embedded, russian]
 models: [sonnet, opus]

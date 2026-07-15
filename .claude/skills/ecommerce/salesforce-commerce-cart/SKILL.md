@@ -1,6 +1,6 @@
 ---
 name: salesforce-commerce-cart
-description: Cart with Salesforce Commerce. cart.
+description: "Cart with Salesforce Commerce. cart."
 category: ecommerce
 tags: [salesforce-commerce, cart, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

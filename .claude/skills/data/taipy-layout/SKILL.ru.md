@@ -1,6 +1,6 @@
 ---
 name: taipy-layout
-description: Layout with Taipy. app layout.
+description: "Layout with Taipy. app layout."
 category: data
 tags: [taipy-layout, data, russian]
 models: [sonnet, opus]

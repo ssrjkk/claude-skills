@@ -1,6 +1,6 @@
 ---
 name: compositing-setup
-description: Setup with Compositing. setup.
+description: "Setup with Compositing. setup."
 category: media
 tags: [compositing, setup, media, media-production]
 models: [gpt-4, claude-3]

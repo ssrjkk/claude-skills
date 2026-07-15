@@ -1,6 +1,6 @@
 ---
 name: jotai-devtools
-description: DevTools with Jotai. debugging.
+description: "DevTools with Jotai. debugging."
 category: frontend
 tags: [jotai-devtools, frontend, russian]
 models: [sonnet, opus]

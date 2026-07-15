@@ -1,6 +1,6 @@
 ---
 name: opensearch-scoring
-description: Scoring with OpenSearch. relevance scoring.
+description: "Scoring with OpenSearch. relevance scoring."
 category: database
 tags: [opensearch-scoring, database, russian]
 models: [sonnet, opus]

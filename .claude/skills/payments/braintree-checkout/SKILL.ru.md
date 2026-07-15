@@ -1,6 +1,6 @@
 ---
 name: braintree-checkout
-description: Checkout with Braintree. checkout flow.
+description: "Checkout with Braintree. checkout flow."
 category: payments
 tags: [braintree-checkout, payments, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: prefect-monitoring
-description: Monitoring with Prefect. monitoring.
+description: "Monitoring with Prefect. monitoring."
 category: data
 tags: [prefect-monitoring, data, russian]
 models: [sonnet, opus]

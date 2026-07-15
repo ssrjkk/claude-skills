@@ -1,6 +1,6 @@
 ---
 name: play-database
-description: Database with Play. DB access.
+description: "Database with Play. DB access."
 category: backend
 tags: [play-database, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sagemath-numerical
-description: Numerical with SageMath. numerical methods.
+description: "Numerical with SageMath. numerical methods."
 category: scientific
 tags: [sagemath, numerical, scientific, scientific-computing]
 models: [gpt-4, claude-3]

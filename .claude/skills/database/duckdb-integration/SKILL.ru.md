@@ -1,6 +1,6 @@
 ---
 name: duckdb-integration
-description: Integration for Duckdb: integration with other tools
+description: "Integration for Duckdb: integration with other tools"
 category: database
 tags: [duckdb-integration, database, russian]
 models: [sonnet, opus]

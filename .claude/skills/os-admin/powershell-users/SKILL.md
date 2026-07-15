@@ -1,6 +1,6 @@
 ---
 name: powershell-users
-description: Users with PowerShell. user mgmt.
+description: "Users with PowerShell. user mgmt."
 category: os-admin
 tags: [powershell, users, os-admin, windows]
 models: [gpt-4, claude-3]

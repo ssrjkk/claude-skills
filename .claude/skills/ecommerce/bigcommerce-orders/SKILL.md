@@ -1,6 +1,6 @@
 ---
 name: bigcommerce-orders
-description: Orders with BigCommerce. order management.
+description: "Orders with BigCommerce. order management."
 category: ecommerce
 tags: [bigcommerce, orders, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

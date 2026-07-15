@@ -1,6 +1,6 @@
 ---
 name: cakephp-api
-description: API with CakePHP. APIs.
+description: "API with CakePHP. APIs."
 category: backend
 tags: [cakephp-api, backend, russian]
 models: [sonnet, opus]

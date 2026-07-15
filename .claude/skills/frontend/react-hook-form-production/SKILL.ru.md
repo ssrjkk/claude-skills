@@ -1,6 +1,6 @@
 ---
 name: react-hook-form-production
-description: Production for React-Hook-Form: production deployment
+description: "Production for React-Hook-Form: production deployment"
 category: frontend
 tags: [react-hook-form-production, frontend, russian]
 models: [sonnet, opus]

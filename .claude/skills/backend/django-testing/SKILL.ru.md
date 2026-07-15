@@ -1,6 +1,6 @@
 ---
 name: django-testing
-description: Testing with Django. integration tests.
+description: "Testing with Django. integration tests."
 category: backend
 tags: [django-testing, backend, russian]
 models: [sonnet, opus]

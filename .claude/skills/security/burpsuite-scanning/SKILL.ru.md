@@ -1,6 +1,6 @@
 ---
 name: burpsuite-scanning
-description: Scanning with Burp Suite. security scanning.
+description: "Scanning with Burp Suite. security scanning."
 category: security
 tags: [burpsuite-scanning, security, russian]
 models: [sonnet, opus]

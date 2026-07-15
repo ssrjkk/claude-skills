@@ -1,6 +1,6 @@
 ---
 name: zeplin-plugins
-description: Plugins with Zeplin. plugins.
+description: "Plugins with Zeplin. plugins."
 category: design
 tags: [zeplin, plugins, design, design]
 models: [gpt-4, claude-3]

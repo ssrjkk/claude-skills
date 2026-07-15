@@ -1,6 +1,6 @@
 ---
 name: swiftui-integration
-description: Integration for Swiftui: integration with other tools
+description: "Integration for Swiftui: integration with other tools"
 category: mobile
 tags: [swiftui-integration, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: preact-performance
-description: Performance with Preact. optimization.
+description: "Performance with Preact. optimization."
 category: frontend
 tags: [preact-performance, frontend, russian]
 models: [sonnet, opus]

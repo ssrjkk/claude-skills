@@ -1,6 +1,6 @@
 ---
 name: drawio-modeling
-description: Modeling with Draw.io. system modeling.
+description: "Modeling with Draw.io. system modeling."
 category: engineering
 tags: [drawio, modeling, engineering, modeling]
 models: [gpt-4, claude-3]

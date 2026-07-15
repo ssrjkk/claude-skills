@@ -1,6 +1,6 @@
 ---
 name: set-up-gitlab-ci-cd-pipeline
-description: Configure automated build, test, and deployment pipeline using GitLab CI
+description: "Configure automated build, test, and deployment pipeline using GitLab CI"
 category: devops
 tags: [set-up-gitlab-ci-cd-pipeline, devops, russian]
 models: [sonnet, opus]

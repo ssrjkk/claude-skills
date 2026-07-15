@@ -1,6 +1,6 @@
 ---
 name: sentence-transformers-similarity
-description: Similarity with Sentence Transformers. text similarity.
+description: "Similarity with Sentence Transformers. text similarity."
 category: ai
 tags: [sentence-transformers, similarity, ai, nlp]
 models: [gpt-4, claude-3]

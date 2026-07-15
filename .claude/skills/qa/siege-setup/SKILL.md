@@ -1,6 +1,6 @@
 ---
 name: siege-setup
-description: Setup with Siege. installation.
+description: "Setup with Siege. installation."
 category: qa
 tags: [siege, setup, qa, performance-testing]
 models: [gpt-4, claude-3]

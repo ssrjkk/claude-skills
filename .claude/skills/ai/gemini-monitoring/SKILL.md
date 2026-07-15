@@ -1,6 +1,6 @@
 ---
 name: gemini-monitoring
-description: Monitoring for Gemini: monitoring and observability
+description: "Monitoring for Gemini: monitoring and observability"
 category: ai
 tags: [gemini, monitoring, ai]
 models: [sonnet, opus]

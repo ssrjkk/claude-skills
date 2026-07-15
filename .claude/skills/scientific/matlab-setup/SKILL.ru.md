@@ -1,6 +1,6 @@
 ---
 name: matlab-setup
-description: Setup with MATLAB. installation.
+description: "Setup with MATLAB. installation."
 category: scientific
 tags: [matlab-setup, scientific, russian]
 models: [sonnet, opus]

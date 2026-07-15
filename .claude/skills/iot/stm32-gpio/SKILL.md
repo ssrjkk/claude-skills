@@ -1,6 +1,6 @@
 ---
 name: stm32-gpio
-description: GPIO with STM32. digital I/O.
+description: "GPIO with STM32. digital I/O."
 category: iot
 tags: [stm32, gpio, iot, iot]
 models: [gpt-4, claude-3]

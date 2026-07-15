@@ -1,6 +1,6 @@
 ---
 name: travis-ci-setup
-description: Setup with Travis CI. pipeline setup.
+description: "Setup with Travis CI. pipeline setup."
 category: devops
 tags: [travis-ci, setup, devops, ci-cd]
 models: [gpt-4, claude-3]

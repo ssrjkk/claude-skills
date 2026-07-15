@@ -1,6 +1,6 @@
 ---
 name: cassandra-optimization
-description: Optimization with Cassandra. performance.
+description: "Optimization with Cassandra. performance."
 category: database
 tags: [cassandra-optimization, database, russian]
 models: [sonnet, opus]

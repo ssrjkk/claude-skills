@@ -1,6 +1,6 @@
 ---
 name: haskell-dependency-injection
-description: DI with Haskell. DI containers.
+description: "DI with Haskell. DI containers."
 category: backend
 tags: [haskell, dependency-injection, backend, backend]
 models: [gpt-4, claude-3]

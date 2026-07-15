@@ -1,6 +1,6 @@
 ---
 name: apache-beam-sql
-description: SQL with Apache Beam. SQL queries.
+description: "SQL with Apache Beam. SQL queries."
 category: data
 tags: [apache-beam, sql, data, data-engineering]
 models: [gpt-4, claude-3]

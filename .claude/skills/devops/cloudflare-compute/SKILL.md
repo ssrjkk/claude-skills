@@ -1,6 +1,6 @@
 ---
 name: cloudflare-compute
-description: Compute with Cloudflare. VM/compute.
+description: "Compute with Cloudflare. VM/compute."
 category: devops
 tags: [cloudflare, compute, devops, cloud]
 models: [gpt-4, claude-3]

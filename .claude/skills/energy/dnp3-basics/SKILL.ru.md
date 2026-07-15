@@ -1,6 +1,6 @@
 ---
 name: dnp3-basics
-description: Basics with DNP3. fundamentals.
+description: "Basics with DNP3. fundamentals."
 category: energy
 tags: [dnp3-basics, energy, russian]
 models: [sonnet, opus]

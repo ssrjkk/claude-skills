@@ -1,6 +1,6 @@
 ---
 name: raspberry-pi-actuators
-description: Actuators with Raspberry Pi. motors.
+description: "Actuators with Raspberry Pi. motors."
 category: iot
 tags: [raspberry-pi, actuators, iot, iot]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: lightgbm-monitoring
-description: Monitoring with Lightgbm. model monitoring.
+description: "Monitoring with Lightgbm. model monitoring."
 category: ai
 tags: [lightgbm-monitoring, ai, russian]
 models: [sonnet, opus]

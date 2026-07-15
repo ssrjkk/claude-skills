@@ -1,6 +1,6 @@
 ---
 name: webdriverio-mobile
-description: Mobile with WebdriverIO. mobile testing.
+description: "Mobile with WebdriverIO. mobile testing."
 category: qa
 tags: [webdriverio, mobile, qa, e2e]
 models: [gpt-4, claude-3]

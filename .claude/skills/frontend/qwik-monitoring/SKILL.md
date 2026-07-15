@@ -1,6 +1,6 @@
 ---
 name: qwik-monitoring
-description: Monitoring for Qwik: monitoring and observability
+description: "Monitoring for Qwik: monitoring and observability"
 category: frontend
 tags: [qwik, monitoring, frontend]
 models: [sonnet, opus]

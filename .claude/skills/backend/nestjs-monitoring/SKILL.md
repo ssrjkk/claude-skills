@@ -1,6 +1,6 @@
 ---
 name: nestjs-monitoring
-description: Monitoring for Nestjs: monitoring and observability
+description: "Monitoring for Nestjs: monitoring and observability"
 category: backend
 tags: [nestjs, monitoring, backend]
 models: [sonnet, opus]

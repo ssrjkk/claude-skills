@@ -1,6 +1,6 @@
 ---
 name: pytorch-lightning-color-processing
-description: Color Processing with Pytorch Lightning. color manipulation.
+description: "Color Processing with Pytorch Lightning. color manipulation."
 category: ai
 tags: [pytorch-lightning, color-processing, ai, computer-vision]
 models: [gpt-4, claude-3]

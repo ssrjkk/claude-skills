@@ -1,6 +1,6 @@
 ---
 name: easypost-warehouse
-description: Warehouse with EasyPost. warehouse ops.
+description: "Warehouse with EasyPost. warehouse ops."
 category: supply-chain
 tags: [easypost, warehouse, supply-chain, logistics]
 models: [gpt-4, claude-3]

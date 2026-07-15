@@ -1,6 +1,6 @@
 ---
 name: salvo-async
-description: Async with Salvo. async handlers.
+description: "Async with Salvo. async handlers."
 category: backend
 tags: [salvo, async, backend, backend]
 models: [gpt-4, claude-3]

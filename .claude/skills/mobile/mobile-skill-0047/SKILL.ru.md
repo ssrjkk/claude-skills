@@ -1,6 +1,6 @@
 ---
 name: mobile-skill-0047
-description: Specialized skill #0047 for mobile development
+description: "Specialized skill #0047 for mobile development"
 category: mobile
 tags: [skill-0047, mobile, russian]
 models: [sonnet, opus]

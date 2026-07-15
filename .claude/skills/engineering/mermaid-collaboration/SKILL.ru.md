@@ -1,6 +1,6 @@
 ---
 name: mermaid-collaboration
-description: Collaboration with Mermaid.js. team collaboration.
+description: "Collaboration with Mermaid.js. team collaboration."
 category: engineering
 tags: [mermaid-collaboration, engineering, russian]
 models: [sonnet, opus]

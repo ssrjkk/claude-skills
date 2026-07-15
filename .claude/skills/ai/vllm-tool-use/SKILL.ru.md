@@ -1,6 +1,6 @@
 ---
 name: vllm-tool-use
-description: Tool Use with Vllm. function calling.
+description: "Tool Use with Vllm. function calling."
 category: ai
 tags: [vllm-tool-use, ai, russian]
 models: [sonnet, opus]

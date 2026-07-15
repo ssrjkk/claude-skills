@@ -1,6 +1,6 @@
 ---
 name: react-api
-description: API for React: API development and integration
+description: "API for React: API development and integration"
 category: frontend
 tags: [react-api, frontend, russian]
 models: [sonnet, opus]

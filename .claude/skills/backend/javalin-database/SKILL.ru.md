@@ -1,6 +1,6 @@
 ---
 name: javalin-database
-description: Database with Javalin. DB access.
+description: "Database with Javalin. DB access."
 category: backend
 tags: [javalin-database, backend, russian]
 models: [sonnet, opus]

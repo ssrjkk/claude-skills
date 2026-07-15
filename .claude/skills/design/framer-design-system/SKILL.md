@@ -1,6 +1,6 @@
 ---
 name: framer-design-system
-description: Design Systems with Framer. tokens.
+description: "Design Systems with Framer. tokens."
 category: design
 tags: [framer, design-system, design, design]
 models: [gpt-4, claude-3]

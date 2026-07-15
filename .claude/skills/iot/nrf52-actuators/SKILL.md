@@ -1,6 +1,6 @@
 ---
 name: nrf52-actuators
-description: Actuators with nRF52. motors.
+description: "Actuators with nRF52. motors."
 category: iot
 tags: [nrf52, actuators, iot, iot]
 models: [gpt-4, claude-3]

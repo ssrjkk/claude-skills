@@ -1,6 +1,6 @@
 ---
 name: playwright-e2e-testing
-description: Build robust automated E2E test suites using Playwright with cross-browser support and visual regression testing
+description: "Build robust automated E2E test suites using Playwright with cross-browser support and visual regression testing"
 category: qa
 tags: [playwright-e2e-testing, qa, russian]
 models: [sonnet, opus]

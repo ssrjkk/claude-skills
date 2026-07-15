@@ -1,6 +1,6 @@
 ---
 name: grafana-basics
-description: Basics for Grafana: fundamentals and core concepts
+description: "Basics for Grafana: fundamentals and core concepts"
 category: devops
 tags: [grafana-basics, devops, russian]
 models: [sonnet, opus]

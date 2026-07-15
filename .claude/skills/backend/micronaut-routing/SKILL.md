@@ -1,6 +1,6 @@
 ---
 name: micronaut-routing
-description: Routing with Micronaut. HTTP routing.
+description: "Routing with Micronaut. HTTP routing."
 category: backend
 tags: [micronaut, routing, backend, backend]
 models: [gpt-4, claude-3]

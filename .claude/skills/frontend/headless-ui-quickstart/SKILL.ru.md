@@ -1,6 +1,6 @@
 ---
 name: headless-ui-quickstart
-description: Quickstart for Headless-Ui: quick start guide
+description: "Quickstart for Headless-Ui: quick start guide"
 category: frontend
 tags: [headless-ui-quickstart, frontend, russian]
 models: [sonnet, opus]

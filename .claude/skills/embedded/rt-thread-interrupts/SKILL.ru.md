@@ -1,6 +1,6 @@
 ---
 name: rt-thread-interrupts
-description: Interrupts with RT-Thread. ISR handling.
+description: "Interrupts with RT-Thread. ISR handling."
 category: embedded
 tags: [rt-thread-interrupts, embedded, russian]
 models: [sonnet, opus]

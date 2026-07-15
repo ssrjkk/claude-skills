@@ -1,6 +1,6 @@
 ---
 name: tekton-guides
-description: Guides for Tekton: how-to guides
+description: "Guides for Tekton: how-to guides"
 category: devops
 tags: [tekton, guides, devops]
 models: [sonnet, opus]

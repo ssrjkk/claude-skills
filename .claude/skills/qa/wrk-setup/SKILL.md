@@ -1,6 +1,6 @@
 ---
 name: wrk-setup
-description: Setup with wrk. installation.
+description: "Setup with wrk. installation."
 category: qa
 tags: [wrk, setup, qa, performance-testing]
 models: [gpt-4, claude-3]

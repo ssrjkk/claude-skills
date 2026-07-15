@@ -1,6 +1,6 @@
 ---
 name: optimism-bridge
-description: Bridge with Optimism. cross-chain.
+description: "Bridge with Optimism. cross-chain."
 category: blockchain
 tags: [optimism-bridge, blockchain, russian]
 models: [sonnet, opus]

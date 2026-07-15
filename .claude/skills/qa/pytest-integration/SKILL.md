@@ -1,6 +1,6 @@
 ---
 name: pytest-integration
-description: Integration with pytest. integration tests.
+description: "Integration with pytest. integration tests."
 category: qa
 tags: [pytest, integration, qa, testing]
 models: [gpt-4, claude-3]

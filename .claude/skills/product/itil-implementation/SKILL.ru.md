@@ -1,6 +1,6 @@
 ---
 name: itil-implementation
-description: Implementation with ITIL. adoption.
+description: "Implementation with ITIL. adoption."
 category: product
 tags: [itil-implementation, product, russian]
 models: [sonnet, opus]

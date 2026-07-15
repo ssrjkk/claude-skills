@@ -1,6 +1,6 @@
 ---
 name: tive-analytics
-description: Analytics with Tive. analytics.
+description: "Analytics with Tive. analytics."
 category: supply-chain
 tags: [tive-analytics, supply-chain, russian]
 models: [sonnet, opus]

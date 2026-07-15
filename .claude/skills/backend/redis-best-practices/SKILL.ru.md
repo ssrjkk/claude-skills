@@ -1,6 +1,6 @@
 ---
 name: redis-best-practices
-description: Best Practices for Redis: best practices and patterns
+description: "Best Practices for Redis: best practices and patterns"
 category: backend
 tags: [redis-best-practices, backend, russian]
 models: [sonnet, opus]

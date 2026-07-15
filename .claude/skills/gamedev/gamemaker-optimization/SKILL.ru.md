@@ -1,6 +1,6 @@
 ---
 name: gamemaker-optimization
-description: Optimization for Gamemaker: performance tuning and optimization
+description: "Optimization for Gamemaker: performance tuning and optimization"
 category: gamedev
 tags: [gamemaker-optimization, gamedev, russian]
 models: [sonnet, opus]

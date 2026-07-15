@@ -1,6 +1,6 @@
 ---
 name: tpot-hyperparameter-tuning
-description: Hyperparameter Tuning with Tpot. optimizing params.
+description: "Hyperparameter Tuning with Tpot. optimizing params."
 category: ai
 tags: [tpot-hyperparameter-tuning, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gatsby-middleware
-description: Middleware with Gatsby. request middleware.
+description: "Middleware with Gatsby. request middleware."
 category: frontend
 tags: [gatsby, middleware, frontend, meta-framework]
 models: [gpt-4, claude-3]

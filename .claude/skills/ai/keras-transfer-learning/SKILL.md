@@ -1,6 +1,6 @@
 ---
 name: keras-transfer-learning
-description: Transfer Learning with Keras. transfer learning.
+description: "Transfer Learning with Keras. transfer learning."
 category: ai
 tags: [keras, transfer-learning, ai, deep-learning]
 models: [gpt-4, claude-3]

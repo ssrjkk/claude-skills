@@ -1,6 +1,6 @@
 ---
 name: bash-networking
-description: Networking with Bash Scripting. network config.
+description: "Networking with Bash Scripting. network config."
 category: os-admin
 tags: [bash, networking, os-admin, linux]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: nmap-scanning
-description: Scanning with Nmap. security scanning.
+description: "Scanning with Nmap. security scanning."
 category: security
 tags: [nmap, scanning, security, security-tool]
 models: [gpt-4, claude-3]

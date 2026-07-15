@@ -1,6 +1,6 @@
 ---
 name: heroku-cost
-description: Cost with Heroku. cost optimization.
+description: "Cost with Heroku. cost optimization."
 category: devops
 tags: [heroku, cost, devops, cloud]
 models: [gpt-4, claude-3]

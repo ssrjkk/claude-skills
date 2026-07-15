@@ -1,6 +1,6 @@
 ---
 name: microk8s-storage
-description: Storage with MicroK8s. persistent storage.
+description: "Storage with MicroK8s. persistent storage."
 category: devops
 tags: [microk8s, storage, devops, kubernetes]
 models: [gpt-4, claude-3]

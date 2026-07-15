@@ -1,6 +1,6 @@
 ---
 name: lightgbm-hyperparameter-tuning
-description: Hyperparameter Tuning with Lightgbm. optimizing params.
+description: "Hyperparameter Tuning with Lightgbm. optimizing params."
 category: ai
 tags: [lightgbm-hyperparameter-tuning, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: preact-styling
-description: Styling with Preact. component styling.
+description: "Styling with Preact. component styling."
 category: frontend
 tags: [preact, styling, frontend, frontend]
 models: [gpt-4, claude-3]

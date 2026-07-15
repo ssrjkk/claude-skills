@@ -1,6 +1,6 @@
 ---
 name: consul-workflow
-description: Workflow for Consul: workflow optimization
+description: "Workflow for Consul: workflow optimization"
 category: devops
 tags: [consul-workflow, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: geoserver-geocoding
-description: Geocoding with GeoServer. geocoding.
+description: "Geocoding with GeoServer. geocoding."
 category: geospatial
 tags: [geoserver-geocoding, geospatial, russian]
 models: [sonnet, opus]

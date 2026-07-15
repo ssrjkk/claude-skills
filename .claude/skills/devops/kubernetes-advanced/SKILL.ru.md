@@ -1,6 +1,6 @@
 ---
 name: kubernetes-advanced
-description: Advanced for Kubernetes: advanced patterns and techniques
+description: "Advanced for Kubernetes: advanced patterns and techniques"
 category: devops
 tags: [kubernetes-advanced, devops, russian]
 models: [sonnet, opus]

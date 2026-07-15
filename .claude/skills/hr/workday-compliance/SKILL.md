@@ -1,6 +1,6 @@
 ---
 name: workday-compliance
-description: Compliance with Workday. compliance.
+description: "Compliance with Workday. compliance."
 category: hr
 tags: [workday, compliance, hr, hr-tech]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: gdpr-best-practices
-description: Best Practices with GDPR. best practices.
+description: "Best Practices with GDPR. best practices."
 category: security
 tags: [gdpr-best-practices, security, russian]
 models: [sonnet, opus]

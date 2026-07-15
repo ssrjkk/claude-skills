@@ -1,6 +1,6 @@
 ---
 name: kustomize-examples
-description: Examples for Kustomize: practical examples
+description: "Examples for Kustomize: practical examples"
 category: devops
 tags: [kustomize-examples, devops, russian]
 models: [sonnet, opus]

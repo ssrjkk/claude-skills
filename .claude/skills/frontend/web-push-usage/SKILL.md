@@ -1,6 +1,6 @@
 ---
 name: web-push-usage
-description: Usage for Web-Push: usage reference
+description: "Usage for Web-Push: usage reference"
 category: frontend
 tags: [web-push, usage, frontend]
 models: [sonnet, opus]

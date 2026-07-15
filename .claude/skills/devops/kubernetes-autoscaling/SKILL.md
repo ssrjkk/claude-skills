@@ -1,6 +1,6 @@
 ---
 name: kubernetes-autoscaling
-description: Autoscaling with Kubernetes. HPA.
+description: "Autoscaling with Kubernetes. HPA."
 category: devops
 tags: [kubernetes, autoscaling, devops, kubernetes]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: babel-source-maps
-description: Source Maps with Babel. debugging.
+description: "Source Maps with Babel. debugging."
 category: frontend
 tags: [babel, source-maps, frontend, build-tool]
 models: [gpt-4, claude-3]

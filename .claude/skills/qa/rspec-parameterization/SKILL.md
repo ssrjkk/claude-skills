@@ -1,6 +1,6 @@
 ---
 name: rspec-parameterization
-description: Parameterization with RSpec. parametrized tests.
+description: "Parameterization with RSpec. parametrized tests."
 category: qa
 tags: [rspec, parameterization, qa, testing]
 models: [gpt-4, claude-3]

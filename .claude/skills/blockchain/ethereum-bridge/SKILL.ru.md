@@ -1,6 +1,6 @@
 ---
 name: ethereum-bridge
-description: Bridge with Ethereum. cross-chain.
+description: "Bridge with Ethereum. cross-chain."
 category: blockchain
 tags: [ethereum-bridge, blockchain, russian]
 models: [sonnet, opus]

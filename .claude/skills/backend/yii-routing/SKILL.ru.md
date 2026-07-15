@@ -1,6 +1,6 @@
 ---
 name: yii-routing
-description: Routing with Yii. HTTP routing.
+description: "Routing with Yii. HTTP routing."
 category: backend
 tags: [yii-routing, backend, russian]
 models: [sonnet, opus]

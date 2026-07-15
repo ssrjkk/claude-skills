@@ -1,6 +1,6 @@
 ---
 name: kanban-facilitation
-description: Facilitation with Kanban. sessions.
+description: "Facilitation with Kanban. sessions."
 category: product
 tags: [kanban, facilitation, product, methodology]
 models: [gpt-4, claude-3]

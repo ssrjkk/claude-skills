@@ -1,6 +1,6 @@
 ---
 name: arch-backup
-description: Backup with Arch Linux. backup.
+description: "Backup with Arch Linux. backup."
 category: os-admin
 tags: [arch, backup, os-admin, linux]
 models: [gpt-4, claude-3]

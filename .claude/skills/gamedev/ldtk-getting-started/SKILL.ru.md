@@ -1,6 +1,6 @@
 ---
 name: ldtk-getting-started
-description: Getting Started for Ldtk: initial setup and first steps
+description: "Getting Started for Ldtk: initial setup and first steps"
 category: gamedev
 tags: [ldtk-getting-started, gamedev, russian]
 models: [sonnet, opus]

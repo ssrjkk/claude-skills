@@ -1,6 +1,6 @@
 ---
 name: yolo-optical-flow
-description: Optical Flow with Yolo. motion detection.
+description: "Optical Flow with Yolo. motion detection."
 category: ai
 tags: [yolo-optical-flow, ai, russian]
 models: [sonnet, opus]

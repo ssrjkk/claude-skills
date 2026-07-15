@@ -1,6 +1,6 @@
 ---
 name: pytorch-basics
-description: Basics for Pytorch: fundamentals and core concepts
+description: "Basics for Pytorch: fundamentals and core concepts"
 category: ai
 tags: [pytorch-basics, ai, russian]
 models: [sonnet, opus]

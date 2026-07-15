@@ -1,6 +1,6 @@
 ---
 name: wxwidgets-threading
-description: Threading with wxWidgets. multithreading.
+description: "Threading with wxWidgets. multithreading."
 category: desktop
 tags: [wxwidgets-threading, desktop, russian]
 models: [sonnet, opus]

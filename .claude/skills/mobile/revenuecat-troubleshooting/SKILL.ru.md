@@ -1,6 +1,6 @@
 ---
 name: revenuecat-troubleshooting
-description: Troubleshooting for Revenuecat: troubleshooting common issues
+description: "Troubleshooting for Revenuecat: troubleshooting common issues"
 category: mobile
 tags: [revenuecat-troubleshooting, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: webxr-setup
-description: Setup with WebXR. SDK setup.
+description: "Setup with WebXR. SDK setup."
 category: ar-vr
 tags: [webxr, setup, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

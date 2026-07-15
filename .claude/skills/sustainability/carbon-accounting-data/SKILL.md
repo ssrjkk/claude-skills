@@ -1,6 +1,6 @@
 ---
 name: carbon-accounting-data
-description: Data with Carbon Accounting. data collection.
+description: "Data with Carbon Accounting. data collection."
 category: sustainability
 tags: [carbon-accounting, data, sustainability, sustainability]
 models: [gpt-4, claude-3]

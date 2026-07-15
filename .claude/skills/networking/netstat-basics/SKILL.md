@@ -1,6 +1,6 @@
 ---
 name: netstat-basics
-description: Basics with netstat/ss. basic usage.
+description: "Basics with netstat/ss. basic usage."
 category: networking
 tags: [netstat, basics, networking, networking-tool]
 models: [gpt-4, claude-3]

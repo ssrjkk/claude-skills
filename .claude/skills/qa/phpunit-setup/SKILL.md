@@ -1,6 +1,6 @@
 ---
 name: phpunit-setup
-description: Setup with PHPUnit. installation.
+description: "Setup with PHPUnit. installation."
 category: qa
 tags: [phpunit, setup, qa, testing]
 models: [gpt-4, claude-3]

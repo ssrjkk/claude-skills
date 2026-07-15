@@ -1,6 +1,6 @@
 ---
 name: apache-beam-sql
-description: SQL with Apache Beam. SQL queries.
+description: "SQL with Apache Beam. SQL queries."
 category: data
 tags: [apache-beam-sql, data, russian]
 models: [sonnet, opus]

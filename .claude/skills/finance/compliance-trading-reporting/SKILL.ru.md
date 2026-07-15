@@ -1,6 +1,6 @@
 ---
 name: compliance-trading-reporting
-description: Reporting with Trading Compliance. reports.
+description: "Reporting with Trading Compliance. reports."
 category: finance
 tags: [compliance-trading-reporting, finance, russian]
 models: [sonnet, opus]

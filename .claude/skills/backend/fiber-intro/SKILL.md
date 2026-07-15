@@ -1,6 +1,6 @@
 ---
 name: fiber-intro
-description: Intro for Fiber: introduction
+description: "Intro for Fiber: introduction"
 category: backend
 tags: [fiber, intro, backend]
 models: [sonnet, opus]

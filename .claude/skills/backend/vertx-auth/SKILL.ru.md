@@ -1,6 +1,6 @@
 ---
 name: vertx-auth
-description: Auth with Vert.x. security.
+description: "Auth with Vert.x. security."
 category: backend
 tags: [vertx-auth, backend, russian]
 models: [sonnet, opus]

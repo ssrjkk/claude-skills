@@ -1,6 +1,6 @@
 ---
 name: mxnet-training
-description: Training with Mxnet. training models.
+description: "Training with Mxnet. training models."
 category: ai
 tags: [mxnet, training, ai, deep-learning]
 models: [gpt-4, claude-3]

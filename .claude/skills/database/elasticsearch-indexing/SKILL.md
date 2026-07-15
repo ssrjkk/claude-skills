@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-indexing
-description: Indexing with Elasticsearch. document indexing.
+description: "Indexing with Elasticsearch. document indexing."
 category: database
 tags: [elasticsearch, indexing, database, search-engine]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: airflow-batch
-description: Batch with Airflow. batch processing.
+description: "Batch with Airflow. batch processing."
 category: data
 tags: [airflow-batch, data, russian]
 models: [sonnet, opus]

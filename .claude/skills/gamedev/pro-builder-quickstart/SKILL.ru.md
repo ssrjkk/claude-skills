@@ -1,6 +1,6 @@
 ---
 name: pro-builder-quickstart
-description: Quickstart for Pro-Builder: quick start guide
+description: "Quickstart for Pro-Builder: quick start guide"
 category: gamedev
 tags: [pro-builder-quickstart, gamedev, russian]
 models: [sonnet, opus]

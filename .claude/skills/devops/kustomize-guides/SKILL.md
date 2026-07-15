@@ -1,6 +1,6 @@
 ---
 name: kustomize-guides
-description: Guides for Kustomize: how-to guides
+description: "Guides for Kustomize: how-to guides"
 category: devops
 tags: [kustomize, guides, devops]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: hashicorp-vault-fundamentals
-description: Fundamentals for Hashicorp-Vault: core concepts
+description: "Fundamentals for Hashicorp-Vault: core concepts"
 category: security
 tags: [hashicorp-vault, fundamentals, security]
 models: [sonnet, opus]

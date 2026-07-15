@@ -1,6 +1,6 @@
 ---
 name: system-prompt-design
-description: Designs effective system prompts for LLM agents, chatbots, and assistants with role definition, constraints, and behavioral guidelines. Use for production AI systems.
+description: "Designs effective system prompts for LLM agents, chatbots, and assistants with role definition, constraints, and behavioral guidelines. Use for production AI systems."
 category: ai
 tags: [prompt, system-prompt, agent, chatbot, persona]
 models: [sonnet, opus]

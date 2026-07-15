@@ -1,6 +1,6 @@
 ---
 name: cloudformation-cicd
-description: CI/CD with CloudFormation. pipeline integration.
+description: "CI/CD with CloudFormation. pipeline integration."
 category: devops
 tags: [cloudformation-cicd, devops, russian]
 models: [sonnet, opus]

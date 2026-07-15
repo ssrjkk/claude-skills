@@ -1,6 +1,6 @@
 ---
 name: benchmark
-description: Development with Benchmark: tools and best practices
+description: "Development with Benchmark: tools and best practices"
 category: gamedev
 tags: [benchmark, gamedev, development]
 models: [sonnet, opus]

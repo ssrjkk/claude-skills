@@ -1,6 +1,6 @@
 ---
 name: risk-management-implementation
-description: Implementation with Risk Management. implementation.
+description: "Implementation with Risk Management. implementation."
 category: finance
 tags: [risk-management-implementation, finance, russian]
 models: [sonnet, opus]

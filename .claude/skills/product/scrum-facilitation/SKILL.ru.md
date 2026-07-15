@@ -1,6 +1,6 @@
 ---
 name: scrum-facilitation
-description: Facilitation with Scrum. sessions.
+description: "Facilitation with Scrum. sessions."
 category: product
 tags: [scrum-facilitation, product, russian]
 models: [sonnet, opus]

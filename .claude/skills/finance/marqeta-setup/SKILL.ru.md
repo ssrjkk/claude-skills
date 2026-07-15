@@ -1,6 +1,6 @@
 ---
 name: marqeta-setup
-description: Setup with Marqeta. account setup.
+description: "Setup with Marqeta. account setup."
 category: finance
 tags: [marqeta-setup, finance, russian]
 models: [sonnet, opus]

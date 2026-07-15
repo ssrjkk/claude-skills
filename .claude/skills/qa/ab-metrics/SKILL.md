@@ -1,6 +1,6 @@
 ---
 name: ab-metrics
-description: Metrics with Apache Bench. performance metrics.
+description: "Metrics with Apache Bench. performance metrics."
 category: qa
 tags: [ab, metrics, qa, performance-testing]
 models: [gpt-4, claude-3]

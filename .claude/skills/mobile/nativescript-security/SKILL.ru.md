@@ -1,6 +1,6 @@
 ---
 name: nativescript-security
-description: Security for Nativescript: security best practices
+description: "Security for Nativescript: security best practices"
 category: mobile
 tags: [nativescript-security, mobile, russian]
 models: [sonnet, opus]

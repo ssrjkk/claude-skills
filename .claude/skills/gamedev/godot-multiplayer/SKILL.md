@@ -1,6 +1,6 @@
 ---
 name: godot-multiplayer
-description: Multiplayer with Godot. networking.
+description: "Multiplayer with Godot. networking."
 category: gamedev
 tags: [godot, multiplayer, gamedev, game-engine]
 models: [gpt-4, claude-3]

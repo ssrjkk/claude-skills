@@ -1,6 +1,6 @@
 ---
 name: tezos-setup
-description: Setup with Tezos. node setup.
+description: "Setup with Tezos. node setup."
 category: blockchain
 tags: [tezos, setup, blockchain, blockchain]
 models: [gpt-4, claude-3]

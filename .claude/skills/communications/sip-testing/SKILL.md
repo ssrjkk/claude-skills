@@ -1,6 +1,6 @@
 ---
 name: sip-testing
-description: Testing with SIP. testing.
+description: "Testing with SIP. testing."
 category: communications
 tags: [sip, testing, communications, communication-protocol]
 models: [gpt-4, claude-3]

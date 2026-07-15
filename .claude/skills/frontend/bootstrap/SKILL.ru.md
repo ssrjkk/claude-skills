@@ -1,6 +1,6 @@
 ---
 name: bootstrap
-description: Creates responsive, mobile-first websites with Bootstrap, grid system, components, and utilities.
+description: "Creates responsive, mobile-first websites with Bootstrap, grid system, components, and utilities."
 category: frontend
 tags: [bootstrap, frontend, russian]
 models: [sonnet, opus]

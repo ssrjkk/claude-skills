@@ -1,6 +1,6 @@
 ---
 name: er-diagrams-basics
-description: Basics with ER Diagrams. fundamentals.
+description: "Basics with ER Diagrams. fundamentals."
 category: engineering
 tags: [er-diagrams, basics, engineering, modeling]
 models: [gpt-4, claude-3]

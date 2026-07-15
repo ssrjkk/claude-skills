@@ -1,6 +1,6 @@
 ---
 name: wwise-getting-started
-description: Getting Started for Wwise: initial setup and first steps
+description: "Getting Started for Wwise: initial setup and first steps"
 category: gamedev
 tags: [wwise-getting-started, gamedev, russian]
 models: [sonnet, opus]

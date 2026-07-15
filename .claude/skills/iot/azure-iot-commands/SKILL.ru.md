@@ -1,6 +1,6 @@
 ---
 name: azure-iot-commands
-description: Commands with Azure IoT. device commands.
+description: "Commands with Azure IoT. device commands."
 category: iot
 tags: [azure-iot-commands, iot, russian]
 models: [sonnet, opus]

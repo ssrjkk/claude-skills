@@ -1,6 +1,6 @@
 ---
 name: emotion-best-practices
-description: Best Practices for Emotion: best practices and patterns
+description: "Best Practices for Emotion: best practices and patterns"
 category: frontend
 tags: [emotion-best-practices, frontend, russian]
 models: [sonnet, opus]

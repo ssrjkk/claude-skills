@@ -1,6 +1,6 @@
 ---
 name: north-star-best-practices
-description: Best Practices with North Star. tips.
+description: "Best Practices with North Star. tips."
 category: product
 tags: [north-star-best-practices, product, russian]
 models: [sonnet, opus]

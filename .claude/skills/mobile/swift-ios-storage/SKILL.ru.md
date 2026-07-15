@@ -1,6 +1,6 @@
 ---
 name: swift-ios-storage
-description: Storage with Swift iOS. local storage.
+description: "Storage with Swift iOS. local storage."
 category: mobile
 tags: [swift-ios-storage, mobile, russian]
 models: [sonnet, opus]

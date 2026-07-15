@@ -1,6 +1,6 @@
 ---
 name: webpack-bundling
-description: Bundling with Webpack. code bundling.
+description: "Bundling with Webpack. code bundling."
 category: frontend
 tags: [webpack, bundling, frontend, build-tool]
 models: [gpt-4, claude-3]

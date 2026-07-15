@@ -1,6 +1,6 @@
 ---
 name: swiftui-mac-native
-description: Native with SwiftUI Mac. native APIs.
+description: "Native with SwiftUI Mac. native APIs."
 category: desktop
 tags: [swiftui-mac, native, desktop, desktop]
 models: [gpt-4, claude-3]

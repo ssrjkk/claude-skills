@@ -1,6 +1,6 @@
 ---
 name: linux-kernel-security
-description: Security with Linux Kernel. hardening.
+description: "Security with Linux Kernel. hardening."
 category: os-admin
 tags: [linux-kernel, security, os-admin, linux]
 models: [gpt-4, claude-3]

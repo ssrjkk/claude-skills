@@ -1,6 +1,6 @@
 ---
 name: ignite-optimization
-description: Optimization with Apache Ignite. performance tuning.
+description: "Optimization with Apache Ignite. performance tuning."
 category: database
 tags: [ignite, optimization, database, caching]
 models: [gpt-4, claude-3]

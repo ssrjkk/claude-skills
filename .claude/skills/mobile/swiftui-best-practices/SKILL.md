@@ -1,6 +1,6 @@
 ---
 name: swiftui-best-practices
-description: Best Practices for Swiftui: best practices and patterns
+description: "Best Practices for Swiftui: best practices and patterns"
 category: mobile
 tags: [swiftui, best-practices, mobile]
 models: [sonnet, opus]

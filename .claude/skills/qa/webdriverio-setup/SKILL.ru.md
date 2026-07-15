@@ -1,6 +1,6 @@
 ---
 name: webdriverio-setup
-description: Setup with WebdriverIO. installation.
+description: "Setup with WebdriverIO. installation."
 category: qa
 tags: [webdriverio-setup, qa, russian]
 models: [sonnet, opus]

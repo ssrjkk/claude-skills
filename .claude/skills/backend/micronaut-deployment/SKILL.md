@@ -1,6 +1,6 @@
 ---
 name: micronaut-deployment
-description: Deployment with Micronaut. build.
+description: "Deployment with Micronaut. build."
 category: backend
 tags: [micronaut, deployment, backend, backend]
 models: [gpt-4, claude-3]

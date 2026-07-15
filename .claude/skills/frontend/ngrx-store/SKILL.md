@@ -1,6 +1,6 @@
 ---
 name: ngrx-store
-description: Store with NgRx. state store.
+description: "Store with NgRx. state store."
 category: frontend
 tags: [ngrx, store, frontend, state-management]
 models: [gpt-4, claude-3]

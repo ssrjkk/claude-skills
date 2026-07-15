@@ -1,6 +1,6 @@
 ---
 name: clearml-feature-engineering
-description: Feature Engineering with Clearml. creating features.
+description: "Feature Engineering with Clearml. creating features."
 category: ai
 tags: [clearml-feature-engineering, ai, russian]
 models: [sonnet, opus]

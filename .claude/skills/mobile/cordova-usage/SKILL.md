@@ -1,6 +1,6 @@
 ---
 name: cordova-usage
-description: Usage for Cordova: usage reference
+description: "Usage for Cordova: usage reference"
 category: mobile
 tags: [cordova, usage, mobile]
 models: [sonnet, opus]

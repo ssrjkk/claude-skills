@@ -1,6 +1,6 @@
 ---
 name: buffalo-database
-description: Database with Buffalo. DB access.
+description: "Database with Buffalo. DB access."
 category: backend
 tags: [buffalo-database, backend, russian]
 models: [sonnet, opus]

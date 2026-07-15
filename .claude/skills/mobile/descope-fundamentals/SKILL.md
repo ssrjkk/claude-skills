@@ -1,6 +1,6 @@
 ---
 name: descope-fundamentals
-description: Fundamentals for Descope: core concepts
+description: "Fundamentals for Descope: core concepts"
 category: mobile
 tags: [descope, fundamentals, mobile]
 models: [sonnet, opus]

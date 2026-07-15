@@ -1,6 +1,6 @@
 ---
 name: rails-testing
-description: Testing with Rails. RSpec.
+description: "Testing with Rails. RSpec."
 category: backend
 tags: [rails-testing, backend, russian]
 models: [sonnet, opus]

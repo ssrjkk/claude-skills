@@ -1,6 +1,6 @@
 ---
 name: matplotlib-dataframe
-description: DataFrame with Matplotlib. data manipulation.
+description: "DataFrame with Matplotlib. data manipulation."
 category: data
 tags: [matplotlib, dataframe, data, data-science]
 models: [gpt-4, claude-3]

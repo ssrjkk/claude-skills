@@ -1,6 +1,6 @@
 ---
 name: dynamodb-monitoring
-description: Monitoring with DynamoDB. monitoring.
+description: "Monitoring with DynamoDB. monitoring."
 category: database
 tags: [dynamodb, monitoring, database, nosql]
 models: [gpt-4, claude-3]

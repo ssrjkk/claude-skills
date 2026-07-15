@@ -1,6 +1,6 @@
 ---
 name: postgresql-monitoring
-description: Monitoring with PostgreSQL. monitoring.
+description: "Monitoring with PostgreSQL. monitoring."
 category: database
 tags: [postgresql, monitoring, database, sql]
 models: [gpt-4, claude-3]

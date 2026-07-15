@@ -1,6 +1,6 @@
 ---
 name: altair-visualization
-description: Visualization with Altair. charting.
+description: "Visualization with Altair. charting."
 category: data
 tags: [altair-visualization, data, russian]
 models: [sonnet, opus]

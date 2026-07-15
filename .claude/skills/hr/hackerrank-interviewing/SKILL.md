@@ -1,6 +1,6 @@
 ---
 name: hackerrank-interviewing
-description: Interviewing with HackerRank. interviews.
+description: "Interviewing with HackerRank. interviews."
 category: hr
 tags: [hackerrank, interviewing, hr, recruiting]
 models: [gpt-4, claude-3]

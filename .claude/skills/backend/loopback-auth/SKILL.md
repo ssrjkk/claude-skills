@@ -1,6 +1,6 @@
 ---
 name: loopback-auth
-description: Auth with LoopBack. JWT.
+description: "Auth with LoopBack. JWT."
 category: backend
 tags: [loopback, auth, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: flutter-advanced
-description: Advanced for Flutter: advanced patterns and techniques
+description: "Advanced for Flutter: advanced patterns and techniques"
 category: mobile
 tags: [flutter-advanced, mobile, russian]
 models: [sonnet, opus]

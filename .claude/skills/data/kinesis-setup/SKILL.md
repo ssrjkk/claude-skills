@@ -1,6 +1,6 @@
 ---
 name: kinesis-setup
-description: Setup with Kinesis. installation.
+description: "Setup with Kinesis. installation."
 category: data
 tags: [kinesis, setup, data, data-engineering]
 models: [gpt-4, claude-3]

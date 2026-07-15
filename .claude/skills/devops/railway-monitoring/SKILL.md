@@ -1,6 +1,6 @@
 ---
 name: railway-monitoring
-description: Monitoring with Railway. monitoring.
+description: "Monitoring with Railway. monitoring."
 category: devops
 tags: [railway, monitoring, devops, cloud]
 models: [gpt-4, claude-3]

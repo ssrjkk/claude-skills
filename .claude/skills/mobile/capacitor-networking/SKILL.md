@@ -1,6 +1,6 @@
 ---
 name: capacitor-networking
-description: Networking with Capacitor. API calls.
+description: "Networking with Capacitor. API calls."
 category: mobile
 tags: [capacitor, networking, mobile, mobile]
 models: [gpt-4, claude-3]

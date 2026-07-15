@@ -1,6 +1,6 @@
 ---
 name: opencv-face-detection
-description: Face Detection with Opencv. facial recognition.
+description: "Face Detection with Opencv. facial recognition."
 category: ai
 tags: [opencv-face-detection, ai, russian]
 models: [sonnet, opus]

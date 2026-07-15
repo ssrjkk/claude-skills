@@ -1,6 +1,6 @@
 ---
 name: arcore-deployment
-description: Deployment with ARCore. deployment.
+description: "Deployment with ARCore. deployment."
 category: ar-vr
 tags: [arcore, deployment, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

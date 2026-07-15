@@ -1,6 +1,6 @@
 ---
 name: aws-eks-fundamentals
-description: Fundamentals for Aws-Eks: core concepts
+description: "Fundamentals for Aws-Eks: core concepts"
 category: cloud
 tags: [aws-eks-fundamentals, cloud, russian]
 models: [sonnet, opus]

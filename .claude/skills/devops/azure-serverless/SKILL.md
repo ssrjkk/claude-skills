@@ -1,6 +1,6 @@
 ---
 name: azure-serverless
-description: Serverless with Azure. functions.
+description: "Serverless with Azure. functions."
 category: devops
 tags: [azure, serverless, devops, cloud]
 models: [gpt-4, claude-3]

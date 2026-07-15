@@ -1,6 +1,6 @@
 ---
 name: tvm-training
-description: Training with Tvm. training models.
+description: "Training with Tvm. training models."
 category: ai
 tags: [tvm, training, ai, deep-learning]
 models: [gpt-4, claude-3]

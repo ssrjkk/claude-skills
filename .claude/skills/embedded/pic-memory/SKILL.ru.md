@@ -1,6 +1,6 @@
 ---
 name: pic-memory
-description: Memory with PIC. memory layout.
+description: "Memory with PIC. memory layout."
 category: embedded
 tags: [pic-memory, embedded, russian]
 models: [sonnet, opus]

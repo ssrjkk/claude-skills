@@ -1,6 +1,6 @@
 ---
 name: http-design
-description: Design with HTTP. network design.
+description: "Design with HTTP. network design."
 category: networking
 tags: [http, design, networking, networking]
 models: [gpt-4, claude-3]

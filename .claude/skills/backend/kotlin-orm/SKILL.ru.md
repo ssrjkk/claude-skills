@@ -1,6 +1,6 @@
 ---
 name: kotlin-orm
-description: ORM with Kotlin. database access.
+description: "ORM with Kotlin. database access."
 category: backend
 tags: [kotlin-orm, backend, russian]
 models: [sonnet, opus]

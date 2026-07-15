@@ -1,6 +1,6 @@
 ---
 name: gsap-getting-started
-description: Getting Started for Gsap: initial setup and first steps
+description: "Getting Started for Gsap: initial setup and first steps"
 category: frontend
 tags: [gsap-getting-started, frontend, russian]
 models: [sonnet, opus]

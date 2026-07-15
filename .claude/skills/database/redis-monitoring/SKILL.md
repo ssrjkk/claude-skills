@@ -1,6 +1,6 @@
 ---
 name: redis-monitoring
-description: Monitoring with Redis. monitoring.
+description: "Monitoring with Redis. monitoring."
 category: database
 tags: [redis, monitoring, database, caching]
 models: [gpt-4, claude-3]

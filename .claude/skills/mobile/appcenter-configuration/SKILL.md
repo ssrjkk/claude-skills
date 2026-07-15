@@ -1,6 +1,6 @@
 ---
 name: appcenter-configuration
-description: Configuration for Appcenter: configuration and setup
+description: "Configuration for Appcenter: configuration and setup"
 category: mobile
 tags: [appcenter, configuration, mobile]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: flutter-setup
-description: Setup with Flutter. setup.
+description: "Setup with Flutter. setup."
 category: mobile
 tags: [flutter, setup, mobile, mobile]
 models: [gpt-4, claude-3]

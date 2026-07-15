@@ -1,6 +1,6 @@
 ---
 name: panel-theming
-description: Theming with Panel. themes.
+description: "Theming with Panel. themes."
 category: data
 tags: [panel, theming, data, data-apps]
 models: [gpt-4, claude-3]

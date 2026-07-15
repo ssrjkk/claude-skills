@@ -1,6 +1,6 @@
 ---
 name: fastapi-database
-description: Database with FastAPI. DB access.
+description: "Database with FastAPI. DB access."
 category: backend
 tags: [fastapi-database, backend, russian]
 models: [sonnet, opus]

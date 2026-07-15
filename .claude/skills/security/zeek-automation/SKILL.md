@@ -1,6 +1,6 @@
 ---
 name: zeek-automation
-description: Automation for Zeek: automation and scripting
+description: "Automation for Zeek: automation and scripting"
 category: security
 tags: [zeek, automation, security]
 models: [sonnet, opus]

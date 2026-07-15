@@ -1,6 +1,6 @@
 ---
 name: expo-optimization
-description: Optimization for Expo: performance tuning and optimization
+description: "Optimization for Expo: performance tuning and optimization"
 category: mobile
 tags: [expo-optimization, mobile, russian]
 models: [sonnet, opus]

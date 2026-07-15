@@ -1,6 +1,6 @@
 ---
 name: game-maker-scripting
-description: Scripting with GameMaker. game logic.
+description: "Scripting with GameMaker. game logic."
 category: gamedev
 tags: [game-maker-scripting, gamedev, russian]
 models: [sonnet, opus]

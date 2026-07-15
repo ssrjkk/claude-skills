@@ -1,6 +1,6 @@
 ---
 name: supabase-troubleshooting
-description: Troubleshooting for Supabase: troubleshooting common issues
+description: "Troubleshooting for Supabase: troubleshooting common issues"
 category: database
 tags: [supabase-troubleshooting, database, russian]
 models: [sonnet, opus]

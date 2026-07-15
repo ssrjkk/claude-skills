@@ -1,6 +1,6 @@
 ---
 name: blender-troubleshooting
-description: Troubleshooting for Blender: troubleshooting common issues
+description: "Troubleshooting for Blender: troubleshooting common issues"
 category: gamedev
 tags: [blender-troubleshooting, gamedev, russian]
 models: [sonnet, opus]

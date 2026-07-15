@@ -1,6 +1,6 @@
 ---
 name: echo-setup
-description: Setup for Echo: installation and configuration
+description: "Setup for Echo: installation and configuration"
 category: backend
 tags: [echo-setup, backend, russian]
 models: [sonnet, opus]

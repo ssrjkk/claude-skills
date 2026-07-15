@@ -1,6 +1,6 @@
 ---
 name: lean-metrics
-description: Metrics with Lean. measurement.
+description: "Metrics with Lean. measurement."
 category: product
 tags: [lean-metrics, product, russian]
 models: [sonnet, opus]

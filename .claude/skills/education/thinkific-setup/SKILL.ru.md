@@ -1,6 +1,6 @@
 ---
 name: thinkific-setup
-description: Setup with Thinkific. setup.
+description: "Setup with Thinkific. setup."
 category: education
 tags: [thinkific-setup, education, russian]
 models: [sonnet, opus]

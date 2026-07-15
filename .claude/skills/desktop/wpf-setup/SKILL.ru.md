@@ -1,6 +1,6 @@
 ---
 name: wpf-setup
-description: Setup with WPF. SDK setup.
+description: "Setup with WPF. SDK setup."
 category: desktop
 tags: [wpf-setup, desktop, russian]
 models: [sonnet, opus]

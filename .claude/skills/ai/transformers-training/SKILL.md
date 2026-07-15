@@ -1,6 +1,6 @@
 ---
 name: transformers-training
-description: Training with Transformers. training models.
+description: "Training with Transformers. training models."
 category: ai
 tags: [transformers, training, ai, deep-learning]
 models: [gpt-4, claude-3]

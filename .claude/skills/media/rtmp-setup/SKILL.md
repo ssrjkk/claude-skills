@@ -1,6 +1,6 @@
 ---
 name: rtmp-setup
-description: Setup with RTMP. setup.
+description: "Setup with RTMP. setup."
 category: media
 tags: [rtmp, setup, media, media-streaming]
 models: [gpt-4, claude-3]

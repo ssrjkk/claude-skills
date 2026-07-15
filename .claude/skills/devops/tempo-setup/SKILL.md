@@ -1,6 +1,6 @@
 ---
 name: tempo-setup
-description: Setup with Tempo. installation.
+description: "Setup with Tempo. installation."
 category: devops
 tags: [tempo, setup, devops, monitoring]
 models: [gpt-4, claude-3]

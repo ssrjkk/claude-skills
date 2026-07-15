@@ -1,6 +1,6 @@
 ---
 name: order-management-risk
-description: Risk with OMS. risk analysis.
+description: "Risk with OMS. risk analysis."
 category: finance
 tags: [order-management, risk, finance, trading]
 models: [gpt-4, claude-3]

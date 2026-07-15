@@ -1,6 +1,6 @@
 ---
 name: valtio-devtools
-description: DevTools with Valtio. debugging.
+description: "DevTools with Valtio. debugging."
 category: frontend
 tags: [valtio-devtools, frontend, russian]
 models: [sonnet, opus]

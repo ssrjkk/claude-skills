@@ -1,6 +1,6 @@
 ---
 name: linux-security-networking
-description: Networking with Linux Security. network config.
+description: "Networking with Linux Security. network config."
 category: os-admin
 tags: [linux-security, networking, os-admin, linux]
 models: [gpt-4, claude-3]

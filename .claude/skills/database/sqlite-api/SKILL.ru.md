@@ -1,6 +1,6 @@
 ---
 name: sqlite-api
-description: API for Sqlite: API development and integration
+description: "API for Sqlite: API development and integration"
 category: database
 tags: [sqlite-api, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: pic-timers
-description: Timers with PIC. timers.
+description: "Timers with PIC. timers."
 category: embedded
 tags: [pic-timers, embedded, russian]
 models: [sonnet, opus]

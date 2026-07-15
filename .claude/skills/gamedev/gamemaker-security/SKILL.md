@@ -1,6 +1,6 @@
 ---
 name: gamemaker-security
-description: Security for Gamemaker: security best practices
+description: "Security for Gamemaker: security best practices"
 category: gamedev
 tags: [gamemaker, security, gamedev]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: greenhouse-employees
-description: Employees with Greenhouse. employee mgmt.
+description: "Employees with Greenhouse. employee mgmt."
 category: hr
 tags: [greenhouse-employees, hr, russian]
 models: [sonnet, opus]

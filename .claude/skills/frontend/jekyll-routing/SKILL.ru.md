@@ -1,6 +1,6 @@
 ---
 name: jekyll-routing
-description: Routing with Jekyll. file-based routing.
+description: "Routing with Jekyll. file-based routing."
 category: frontend
 tags: [jekyll-routing, frontend, russian]
 models: [sonnet, opus]

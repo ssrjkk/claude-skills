@@ -1,6 +1,6 @@
 ---
 name: sentinelone-workflow
-description: Workflow for Sentinelone: workflow optimization
+description: "Workflow for Sentinelone: workflow optimization"
 category: security
 tags: [sentinelone-workflow, security, russian]
 models: [sonnet, opus]

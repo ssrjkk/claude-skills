@@ -1,6 +1,6 @@
 ---
 name: snyk-basics
-description: Basics for Snyk: fundamentals and core concepts
+description: "Basics for Snyk: fundamentals and core concepts"
 category: security
 tags: [snyk-basics, security, russian]
 models: [sonnet, opus]

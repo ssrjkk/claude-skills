@@ -1,6 +1,6 @@
 ---
 name: gitlab-ci-security
-description: Security with GitLab CI. security scanning.
+description: "Security with GitLab CI. security scanning."
 category: devops
 tags: [gitlab-ci-security, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: orientdb-modeling
-description: Modeling with OrientDB. graph modeling.
+description: "Modeling with OrientDB. graph modeling."
 category: database
 tags: [orientdb, modeling, database, graph-database]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: pulumi-cicd
-description: CI/CD with Pulumi. pipeline integration.
+description: "CI/CD with Pulumi. pipeline integration."
 category: devops
 tags: [pulumi, cicd, devops, iac]
 models: [gpt-4, claude-3]

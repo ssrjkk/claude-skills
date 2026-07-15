@@ -1,6 +1,6 @@
 ---
 name: http-troubleshooting
-description: Troubleshooting with HTTP. diagnostics.
+description: "Troubleshooting with HTTP. diagnostics."
 category: networking
 tags: [http-troubleshooting, networking, russian]
 models: [sonnet, opus]

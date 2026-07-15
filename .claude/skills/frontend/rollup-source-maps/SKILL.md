@@ -1,6 +1,6 @@
 ---
 name: rollup-source-maps
-description: Source Maps with Rollup. debugging.
+description: "Source Maps with Rollup. debugging."
 category: frontend
 tags: [rollup, source-maps, frontend, build-tool]
 models: [gpt-4, claude-3]

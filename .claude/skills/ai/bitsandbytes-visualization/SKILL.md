@@ -1,6 +1,6 @@
 ---
 name: bitsandbytes-visualization
-description: Visualization with Bitsandbytes. model viz.
+description: "Visualization with Bitsandbytes. model viz."
 category: ai
 tags: [bitsandbytes, visualization, ai, deep-learning]
 models: [gpt-4, claude-3]

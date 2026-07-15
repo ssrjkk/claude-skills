@@ -1,6 +1,6 @@
 ---
 name: neon-troubleshooting
-description: Troubleshooting for Neon: troubleshooting common issues
+description: "Troubleshooting for Neon: troubleshooting common issues"
 category: database
 tags: [neon-troubleshooting, database, russian]
 models: [sonnet, opus]

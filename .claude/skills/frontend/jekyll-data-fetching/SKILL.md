@@ -1,6 +1,6 @@
 ---
 name: jekyll-data-fetching
-description: Data Fetching with Jekyll. data loading.
+description: "Data Fetching with Jekyll. data loading."
 category: frontend
 tags: [jekyll, data-fetching, frontend, meta-framework]
 models: [gpt-4, claude-3]

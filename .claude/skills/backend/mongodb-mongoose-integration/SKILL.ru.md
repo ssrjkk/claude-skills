@@ -1,6 +1,6 @@
 ---
 name: mongodb-mongoose-integration
-description: Integration for Mongodb-Mongoose: integration with other tools
+description: "Integration for Mongodb-Mongoose: integration with other tools"
 category: backend
 tags: [mongodb-mongoose-integration, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: polkadot-bridge
-description: Bridge with Polkadot. cross-chain.
+description: "Bridge with Polkadot. cross-chain."
 category: blockchain
 tags: [polkadot, bridge, blockchain, blockchain]
 models: [gpt-4, claude-3]

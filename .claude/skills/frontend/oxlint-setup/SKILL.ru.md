@@ -1,6 +1,6 @@
 ---
 name: oxlint-setup
-description: Setup with Oxlint. initial setup.
+description: "Setup with Oxlint. initial setup."
 category: frontend
 tags: [oxlint-setup, frontend, russian]
 models: [sonnet, opus]

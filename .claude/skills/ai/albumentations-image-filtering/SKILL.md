@@ -1,6 +1,6 @@
 ---
 name: albumentations-image-filtering
-description: Image Filtering with Albumentations. image filters.
+description: "Image Filtering with Albumentations. image filters."
 category: ai
 tags: [albumentations, image-filtering, ai, computer-vision]
 models: [gpt-4, claude-3]

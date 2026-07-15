@@ -1,6 +1,6 @@
 ---
 name: tcfd-reporting
-description: Reporting with TCFD. reporting.
+description: "Reporting with TCFD. reporting."
 category: sustainability
 tags: [tcfd-reporting, sustainability, russian]
 models: [sonnet, opus]

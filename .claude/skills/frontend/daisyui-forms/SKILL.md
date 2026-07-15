@@ -1,6 +1,6 @@
 ---
 name: daisyui-forms
-description: Forms with daisyUI. form styling.
+description: "Forms with daisyUI. form styling."
 category: frontend
 tags: [daisyui, forms, frontend, css]
 models: [gpt-4, claude-3]

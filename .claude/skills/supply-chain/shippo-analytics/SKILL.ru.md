@@ -1,6 +1,6 @@
 ---
 name: shippo-analytics
-description: Analytics with Shippo. analytics.
+description: "Analytics with Shippo. analytics."
 category: supply-chain
 tags: [shippo-analytics, supply-chain, russian]
 models: [sonnet, opus]

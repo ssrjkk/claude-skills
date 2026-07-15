@@ -1,6 +1,6 @@
 ---
 name: openshift-autoscaling
-description: Autoscaling with OpenShift. HPA.
+description: "Autoscaling with OpenShift. HPA."
 category: devops
 tags: [openshift, autoscaling, devops, kubernetes]
 models: [gpt-4, claude-3]

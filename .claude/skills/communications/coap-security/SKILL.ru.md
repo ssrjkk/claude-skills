@@ -1,6 +1,6 @@
 ---
 name: coap-security
-description: Security with CoAP. security.
+description: "Security with CoAP. security."
 category: communications
 tags: [coap-security, communications, russian]
 models: [sonnet, opus]

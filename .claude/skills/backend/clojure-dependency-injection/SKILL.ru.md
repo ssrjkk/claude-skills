@@ -1,6 +1,6 @@
 ---
 name: clojure-dependency-injection
-description: DI with Clojure. DI containers.
+description: "DI with Clojure. DI containers."
 category: backend
 tags: [clojure-dependency-injection, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: bottle-websocket
-description: WebSocket with Bottle. real-time.
+description: "WebSocket with Bottle. real-time."
 category: backend
 tags: [bottle, websocket, backend, backend]
 models: [gpt-4, claude-3]

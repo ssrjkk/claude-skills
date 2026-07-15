@@ -1,6 +1,6 @@
 ---
 name: datadog-alerts
-description: Alerts with Datadog. alerting rules.
+description: "Alerts with Datadog. alerting rules."
 category: devops
 tags: [datadog-alerts, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: dvc-integration
-description: Integration for Dvc: integration with other tools
+description: "Integration for Dvc: integration with other tools"
 category: data
 tags: [dvc, integration, data]
 models: [sonnet, opus]

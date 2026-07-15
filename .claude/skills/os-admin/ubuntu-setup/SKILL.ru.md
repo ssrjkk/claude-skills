@@ -1,6 +1,6 @@
 ---
 name: ubuntu-setup
-description: Setup with Ubuntu. installation.
+description: "Setup with Ubuntu. installation."
 category: os-admin
 tags: [ubuntu-setup, os-admin, russian]
 models: [sonnet, opus]

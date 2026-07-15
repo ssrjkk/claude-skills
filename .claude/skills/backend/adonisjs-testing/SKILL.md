@@ -1,6 +1,6 @@
 ---
 name: adonisjs-testing
-description: Testing with AdonisJS. Jest.
+description: "Testing with AdonisJS. Jest."
 category: backend
 tags: [adonisjs, testing, backend, backend]
 models: [gpt-4, claude-3]

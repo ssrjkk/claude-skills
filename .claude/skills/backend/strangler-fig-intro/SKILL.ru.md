@@ -1,6 +1,6 @@
 ---
 name: strangler-fig-intro
-description: Introduction with Strangler Fig. understanding the pattern.
+description: "Introduction with Strangler Fig. understanding the pattern."
 category: backend
 tags: [strangler-fig-intro, backend, russian]
 models: [sonnet, opus]

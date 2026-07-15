@@ -1,6 +1,6 @@
 ---
 name: bolt-guides
-description: Guides for Bolt: how-to guides
+description: "Guides for Bolt: how-to guides"
 category: gamedev
 tags: [bolt, guides, gamedev]
 models: [sonnet, opus]

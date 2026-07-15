@@ -1,6 +1,6 @@
 ---
 name: discord-bot-integration
-description: Integration with Discord Bot. integration.
+description: "Integration with Discord Bot. integration."
 category: communications
 tags: [discord-bot, integration, communications, communication-platform]
 models: [gpt-4, claude-3]

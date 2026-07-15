@@ -1,6 +1,6 @@
 ---
 name: keras-training
-description: Training with Keras. training models.
+description: "Training with Keras. training models."
 category: ai
 tags: [keras, training, ai, deep-learning]
 models: [gpt-4, claude-3]

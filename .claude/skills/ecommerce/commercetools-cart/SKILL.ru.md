@@ -1,6 +1,6 @@
 ---
 name: commercetools-cart
-description: Cart with commercetools. cart.
+description: "Cart with commercetools. cart."
 category: ecommerce
 tags: [commercetools-cart, ecommerce, russian]
 models: [sonnet, opus]

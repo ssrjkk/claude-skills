@@ -1,6 +1,6 @@
 ---
 name: snyk-compliance
-description: Compliance with Snyk. compliance.
+description: "Compliance with Snyk. compliance."
 category: security
 tags: [snyk, compliance, security, security-tool]
 models: [gpt-4, claude-3]

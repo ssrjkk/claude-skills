@@ -1,6 +1,6 @@
 ---
 name: prometheus-tsdb-clustering
-description: Clustering with Prometheus TSDB. clustering.
+description: "Clustering with Prometheus TSDB. clustering."
 category: database
 tags: [prometheus-tsdb, clustering, database, time-series]
 models: [gpt-4, claude-3]

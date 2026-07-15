@@ -1,6 +1,6 @@
 ---
 name: scylladb-examples
-description: Examples for Scylladb: practical examples
+description: "Examples for Scylladb: practical examples"
 category: database
 tags: [scylladb-examples, database, russian]
 models: [sonnet, opus]

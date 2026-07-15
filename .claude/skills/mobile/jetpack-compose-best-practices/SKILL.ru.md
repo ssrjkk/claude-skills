@@ -1,6 +1,6 @@
 ---
 name: jetpack-compose-best-practices
-description: Best Practices for Jetpack-Compose: best practices and patterns
+description: "Best Practices for Jetpack-Compose: best practices and patterns"
 category: mobile
 tags: [jetpack-compose-best-practices, mobile, russian]
 models: [sonnet, opus]

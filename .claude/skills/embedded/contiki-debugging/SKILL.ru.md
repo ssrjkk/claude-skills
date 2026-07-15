@@ -1,6 +1,6 @@
 ---
 name: contiki-debugging
-description: Debugging with Contiki-NG. debug.
+description: "Debugging with Contiki-NG. debug."
 category: embedded
 tags: [contiki-debugging, embedded, russian]
 models: [sonnet, opus]

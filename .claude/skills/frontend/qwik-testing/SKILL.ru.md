@@ -1,6 +1,6 @@
 ---
 name: qwik-testing
-description: Testing for Qwik: testing and validation
+description: "Testing for Qwik: testing and validation"
 category: frontend
 tags: [qwik-testing, frontend, russian]
 models: [sonnet, opus]

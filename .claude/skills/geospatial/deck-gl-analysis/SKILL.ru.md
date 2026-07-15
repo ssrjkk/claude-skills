@@ -1,6 +1,6 @@
 ---
 name: deck-gl-analysis
-description: Analysis with Deck.gl. spatial analysis.
+description: "Analysis with Deck.gl. spatial analysis."
 category: geospatial
 tags: [deck-gl-analysis, geospatial, russian]
 models: [sonnet, opus]

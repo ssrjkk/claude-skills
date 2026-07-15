@@ -1,6 +1,6 @@
 ---
 name: nextjs-debugging
-description: Debugging for Nextjs: debugging and troubleshooting
+description: "Debugging for Nextjs: debugging and troubleshooting"
 category: frontend
 tags: [nextjs, debugging, frontend]
 models: [sonnet, opus]

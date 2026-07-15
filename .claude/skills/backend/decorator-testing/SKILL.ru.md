@@ -1,6 +1,6 @@
 ---
 name: decorator-testing
-description: Testing with Decorator. testing the pattern.
+description: "Testing with Decorator. testing the pattern."
 category: backend
 tags: [decorator-testing, backend, russian]
 models: [sonnet, opus]

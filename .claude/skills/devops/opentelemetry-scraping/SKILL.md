@@ -1,6 +1,6 @@
 ---
 name: opentelemetry-scraping
-description: Scraping with OpenTelemetry. target discovery.
+description: "Scraping with OpenTelemetry. target discovery."
 category: devops
 tags: [opentelemetry, scraping, devops, monitoring]
 models: [gpt-4, claude-3]

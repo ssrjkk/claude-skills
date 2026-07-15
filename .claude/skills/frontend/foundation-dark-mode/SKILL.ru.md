@@ -1,6 +1,6 @@
 ---
 name: foundation-dark-mode
-description: Dark Mode with Foundation. dark theme.
+description: "Dark Mode with Foundation. dark theme."
 category: frontend
 tags: [foundation-dark-mode, frontend, russian]
 models: [sonnet, opus]

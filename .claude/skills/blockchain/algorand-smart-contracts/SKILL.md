@@ -1,6 +1,6 @@
 ---
 name: algorand-smart-contracts
-description: Smart Contracts with Algorand. contracts.
+description: "Smart Contracts with Algorand. contracts."
 category: blockchain
 tags: [algorand, smart-contracts, blockchain, blockchain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: geoserver-data
-description: Data with GeoServer. geospatial data.
+description: "Data with GeoServer. geospatial data."
 category: geospatial
 tags: [geoserver, data, geospatial, gis]
 models: [gpt-4, claude-3]

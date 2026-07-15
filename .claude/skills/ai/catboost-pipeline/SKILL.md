@@ -1,6 +1,6 @@
 ---
 name: catboost-pipeline
-description: Pipeline with Catboost. ML pipelines.
+description: "Pipeline with Catboost. ML pipelines."
 category: ai
 tags: [catboost, pipeline, ai, ml]
 models: [gpt-4, claude-3]

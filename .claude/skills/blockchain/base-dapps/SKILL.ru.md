@@ -1,6 +1,6 @@
 ---
 name: base-dapps
-description: DApps with Base. decentralized apps.
+description: "DApps with Base. decentralized apps."
 category: blockchain
 tags: [base-dapps, blockchain, russian]
 models: [sonnet, opus]

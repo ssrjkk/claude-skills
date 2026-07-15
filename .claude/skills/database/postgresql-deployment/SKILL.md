@@ -1,6 +1,6 @@
 ---
 name: postgresql-deployment
-description: Deployment for Postgresql: deployment and release
+description: "Deployment for Postgresql: deployment and release"
 category: database
 tags: [postgresql, deployment, database]
 models: [sonnet, opus]

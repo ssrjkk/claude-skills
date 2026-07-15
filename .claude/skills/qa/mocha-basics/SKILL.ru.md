@@ -1,6 +1,6 @@
 ---
 name: mocha-basics
-description: Basics for Mocha: fundamentals and core concepts
+description: "Basics for Mocha: fundamentals and core concepts"
 category: qa
 tags: [mocha-basics, qa, russian]
 models: [sonnet, opus]

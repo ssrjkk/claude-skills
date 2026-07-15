@@ -1,6 +1,6 @@
 ---
 name: evidently-production
-description: Production for Evidently: production deployment
+description: "Production for Evidently: production deployment"
 category: data
 tags: [evidently, production, data]
 models: [sonnet, opus]

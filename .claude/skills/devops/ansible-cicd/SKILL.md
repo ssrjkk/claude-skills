@@ -1,6 +1,6 @@
 ---
 name: ansible-cicd
-description: CI/CD with Ansible. pipeline integration.
+description: "CI/CD with Ansible. pipeline integration."
 category: devops
 tags: [ansible, cicd, devops, iac]
 models: [gpt-4, claude-3]

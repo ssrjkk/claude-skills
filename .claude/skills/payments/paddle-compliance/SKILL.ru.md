@@ -1,6 +1,6 @@
 ---
 name: paddle-compliance
-description: Compliance with Paddle. PCI DSS.
+description: "Compliance with Paddle. PCI DSS."
 category: payments
 tags: [paddle-compliance, payments, russian]
 models: [sonnet, opus]

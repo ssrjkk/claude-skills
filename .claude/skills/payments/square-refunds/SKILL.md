@@ -1,6 +1,6 @@
 ---
 name: square-refunds
-description: Refunds with Square. refunds.
+description: "Refunds with Square. refunds."
 category: payments
 tags: [square, refunds, payments, payments]
 models: [gpt-4, claude-3]

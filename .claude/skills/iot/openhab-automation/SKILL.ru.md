@@ -1,6 +1,6 @@
 ---
 name: openhab-automation
-description: Automation with openHAB. automation.
+description: "Automation with openHAB. automation."
 category: iot
 tags: [openhab-automation, iot, russian]
 models: [sonnet, opus]

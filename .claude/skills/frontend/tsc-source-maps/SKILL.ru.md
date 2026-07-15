@@ -1,6 +1,6 @@
 ---
 name: tsc-source-maps
-description: Source Maps with TypeScript. debugging.
+description: "Source Maps with TypeScript. debugging."
 category: frontend
 tags: [tsc-source-maps, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ping-basics
-description: Basics with ping/traceroute. basic usage.
+description: "Basics with ping/traceroute. basic usage."
 category: networking
 tags: [ping, basics, networking, networking-tool]
 models: [gpt-4, claude-3]

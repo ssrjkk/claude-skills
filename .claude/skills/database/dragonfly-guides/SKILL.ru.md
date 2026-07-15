@@ -1,6 +1,6 @@
 ---
 name: dragonfly-guides
-description: Guides for Dragonfly: how-to guides
+description: "Guides for Dragonfly: how-to guides"
 category: database
 tags: [dragonfly-guides, database, russian]
 models: [sonnet, opus]

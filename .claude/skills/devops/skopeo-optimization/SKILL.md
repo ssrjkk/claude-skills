@@ -1,6 +1,6 @@
 ---
 name: skopeo-optimization
-description: Optimization with Skopeo. image optimization.
+description: "Optimization with Skopeo. image optimization."
 category: devops
 tags: [skopeo, optimization, devops, container]
 models: [gpt-4, claude-3]

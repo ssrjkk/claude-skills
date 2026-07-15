@@ -1,6 +1,6 @@
 ---
 name: whisper-integration
-description: Integration for Whisper: integration with other tools
+description: "Integration for Whisper: integration with other tools"
 category: ai
 tags: [whisper-integration, ai, russian]
 models: [sonnet, opus]

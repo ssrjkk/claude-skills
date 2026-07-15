@@ -1,6 +1,6 @@
 ---
 name: promptflow-prompting
-description: Prompt Engineering with Promptflow. prompt templates.
+description: "Prompt Engineering with Promptflow. prompt templates."
 category: ai
 tags: [promptflow-prompting, ai, russian]
 models: [sonnet, opus]

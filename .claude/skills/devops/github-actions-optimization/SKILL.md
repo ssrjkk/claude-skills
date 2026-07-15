@@ -1,6 +1,6 @@
 ---
 name: github-actions-optimization
-description: Optimization for Github-Actions: performance tuning and optimization
+description: "Optimization for Github-Actions: performance tuning and optimization"
 category: devops
 tags: [github-actions, optimization, devops]
 models: [sonnet, opus]

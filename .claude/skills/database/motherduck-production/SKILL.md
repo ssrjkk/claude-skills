@@ -1,6 +1,6 @@
 ---
 name: motherduck-production
-description: Production for Motherduck: production deployment
+description: "Production for Motherduck: production deployment"
 category: database
 tags: [motherduck, production, database]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: crewai-fundamentals
-description: Fundamentals for Crewai: core concepts
+description: "Fundamentals for Crewai: core concepts"
 category: ai
 tags: [crewai, fundamentals, ai]
 models: [sonnet, opus]

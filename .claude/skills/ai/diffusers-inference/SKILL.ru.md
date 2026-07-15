@@ -1,6 +1,6 @@
 ---
 name: diffusers-inference
-description: Inference with Diffusers. running models.
+description: "Inference with Diffusers. running models."
 category: ai
 tags: [diffusers-inference, ai, russian]
 models: [sonnet, opus]

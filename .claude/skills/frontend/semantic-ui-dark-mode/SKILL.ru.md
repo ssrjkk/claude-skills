@@ -1,6 +1,6 @@
 ---
 name: semantic-ui-dark-mode
-description: Dark Mode with Semantic UI. dark theme.
+description: "Dark Mode with Semantic UI. dark theme."
 category: frontend
 tags: [semantic-ui-dark-mode, frontend, russian]
 models: [sonnet, opus]

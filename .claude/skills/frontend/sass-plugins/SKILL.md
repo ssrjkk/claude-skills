@@ -1,6 +1,6 @@
 ---
 name: sass-plugins
-description: Plugins with Sass. plugins.
+description: "Plugins with Sass. plugins."
 category: frontend
 tags: [sass, plugins, frontend, build-tool]
 models: [gpt-4, claude-3]

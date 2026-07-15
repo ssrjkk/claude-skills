@@ -1,6 +1,6 @@
 ---
 name: amazon-neptune-visualization
-description: Visualization with Amazon Neptune. graph viz.
+description: "Visualization with Amazon Neptune. graph viz."
 category: database
 tags: [amazon-neptune, visualization, database, graph-database]
 models: [gpt-4, claude-3]

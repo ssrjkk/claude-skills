@@ -1,6 +1,6 @@
 ---
 name: mapserver-data
-description: Data with MapServer. geospatial data.
+description: "Data with MapServer. geospatial data."
 category: geospatial
 tags: [mapserver, data, geospatial, gis]
 models: [gpt-4, claude-3]

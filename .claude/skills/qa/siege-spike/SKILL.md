@@ -1,6 +1,6 @@
 ---
 name: siege-spike
-description: Spike with Siege. spike tests.
+description: "Spike with Siege. spike tests."
 category: qa
 tags: [siege, spike, qa, performance-testing]
 models: [gpt-4, claude-3]

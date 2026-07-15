@@ -1,6 +1,6 @@
 ---
 name: haystack-memory
-description: Memory with Haystack. conversation memory.
+description: "Memory with Haystack. conversation memory."
 category: ai
 tags: [haystack-memory, ai, russian]
 models: [sonnet, opus]

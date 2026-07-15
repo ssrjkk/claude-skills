@@ -1,6 +1,6 @@
 ---
 name: sqlite-testing
-description: Testing for Sqlite: testing and validation
+description: "Testing for Sqlite: testing and validation"
 category: database
 tags: [sqlite-testing, database, russian]
 models: [sonnet, opus]

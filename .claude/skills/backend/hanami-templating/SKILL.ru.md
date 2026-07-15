@@ -1,6 +1,6 @@
 ---
 name: hanami-templating
-description: Templating with Hanami. ERB.
+description: "Templating with Hanami. ERB."
 category: backend
 tags: [hanami-templating, backend, russian]
 models: [sonnet, opus]

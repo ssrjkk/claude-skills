@@ -1,6 +1,6 @@
 ---
 name: csharp-async
-description: Async with Csharp. async operations.
+description: "Async with Csharp. async operations."
 category: backend
 tags: [csharp, async, backend, backend]
 models: [gpt-4, claude-3]

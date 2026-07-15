@@ -1,6 +1,6 @@
 ---
 name: rollup-plugins
-description: Plugins with Rollup. plugins.
+description: "Plugins with Rollup. plugins."
 category: frontend
 tags: [rollup, plugins, frontend, build-tool]
 models: [gpt-4, claude-3]

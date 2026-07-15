@@ -1,6 +1,6 @@
 ---
 name: yugabyte-migration
-description: Migration with YugabyteDB. schema migrations.
+description: "Migration with YugabyteDB. schema migrations."
 category: database
 tags: [yugabyte-migration, database, russian]
 models: [sonnet, opus]

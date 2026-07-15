@@ -1,6 +1,6 @@
 ---
 name: backlog-best-practices
-description: Best Practices with Backlog Management. tips.
+description: "Best Practices with Backlog Management. tips."
 category: product
 tags: [backlog, best-practices, product, product-framework]
 models: [gpt-4, claude-3]

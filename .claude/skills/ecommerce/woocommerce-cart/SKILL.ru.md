@@ -1,6 +1,6 @@
 ---
 name: woocommerce-cart
-description: Cart with WooCommerce. cart.
+description: "Cart with WooCommerce. cart."
 category: ecommerce
 tags: [woocommerce-cart, ecommerce, russian]
 models: [sonnet, opus]

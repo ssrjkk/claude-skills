@@ -1,6 +1,6 @@
 ---
 name: beego-grpc
-description: gRPC with Beego. gRPC services.
+description: "gRPC with Beego. gRPC services."
 category: backend
 tags: [beego, grpc, backend, backend]
 models: [gpt-4, claude-3]

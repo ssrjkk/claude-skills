@@ -1,6 +1,6 @@
 ---
 name: sqlite-migration
-description: Migration with SQLite. schema migrations.
+description: "Migration with SQLite. schema migrations."
 category: database
 tags: [sqlite-migration, database, russian]
 models: [sonnet, opus]

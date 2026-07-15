@@ -1,6 +1,6 @@
 ---
 name: jenkins-api
-description: API for Jenkins: API development and integration
+description: "API for Jenkins: API development and integration"
 category: devops
 tags: [jenkins, api, devops]
 models: [sonnet, opus]

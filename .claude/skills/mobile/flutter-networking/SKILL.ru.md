@@ -1,6 +1,6 @@
 ---
 name: flutter-networking
-description: Networking with Flutter. API calls.
+description: "Networking with Flutter. API calls."
 category: mobile
 tags: [flutter-networking, mobile, russian]
 models: [sonnet, opus]

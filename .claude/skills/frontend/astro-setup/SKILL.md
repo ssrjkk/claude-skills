@@ -1,6 +1,6 @@
 ---
 name: astro-setup
-description: Setup for Astro: installation and configuration
+description: "Setup for Astro: installation and configuration"
 category: frontend
 tags: [astro, setup, frontend]
 models: [sonnet, opus]

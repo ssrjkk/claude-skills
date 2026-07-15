@@ -1,6 +1,6 @@
 ---
 name: cdk-modules
-description: Modules with AWS CDK. modules.
+description: "Modules with AWS CDK. modules."
 category: devops
 tags: [cdk-modules, devops, russian]
 models: [sonnet, opus]

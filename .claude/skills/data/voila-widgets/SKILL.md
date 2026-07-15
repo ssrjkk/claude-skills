@@ -1,6 +1,6 @@
 ---
 name: voila-widgets
-description: Widgets with Voila. input widgets.
+description: "Widgets with Voila. input widgets."
 category: data
 tags: [voila, widgets, data, data-apps]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: jax-optimization
-description: Optimization with Jax. model optimization.
+description: "Optimization with Jax. model optimization."
 category: ai
 tags: [jax, optimization, ai, deep-learning]
 models: [gpt-4, claude-3]

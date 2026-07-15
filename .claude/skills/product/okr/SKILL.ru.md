@@ -1,6 +1,6 @@
 ---
 name: okr
-description: Defines Objectives and Key Results (OKRs) for product teams, including goal setting and progress tracking.
+description: "Defines Objectives and Key Results (OKRs) for product teams, including goal setting and progress tracking."
 category: product
 tags: [okr, product, russian]
 models: [sonnet, opus]

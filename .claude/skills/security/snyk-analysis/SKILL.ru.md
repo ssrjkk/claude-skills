@@ -1,6 +1,6 @@
 ---
 name: snyk-analysis
-description: Analysis with Snyk. analysis.
+description: "Analysis with Snyk. analysis."
 category: security
 tags: [snyk-analysis, security, russian]
 models: [sonnet, opus]

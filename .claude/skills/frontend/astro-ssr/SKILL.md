@@ -1,6 +1,6 @@
 ---
 name: astro-ssr
-description: SSR with Astro. server rendering.
+description: "SSR with Astro. server rendering."
 category: frontend
 tags: [astro, ssr, frontend, meta-framework]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: junit-mocking
-description: Mocking with JUnit. mocks.
+description: "Mocking with JUnit. mocks."
 category: qa
 tags: [junit-mocking, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: esphome-integration
-description: Integration with ESPHome. integrations.
+description: "Integration with ESPHome. integrations."
 category: iot
 tags: [esphome, integration, iot, iot-platform]
 models: [gpt-4, claude-3]

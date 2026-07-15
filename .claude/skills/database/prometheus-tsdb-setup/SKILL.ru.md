@@ -1,6 +1,6 @@
 ---
 name: prometheus-tsdb-setup
-description: Setup with Prometheus TSDB. installation.
+description: "Setup with Prometheus TSDB. installation."
 category: database
 tags: [prometheus-tsdb-setup, database, russian]
 models: [sonnet, opus]

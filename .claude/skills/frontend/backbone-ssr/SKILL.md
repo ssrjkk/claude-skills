@@ -1,6 +1,6 @@
 ---
 name: backbone-ssr
-description: SSR with Backbone. server rendering.
+description: "SSR with Backbone. server rendering."
 category: frontend
 tags: [backbone, ssr, frontend, frontend]
 models: [gpt-4, claude-3]

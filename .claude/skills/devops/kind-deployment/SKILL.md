@@ -1,6 +1,6 @@
 ---
 name: kind-deployment
-description: Deployment with Kind. apps deployment.
+description: "Deployment with Kind. apps deployment."
 category: devops
 tags: [kind, deployment, devops, kubernetes]
 models: [gpt-4, claude-3]

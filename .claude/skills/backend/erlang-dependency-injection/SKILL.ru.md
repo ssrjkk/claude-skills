@@ -1,6 +1,6 @@
 ---
 name: erlang-dependency-injection
-description: DI with Erlang. DI containers.
+description: "DI with Erlang. DI containers."
 category: backend
 tags: [erlang-dependency-injection, backend, russian]
 models: [sonnet, opus]

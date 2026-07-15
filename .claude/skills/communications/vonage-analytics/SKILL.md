@@ -1,6 +1,6 @@
 ---
 name: vonage-analytics
-description: Analytics with Vonage. analytics.
+description: "Analytics with Vonage. analytics."
 category: communications
 tags: [vonage, analytics, communications, communication-platform]
 models: [gpt-4, claude-3]

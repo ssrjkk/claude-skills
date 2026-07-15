@@ -1,6 +1,6 @@
 ---
 name: aurelia-testing
-description: Testing with Aurelia. component testing.
+description: "Testing with Aurelia. component testing."
 category: frontend
 tags: [aurelia, testing, frontend, frontend]
 models: [gpt-4, claude-3]

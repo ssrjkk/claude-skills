@@ -1,6 +1,6 @@
 ---
 name: vllm-streaming
-description: Streaming with Vllm. token streaming.
+description: "Streaming with Vllm. token streaming."
 category: ai
 tags: [vllm, streaming, ai, llm]
 models: [gpt-4, claude-3]

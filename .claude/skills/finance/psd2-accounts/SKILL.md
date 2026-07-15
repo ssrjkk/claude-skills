@@ -1,6 +1,6 @@
 ---
 name: psd2-accounts
-description: Accounts with PSD2. account linking.
+description: "Accounts with PSD2. account linking."
 category: finance
 tags: [psd2, accounts, finance, fintech]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: clearml-regression
-description: Regression with Clearml. predicting values.
+description: "Regression with Clearml. predicting values."
 category: ai
 tags: [clearml, regression, ai, ml]
 models: [gpt-4, claude-3]

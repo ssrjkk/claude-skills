@@ -1,6 +1,6 @@
 ---
 name: sentence-transformers-tokenization
-description: Tokenization with Sentence Transformers. text tokenization.
+description: "Tokenization with Sentence Transformers. text tokenization."
 category: ai
 tags: [sentence-transformers-tokenization, ai, russian]
 models: [sonnet, opus]

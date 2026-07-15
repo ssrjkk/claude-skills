@@ -1,6 +1,6 @@
 ---
 name: transformers-data-loading
-description: Data Loading with Transformers. data pipelines.
+description: "Data Loading with Transformers. data pipelines."
 category: ai
 tags: [transformers-data-loading, ai, russian]
 models: [sonnet, opus]

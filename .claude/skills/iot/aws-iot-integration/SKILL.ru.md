@@ -1,6 +1,6 @@
 ---
 name: aws-iot-integration
-description: Integration with AWS IoT. integrations.
+description: "Integration with AWS IoT. integrations."
 category: iot
 tags: [aws-iot-integration, iot, russian]
 models: [sonnet, opus]

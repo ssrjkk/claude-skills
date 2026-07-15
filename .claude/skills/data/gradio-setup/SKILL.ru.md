@@ -1,6 +1,6 @@
 ---
 name: gradio-setup
-description: Setup with Gradio. installation.
+description: "Setup with Gradio. installation."
 category: data
 tags: [gradio-setup, data, russian]
 models: [sonnet, opus]

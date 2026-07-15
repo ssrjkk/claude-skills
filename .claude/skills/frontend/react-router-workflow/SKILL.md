@@ -1,6 +1,6 @@
 ---
 name: react-router-workflow
-description: Workflow for React-Router: workflow optimization
+description: "Workflow for React-Router: workflow optimization"
 category: frontend
 tags: [react-router, workflow, frontend]
 models: [sonnet, opus]

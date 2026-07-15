@@ -1,6 +1,6 @@
 ---
 name: lti-basics
-description: Basics with LTI. fundamentals.
+description: "Basics with LTI. fundamentals."
 category: education
 tags: [lti, basics, education, education-standard]
 models: [gpt-4, claude-3]

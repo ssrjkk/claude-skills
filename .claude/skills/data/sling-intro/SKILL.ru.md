@@ -1,6 +1,6 @@
 ---
 name: sling-intro
-description: Intro for Sling: introduction
+description: "Intro for Sling: introduction"
 category: data
 tags: [sling-intro, data, russian]
 models: [sonnet, opus]

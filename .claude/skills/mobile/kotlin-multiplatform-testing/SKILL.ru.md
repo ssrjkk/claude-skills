@@ -1,6 +1,6 @@
 ---
 name: kotlin-multiplatform-testing
-description: Testing with Kotlin Multiplatform. testing.
+description: "Testing with Kotlin Multiplatform. testing."
 category: mobile
 tags: [kotlin-multiplatform-testing, mobile, russian]
 models: [sonnet, opus]

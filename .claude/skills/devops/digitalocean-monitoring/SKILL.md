@@ -1,6 +1,6 @@
 ---
 name: digitalocean-monitoring
-description: Monitoring with DigitalOcean. monitoring.
+description: "Monitoring with DigitalOcean. monitoring."
 category: devops
 tags: [digitalocean, monitoring, devops, cloud]
 models: [gpt-4, claude-3]

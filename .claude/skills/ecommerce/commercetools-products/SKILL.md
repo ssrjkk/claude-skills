@@ -1,6 +1,6 @@
 ---
 name: commercetools-products
-description: Products with commercetools. product management.
+description: "Products with commercetools. product management."
 category: ecommerce
 tags: [commercetools, products, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

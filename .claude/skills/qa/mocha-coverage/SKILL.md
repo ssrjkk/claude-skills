@@ -1,6 +1,6 @@
 ---
 name: mocha-coverage
-description: Coverage with Mocha. code coverage.
+description: "Coverage with Mocha. code coverage."
 category: qa
 tags: [mocha, coverage, qa, testing]
 models: [gpt-4, claude-3]

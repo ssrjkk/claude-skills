@@ -1,6 +1,6 @@
 ---
 name: apache-beam-setup
-description: Setup with Apache Beam. installation.
+description: "Setup with Apache Beam. installation."
 category: data
 tags: [apache-beam, setup, data, data-engineering]
 models: [gpt-4, claude-3]

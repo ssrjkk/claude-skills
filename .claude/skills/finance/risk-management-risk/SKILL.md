@@ -1,6 +1,6 @@
 ---
 name: risk-management-risk
-description: Risk with Risk Management. risk analysis.
+description: "Risk with Risk Management. risk analysis."
 category: finance
 tags: [risk-management, risk, finance, trading]
 models: [gpt-4, claude-3]

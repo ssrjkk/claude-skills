@@ -1,6 +1,6 @@
 ---
 name: cosmos-smart-contracts
-description: Smart Contracts with Cosmos. contracts.
+description: "Smart Contracts with Cosmos. contracts."
 category: blockchain
 tags: [cosmos-smart-contracts, blockchain, russian]
 models: [sonnet, opus]

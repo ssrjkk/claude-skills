@@ -1,6 +1,6 @@
 ---
 name: php-async
-description: Async with Php. async operations.
+description: "Async with Php. async operations."
 category: backend
 tags: [php-async, backend, russian]
 models: [sonnet, opus]

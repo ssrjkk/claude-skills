@@ -1,6 +1,6 @@
 ---
 name: mistral-debugging
-description: Debugging for Mistral: debugging and troubleshooting
+description: "Debugging for Mistral: debugging and troubleshooting"
 category: ai
 tags: [mistral-debugging, ai, russian]
 models: [sonnet, opus]

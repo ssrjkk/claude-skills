@@ -1,6 +1,6 @@
 ---
 name: user-stories-tools
-description: Tools with User Stories. tools.
+description: "Tools with User Stories. tools."
 category: product
 tags: [user-stories-tools, product, russian]
 models: [sonnet, opus]

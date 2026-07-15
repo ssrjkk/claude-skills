@@ -1,6 +1,6 @@
 ---
 name: opentelemetry-logging
-description: Logging with OpenTelemetry. log collection.
+description: "Logging with OpenTelemetry. log collection."
 category: devops
 tags: [opentelemetry-logging, devops, russian]
 models: [sonnet, opus]

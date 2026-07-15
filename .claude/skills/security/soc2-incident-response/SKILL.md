@@ -1,6 +1,6 @@
 ---
 name: soc2-incident-response
-description: Incident Response with SOC 2. incident response.
+description: "Incident Response with SOC 2. incident response."
 category: security
 tags: [soc2, incident-response, security, security]
 models: [gpt-4, claude-3]

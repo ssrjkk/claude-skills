@@ -1,6 +1,6 @@
 ---
 name: saga-scaling
-description: Scaling with Saga. scaling considerations.
+description: "Scaling with Saga. scaling considerations."
 category: backend
 tags: [saga, scaling, backend, architecture]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: openshift-rbac
-description: RBAC with OpenShift. access control.
+description: "RBAC with OpenShift. access control."
 category: devops
 tags: [openshift, rbac, devops, kubernetes]
 models: [gpt-4, claude-3]

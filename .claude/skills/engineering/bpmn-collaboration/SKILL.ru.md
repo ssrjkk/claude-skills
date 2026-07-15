@@ -1,6 +1,6 @@
 ---
 name: bpmn-collaboration
-description: Collaboration with BPMN. team collaboration.
+description: "Collaboration with BPMN. team collaboration."
 category: engineering
 tags: [bpmn-collaboration, engineering, russian]
 models: [sonnet, opus]

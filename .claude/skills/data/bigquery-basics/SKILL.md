@@ -1,6 +1,6 @@
 ---
 name: bigquery-basics
-description: Basics for Bigquery: fundamentals and core concepts
+description: "Basics for Bigquery: fundamentals and core concepts"
 category: data
 tags: [bigquery, basics, data]
 models: [sonnet, opus]

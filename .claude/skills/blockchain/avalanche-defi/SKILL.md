@@ -1,6 +1,6 @@
 ---
 name: avalanche-defi
-description: DeFi with Avalanche. DeFi.
+description: "DeFi with Avalanche. DeFi."
 category: blockchain
 tags: [avalanche, defi, blockchain, blockchain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: ragas-troubleshooting
-description: Troubleshooting for Ragas: troubleshooting common issues
+description: "Troubleshooting for Ragas: troubleshooting common issues"
 category: ai
 tags: [ragas, troubleshooting, ai]
 models: [sonnet, opus]

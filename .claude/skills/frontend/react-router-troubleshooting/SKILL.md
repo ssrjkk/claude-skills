@@ -1,6 +1,6 @@
 ---
 name: react-router-troubleshooting
-description: Troubleshooting for React-Router: troubleshooting common issues
+description: "Troubleshooting for React-Router: troubleshooting common issues"
 category: frontend
 tags: [react-router, troubleshooting, frontend]
 models: [sonnet, opus]

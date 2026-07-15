@@ -1,6 +1,6 @@
 ---
 name: dvc-automation
-description: Automation for Dvc: automation and scripting
+description: "Automation for Dvc: automation and scripting"
 category: data
 tags: [dvc, automation, data]
 models: [sonnet, opus]

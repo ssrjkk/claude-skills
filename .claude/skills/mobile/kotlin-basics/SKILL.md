@@ -1,6 +1,6 @@
 ---
 name: kotlin-basics
-description: Basics for Kotlin: fundamentals and core concepts
+description: "Basics for Kotlin: fundamentals and core concepts"
 category: mobile
 tags: [kotlin, basics, mobile]
 models: [sonnet, opus]

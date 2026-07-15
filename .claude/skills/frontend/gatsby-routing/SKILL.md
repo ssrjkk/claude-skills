@@ -1,6 +1,6 @@
 ---
 name: gatsby-routing
-description: Routing with Gatsby. file-based routing.
+description: "Routing with Gatsby. file-based routing."
 category: frontend
 tags: [gatsby, routing, frontend, meta-framework]
 models: [gpt-4, claude-3]

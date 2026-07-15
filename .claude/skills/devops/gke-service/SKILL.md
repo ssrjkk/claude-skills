@@ -1,6 +1,6 @@
 ---
 name: gke-service
-description: Service with Google GKE. services.
+description: "Service with Google GKE. services."
 category: devops
 tags: [gke, service, devops, kubernetes]
 models: [gpt-4, claude-3]

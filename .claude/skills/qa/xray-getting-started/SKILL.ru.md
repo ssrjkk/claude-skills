@@ -1,6 +1,6 @@
 ---
 name: xray-getting-started
-description: Getting Started for Xray: initial setup and first steps
+description: "Getting Started for Xray: initial setup and first steps"
 category: qa
 tags: [xray-getting-started, qa, russian]
 models: [sonnet, opus]

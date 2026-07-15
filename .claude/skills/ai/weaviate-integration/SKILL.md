@@ -1,6 +1,6 @@
 ---
 name: weaviate-integration
-description: Integration for Weaviate: integration with other tools
+description: "Integration for Weaviate: integration with other tools"
 category: ai
 tags: [weaviate, integration, ai]
 models: [sonnet, opus]

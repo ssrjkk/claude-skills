@@ -1,6 +1,6 @@
 ---
 name: dicom-interoperability
-description: Interop with DICOM. interoperability.
+description: "Interop with DICOM. interoperability."
 category: healthcare
 tags: [dicom-interoperability, healthcare, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: aws-lambda-guides
-description: Guides for Aws-Lambda: how-to guides
+description: "Guides for Aws-Lambda: how-to guides"
 category: cloud
 tags: [aws-lambda-guides, cloud, russian]
 models: [sonnet, opus]

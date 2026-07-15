@@ -1,6 +1,6 @@
 ---
 name: aesprite-getting-started
-description: Getting Started for Aesprite: initial setup and first steps
+description: "Getting Started for Aesprite: initial setup and first steps"
 category: gamedev
 tags: [aesprite, getting-started, gamedev]
 models: [sonnet, opus]

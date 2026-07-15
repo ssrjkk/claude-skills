@@ -1,6 +1,6 @@
 ---
 name: neptune-experiment-tracking
-description: Experiment Tracking with Neptune. tracking experiments.
+description: "Experiment Tracking with Neptune. tracking experiments."
 category: ai
 tags: [neptune-experiment-tracking, ai, russian]
 models: [sonnet, opus]

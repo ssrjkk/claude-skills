@@ -1,6 +1,6 @@
 ---
 name: app-icon-intro
-description: Intro for App-Icon: introduction
+description: "Intro for App-Icon: introduction"
 category: mobile
 tags: [app-icon-intro, mobile, russian]
 models: [sonnet, opus]

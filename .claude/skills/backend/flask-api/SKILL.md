@@ -1,6 +1,6 @@
 ---
 name: flask-api
-description: API for Flask: API development and integration
+description: "API for Flask: API development and integration"
 category: backend
 tags: [flask, api, backend]
 models: [sonnet, opus]

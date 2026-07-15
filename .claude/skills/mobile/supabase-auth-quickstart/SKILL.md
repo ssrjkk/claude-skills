@@ -1,6 +1,6 @@
 ---
 name: supabase-auth-quickstart
-description: Quickstart for Supabase-Auth: quick start guide
+description: "Quickstart for Supabase-Auth: quick start guide"
 category: mobile
 tags: [supabase-auth, quickstart, mobile]
 models: [sonnet, opus]

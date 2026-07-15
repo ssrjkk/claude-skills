@@ -1,6 +1,6 @@
 ---
 name: wireshark-basics
-description: Basics with Wireshark. basic usage.
+description: "Basics with Wireshark. basic usage."
 category: networking
 tags: [wireshark, basics, networking, networking-tool]
 models: [gpt-4, claude-3]

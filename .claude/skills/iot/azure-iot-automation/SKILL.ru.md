@@ -1,6 +1,6 @@
 ---
 name: azure-iot-automation
-description: Automation with Azure IoT. automation.
+description: "Automation with Azure IoT. automation."
 category: iot
 tags: [azure-iot-automation, iot, russian]
 models: [sonnet, opus]

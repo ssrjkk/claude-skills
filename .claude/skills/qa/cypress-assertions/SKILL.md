@@ -1,6 +1,6 @@
 ---
 name: cypress-assertions
-description: Assertions with Cypress. assertions.
+description: "Assertions with Cypress. assertions."
 category: qa
 tags: [cypress, assertions, qa, e2e]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: nicegui-performance
-description: Performance with NiceGUI. performance.
+description: "Performance with NiceGUI. performance."
 category: data
 tags: [nicegui-performance, data, russian]
 models: [sonnet, opus]

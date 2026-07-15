@@ -1,6 +1,6 @@
 ---
 name: pro-builder-examples
-description: Examples for Pro-Builder: practical examples
+description: "Examples for Pro-Builder: practical examples"
 category: gamedev
 tags: [pro-builder-examples, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: windows-update-networking
-description: Networking with Windows Update. network.
+description: "Networking with Windows Update. network."
 category: os-admin
 tags: [windows-update-networking, os-admin, russian]
 models: [sonnet, opus]

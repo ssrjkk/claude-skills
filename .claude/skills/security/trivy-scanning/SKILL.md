@@ -1,6 +1,6 @@
 ---
 name: trivy-scanning
-description: Scanning with Trivy. security scanning.
+description: "Scanning with Trivy. security scanning."
 category: security
 tags: [trivy, scanning, security, security-tool]
 models: [gpt-4, claude-3]

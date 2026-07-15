@@ -1,6 +1,6 @@
 ---
 name: storybook-api-routes
-description: API Routes with Storybook. API endpoints.
+description: "API Routes with Storybook. API endpoints."
 category: frontend
 tags: [storybook-api-routes, frontend, russian]
 models: [sonnet, opus]

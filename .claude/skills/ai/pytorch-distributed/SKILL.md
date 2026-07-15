@@ -1,6 +1,6 @@
 ---
 name: pytorch-distributed
-description: Distributed with Pytorch. distributed training.
+description: "Distributed with Pytorch. distributed training."
 category: ai
 tags: [pytorch, distributed, ai, deep-learning]
 models: [gpt-4, claude-3]

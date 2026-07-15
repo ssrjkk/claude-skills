@@ -1,6 +1,6 @@
 ---
 name: microgrid-optimization
-description: Optimization with Microgrid. optimization.
+description: "Optimization with Microgrid. optimization."
 category: energy
 tags: [microgrid-optimization, energy, russian]
 models: [sonnet, opus]

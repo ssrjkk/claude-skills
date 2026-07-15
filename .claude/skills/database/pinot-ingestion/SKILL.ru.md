@@ -1,6 +1,6 @@
 ---
 name: pinot-ingestion
-description: Ingestion with Apache Pinot. data ingestion.
+description: "Ingestion with Apache Pinot. data ingestion."
 category: database
 tags: [pinot-ingestion, database, russian]
 models: [sonnet, opus]

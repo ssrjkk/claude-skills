@@ -1,6 +1,6 @@
 ---
 name: stripe-webhooks
-description: Webhooks with Stripe. webhooks.
+description: "Webhooks with Stripe. webhooks."
 category: payments
 tags: [stripe-webhooks, payments, russian]
 models: [sonnet, opus]

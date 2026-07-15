@@ -1,6 +1,6 @@
 ---
 name: c4-model-tools
-description: Tools with C4 Model. tooling.
+description: "Tools with C4 Model. tooling."
 category: engineering
 tags: [c4-model, tools, engineering, modeling]
 models: [gpt-4, claude-3]

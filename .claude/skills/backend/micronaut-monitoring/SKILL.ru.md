@@ -1,6 +1,6 @@
 ---
 name: micronaut-monitoring
-description: Monitoring with Micronaut. metrics.
+description: "Monitoring with Micronaut. metrics."
 category: backend
 tags: [micronaut-monitoring, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sqlite-optimization
-description: Optimization with SQLite. query tuning.
+description: "Optimization with SQLite. query tuning."
 category: database
 tags: [sqlite, optimization, database, sql]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: threadx-interrupts
-description: Interrupts with ThreadX. ISR handling.
+description: "Interrupts with ThreadX. ISR handling."
 category: embedded
 tags: [threadx, interrupts, embedded, rtos]
 models: [gpt-4, claude-3]

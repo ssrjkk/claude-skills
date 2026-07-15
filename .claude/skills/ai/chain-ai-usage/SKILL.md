@@ -1,6 +1,6 @@
 ---
 name: chain-ai-usage
-description: Usage for Chain-Ai: usage reference
+description: "Usage for Chain-Ai: usage reference"
 category: ai
 tags: [chain-ai, usage, ai]
 models: [sonnet, opus]

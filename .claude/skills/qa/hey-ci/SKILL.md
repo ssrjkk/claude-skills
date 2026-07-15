@@ -1,6 +1,6 @@
 ---
 name: hey-ci
-description: CI with hey. CI integration.
+description: "CI with hey. CI integration."
 category: qa
 tags: [hey, ci, qa, performance-testing]
 models: [gpt-4, claude-3]

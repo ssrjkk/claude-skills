@@ -1,6 +1,6 @@
 ---
 name: azure-aks-fundamentals
-description: Fundamentals for Azure-Aks: core concepts
+description: "Fundamentals for Azure-Aks: core concepts"
 category: cloud
 tags: [azure-aks-fundamentals, cloud, russian]
 models: [sonnet, opus]

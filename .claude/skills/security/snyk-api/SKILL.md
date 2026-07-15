@@ -1,6 +1,6 @@
 ---
 name: snyk-api
-description: API for Snyk: API development and integration
+description: "API for Snyk: API development and integration"
 category: security
 tags: [snyk, api, security]
 models: [sonnet, opus]

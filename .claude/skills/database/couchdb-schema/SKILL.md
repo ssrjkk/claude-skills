@@ -1,6 +1,6 @@
 ---
 name: couchdb-schema
-description: Schema Design with CouchDB. schema design.
+description: "Schema Design with CouchDB. schema design."
 category: database
 tags: [couchdb, schema, database, nosql]
 models: [gpt-4, claude-3]

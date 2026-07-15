@@ -1,6 +1,6 @@
 ---
 name: lxc-networking
-description: Networking with LXC. container networks.
+description: "Networking with LXC. container networks."
 category: devops
 tags: [lxc-networking, devops, russian]
 models: [sonnet, opus]

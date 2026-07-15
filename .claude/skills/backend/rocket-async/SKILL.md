@@ -1,6 +1,6 @@
 ---
 name: rocket-async
-description: Async with Rocket. async handlers.
+description: "Async with Rocket. async handlers."
 category: backend
 tags: [rocket, async, backend, backend]
 models: [gpt-4, claude-3]

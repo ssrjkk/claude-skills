@@ -1,6 +1,6 @@
 ---
 name: sqlite-indexing
-description: Indexing with SQLite. indexes.
+description: "Indexing with SQLite. indexes."
 category: database
 tags: [sqlite, indexing, database, sql]
 models: [gpt-4, claude-3]

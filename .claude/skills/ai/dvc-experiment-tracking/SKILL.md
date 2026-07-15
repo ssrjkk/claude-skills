@@ -1,6 +1,6 @@
 ---
 name: dvc-experiment-tracking
-description: Experiment Tracking with Dvc. tracking experiments.
+description: "Experiment Tracking with Dvc. tracking experiments."
 category: ai
 tags: [dvc, experiment-tracking, ai, ml]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: signoz-tracing
-description: Tracing with SigNoz. distributed tracing.
+description: "Tracing with SigNoz. distributed tracing."
 category: devops
 tags: [signoz-tracing, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: langsmith-getting-started
-description: Getting Started for Langsmith: initial setup and first steps
+description: "Getting Started for Langsmith: initial setup and first steps"
 category: ai
 tags: [langsmith-getting-started, ai, russian]
 models: [sonnet, opus]

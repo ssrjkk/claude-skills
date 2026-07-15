@@ -1,6 +1,6 @@
 ---
 name: tkinter-setup
-description: Setup with Tkinter. SDK setup.
+description: "Setup with Tkinter. SDK setup."
 category: desktop
 tags: [tkinter, setup, desktop, desktop]
 models: [gpt-4, claude-3]

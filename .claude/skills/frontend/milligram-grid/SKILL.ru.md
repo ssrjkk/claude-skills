@@ -1,6 +1,6 @@
 ---
 name: milligram-grid
-description: Grid with Milligram. layout grids.
+description: "Grid with Milligram. layout grids."
 category: frontend
 tags: [milligram-grid, frontend, russian]
 models: [sonnet, opus]

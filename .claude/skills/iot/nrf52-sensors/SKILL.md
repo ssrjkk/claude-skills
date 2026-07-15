@@ -1,6 +1,6 @@
 ---
 name: nrf52-sensors
-description: Sensors with nRF52. sensor integration.
+description: "Sensors with nRF52. sensor integration."
 category: iot
 tags: [nrf52, sensors, iot, iot]
 models: [gpt-4, claude-3]

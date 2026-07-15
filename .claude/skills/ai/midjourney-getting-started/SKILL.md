@@ -1,6 +1,6 @@
 ---
 name: midjourney-getting-started
-description: Getting Started for Midjourney: initial setup and first steps
+description: "Getting Started for Midjourney: initial setup and first steps"
 category: ai
 tags: [midjourney, getting-started, ai]
 models: [sonnet, opus]

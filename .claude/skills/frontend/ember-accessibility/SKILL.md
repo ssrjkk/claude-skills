@@ -1,6 +1,6 @@
 ---
 name: ember-accessibility
-description: Accessibility with Ember. a11y.
+description: "Accessibility with Ember. a11y."
 category: frontend
 tags: [ember, accessibility, frontend, frontend]
 models: [gpt-4, claude-3]

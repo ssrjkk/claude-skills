@@ -1,6 +1,6 @@
 ---
 name: gin-middleware
-description: Middleware with Gin. request pipeline.
+description: "Middleware with Gin. request pipeline."
 category: backend
 tags: [gin-middleware, backend, russian]
 models: [sonnet, opus]

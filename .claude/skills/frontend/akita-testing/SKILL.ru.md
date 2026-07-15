@@ -1,6 +1,6 @@
 ---
 name: akita-testing
-description: Testing with Akita. state testing.
+description: "Testing with Akita. state testing."
 category: frontend
 tags: [akita-testing, frontend, russian]
 models: [sonnet, opus]

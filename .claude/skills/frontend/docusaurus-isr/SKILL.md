@@ -1,6 +1,6 @@
 ---
 name: docusaurus-isr
-description: ISR with Docusaurus. incremental.
+description: "ISR with Docusaurus. incremental."
 category: frontend
 tags: [docusaurus, isr, frontend, meta-framework]
 models: [gpt-4, claude-3]

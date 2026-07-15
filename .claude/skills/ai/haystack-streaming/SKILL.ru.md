@@ -1,6 +1,6 @@
 ---
 name: haystack-streaming
-description: Streaming with Haystack. token streaming.
+description: "Streaming with Haystack. token streaming."
 category: ai
 tags: [haystack-streaming, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: solr-indexing
-description: Indexing with Solr. document indexing.
+description: "Indexing with Solr. document indexing."
 category: database
 tags: [solr, indexing, database, search-engine]
 models: [gpt-4, claude-3]

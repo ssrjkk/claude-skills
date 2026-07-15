@@ -1,6 +1,6 @@
 ---
 name: wasm-bindgen
-description: Development with Wasm-Bindgen: tools and best practices
+description: "Development with Wasm-Bindgen: tools and best practices"
 category: database
 tags: [wasm-bindgen, database, development]
 models: [sonnet, opus]

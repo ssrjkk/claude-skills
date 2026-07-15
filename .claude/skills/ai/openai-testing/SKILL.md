@@ -1,6 +1,6 @@
 ---
 name: openai-testing
-description: Testing for Openai: testing and validation
+description: "Testing for Openai: testing and validation"
 category: ai
 tags: [openai, testing, ai]
 models: [sonnet, opus]

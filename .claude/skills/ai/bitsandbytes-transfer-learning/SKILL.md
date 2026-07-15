@@ -1,6 +1,6 @@
 ---
 name: bitsandbytes-transfer-learning
-description: Transfer Learning with Bitsandbytes. transfer learning.
+description: "Transfer Learning with Bitsandbytes. transfer learning."
 category: ai
 tags: [bitsandbytes, transfer-learning, ai, deep-learning]
 models: [gpt-4, claude-3]

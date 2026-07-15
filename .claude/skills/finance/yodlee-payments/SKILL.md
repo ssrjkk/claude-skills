@@ -1,6 +1,6 @@
 ---
 name: yodlee-payments
-description: Payments with Yodlee. payments.
+description: "Payments with Yodlee. payments."
 category: finance
 tags: [yodlee, payments, finance, fintech]
 models: [gpt-4, claude-3]

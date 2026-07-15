@@ -1,6 +1,6 @@
 ---
 name: gin-testing
-description: Testing with Gin. unit tests.
+description: "Testing with Gin. unit tests."
 category: backend
 tags: [gin, testing, backend, backend]
 models: [gpt-4, claude-3]

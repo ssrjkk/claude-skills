@@ -1,6 +1,6 @@
 ---
 name: spec-tools
-description: Tools with Specification Writing. tools.
+description: "Tools with Specification Writing. tools."
 category: product
 tags: [spec-tools, product, russian]
 models: [sonnet, opus]

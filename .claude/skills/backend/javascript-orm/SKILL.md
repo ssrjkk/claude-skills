@@ -1,6 +1,6 @@
 ---
 name: javascript-orm
-description: ORM with Javascript. database access.
+description: "ORM with Javascript. database access."
 category: backend
 tags: [javascript, orm, backend, backend]
 models: [gpt-4, claude-3]

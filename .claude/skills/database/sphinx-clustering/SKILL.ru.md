@@ -1,6 +1,6 @@
 ---
 name: sphinx-clustering
-description: Clustering with Sphinx. cluster setup.
+description: "Clustering with Sphinx. cluster setup."
 category: database
 tags: [sphinx-clustering, database, russian]
 models: [sonnet, opus]

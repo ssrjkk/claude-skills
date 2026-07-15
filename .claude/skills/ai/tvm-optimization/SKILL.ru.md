@@ -1,6 +1,6 @@
 ---
 name: tvm-optimization
-description: Optimization with Tvm. model optimization.
+description: "Optimization with Tvm. model optimization."
 category: ai
 tags: [tvm-optimization, ai, russian]
 models: [sonnet, opus]

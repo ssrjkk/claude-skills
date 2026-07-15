@@ -1,6 +1,6 @@
 ---
 name: chef-networking
-description: Networking with Chef. network infra.
+description: "Networking with Chef. network infra."
 category: devops
 tags: [chef, networking, devops, iac]
 models: [gpt-4, claude-3]

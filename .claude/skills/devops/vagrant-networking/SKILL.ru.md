@@ -1,6 +1,6 @@
 ---
 name: vagrant-networking
-description: Networking with Vagrant. network infra.
+description: "Networking with Vagrant. network infra."
 category: devops
 tags: [vagrant-networking, devops, russian]
 models: [sonnet, opus]

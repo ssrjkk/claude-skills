@@ -1,6 +1,6 @@
 ---
 name: gemini-api
-description: Integrates Google's Gemini API for text generation, vision, embeddings, and function calling.
+description: "Integrates Google's Gemini API for text generation, vision, embeddings, and function calling."
 category: ai
 tags: [gemini-api, ai, russian]
 models: [sonnet, opus]

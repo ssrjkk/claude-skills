@@ -1,6 +1,6 @@
 ---
 name: iso27001-testing
-description: Testing with ISO 27001. security testing.
+description: "Testing with ISO 27001. security testing."
 category: security
 tags: [iso27001, testing, security, security]
 models: [gpt-4, claude-3]

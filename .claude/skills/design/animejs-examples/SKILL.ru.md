@@ -1,6 +1,6 @@
 ---
 name: animejs-examples
-description: Examples for Animejs: practical examples
+description: "Examples for Animejs: practical examples"
 category: design
 tags: [animejs-examples, design, russian]
 models: [sonnet, opus]

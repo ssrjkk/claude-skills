@@ -1,6 +1,6 @@
 ---
 name: react-router-production
-description: Production for React-Router: production deployment
+description: "Production for React-Router: production deployment"
 category: frontend
 tags: [react-router-production, frontend, russian]
 models: [sonnet, opus]

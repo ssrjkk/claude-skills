@@ -1,6 +1,6 @@
 ---
 name: nuxt-api
-description: API for Nuxt: API development and integration
+description: "API for Nuxt: API development and integration"
 category: frontend
 tags: [nuxt, api, frontend]
 models: [sonnet, opus]

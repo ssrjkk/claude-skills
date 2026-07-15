@@ -1,6 +1,6 @@
 ---
 name: motherduck-getting-started
-description: Getting Started for Motherduck: initial setup and first steps
+description: "Getting Started for Motherduck: initial setup and first steps"
 category: database
 tags: [motherduck, getting-started, database]
 models: [sonnet, opus]

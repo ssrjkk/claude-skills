@@ -1,6 +1,6 @@
 ---
 name: thanos-tracing
-description: Tracing with Thanos. distributed tracing.
+description: "Tracing with Thanos. distributed tracing."
 category: devops
 tags: [thanos-tracing, devops, russian]
 models: [sonnet, opus]

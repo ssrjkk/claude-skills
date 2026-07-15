@@ -1,6 +1,6 @@
 ---
 name: axum-middleware
-description: Middleware with Axum. request pipeline.
+description: "Middleware with Axum. request pipeline."
 category: backend
 tags: [axum, middleware, backend, backend]
 models: [gpt-4, claude-3]

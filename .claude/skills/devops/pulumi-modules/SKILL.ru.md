@@ -1,6 +1,6 @@
 ---
 name: pulumi-modules
-description: Modules with Pulumi. modules.
+description: "Modules with Pulumi. modules."
 category: devops
 tags: [pulumi-modules, devops, russian]
 models: [sonnet, opus]

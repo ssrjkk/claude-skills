@@ -1,6 +1,6 @@
 ---
 name: kinaxis-planning
-description: Planning with Kinaxis. demand planning.
+description: "Planning with Kinaxis. demand planning."
 category: supply-chain
 tags: [kinaxis, planning, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

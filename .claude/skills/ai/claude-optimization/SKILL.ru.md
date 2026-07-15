@@ -1,6 +1,6 @@
 ---
 name: claude-optimization
-description: Optimization for Claude: performance tuning and optimization
+description: "Optimization for Claude: performance tuning and optimization"
 category: ai
 tags: [claude-optimization, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: caliper-deployment
-description: Deployment with Caliper. deployment.
+description: "Deployment with Caliper. deployment."
 category: education
 tags: [caliper-deployment, education, russian]
 models: [sonnet, opus]

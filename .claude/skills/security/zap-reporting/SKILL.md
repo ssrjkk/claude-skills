@@ -1,6 +1,6 @@
 ---
 name: zap-reporting
-description: Reporting with ZAP. reports.
+description: "Reporting with ZAP. reports."
 category: security
 tags: [zap, reporting, security, security-tool]
 models: [gpt-4, claude-3]

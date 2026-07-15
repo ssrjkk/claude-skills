@@ -1,6 +1,6 @@
 ---
 name: game-balance-tools
-description: Tools with Game Balance. tools.
+description: "Tools with Game Balance. tools."
 category: gamedev
 tags: [game-balance-tools, gamedev, russian]
 models: [sonnet, opus]

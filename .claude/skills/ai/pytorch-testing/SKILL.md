@@ -1,6 +1,6 @@
 ---
 name: pytorch-testing
-description: Testing for Pytorch: testing and validation
+description: "Testing for Pytorch: testing and validation"
 category: ai
 tags: [pytorch, testing, ai]
 models: [sonnet, opus]

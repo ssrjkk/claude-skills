@@ -1,6 +1,6 @@
 ---
 name: testrail-workflow
-description: Workflow for Testrail: workflow optimization
+description: "Workflow for Testrail: workflow optimization"
 category: qa
 tags: [testrail, workflow, qa]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: travis-ci-caching
-description: Caching with Travis CI. dependency caching.
+description: "Caching with Travis CI. dependency caching."
 category: devops
 tags: [travis-ci, caching, devops, ci-cd]
 models: [gpt-4, claude-3]

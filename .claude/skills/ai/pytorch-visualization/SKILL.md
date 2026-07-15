@@ -1,6 +1,6 @@
 ---
 name: pytorch-visualization
-description: Visualization with Pytorch. model viz.
+description: "Visualization with Pytorch. model viz."
 category: ai
 tags: [pytorch, visualization, ai, deep-learning]
 models: [gpt-4, claude-3]

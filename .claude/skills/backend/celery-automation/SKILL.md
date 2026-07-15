@@ -1,6 +1,6 @@
 ---
 name: celery-automation
-description: Automation for Celery: automation and scripting
+description: "Automation for Celery: automation and scripting"
 category: backend
 tags: [celery, automation, backend]
 models: [sonnet, opus]

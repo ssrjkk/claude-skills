@@ -1,6 +1,6 @@
 ---
 name: rust-testing
-description: Testing with Rust. writing tests.
+description: "Testing with Rust. writing tests."
 category: backend
 tags: [rust, testing, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: braintree-checkout
-description: Checkout with Braintree. checkout flow.
+description: "Checkout with Braintree. checkout flow."
 category: payments
 tags: [braintree, checkout, payments, payments]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: bdd-measurement
-description: Measurement with BDD. metrics.
+description: "Measurement with BDD. metrics."
 category: engineering
 tags: [bdd, measurement, engineering, engineering]
 models: [gpt-4, claude-3]

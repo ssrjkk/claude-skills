@@ -1,6 +1,6 @@
 ---
 name: cocos-testing
-description: Testing for Cocos: testing and validation
+description: "Testing for Cocos: testing and validation"
 category: gamedev
 tags: [cocos, testing, gamedev]
 models: [sonnet, opus]

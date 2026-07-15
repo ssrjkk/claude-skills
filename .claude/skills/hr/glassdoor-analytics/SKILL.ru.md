@@ -1,6 +1,6 @@
 ---
 name: glassdoor-analytics
-description: Analytics with Glassdoor. analytics.
+description: "Analytics with Glassdoor. analytics."
 category: hr
 tags: [glassdoor-analytics, hr, russian]
 models: [sonnet, opus]

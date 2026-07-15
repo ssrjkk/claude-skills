@@ -1,6 +1,6 @@
 ---
 name: scada-security
-description: Security with SCADA. security.
+description: "Security with SCADA. security."
 category: energy
 tags: [scada-security, energy, russian]
 models: [sonnet, opus]

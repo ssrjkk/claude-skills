@@ -1,6 +1,6 @@
 ---
 name: swift-ios-deployment
-description: Deployment with Swift iOS. app store.
+description: "Deployment with Swift iOS. app store."
 category: mobile
 tags: [swift-ios, deployment, mobile, mobile]
 models: [gpt-4, claude-3]

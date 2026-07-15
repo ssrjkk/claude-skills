@@ -1,6 +1,6 @@
 ---
 name: cassandra-aggregation
-description: Aggregation with Cassandra. aggregation pipelines.
+description: "Aggregation with Cassandra. aggregation pipelines."
 category: database
 tags: [cassandra, aggregation, database, nosql]
 models: [gpt-4, claude-3]

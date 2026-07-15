@@ -1,6 +1,6 @@
 ---
 name: gri-strategy
-description: Strategy with GRI. strategy.
+description: "Strategy with GRI. strategy."
 category: sustainability
 tags: [gri, strategy, sustainability, sustainability]
 models: [gpt-4, claude-3]

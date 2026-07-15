@@ -1,6 +1,6 @@
 ---
 name: express-optimization
-description: Optimization for Express: performance tuning and optimization
+description: "Optimization for Express: performance tuning and optimization"
 category: backend
 tags: [express, optimization, backend]
 models: [sonnet, opus]

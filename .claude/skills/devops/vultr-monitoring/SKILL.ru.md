@@ -1,6 +1,6 @@
 ---
 name: vultr-monitoring
-description: Monitoring with Vultr. monitoring.
+description: "Monitoring with Vultr. monitoring."
 category: devops
 tags: [vultr-monitoring, devops, russian]
 models: [sonnet, opus]

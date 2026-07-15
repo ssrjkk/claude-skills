@@ -1,6 +1,6 @@
 ---
 name: tvm-training
-description: Training with Tvm. training models.
+description: "Training with Tvm. training models."
 category: ai
 tags: [tvm-training, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kafka-monitoring
-description: Monitoring with Kafka. monitoring.
+description: "Monitoring with Kafka. monitoring."
 category: data
 tags: [kafka-monitoring, data, russian]
 models: [sonnet, opus]

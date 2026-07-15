@@ -1,6 +1,6 @@
 ---
 name: skill-0196
-description: Specialized skill #0196 for blockchain development
+description: "Specialized skill #0196 for blockchain development"
 category: blockchain
 tags: [skill-0196, blockchain, russian]
 models: [sonnet, opus]

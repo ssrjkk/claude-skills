@@ -1,6 +1,6 @@
 ---
 name: guidance-prompting
-description: Prompt Engineering with Guidance. prompt templates.
+description: "Prompt Engineering with Guidance. prompt templates."
 category: ai
 tags: [guidance-prompting, ai, russian]
 models: [sonnet, opus]

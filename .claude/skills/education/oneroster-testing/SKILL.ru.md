@@ -1,6 +1,6 @@
 ---
 name: oneroster-testing
-description: Testing with OneRoster. testing.
+description: "Testing with OneRoster. testing."
 category: education
 tags: [oneroster-testing, education, russian]
 models: [sonnet, opus]

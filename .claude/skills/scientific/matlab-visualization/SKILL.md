@@ -1,6 +1,6 @@
 ---
 name: matlab-visualization
-description: Visualization with MATLAB. scientific plots.
+description: "Visualization with MATLAB. scientific plots."
 category: scientific
 tags: [matlab, visualization, scientific, scientific-computing]
 models: [gpt-4, claude-3]

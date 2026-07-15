@@ -1,6 +1,6 @@
 ---
 name: expo-setup
-description: Setup for Expo: installation and configuration
+description: "Setup for Expo: installation and configuration"
 category: mobile
 tags: [expo, setup, mobile]
 models: [sonnet, opus]

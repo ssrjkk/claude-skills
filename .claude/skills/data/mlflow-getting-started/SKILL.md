@@ -1,6 +1,6 @@
 ---
 name: mlflow-getting-started
-description: Getting Started for Mlflow: initial setup and first steps
+description: "Getting Started for Mlflow: initial setup and first steps"
 category: data
 tags: [mlflow, getting-started, data]
 models: [sonnet, opus]

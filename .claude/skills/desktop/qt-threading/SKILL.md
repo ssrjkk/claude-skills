@@ -1,6 +1,6 @@
 ---
 name: qt-threading
-description: Threading with Qt. multithreading.
+description: "Threading with Qt. multithreading."
 category: desktop
 tags: [qt, threading, desktop, desktop]
 models: [gpt-4, claude-3]

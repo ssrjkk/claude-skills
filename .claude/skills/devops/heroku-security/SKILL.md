@@ -1,6 +1,6 @@
 ---
 name: heroku-security
-description: Security with Heroku. cloud security.
+description: "Security with Heroku. cloud security."
 category: devops
 tags: [heroku, security, devops, cloud]
 models: [gpt-4, claude-3]

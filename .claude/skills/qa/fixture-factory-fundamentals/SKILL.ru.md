@@ -1,6 +1,6 @@
 ---
 name: fixture-factory-fundamentals
-description: Fundamentals for Fixture-Factory: core concepts
+description: "Fundamentals for Fixture-Factory: core concepts"
 category: qa
 tags: [fixture-factory-fundamentals, qa, russian]
 models: [sonnet, opus]

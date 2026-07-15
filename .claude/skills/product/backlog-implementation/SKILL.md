@@ -1,6 +1,6 @@
 ---
 name: backlog-implementation
-description: Implementation with Backlog Management. execution.
+description: "Implementation with Backlog Management. execution."
 category: product
 tags: [backlog, implementation, product, product-framework]
 models: [gpt-4, claude-3]

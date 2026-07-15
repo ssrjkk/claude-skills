@@ -1,6 +1,6 @@
 ---
 name: tdd-team
-description: Team with TDD. team adoption.
+description: "Team with TDD. team adoption."
 category: engineering
 tags: [tdd, team, engineering, engineering]
 models: [gpt-4, claude-3]

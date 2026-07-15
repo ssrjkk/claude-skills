@@ -1,6 +1,6 @@
 ---
 name: prometheus-dashboards
-description: Dashboards with Prometheus. dashboards.
+description: "Dashboards with Prometheus. dashboards."
 category: devops
 tags: [prometheus-dashboards, devops, russian]
 models: [sonnet, opus]

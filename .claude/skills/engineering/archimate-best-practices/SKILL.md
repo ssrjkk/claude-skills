@@ -1,6 +1,6 @@
 ---
 name: archimate-best-practices
-description: Best Practices with ArchiMate. practices.
+description: "Best Practices with ArchiMate. practices."
 category: engineering
 tags: [archimate, best-practices, engineering, modeling]
 models: [gpt-4, claude-3]

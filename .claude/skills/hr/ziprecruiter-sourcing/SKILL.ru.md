@@ -1,6 +1,6 @@
 ---
 name: ziprecruiter-sourcing
-description: Sourcing with ZipRecruiter. candidate sourcing.
+description: "Sourcing with ZipRecruiter. candidate sourcing."
 category: hr
 tags: [ziprecruiter-sourcing, hr, russian]
 models: [sonnet, opus]

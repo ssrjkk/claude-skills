@@ -1,6 +1,6 @@
 ---
 name: unity-xr-audio
-description: Audio with Unity XR. spatial audio.
+description: "Audio with Unity XR. spatial audio."
 category: ar-vr
 tags: [unity-xr-audio, ar-vr, russian]
 models: [sonnet, opus]

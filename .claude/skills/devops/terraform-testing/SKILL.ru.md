@@ -1,6 +1,6 @@
 ---
 name: terraform-testing
-description: Testing with Terraform. infra testing.
+description: "Testing with Terraform. infra testing."
 category: devops
 tags: [terraform-testing, devops, russian]
 models: [sonnet, opus]

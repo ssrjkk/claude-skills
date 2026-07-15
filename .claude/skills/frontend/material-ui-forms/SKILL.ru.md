@@ -1,6 +1,6 @@
 ---
 name: material-ui-forms
-description: Forms with MUI. form styling.
+description: "Forms with MUI. form styling."
 category: frontend
 tags: [material-ui-forms, frontend, russian]
 models: [sonnet, opus]

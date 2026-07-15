@@ -1,6 +1,6 @@
 ---
 name: micronaut-database
-description: Database with Micronaut. DB access.
+description: "Database with Micronaut. DB access."
 category: backend
 tags: [micronaut, database, backend, backend]
 models: [gpt-4, claude-3]

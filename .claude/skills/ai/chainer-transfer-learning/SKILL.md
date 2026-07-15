@@ -1,6 +1,6 @@
 ---
 name: chainer-transfer-learning
-description: Transfer Learning with Chainer. transfer learning.
+description: "Transfer Learning with Chainer. transfer learning."
 category: ai
 tags: [chainer, transfer-learning, ai, deep-learning]
 models: [gpt-4, claude-3]

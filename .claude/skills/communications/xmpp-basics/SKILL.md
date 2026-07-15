@@ -1,6 +1,6 @@
 ---
 name: xmpp-basics
-description: Basics with XMPP. fundamentals.
+description: "Basics with XMPP. fundamentals."
 category: communications
 tags: [xmpp, basics, communications, communication-protocol]
 models: [gpt-4, claude-3]

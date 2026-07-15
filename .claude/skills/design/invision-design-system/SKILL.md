@@ -1,6 +1,6 @@
 ---
 name: invision-design-system
-description: Design Systems with InVision. tokens.
+description: "Design Systems with InVision. tokens."
 category: design
 tags: [invision, design-system, design, design]
 models: [gpt-4, claude-3]

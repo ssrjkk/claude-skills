@@ -1,6 +1,6 @@
 ---
 name: openid-testing
-description: Testing with OpenID Connect. security testing.
+description: "Testing with OpenID Connect. security testing."
 category: security
 tags: [openid, testing, security, security]
 models: [gpt-4, claude-3]

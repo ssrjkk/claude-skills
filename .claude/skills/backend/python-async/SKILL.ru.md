@@ -1,6 +1,6 @@
 ---
 name: python-async
-description: Async with Python. async operations.
+description: "Async with Python. async operations."
 category: backend
 tags: [python-async, backend, russian]
 models: [sonnet, opus]

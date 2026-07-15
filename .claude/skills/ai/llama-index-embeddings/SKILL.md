@@ -1,6 +1,6 @@
 ---
 name: llama-index-embeddings
-description: Embeddings with Llama Index. text embeddings.
+description: "Embeddings with Llama Index. text embeddings."
 category: ai
 tags: [llama-index, embeddings, ai, llm]
 models: [gpt-4, claude-3]

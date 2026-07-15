@@ -1,6 +1,6 @@
 ---
 name: keras-inference
-description: Inference with Keras. running models.
+description: "Inference with Keras. running models."
 category: ai
 tags: [keras, inference, ai, deep-learning]
 models: [gpt-4, claude-3]

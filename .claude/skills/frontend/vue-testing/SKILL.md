@@ -1,6 +1,6 @@
 ---
 name: vue-testing
-description: Testing with Vue. component testing.
+description: "Testing with Vue. component testing."
 category: frontend
 tags: [vue, testing, frontend, frontend]
 models: [gpt-4, claude-3]

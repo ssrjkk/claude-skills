@@ -1,6 +1,6 @@
 ---
 name: esg-tools
-description: Tools with ESG. tools.
+description: "Tools with ESG. tools."
 category: sustainability
 tags: [esg, tools, sustainability, sustainability]
 models: [gpt-4, claude-3]

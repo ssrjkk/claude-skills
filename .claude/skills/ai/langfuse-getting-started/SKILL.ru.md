@@ -1,6 +1,6 @@
 ---
 name: langfuse-getting-started
-description: Getting Started for Langfuse: initial setup and first steps
+description: "Getting Started for Langfuse: initial setup and first steps"
 category: ai
 tags: [langfuse-getting-started, ai, russian]
 models: [sonnet, opus]

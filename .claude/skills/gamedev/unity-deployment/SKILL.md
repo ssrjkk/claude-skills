@@ -1,6 +1,6 @@
 ---
 name: unity-deployment
-description: Deployment for Unity: deployment and release
+description: "Deployment for Unity: deployment and release"
 category: gamedev
 tags: [unity, deployment, gamedev]
 models: [sonnet, opus]

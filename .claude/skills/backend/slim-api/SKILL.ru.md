@@ -1,6 +1,6 @@
 ---
 name: slim-api
-description: API with Slim. APIs.
+description: "API with Slim. APIs."
 category: backend
 tags: [slim-api, backend, russian]
 models: [sonnet, opus]

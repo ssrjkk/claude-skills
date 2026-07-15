@@ -1,6 +1,6 @@
 ---
 name: vector-databases
-description: Vector database integration (Pinecone, Weaviate, Qdrant)
+description: "Vector database integration (Pinecone, Weaviate, Qdrant)"
 category: ai
 tags: [vector-databases, ai, russian]
 models: [sonnet, opus]

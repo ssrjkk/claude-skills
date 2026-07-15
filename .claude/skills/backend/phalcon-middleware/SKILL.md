@@ -1,6 +1,6 @@
 ---
 name: phalcon-middleware
-description: Middleware with Phalcon. pipeline.
+description: "Middleware with Phalcon. pipeline."
 category: backend
 tags: [phalcon, middleware, backend, backend]
 models: [gpt-4, claude-3]

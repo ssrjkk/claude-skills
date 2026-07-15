@@ -1,6 +1,6 @@
 ---
 name: ant-design
-description: Builds enterprise UIs with Ant Design, including pre-built components, theming, and i18n support.
+description: "Builds enterprise UIs with Ant Design, including pre-built components, theming, and i18n support."
 category: design
 tags: [ant-design, react, ui-library, enterprise, components]
 models: [sonnet, opus]

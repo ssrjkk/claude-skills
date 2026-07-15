@@ -1,6 +1,6 @@
 ---
 name: weaviate-getting-started
-description: Getting Started for Weaviate: initial setup and first steps
+description: "Getting Started for Weaviate: initial setup and first steps"
 category: ai
 tags: [weaviate, getting-started, ai]
 models: [sonnet, opus]

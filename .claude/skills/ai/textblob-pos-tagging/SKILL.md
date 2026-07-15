@@ -1,6 +1,6 @@
 ---
 name: textblob-pos-tagging
-description: POS Tagging with Textblob. POS tagging.
+description: "POS Tagging with Textblob. POS tagging."
 category: ai
 tags: [textblob, pos-tagging, ai, nlp]
 models: [gpt-4, claude-3]

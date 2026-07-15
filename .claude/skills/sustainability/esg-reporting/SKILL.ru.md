@@ -1,6 +1,6 @@
 ---
 name: esg-reporting
-description: Reporting with ESG. reporting.
+description: "Reporting with ESG. reporting."
 category: sustainability
 tags: [esg-reporting, sustainability, russian]
 models: [sonnet, opus]

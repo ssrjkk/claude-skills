@@ -1,6 +1,6 @@
 ---
 name: bamboo-monitoring
-description: Monitoring with Bamboo. monitoring.
+description: "Monitoring with Bamboo. monitoring."
 category: devops
 tags: [bamboo, monitoring, devops, ci-cd]
 models: [gpt-4, claude-3]

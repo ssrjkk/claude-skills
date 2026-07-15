@@ -1,6 +1,6 @@
 ---
 name: minikube-rbac
-description: RBAC with Minikube. access control.
+description: "RBAC with Minikube. access control."
 category: devops
 tags: [minikube-rbac, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mlflow-hyperparameter-tuning
-description: Hyperparameter Tuning with Mlflow. optimizing params.
+description: "Hyperparameter Tuning with Mlflow. optimizing params."
 category: ai
 tags: [mlflow-hyperparameter-tuning, ai, russian]
 models: [sonnet, opus]

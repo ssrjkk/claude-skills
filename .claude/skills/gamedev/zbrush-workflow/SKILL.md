@@ -1,6 +1,6 @@
 ---
 name: zbrush-workflow
-description: Workflow for Zbrush: workflow optimization
+description: "Workflow for Zbrush: workflow optimization"
 category: gamedev
 tags: [zbrush, workflow, gamedev]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: astro-deployment
-description: Deployment with Astro. production.
+description: "Deployment with Astro. production."
 category: frontend
 tags: [astro-deployment, frontend, russian]
 models: [sonnet, opus]

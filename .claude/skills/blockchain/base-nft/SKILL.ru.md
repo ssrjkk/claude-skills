@@ -1,6 +1,6 @@
 ---
 name: base-nft
-description: NFT with Base. tokens.
+description: "NFT with Base. tokens."
 category: blockchain
 tags: [base-nft, blockchain, russian]
 models: [sonnet, opus]

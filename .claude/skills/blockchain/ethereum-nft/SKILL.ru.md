@@ -1,6 +1,6 @@
 ---
 name: ethereum-nft
-description: NFT with Ethereum. tokens.
+description: "NFT with Ethereum. tokens."
 category: blockchain
 tags: [ethereum-nft, blockchain, russian]
 models: [sonnet, opus]

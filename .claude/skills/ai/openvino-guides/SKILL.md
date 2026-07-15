@@ -1,6 +1,6 @@
 ---
 name: openvino-guides
-description: Guides for Openvino: how-to guides
+description: "Guides for Openvino: how-to guides"
 category: ai
 tags: [openvino, guides, ai]
 models: [sonnet, opus]

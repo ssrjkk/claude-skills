@@ -1,6 +1,6 @@
 ---
 name: kotlin-setup
-description: Setup for Kotlin: installation and configuration
+description: "Setup for Kotlin: installation and configuration"
 category: mobile
 tags: [kotlin-setup, mobile, russian]
 models: [sonnet, opus]

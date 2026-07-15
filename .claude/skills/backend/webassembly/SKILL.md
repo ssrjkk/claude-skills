@@ -1,6 +1,6 @@
 ---
 name: webassembly
-description: Development with Webassembly: tools and best practices
+description: "Development with Webassembly: tools and best practices"
 category: backend
 tags: [webassembly, backend, development]
 models: [sonnet, opus]

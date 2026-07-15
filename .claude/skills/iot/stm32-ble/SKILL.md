@@ -1,6 +1,6 @@
 ---
 name: stm32-ble
-description: BLE with STM32. Bluetooth.
+description: "BLE with STM32. Bluetooth."
 category: iot
 tags: [stm32, ble, iot, iot]
 models: [gpt-4, claude-3]

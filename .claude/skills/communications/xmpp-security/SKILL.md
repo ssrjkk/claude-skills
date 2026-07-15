@@ -1,6 +1,6 @@
 ---
 name: xmpp-security
-description: Security with XMPP. security.
+description: "Security with XMPP. security."
 category: communications
 tags: [xmpp, security, communications, communication-protocol]
 models: [gpt-4, claude-3]

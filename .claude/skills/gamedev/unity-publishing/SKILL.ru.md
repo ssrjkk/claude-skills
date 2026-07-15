@@ -1,6 +1,6 @@
 ---
 name: unity-publishing
-description: Publishing with Unity. publishing.
+description: "Publishing with Unity. publishing."
 category: gamedev
 tags: [unity-publishing, gamedev, russian]
 models: [sonnet, opus]

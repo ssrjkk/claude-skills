@@ -1,6 +1,6 @@
 ---
 name: canvas-users
-description: Users with Canvas LMS. user management.
+description: "Users with Canvas LMS. user management."
 category: education
 tags: [canvas, users, education, education-platform]
 models: [gpt-4, claude-3]

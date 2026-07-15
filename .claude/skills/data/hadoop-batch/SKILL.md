@@ -1,6 +1,6 @@
 ---
 name: hadoop-batch
-description: Batch with Hadoop. batch processing.
+description: "Batch with Hadoop. batch processing."
 category: data
 tags: [hadoop, batch, data, data-engineering]
 models: [gpt-4, claude-3]

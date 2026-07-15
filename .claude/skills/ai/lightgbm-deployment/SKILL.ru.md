@@ -1,6 +1,6 @@
 ---
 name: lightgbm-deployment
-description: Deployment with Lightgbm. model serving.
+description: "Deployment with Lightgbm. model serving."
 category: ai
 tags: [lightgbm-deployment, ai, russian]
 models: [sonnet, opus]

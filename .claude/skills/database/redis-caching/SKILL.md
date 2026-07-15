@@ -1,6 +1,6 @@
 ---
 name: redis-caching
-description: Caching with Redis. caching strategies.
+description: "Caching with Redis. caching strategies."
 category: database
 tags: [redis, caching, database, caching]
 models: [gpt-4, claude-3]

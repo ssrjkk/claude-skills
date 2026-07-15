@@ -1,6 +1,6 @@
 ---
 name: reactphp-intro
-description: Intro for Reactphp: introduction
+description: "Intro for Reactphp: introduction"
 category: backend
 tags: [reactphp, intro, backend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: zustand-persistence
-description: Persistence with Zustand. state persistence.
+description: "Persistence with Zustand. state persistence."
 category: frontend
 tags: [zustand, persistence, frontend, state-management]
 models: [gpt-4, claude-3]

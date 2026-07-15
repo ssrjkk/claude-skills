@@ -1,6 +1,6 @@
 ---
 name: xamarin-advanced
-description: Advanced for Xamarin: advanced patterns and techniques
+description: "Advanced for Xamarin: advanced patterns and techniques"
 category: mobile
 tags: [xamarin-advanced, mobile, russian]
 models: [sonnet, opus]

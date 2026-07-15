@@ -1,6 +1,6 @@
 ---
 name: freertos-tasks
-description: Tasks with FreeRTOS. task management.
+description: "Tasks with FreeRTOS. task management."
 category: embedded
 tags: [freertos-tasks, embedded, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: transcoding-encoding
-description: Encoding with Transcoding. encoding.
+description: "Encoding with Transcoding. encoding."
 category: media
 tags: [transcoding-encoding, media, russian]
 models: [sonnet, opus]

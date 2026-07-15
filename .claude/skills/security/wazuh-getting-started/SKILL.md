@@ -1,6 +1,6 @@
 ---
 name: wazuh-getting-started
-description: Getting Started for Wazuh: initial setup and first steps
+description: "Getting Started for Wazuh: initial setup and first steps"
 category: security
 tags: [wazuh, getting-started, security]
 models: [sonnet, opus]

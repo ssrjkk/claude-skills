@@ -1,6 +1,6 @@
 ---
 name: chargebee-plans
-description: Plans with Chargebee. plan creation.
+description: "Plans with Chargebee. plan creation."
 category: payments
 tags: [chargebee, plans, payments, billing]
 models: [gpt-4, claude-3]

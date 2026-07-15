@@ -1,6 +1,6 @@
 ---
 name: github-actions-deployment
-description: Deployment with GitHub Actions. auto-deploy.
+description: "Deployment with GitHub Actions. auto-deploy."
 category: devops
 tags: [github-actions-deployment, devops, russian]
 models: [sonnet, opus]

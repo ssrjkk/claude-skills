@@ -1,6 +1,6 @@
 ---
 name: scipy-optimization
-description: Optimization with SciPy. optimization.
+description: "Optimization with SciPy. optimization."
 category: scientific
 tags: [scipy-optimization, scientific, russian]
 models: [sonnet, opus]

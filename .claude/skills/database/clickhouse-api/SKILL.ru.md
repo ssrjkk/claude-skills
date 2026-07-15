@@ -1,6 +1,6 @@
 ---
 name: clickhouse-api
-description: API for Clickhouse: API development and integration
+description: "API for Clickhouse: API development and integration"
 category: database
 tags: [clickhouse-api, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: steamvr-tracking
-description: Tracking with SteamVR. spatial tracking.
+description: "Tracking with SteamVR. spatial tracking."
 category: ar-vr
 tags: [steamvr-tracking, ar-vr, russian]
 models: [sonnet, opus]

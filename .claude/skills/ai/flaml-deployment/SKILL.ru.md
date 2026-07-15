@@ -1,6 +1,6 @@
 ---
 name: flaml-deployment
-description: Deployment with Flaml. model serving.
+description: "Deployment with Flaml. model serving."
 category: ai
 tags: [flaml-deployment, ai, russian]
 models: [sonnet, opus]

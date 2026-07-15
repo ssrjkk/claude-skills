@@ -1,6 +1,6 @@
 ---
 name: outlines-prompting
-description: Prompt Engineering with Outlines. prompt templates.
+description: "Prompt Engineering with Outlines. prompt templates."
 category: ai
 tags: [outlines-prompting, ai, russian]
 models: [sonnet, opus]

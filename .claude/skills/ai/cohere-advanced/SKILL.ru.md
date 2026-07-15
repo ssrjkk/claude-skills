@@ -1,6 +1,6 @@
 ---
 name: cohere-advanced
-description: Advanced for Cohere: advanced patterns and techniques
+description: "Advanced for Cohere: advanced patterns and techniques"
 category: ai
 tags: [cohere-advanced, ai, russian]
 models: [sonnet, opus]

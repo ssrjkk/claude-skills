@@ -1,6 +1,6 @@
 ---
 name: algolia-searching
-description: Searching with Algolia. full-text search.
+description: "Searching with Algolia. full-text search."
 category: database
 tags: [algolia-searching, database, russian]
 models: [sonnet, opus]

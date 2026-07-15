@@ -1,6 +1,6 @@
 ---
 name: arch-networking
-description: Networking with Arch Linux. network config.
+description: "Networking with Arch Linux. network config."
 category: os-admin
 tags: [arch-networking, os-admin, russian]
 models: [sonnet, opus]

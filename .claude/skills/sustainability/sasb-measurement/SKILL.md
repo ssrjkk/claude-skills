@@ -1,6 +1,6 @@
 ---
 name: sasb-measurement
-description: Measurement with SASB. measurement.
+description: "Measurement with SASB. measurement."
 category: sustainability
 tags: [sasb, measurement, sustainability, sustainability]
 models: [gpt-4, claude-3]

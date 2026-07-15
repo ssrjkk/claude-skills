@@ -1,6 +1,6 @@
 ---
 name: gatling-thresholds
-description: Thresholds with Gatling. pass/fail.
+description: "Thresholds with Gatling. pass/fail."
 category: qa
 tags: [gatling-thresholds, qa, russian]
 models: [sonnet, opus]

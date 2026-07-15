@@ -1,6 +1,6 @@
 ---
 name: calico-automation
-description: Automation for Calico: automation and scripting
+description: "Automation for Calico: automation and scripting"
 category: devops
 tags: [calico-automation, devops, russian]
 models: [sonnet, opus]

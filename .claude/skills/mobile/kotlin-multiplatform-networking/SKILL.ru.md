@@ -1,6 +1,6 @@
 ---
 name: kotlin-multiplatform-networking
-description: Networking with Kotlin Multiplatform. API calls.
+description: "Networking with Kotlin Multiplatform. API calls."
 category: mobile
 tags: [kotlin-multiplatform-networking, mobile, russian]
 models: [sonnet, opus]

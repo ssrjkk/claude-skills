@@ -1,6 +1,6 @@
 ---
 name: ziprecruiter-tools
-description: Tools with ZipRecruiter. tools.
+description: "Tools with ZipRecruiter. tools."
 category: hr
 tags: [ziprecruiter-tools, hr, russian]
 models: [sonnet, opus]

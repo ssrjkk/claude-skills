@@ -1,6 +1,6 @@
 ---
 name: fmod-integration
-description: Integration for Fmod: integration with other tools
+description: "Integration for Fmod: integration with other tools"
 category: gamedev
 tags: [fmod-integration, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: strategy-testing
-description: Testing with Strategy. testing the pattern.
+description: "Testing with Strategy. testing the pattern."
 category: backend
 tags: [strategy-testing, backend, russian]
 models: [sonnet, opus]

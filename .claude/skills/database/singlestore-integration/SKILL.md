@@ -1,6 +1,6 @@
 ---
 name: singlestore-integration
-description: Integration for Singlestore: integration with other tools
+description: "Integration for Singlestore: integration with other tools"
 category: database
 tags: [singlestore, integration, database]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: nuxt-monitoring
-description: Monitoring for Nuxt: monitoring and observability
+description: "Monitoring for Nuxt: monitoring and observability"
 category: frontend
 tags: [nuxt, monitoring, frontend]
 models: [sonnet, opus]

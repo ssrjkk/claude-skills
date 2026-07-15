@@ -1,6 +1,6 @@
 ---
 name: neo4j-advanced
-description: Advanced for Neo4J: advanced patterns and techniques
+description: "Advanced for Neo4J: advanced patterns and techniques"
 category: database
 tags: [neo4j, advanced, database]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: drone-security
-description: Security with Drone CI. security scanning.
+description: "Security with Drone CI. security scanning."
 category: devops
 tags: [drone, security, devops, ci-cd]
 models: [gpt-4, claude-3]

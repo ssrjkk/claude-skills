@@ -1,6 +1,6 @@
 ---
 name: chainer-visualization
-description: Visualization with Chainer. model viz.
+description: "Visualization with Chainer. model viz."
 category: ai
 tags: [chainer, visualization, ai, deep-learning]
 models: [gpt-4, claude-3]

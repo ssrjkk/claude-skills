@@ -1,6 +1,6 @@
 ---
 name: pyqt-threading
-description: Threading with PyQt. multithreading.
+description: "Threading with PyQt. multithreading."
 category: desktop
 tags: [pyqt-threading, desktop, russian]
 models: [sonnet, opus]

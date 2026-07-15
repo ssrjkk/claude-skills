@@ -1,6 +1,6 @@
 ---
 name: ffmpeg-analytics
-description: Analytics with FFmpeg. analytics.
+description: "Analytics with FFmpeg. analytics."
 category: media
 tags: [ffmpeg-analytics, media, russian]
 models: [sonnet, opus]

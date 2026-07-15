@@ -1,6 +1,6 @@
 ---
 name: mariadb-schema
-description: Schema Design with MariaDB. schema.
+description: "Schema Design with MariaDB. schema."
 category: database
 tags: [mariadb-schema, database, russian]
 models: [sonnet, opus]

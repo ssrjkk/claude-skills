@@ -1,6 +1,6 @@
 ---
 name: iso27001-best-practices
-description: Best Practices with ISO 27001. best practices.
+description: "Best Practices with ISO 27001. best practices."
 category: security
 tags: [iso27001-best-practices, security, russian]
 models: [sonnet, opus]

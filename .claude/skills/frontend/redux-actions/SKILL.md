@@ -1,6 +1,6 @@
 ---
 name: redux-actions
-description: Actions with Redux. actions.
+description: "Actions with Redux. actions."
 category: frontend
 tags: [redux, actions, frontend, state-management]
 models: [gpt-4, claude-3]

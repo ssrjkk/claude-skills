@@ -1,6 +1,6 @@
 ---
 name: revel-database
-description: Database with Revel. DB access.
+description: "Database with Revel. DB access."
 category: backend
 tags: [revel, database, backend, backend]
 models: [gpt-4, claude-3]

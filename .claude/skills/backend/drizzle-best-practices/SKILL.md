@@ -1,6 +1,6 @@
 ---
 name: drizzle-best-practices
-description: Best Practices for Drizzle: best practices and patterns
+description: "Best Practices for Drizzle: best practices and patterns"
 category: backend
 tags: [drizzle, best-practices, backend]
 models: [sonnet, opus]

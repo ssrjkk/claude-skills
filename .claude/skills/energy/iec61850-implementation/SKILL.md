@@ -1,6 +1,6 @@
 ---
 name: iec61850-implementation
-description: Implementation with IEC 61850. deployment.
+description: "Implementation with IEC 61850. deployment."
 category: energy
 tags: [iec61850, implementation, energy, smart-grid]
 models: [gpt-4, claude-3]

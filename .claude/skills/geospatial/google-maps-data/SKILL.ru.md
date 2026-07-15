@@ -1,6 +1,6 @@
 ---
 name: google-maps-data
-description: Data with Google Maps API. geospatial data.
+description: "Data with Google Maps API. geospatial data."
 category: geospatial
 tags: [google-maps-data, geospatial, russian]
 models: [sonnet, opus]

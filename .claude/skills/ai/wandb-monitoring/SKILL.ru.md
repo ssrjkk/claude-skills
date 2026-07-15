@@ -1,6 +1,6 @@
 ---
 name: wandb-monitoring
-description: Monitoring with Wandb. model monitoring.
+description: "Monitoring with Wandb. model monitoring."
 category: ai
 tags: [wandb-monitoring, ai, russian]
 models: [sonnet, opus]

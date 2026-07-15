@@ -1,6 +1,6 @@
 ---
 name: cuba-auth
-description: Auth with Cuba. authentication.
+description: "Auth with Cuba. authentication."
 category: backend
 tags: [cuba-auth, backend, russian]
 models: [sonnet, opus]

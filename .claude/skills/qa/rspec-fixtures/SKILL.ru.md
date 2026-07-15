@@ -1,6 +1,6 @@
 ---
 name: rspec-fixtures
-description: Fixtures with RSpec. test fixtures.
+description: "Fixtures with RSpec. test fixtures."
 category: qa
 tags: [rspec-fixtures, qa, russian]
 models: [sonnet, opus]

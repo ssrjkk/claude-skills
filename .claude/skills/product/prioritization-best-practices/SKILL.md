@@ -1,6 +1,6 @@
 ---
 name: prioritization-best-practices
-description: Best Practices with Prioritization. tips.
+description: "Best Practices with Prioritization. tips."
 category: product
 tags: [prioritization, best-practices, product, product-framework]
 models: [gpt-4, claude-3]

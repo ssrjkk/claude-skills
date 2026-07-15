@@ -1,6 +1,6 @@
 ---
 name: yolo-segmentation
-description: Segmentation with Yolo. image segmentation.
+description: "Segmentation with Yolo. image segmentation."
 category: ai
 tags: [yolo-segmentation, ai, russian]
 models: [sonnet, opus]

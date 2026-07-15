@@ -1,6 +1,6 @@
 ---
 name: godot-publishing
-description: Publishing with Godot. publishing.
+description: "Publishing with Godot. publishing."
 category: gamedev
 tags: [godot-publishing, gamedev, russian]
 models: [sonnet, opus]

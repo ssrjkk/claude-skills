@@ -1,6 +1,6 @@
 ---
 name: flyio-compute
-description: Compute with Fly.io. VM/compute.
+description: "Compute with Fly.io. VM/compute."
 category: devops
 tags: [flyio, compute, devops, cloud]
 models: [gpt-4, claude-3]

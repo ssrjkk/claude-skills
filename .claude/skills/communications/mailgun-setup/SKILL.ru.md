@@ -1,6 +1,6 @@
 ---
 name: mailgun-setup
-description: Setup with Mailgun. account setup.
+description: "Setup with Mailgun. account setup."
 category: communications
 tags: [mailgun-setup, communications, russian]
 models: [sonnet, opus]

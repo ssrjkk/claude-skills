@@ -1,6 +1,6 @@
 ---
 name: openai-advanced
-description: Advanced for Openai: advanced patterns and techniques
+description: "Advanced for Openai: advanced patterns and techniques"
 category: ai
 tags: [openai-advanced, ai, russian]
 models: [sonnet, opus]

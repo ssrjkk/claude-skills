@@ -1,6 +1,6 @@
 ---
 name: skill-0206
-description: Specialized skill #0206 for gamedev development
+description: "Specialized skill #0206 for gamedev development"
 category: gamedev
 tags: [skill-0206, gamedev, russian]
 models: [sonnet, opus]

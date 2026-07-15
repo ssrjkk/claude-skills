@@ -1,6 +1,6 @@
 ---
 name: rails-database
-description: Database with Rails. ActiveRecord.
+description: "Database with Rails. ActiveRecord."
 category: backend
 tags: [rails-database, backend, russian]
 models: [sonnet, opus]

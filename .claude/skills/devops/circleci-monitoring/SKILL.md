@@ -1,6 +1,6 @@
 ---
 name: circleci-monitoring
-description: Monitoring with CircleCI. monitoring.
+description: "Monitoring with CircleCI. monitoring."
 category: devops
 tags: [circleci, monitoring, devops, ci-cd]
 models: [gpt-4, claude-3]

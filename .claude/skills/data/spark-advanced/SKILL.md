@@ -1,6 +1,6 @@
 ---
 name: spark-advanced
-description: Advanced for Spark: advanced patterns and techniques
+description: "Advanced for Spark: advanced patterns and techniques"
 category: data
 tags: [spark, advanced, data]
 models: [sonnet, opus]

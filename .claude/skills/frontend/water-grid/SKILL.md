@@ -1,6 +1,6 @@
 ---
 name: water-grid
-description: Grid with Water.css. layout grids.
+description: "Grid with Water.css. layout grids."
 category: frontend
 tags: [water, grid, frontend, css]
 models: [gpt-4, claude-3]

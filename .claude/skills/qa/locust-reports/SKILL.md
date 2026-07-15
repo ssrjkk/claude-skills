@@ -1,6 +1,6 @@
 ---
 name: locust-reports
-description: Reports with Locust. report generation.
+description: "Reports with Locust. report generation."
 category: qa
 tags: [locust, reports, qa, performance-testing]
 models: [gpt-4, claude-3]

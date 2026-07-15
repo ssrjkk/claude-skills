@@ -1,6 +1,6 @@
 ---
 name: orchestrator-intro
-description: Intro for Orchestrator: introduction
+description: "Intro for Orchestrator: introduction"
 category: ai
 tags: [orchestrator, intro, ai]
 models: [sonnet, opus]

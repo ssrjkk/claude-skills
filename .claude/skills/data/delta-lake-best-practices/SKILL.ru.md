@@ -1,6 +1,6 @@
 ---
 name: delta-lake-best-practices
-description: Best Practices for Delta-Lake: best practices and patterns
+description: "Best Practices for Delta-Lake: best practices and patterns"
 category: data
 tags: [delta-lake-best-practices, data, russian]
 models: [sonnet, opus]

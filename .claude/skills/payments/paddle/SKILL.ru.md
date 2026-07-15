@@ -1,6 +1,6 @@
 ---
 name: paddle
-description: Integrates Paddle for SaaS payment processing, subscriptions, and checkout management.
+description: "Integrates Paddle for SaaS payment processing, subscriptions, and checkout management."
 category: payments
 tags: [paddle, payments, russian]
 models: [sonnet, opus]

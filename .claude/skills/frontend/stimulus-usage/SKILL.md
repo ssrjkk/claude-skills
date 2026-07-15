@@ -1,6 +1,6 @@
 ---
 name: stimulus-usage
-description: Usage for Stimulus: usage reference
+description: "Usage for Stimulus: usage reference"
 category: frontend
 tags: [stimulus, usage, frontend]
 models: [sonnet, opus]

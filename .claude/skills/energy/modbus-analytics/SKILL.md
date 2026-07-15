@@ -1,6 +1,6 @@
 ---
 name: modbus-analytics
-description: Analytics with Modbus. analytics.
+description: "Analytics with Modbus. analytics."
 category: energy
 tags: [modbus, analytics, energy, smart-grid]
 models: [gpt-4, claude-3]

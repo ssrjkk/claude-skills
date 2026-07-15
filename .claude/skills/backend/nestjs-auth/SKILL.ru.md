@@ -1,6 +1,6 @@
 ---
 name: nestjs-auth
-description: Auth with NestJS. JWT.
+description: "Auth with NestJS. JWT."
 category: backend
 tags: [nestjs-auth, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: aws-lambda-quickstart
-description: Quickstart for Aws-Lambda: quick start guide
+description: "Quickstart for Aws-Lambda: quick start guide"
 category: cloud
 tags: [aws-lambda, quickstart, cloud]
 models: [sonnet, opus]

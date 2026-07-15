@@ -1,6 +1,6 @@
 ---
 name: akita-optimization
-description: Optimization with Akita. performance.
+description: "Optimization with Akita. performance."
 category: frontend
 tags: [akita, optimization, frontend, state-management]
 models: [gpt-4, claude-3]

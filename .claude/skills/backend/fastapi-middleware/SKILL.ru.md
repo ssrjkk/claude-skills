@@ -1,6 +1,6 @@
 ---
 name: fastapi-middleware
-description: Middleware with FastAPI. middleware pipelines.
+description: "Middleware with FastAPI. middleware pipelines."
 category: backend
 tags: [fastapi-middleware, backend, russian]
 models: [sonnet, opus]

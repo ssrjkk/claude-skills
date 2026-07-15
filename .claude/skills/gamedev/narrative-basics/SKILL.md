@@ -1,6 +1,6 @@
 ---
 name: narrative-basics
-description: Basics with Narrative Design. fundamentals.
+description: "Basics with Narrative Design. fundamentals."
 category: gamedev
 tags: [narrative, basics, gamedev, game-design]
 models: [gpt-4, claude-3]

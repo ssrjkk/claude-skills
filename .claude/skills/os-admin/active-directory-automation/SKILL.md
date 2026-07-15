@@ -1,6 +1,6 @@
 ---
 name: active-directory-automation
-description: Automation with Active Directory. PowerShell.
+description: "Automation with Active Directory. PowerShell."
 category: os-admin
 tags: [active-directory, automation, os-admin, windows]
 models: [gpt-4, claude-3]

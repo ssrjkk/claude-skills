@@ -1,6 +1,6 @@
 ---
 name: preact-testing
-description: Testing with Preact. component testing.
+description: "Testing with Preact. component testing."
 category: frontend
 tags: [preact-testing, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: snyk-deployment
-description: Deployment for Snyk: deployment and release
+description: "Deployment for Snyk: deployment and release"
 category: security
 tags: [snyk, deployment, security]
 models: [sonnet, opus]

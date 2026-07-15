@@ -1,6 +1,6 @@
 ---
 name: scylla-optimization
-description: Optimization with ScyllaDB. performance.
+description: "Optimization with ScyllaDB. performance."
 category: database
 tags: [scylla-optimization, database, russian]
 models: [sonnet, opus]

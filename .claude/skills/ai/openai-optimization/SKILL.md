@@ -1,6 +1,6 @@
 ---
 name: openai-optimization
-description: Optimization for Openai: performance tuning and optimization
+description: "Optimization for Openai: performance tuning and optimization"
 category: ai
 tags: [openai, optimization, ai]
 models: [sonnet, opus]

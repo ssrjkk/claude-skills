@@ -1,6 +1,6 @@
 ---
 name: slack-api-integration
-description: Integration with Slack API. integration.
+description: "Integration with Slack API. integration."
 category: communications
 tags: [slack-api-integration, communications, russian]
 models: [sonnet, opus]

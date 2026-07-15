@@ -1,6 +1,6 @@
 ---
 name: minikube-service
-description: Service with Minikube. services.
+description: "Service with Minikube. services."
 category: devops
 tags: [minikube-service, devops, russian]
 models: [sonnet, opus]

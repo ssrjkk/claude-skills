@@ -1,6 +1,6 @@
 ---
 name: blender-integration
-description: Integration for Blender: integration with other tools
+description: "Integration for Blender: integration with other tools"
 category: gamedev
 tags: [blender-integration, gamedev, russian]
 models: [sonnet, opus]

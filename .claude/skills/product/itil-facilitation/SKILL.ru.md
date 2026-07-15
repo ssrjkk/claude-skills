@@ -1,6 +1,6 @@
 ---
 name: itil-facilitation
-description: Facilitation with ITIL. sessions.
+description: "Facilitation with ITIL. sessions."
 category: product
 tags: [itil-facilitation, product, russian]
 models: [sonnet, opus]

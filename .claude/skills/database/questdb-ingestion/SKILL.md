@@ -1,6 +1,6 @@
 ---
 name: questdb-ingestion
-description: Ingestion with QuestDB. data ingestion.
+description: "Ingestion with QuestDB. data ingestion."
 category: database
 tags: [questdb, ingestion, database, time-series]
 models: [gpt-4, claude-3]

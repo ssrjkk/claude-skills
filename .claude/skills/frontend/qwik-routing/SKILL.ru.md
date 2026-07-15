@@ -1,6 +1,6 @@
 ---
 name: qwik-routing
-description: Routing with Qwik. file-based routing.
+description: "Routing with Qwik. file-based routing."
 category: frontend
 tags: [qwik-routing, frontend, russian]
 models: [sonnet, opus]

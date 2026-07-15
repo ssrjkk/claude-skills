@@ -1,6 +1,6 @@
 ---
 name: graphql-api
-description: Designs and implements GraphQL APIs with Apollo Server (Node.js). Use for flexible, type-safe API layers.
+description: "Designs and implements GraphQL APIs with Apollo Server (Node.js). Use for flexible, type-safe API layers."
 category: backend
 tags: [graphql-api, backend, russian]
 models: [sonnet, opus]

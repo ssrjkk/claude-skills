@@ -1,6 +1,6 @@
 ---
 name: prompt-testing
-description: Tests and evaluates prompt quality using systematic methods, A/B testing, regression suites, and automated evaluation with LLM-as-judge. Use for prompt optimization.
+description: "Tests and evaluates prompt quality using systematic methods, A/B testing, regression suites, and automated evaluation with LLM-as-judge. Use for prompt optimization."
 category: ai
 tags: [prompt-testing, ai, russian]
 models: [sonnet, opus]

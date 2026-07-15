@@ -1,6 +1,6 @@
 ---
 name: bokeh-analysis
-description: Analysis with Bokeh. data analysis.
+description: "Analysis with Bokeh. data analysis."
 category: data
 tags: [bokeh, analysis, data, data-science]
 models: [gpt-4, claude-3]

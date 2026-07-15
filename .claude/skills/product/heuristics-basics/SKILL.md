@@ -1,6 +1,6 @@
 ---
 name: heuristics-basics
-description: Basics with Heuristics. fundamentals.
+description: "Basics with Heuristics. fundamentals."
 category: product
 tags: [heuristics, basics, product, product-framework]
 models: [gpt-4, claude-3]

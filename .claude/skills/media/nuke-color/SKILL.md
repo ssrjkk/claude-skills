@@ -1,6 +1,6 @@
 ---
 name: nuke-color
-description: Color with Nuke. color grading.
+description: "Color with Nuke. color grading."
 category: media
 tags: [nuke, color, media, media-production]
 models: [gpt-4, claude-3]

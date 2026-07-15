@@ -1,6 +1,6 @@
 ---
 name: teamcity-security
-description: Security with TeamCity. security scanning.
+description: "Security with TeamCity. security scanning."
 category: devops
 tags: [teamcity, security, devops, ci-cd]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: astro-api
-description: API for Astro: API development and integration
+description: "API for Astro: API development and integration"
 category: frontend
 tags: [astro, api, frontend]
 models: [sonnet, opus]

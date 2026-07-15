@@ -1,6 +1,6 @@
 ---
 name: crossplane-provisioning
-description: Provisioning with Crossplane. provisioning.
+description: "Provisioning with Crossplane. provisioning."
 category: devops
 tags: [crossplane, provisioning, devops, iac]
 models: [gpt-4, claude-3]

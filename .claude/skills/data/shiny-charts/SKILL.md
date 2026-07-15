@@ -1,6 +1,6 @@
 ---
 name: shiny-charts
-description: Charts with Shiny. charts.
+description: "Charts with Shiny. charts."
 category: data
 tags: [shiny, charts, data, data-apps]
 models: [gpt-4, claude-3]

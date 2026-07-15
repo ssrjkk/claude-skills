@@ -1,6 +1,6 @@
 ---
 name: nat-design
-description: Design with NAT. network design.
+description: "Design with NAT. network design."
 category: networking
 tags: [nat, design, networking, networking]
 models: [gpt-4, claude-3]

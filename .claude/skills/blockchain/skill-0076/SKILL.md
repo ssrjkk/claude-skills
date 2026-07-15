@@ -1,6 +1,6 @@
 ---
 name: skill-0076
-description: Specialized skill #0076 for blockchain development
+description: "Specialized skill #0076 for blockchain development"
 category: blockchain
 tags: [blockchain, skill, 0076]
 models: [sonnet, opus]

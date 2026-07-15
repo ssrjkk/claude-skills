@@ -1,6 +1,6 @@
 ---
 name: nebula-modeling
-description: Modeling with Nebula Graph. graph modeling.
+description: "Modeling with Nebula Graph. graph modeling."
 category: database
 tags: [nebula, modeling, database, graph-database]
 models: [gpt-4, claude-3]

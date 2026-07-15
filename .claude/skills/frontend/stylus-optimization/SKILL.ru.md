@@ -1,6 +1,6 @@
 ---
 name: stylus-optimization
-description: Optimization with Stylus. build optimization.
+description: "Optimization with Stylus. build optimization."
 category: frontend
 tags: [stylus-optimization, frontend, russian]
 models: [sonnet, opus]

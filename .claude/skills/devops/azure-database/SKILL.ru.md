@@ -1,6 +1,6 @@
 ---
 name: azure-database
-description: Database with Azure. managed databases.
+description: "Database with Azure. managed databases."
 category: devops
 tags: [azure-database, devops, russian]
 models: [sonnet, opus]

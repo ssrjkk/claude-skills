@@ -1,6 +1,6 @@
 ---
 name: microk8s-deployment
-description: Deployment with MicroK8s. apps deployment.
+description: "Deployment with MicroK8s. apps deployment."
 category: devops
 tags: [microk8s, deployment, devops, kubernetes]
 models: [gpt-4, claude-3]

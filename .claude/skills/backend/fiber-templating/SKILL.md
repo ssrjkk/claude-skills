@@ -1,6 +1,6 @@
 ---
 name: fiber-templating
-description: Templating with Fiber. HTML templates.
+description: "Templating with Fiber. HTML templates."
 category: backend
 tags: [fiber, templating, backend, backend]
 models: [gpt-4, claude-3]

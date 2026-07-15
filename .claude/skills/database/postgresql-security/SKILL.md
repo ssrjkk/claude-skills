@@ -1,6 +1,6 @@
 ---
 name: postgresql-security
-description: Security with PostgreSQL. access control.
+description: "Security with PostgreSQL. access control."
 category: database
 tags: [postgresql, security, database, sql]
 models: [gpt-4, claude-3]

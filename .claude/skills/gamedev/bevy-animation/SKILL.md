@@ -1,6 +1,6 @@
 ---
 name: bevy-animation
-description: Animation with Bevy. animation.
+description: "Animation with Bevy. animation."
 category: gamedev
 tags: [bevy, animation, gamedev, game-engine]
 models: [gpt-4, claude-3]

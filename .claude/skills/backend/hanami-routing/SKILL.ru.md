@@ -1,6 +1,6 @@
 ---
 name: hanami-routing
-description: Routing with Hanami. HTTP routing.
+description: "Routing with Hanami. HTTP routing."
 category: backend
 tags: [hanami-routing, backend, russian]
 models: [sonnet, opus]

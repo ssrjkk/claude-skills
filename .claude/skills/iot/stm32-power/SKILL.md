@@ -1,6 +1,6 @@
 ---
 name: stm32-power
-description: Power with STM32. power management.
+description: "Power with STM32. power management."
 category: iot
 tags: [stm32, power, iot, iot]
 models: [gpt-4, claude-3]

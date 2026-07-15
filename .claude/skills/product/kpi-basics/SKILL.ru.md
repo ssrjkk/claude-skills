@@ -1,6 +1,6 @@
 ---
 name: kpi-basics
-description: Basics with KPIs. fundamentals.
+description: "Basics with KPIs. fundamentals."
 category: product
 tags: [kpi-basics, product, russian]
 models: [sonnet, opus]

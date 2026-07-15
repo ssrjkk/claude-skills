@@ -1,6 +1,6 @@
 ---
 name: webdriverio-reporting
-description: Reporting with WebdriverIO. reports.
+description: "Reporting with WebdriverIO. reports."
 category: qa
 tags: [webdriverio, reporting, qa, e2e]
 models: [gpt-4, claude-3]

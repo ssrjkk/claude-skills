@@ -1,6 +1,6 @@
 ---
 name: less-coaching
-description: Coaching with LeSS. team coaching.
+description: "Coaching with LeSS. team coaching."
 category: product
 tags: [less, coaching, product, methodology]
 models: [gpt-4, claude-3]

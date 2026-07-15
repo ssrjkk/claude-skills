@@ -1,6 +1,6 @@
 ---
 name: langchain-monitoring
-description: Monitoring for Langchain: monitoring and observability
+description: "Monitoring for Langchain: monitoring and observability"
 category: ai
 tags: [langchain-monitoring, ai, russian]
 models: [sonnet, opus]

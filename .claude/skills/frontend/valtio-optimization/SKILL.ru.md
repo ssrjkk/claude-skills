@@ -1,6 +1,6 @@
 ---
 name: valtio-optimization
-description: Optimization with Valtio. performance.
+description: "Optimization with Valtio. performance."
 category: frontend
 tags: [valtio-optimization, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: semgrep-workflow
-description: Workflow for Semgrep: workflow optimization
+description: "Workflow for Semgrep: workflow optimization"
 category: security
 tags: [semgrep, workflow, security]
 models: [sonnet, opus]

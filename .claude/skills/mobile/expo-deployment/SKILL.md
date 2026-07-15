@@ -1,6 +1,6 @@
 ---
 name: expo-deployment
-description: Deployment for Expo: deployment and release
+description: "Deployment for Expo: deployment and release"
 category: mobile
 tags: [expo, deployment, mobile]
 models: [sonnet, opus]

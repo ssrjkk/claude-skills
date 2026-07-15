@@ -1,6 +1,6 @@
 ---
 name: netstat-configuration
-description: Config with netstat/ss. advanced config.
+description: "Config with netstat/ss. advanced config."
 category: networking
 tags: [netstat-configuration, networking, russian]
 models: [sonnet, opus]

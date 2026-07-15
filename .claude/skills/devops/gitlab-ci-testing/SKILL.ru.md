@@ -1,6 +1,6 @@
 ---
 name: gitlab-ci-testing
-description: Testing with GitLab CI. automated tests.
+description: "Testing with GitLab CI. automated tests."
 category: devops
 tags: [gitlab-ci-testing, devops, russian]
 models: [sonnet, opus]

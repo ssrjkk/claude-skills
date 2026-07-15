@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-deployment
-description: Deployment for Rpgmaker: deployment and release
+description: "Deployment for Rpgmaker: deployment and release"
 category: gamedev
 tags: [rpgmaker-deployment, gamedev, russian]
 models: [sonnet, opus]

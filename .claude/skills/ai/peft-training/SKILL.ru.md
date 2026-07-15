@@ -1,6 +1,6 @@
 ---
 name: peft-training
-description: Training with Peft. training models.
+description: "Training with Peft. training models."
 category: ai
 tags: [peft-training, ai, russian]
 models: [sonnet, opus]

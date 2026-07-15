@@ -1,6 +1,6 @@
 ---
 name: zeroheight-prototyping
-description: Prototyping with Zeroheight. prototypes.
+description: "Prototyping with Zeroheight. prototypes."
 category: design
 tags: [zeroheight, prototyping, design, design]
 models: [gpt-4, claude-3]

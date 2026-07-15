@@ -1,6 +1,6 @@
 ---
 name: soda-getting-started
-description: Getting Started for Soda: initial setup and first steps
+description: "Getting Started for Soda: initial setup and first steps"
 category: data
 tags: [soda, getting-started, data]
 models: [sonnet, opus]

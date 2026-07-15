@@ -1,6 +1,6 @@
 ---
 name: tailwind-responsive
-description: Responsive with Tailwind CSS. mobile-first.
+description: "Responsive with Tailwind CSS. mobile-first."
 category: frontend
 tags: [tailwind, responsive, frontend, css]
 models: [gpt-4, claude-3]

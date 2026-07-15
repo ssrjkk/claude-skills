@@ -1,6 +1,6 @@
 ---
 name: docker-advanced
-description: Advanced for Docker: advanced patterns and techniques
+description: "Advanced for Docker: advanced patterns and techniques"
 category: devops
 tags: [docker, advanced, devops]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mermaid-basics
-description: Basics with Mermaid.js. fundamentals.
+description: "Basics with Mermaid.js. fundamentals."
 category: engineering
 tags: [mermaid, basics, engineering, modeling]
 models: [gpt-4, claude-3]

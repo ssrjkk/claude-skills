@@ -1,6 +1,6 @@
 ---
 name: zap-scanning
-description: Scanning with ZAP. security scanning.
+description: "Scanning with ZAP. security scanning."
 category: security
 tags: [zap-scanning, security, russian]
 models: [sonnet, opus]

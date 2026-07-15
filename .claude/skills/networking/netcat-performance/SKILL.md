@@ -1,6 +1,6 @@
 ---
 name: netcat-performance
-description: Performance with netcat. benchmarking.
+description: "Performance with netcat. benchmarking."
 category: networking
 tags: [netcat, performance, networking, networking-tool]
 models: [gpt-4, claude-3]

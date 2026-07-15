@@ -1,6 +1,6 @@
 ---
 name: wwise-configuration
-description: Configuration for Wwise: configuration and setup
+description: "Configuration for Wwise: configuration and setup"
 category: gamedev
 tags: [wwise, configuration, gamedev]
 models: [sonnet, opus]

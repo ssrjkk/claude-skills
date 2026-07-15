@@ -1,6 +1,6 @@
 ---
 name: roadmap-tools
-description: Tools with Roadmapping. tools.
+description: "Tools with Roadmapping. tools."
 category: product
 tags: [roadmap-tools, product, russian]
 models: [sonnet, opus]

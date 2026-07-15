@@ -1,6 +1,6 @@
 ---
 name: crystal-web-framework
-description: Web Framework with Crystal. web dev.
+description: "Web Framework with Crystal. web dev."
 category: backend
 tags: [crystal-web-framework, backend, russian]
 models: [sonnet, opus]

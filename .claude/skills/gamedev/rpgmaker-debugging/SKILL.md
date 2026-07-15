@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-debugging
-description: Debugging for Rpgmaker: debugging and troubleshooting
+description: "Debugging for Rpgmaker: debugging and troubleshooting"
 category: gamedev
 tags: [rpgmaker, debugging, gamedev]
 models: [sonnet, opus]

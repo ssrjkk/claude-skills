@@ -1,6 +1,6 @@
 ---
 name: game-economy-balancing
-description: Balancing with Game Economy. balancing.
+description: "Balancing with Game Economy. balancing."
 category: gamedev
 tags: [game-economy-balancing, gamedev, russian]
 models: [sonnet, opus]

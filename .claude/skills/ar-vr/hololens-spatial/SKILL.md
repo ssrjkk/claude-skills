@@ -1,6 +1,6 @@
 ---
 name: hololens-spatial
-description: Spatial with HoloLens. room mapping.
+description: "Spatial with HoloLens. room mapping."
 category: ar-vr
 tags: [hololens, spatial, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

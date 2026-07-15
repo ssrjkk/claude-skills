@@ -1,6 +1,6 @@
 ---
 name: backlog-metrics
-description: Metrics with Backlog Management. measurement.
+description: "Metrics with Backlog Management. measurement."
 category: product
 tags: [backlog, metrics, product, product-framework]
 models: [gpt-4, claude-3]

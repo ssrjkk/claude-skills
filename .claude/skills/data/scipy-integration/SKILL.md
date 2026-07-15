@@ -1,6 +1,6 @@
 ---
 name: scipy-integration
-description: Integration with SciPy. data sources.
+description: "Integration with SciPy. data sources."
 category: data
 tags: [scipy, integration, data, data-science]
 models: [gpt-4, claude-3]

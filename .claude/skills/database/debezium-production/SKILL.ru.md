@@ -1,6 +1,6 @@
 ---
 name: debezium-production
-description: Production for Debezium: production deployment
+description: "Production for Debezium: production deployment"
 category: database
 tags: [debezium-production, database, russian]
 models: [sonnet, opus]

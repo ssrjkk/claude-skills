@@ -1,6 +1,6 @@
 ---
 name: swift-config
-description: Configuration with Swift. config management.
+description: "Configuration with Swift. config management."
 category: backend
 tags: [swift, config, backend, backend]
 models: [gpt-4, claude-3]

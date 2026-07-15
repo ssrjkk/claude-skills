@@ -1,6 +1,6 @@
 ---
 name: hazelcast-security
-description: Security with Hazelcast. security.
+description: "Security with Hazelcast. security."
 category: database
 tags: [hazelcast-security, database, russian]
 models: [sonnet, opus]

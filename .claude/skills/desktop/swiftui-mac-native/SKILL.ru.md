@@ -1,6 +1,6 @@
 ---
 name: swiftui-mac-native
-description: Native with SwiftUI Mac. native APIs.
+description: "Native with SwiftUI Mac. native APIs."
 category: desktop
 tags: [swiftui-mac-native, desktop, russian]
 models: [sonnet, opus]

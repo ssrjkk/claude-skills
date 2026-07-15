@@ -1,6 +1,6 @@
 ---
 name: nicegui-charts
-description: Charts with NiceGUI. charts.
+description: "Charts with NiceGUI. charts."
 category: data
 tags: [nicegui-charts, data, russian]
 models: [sonnet, opus]

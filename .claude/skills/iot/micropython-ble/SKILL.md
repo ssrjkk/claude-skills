@@ -1,6 +1,6 @@
 ---
 name: micropython-ble
-description: BLE with MicroPython. Bluetooth.
+description: "BLE with MicroPython. Bluetooth."
 category: iot
 tags: [micropython, ble, iot, iot]
 models: [gpt-4, claude-3]

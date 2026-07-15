@@ -1,6 +1,6 @@
 ---
 name: cloudformation-testing
-description: Testing with CloudFormation. infra testing.
+description: "Testing with CloudFormation. infra testing."
 category: devops
 tags: [cloudformation-testing, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: esbuild-setup
-description: Setup with esbuild. initial setup.
+description: "Setup with esbuild. initial setup."
 category: frontend
 tags: [esbuild-setup, frontend, russian]
 models: [sonnet, opus]

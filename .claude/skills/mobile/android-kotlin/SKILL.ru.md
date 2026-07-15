@@ -1,6 +1,6 @@
 ---
 name: android-kotlin
-description: Generates Android applications using Kotlin and Jetpack Compose. Use for modern native Android development.
+description: "Generates Android applications using Kotlin and Jetpack Compose. Use for modern native Android development."
 category: mobile
 tags: [android-kotlin, mobile, russian]
 models: [sonnet, opus]

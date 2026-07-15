@@ -1,6 +1,6 @@
 ---
 name: voip-implementation
-description: Implementation with VoIP. implementation.
+description: "Implementation with VoIP. implementation."
 category: communications
 tags: [voip, implementation, communications, communication-protocol]
 models: [gpt-4, claude-3]

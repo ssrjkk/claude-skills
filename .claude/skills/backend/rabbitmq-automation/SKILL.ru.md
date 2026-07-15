@@ -1,6 +1,6 @@
 ---
 name: rabbitmq-automation
-description: Automation for Rabbitmq: automation and scripting
+description: "Automation for Rabbitmq: automation and scripting"
 category: backend
 tags: [rabbitmq-automation, backend, russian]
 models: [sonnet, opus]

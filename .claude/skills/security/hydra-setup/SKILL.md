@@ -1,6 +1,6 @@
 ---
 name: hydra-setup
-description: Setup with Hydra. installation.
+description: "Setup with Hydra. installation."
 category: security
 tags: [hydra, setup, security, security-tool]
 models: [gpt-4, claude-3]

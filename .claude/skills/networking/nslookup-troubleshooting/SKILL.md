@@ -1,6 +1,6 @@
 ---
 name: nslookup-troubleshooting
-description: Troubleshooting with nslookup/dig. debugging.
+description: "Troubleshooting with nslookup/dig. debugging."
 category: networking
 tags: [nslookup, troubleshooting, networking, networking-tool]
 models: [gpt-4, claude-3]

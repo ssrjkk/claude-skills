@@ -1,6 +1,6 @@
 ---
 name: neo4j-querying
-description: Querying with Neo4j. queries.
+description: "Querying with Neo4j. queries."
 category: database
 tags: [neo4j, querying, database, nosql]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: flaml-experiment-tracking
-description: Experiment Tracking with Flaml. tracking experiments.
+description: "Experiment Tracking with Flaml. tracking experiments."
 category: ai
 tags: [flaml, experiment-tracking, ai, ml]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: tauri-styling
-description: Styling with Tauri. styling.
+description: "Styling with Tauri. styling."
 category: desktop
 tags: [tauri-styling, desktop, russian]
 models: [sonnet, opus]

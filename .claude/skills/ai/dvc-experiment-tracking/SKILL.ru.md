@@ -1,6 +1,6 @@
 ---
 name: dvc-experiment-tracking
-description: Experiment Tracking with Dvc. tracking experiments.
+description: "Experiment Tracking with Dvc. tracking experiments."
 category: ai
 tags: [dvc-experiment-tracking, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: akamai-networking
-description: Networking with Akamai. VPC.
+description: "Networking with Akamai. VPC."
 category: devops
 tags: [akamai-networking, devops, russian]
 models: [sonnet, opus]

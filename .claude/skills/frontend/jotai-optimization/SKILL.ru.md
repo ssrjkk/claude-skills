@@ -1,6 +1,6 @@
 ---
 name: jotai-optimization
-description: Optimization with Jotai. performance.
+description: "Optimization with Jotai. performance."
 category: frontend
 tags: [jotai-optimization, frontend, russian]
 models: [sonnet, opus]

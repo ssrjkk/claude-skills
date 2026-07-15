@@ -1,6 +1,6 @@
 ---
 name: loopback-routing
-description: Routing with LoopBack. HTTP routing.
+description: "Routing with LoopBack. HTTP routing."
 category: backend
 tags: [loopback-routing, backend, russian]
 models: [sonnet, opus]

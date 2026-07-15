@@ -1,6 +1,6 @@
 ---
 name: saltstack-state
-description: State with SaltStack. state management.
+description: "State with SaltStack. state management."
 category: devops
 tags: [saltstack, state, devops, iac]
 models: [gpt-4, claude-3]

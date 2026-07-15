@@ -1,6 +1,6 @@
 ---
 name: heroku-networking
-description: Networking with Heroku. VPC.
+description: "Networking with Heroku. VPC."
 category: devops
 tags: [heroku, networking, devops, cloud]
 models: [gpt-4, claude-3]

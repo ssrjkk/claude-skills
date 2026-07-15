@@ -1,6 +1,6 @@
 ---
 name: tls-api
-description: API for Tls: API development and integration
+description: "API for Tls: API development and integration"
 category: security
 tags: [tls, api, security]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: backbone-state-management
-description: State Management with Backbone. state handling.
+description: "State Management with Backbone. state handling."
 category: frontend
 tags: [backbone, state-management, frontend, frontend]
 models: [gpt-4, claude-3]

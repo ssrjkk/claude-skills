@@ -1,6 +1,6 @@
 ---
 name: mips
-description: Development with Mips: tools and best practices
+description: "Development with Mips: tools and best practices"
 category: mobile
 tags: [mips, mobile, development]
 models: [sonnet, opus]

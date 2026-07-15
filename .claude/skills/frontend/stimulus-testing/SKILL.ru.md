@@ -1,6 +1,6 @@
 ---
 name: stimulus-testing
-description: Testing with Stimulus. component testing.
+description: "Testing with Stimulus. component testing."
 category: frontend
 tags: [stimulus-testing, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: glassdoor-screening
-description: Screening with Glassdoor. resume screening.
+description: "Screening with Glassdoor. resume screening."
 category: hr
 tags: [glassdoor-screening, hr, russian]
 models: [sonnet, opus]

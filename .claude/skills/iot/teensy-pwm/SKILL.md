@@ -1,6 +1,6 @@
 ---
 name: teensy-pwm
-description: PWM with Teensy. PWM signals.
+description: "PWM with Teensy. PWM signals."
 category: iot
 tags: [teensy, pwm, iot, iot]
 models: [gpt-4, claude-3]

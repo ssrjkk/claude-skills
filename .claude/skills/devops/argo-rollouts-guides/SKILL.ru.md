@@ -1,6 +1,6 @@
 ---
 name: argo-rollouts-guides
-description: Guides for Argo-Rollouts: how-to guides
+description: "Guides for Argo-Rollouts: how-to guides"
 category: devops
 tags: [argo-rollouts-guides, devops, russian]
 models: [sonnet, opus]

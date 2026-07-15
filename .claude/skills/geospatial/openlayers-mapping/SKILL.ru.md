@@ -1,6 +1,6 @@
 ---
 name: openlayers-mapping
-description: Mapping with OpenLayers. mapping.
+description: "Mapping with OpenLayers. mapping."
 category: geospatial
 tags: [openlayers-mapping, geospatial, russian]
 models: [sonnet, opus]

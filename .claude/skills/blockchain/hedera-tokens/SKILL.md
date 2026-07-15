@@ -1,6 +1,6 @@
 ---
 name: hedera-tokens
-description: Tokens with Hedera. token standards.
+description: "Tokens with Hedera. token standards."
 category: blockchain
 tags: [hedera, tokens, blockchain, blockchain]
 models: [gpt-4, claude-3]

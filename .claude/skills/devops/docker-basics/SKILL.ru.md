@@ -1,6 +1,6 @@
 ---
 name: docker-basics
-description: Basics for Docker: fundamentals and core concepts
+description: "Basics for Docker: fundamentals and core concepts"
 category: devops
 tags: [docker-basics, devops, russian]
 models: [sonnet, opus]

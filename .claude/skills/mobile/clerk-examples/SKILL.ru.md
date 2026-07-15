@@ -1,6 +1,6 @@
 ---
 name: clerk-examples
-description: Examples for Clerk: practical examples
+description: "Examples for Clerk: practical examples"
 category: mobile
 tags: [clerk-examples, mobile, russian]
 models: [sonnet, opus]

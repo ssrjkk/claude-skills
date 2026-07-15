@@ -1,6 +1,6 @@
 ---
 name: socat-security
-description: Security with socat. security testing.
+description: "Security with socat. security testing."
 category: networking
 tags: [socat-security, networking, russian]
 models: [sonnet, opus]

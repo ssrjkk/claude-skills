@@ -1,6 +1,6 @@
 ---
 name: redis-setup
-description: Setup with Redis. installation.
+description: "Setup with Redis. installation."
 category: database
 tags: [redis-setup, database, russian]
 models: [sonnet, opus]

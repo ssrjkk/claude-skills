@@ -1,6 +1,6 @@
 ---
 name: guidance-evaluation
-description: Evaluation with Guidance. LLM evaluation.
+description: "Evaluation with Guidance. LLM evaluation."
 category: ai
 tags: [guidance, evaluation, ai, llm]
 models: [gpt-4, claude-3]

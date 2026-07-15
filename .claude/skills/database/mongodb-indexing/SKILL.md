@@ -1,6 +1,6 @@
 ---
 name: mongodb-indexing
-description: Indexing with MongoDB. indexes.
+description: "Indexing with MongoDB. indexes."
 category: database
 tags: [mongodb, indexing, database, nosql]
 models: [gpt-4, claude-3]

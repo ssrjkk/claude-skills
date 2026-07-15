@@ -1,6 +1,6 @@
 ---
 name: minikube-storage
-description: Storage with Minikube. persistent storage.
+description: "Storage with Minikube. persistent storage."
 category: devops
 tags: [minikube, storage, devops, kubernetes]
 models: [gpt-4, claude-3]

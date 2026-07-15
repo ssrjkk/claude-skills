@@ -1,6 +1,6 @@
 ---
 name: react-native-expo
-description: Generates React Native applications using Expo and TypeScript. Use for cross-platform mobile development.
+description: "Generates React Native applications using Expo and TypeScript. Use for cross-platform mobile development."
 category: mobile
 tags: [react-native-expo, mobile, russian]
 models: [sonnet, opus]

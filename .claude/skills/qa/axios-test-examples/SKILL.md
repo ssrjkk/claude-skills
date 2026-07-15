@@ -1,6 +1,6 @@
 ---
 name: axios-test-examples
-description: Examples for Axios-Test: practical examples
+description: "Examples for Axios-Test: practical examples"
 category: qa
 tags: [axios-test, examples, qa]
 models: [sonnet, opus]

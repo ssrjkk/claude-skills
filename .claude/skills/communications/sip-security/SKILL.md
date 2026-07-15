@@ -1,6 +1,6 @@
 ---
 name: sip-security
-description: Security with SIP. security.
+description: "Security with SIP. security."
 category: communications
 tags: [sip, security, communications, communication-protocol]
 models: [gpt-4, claude-3]

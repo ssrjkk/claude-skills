@@ -1,6 +1,6 @@
 ---
 name: chargebee-dunning
-description: Dunning with Chargebee. retry logic.
+description: "Dunning with Chargebee. retry logic."
 category: payments
 tags: [chargebee-dunning, payments, russian]
 models: [sonnet, opus]

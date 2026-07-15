@@ -1,6 +1,6 @@
 ---
 name: cockroachdb-guides
-description: Guides for Cockroachdb: how-to guides
+description: "Guides for Cockroachdb: how-to guides"
 category: database
 tags: [cockroachdb, guides, database]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: bamboo-caching
-description: Caching with Bamboo. dependency caching.
+description: "Caching with Bamboo. dependency caching."
 category: devops
 tags: [bamboo-caching, devops, russian]
 models: [sonnet, opus]

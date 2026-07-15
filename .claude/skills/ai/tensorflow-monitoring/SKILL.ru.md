@@ -1,6 +1,6 @@
 ---
 name: tensorflow-monitoring
-description: Monitoring for Tensorflow: monitoring and observability
+description: "Monitoring for Tensorflow: monitoring and observability"
 category: ai
 tags: [tensorflow-monitoring, ai, russian]
 models: [sonnet, opus]

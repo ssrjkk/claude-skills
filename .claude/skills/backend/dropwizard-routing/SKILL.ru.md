@@ -1,6 +1,6 @@
 ---
 name: dropwizard-routing
-description: Routing with Dropwizard. HTTP routing.
+description: "Routing with Dropwizard. HTTP routing."
 category: backend
 tags: [dropwizard-routing, backend, russian]
 models: [sonnet, opus]

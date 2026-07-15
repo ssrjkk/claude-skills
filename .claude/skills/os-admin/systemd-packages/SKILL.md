@@ -1,6 +1,6 @@
 ---
 name: systemd-packages
-description: Packages with systemd. package management.
+description: "Packages with systemd. package management."
 category: os-admin
 tags: [systemd, packages, os-admin, linux]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: ollama-deployment
-description: Local LLM deployment with Ollama
+description: "Local LLM deployment with Ollama"
 category: ai
 tags: [ollama-deployment, ai, russian]
 models: [sonnet, opus]

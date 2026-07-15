@@ -1,6 +1,6 @@
 ---
 name: python-orm
-description: ORM with Python. database access.
+description: "ORM with Python. database access."
 category: backend
 tags: [python-orm, backend, russian]
 models: [sonnet, opus]

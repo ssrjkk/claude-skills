@@ -1,6 +1,6 @@
 ---
 name: csrd-basics
-description: Basics with CSRD. fundamentals.
+description: "Basics with CSRD. fundamentals."
 category: sustainability
 tags: [csrd, basics, sustainability, sustainability]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: puppeteer-setup
-description: Setup with Puppeteer. installation.
+description: "Setup with Puppeteer. installation."
 category: qa
 tags: [puppeteer-setup, qa, russian]
 models: [sonnet, opus]

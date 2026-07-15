@@ -1,6 +1,6 @@
 ---
 name: spec-export
-description: Export with Spec. assets.
+description: "Export with Spec. assets."
 category: design
 tags: [spec, export, design, design]
 models: [gpt-4, claude-3]

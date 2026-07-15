@@ -1,6 +1,6 @@
 ---
 name: emr-compliance
-description: Compliance with EMR Systems. compliance.
+description: "Compliance with EMR Systems. compliance."
 category: healthcare
 tags: [emr-compliance, healthcare, russian]
 models: [sonnet, opus]

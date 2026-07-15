@@ -1,6 +1,6 @@
 ---
 name: snyk-testing
-description: Testing for Snyk: testing and validation
+description: "Testing for Snyk: testing and validation"
 category: security
 tags: [snyk, testing, security]
 models: [sonnet, opus]

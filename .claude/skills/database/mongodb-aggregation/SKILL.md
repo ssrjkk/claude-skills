@@ -1,6 +1,6 @@
 ---
 name: mongodb-aggregation
-description: Aggregation with MongoDB. aggregation pipelines.
+description: "Aggregation with MongoDB. aggregation pipelines."
 category: database
 tags: [mongodb, aggregation, database, nosql]
 models: [gpt-4, claude-3]

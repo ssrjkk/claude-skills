@@ -1,6 +1,6 @@
 ---
 name: vault-integration
-description: Integration for Vault: integration with other tools
+description: "Integration for Vault: integration with other tools"
 category: devops
 tags: [vault, integration, devops]
 models: [sonnet, opus]

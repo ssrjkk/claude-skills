@@ -1,6 +1,6 @@
 ---
 name: base-tokens
-description: Tokens with Base. token standards.
+description: "Tokens with Base. token standards."
 category: blockchain
 tags: [base, tokens, blockchain, blockchain]
 models: [gpt-4, claude-3]

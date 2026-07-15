@@ -1,6 +1,6 @@
 ---
 name: bgp-configuration
-description: Config with BGP. setup.
+description: "Config with BGP. setup."
 category: networking
 tags: [bgp-configuration, networking, russian]
 models: [sonnet, opus]

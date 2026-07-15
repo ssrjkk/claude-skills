@@ -1,6 +1,6 @@
 ---
 name: dagster-integration
-description: Integration with Dagster. connectors.
+description: "Integration with Dagster. connectors."
 category: data
 tags: [dagster, integration, data, data-engineering]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: square-compliance
-description: Compliance with Square. PCI DSS.
+description: "Compliance with Square. PCI DSS."
 category: payments
 tags: [square-compliance, payments, russian]
 models: [sonnet, opus]

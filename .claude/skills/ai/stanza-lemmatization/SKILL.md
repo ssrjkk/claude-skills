@@ -1,6 +1,6 @@
 ---
 name: stanza-lemmatization
-description: Lemmatization with Stanza. word lemmatization.
+description: "Lemmatization with Stanza. word lemmatization."
 category: ai
 tags: [stanza, lemmatization, ai, nlp]
 models: [gpt-4, claude-3]

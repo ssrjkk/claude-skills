@@ -1,6 +1,6 @@
 ---
 name: splash-screen-usage
-description: Usage for Splash-Screen: usage reference
+description: "Usage for Splash-Screen: usage reference"
 category: mobile
 tags: [splash-screen-usage, mobile, russian]
 models: [sonnet, opus]

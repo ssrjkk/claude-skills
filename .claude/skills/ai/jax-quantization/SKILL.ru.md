@@ -1,6 +1,6 @@
 ---
 name: jax-quantization
-description: Quantization with Jax. model quantization.
+description: "Quantization with Jax. model quantization."
 category: ai
 tags: [jax-quantization, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: linode-serverless
-description: Serverless with Linode. functions.
+description: "Serverless with Linode. functions."
 category: devops
 tags: [linode-serverless, devops, russian]
 models: [sonnet, opus]

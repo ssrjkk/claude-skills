@@ -1,6 +1,6 @@
 ---
 name: rust-embedded
-description: Rust for embedded systems
+description: "Rust for embedded systems"
 category: embedded
 tags: [rust-embedded, embedded, russian]
 models: [sonnet, opus]

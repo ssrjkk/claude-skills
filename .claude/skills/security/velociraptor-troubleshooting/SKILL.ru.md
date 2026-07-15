@@ -1,6 +1,6 @@
 ---
 name: velociraptor-troubleshooting
-description: Troubleshooting for Velociraptor: troubleshooting common issues
+description: "Troubleshooting for Velociraptor: troubleshooting common issues"
 category: security
 tags: [velociraptor-troubleshooting, security, russian]
 models: [sonnet, opus]

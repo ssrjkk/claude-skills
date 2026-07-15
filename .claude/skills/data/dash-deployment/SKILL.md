@@ -1,6 +1,6 @@
 ---
 name: dash-deployment
-description: Deployment with Dash. deploy.
+description: "Deployment with Dash. deploy."
 category: data
 tags: [dash, deployment, data, data-apps]
 models: [gpt-4, claude-3]

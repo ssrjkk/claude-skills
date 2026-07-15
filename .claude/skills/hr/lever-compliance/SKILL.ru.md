@@ -1,6 +1,6 @@
 ---
 name: lever-compliance
-description: Compliance with Lever. compliance.
+description: "Compliance with Lever. compliance."
 category: hr
 tags: [lever-compliance, hr, russian]
 models: [sonnet, opus]

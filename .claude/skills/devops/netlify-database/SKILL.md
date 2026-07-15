@@ -1,6 +1,6 @@
 ---
 name: netlify-database
-description: Database with Netlify. managed databases.
+description: "Database with Netlify. managed databases."
 category: devops
 tags: [netlify, database, devops, cloud]
 models: [gpt-4, claude-3]

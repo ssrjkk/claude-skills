@@ -1,6 +1,6 @@
 ---
 name: keydb-examples
-description: Examples for Keydb: practical examples
+description: "Examples for Keydb: practical examples"
 category: database
 tags: [keydb-examples, database, russian]
 models: [sonnet, opus]

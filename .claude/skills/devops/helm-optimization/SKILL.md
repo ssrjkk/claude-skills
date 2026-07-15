@@ -1,6 +1,6 @@
 ---
 name: helm-optimization
-description: Optimization for Helm: performance tuning and optimization
+description: "Optimization for Helm: performance tuning and optimization"
 category: devops
 tags: [helm, optimization, devops]
 models: [sonnet, opus]

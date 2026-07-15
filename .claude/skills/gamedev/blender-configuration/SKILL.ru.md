@@ -1,6 +1,6 @@
 ---
 name: blender-configuration
-description: Configuration for Blender: configuration and setup
+description: "Configuration for Blender: configuration and setup"
 category: gamedev
 tags: [blender-configuration, gamedev, russian]
 models: [sonnet, opus]

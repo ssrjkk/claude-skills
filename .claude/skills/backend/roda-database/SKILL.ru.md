@@ -1,6 +1,6 @@
 ---
 name: roda-database
-description: Database with Roda. ActiveRecord.
+description: "Database with Roda. ActiveRecord."
 category: backend
 tags: [roda-database, backend, russian]
 models: [sonnet, opus]

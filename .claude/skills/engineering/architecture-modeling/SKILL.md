@@ -1,6 +1,6 @@
 ---
 name: architecture-modeling
-description: Modeling with Software Architecture. system modeling.
+description: "Modeling with Software Architecture. system modeling."
 category: engineering
 tags: [architecture, modeling, engineering, modeling]
 models: [gpt-4, claude-3]

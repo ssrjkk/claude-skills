@@ -1,6 +1,6 @@
 ---
 name: alpine-filesystem
-description: Filesystem with Alpine Linux. filesystem.
+description: "Filesystem with Alpine Linux. filesystem."
 category: os-admin
 tags: [alpine, filesystem, os-admin, linux]
 models: [gpt-4, claude-3]

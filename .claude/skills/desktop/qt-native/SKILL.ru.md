@@ -1,6 +1,6 @@
 ---
 name: qt-native
-description: Native with Qt. native APIs.
+description: "Native with Qt. native APIs."
 category: desktop
 tags: [qt-native, desktop, russian]
 models: [sonnet, opus]

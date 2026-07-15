@@ -1,6 +1,6 @@
 ---
 name: trankit-translation
-description: Translation with Trankit. machine translation.
+description: "Translation with Trankit. machine translation."
 category: ai
 tags: [trankit-translation, ai, russian]
 models: [sonnet, opus]

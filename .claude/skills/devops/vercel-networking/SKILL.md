@@ -1,6 +1,6 @@
 ---
 name: vercel-networking
-description: Networking with Vercel. VPC.
+description: "Networking with Vercel. VPC."
 category: devops
 tags: [vercel, networking, devops, cloud]
 models: [gpt-4, claude-3]

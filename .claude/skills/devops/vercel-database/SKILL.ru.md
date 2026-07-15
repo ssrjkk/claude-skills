@@ -1,6 +1,6 @@
 ---
 name: vercel-database
-description: Database with Vercel. managed databases.
+description: "Database with Vercel. managed databases."
 category: devops
 tags: [vercel-database, devops, russian]
 models: [sonnet, opus]

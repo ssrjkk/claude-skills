@@ -1,6 +1,6 @@
 ---
 name: langgraph-quickstart
-description: Quickstart for Langgraph: quick start guide
+description: "Quickstart for Langgraph: quick start guide"
 category: ai
 tags: [langgraph, quickstart, ai]
 models: [sonnet, opus]

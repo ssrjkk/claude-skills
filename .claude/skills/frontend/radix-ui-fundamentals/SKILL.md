@@ -1,6 +1,6 @@
 ---
 name: radix-ui-fundamentals
-description: Fundamentals for Radix-Ui: core concepts
+description: "Fundamentals for Radix-Ui: core concepts"
 category: frontend
 tags: [radix-ui, fundamentals, frontend]
 models: [sonnet, opus]

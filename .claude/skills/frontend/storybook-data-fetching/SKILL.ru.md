@@ -1,6 +1,6 @@
 ---
 name: storybook-data-fetching
-description: Data Fetching with Storybook. data loading.
+description: "Data Fetching with Storybook. data loading."
 category: frontend
 tags: [storybook-data-fetching, frontend, russian]
 models: [sonnet, opus]

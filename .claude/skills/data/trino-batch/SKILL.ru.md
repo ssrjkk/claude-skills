@@ -1,6 +1,6 @@
 ---
 name: trino-batch
-description: Batch with Trino. batch processing.
+description: "Batch with Trino. batch processing."
 category: data
 tags: [trino-batch, data, russian]
 models: [sonnet, opus]

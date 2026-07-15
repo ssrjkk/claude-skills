@@ -1,6 +1,6 @@
 ---
 name: digitalocean-security
-description: Security with DigitalOcean. cloud security.
+description: "Security with DigitalOcean. cloud security."
 category: devops
 tags: [digitalocean, security, devops, cloud]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: rt-thread-optimization
-description: Optimization with RT-Thread. optimization.
+description: "Optimization with RT-Thread. optimization."
 category: embedded
 tags: [rt-thread-optimization, embedded, russian]
 models: [sonnet, opus]

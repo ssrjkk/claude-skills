@@ -1,6 +1,6 @@
 ---
 name: swift-ios-navigation
-description: Navigation with Swift iOS. navigation.
+description: "Navigation with Swift iOS. navigation."
 category: mobile
 tags: [swift-ios-navigation, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: typescript-rest-api
-description: REST API with Typescript. building REST APIs.
+description: "REST API with Typescript. building REST APIs."
 category: backend
 tags: [typescript-rest-api, backend, russian]
 models: [sonnet, opus]

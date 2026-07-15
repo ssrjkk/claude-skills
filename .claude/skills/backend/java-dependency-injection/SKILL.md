@@ -1,6 +1,6 @@
 ---
 name: java-dependency-injection
-description: DI with Java. DI containers.
+description: "DI with Java. DI containers."
 category: backend
 tags: [java, dependency-injection, backend, backend]
 models: [gpt-4, claude-3]

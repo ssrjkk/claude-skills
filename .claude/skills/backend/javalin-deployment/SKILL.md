@@ -1,6 +1,6 @@
 ---
 name: javalin-deployment
-description: Deployment with Javalin. build.
+description: "Deployment with Javalin. build."
 category: backend
 tags: [javalin, deployment, backend, backend]
 models: [gpt-4, claude-3]

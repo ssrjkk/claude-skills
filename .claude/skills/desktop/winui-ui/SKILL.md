@@ -1,6 +1,6 @@
 ---
 name: winui-ui
-description: UI with WinUI. UI components.
+description: "UI with WinUI. UI components."
 category: desktop
 tags: [winui, ui, desktop, desktop]
 models: [gpt-4, claude-3]

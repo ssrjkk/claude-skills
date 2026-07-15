@@ -1,6 +1,6 @@
 ---
 name: xamarin-navigation
-description: Navigation with Xamarin. navigation.
+description: "Navigation with Xamarin. navigation."
 category: mobile
 tags: [xamarin-navigation, mobile, russian]
 models: [sonnet, opus]

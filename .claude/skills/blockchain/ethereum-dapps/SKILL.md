@@ -1,6 +1,6 @@
 ---
 name: ethereum-dapps
-description: DApps with Ethereum. decentralized apps.
+description: "DApps with Ethereum. decentralized apps."
 category: blockchain
 tags: [ethereum, dapps, blockchain, blockchain]
 models: [gpt-4, claude-3]

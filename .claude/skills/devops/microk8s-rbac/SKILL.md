@@ -1,6 +1,6 @@
 ---
 name: microk8s-rbac
-description: RBAC with MicroK8s. access control.
+description: "RBAC with MicroK8s. access control."
 category: devops
 tags: [microk8s, rbac, devops, kubernetes]
 models: [gpt-4, claude-3]

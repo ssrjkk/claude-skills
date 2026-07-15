@@ -1,6 +1,6 @@
 ---
 name: hololens-rendering
-description: Rendering with HoloLens. stereoscopic.
+description: "Rendering with HoloLens. stereoscopic."
 category: ar-vr
 tags: [hololens-rendering, ar-vr, russian]
 models: [sonnet, opus]

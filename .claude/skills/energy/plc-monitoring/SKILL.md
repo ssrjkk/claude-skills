@@ -1,6 +1,6 @@
 ---
 name: plc-monitoring
-description: Monitoring with PLC Programming. monitoring.
+description: "Monitoring with PLC Programming. monitoring."
 category: energy
 tags: [plc, monitoring, energy, smart-grid]
 models: [gpt-4, claude-3]

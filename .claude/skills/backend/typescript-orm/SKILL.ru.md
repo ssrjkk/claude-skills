@@ -1,6 +1,6 @@
 ---
 name: typescript-orm
-description: ORM with Typescript. database access.
+description: "ORM with Typescript. database access."
 category: backend
 tags: [typescript-orm, backend, russian]
 models: [sonnet, opus]

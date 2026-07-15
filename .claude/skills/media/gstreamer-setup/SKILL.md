@@ -1,6 +1,6 @@
 ---
 name: gstreamer-setup
-description: Setup with GStreamer. setup.
+description: "Setup with GStreamer. setup."
 category: media
 tags: [gstreamer, setup, media, media-streaming]
 models: [gpt-4, claude-3]

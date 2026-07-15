@@ -1,6 +1,6 @@
 ---
 name: scikit-learn-deployment
-description: Deployment with Scikit Learn. model serving.
+description: "Deployment with Scikit Learn. model serving."
 category: ai
 tags: [scikit-learn-deployment, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mpls-basics
-description: Basics with MPLS. fundamentals.
+description: "Basics with MPLS. fundamentals."
 category: networking
 tags: [mpls, basics, networking, networking]
 models: [gpt-4, claude-3]

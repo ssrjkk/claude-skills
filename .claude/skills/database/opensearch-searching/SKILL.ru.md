@@ -1,6 +1,6 @@
 ---
 name: opensearch-searching
-description: Searching with OpenSearch. full-text search.
+description: "Searching with OpenSearch. full-text search."
 category: database
 tags: [opensearch-searching, database, russian]
 models: [sonnet, opus]

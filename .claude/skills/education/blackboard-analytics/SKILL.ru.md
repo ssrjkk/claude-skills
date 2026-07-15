@@ -1,6 +1,6 @@
 ---
 name: blackboard-analytics
-description: Analytics with Blackboard. analytics.
+description: "Analytics with Blackboard. analytics."
 category: education
 tags: [blackboard-analytics, education, russian]
 models: [sonnet, opus]

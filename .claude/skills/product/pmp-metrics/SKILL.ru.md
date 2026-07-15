@@ -1,6 +1,6 @@
 ---
 name: pmp-metrics
-description: Metrics with PMP. measurement.
+description: "Metrics with PMP. measurement."
 category: product
 tags: [pmp-metrics, product, russian]
 models: [sonnet, opus]

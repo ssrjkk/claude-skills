@@ -1,6 +1,6 @@
 ---
 name: radix-ui-forms
-description: Forms with Radix UI. form styling.
+description: "Forms with Radix UI. form styling."
 category: frontend
 tags: [radix-ui-forms, frontend, russian]
 models: [sonnet, opus]

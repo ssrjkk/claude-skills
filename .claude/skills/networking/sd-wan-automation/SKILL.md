@@ -1,6 +1,6 @@
 ---
 name: sd-wan-automation
-description: Automation with SD-WAN. network automation.
+description: "Automation with SD-WAN. network automation."
 category: networking
 tags: [sd-wan, automation, networking, networking]
 models: [gpt-4, claude-3]

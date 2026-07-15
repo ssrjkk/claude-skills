@@ -1,6 +1,6 @@
 ---
 name: esphome-telemetry
-description: Telemetry with ESPHome. data collection.
+description: "Telemetry with ESPHome. data collection."
 category: iot
 tags: [esphome, telemetry, iot, iot-platform]
 models: [gpt-4, claude-3]

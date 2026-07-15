@@ -1,6 +1,6 @@
 ---
 name: kit-grpc
-description: gRPC with Go Kit. gRPC services.
+description: "gRPC with Go Kit. gRPC services."
 category: backend
 tags: [kit, grpc, backend, backend]
 models: [gpt-4, claude-3]

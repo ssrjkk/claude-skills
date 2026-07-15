@@ -1,6 +1,6 @@
 ---
 name: astro-optimization
-description: Optimization for Astro: performance tuning and optimization
+description: "Optimization for Astro: performance tuning and optimization"
 category: frontend
 tags: [astro, optimization, frontend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: artillery-setup
-description: Setup with Artillery. installation.
+description: "Setup with Artillery. installation."
 category: qa
 tags: [artillery, setup, qa, performance-testing]
 models: [gpt-4, claude-3]

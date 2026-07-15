@@ -1,6 +1,6 @@
 ---
 name: jekyll-ssr
-description: SSR with Jekyll. server rendering.
+description: "SSR with Jekyll. server rendering."
 category: frontend
 tags: [jekyll, ssr, frontend, meta-framework]
 models: [gpt-4, claude-3]

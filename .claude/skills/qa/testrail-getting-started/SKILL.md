@@ -1,6 +1,6 @@
 ---
 name: testrail-getting-started
-description: Getting Started for Testrail: initial setup and first steps
+description: "Getting Started for Testrail: initial setup and first steps"
 category: qa
 tags: [testrail, getting-started, qa]
 models: [sonnet, opus]

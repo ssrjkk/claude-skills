@@ -1,6 +1,6 @@
 ---
 name: locust-thresholds
-description: Thresholds with Locust. pass/fail.
+description: "Thresholds with Locust. pass/fail."
 category: qa
 tags: [locust-thresholds, qa, russian]
 models: [sonnet, opus]

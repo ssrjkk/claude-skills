@@ -1,6 +1,6 @@
 ---
 name: applitools-production
-description: Production for Applitools: production deployment
+description: "Production for Applitools: production deployment"
 category: qa
 tags: [applitools-production, qa, russian]
 models: [sonnet, opus]

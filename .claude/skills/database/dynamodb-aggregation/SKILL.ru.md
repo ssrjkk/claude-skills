@@ -1,6 +1,6 @@
 ---
 name: dynamodb-aggregation
-description: Aggregation with DynamoDB. aggregation pipelines.
+description: "Aggregation with DynamoDB. aggregation pipelines."
 category: database
 tags: [dynamodb-aggregation, database, russian]
 models: [sonnet, opus]

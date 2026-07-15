@@ -1,6 +1,6 @@
 ---
 name: cocos-api
-description: API for Cocos: API development and integration
+description: "API for Cocos: API development and integration"
 category: gamedev
 tags: [cocos-api, gamedev, russian]
 models: [sonnet, opus]

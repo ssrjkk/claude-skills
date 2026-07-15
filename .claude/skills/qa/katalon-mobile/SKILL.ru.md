@@ -1,6 +1,6 @@
 ---
 name: katalon-mobile
-description: Mobile with Katalon. mobile testing.
+description: "Mobile with Katalon. mobile testing."
 category: qa
 tags: [katalon-mobile, qa, russian]
 models: [sonnet, opus]

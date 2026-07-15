@@ -1,6 +1,6 @@
 ---
 name: event-storming-tools
-description: Tools with Event Storming. tooling.
+description: "Tools with Event Storming. tooling."
 category: engineering
 tags: [event-storming, tools, engineering, modeling]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: nebula-visualization
-description: Visualization with Nebula Graph. graph viz.
+description: "Visualization with Nebula Graph. graph viz."
 category: database
 tags: [nebula, visualization, database, graph-database]
 models: [gpt-4, claude-3]

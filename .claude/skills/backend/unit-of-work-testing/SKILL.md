@@ -1,6 +1,6 @@
 ---
 name: unit-of-work-testing
-description: Testing with Unit of Work. testing the pattern.
+description: "Testing with Unit of Work. testing the pattern."
 category: backend
 tags: [unit-of-work, testing, backend, architecture]
 models: [gpt-4, claude-3]

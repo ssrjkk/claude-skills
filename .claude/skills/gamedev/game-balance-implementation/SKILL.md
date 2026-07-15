@@ -1,6 +1,6 @@
 ---
 name: game-balance-implementation
-description: Implementation with Game Balance. implementation.
+description: "Implementation with Game Balance. implementation."
 category: gamedev
 tags: [game-balance, implementation, gamedev, game-design]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: tpot-pipeline
-description: Pipeline with Tpot. ML pipelines.
+description: "Pipeline with Tpot. ML pipelines."
 category: ai
 tags: [tpot-pipeline, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: runtime
-description: Development with Runtime: tools and best practices
+description: "Development with Runtime: tools and best practices"
 category: gamedev
 tags: [runtime, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kaniko-optimization
-description: Optimization with Kaniko. image optimization.
+description: "Optimization with Kaniko. image optimization."
 category: devops
 tags: [kaniko-optimization, devops, russian]
 models: [sonnet, opus]

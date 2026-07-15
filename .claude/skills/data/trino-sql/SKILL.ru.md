@@ -1,6 +1,6 @@
 ---
 name: trino-sql
-description: SQL with Trino. SQL queries.
+description: "SQL with Trino. SQL queries."
 category: data
 tags: [trino-sql, data, russian]
 models: [sonnet, opus]

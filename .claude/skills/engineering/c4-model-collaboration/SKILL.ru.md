@@ -1,6 +1,6 @@
 ---
 name: c4-model-collaboration
-description: Collaboration with C4 Model. team collaboration.
+description: "Collaboration with C4 Model. team collaboration."
 category: engineering
 tags: [c4-model-collaboration, engineering, russian]
 models: [sonnet, opus]

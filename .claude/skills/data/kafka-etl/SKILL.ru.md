@@ -1,6 +1,6 @@
 ---
 name: kafka-etl
-description: ETL with Kafka. extract-transform-load.
+description: "ETL with Kafka. extract-transform-load."
 category: data
 tags: [kafka-etl, data, russian]
 models: [sonnet, opus]

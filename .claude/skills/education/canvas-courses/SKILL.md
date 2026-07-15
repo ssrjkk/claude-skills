@@ -1,6 +1,6 @@
 ---
 name: canvas-courses
-description: Courses with Canvas LMS. course creation.
+description: "Courses with Canvas LMS. course creation."
 category: education
 tags: [canvas, courses, education, education-platform]
 models: [gpt-4, claude-3]

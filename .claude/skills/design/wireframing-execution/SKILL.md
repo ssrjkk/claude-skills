@@ -1,6 +1,6 @@
 ---
 name: wireframing-execution
-description: Execution with Wireframing. running sessions.
+description: "Execution with Wireframing. running sessions."
 category: design
 tags: [wireframing, execution, design, ux-research]
 models: [gpt-4, claude-3]

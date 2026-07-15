@@ -1,6 +1,6 @@
 ---
 name: falcon-auth
-description: Authentication with Falcon. user auth.
+description: "Authentication with Falcon. user auth."
 category: backend
 tags: [falcon-auth, backend, russian]
 models: [sonnet, opus]

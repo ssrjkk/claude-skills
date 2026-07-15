@@ -1,6 +1,6 @@
 ---
 name: katalon-setup
-description: Setup with Katalon. installation.
+description: "Setup with Katalon. installation."
 category: qa
 tags: [katalon-setup, qa, russian]
 models: [sonnet, opus]

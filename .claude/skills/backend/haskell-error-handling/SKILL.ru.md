@@ -1,6 +1,6 @@
 ---
 name: haskell-error-handling
-description: Error Handling with Haskell. error management.
+description: "Error Handling with Haskell. error management."
 category: backend
 tags: [haskell-error-handling, backend, russian]
 models: [sonnet, opus]

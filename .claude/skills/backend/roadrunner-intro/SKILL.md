@@ -1,6 +1,6 @@
 ---
 name: roadrunner-intro
-description: Intro for Roadrunner: introduction
+description: "Intro for Roadrunner: introduction"
 category: backend
 tags: [roadrunner, intro, backend]
 models: [sonnet, opus]

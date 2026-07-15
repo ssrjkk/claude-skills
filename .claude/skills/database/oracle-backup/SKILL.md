@@ -1,6 +1,6 @@
 ---
 name: oracle-backup
-description: Backup with Oracle. backup strategies.
+description: "Backup with Oracle. backup strategies."
 category: database
 tags: [oracle, backup, database, sql]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: jwt-api
-description: API for Jwt: API development and integration
+description: "API for Jwt: API development and integration"
 category: security
 tags: [jwt-api, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: chromatic-getting-started
-description: Getting Started for Chromatic: initial setup and first steps
+description: "Getting Started for Chromatic: initial setup and first steps"
 category: qa
 tags: [chromatic, getting-started, qa]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: flask-templating
-description: Templating with Flask. server templates.
+description: "Templating with Flask. server templates."
 category: backend
 tags: [flask-templating, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kubernetes-deployment
-description: Deployment with Kubernetes. apps deployment.
+description: "Deployment with Kubernetes. apps deployment."
 category: devops
 tags: [kubernetes-deployment, devops, russian]
 models: [sonnet, opus]

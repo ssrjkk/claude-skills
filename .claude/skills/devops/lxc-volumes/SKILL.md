@@ -1,6 +1,6 @@
 ---
 name: lxc-volumes
-description: Volumes with LXC. data volumes.
+description: "Volumes with LXC. data volumes."
 category: devops
 tags: [lxc, volumes, devops, container]
 models: [gpt-4, claude-3]

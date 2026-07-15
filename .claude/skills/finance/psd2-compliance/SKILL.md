@@ -1,6 +1,6 @@
 ---
 name: psd2-compliance
-description: Compliance with PSD2. compliance.
+description: "Compliance with PSD2. compliance."
 category: finance
 tags: [psd2, compliance, finance, fintech]
 models: [gpt-4, claude-3]

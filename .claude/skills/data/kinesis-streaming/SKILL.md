@@ -1,6 +1,6 @@
 ---
 name: kinesis-streaming
-description: Streaming with Kinesis. real-time.
+description: "Streaming with Kinesis. real-time."
 category: data
 tags: [kinesis, streaming, data, data-engineering]
 models: [gpt-4, claude-3]

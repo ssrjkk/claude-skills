@@ -1,6 +1,6 @@
 ---
 name: oauth-advanced
-description: Advanced for Oauth: advanced patterns and techniques
+description: "Advanced for Oauth: advanced patterns and techniques"
 category: security
 tags: [oauth-advanced, security, russian]
 models: [sonnet, opus]

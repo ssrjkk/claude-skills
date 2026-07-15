@@ -1,6 +1,6 @@
 ---
 name: weaviate-searching
-description: Searching with Weaviate. full-text search.
+description: "Searching with Weaviate. full-text search."
 category: database
 tags: [weaviate, searching, database, search-engine]
 models: [gpt-4, claude-3]

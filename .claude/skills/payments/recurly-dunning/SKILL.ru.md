@@ -1,6 +1,6 @@
 ---
 name: recurly-dunning
-description: Dunning with Recurly. retry logic.
+description: "Dunning with Recurly. retry logic."
 category: payments
 tags: [recurly-dunning, payments, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: datadog-agent-usage
-description: Usage for Datadog-Agent: usage reference
+description: "Usage for Datadog-Agent: usage reference"
 category: devops
 tags: [datadog-agent-usage, devops, russian]
 models: [sonnet, opus]

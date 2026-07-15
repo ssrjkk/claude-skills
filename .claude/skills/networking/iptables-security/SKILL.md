@@ -1,6 +1,6 @@
 ---
 name: iptables-security
-description: Security with iptables/nftables. security testing.
+description: "Security with iptables/nftables. security testing."
 category: networking
 tags: [iptables, security, networking, networking-tool]
 models: [gpt-4, claude-3]

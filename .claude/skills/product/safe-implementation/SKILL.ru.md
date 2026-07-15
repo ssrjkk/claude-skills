@@ -1,6 +1,6 @@
 ---
 name: safe-implementation
-description: Implementation with SAFe. adoption.
+description: "Implementation with SAFe. adoption."
 category: product
 tags: [safe-implementation, product, russian]
 models: [sonnet, opus]

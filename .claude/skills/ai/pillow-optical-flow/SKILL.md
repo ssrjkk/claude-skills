@@ -1,6 +1,6 @@
 ---
 name: pillow-optical-flow
-description: Optical Flow with Pillow. motion detection.
+description: "Optical Flow with Pillow. motion detection."
 category: ai
 tags: [pillow, optical-flow, ai, computer-vision]
 models: [gpt-4, claude-3]

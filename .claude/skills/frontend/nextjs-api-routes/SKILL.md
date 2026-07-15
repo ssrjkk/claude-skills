@@ -1,6 +1,6 @@
 ---
 name: nextjs-api-routes
-description: API Routes with Next.js. API endpoints.
+description: "API Routes with Next.js. API endpoints."
 category: frontend
 tags: [nextjs, api-routes, frontend, meta-framework]
 models: [gpt-4, claude-3]

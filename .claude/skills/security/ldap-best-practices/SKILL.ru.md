@@ -1,6 +1,6 @@
 ---
 name: ldap-best-practices
-description: Best Practices with LDAP. best practices.
+description: "Best Practices with LDAP. best practices."
 category: security
 tags: [ldap-best-practices, security, russian]
 models: [sonnet, opus]

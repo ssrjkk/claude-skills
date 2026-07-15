@@ -1,6 +1,6 @@
 ---
 name: firestore-backup
-description: Backup with Firestore. backup.
+description: "Backup with Firestore. backup."
 category: database
 tags: [firestore, backup, database, nosql]
 models: [gpt-4, claude-3]

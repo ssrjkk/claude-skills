@@ -1,6 +1,6 @@
 ---
 name: prioritization-implementation
-description: Implementation with Prioritization. execution.
+description: "Implementation with Prioritization. execution."
 category: product
 tags: [prioritization, implementation, product, product-framework]
 models: [gpt-4, claude-3]

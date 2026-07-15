@@ -1,6 +1,6 @@
 ---
 name: plantuml-best-practices
-description: Best Practices with PlantUML. practices.
+description: "Best Practices with PlantUML. practices."
 category: engineering
 tags: [plantuml, best-practices, engineering, modeling]
 models: [gpt-4, claude-3]

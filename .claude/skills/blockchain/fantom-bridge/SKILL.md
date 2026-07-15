@@ -1,6 +1,6 @@
 ---
 name: fantom-bridge
-description: Bridge with Fantom. cross-chain.
+description: "Bridge with Fantom. cross-chain."
 category: blockchain
 tags: [fantom, bridge, blockchain, blockchain]
 models: [gpt-4, claude-3]

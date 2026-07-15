@@ -1,6 +1,6 @@
 ---
 name: pinot-clustering
-description: Clustering with Apache Pinot. clustering.
+description: "Clustering with Apache Pinot. clustering."
 category: database
 tags: [pinot-clustering, database, russian]
 models: [sonnet, opus]

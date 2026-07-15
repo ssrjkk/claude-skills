@@ -1,6 +1,6 @@
 ---
 name: combat-design-player-feedback
-description: Feedback with Combat Design. player feedback.
+description: "Feedback with Combat Design. player feedback."
 category: gamedev
 tags: [combat-design, player-feedback, gamedev, game-design]
 models: [gpt-4, claude-3]

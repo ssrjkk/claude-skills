@@ -1,6 +1,6 @@
 ---
 name: mithril-accessibility
-description: Accessibility with Mithril. a11y.
+description: "Accessibility with Mithril. a11y."
 category: frontend
 tags: [mithril-accessibility, frontend, russian]
 models: [sonnet, opus]

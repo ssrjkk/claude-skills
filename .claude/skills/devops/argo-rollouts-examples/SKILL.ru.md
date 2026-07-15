@@ -1,6 +1,6 @@
 ---
 name: argo-rollouts-examples
-description: Examples for Argo-Rollouts: practical examples
+description: "Examples for Argo-Rollouts: practical examples"
 category: devops
 tags: [argo-rollouts-examples, devops, russian]
 models: [sonnet, opus]

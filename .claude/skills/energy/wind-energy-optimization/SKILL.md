@@ -1,6 +1,6 @@
 ---
 name: wind-energy-optimization
-description: Optimization with Wind Energy. optimization.
+description: "Optimization with Wind Energy. optimization."
 category: energy
 tags: [wind-energy, optimization, energy, renewable-energy]
 models: [gpt-4, claude-3]

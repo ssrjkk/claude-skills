@@ -1,6 +1,6 @@
 ---
 name: alpine-usage
-description: Usage for Alpine: usage reference
+description: "Usage for Alpine: usage reference"
 category: frontend
 tags: [alpine-usage, frontend, russian]
 models: [sonnet, opus]

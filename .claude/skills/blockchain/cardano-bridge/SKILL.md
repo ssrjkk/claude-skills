@@ -1,6 +1,6 @@
 ---
 name: cardano-bridge
-description: Bridge with Cardano. cross-chain.
+description: "Bridge with Cardano. cross-chain."
 category: blockchain
 tags: [cardano, bridge, blockchain, blockchain]
 models: [gpt-4, claude-3]

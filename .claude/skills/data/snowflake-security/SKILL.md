@@ -1,6 +1,6 @@
 ---
 name: snowflake-security
-description: Security for Snowflake: security best practices
+description: "Security for Snowflake: security best practices"
 category: data
 tags: [snowflake, security, data]
 models: [sonnet, opus]

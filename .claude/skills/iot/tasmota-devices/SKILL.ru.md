@@ -1,6 +1,6 @@
 ---
 name: tasmota-devices
-description: Devices with Tasmota. device management.
+description: "Devices with Tasmota. device management."
 category: iot
 tags: [tasmota-devices, iot, russian]
 models: [sonnet, opus]

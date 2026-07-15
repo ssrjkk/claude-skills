@@ -1,6 +1,6 @@
 ---
 name: haystack-chaining
-description: Chaining with Haystack. multi-step workflows.
+description: "Chaining with Haystack. multi-step workflows."
 category: ai
 tags: [haystack, chaining, ai, llm]
 models: [gpt-4, claude-3]

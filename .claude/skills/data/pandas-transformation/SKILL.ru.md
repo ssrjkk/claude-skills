@@ -1,6 +1,6 @@
 ---
 name: pandas-transformation
-description: Transformation with Pandas. transform.
+description: "Transformation with Pandas. transform."
 category: data
 tags: [pandas-transformation, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: turbopack-hmr
-description: HMR with Turbopack. hot reload.
+description: "HMR with Turbopack. hot reload."
 category: frontend
 tags: [turbopack-hmr, frontend, russian]
 models: [sonnet, opus]

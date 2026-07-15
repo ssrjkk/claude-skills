@@ -1,6 +1,6 @@
 ---
 name: nifi-monitoring
-description: Monitoring with NiFi. monitoring.
+description: "Monitoring with NiFi. monitoring."
 category: data
 tags: [nifi-monitoring, data, russian]
 models: [sonnet, opus]

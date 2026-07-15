@@ -1,6 +1,6 @@
 ---
 name: godot-scripting
-description: Scripting with Godot. game logic.
+description: "Scripting with Godot. game logic."
 category: gamedev
 tags: [godot-scripting, gamedev, russian]
 models: [sonnet, opus]

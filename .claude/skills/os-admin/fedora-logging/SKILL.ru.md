@@ -1,6 +1,6 @@
 ---
 name: fedora-logging
-description: Logging with Fedora. logging.
+description: "Logging with Fedora. logging."
 category: os-admin
 tags: [fedora-logging, os-admin, russian]
 models: [sonnet, opus]

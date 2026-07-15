@@ -1,6 +1,6 @@
 ---
 name: onesignal-configuration
-description: Configuration for Onesignal: configuration and setup
+description: "Configuration for Onesignal: configuration and setup"
 category: mobile
 tags: [onesignal, configuration, mobile]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: security-skill-0217
-description: Specialized skill #0217 for security development
+description: "Specialized skill #0217 for security development"
 category: security
 tags: [skill-0217, security, russian]
 models: [sonnet, opus]

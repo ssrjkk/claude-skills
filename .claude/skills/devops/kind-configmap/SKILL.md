@@ -1,6 +1,6 @@
 ---
 name: kind-configmap
-description: ConfigMap with Kind. config management.
+description: "ConfigMap with Kind. config management."
 category: devops
 tags: [kind, configmap, devops, kubernetes]
 models: [gpt-4, claude-3]

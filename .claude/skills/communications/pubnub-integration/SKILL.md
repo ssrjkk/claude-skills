@@ -1,6 +1,6 @@
 ---
 name: pubnub-integration
-description: Integration with PubNub. integration.
+description: "Integration with PubNub. integration."
 category: communications
 tags: [pubnub, integration, communications, communication-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: thinkific-courses
-description: Courses with Thinkific. course creation.
+description: "Courses with Thinkific. course creation."
 category: education
 tags: [thinkific, courses, education, education-platform]
 models: [gpt-4, claude-3]

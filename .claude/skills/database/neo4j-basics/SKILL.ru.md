@@ -1,6 +1,6 @@
 ---
 name: neo4j-basics
-description: Basics for Neo4J: fundamentals and core concepts
+description: "Basics for Neo4J: fundamentals and core concepts"
 category: database
 tags: [neo4j-basics, database, russian]
 models: [sonnet, opus]

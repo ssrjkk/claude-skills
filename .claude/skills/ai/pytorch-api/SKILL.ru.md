@@ -1,6 +1,6 @@
 ---
 name: pytorch-api
-description: API for Pytorch: API development and integration
+description: "API for Pytorch: API development and integration"
 category: ai
 tags: [pytorch-api, ai, russian]
 models: [sonnet, opus]

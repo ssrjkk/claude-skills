@@ -1,6 +1,6 @@
 ---
 name: ip-basics
-description: Basics with ip/ifconfig. basic usage.
+description: "Basics with ip/ifconfig. basic usage."
 category: networking
 tags: [ip-basics, networking, russian]
 models: [sonnet, opus]

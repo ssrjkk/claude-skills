@@ -1,6 +1,6 @@
 ---
 name: langsmith-troubleshooting
-description: Troubleshooting for Langsmith: troubleshooting common issues
+description: "Troubleshooting for Langsmith: troubleshooting common issues"
 category: ai
 tags: [langsmith, troubleshooting, ai]
 models: [sonnet, opus]

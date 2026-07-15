@@ -1,6 +1,6 @@
 ---
 name: vibe-coding
-description: Vibe coding methodology and best practices
+description: "Vibe coding methodology and best practices"
 category: ai
 tags: [vibe-coding, methodology, ai-assisted, workflow]
 models: [sonnet, opus]

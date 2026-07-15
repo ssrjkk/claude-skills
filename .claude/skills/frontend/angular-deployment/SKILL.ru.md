@@ -1,6 +1,6 @@
 ---
 name: angular-deployment
-description: Deployment for Angular: deployment and release
+description: "Deployment for Angular: deployment and release"
 category: frontend
 tags: [angular-deployment, frontend, russian]
 models: [sonnet, opus]

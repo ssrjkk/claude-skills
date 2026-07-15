@@ -1,6 +1,6 @@
 ---
 name: framer-versioning
-description: Versioning with Framer. version control.
+description: "Versioning with Framer. version control."
 category: design
 tags: [framer-versioning, design, russian]
 models: [sonnet, opus]

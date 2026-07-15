@@ -1,6 +1,6 @@
 ---
 name: thinkific-assessments
-description: Assessments with Thinkific. quizzes.
+description: "Assessments with Thinkific. quizzes."
 category: education
 tags: [thinkific-assessments, education, russian]
 models: [sonnet, opus]

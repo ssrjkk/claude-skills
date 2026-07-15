@@ -1,6 +1,6 @@
 ---
 name: peft-transfer-learning
-description: Transfer Learning with Peft. transfer learning.
+description: "Transfer Learning with Peft. transfer learning."
 category: ai
 tags: [peft-transfer-learning, ai, russian]
 models: [sonnet, opus]

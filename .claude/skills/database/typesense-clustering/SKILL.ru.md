@@ -1,6 +1,6 @@
 ---
 name: typesense-clustering
-description: Clustering with Typesense. cluster setup.
+description: "Clustering with Typesense. cluster setup."
 category: database
 tags: [typesense-clustering, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: consul-best-practices
-description: Best Practices for Consul: best practices and patterns
+description: "Best Practices for Consul: best practices and patterns"
 category: devops
 tags: [consul, best-practices, devops]
 models: [sonnet, opus]

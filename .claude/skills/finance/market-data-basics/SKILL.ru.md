@@ -1,6 +1,6 @@
 ---
 name: market-data-basics
-description: Basics with Market Data. fundamentals.
+description: "Basics with Market Data. fundamentals."
 category: finance
 tags: [market-data-basics, finance, russian]
 models: [sonnet, opus]

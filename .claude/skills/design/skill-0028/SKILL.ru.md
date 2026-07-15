@@ -1,6 +1,6 @@
 ---
 name: skill-0028
-description: Specialized skill #0028 for design development
+description: "Specialized skill #0028 for design development"
 category: design
 tags: [skill-0028, design, russian]
 models: [sonnet, opus]

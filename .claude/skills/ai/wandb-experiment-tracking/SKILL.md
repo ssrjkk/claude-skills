@@ -1,6 +1,6 @@
 ---
 name: wandb-experiment-tracking
-description: Experiment Tracking with Wandb. tracking experiments.
+description: "Experiment Tracking with Wandb. tracking experiments."
 category: ai
 tags: [wandb, experiment-tracking, ai, ml]
 models: [gpt-4, claude-3]

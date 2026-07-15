@@ -1,6 +1,6 @@
 ---
 name: outlines-fine-tuning
-description: Fine-Tuning with Outlines. model customization.
+description: "Fine-Tuning with Outlines. model customization."
 category: ai
 tags: [outlines, fine-tuning, ai, llm]
 models: [gpt-4, claude-3]

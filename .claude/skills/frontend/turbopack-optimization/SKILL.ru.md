@@ -1,6 +1,6 @@
 ---
 name: turbopack-optimization
-description: Optimization with Turbopack. build optimization.
+description: "Optimization with Turbopack. build optimization."
 category: frontend
 tags: [turbopack-optimization, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: xgboost-hyperparameter-tuning
-description: Hyperparameter Tuning with Xgboost. optimizing params.
+description: "Hyperparameter Tuning with Xgboost. optimizing params."
 category: ai
 tags: [xgboost-hyperparameter-tuning, ai, russian]
 models: [sonnet, opus]

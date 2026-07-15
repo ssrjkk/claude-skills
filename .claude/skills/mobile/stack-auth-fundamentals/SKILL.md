@@ -1,6 +1,6 @@
 ---
 name: stack-auth-fundamentals
-description: Fundamentals for Stack-Auth: core concepts
+description: "Fundamentals for Stack-Auth: core concepts"
 category: mobile
 tags: [stack-auth, fundamentals, mobile]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vendure-analytics
-description: Analytics with Vendure. analytics.
+description: "Analytics with Vendure. analytics."
 category: ecommerce
 tags: [vendure, analytics, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

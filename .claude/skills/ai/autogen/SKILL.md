@@ -1,6 +1,6 @@
 ---
 name: autogen
-description: Creates multi-agent AI systems with AutoGen, enabling agent conversations, tool use, and group chats.
+description: "Creates multi-agent AI systems with AutoGen, enabling agent conversations, tool use, and group chats."
 category: ai
 tags: [autogen, agents, multi-agent, conversation, ai]
 models: [sonnet, opus]

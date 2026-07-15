@@ -1,6 +1,6 @@
 ---
 name: thingsboard-commands
-description: Commands with ThingsBoard. device commands.
+description: "Commands with ThingsBoard. device commands."
 category: iot
 tags: [thingsboard-commands, iot, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: remote-integration
-description: Integration with Remote.com. integration.
+description: "Integration with Remote.com. integration."
 category: hr
 tags: [remote, integration, hr, hr-tech]
 models: [gpt-4, claude-3]

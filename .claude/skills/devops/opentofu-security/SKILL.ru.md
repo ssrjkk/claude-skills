@@ -1,6 +1,6 @@
 ---
 name: opentofu-security
-description: Security with OpenTofu. security groups.
+description: "Security with OpenTofu. security groups."
 category: devops
 tags: [opentofu-security, devops, russian]
 models: [sonnet, opus]

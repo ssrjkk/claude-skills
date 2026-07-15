@@ -1,6 +1,6 @@
 ---
 name: gsap-workflow
-description: Workflow for Gsap: workflow optimization
+description: "Workflow for Gsap: workflow optimization"
 category: frontend
 tags: [gsap, workflow, frontend]
 models: [sonnet, opus]

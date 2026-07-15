@@ -1,6 +1,6 @@
 ---
 name: aiohttp-templating
-description: Templating with aiohttp. server templates.
+description: "Templating with aiohttp. server templates."
 category: backend
 tags: [aiohttp-templating, backend, russian]
 models: [sonnet, opus]

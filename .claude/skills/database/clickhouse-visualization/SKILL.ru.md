@@ -1,6 +1,6 @@
 ---
 name: clickhouse-visualization
-description: Visualization with ClickHouse. charting.
+description: "Visualization with ClickHouse. charting."
 category: database
 tags: [clickhouse-visualization, database, russian]
 models: [sonnet, opus]

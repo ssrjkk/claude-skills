@@ -1,6 +1,6 @@
 ---
 name: firestore-indexing
-description: Indexing with Firestore. indexes.
+description: "Indexing with Firestore. indexes."
 category: database
 tags: [firestore, indexing, database, nosql]
 models: [gpt-4, claude-3]

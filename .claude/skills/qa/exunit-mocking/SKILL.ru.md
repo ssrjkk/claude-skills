@@ -1,6 +1,6 @@
 ---
 name: exunit-mocking
-description: Mocking with ExUnit. mocks.
+description: "Mocking with ExUnit. mocks."
 category: qa
 tags: [exunit-mocking, qa, russian]
 models: [sonnet, opus]

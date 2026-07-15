@@ -1,6 +1,6 @@
 ---
 name: gamemaker-testing
-description: Testing for Gamemaker: testing and validation
+description: "Testing for Gamemaker: testing and validation"
 category: gamedev
 tags: [gamemaker-testing, gamedev, russian]
 models: [sonnet, opus]

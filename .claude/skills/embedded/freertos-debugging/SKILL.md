@@ -1,6 +1,6 @@
 ---
 name: freertos-debugging
-description: Debugging with FreeRTOS. debug.
+description: "Debugging with FreeRTOS. debug."
 category: embedded
 tags: [freertos, debugging, embedded, rtos]
 models: [gpt-4, claude-3]

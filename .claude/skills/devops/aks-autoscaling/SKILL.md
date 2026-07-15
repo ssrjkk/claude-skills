@@ -1,6 +1,6 @@
 ---
 name: aks-autoscaling
-description: Autoscaling with Azure AKS. HPA.
+description: "Autoscaling with Azure AKS. HPA."
 category: devops
 tags: [aks, autoscaling, devops, kubernetes]
 models: [gpt-4, claude-3]

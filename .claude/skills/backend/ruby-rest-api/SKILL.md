@@ -1,6 +1,6 @@
 ---
 name: ruby-rest-api
-description: REST API with Ruby. building REST APIs.
+description: "REST API with Ruby. building REST APIs."
 category: backend
 tags: [ruby, rest-api, backend, backend]
 models: [gpt-4, claude-3]

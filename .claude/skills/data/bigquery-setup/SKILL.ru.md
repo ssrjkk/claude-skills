@@ -1,6 +1,6 @@
 ---
 name: bigquery-setup
-description: Setup for Bigquery: installation and configuration
+description: "Setup for Bigquery: installation and configuration"
 category: data
 tags: [bigquery-setup, data, russian]
 models: [sonnet, opus]

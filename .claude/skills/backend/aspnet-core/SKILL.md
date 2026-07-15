@@ -1,6 +1,6 @@
 ---
 name: aspnet-core
-description: Builds web APIs and applications with ASP.NET Core, controllers, Entity Framework, and middleware.
+description: "Builds web APIs and applications with ASP.NET Core, controllers, Entity Framework, and middleware."
 category: backend
 tags: [aspnet, dotnet, csharp, web-api, entity-framework]
 models: [sonnet, opus]

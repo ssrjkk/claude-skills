@@ -1,6 +1,6 @@
 ---
 name: azure-cosmosdb-fundamentals
-description: Fundamentals for Azure-Cosmosdb: core concepts
+description: "Fundamentals for Azure-Cosmosdb: core concepts"
 category: cloud
 tags: [azure-cosmosdb, fundamentals, cloud]
 models: [sonnet, opus]

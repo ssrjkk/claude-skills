@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-searching
-description: Searching with Elasticsearch. full-text search.
+description: "Searching with Elasticsearch. full-text search."
 category: database
 tags: [elasticsearch-searching, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: emscripten
-description: Development with Emscripten: tools and best practices
+description: "Development with Emscripten: tools and best practices"
 category: devops
 tags: [emscripten, devops, russian]
 models: [sonnet, opus]

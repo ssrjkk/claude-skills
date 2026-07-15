@@ -1,6 +1,6 @@
 ---
 name: gatling-api
-description: API for Gatling: API development and integration
+description: "API for Gatling: API development and integration"
 category: qa
 tags: [gatling-api, qa, russian]
 models: [sonnet, opus]

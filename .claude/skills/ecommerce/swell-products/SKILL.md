@@ -1,6 +1,6 @@
 ---
 name: swell-products
-description: Products with Swell. product API.
+description: "Products with Swell. product API."
 category: ecommerce
 tags: [swell, products, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: semantic-ui-components
-description: Components with Semantic UI. UI components.
+description: "Components with Semantic UI. UI components."
 category: frontend
 tags: [semantic-ui-components, frontend, russian]
 models: [sonnet, opus]

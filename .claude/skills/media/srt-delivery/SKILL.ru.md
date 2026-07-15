@@ -1,6 +1,6 @@
 ---
 name: srt-delivery
-description: Delivery with SRT. delivery.
+description: "Delivery with SRT. delivery."
 category: media
 tags: [srt-delivery, media, russian]
 models: [sonnet, opus]

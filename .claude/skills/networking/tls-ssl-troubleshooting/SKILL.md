@@ -1,6 +1,6 @@
 ---
 name: tls-ssl-troubleshooting
-description: Troubleshooting with TLS/SSL. diagnostics.
+description: "Troubleshooting with TLS/SSL. diagnostics."
 category: networking
 tags: [tls-ssl, troubleshooting, networking, networking]
 models: [gpt-4, claude-3]

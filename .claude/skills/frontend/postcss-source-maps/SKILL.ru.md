@@ -1,6 +1,6 @@
 ---
 name: postcss-source-maps
-description: Source Maps with PostCSS. debugging.
+description: "Source Maps with PostCSS. debugging."
 category: frontend
 tags: [postcss-source-maps, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: esg-measurement
-description: Measurement with ESG. measurement.
+description: "Measurement with ESG. measurement."
 category: sustainability
 tags: [esg, measurement, sustainability, sustainability]
 models: [gpt-4, claude-3]

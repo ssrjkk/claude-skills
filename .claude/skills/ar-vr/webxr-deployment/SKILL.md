@@ -1,6 +1,6 @@
 ---
 name: webxr-deployment
-description: Deployment with WebXR. deployment.
+description: "Deployment with WebXR. deployment."
 category: ar-vr
 tags: [webxr, deployment, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

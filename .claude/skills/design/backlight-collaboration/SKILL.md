@@ -1,6 +1,6 @@
 ---
 name: backlight-collaboration
-description: Collaboration with Backlight. collaboration.
+description: "Collaboration with Backlight. collaboration."
 category: design
 tags: [backlight, collaboration, design, design]
 models: [gpt-4, claude-3]

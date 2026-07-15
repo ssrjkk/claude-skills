@@ -1,6 +1,6 @@
 ---
 name: altair-deployment
-description: Deployment with Altair. app deployment.
+description: "Deployment with Altair. app deployment."
 category: data
 tags: [altair-deployment, data, russian]
 models: [sonnet, opus]

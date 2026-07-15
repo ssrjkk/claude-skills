@@ -1,6 +1,6 @@
 ---
 name: adyen-setup
-description: Setup with Adyen. account setup.
+description: "Setup with Adyen. account setup."
 category: payments
 tags: [adyen, setup, payments, payments]
 models: [gpt-4, claude-3]

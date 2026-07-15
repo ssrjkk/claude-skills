@@ -1,6 +1,6 @@
 ---
 name: actix-setup
-description: Setup for Actix: installation and configuration
+description: "Setup for Actix: installation and configuration"
 category: backend
 tags: [actix-setup, backend, russian]
 models: [sonnet, opus]

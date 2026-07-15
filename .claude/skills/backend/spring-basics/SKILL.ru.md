@@ -1,6 +1,6 @@
 ---
 name: spring-basics
-description: Basics for Spring: fundamentals and core concepts
+description: "Basics for Spring: fundamentals and core concepts"
 category: backend
 tags: [spring-basics, backend, russian]
 models: [sonnet, opus]

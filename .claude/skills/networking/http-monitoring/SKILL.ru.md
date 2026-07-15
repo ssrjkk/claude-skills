@@ -1,6 +1,6 @@
 ---
 name: http-monitoring
-description: Monitoring with HTTP. monitoring.
+description: "Monitoring with HTTP. monitoring."
 category: networking
 tags: [http-monitoring, networking, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: responder-deployment
-description: Deployment with Responder. production deploy.
+description: "Deployment with Responder. production deploy."
 category: backend
 tags: [responder-deployment, backend, russian]
 models: [sonnet, opus]

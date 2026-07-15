@@ -1,6 +1,6 @@
 ---
 name: scada-basics
-description: Basics with SCADA. fundamentals.
+description: "Basics with SCADA. fundamentals."
 category: energy
 tags: [scada, basics, energy, smart-grid]
 models: [gpt-4, claude-3]

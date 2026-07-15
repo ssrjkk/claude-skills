@@ -1,6 +1,6 @@
 ---
 name: dspy-evaluation
-description: Evaluation with Dspy. LLM evaluation.
+description: "Evaluation with Dspy. LLM evaluation."
 category: ai
 tags: [dspy, evaluation, ai, llm]
 models: [gpt-4, claude-3]

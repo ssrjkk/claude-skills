@@ -1,6 +1,6 @@
 ---
 name: penpot-components
-description: Components with Penpot. components.
+description: "Components with Penpot. components."
 category: design
 tags: [penpot-components, design, russian]
 models: [sonnet, opus]

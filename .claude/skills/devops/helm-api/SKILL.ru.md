@@ -1,6 +1,6 @@
 ---
 name: helm-api
-description: API for Helm: API development and integration
+description: "API for Helm: API development and integration"
 category: devops
 tags: [helm-api, devops, russian]
 models: [sonnet, opus]

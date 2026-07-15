@@ -1,6 +1,6 @@
 ---
 name: hanami-deployment
-description: Deployment with Hanami. deploy.
+description: "Deployment with Hanami. deploy."
 category: backend
 tags: [hanami, deployment, backend, backend]
 models: [gpt-4, claude-3]

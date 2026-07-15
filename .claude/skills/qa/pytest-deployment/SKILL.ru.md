@@ -1,6 +1,6 @@
 ---
 name: pytest-deployment
-description: Deployment for Pytest: deployment and release
+description: "Deployment for Pytest: deployment and release"
 category: qa
 tags: [pytest-deployment, qa, russian]
 models: [sonnet, opus]

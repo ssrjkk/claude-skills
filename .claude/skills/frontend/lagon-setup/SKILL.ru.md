@@ -1,6 +1,6 @@
 ---
 name: lagon-setup
-description: Setup for Lagon: setup guide
+description: "Setup for Lagon: setup guide"
 category: frontend
 tags: [lagon-setup, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: swift-debugging
-description: Debugging for Swift: debugging and troubleshooting
+description: "Debugging for Swift: debugging and troubleshooting"
 category: mobile
 tags: [swift, debugging, mobile]
 models: [sonnet, opus]

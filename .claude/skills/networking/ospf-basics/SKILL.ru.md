@@ -1,6 +1,6 @@
 ---
 name: ospf-basics
-description: Basics with OSPF. fundamentals.
+description: "Basics with OSPF. fundamentals."
 category: networking
 tags: [ospf-basics, networking, russian]
 models: [sonnet, opus]

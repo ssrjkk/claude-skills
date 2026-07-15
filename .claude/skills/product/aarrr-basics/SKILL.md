@@ -1,6 +1,6 @@
 ---
 name: aarrr-basics
-description: Basics with AARRR. fundamentals.
+description: "Basics with AARRR. fundamentals."
 category: product
 tags: [aarrr, basics, product, product-framework]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: ip-basics
-description: Basics with ip/ifconfig. basic usage.
+description: "Basics with ip/ifconfig. basic usage."
 category: networking
 tags: [ip, basics, networking, networking-tool]
 models: [gpt-4, claude-3]

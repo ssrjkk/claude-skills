@@ -1,6 +1,6 @@
 ---
 name: curl-security
-description: Security with curl. security testing.
+description: "Security with curl. security testing."
 category: networking
 tags: [curl-security, networking, russian]
 models: [sonnet, opus]

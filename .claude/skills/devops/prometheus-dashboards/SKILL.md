@@ -1,6 +1,6 @@
 ---
 name: prometheus-dashboards
-description: Dashboards with Prometheus. dashboards.
+description: "Dashboards with Prometheus. dashboards."
 category: devops
 tags: [prometheus, dashboards, devops, monitoring]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: cohere-security
-description: Security for Cohere: security best practices
+description: "Security for Cohere: security best practices"
 category: ai
 tags: [cohere-security, ai, russian]
 models: [sonnet, opus]

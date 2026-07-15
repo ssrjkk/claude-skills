@@ -1,6 +1,6 @@
 ---
 name: allure-troubleshooting
-description: Troubleshooting for Allure: troubleshooting common issues
+description: "Troubleshooting for Allure: troubleshooting common issues"
 category: qa
 tags: [allure-troubleshooting, qa, russian]
 models: [sonnet, opus]

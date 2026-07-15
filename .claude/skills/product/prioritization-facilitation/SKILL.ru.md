@@ -1,6 +1,6 @@
 ---
 name: prioritization-facilitation
-description: Facilitation with Prioritization. running.
+description: "Facilitation with Prioritization. running."
 category: product
 tags: [prioritization-facilitation, product, russian]
 models: [sonnet, opus]

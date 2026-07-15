@@ -1,6 +1,6 @@
 ---
 name: sentence-transformers-pos-tagging
-description: POS Tagging with Sentence Transformers. POS tagging.
+description: "POS Tagging with Sentence Transformers. POS tagging."
 category: ai
 tags: [sentence-transformers-pos-tagging, ai, russian]
 models: [sonnet, opus]

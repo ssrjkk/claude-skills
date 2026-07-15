@@ -1,6 +1,6 @@
 ---
 name: roda-templating
-description: Templating with Roda. ERB.
+description: "Templating with Roda. ERB."
 category: backend
 tags: [roda, templating, backend, backend]
 models: [gpt-4, claude-3]

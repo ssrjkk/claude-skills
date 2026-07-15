@@ -1,6 +1,6 @@
 ---
 name: trino-optimization
-description: Optimization with Trino. performance.
+description: "Optimization with Trino. performance."
 category: data
 tags: [trino-optimization, data, russian]
 models: [sonnet, opus]

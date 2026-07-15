@@ -1,6 +1,6 @@
 ---
 name: solid-advanced
-description: Advanced for Solid: advanced patterns and techniques
+description: "Advanced for Solid: advanced patterns and techniques"
 category: frontend
 tags: [solid, advanced, frontend]
 models: [sonnet, opus]

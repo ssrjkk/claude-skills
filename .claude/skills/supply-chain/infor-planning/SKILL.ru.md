@@ -1,6 +1,6 @@
 ---
 name: infor-planning
-description: Planning with Infor SCM. demand planning.
+description: "Planning with Infor SCM. demand planning."
 category: supply-chain
 tags: [infor-planning, supply-chain, russian]
 models: [sonnet, opus]

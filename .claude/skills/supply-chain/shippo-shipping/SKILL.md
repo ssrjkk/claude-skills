@@ -1,6 +1,6 @@
 ---
 name: shippo-shipping
-description: Shipping with Shippo. shipping.
+description: "Shipping with Shippo. shipping."
 category: supply-chain
 tags: [shippo, shipping, supply-chain, logistics]
 models: [gpt-4, claude-3]

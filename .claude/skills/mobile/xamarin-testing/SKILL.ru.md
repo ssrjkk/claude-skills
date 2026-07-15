@@ -1,6 +1,6 @@
 ---
 name: xamarin-testing
-description: Testing with Xamarin. testing.
+description: "Testing with Xamarin. testing."
 category: mobile
 tags: [xamarin-testing, mobile, russian]
 models: [sonnet, opus]

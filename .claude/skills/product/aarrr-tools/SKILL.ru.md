@@ -1,6 +1,6 @@
 ---
 name: aarrr-tools
-description: Tools with AARRR. tools.
+description: "Tools with AARRR. tools."
 category: product
 tags: [aarrr-tools, product, russian]
 models: [sonnet, opus]

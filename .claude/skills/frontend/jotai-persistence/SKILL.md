@@ -1,6 +1,6 @@
 ---
 name: jotai-persistence
-description: Persistence with Jotai. state persistence.
+description: "Persistence with Jotai. state persistence."
 category: frontend
 tags: [jotai, persistence, frontend, state-management]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: meilisearch-searching
-description: Searching with Meilisearch. full-text search.
+description: "Searching with Meilisearch. full-text search."
 category: database
 tags: [meilisearch-searching, database, russian]
 models: [sonnet, opus]

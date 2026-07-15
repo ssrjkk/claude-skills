@@ -1,6 +1,6 @@
 ---
 name: falcon-database
-description: Database with Falcon. DB access.
+description: "Database with Falcon. DB access."
 category: backend
 tags: [falcon-database, backend, russian]
 models: [sonnet, opus]

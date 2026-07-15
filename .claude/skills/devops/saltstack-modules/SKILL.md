@@ -1,6 +1,6 @@
 ---
 name: saltstack-modules
-description: Modules with SaltStack. modules.
+description: "Modules with SaltStack. modules."
 category: devops
 tags: [saltstack, modules, devops, iac]
 models: [gpt-4, claude-3]

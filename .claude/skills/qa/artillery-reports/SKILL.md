@@ -1,6 +1,6 @@
 ---
 name: artillery-reports
-description: Reports with Artillery. report generation.
+description: "Reports with Artillery. report generation."
 category: qa
 tags: [artillery, reports, qa, performance-testing]
 models: [gpt-4, claude-3]

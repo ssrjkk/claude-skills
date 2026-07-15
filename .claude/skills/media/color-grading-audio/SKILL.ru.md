@@ -1,6 +1,6 @@
 ---
 name: color-grading-audio
-description: Audio with Color Grading. audio editing.
+description: "Audio with Color Grading. audio editing."
 category: media
 tags: [color-grading-audio, media, russian]
 models: [sonnet, opus]

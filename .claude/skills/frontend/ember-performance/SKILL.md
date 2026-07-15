@@ -1,6 +1,6 @@
 ---
 name: ember-performance
-description: Performance with Ember. optimization.
+description: "Performance with Ember. optimization."
 category: frontend
 tags: [ember, performance, frontend, frontend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: nuxt-ssr
-description: SSR with Nuxt. server rendering.
+description: "SSR with Nuxt. server rendering."
 category: frontend
 tags: [nuxt, ssr, frontend, meta-framework]
 models: [gpt-4, claude-3]

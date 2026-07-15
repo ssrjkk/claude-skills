@@ -1,6 +1,6 @@
 ---
 name: phaser-publishing
-description: Publishing with Phaser. publishing.
+description: "Publishing with Phaser. publishing."
 category: gamedev
 tags: [phaser, publishing, gamedev, game-engine]
 models: [gpt-4, claude-3]

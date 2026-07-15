@@ -1,6 +1,6 @@
 ---
 name: codility-offers
-description: Offers with Codility. offer mgmt.
+description: "Offers with Codility. offer mgmt."
 category: hr
 tags: [codility-offers, hr, russian]
 models: [sonnet, opus]

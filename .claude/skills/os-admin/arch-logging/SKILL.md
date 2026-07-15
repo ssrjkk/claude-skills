@@ -1,6 +1,6 @@
 ---
 name: arch-logging
-description: Logging with Arch Linux. logging.
+description: "Logging with Arch Linux. logging."
 category: os-admin
 tags: [arch, logging, os-admin, linux]
 models: [gpt-4, claude-3]

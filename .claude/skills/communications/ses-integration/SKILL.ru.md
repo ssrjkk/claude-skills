@@ -1,6 +1,6 @@
 ---
 name: ses-integration
-description: Integration with Amazon SES. integration.
+description: "Integration with Amazon SES. integration."
 category: communications
 tags: [ses-integration, communications, russian]
 models: [sonnet, opus]

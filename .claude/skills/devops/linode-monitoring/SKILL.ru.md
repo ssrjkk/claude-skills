@@ -1,6 +1,6 @@
 ---
 name: linode-monitoring
-description: Monitoring with Linode. monitoring.
+description: "Monitoring with Linode. monitoring."
 category: devops
 tags: [linode-monitoring, devops, russian]
 models: [sonnet, opus]

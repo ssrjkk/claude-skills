@@ -1,6 +1,6 @@
 ---
 name: north-star-tools
-description: Tools with North Star. tools.
+description: "Tools with North Star. tools."
 category: product
 tags: [north-star-tools, product, russian]
 models: [sonnet, opus]

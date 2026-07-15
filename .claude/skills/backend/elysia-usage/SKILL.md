@@ -1,6 +1,6 @@
 ---
 name: elysia-usage
-description: Usage for Elysia: usage guide
+description: "Usage for Elysia: usage guide"
 category: backend
 tags: [elysia, usage, backend]
 models: [sonnet, opus]

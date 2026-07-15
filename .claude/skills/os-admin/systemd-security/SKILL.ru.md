@@ -1,6 +1,6 @@
 ---
 name: systemd-security
-description: Security with systemd. hardening.
+description: "Security with systemd. hardening."
 category: os-admin
 tags: [systemd-security, os-admin, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: adobe-xd-collaboration
-description: Collaboration with Adobe XD. collaboration.
+description: "Collaboration with Adobe XD. collaboration."
 category: design
 tags: [adobe-xd-collaboration, design, russian]
 models: [sonnet, opus]

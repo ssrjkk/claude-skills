@@ -1,6 +1,6 @@
 ---
 name: tauri-setup
-description: Setup with Tauri. SDK setup.
+description: "Setup with Tauri. SDK setup."
 category: desktop
 tags: [tauri, setup, desktop, desktop]
 models: [gpt-4, claude-3]

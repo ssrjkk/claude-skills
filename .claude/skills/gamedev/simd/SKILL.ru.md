@@ -1,6 +1,6 @@
 ---
 name: simd
-description: Development with Simd: tools and best practices
+description: "Development with Simd: tools and best practices"
 category: gamedev
 tags: [simd, gamedev, russian]
 models: [sonnet, opus]

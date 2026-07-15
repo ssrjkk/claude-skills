@@ -1,6 +1,6 @@
 ---
 name: threejs-getting-started
-description: Getting Started for Threejs: initial setup and first steps
+description: "Getting Started for Threejs: initial setup and first steps"
 category: frontend
 tags: [threejs, getting-started, frontend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: system-design-basics
-description: Basics with System Design. fundamentals.
+description: "Basics with System Design. fundamentals."
 category: engineering
 tags: [system-design-basics, engineering, russian]
 models: [sonnet, opus]

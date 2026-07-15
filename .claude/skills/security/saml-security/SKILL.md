@@ -1,6 +1,6 @@
 ---
 name: saml-security
-description: Security for Saml: security best practices
+description: "Security for Saml: security best practices"
 category: security
 tags: [saml, security, security]
 models: [sonnet, opus]

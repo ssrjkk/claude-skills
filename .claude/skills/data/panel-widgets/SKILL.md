@@ -1,6 +1,6 @@
 ---
 name: panel-widgets
-description: Widgets with Panel. input widgets.
+description: "Widgets with Panel. input widgets."
 category: data
 tags: [panel, widgets, data, data-apps]
 models: [gpt-4, claude-3]

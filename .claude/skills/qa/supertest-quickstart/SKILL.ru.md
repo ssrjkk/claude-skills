@@ -1,6 +1,6 @@
 ---
 name: supertest-quickstart
-description: Quickstart for Supertest: quick start guide
+description: "Quickstart for Supertest: quick start guide"
 category: qa
 tags: [supertest-quickstart, qa, russian]
 models: [sonnet, opus]

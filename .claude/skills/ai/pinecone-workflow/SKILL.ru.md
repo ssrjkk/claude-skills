@@ -1,6 +1,6 @@
 ---
 name: pinecone-workflow
-description: Workflow for Pinecone: workflow optimization
+description: "Workflow for Pinecone: workflow optimization"
 category: ai
 tags: [pinecone-workflow, ai, russian]
 models: [sonnet, opus]

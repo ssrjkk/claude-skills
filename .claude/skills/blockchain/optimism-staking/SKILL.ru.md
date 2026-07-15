@@ -1,6 +1,6 @@
 ---
 name: optimism-staking
-description: Staking with Optimism. staking.
+description: "Staking with Optimism. staking."
 category: blockchain
 tags: [optimism-staking, blockchain, russian]
 models: [sonnet, opus]

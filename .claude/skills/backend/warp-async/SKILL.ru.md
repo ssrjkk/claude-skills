@@ -1,6 +1,6 @@
 ---
 name: warp-async
-description: Async with Warp. async handlers.
+description: "Async with Warp. async handlers."
 category: backend
 tags: [warp-async, backend, russian]
 models: [sonnet, opus]

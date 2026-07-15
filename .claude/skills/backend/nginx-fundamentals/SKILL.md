@@ -1,6 +1,6 @@
 ---
 name: nginx-fundamentals
-description: Fundamentals for Nginx: core concepts
+description: "Fundamentals for Nginx: core concepts"
 category: backend
 tags: [nginx, fundamentals, backend]
 models: [sonnet, opus]

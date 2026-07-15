@@ -1,6 +1,6 @@
 ---
 name: ddd-team
-description: Team with Domain-Driven Design. team adoption.
+description: "Team with Domain-Driven Design. team adoption."
 category: engineering
 tags: [ddd, team, engineering, engineering]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: mariadb
-description: Manages MariaDB databases with Galera clustering, performance optimization, and InnoDB tuning.
+description: "Manages MariaDB databases with Galera clustering, performance optimization, and InnoDB tuning."
 category: database
 tags: [mariadb, database, mysql, clustering, sql]
 models: [sonnet, opus]

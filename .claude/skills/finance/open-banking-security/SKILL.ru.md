@@ -1,6 +1,6 @@
 ---
 name: open-banking-security
-description: Security with Open Banking. security.
+description: "Security with Open Banking. security."
 category: finance
 tags: [open-banking-security, finance, russian]
 models: [sonnet, opus]

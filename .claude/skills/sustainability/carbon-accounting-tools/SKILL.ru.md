@@ -1,6 +1,6 @@
 ---
 name: carbon-accounting-tools
-description: Tools with Carbon Accounting. tools.
+description: "Tools with Carbon Accounting. tools."
 category: sustainability
 tags: [carbon-accounting-tools, sustainability, russian]
 models: [sonnet, opus]

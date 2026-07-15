@@ -1,6 +1,6 @@
 ---
 name: revel-deployment
-description: Deployment with Revel. build.
+description: "Deployment with Revel. build."
 category: backend
 tags: [revel, deployment, backend, backend]
 models: [gpt-4, claude-3]

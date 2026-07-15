@@ -1,6 +1,6 @@
 ---
 name: riot-components
-description: Components with Riot. building components.
+description: "Components with Riot. building components."
 category: frontend
 tags: [riot-components, frontend, russian]
 models: [sonnet, opus]

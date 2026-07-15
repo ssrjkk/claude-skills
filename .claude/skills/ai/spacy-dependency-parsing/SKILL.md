@@ -1,6 +1,6 @@
 ---
 name: spacy-dependency-parsing
-description: Dependency Parsing with Spacy. syntax analysis.
+description: "Dependency Parsing with Spacy. syntax analysis."
 category: ai
 tags: [spacy, dependency-parsing, ai, nlp]
 models: [gpt-4, claude-3]

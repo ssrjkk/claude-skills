@@ -1,6 +1,6 @@
 ---
 name: jenkins-secrets
-description: Secrets with Jenkins. secret management.
+description: "Secrets with Jenkins. secret management."
 category: devops
 tags: [jenkins-secrets, devops, russian]
 models: [sonnet, opus]

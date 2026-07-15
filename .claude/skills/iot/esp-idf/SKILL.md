@@ -1,6 +1,6 @@
 ---
 name: esp-idf
-description: Programs ESP32 microcontrollers using ESP-IDF framework with FreeRTOS, Wi-Fi, and Bluetooth.
+description: "Programs ESP32 microcontrollers using ESP-IDF framework with FreeRTOS, Wi-Fi, and Bluetooth."
 category: iot
 tags: [esp-idf, esp32, freertos, embedded, c]
 models: [sonnet, opus]

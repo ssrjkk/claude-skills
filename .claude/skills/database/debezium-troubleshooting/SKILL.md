@@ -1,6 +1,6 @@
 ---
 name: debezium-troubleshooting
-description: Troubleshooting for Debezium: troubleshooting common issues
+description: "Troubleshooting for Debezium: troubleshooting common issues"
 category: database
 tags: [debezium, troubleshooting, database]
 models: [sonnet, opus]

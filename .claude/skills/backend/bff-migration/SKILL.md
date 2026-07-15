@@ -1,6 +1,6 @@
 ---
 name: bff-migration
-description: Migration with Backend for Frontend. adopting the pattern.
+description: "Migration with Backend for Frontend. adopting the pattern."
 category: backend
 tags: [bff, migration, backend, architecture]
 models: [gpt-4, claude-3]

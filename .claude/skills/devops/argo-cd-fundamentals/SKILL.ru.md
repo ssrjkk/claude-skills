@@ -1,6 +1,6 @@
 ---
 name: argo-cd-fundamentals
-description: Fundamentals for Argo-Cd: core concepts
+description: "Fundamentals for Argo-Cd: core concepts"
 category: devops
 tags: [argo-cd-fundamentals, devops, russian]
 models: [sonnet, opus]

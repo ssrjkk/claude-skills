@@ -1,6 +1,6 @@
 ---
 name: transformers-checkpointing
-description: Checkpointing with Transformers. model saving.
+description: "Checkpointing with Transformers. model saving."
 category: ai
 tags: [transformers, checkpointing, ai, deep-learning]
 models: [gpt-4, claude-3]

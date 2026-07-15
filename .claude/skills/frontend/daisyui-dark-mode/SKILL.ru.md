@@ -1,6 +1,6 @@
 ---
 name: daisyui-dark-mode
-description: Dark Mode with daisyUI. dark theme.
+description: "Dark Mode with daisyUI. dark theme."
 category: frontend
 tags: [daisyui-dark-mode, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: clojure-rest-api
-description: REST API with Clojure. building REST APIs.
+description: "REST API with Clojure. building REST APIs."
 category: backend
 tags: [clojure, rest-api, backend, backend]
 models: [gpt-4, claude-3]

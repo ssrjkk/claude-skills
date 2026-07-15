@@ -1,6 +1,6 @@
 ---
 name: turbopack-plugins
-description: Plugins with Turbopack. plugins.
+description: "Plugins with Turbopack. plugins."
 category: frontend
 tags: [turbopack-plugins, frontend, russian]
 models: [sonnet, opus]

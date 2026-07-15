@@ -1,6 +1,6 @@
 ---
 name: iperf-basics
-description: Basics with iperf. basic usage.
+description: "Basics with iperf. basic usage."
 category: networking
 tags: [iperf-basics, networking, russian]
 models: [sonnet, opus]

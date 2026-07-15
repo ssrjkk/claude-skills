@@ -1,6 +1,6 @@
 ---
 name: emotion-configuration
-description: Configuration for Emotion: configuration and setup
+description: "Configuration for Emotion: configuration and setup"
 category: frontend
 tags: [emotion-configuration, frontend, russian]
 models: [sonnet, opus]

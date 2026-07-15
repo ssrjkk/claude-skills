@@ -1,6 +1,6 @@
 ---
 name: ollama-guides
-description: Guides for Ollama: how-to guides
+description: "Guides for Ollama: how-to guides"
 category: ai
 tags: [ollama, guides, ai]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sqlmap-compliance
-description: Compliance with SQLmap. compliance.
+description: "Compliance with SQLmap. compliance."
 category: security
 tags: [sqlmap, compliance, security, security-tool]
 models: [gpt-4, claude-3]

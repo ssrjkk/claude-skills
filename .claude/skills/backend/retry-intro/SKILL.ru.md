@@ -1,6 +1,6 @@
 ---
 name: retry-intro
-description: Introduction with Retry. understanding the pattern.
+description: "Introduction with Retry. understanding the pattern."
 category: backend
 tags: [retry-intro, backend, russian]
 models: [sonnet, opus]

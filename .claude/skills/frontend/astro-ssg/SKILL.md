@@ -1,6 +1,6 @@
 ---
 name: astro-ssg
-description: Creates static sites with Astro, supporting any UI framework. Use for fast content-oriented sites.
+description: "Creates static sites with Astro, supporting any UI framework. Use for fast content-oriented sites."
 category: frontend
 tags: [astro, ssg, static-site, markdown, mdx]
 models: [sonnet, opus]

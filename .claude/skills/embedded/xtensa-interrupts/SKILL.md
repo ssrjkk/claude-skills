@@ -1,6 +1,6 @@
 ---
 name: xtensa-interrupts
-description: Interrupts with Xtensa. interrupts.
+description: "Interrupts with Xtensa. interrupts."
 category: embedded
 tags: [xtensa, interrupts, embedded, embedded-arch]
 models: [gpt-4, claude-3]

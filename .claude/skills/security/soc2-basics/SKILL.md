@@ -1,6 +1,6 @@
 ---
 name: soc2-basics
-description: Basics with SOC 2. fundamentals.
+description: "Basics with SOC 2. fundamentals."
 category: security
 tags: [soc2, basics, security, security]
 models: [gpt-4, claude-3]

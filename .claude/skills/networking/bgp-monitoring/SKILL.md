@@ -1,6 +1,6 @@
 ---
 name: bgp-monitoring
-description: Monitoring with BGP. monitoring.
+description: "Monitoring with BGP. monitoring."
 category: networking
 tags: [bgp, monitoring, networking, networking]
 models: [gpt-4, claude-3]

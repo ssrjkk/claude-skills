@@ -1,6 +1,6 @@
 ---
 name: gsap-production
-description: Production for Gsap: production deployment
+description: "Production for Gsap: production deployment"
 category: frontend
 tags: [gsap-production, frontend, russian]
 models: [sonnet, opus]

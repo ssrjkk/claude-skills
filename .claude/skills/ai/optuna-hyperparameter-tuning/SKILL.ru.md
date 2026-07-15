@@ -1,6 +1,6 @@
 ---
 name: optuna-hyperparameter-tuning
-description: Hyperparameter Tuning with Optuna. optimizing params.
+description: "Hyperparameter Tuning with Optuna. optimizing params."
 category: ai
 tags: [optuna-hyperparameter-tuning, ai, russian]
 models: [sonnet, opus]

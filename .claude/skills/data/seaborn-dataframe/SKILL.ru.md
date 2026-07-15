@@ -1,6 +1,6 @@
 ---
 name: seaborn-dataframe
-description: DataFrame with Seaborn. data manipulation.
+description: "DataFrame with Seaborn. data manipulation."
 category: data
 tags: [seaborn-dataframe, data, russian]
 models: [sonnet, opus]

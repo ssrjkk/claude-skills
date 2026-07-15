@@ -1,6 +1,6 @@
 ---
 name: crystal-dependency-injection
-description: DI with Crystal. DI containers.
+description: "DI with Crystal. DI containers."
 category: backend
 tags: [crystal-dependency-injection, backend, russian]
 models: [sonnet, opus]

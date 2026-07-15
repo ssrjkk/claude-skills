@@ -1,6 +1,6 @@
 ---
 name: skopeo-setup
-description: Setup with Skopeo. installation.
+description: "Setup with Skopeo. installation."
 category: devops
 tags: [skopeo, setup, devops, container]
 models: [gpt-4, claude-3]

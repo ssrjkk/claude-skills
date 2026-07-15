@@ -1,6 +1,6 @@
 ---
 name: teleport-fundamentals
-description: Fundamentals for Teleport: core concepts
+description: "Fundamentals for Teleport: core concepts"
 category: security
 tags: [teleport-fundamentals, security, russian]
 models: [sonnet, opus]

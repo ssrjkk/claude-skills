@@ -1,6 +1,6 @@
 ---
 name: level-design-tools
-description: Tools with Level Design. tools.
+description: "Tools with Level Design. tools."
 category: gamedev
 tags: [level-design-tools, gamedev, russian]
 models: [sonnet, opus]

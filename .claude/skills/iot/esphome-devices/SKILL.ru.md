@@ -1,6 +1,6 @@
 ---
 name: esphome-devices
-description: Devices with ESPHome. device management.
+description: "Devices with ESPHome. device management."
 category: iot
 tags: [esphome-devices, iot, russian]
 models: [sonnet, opus]

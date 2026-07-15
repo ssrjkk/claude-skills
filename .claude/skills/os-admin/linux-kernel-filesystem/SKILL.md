@@ -1,6 +1,6 @@
 ---
 name: linux-kernel-filesystem
-description: Filesystem with Linux Kernel. filesystem.
+description: "Filesystem with Linux Kernel. filesystem."
 category: os-admin
 tags: [linux-kernel, filesystem, os-admin, linux]
 models: [gpt-4, claude-3]

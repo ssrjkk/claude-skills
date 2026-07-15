@@ -1,6 +1,6 @@
 ---
 name: workday-employees
-description: Employees with Workday. employee mgmt.
+description: "Employees with Workday. employee mgmt."
 category: hr
 tags: [workday, employees, hr, hr-tech]
 models: [gpt-4, claude-3]

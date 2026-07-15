@@ -1,6 +1,6 @@
 ---
 name: chargebee-invoicing
-description: Invoicing with Chargebee. invoices.
+description: "Invoicing with Chargebee. invoices."
 category: payments
 tags: [chargebee-invoicing, payments, russian]
 models: [sonnet, opus]

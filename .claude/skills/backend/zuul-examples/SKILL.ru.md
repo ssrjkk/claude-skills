@@ -1,6 +1,6 @@
 ---
 name: zuul-examples
-description: Examples for Zuul: practical examples
+description: "Examples for Zuul: practical examples"
 category: backend
 tags: [zuul-examples, backend, russian]
 models: [sonnet, opus]

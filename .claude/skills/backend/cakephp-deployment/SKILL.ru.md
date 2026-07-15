@@ -1,6 +1,6 @@
 ---
 name: cakephp-deployment
-description: Deployment with CakePHP. deploy.
+description: "Deployment with CakePHP. deploy."
 category: backend
 tags: [cakephp-deployment, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: north-star-implementation
-description: Implementation with North Star. execution.
+description: "Implementation with North Star. execution."
 category: product
 tags: [north-star-implementation, product, russian]
 models: [sonnet, opus]

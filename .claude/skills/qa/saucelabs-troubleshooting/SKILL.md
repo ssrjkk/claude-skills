@@ -1,6 +1,6 @@
 ---
 name: saucelabs-troubleshooting
-description: Troubleshooting for Saucelabs: troubleshooting common issues
+description: "Troubleshooting for Saucelabs: troubleshooting common issues"
 category: qa
 tags: [saucelabs, troubleshooting, qa]
 models: [sonnet, opus]

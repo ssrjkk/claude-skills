@@ -1,6 +1,6 @@
 ---
 name: airflow-setup
-description: Setup with Airflow. installation.
+description: "Setup with Airflow. installation."
 category: data
 tags: [airflow, setup, data, data-engineering]
 models: [gpt-4, claude-3]

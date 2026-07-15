@@ -1,6 +1,6 @@
 ---
 name: reportportal-production
-description: Production for Reportportal: production deployment
+description: "Production for Reportportal: production deployment"
 category: qa
 tags: [reportportal-production, qa, russian]
 models: [sonnet, opus]

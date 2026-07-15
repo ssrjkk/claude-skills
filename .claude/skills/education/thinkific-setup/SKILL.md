@@ -1,6 +1,6 @@
 ---
 name: thinkific-setup
-description: Setup with Thinkific. setup.
+description: "Setup with Thinkific. setup."
 category: education
 tags: [thinkific, setup, education, education-platform]
 models: [gpt-4, claude-3]

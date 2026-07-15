@@ -1,6 +1,6 @@
 ---
 name: aks-helm
-description: Helm with Azure AKS. package management.
+description: "Helm with Azure AKS. package management."
 category: devops
 tags: [aks-helm, devops, russian]
 models: [sonnet, opus]

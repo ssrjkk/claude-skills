@@ -1,6 +1,6 @@
 ---
 name: redis-deployment
-description: Deployment for Redis: deployment and release
+description: "Deployment for Redis: deployment and release"
 category: database
 tags: [redis-deployment, database, russian]
 models: [sonnet, opus]

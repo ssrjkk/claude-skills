@@ -1,6 +1,6 @@
 ---
 name: airflow-setup
-description: Setup with Airflow. installation.
+description: "Setup with Airflow. installation."
 category: data
 tags: [airflow-setup, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: dagger-secrets
-description: Secrets with Dagger. secret management.
+description: "Secrets with Dagger. secret management."
 category: devops
 tags: [dagger, secrets, devops, ci-cd]
 models: [gpt-4, claude-3]

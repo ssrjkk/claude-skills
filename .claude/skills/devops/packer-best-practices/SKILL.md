@@ -1,6 +1,6 @@
 ---
 name: packer-best-practices
-description: Best Practices for Packer: best practices and patterns
+description: "Best Practices for Packer: best practices and patterns"
 category: devops
 tags: [packer, best-practices, devops]
 models: [sonnet, opus]

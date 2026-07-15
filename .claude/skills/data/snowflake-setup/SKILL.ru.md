@@ -1,6 +1,6 @@
 ---
 name: snowflake-setup
-description: Setup for Snowflake: installation and configuration
+description: "Setup for Snowflake: installation and configuration"
 category: data
 tags: [snowflake-setup, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sympy-optimization
-description: Optimization with SymPy. optimization.
+description: "Optimization with SymPy. optimization."
 category: scientific
 tags: [sympy, optimization, scientific, scientific-computing]
 models: [gpt-4, claude-3]

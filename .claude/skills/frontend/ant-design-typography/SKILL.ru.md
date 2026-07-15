@@ -1,6 +1,6 @@
 ---
 name: ant-design-typography
-description: Typography with Ant Design. text styling.
+description: "Typography with Ant Design. text styling."
 category: frontend
 tags: [ant-design-typography, frontend, russian]
 models: [sonnet, opus]

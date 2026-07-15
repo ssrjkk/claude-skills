@@ -1,6 +1,6 @@
 ---
 name: netlify-networking
-description: Networking with Netlify. VPC.
+description: "Networking with Netlify. VPC."
 category: devops
 tags: [netlify-networking, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: agile-maturity
-description: Maturity with Agile. assessment.
+description: "Maturity with Agile. assessment."
 category: product
 tags: [agile-maturity, product, russian]
 models: [sonnet, opus]

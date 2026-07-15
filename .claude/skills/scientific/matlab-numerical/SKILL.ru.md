@@ -1,6 +1,6 @@
 ---
 name: matlab-numerical
-description: Numerical with MATLAB. numerical methods.
+description: "Numerical with MATLAB. numerical methods."
 category: scientific
 tags: [matlab-numerical, scientific, russian]
 models: [sonnet, opus]

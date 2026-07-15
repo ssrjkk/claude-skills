@@ -1,6 +1,6 @@
 ---
 name: mxnet-checkpointing
-description: Checkpointing with Mxnet. model saving.
+description: "Checkpointing with Mxnet. model saving."
 category: ai
 tags: [mxnet-checkpointing, ai, russian]
 models: [sonnet, opus]

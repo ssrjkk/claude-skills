@@ -1,6 +1,6 @@
 ---
 name: cocos-optimization
-description: Optimization with Cocos Creator. performance.
+description: "Optimization with Cocos Creator. performance."
 category: gamedev
 tags: [cocos, optimization, gamedev, game-engine]
 models: [gpt-4, claude-3]

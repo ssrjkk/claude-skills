@@ -1,6 +1,6 @@
 ---
 name: qa-skill-0198
-description: qa specialized skill #0198 for qa development
+description: "qa specialized skill #0198 for qa development"
 category: qa
 tags: [qa, skill, 0198]
 models: [sonnet, opus]

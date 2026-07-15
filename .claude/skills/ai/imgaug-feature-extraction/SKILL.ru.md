@@ -1,6 +1,6 @@
 ---
 name: imgaug-feature-extraction
-description: Feature Extraction with Imgaug. extracting features.
+description: "Feature Extraction with Imgaug. extracting features."
 category: ai
 tags: [imgaug-feature-extraction, ai, russian]
 models: [sonnet, opus]

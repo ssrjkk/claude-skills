@@ -1,6 +1,6 @@
 ---
 name: playwright-setup
-description: Setup with Playwright. installation.
+description: "Setup with Playwright. installation."
 category: qa
 tags: [playwright, setup, qa, e2e]
 models: [gpt-4, claude-3]

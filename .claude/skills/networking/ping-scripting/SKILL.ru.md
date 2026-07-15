@@ -1,6 +1,6 @@
 ---
 name: ping-scripting
-description: Scripting with ping/traceroute. automation.
+description: "Scripting with ping/traceroute. automation."
 category: networking
 tags: [ping-scripting, networking, russian]
 models: [sonnet, opus]

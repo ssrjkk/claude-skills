@@ -1,6 +1,6 @@
 ---
 name: ember-ssr
-description: SSR with Ember. server rendering.
+description: "SSR with Ember. server rendering."
 category: frontend
 tags: [ember-ssr, frontend, russian]
 models: [sonnet, opus]

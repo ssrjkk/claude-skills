@@ -1,6 +1,6 @@
 ---
 name: postgresql-schema
-description: Schema Design with PostgreSQL. schema.
+description: "Schema Design with PostgreSQL. schema."
 category: database
 tags: [postgresql-schema, database, russian]
 models: [sonnet, opus]

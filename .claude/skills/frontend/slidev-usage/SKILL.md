@@ -1,6 +1,6 @@
 ---
 name: slidev-usage
-description: Usage for Slidev: usage guide
+description: "Usage for Slidev: usage guide"
 category: frontend
 tags: [slidev, usage, frontend]
 models: [sonnet, opus]

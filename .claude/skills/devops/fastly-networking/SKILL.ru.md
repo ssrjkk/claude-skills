@@ -1,6 +1,6 @@
 ---
 name: fastly-networking
-description: Networking with Fastly. VPC.
+description: "Networking with Fastly. VPC."
 category: devops
 tags: [fastly-networking, devops, russian]
 models: [sonnet, opus]

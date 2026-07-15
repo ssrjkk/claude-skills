@@ -1,6 +1,6 @@
 ---
 name: react-performance
-description: Performance with React. optimization.
+description: "Performance with React. optimization."
 category: frontend
 tags: [react-performance, frontend, russian]
 models: [sonnet, opus]

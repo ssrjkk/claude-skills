@@ -1,6 +1,6 @@
 ---
 name: pytorch-lightning-feature-extraction
-description: Feature Extraction with Pytorch Lightning. extracting features.
+description: "Feature Extraction with Pytorch Lightning. extracting features."
 category: ai
 tags: [pytorch-lightning, feature-extraction, ai, computer-vision]
 models: [gpt-4, claude-3]

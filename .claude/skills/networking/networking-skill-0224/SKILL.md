@@ -1,6 +1,6 @@
 ---
 name: networking-skill-0224
-description: networking specialized skill #0224 for networking development
+description: "networking specialized skill #0224 for networking development"
 category: networking
 tags: [networking, skill, 0224]
 models: [sonnet, opus]

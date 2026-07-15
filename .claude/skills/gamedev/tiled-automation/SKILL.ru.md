@@ -1,6 +1,6 @@
 ---
 name: tiled-automation
-description: Automation for Tiled: automation and scripting
+description: "Automation for Tiled: automation and scripting"
 category: gamedev
 tags: [tiled-automation, gamedev, russian]
 models: [sonnet, opus]

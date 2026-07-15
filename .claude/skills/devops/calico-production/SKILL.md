@@ -1,6 +1,6 @@
 ---
 name: calico-production
-description: Production for Calico: production deployment
+description: "Production for Calico: production deployment"
 category: devops
 tags: [calico, production, devops]
 models: [sonnet, opus]

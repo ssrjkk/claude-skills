@@ -1,6 +1,6 @@
 ---
 name: selenium-deployment
-description: Deployment for Selenium: deployment and release
+description: "Deployment for Selenium: deployment and release"
 category: qa
 tags: [selenium, deployment, qa]
 models: [sonnet, opus]

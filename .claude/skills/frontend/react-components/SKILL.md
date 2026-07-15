@@ -1,6 +1,6 @@
 ---
 name: react-components
-description: Components with React. building components.
+description: "Components with React. building components."
 category: frontend
 tags: [react, components, frontend, frontend]
 models: [gpt-4, claude-3]

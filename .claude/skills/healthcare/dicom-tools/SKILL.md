@@ -1,6 +1,6 @@
 ---
 name: dicom-tools
-description: Tools with DICOM. tools.
+description: "Tools with DICOM. tools."
 category: healthcare
 tags: [dicom, tools, healthcare, healthcare]
 models: [gpt-4, claude-3]

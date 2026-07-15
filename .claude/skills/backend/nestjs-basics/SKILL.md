@@ -1,6 +1,6 @@
 ---
 name: nestjs-basics
-description: Basics for Nestjs: fundamentals and core concepts
+description: "Basics for Nestjs: fundamentals and core concepts"
 category: backend
 tags: [nestjs, basics, backend]
 models: [sonnet, opus]

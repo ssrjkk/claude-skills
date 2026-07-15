@@ -1,6 +1,6 @@
 ---
 name: swift-advanced
-description: Advanced for Swift: advanced patterns and techniques
+description: "Advanced for Swift: advanced patterns and techniques"
 category: mobile
 tags: [swift, advanced, mobile]
 models: [sonnet, opus]

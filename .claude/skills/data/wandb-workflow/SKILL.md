@@ -1,6 +1,6 @@
 ---
 name: wandb-workflow
-description: Workflow for Wandb: workflow optimization
+description: "Workflow for Wandb: workflow optimization"
 category: data
 tags: [wandb, workflow, data]
 models: [sonnet, opus]

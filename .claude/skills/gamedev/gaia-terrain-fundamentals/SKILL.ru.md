@@ -1,6 +1,6 @@
 ---
 name: gaia-terrain-fundamentals
-description: Fundamentals for Gaia-Terrain: core concepts
+description: "Fundamentals for Gaia-Terrain: core concepts"
 category: gamedev
 tags: [gaia-terrain-fundamentals, gamedev, russian]
 models: [sonnet, opus]

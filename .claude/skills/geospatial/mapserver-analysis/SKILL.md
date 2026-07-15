@@ -1,6 +1,6 @@
 ---
 name: mapserver-analysis
-description: Analysis with MapServer. spatial analysis.
+description: "Analysis with MapServer. spatial analysis."
 category: geospatial
 tags: [mapserver, analysis, geospatial, gis]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: bigcommerce-orders
-description: Orders with BigCommerce. order management.
+description: "Orders with BigCommerce. order management."
 category: ecommerce
 tags: [bigcommerce-orders, ecommerce, russian]
 models: [sonnet, opus]

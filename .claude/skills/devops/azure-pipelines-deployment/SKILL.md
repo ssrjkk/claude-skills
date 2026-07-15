@@ -1,6 +1,6 @@
 ---
 name: azure-pipelines-deployment
-description: Deployment with Azure Pipelines. auto-deploy.
+description: "Deployment with Azure Pipelines. auto-deploy."
 category: devops
 tags: [azure-pipelines, deployment, devops, ci-cd]
 models: [gpt-4, claude-3]

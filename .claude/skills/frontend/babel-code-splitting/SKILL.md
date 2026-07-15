@@ -1,6 +1,6 @@
 ---
 name: babel-code-splitting
-description: Code Splitting with Babel. lazy loading.
+description: "Code Splitting with Babel. lazy loading."
 category: frontend
 tags: [babel, code-splitting, frontend, build-tool]
 models: [gpt-4, claude-3]

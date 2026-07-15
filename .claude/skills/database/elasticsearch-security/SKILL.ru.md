@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-security
-description: Security for Elasticsearch: security best practices
+description: "Security for Elasticsearch: security best practices"
 category: database
 tags: [elasticsearch-security, database, russian]
 models: [sonnet, opus]

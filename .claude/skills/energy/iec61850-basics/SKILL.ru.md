@@ -1,6 +1,6 @@
 ---
 name: iec61850-basics
-description: Basics with IEC 61850. fundamentals.
+description: "Basics with IEC 61850. fundamentals."
 category: energy
 tags: [iec61850-basics, energy, russian]
 models: [sonnet, opus]

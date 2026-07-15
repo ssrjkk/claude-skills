@@ -1,6 +1,6 @@
 ---
 name: linkerd-workflow
-description: Workflow for Linkerd: workflow optimization
+description: "Workflow for Linkerd: workflow optimization"
 category: devops
 tags: [linkerd-workflow, devops, russian]
 models: [sonnet, opus]

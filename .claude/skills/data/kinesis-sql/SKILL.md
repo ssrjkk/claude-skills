@@ -1,6 +1,6 @@
 ---
 name: kinesis-sql
-description: SQL with Kinesis. SQL queries.
+description: "SQL with Kinesis. SQL queries."
 category: data
 tags: [kinesis, sql, data, data-engineering]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: owasp-best-practices
-description: Best Practices with OWASP. best practices.
+description: "Best Practices with OWASP. best practices."
 category: security
 tags: [owasp, best-practices, security, security]
 models: [gpt-4, claude-3]

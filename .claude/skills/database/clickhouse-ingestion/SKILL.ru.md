@@ -1,6 +1,6 @@
 ---
 name: clickhouse-ingestion
-description: Ingestion with ClickHouse. data ingestion.
+description: "Ingestion with ClickHouse. data ingestion."
 category: database
 tags: [clickhouse-ingestion, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sidecar-scaling
-description: Scaling with Sidecar. scaling considerations.
+description: "Scaling with Sidecar. scaling considerations."
 category: backend
 tags: [sidecar-scaling, backend, russian]
 models: [sonnet, opus]

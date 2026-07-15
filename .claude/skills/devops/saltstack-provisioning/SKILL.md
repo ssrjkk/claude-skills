@@ -1,6 +1,6 @@
 ---
 name: saltstack-provisioning
-description: Provisioning with SaltStack. provisioning.
+description: "Provisioning with SaltStack. provisioning."
 category: devops
 tags: [saltstack, provisioning, devops, iac]
 models: [gpt-4, claude-3]

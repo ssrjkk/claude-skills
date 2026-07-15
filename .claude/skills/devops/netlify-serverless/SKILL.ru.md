@@ -1,6 +1,6 @@
 ---
 name: netlify-serverless
-description: Serverless with Netlify. functions.
+description: "Serverless with Netlify. functions."
 category: devops
 tags: [netlify-serverless, devops, russian]
 models: [sonnet, opus]

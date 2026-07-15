@@ -1,6 +1,6 @@
 ---
 name: aws-iot-automation
-description: Automation with AWS IoT. automation.
+description: "Automation with AWS IoT. automation."
 category: iot
 tags: [aws-iot-automation, iot, russian]
 models: [sonnet, opus]

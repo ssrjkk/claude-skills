@@ -1,6 +1,6 @@
 ---
 name: database-skill-0141
-description: database specialized skill #0141 for database development
+description: "database specialized skill #0141 for database development"
 category: database
 tags: [database, skill, 0141]
 models: [sonnet, opus]

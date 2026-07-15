@@ -1,6 +1,6 @@
 ---
 name: slack-api-webhooks
-description: Webhooks with Slack API. webhooks.
+description: "Webhooks with Slack API. webhooks."
 category: communications
 tags: [slack-api, webhooks, communications, communication-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: battery-storage-integration
-description: Integration with Battery Storage. grid integration.
+description: "Integration with Battery Storage. grid integration."
 category: energy
 tags: [battery-storage, integration, energy, renewable-energy]
 models: [gpt-4, claude-3]

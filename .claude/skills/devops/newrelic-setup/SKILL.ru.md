@@ -1,6 +1,6 @@
 ---
 name: newrelic-setup
-description: Setup with New Relic. installation.
+description: "Setup with New Relic. installation."
 category: devops
 tags: [newrelic-setup, devops, russian]
 models: [sonnet, opus]

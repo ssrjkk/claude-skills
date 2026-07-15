@@ -1,6 +1,6 @@
 ---
 name: circuitpython-power
-description: Power with CircuitPython. power management.
+description: "Power with CircuitPython. power management."
 category: iot
 tags: [circuitpython, power, iot, iot]
 models: [gpt-4, claude-3]

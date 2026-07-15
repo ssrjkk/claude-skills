@@ -1,6 +1,6 @@
 ---
 name: scylla-backup
-description: Backup with ScyllaDB. backup.
+description: "Backup with ScyllaDB. backup."
 category: database
 tags: [scylla, backup, database, nosql]
 models: [gpt-4, claude-3]

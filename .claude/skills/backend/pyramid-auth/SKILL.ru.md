@@ -1,6 +1,6 @@
 ---
 name: pyramid-auth
-description: Authentication with Pyramid. user auth.
+description: "Authentication with Pyramid. user auth."
 category: backend
 tags: [pyramid-auth, backend, russian]
 models: [sonnet, opus]

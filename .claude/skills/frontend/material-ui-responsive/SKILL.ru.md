@@ -1,6 +1,6 @@
 ---
 name: material-ui-responsive
-description: Responsive with MUI. mobile-first.
+description: "Responsive with MUI. mobile-first."
 category: frontend
 tags: [material-ui-responsive, frontend, russian]
 models: [sonnet, opus]

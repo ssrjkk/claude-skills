@@ -1,6 +1,6 @@
 ---
 name: meilisearch-mapping
-description: Mapping with Meilisearch. field mapping.
+description: "Mapping with Meilisearch. field mapping."
 category: database
 tags: [meilisearch-mapping, database, russian]
 models: [sonnet, opus]

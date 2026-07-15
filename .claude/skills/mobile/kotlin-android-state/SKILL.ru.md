@@ -1,6 +1,6 @@
 ---
 name: kotlin-android-state
-description: State with Kotlin Android. state management.
+description: "State with Kotlin Android. state management."
 category: mobile
 tags: [kotlin-android-state, mobile, russian]
 models: [sonnet, opus]

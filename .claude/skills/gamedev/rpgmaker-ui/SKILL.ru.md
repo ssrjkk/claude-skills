@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-ui
-description: UI with RPG Maker. game UI.
+description: "UI with RPG Maker. game UI."
 category: gamedev
 tags: [rpgmaker-ui, gamedev, russian]
 models: [sonnet, opus]

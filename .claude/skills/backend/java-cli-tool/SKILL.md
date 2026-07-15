@@ -1,6 +1,6 @@
 ---
 name: java-cli-tool
-description: CLI Tool with Java. building CLI tools.
+description: "CLI Tool with Java. building CLI tools."
 category: backend
 tags: [java, cli-tool, backend, backend]
 models: [gpt-4, claude-3]

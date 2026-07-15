@@ -1,6 +1,6 @@
 ---
 name: celery-production
-description: Production for Celery: production deployment
+description: "Production for Celery: production deployment"
 category: backend
 tags: [celery-production, backend, russian]
 models: [sonnet, opus]

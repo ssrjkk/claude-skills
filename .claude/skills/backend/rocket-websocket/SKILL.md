@@ -1,6 +1,6 @@
 ---
 name: rocket-websocket
-description: WebSocket with Rocket. real-time.
+description: "WebSocket with Rocket. real-time."
 category: backend
 tags: [rocket, websocket, backend, backend]
 models: [gpt-4, claude-3]

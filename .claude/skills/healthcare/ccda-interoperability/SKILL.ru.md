@@ -1,6 +1,6 @@
 ---
 name: ccda-interoperability
-description: Interop with C-CDA. interoperability.
+description: "Interop with C-CDA. interoperability."
 category: healthcare
 tags: [ccda-interoperability, healthcare, russian]
 models: [sonnet, opus]

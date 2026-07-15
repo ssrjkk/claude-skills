@@ -1,6 +1,6 @@
 ---
 name: valkey-quickstart
-description: Quickstart for Valkey: quick start guide
+description: "Quickstart for Valkey: quick start guide"
 category: database
 tags: [valkey-quickstart, database, russian]
 models: [sonnet, opus]

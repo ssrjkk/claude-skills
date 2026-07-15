@@ -1,6 +1,6 @@
 ---
 name: pinot-ingestion
-description: Ingestion with Apache Pinot. data ingestion.
+description: "Ingestion with Apache Pinot. data ingestion."
 category: database
 tags: [pinot, ingestion, database, time-series]
 models: [gpt-4, claude-3]

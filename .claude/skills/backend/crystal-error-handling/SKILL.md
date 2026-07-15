@@ -1,6 +1,6 @@
 ---
 name: crystal-error-handling
-description: Error Handling with Crystal. error management.
+description: "Error Handling with Crystal. error management."
 category: backend
 tags: [crystal, error-handling, backend, backend]
 models: [gpt-4, claude-3]

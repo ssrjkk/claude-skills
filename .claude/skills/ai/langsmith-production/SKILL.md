@@ -1,6 +1,6 @@
 ---
 name: langsmith-production
-description: Production for Langsmith: production deployment
+description: "Production for Langsmith: production deployment"
 category: ai
 tags: [langsmith, production, ai]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: codeigniter-templating
-description: Templating with CodeIgniter. Blade.
+description: "Templating with CodeIgniter. Blade."
 category: backend
 tags: [codeigniter, templating, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: saml-monitoring
-description: Monitoring with SAML. security monitoring.
+description: "Monitoring with SAML. security monitoring."
 category: security
 tags: [saml, monitoring, security, security]
 models: [gpt-4, claude-3]

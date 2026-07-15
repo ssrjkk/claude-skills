@@ -1,6 +1,6 @@
 ---
 name: magento-products
-description: Products with Magento. product management.
+description: "Products with Magento. product management."
 category: ecommerce
 tags: [magento, products, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

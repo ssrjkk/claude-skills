@@ -1,6 +1,6 @@
 ---
 name: snowflake-testing
-description: Testing for Snowflake: testing and validation
+description: "Testing for Snowflake: testing and validation"
 category: data
 tags: [snowflake, testing, data]
 models: [sonnet, opus]

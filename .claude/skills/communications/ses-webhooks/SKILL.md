@@ -1,6 +1,6 @@
 ---
 name: ses-webhooks
-description: Webhooks with Amazon SES. webhooks.
+description: "Webhooks with Amazon SES. webhooks."
 category: communications
 tags: [ses, webhooks, communications, communication-platform]
 models: [gpt-4, claude-3]

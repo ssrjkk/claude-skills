@@ -1,6 +1,6 @@
 ---
 name: thanos-alerts
-description: Alerts with Thanos. alerting rules.
+description: "Alerts with Thanos. alerting rules."
 category: devops
 tags: [thanos-alerts, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sqlserver-replication
-description: Replication with SQL Server. replication.
+description: "Replication with SQL Server. replication."
 category: database
 tags: [sqlserver-replication, database, russian]
 models: [sonnet, opus]

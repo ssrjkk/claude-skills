@@ -1,6 +1,6 @@
 ---
 name: django-optimization
-description: Optimization for Django: performance tuning and optimization
+description: "Optimization for Django: performance tuning and optimization"
 category: backend
 tags: [django, optimization, backend]
 models: [sonnet, opus]

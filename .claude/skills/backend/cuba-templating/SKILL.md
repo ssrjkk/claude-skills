@@ -1,6 +1,6 @@
 ---
 name: cuba-templating
-description: Templating with Cuba. ERB.
+description: "Templating with Cuba. ERB."
 category: backend
 tags: [cuba, templating, backend, backend]
 models: [gpt-4, claude-3]

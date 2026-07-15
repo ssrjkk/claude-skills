@@ -1,6 +1,6 @@
 ---
 name: varnish-clustering
-description: Clustering with Varnish. cluster setup.
+description: "Clustering with Varnish. cluster setup."
 category: database
 tags: [varnish-clustering, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: keras-data-loading
-description: Data Loading with Keras. data pipelines.
+description: "Data Loading with Keras. data pipelines."
 category: ai
 tags: [keras, data-loading, ai, deep-learning]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: ospf-design
-description: Design with OSPF. network design.
+description: "Design with OSPF. network design."
 category: networking
 tags: [ospf, design, networking, networking]
 models: [gpt-4, claude-3]

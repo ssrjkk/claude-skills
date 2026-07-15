@@ -1,6 +1,6 @@
 ---
 name: coroutine-usage
-description: Usage for Coroutine: usage reference
+description: "Usage for Coroutine: usage reference"
 category: backend
 tags: [coroutine-usage, backend, russian]
 models: [sonnet, opus]

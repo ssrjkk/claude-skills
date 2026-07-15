@@ -1,6 +1,6 @@
 ---
 name: express-api
-description: API for Express: API development and integration
+description: "API for Express: API development and integration"
 category: backend
 tags: [express-api, backend, russian]
 models: [sonnet, opus]

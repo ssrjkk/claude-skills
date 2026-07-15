@@ -1,6 +1,6 @@
 ---
 name: akita-devtools
-description: DevTools with Akita. debugging.
+description: "DevTools with Akita. debugging."
 category: frontend
 tags: [akita, devtools, frontend, state-management]
 models: [gpt-4, claude-3]

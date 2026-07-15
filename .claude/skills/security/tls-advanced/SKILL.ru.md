@@ -1,6 +1,6 @@
 ---
 name: tls-advanced
-description: Advanced for Tls: advanced patterns and techniques
+description: "Advanced for Tls: advanced patterns and techniques"
 category: security
 tags: [tls-advanced, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: junit-integration
-description: Integration with JUnit. integration tests.
+description: "Integration with JUnit. integration tests."
 category: qa
 tags: [junit-integration, qa, russian]
 models: [sonnet, opus]

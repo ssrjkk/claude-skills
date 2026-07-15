@@ -1,6 +1,6 @@
 ---
 name: ffmpeg-protection
-description: Protection with FFmpeg. DRM.
+description: "Protection with FFmpeg. DRM."
 category: media
 tags: [ffmpeg-protection, media, russian]
 models: [sonnet, opus]

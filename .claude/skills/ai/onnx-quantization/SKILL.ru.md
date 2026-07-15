@@ -1,6 +1,6 @@
 ---
 name: onnx-quantization
-description: Quantization with Onnx. model quantization.
+description: "Quantization with Onnx. model quantization."
 category: ai
 tags: [onnx-quantization, ai, russian]
 models: [sonnet, opus]

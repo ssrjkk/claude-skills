@@ -1,6 +1,6 @@
 ---
 name: dns-design
-description: Design with DNS. network design.
+description: "Design with DNS. network design."
 category: networking
 tags: [dns-design, networking, russian]
 models: [sonnet, opus]

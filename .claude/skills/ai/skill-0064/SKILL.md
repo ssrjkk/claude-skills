@@ -1,6 +1,6 @@
 ---
 name: skill-0064
-description: Specialized skill #0064 for ai development
+description: "Specialized skill #0064 for ai development"
 category: ai
 tags: [ai, skill, 0064]
 models: [sonnet, opus]

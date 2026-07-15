@@ -1,6 +1,6 @@
 ---
 name: linux-kernel-logging
-description: Logging with Linux Kernel. logging.
+description: "Logging with Linux Kernel. logging."
 category: os-admin
 tags: [linux-kernel-logging, os-admin, russian]
 models: [sonnet, opus]

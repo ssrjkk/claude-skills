@@ -1,6 +1,6 @@
 ---
 name: risk-management-data
-description: Data with Risk Management. data sources.
+description: "Data with Risk Management. data sources."
 category: finance
 tags: [risk-management, data, finance, trading]
 models: [gpt-4, claude-3]

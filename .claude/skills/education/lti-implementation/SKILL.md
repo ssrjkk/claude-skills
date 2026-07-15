@@ -1,6 +1,6 @@
 ---
 name: lti-implementation
-description: Implementation with LTI. implementation.
+description: "Implementation with LTI. implementation."
 category: education
 tags: [lti, implementation, education, education-standard]
 models: [gpt-4, claude-3]

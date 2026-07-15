@@ -1,6 +1,6 @@
 ---
 name: unity-xr-rendering
-description: Rendering with Unity XR. stereoscopic.
+description: "Rendering with Unity XR. stereoscopic."
 category: ar-vr
 tags: [unity-xr-rendering, ar-vr, russian]
 models: [sonnet, opus]

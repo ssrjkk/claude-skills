@@ -1,6 +1,6 @@
 ---
 name: skill-0128
-description: Specialized skill #0128 for mobile development
+description: "Specialized skill #0128 for mobile development"
 category: mobile
 tags: [skill-0128, mobile, russian]
 models: [sonnet, opus]

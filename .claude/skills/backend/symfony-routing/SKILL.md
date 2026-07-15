@@ -1,6 +1,6 @@
 ---
 name: symfony-routing
-description: Routing with Symfony. HTTP routing.
+description: "Routing with Symfony. HTTP routing."
 category: backend
 tags: [symfony, routing, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: ffmpeg-setup
-description: Setup with FFmpeg. setup.
+description: "Setup with FFmpeg. setup."
 category: media
 tags: [ffmpeg-setup, media, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gnuplot-signal-processing
-description: Signal Processing with gnuplot. FFT.
+description: "Signal Processing with gnuplot. FFT."
 category: scientific
 tags: [gnuplot, signal-processing, scientific, scientific-computing]
 models: [gpt-4, claude-3]

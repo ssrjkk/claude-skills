@@ -1,6 +1,6 @@
 ---
 name: feathers-testing
-description: Testing with FeathersJS. Jest.
+description: "Testing with FeathersJS. Jest."
 category: backend
 tags: [feathers, testing, backend, backend]
 models: [gpt-4, claude-3]

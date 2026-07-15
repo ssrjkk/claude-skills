@@ -1,6 +1,6 @@
 ---
 name: nock-quickstart
-description: Quickstart for Nock: quick start guide
+description: "Quickstart for Nock: quick start guide"
 category: qa
 tags: [nock-quickstart, qa, russian]
 models: [sonnet, opus]

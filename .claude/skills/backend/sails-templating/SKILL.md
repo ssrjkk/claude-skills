@@ -1,6 +1,6 @@
 ---
 name: sails-templating
-description: Templating with Sails.js. Pug.
+description: "Templating with Sails.js. Pug."
 category: backend
 tags: [sails, templating, backend, backend]
 models: [gpt-4, claude-3]

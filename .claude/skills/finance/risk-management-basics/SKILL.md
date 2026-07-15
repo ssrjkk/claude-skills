@@ -1,6 +1,6 @@
 ---
 name: risk-management-basics
-description: Basics with Risk Management. fundamentals.
+description: "Basics with Risk Management. fundamentals."
 category: finance
 tags: [risk-management, basics, finance, trading]
 models: [gpt-4, claude-3]

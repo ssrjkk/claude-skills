@@ -1,6 +1,6 @@
 ---
 name: database-skill-0205
-description: Specialized skill #0205 for database development
+description: "Specialized skill #0205 for database development"
 category: database
 tags: [skill-0205, database, russian]
 models: [sonnet, opus]

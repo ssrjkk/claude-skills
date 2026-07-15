@@ -1,6 +1,6 @@
 ---
 name: interviewing-tools
-description: Tools with Technical Interviewing. tools.
+description: "Tools with Technical Interviewing. tools."
 category: hr
 tags: [interviewing-tools, hr, russian]
 models: [sonnet, opus]

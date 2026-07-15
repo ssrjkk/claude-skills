@@ -1,6 +1,6 @@
 ---
 name: guidance-fine-tuning
-description: Fine-Tuning with Guidance. model customization.
+description: "Fine-Tuning with Guidance. model customization."
 category: ai
 tags: [guidance, fine-tuning, ai, llm]
 models: [gpt-4, claude-3]

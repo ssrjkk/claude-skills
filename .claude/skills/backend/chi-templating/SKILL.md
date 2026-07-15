@@ -1,6 +1,6 @@
 ---
 name: chi-templating
-description: Templating with Chi. HTML templates.
+description: "Templating with Chi. HTML templates."
 category: backend
 tags: [chi, templating, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: zod-integration
-description: Integration for Zod: integration with other tools
+description: "Integration for Zod: integration with other tools"
 category: frontend
 tags: [zod-integration, frontend, russian]
 models: [sonnet, opus]

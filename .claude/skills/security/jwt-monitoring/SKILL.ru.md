@@ -1,6 +1,6 @@
 ---
 name: jwt-monitoring
-description: Monitoring for Jwt: monitoring and observability
+description: "Monitoring for Jwt: monitoring and observability"
 category: security
 tags: [jwt-monitoring, security, russian]
 models: [sonnet, opus]

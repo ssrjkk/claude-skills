@@ -1,6 +1,6 @@
 ---
 name: powershell-security
-description: Security with PowerShell. security.
+description: "Security with PowerShell. security."
 category: os-admin
 tags: [powershell-security, os-admin, russian]
 models: [sonnet, opus]

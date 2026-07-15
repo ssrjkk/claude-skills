@@ -1,6 +1,6 @@
 ---
 name: nrf52-ble
-description: BLE with nRF52. Bluetooth.
+description: "BLE with nRF52. Bluetooth."
 category: iot
 tags: [nrf52, ble, iot, iot]
 models: [gpt-4, claude-3]

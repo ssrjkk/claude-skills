@@ -1,6 +1,6 @@
 ---
 name: owasp-optimization
-description: Optimization for Owasp: performance tuning and optimization
+description: "Optimization for Owasp: performance tuning and optimization"
 category: security
 tags: [owasp-optimization, security, russian]
 models: [sonnet, opus]

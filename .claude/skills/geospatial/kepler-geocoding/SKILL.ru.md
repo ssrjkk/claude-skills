@@ -1,6 +1,6 @@
 ---
 name: kepler-geocoding
-description: Geocoding with Kepler.gl. geocoding.
+description: "Geocoding with Kepler.gl. geocoding."
 category: geospatial
 tags: [kepler-geocoding, geospatial, russian]
 models: [sonnet, opus]

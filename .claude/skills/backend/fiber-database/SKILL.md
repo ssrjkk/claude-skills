@@ -1,6 +1,6 @@
 ---
 name: fiber-database
-description: Database with Fiber. DB access.
+description: "Database with Fiber. DB access."
 category: backend
 tags: [fiber, database, backend, backend]
 models: [gpt-4, claude-3]

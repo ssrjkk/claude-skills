@@ -1,6 +1,6 @@
 ---
 name: magento-analytics
-description: Analytics with Magento. analytics.
+description: "Analytics with Magento. analytics."
 category: ecommerce
 tags: [magento-analytics, ecommerce, russian]
 models: [sonnet, opus]

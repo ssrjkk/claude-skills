@@ -1,6 +1,6 @@
 ---
 name: nist-testing
-description: Testing with NIST. security testing.
+description: "Testing with NIST. security testing."
 category: security
 tags: [nist-testing, security, russian]
 models: [sonnet, opus]

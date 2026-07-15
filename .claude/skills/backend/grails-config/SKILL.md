@@ -1,6 +1,6 @@
 ---
 name: grails-config
-description: Config with Grails. configuration.
+description: "Config with Grails. configuration."
 category: backend
 tags: [grails, config, backend, backend]
 models: [gpt-4, claude-3]

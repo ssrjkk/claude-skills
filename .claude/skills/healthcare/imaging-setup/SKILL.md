@@ -1,6 +1,6 @@
 ---
 name: imaging-setup
-description: Setup with PACS. implementation.
+description: "Setup with PACS. implementation."
 category: healthcare
 tags: [imaging, setup, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

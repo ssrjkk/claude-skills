@@ -1,6 +1,6 @@
 ---
 name: prisma-integration
-description: Integration for Prisma: integration with other tools
+description: "Integration for Prisma: integration with other tools"
 category: backend
 tags: [prisma-integration, backend, russian]
 models: [sonnet, opus]

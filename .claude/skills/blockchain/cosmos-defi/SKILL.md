@@ -1,6 +1,6 @@
 ---
 name: cosmos-defi
-description: DeFi with Cosmos. DeFi.
+description: "DeFi with Cosmos. DeFi."
 category: blockchain
 tags: [cosmos, defi, blockchain, blockchain]
 models: [gpt-4, claude-3]

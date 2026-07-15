@@ -1,6 +1,6 @@
 ---
 name: ospf-automation
-description: Automation with OSPF. network automation.
+description: "Automation with OSPF. network automation."
 category: networking
 tags: [ospf, automation, networking, networking]
 models: [gpt-4, claude-3]

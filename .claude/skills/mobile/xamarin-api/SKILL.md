@@ -1,6 +1,6 @@
 ---
 name: xamarin-api
-description: API for Xamarin: API development and integration
+description: "API for Xamarin: API development and integration"
 category: mobile
 tags: [xamarin, api, mobile]
 models: [sonnet, opus]

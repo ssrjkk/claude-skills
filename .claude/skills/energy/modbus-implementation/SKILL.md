@@ -1,6 +1,6 @@
 ---
 name: modbus-implementation
-description: Implementation with Modbus. deployment.
+description: "Implementation with Modbus. deployment."
 category: energy
 tags: [modbus, implementation, energy, smart-grid]
 models: [gpt-4, claude-3]

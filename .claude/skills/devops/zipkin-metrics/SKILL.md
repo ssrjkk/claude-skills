@@ -1,6 +1,6 @@
 ---
 name: zipkin-metrics
-description: Metrics with Zipkin. collecting metrics.
+description: "Metrics with Zipkin. collecting metrics."
 category: devops
 tags: [zipkin, metrics, devops, monitoring]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: bevy-publishing
-description: Publishing with Bevy. publishing.
+description: "Publishing with Bevy. publishing."
 category: gamedev
 tags: [bevy-publishing, gamedev, russian]
 models: [sonnet, opus]

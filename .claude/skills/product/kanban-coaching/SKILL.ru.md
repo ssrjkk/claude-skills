@@ -1,6 +1,6 @@
 ---
 name: kanban-coaching
-description: Coaching with Kanban. team coaching.
+description: "Coaching with Kanban. team coaching."
 category: product
 tags: [kanban-coaching, product, russian]
 models: [sonnet, opus]

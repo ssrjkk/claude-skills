@@ -1,6 +1,6 @@
 ---
 name: scipy-visualization
-description: Visualization with SciPy. charting.
+description: "Visualization with SciPy. charting."
 category: data
 tags: [scipy, visualization, data, data-science]
 models: [gpt-4, claude-3]

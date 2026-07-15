@@ -1,6 +1,6 @@
 ---
 name: build-responsive-web-ui-with-react
-description: Create modern, responsive user interfaces using React best practices
+description: "Create modern, responsive user interfaces using React best practices"
 category: backend
 tags: [build-responsive-web-ui-with-react, backend, russian]
 models: [sonnet, opus]

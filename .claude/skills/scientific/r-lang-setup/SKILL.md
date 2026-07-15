@@ -1,6 +1,6 @@
 ---
 name: r-lang-setup
-description: Setup with R. installation.
+description: "Setup with R. installation."
 category: scientific
 tags: [r-lang, setup, scientific, scientific-computing]
 models: [gpt-4, claude-3]

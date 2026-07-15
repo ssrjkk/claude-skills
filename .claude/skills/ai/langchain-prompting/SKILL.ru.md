@@ -1,6 +1,6 @@
 ---
 name: langchain-prompting
-description: Prompt Engineering with Langchain. prompt templates.
+description: "Prompt Engineering with Langchain. prompt templates."
 category: ai
 tags: [langchain-prompting, ai, russian]
 models: [sonnet, opus]

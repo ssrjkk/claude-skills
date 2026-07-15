@@ -1,6 +1,6 @@
 ---
 name: less-hmr
-description: HMR with Less. hot reload.
+description: "HMR with Less. hot reload."
 category: frontend
 tags: [less-hmr, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: framer-motion-best-practices
-description: Best Practices for Framer-Motion: best practices and patterns
+description: "Best Practices for Framer-Motion: best practices and patterns"
 category: frontend
 tags: [framer-motion, best-practices, frontend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: rails-deployment
-description: Deployment with Rails. deploy.
+description: "Deployment with Rails. deploy."
 category: backend
 tags: [rails-deployment, backend, russian]
 models: [sonnet, opus]

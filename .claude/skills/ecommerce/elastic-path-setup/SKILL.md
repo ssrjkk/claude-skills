@@ -1,6 +1,6 @@
 ---
 name: elastic-path-setup
-description: Setup with Elastic Path. setup.
+description: "Setup with Elastic Path. setup."
 category: ecommerce
 tags: [elastic-path, setup, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

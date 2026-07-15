@@ -1,6 +1,6 @@
 ---
 name: hey-reports
-description: Reports with hey. report generation.
+description: "Reports with hey. report generation."
 category: qa
 tags: [hey-reports, qa, russian]
 models: [sonnet, opus]

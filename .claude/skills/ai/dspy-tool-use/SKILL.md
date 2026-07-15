@@ -1,6 +1,6 @@
 ---
 name: dspy-tool-use
-description: Tool Use with Dspy. function calling.
+description: "Tool Use with Dspy. function calling."
 category: ai
 tags: [dspy, tool-use, ai, llm]
 models: [gpt-4, claude-3]

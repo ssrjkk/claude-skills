@@ -1,6 +1,6 @@
 ---
 name: plc-monitoring
-description: Monitoring with PLC Programming. monitoring.
+description: "Monitoring with PLC Programming. monitoring."
 category: energy
 tags: [plc-monitoring, energy, russian]
 models: [sonnet, opus]

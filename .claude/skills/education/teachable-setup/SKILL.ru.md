@@ -1,6 +1,6 @@
 ---
 name: teachable-setup
-description: Setup with Teachable. setup.
+description: "Setup with Teachable. setup."
 category: education
 tags: [teachable-setup, education, russian]
 models: [sonnet, opus]

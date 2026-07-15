@@ -1,6 +1,6 @@
 ---
 name: aws-iot-commands
-description: Commands with AWS IoT. device commands.
+description: "Commands with AWS IoT. device commands."
 category: iot
 tags: [aws-iot, commands, iot, iot-platform]
 models: [gpt-4, claude-3]

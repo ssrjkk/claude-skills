@@ -1,6 +1,6 @@
 ---
 name: workbox-intro
-description: Intro for Workbox: introduction
+description: "Intro for Workbox: introduction"
 category: frontend
 tags: [workbox, intro, frontend]
 models: [sonnet, opus]

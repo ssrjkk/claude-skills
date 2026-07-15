@@ -1,6 +1,6 @@
 ---
 name: saleor-analytics
-description: Analytics with Saleor. analytics.
+description: "Analytics with Saleor. analytics."
 category: ecommerce
 tags: [saleor-analytics, ecommerce, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: unity-ads-troubleshooting
-description: Troubleshooting for Unity-Ads: troubleshooting common issues
+description: "Troubleshooting for Unity-Ads: troubleshooting common issues"
 category: gamedev
 tags: [unity-ads, troubleshooting, gamedev]
 models: [sonnet, opus]

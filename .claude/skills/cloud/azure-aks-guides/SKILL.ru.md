@@ -1,6 +1,6 @@
 ---
 name: azure-aks-guides
-description: Guides for Azure-Aks: how-to guides
+description: "Guides for Azure-Aks: how-to guides"
 category: cloud
 tags: [azure-aks-guides, cloud, russian]
 models: [sonnet, opus]

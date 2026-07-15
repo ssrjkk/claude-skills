@@ -1,6 +1,6 @@
 ---
 name: napi
-description: Development with Napi: tools and best practices
+description: "Development with Napi: tools and best practices"
 category: security
 tags: [napi, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: easypost-integration
-description: Integration with EasyPost. integration.
+description: "Integration with EasyPost. integration."
 category: supply-chain
 tags: [easypost-integration, supply-chain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: salesforce-commerce-payments
-description: Payments with Salesforce Commerce. payment integration.
+description: "Payments with Salesforce Commerce. payment integration."
 category: ecommerce
 tags: [salesforce-commerce-payments, ecommerce, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: chef-cicd
-description: CI/CD with Chef. pipeline integration.
+description: "CI/CD with Chef. pipeline integration."
 category: devops
 tags: [chef, cicd, devops, iac]
 models: [gpt-4, claude-3]

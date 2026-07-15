@@ -1,6 +1,6 @@
 ---
 name: inferno-state-management
-description: State Management with Inferno. state handling.
+description: "State Management with Inferno. state handling."
 category: frontend
 tags: [inferno, state-management, frontend, frontend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: vxworks-setup
-description: Setup with VxWorks. setup.
+description: "Setup with VxWorks. setup."
 category: embedded
 tags: [vxworks, setup, embedded, rtos]
 models: [gpt-4, claude-3]

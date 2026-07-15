@@ -1,6 +1,6 @@
 ---
 name: grid-optimization-security
-description: Security with Grid Optimization. security.
+description: "Security with Grid Optimization. security."
 category: energy
 tags: [grid-optimization, security, energy, smart-grid]
 models: [gpt-4, claude-3]

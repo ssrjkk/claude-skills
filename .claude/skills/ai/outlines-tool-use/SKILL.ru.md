@@ -1,6 +1,6 @@
 ---
 name: outlines-tool-use
-description: Tool Use with Outlines. function calling.
+description: "Tool Use with Outlines. function calling."
 category: ai
 tags: [outlines-tool-use, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: aws-kms-quickstart
-description: Quickstart for Aws-Kms: quick start guide
+description: "Quickstart for Aws-Kms: quick start guide"
 category: security
 tags: [aws-kms-quickstart, security, russian]
 models: [sonnet, opus]

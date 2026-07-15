@@ -1,6 +1,6 @@
 ---
 name: kit-middleware
-description: Middleware with Go Kit. request pipeline.
+description: "Middleware with Go Kit. request pipeline."
 category: backend
 tags: [kit, middleware, backend, backend]
 models: [gpt-4, claude-3]

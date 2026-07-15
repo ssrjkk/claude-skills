@@ -1,6 +1,6 @@
 ---
 name: bulma-utilities
-description: Utilities with Bulma. utility classes.
+description: "Utilities with Bulma. utility classes."
 category: frontend
 tags: [bulma-utilities, frontend, russian]
 models: [sonnet, opus]

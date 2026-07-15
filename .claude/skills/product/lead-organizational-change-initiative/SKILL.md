@@ -1,6 +1,6 @@
 ---
 name: lead-organizational-change-initiative
-description: Guide organization through significant change with communication and support
+description: "Guide organization through significant change with communication and support"
 category: product
 tags: [change management, transformation, leadership, communication]
 models: [sonnet, opus]

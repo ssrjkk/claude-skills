@@ -1,6 +1,6 @@
 ---
 name: imgaug-optical-flow
-description: Optical Flow with Imgaug. motion detection.
+description: "Optical Flow with Imgaug. motion detection."
 category: ai
 tags: [imgaug, optical-flow, ai, computer-vision]
 models: [gpt-4, claude-3]

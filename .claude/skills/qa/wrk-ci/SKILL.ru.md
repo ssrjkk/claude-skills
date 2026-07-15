@@ -1,6 +1,6 @@
 ---
 name: wrk-ci
-description: CI with wrk. CI integration.
+description: "CI with wrk. CI integration."
 category: qa
 tags: [wrk-ci, qa, russian]
 models: [sonnet, opus]

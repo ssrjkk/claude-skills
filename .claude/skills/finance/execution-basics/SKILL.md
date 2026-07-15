@@ -1,6 +1,6 @@
 ---
 name: execution-basics
-description: Basics with Execution Systems. fundamentals.
+description: "Basics with Execution Systems. fundamentals."
 category: finance
 tags: [execution, basics, finance, trading]
 models: [gpt-4, claude-3]

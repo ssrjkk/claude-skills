@@ -1,6 +1,6 @@
 ---
 name: locust-optimization
-description: Optimization for Locust: performance tuning and optimization
+description: "Optimization for Locust: performance tuning and optimization"
 category: qa
 tags: [locust-optimization, qa, russian]
 models: [sonnet, opus]

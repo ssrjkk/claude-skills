@@ -1,6 +1,6 @@
 ---
 name: trivy-deployment
-description: Deployment for Trivy: deployment and release
+description: "Deployment for Trivy: deployment and release"
 category: security
 tags: [trivy-deployment, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: nestjs-templating
-description: Templating with NestJS. Pug.
+description: "Templating with NestJS. Pug."
 category: backend
 tags: [nestjs-templating, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: swell-integration
-description: Integration with Swell. frontend integration.
+description: "Integration with Swell. frontend integration."
 category: ecommerce
 tags: [swell-integration, ecommerce, russian]
 models: [sonnet, opus]

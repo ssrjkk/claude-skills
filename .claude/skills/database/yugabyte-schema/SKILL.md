@@ -1,6 +1,6 @@
 ---
 name: yugabyte-schema
-description: Schema Design with YugabyteDB. schema.
+description: "Schema Design with YugabyteDB. schema."
 category: database
 tags: [yugabyte, schema, database, sql]
 models: [gpt-4, claude-3]

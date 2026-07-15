@@ -1,6 +1,6 @@
 ---
 name: exunit-mocking
-description: Mocking with ExUnit. mocks.
+description: "Mocking with ExUnit. mocks."
 category: qa
 tags: [exunit, mocking, qa, testing]
 models: [gpt-4, claude-3]

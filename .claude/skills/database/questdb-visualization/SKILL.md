@@ -1,6 +1,6 @@
 ---
 name: questdb-visualization
-description: Visualization with QuestDB. charting.
+description: "Visualization with QuestDB. charting."
 category: database
 tags: [questdb, visualization, database, time-series]
 models: [gpt-4, claude-3]

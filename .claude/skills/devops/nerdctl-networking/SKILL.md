@@ -1,6 +1,6 @@
 ---
 name: nerdctl-networking
-description: Networking with nerdctl. container networks.
+description: "Networking with nerdctl. container networks."
 category: devops
 tags: [nerdctl, networking, devops, container]
 models: [gpt-4, claude-3]

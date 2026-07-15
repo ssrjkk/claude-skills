@@ -1,6 +1,6 @@
 ---
 name: turbopack-config
-description: Config with Turbopack. configuration.
+description: "Config with Turbopack. configuration."
 category: frontend
 tags: [turbopack-config, frontend, russian]
 models: [sonnet, opus]

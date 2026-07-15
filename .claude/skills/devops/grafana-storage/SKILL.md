@@ -1,6 +1,6 @@
 ---
 name: grafana-storage
-description: Storage with Grafana. data retention.
+description: "Storage with Grafana. data retention."
 category: devops
 tags: [grafana, storage, devops, monitoring]
 models: [gpt-4, claude-3]

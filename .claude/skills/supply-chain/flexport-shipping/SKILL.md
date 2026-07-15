@@ -1,6 +1,6 @@
 ---
 name: flexport-shipping
-description: Shipping with Flexport. shipping.
+description: "Shipping with Flexport. shipping."
 category: supply-chain
 tags: [flexport, shipping, supply-chain, logistics]
 models: [gpt-4, claude-3]

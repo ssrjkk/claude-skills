@@ -1,6 +1,6 @@
 ---
 name: flask-basics
-description: Basics for Flask: fundamentals and core concepts
+description: "Basics for Flask: fundamentals and core concepts"
 category: backend
 tags: [flask-basics, backend, russian]
 models: [sonnet, opus]

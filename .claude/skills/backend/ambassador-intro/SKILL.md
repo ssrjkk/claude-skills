@@ -1,6 +1,6 @@
 ---
 name: ambassador-intro
-description: Introduction with Ambassador. understanding the pattern.
+description: "Introduction with Ambassador. understanding the pattern."
 category: backend
 tags: [ambassador, intro, backend, architecture]
 models: [gpt-4, claude-3]

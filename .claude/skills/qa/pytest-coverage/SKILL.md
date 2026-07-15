@@ -1,6 +1,6 @@
 ---
 name: pytest-coverage
-description: Coverage with pytest. code coverage.
+description: "Coverage with pytest. code coverage."
 category: qa
 tags: [pytest, coverage, qa, testing]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: curl-configuration
-description: Config with curl. advanced config.
+description: "Config with curl. advanced config."
 category: networking
 tags: [curl-configuration, networking, russian]
 models: [sonnet, opus]

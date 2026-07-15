@@ -1,6 +1,6 @@
 ---
 name: zksync-setup
-description: Setup with zkSync. node setup.
+description: "Setup with zkSync. node setup."
 category: blockchain
 tags: [zksync, setup, blockchain, blockchain]
 models: [gpt-4, claude-3]

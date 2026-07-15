@@ -1,6 +1,6 @@
 ---
 name: minitest-coverage
-description: Coverage with Minitest. code coverage.
+description: "Coverage with Minitest. code coverage."
 category: qa
 tags: [minitest-coverage, qa, russian]
 models: [sonnet, opus]

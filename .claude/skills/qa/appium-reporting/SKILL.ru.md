@@ -1,6 +1,6 @@
 ---
 name: appium-reporting
-description: Reporting with Appium. reports.
+description: "Reporting with Appium. reports."
 category: qa
 tags: [appium-reporting, qa, russian]
 models: [sonnet, opus]

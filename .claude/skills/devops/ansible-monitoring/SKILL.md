@@ -1,6 +1,6 @@
 ---
 name: ansible-monitoring
-description: Monitoring for Ansible: monitoring and observability
+description: "Monitoring for Ansible: monitoring and observability"
 category: devops
 tags: [ansible, monitoring, devops]
 models: [sonnet, opus]

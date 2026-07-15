@@ -1,6 +1,6 @@
 ---
 name: leaflet-production
-description: Production for Leaflet: production deployment
+description: "Production for Leaflet: production deployment"
 category: frontend
 tags: [leaflet-production, frontend, russian]
 models: [sonnet, opus]

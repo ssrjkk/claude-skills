@@ -1,6 +1,6 @@
 ---
 name: ethersjs
-description: Interacts with Ethereum blockchain using ethers.js library for transactions, contracts, and accounts.
+description: "Interacts with Ethereum blockchain using ethers.js library for transactions, contracts, and accounts."
 category: block
 tags: [ethersjs, block, russian]
 models: [sonnet, opus]

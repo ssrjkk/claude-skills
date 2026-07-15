@@ -1,6 +1,6 @@
 ---
 name: leaflet-setup
-description: Setup with Leaflet. setup.
+description: "Setup with Leaflet. setup."
 category: geospatial
 tags: [leaflet, setup, geospatial, gis]
 models: [gpt-4, claude-3]

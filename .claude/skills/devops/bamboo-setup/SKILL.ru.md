@@ -1,6 +1,6 @@
 ---
 name: bamboo-setup
-description: Setup with Bamboo. pipeline setup.
+description: "Setup with Bamboo. pipeline setup."
 category: devops
 tags: [bamboo-setup, devops, russian]
 models: [sonnet, opus]

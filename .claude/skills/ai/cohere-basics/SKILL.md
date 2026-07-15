@@ -1,6 +1,6 @@
 ---
 name: cohere-basics
-description: Basics for Cohere: fundamentals and core concepts
+description: "Basics for Cohere: fundamentals and core concepts"
 category: ai
 tags: [cohere, basics, ai]
 models: [sonnet, opus]

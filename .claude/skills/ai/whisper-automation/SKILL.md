@@ -1,6 +1,6 @@
 ---
 name: whisper-automation
-description: Automation for Whisper: automation and scripting
+description: "Automation for Whisper: automation and scripting"
 category: ai
 tags: [whisper, automation, ai]
 models: [sonnet, opus]

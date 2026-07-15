@@ -1,6 +1,6 @@
 ---
 name: langchain-embeddings
-description: Embeddings with Langchain. text embeddings.
+description: "Embeddings with Langchain. text embeddings."
 category: ai
 tags: [langchain, embeddings, ai, llm]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: kind-service
-description: Service with Kind. services.
+description: "Service with Kind. services."
 category: devops
 tags: [kind-service, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: grafana-dashboards
-description: Dashboards with Grafana. dashboards.
+description: "Dashboards with Grafana. dashboards."
 category: devops
 tags: [grafana-dashboards, devops, russian]
 models: [sonnet, opus]

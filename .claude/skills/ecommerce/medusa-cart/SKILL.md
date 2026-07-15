@@ -1,6 +1,6 @@
 ---
 name: medusa-cart
-description: Cart with Medusa. cart.
+description: "Cart with Medusa. cart."
 category: ecommerce
 tags: [medusa, cart, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

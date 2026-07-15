@@ -1,6 +1,6 @@
 ---
 name: transformers-transfer-learning
-description: Transfer Learning with Transformers. transfer learning.
+description: "Transfer Learning with Transformers. transfer learning."
 category: ai
 tags: [transformers, transfer-learning, ai, deep-learning]
 models: [gpt-4, claude-3]

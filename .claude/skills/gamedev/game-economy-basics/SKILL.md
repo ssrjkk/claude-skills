@@ -1,6 +1,6 @@
 ---
 name: game-economy-basics
-description: Basics with Game Economy. fundamentals.
+description: "Basics with Game Economy. fundamentals."
 category: gamedev
 tags: [game-economy, basics, gamedev, game-design]
 models: [gpt-4, claude-3]

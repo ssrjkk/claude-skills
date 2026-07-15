@@ -1,6 +1,6 @@
 ---
 name: motherduck-automation
-description: Automation for Motherduck: automation and scripting
+description: "Automation for Motherduck: automation and scripting"
 category: database
 tags: [motherduck, automation, database]
 models: [sonnet, opus]

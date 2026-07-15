@@ -1,6 +1,6 @@
 ---
 name: stellar-setup
-description: Setup with Stellar. node setup.
+description: "Setup with Stellar. node setup."
 category: blockchain
 tags: [stellar, setup, blockchain, blockchain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: pomerium-guides
-description: Guides for Pomerium: how-to guides
+description: "Guides for Pomerium: how-to guides"
 category: security
 tags: [pomerium-guides, security, russian]
 models: [sonnet, opus]

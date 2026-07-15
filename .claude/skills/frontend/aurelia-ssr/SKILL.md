@@ -1,6 +1,6 @@
 ---
 name: aurelia-ssr
-description: SSR with Aurelia. server rendering.
+description: "SSR with Aurelia. server rendering."
 category: frontend
 tags: [aurelia, ssr, frontend, frontend]
 models: [gpt-4, claude-3]

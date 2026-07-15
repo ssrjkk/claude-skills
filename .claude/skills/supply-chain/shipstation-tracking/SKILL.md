@@ -1,6 +1,6 @@
 ---
 name: shipstation-tracking
-description: Tracking with ShipStation. tracking.
+description: "Tracking with ShipStation. tracking."
 category: supply-chain
 tags: [shipstation, tracking, supply-chain, logistics]
 models: [gpt-4, claude-3]

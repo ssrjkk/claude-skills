@@ -1,6 +1,6 @@
 ---
 name: narrative-tools
-description: Tools with Narrative Design. tools.
+description: "Tools with Narrative Design. tools."
 category: gamedev
 tags: [narrative, tools, gamedev, game-design]
 models: [gpt-4, claude-3]

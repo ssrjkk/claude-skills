@@ -1,6 +1,6 @@
 ---
 name: detectron2-feature-extraction
-description: Feature Extraction with Detectron2. extracting features.
+description: "Feature Extraction with Detectron2. extracting features."
 category: ai
 tags: [detectron2-feature-extraction, ai, russian]
 models: [sonnet, opus]

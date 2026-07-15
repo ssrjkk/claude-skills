@@ -1,6 +1,6 @@
 ---
 name: plotly-dataframe
-description: DataFrame with Plotly. data manipulation.
+description: "DataFrame with Plotly. data manipulation."
 category: data
 tags: [plotly, dataframe, data, data-science]
 models: [gpt-4, claude-3]

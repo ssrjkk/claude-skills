@@ -1,6 +1,6 @@
 ---
 name: hipaa-tools
-description: Tools with HIPAA. tools.
+description: "Tools with HIPAA. tools."
 category: healthcare
 tags: [hipaa-tools, healthcare, russian]
 models: [sonnet, opus]

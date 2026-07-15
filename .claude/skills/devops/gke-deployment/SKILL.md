@@ -1,6 +1,6 @@
 ---
 name: gke-deployment
-description: Deployment with Google GKE. apps deployment.
+description: "Deployment with Google GKE. apps deployment."
 category: devops
 tags: [gke, deployment, devops, kubernetes]
 models: [gpt-4, claude-3]

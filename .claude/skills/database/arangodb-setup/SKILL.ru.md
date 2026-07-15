@@ -1,6 +1,6 @@
 ---
 name: arangodb-setup
-description: Setup with ArangoDB. installation.
+description: "Setup with ArangoDB. installation."
 category: database
 tags: [arangodb-setup, database, russian]
 models: [sonnet, opus]

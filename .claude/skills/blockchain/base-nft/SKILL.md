@@ -1,6 +1,6 @@
 ---
 name: base-nft
-description: NFT with Base. tokens.
+description: "NFT with Base. tokens."
 category: blockchain
 tags: [base, nft, blockchain, blockchain]
 models: [gpt-4, claude-3]

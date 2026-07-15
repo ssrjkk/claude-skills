@@ -1,6 +1,6 @@
 ---
 name: questdb-monitoring
-description: Monitoring with QuestDB. monitoring.
+description: "Monitoring with QuestDB. monitoring."
 category: database
 tags: [questdb, monitoring, database, time-series]
 models: [gpt-4, claude-3]

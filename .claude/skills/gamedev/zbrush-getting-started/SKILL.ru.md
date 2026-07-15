@@ -1,6 +1,6 @@
 ---
 name: zbrush-getting-started
-description: Getting Started for Zbrush: initial setup and first steps
+description: "Getting Started for Zbrush: initial setup and first steps"
 category: gamedev
 tags: [zbrush-getting-started, gamedev, russian]
 models: [sonnet, opus]

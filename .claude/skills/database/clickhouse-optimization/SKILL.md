@@ -1,6 +1,6 @@
 ---
 name: clickhouse-optimization
-description: Optimization for Clickhouse: performance tuning and optimization
+description: "Optimization for Clickhouse: performance tuning and optimization"
 category: database
 tags: [clickhouse, optimization, database]
 models: [sonnet, opus]

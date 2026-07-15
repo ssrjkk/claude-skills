@@ -1,6 +1,6 @@
 ---
 name: design-tokens
-description: Manages design tokens with Style Dictionary or Theo. Use for maintaining design system consistency.
+description: "Manages design tokens with Style Dictionary or Theo. Use for maintaining design system consistency."
 category: design
 tags: [design-tokens, design-system, style-dictionary, theming]
 models: [sonnet, opus]

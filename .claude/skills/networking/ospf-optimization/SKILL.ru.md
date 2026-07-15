@@ -1,6 +1,6 @@
 ---
 name: ospf-optimization
-description: Optimization with OSPF. tuning.
+description: "Optimization with OSPF. tuning."
 category: networking
 tags: [ospf-optimization, networking, russian]
 models: [sonnet, opus]

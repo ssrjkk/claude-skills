@@ -1,6 +1,6 @@
 ---
 name: redis-getting-started
-description: Getting Started for Redis: initial setup and first steps
+description: "Getting Started for Redis: initial setup and first steps"
 category: backend
 tags: [redis-getting-started, backend, russian]
 models: [sonnet, opus]

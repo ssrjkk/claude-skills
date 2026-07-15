@@ -1,6 +1,6 @@
 ---
 name: rails-templating
-description: Templating with Rails. ERB.
+description: "Templating with Rails. ERB."
 category: backend
 tags: [rails-templating, backend, russian]
 models: [sonnet, opus]

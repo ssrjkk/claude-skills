@@ -1,6 +1,6 @@
 ---
 name: dart-cli-tool
-description: CLI Tool with Dart. building CLI tools.
+description: "CLI Tool with Dart. building CLI tools."
 category: backend
 tags: [dart, cli-tool, backend, backend]
 models: [gpt-4, claude-3]

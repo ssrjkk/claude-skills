@@ -1,6 +1,6 @@
 ---
 name: grails-testing
-description: Testing with Grails. unit tests.
+description: "Testing with Grails. unit tests."
 category: backend
 tags: [grails-testing, backend, russian]
 models: [sonnet, opus]

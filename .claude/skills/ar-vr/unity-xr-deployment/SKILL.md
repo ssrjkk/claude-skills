@@ -1,6 +1,6 @@
 ---
 name: unity-xr-deployment
-description: Deployment with Unity XR. deployment.
+description: "Deployment with Unity XR. deployment."
 category: ar-vr
 tags: [unity-xr, deployment, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

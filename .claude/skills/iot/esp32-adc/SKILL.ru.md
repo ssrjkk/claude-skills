@@ -1,6 +1,6 @@
 ---
 name: esp32-adc
-description: ADC with ESP32. analog input.
+description: "ADC with ESP32. analog input."
 category: iot
 tags: [esp32-adc, iot, russian]
 models: [sonnet, opus]

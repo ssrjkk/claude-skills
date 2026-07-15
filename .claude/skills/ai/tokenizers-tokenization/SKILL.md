@@ -1,6 +1,6 @@
 ---
 name: tokenizers-tokenization
-description: Tokenization with Tokenizers. text tokenization.
+description: "Tokenization with Tokenizers. text tokenization."
 category: ai
 tags: [tokenizers, tokenization, ai, nlp]
 models: [gpt-4, claude-3]

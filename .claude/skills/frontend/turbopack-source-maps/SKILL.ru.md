@@ -1,6 +1,6 @@
 ---
 name: turbopack-source-maps
-description: Source Maps with Turbopack. debugging.
+description: "Source Maps with Turbopack. debugging."
 category: frontend
 tags: [turbopack-source-maps, frontend, russian]
 models: [sonnet, opus]

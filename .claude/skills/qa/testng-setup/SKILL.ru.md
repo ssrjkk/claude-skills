@@ -1,6 +1,6 @@
 ---
 name: testng-setup
-description: Setup with TestNG. installation.
+description: "Setup with TestNG. installation."
 category: qa
 tags: [testng-setup, qa, russian]
 models: [sonnet, opus]

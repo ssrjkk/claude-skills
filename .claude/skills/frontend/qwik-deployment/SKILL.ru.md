@@ -1,6 +1,6 @@
 ---
 name: qwik-deployment
-description: Deployment with Qwik. production.
+description: "Deployment with Qwik. production."
 category: frontend
 tags: [qwik-deployment, frontend, russian]
 models: [sonnet, opus]

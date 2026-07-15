@@ -1,6 +1,6 @@
 ---
 name: react-native-state
-description: State with React Native. state management.
+description: "State with React Native. state management."
 category: mobile
 tags: [react-native-state, mobile, russian]
 models: [sonnet, opus]

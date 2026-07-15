@@ -1,6 +1,6 @@
 ---
 name: steam-sdk-configuration
-description: Configuration for Steam-Sdk: configuration and setup
+description: "Configuration for Steam-Sdk: configuration and setup"
 category: gamedev
 tags: [steam-sdk-configuration, gamedev, russian]
 models: [sonnet, opus]

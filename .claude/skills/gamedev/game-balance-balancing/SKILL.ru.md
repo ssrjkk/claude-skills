@@ -1,6 +1,6 @@
 ---
 name: game-balance-balancing
-description: Balancing with Game Balance. balancing.
+description: "Balancing with Game Balance. balancing."
 category: gamedev
 tags: [game-balance-balancing, gamedev, russian]
 models: [sonnet, opus]

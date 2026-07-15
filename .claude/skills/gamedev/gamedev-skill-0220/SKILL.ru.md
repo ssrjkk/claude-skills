@@ -1,6 +1,6 @@
 ---
 name: gamedev-skill-0220
-description: Specialized skill #0220 for gamedev development
+description: "Specialized skill #0220 for gamedev development"
 category: gamedev
 tags: [skill-0220, gamedev, russian]
 models: [sonnet, opus]

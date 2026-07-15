@@ -1,6 +1,6 @@
 ---
 name: datadog-alerts
-description: Alerts with Datadog. alerting rules.
+description: "Alerts with Datadog. alerting rules."
 category: devops
 tags: [datadog, alerts, devops, monitoring]
 models: [gpt-4, claude-3]

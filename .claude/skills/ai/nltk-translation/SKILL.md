@@ -1,6 +1,6 @@
 ---
 name: nltk-translation
-description: Translation with Nltk. machine translation.
+description: "Translation with Nltk. machine translation."
 category: ai
 tags: [nltk, translation, ai, nlp]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: detox-parallel
-description: Parallel with Detox. parallel execution.
+description: "Parallel with Detox. parallel execution."
 category: qa
 tags: [detox, parallel, qa, e2e]
 models: [gpt-4, claude-3]

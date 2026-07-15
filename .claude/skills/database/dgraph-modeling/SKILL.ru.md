@@ -1,6 +1,6 @@
 ---
 name: dgraph-modeling
-description: Modeling with Dgraph. graph modeling.
+description: "Modeling with Dgraph. graph modeling."
 category: database
 tags: [dgraph-modeling, database, russian]
 models: [sonnet, opus]

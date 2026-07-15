@@ -1,6 +1,6 @@
 ---
 name: buildah-optimization
-description: Optimization with Buildah. image optimization.
+description: "Optimization with Buildah. image optimization."
 category: devops
 tags: [buildah-optimization, devops, russian]
 models: [sonnet, opus]

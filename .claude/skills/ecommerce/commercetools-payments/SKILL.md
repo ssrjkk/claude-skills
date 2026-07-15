@@ -1,6 +1,6 @@
 ---
 name: commercetools-payments
-description: Payments with commercetools. payment integration.
+description: "Payments with commercetools. payment integration."
 category: ecommerce
 tags: [commercetools, payments, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

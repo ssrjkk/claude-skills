@@ -1,6 +1,6 @@
 ---
 name: saucelabs-workflow
-description: Workflow for Saucelabs: workflow optimization
+description: "Workflow for Saucelabs: workflow optimization"
 category: qa
 tags: [saucelabs-workflow, qa, russian]
 models: [sonnet, opus]

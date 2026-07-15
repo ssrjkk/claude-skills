@@ -1,6 +1,6 @@
 ---
 name: tpot-classification
-description: Classification with Tpot. building classifiers.
+description: "Classification with Tpot. building classifiers."
 category: ai
 tags: [tpot, classification, ai, ml]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: flair-lemmatization
-description: Lemmatization with Flair. word lemmatization.
+description: "Lemmatization with Flair. word lemmatization."
 category: ai
 tags: [flair-lemmatization, ai, russian]
 models: [sonnet, opus]

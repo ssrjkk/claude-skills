@@ -1,6 +1,6 @@
 ---
 name: actix-web-testing
-description: Testing with Actix Web. unit tests.
+description: "Testing with Actix Web. unit tests."
 category: backend
 tags: [actix-web-testing, backend, russian]
 models: [sonnet, opus]

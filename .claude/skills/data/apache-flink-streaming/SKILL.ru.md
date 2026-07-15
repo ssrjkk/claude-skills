@@ -1,6 +1,6 @@
 ---
 name: apache-flink-streaming
-description: Streaming with Apache Flink. real-time.
+description: "Streaming with Apache Flink. real-time."
 category: data
 tags: [apache-flink-streaming, data, russian]
 models: [sonnet, opus]

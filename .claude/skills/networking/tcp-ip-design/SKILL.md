@@ -1,6 +1,6 @@
 ---
 name: tcp-ip-design
-description: Design with TCP/IP. network design.
+description: "Design with TCP/IP. network design."
 category: networking
 tags: [tcp-ip, design, networking, networking]
 models: [gpt-4, claude-3]

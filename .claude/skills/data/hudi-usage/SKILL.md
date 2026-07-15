@@ -1,6 +1,6 @@
 ---
 name: hudi-usage
-description: Usage for Hudi: usage reference
+description: "Usage for Hudi: usage reference"
 category: data
 tags: [hudi, usage, data]
 models: [sonnet, opus]

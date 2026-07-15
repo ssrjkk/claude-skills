@@ -1,6 +1,6 @@
 ---
 name: burpsuite-reporting
-description: Reporting with Burp Suite. reports.
+description: "Reporting with Burp Suite. reports."
 category: security
 tags: [burpsuite-reporting, security, russian]
 models: [sonnet, opus]

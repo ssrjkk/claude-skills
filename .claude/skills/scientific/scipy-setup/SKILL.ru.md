@@ -1,6 +1,6 @@
 ---
 name: scipy-setup
-description: Setup with SciPy. installation.
+description: "Setup with SciPy. installation."
 category: scientific
 tags: [scipy-setup, scientific, russian]
 models: [sonnet, opus]

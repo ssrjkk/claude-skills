@@ -1,6 +1,6 @@
 ---
 name: jobs-to-be-done-implementation
-description: Implementation with Jobs to be Done. execution.
+description: "Implementation with Jobs to be Done. execution."
 category: product
 tags: [jobs-to-be-done, implementation, product, product-framework]
 models: [gpt-4, claude-3]

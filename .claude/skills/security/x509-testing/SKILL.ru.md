@@ -1,6 +1,6 @@
 ---
 name: x509-testing
-description: Testing with X.509. security testing.
+description: "Testing with X.509. security testing."
 category: security
 tags: [x509-testing, security, russian]
 models: [sonnet, opus]

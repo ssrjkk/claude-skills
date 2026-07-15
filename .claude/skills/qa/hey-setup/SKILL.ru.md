@@ -1,6 +1,6 @@
 ---
 name: hey-setup
-description: Setup with hey. installation.
+description: "Setup with hey. installation."
 category: qa
 tags: [hey-setup, qa, russian]
 models: [sonnet, opus]

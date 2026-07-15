@@ -1,6 +1,6 @@
 ---
 name: surreal-schema
-description: Schema Design with SurrealDB. schema design.
+description: "Schema Design with SurrealDB. schema design."
 category: database
 tags: [surreal-schema, database, russian]
 models: [sonnet, opus]

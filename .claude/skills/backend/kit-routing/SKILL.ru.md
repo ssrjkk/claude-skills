@@ -1,6 +1,6 @@
 ---
 name: kit-routing
-description: Routing with Go Kit. HTTP routing.
+description: "Routing with Go Kit. HTTP routing."
 category: backend
 tags: [kit-routing, backend, russian]
 models: [sonnet, opus]

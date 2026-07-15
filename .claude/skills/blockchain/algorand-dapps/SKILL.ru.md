@@ -1,6 +1,6 @@
 ---
 name: algorand-dapps
-description: DApps with Algorand. decentralized apps.
+description: "DApps with Algorand. decentralized apps."
 category: blockchain
 tags: [algorand-dapps, blockchain, russian]
 models: [sonnet, opus]

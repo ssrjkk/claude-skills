@@ -1,6 +1,6 @@
 ---
 name: tempo-storage
-description: Storage with Tempo. data retention.
+description: "Storage with Tempo. data retention."
 category: devops
 tags: [tempo-storage, devops, russian]
 models: [sonnet, opus]

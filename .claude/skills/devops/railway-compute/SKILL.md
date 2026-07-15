@@ -1,6 +1,6 @@
 ---
 name: railway-compute
-description: Compute with Railway. VM/compute.
+description: "Compute with Railway. VM/compute."
 category: devops
 tags: [railway, compute, devops, cloud]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: dynamodb-security
-description: Security with DynamoDB. security.
+description: "Security with DynamoDB. security."
 category: database
 tags: [dynamodb, security, database, nosql]
 models: [gpt-4, claude-3]

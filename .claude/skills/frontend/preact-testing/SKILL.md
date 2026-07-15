@@ -1,6 +1,6 @@
 ---
 name: preact-testing
-description: Testing with Preact. component testing.
+description: "Testing with Preact. component testing."
 category: frontend
 tags: [preact, testing, frontend, frontend]
 models: [gpt-4, claude-3]

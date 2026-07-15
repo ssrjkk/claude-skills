@@ -1,6 +1,6 @@
 ---
 name: nessus-compliance
-description: Compliance with Nessus. compliance.
+description: "Compliance with Nessus. compliance."
 category: security
 tags: [nessus, compliance, security, security-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: nat-monitoring
-description: Monitoring with NAT. monitoring.
+description: "Monitoring with NAT. monitoring."
 category: networking
 tags: [nat-monitoring, networking, russian]
 models: [sonnet, opus]

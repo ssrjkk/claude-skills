@@ -1,6 +1,6 @@
 ---
 name: inferno-forms
-description: Forms with Inferno. form handling.
+description: "Forms with Inferno. form handling."
 category: frontend
 tags: [inferno-forms, frontend, russian]
 models: [sonnet, opus]

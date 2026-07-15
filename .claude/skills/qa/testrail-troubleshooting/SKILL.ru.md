@@ -1,6 +1,6 @@
 ---
 name: testrail-troubleshooting
-description: Troubleshooting for Testrail: troubleshooting common issues
+description: "Troubleshooting for Testrail: troubleshooting common issues"
 category: qa
 tags: [testrail-troubleshooting, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: linkedin-recruiter-tools
-description: Tools with LinkedIn Recruiter. tools.
+description: "Tools with LinkedIn Recruiter. tools."
 category: hr
 tags: [linkedin-recruiter-tools, hr, russian]
 models: [sonnet, opus]

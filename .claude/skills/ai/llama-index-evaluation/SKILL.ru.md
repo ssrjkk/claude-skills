@@ -1,6 +1,6 @@
 ---
 name: llama-index-evaluation
-description: Evaluation with Llama Index. LLM evaluation.
+description: "Evaluation with Llama Index. LLM evaluation."
 category: ai
 tags: [llama-index-evaluation, ai, russian]
 models: [sonnet, opus]

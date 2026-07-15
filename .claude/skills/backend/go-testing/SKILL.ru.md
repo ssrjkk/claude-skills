@@ -1,6 +1,6 @@
 ---
 name: go-testing
-description: Testing with Go. writing tests.
+description: "Testing with Go. writing tests."
 category: backend
 tags: [go-testing, backend, russian]
 models: [sonnet, opus]

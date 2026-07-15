@@ -1,6 +1,6 @@
 ---
 name: fhir-testing
-description: Testing with FHIR. testing.
+description: "Testing with FHIR. testing."
 category: healthcare
 tags: [fhir-testing, healthcare, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vegeta-ci
-description: CI with Vegeta. CI integration.
+description: "CI with Vegeta. CI integration."
 category: qa
 tags: [vegeta, ci, qa, performance-testing]
 models: [gpt-4, claude-3]

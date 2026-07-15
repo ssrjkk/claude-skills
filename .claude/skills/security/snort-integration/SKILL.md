@@ -1,6 +1,6 @@
 ---
 name: snort-integration
-description: Integration for Snort: integration with other tools
+description: "Integration for Snort: integration with other tools"
 category: security
 tags: [snort, integration, security]
 models: [sonnet, opus]

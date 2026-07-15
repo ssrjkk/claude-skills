@@ -1,6 +1,6 @@
 ---
 name: locust-debugging
-description: Debugging for Locust: debugging and troubleshooting
+description: "Debugging for Locust: debugging and troubleshooting"
 category: qa
 tags: [locust, debugging, qa]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: haskell-web-framework
-description: Web Framework with Haskell. web dev.
+description: "Web Framework with Haskell. web dev."
 category: backend
 tags: [haskell, web-framework, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: mariadb-querying
-description: Querying with MariaDB. SQL queries.
+description: "Querying with MariaDB. SQL queries."
 category: database
 tags: [mariadb-querying, database, russian]
 models: [sonnet, opus]

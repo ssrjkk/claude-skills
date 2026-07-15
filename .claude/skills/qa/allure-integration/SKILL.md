@@ -1,6 +1,6 @@
 ---
 name: allure-integration
-description: Integration for Allure: integration with other tools
+description: "Integration for Allure: integration with other tools"
 category: qa
 tags: [allure, integration, qa]
 models: [sonnet, opus]

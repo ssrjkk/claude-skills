@@ -1,6 +1,6 @@
 ---
 name: home-assistant-setup
-description: Setup with Home Assistant. setup.
+description: "Setup with Home Assistant. setup."
 category: iot
 tags: [home-assistant-setup, iot, russian]
 models: [sonnet, opus]

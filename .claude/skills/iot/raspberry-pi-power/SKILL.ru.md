@@ -1,6 +1,6 @@
 ---
 name: raspberry-pi-power
-description: Power with Raspberry Pi. power management.
+description: "Power with Raspberry Pi. power management."
 category: iot
 tags: [raspberry-pi-power, iot, russian]
 models: [sonnet, opus]

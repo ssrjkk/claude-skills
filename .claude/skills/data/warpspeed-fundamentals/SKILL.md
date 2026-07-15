@@ -1,6 +1,6 @@
 ---
 name: warpspeed-fundamentals
-description: Fundamentals for Warpspeed: core concepts
+description: "Fundamentals for Warpspeed: core concepts"
 category: data
 tags: [warpspeed, fundamentals, data]
 models: [sonnet, opus]

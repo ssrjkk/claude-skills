@@ -1,6 +1,6 @@
 ---
 name: spec-best-practices
-description: Best Practices with Specification Writing. tips.
+description: "Best Practices with Specification Writing. tips."
 category: product
 tags: [spec-best-practices, product, russian]
 models: [sonnet, opus]

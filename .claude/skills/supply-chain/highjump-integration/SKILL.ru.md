@@ -1,6 +1,6 @@
 ---
 name: highjump-integration
-description: Integration with HighJump. integration.
+description: "Integration with HighJump. integration."
 category: supply-chain
 tags: [highjump-integration, supply-chain, russian]
 models: [sonnet, opus]

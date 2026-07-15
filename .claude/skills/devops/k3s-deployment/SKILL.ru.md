@@ -1,6 +1,6 @@
 ---
 name: k3s-deployment
-description: Deployment with K3s. apps deployment.
+description: "Deployment with K3s. apps deployment."
 category: devops
 tags: [k3s-deployment, devops, russian]
 models: [sonnet, opus]

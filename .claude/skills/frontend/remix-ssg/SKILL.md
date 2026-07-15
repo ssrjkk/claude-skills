@@ -1,6 +1,6 @@
 ---
 name: remix-ssg
-description: SSG with Remix. static generation.
+description: "SSG with Remix. static generation."
 category: frontend
 tags: [remix, ssg, frontend, meta-framework]
 models: [gpt-4, claude-3]

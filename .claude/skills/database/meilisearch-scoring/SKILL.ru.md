@@ -1,6 +1,6 @@
 ---
 name: meilisearch-scoring
-description: Scoring with Meilisearch. relevance scoring.
+description: "Scoring with Meilisearch. relevance scoring."
 category: database
 tags: [meilisearch-scoring, database, russian]
 models: [sonnet, opus]

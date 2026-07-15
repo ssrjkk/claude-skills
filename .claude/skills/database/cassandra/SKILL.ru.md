@@ -1,6 +1,6 @@
 ---
 name: cassandra
-description: Models and queries data with Apache Cassandra for high-availability, partition-tolerant NoSQL workloads.
+description: "Models and queries data with Apache Cassandra for high-availability, partition-tolerant NoSQL workloads."
 category: database
 tags: [cassandra, database, russian]
 models: [sonnet, opus]

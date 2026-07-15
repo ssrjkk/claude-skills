@@ -1,6 +1,6 @@
 ---
 name: drizzle-production
-description: Production for Drizzle: production deployment
+description: "Production for Drizzle: production deployment"
 category: backend
 tags: [drizzle-production, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: flair-dependency-parsing
-description: Dependency Parsing with Flair. syntax analysis.
+description: "Dependency Parsing with Flair. syntax analysis."
 category: ai
 tags: [flair-dependency-parsing, ai, russian]
 models: [sonnet, opus]

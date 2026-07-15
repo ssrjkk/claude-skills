@@ -1,6 +1,6 @@
 ---
 name: oxlint-bundling
-description: Bundling with Oxlint. code bundling.
+description: "Bundling with Oxlint. code bundling."
 category: frontend
 tags: [oxlint, bundling, frontend, build-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: vpn-design
-description: Design with VPN. network design.
+description: "Design with VPN. network design."
 category: networking
 tags: [vpn, design, networking, networking]
 models: [gpt-4, claude-3]

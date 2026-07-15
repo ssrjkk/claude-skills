@@ -1,6 +1,6 @@
 ---
 name: open-world-basics
-description: Basics with Open World Design. fundamentals.
+description: "Basics with Open World Design. fundamentals."
 category: gamedev
 tags: [open-world-basics, gamedev, russian]
 models: [sonnet, opus]

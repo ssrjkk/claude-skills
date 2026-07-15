@@ -1,6 +1,6 @@
 ---
 name: quarkus-config
-description: Config with Quarkus. configuration.
+description: "Config with Quarkus. configuration."
 category: backend
 tags: [quarkus-config, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: webrtc-basics
-description: Basics with WebRTC. fundamentals.
+description: "Basics with WebRTC. fundamentals."
 category: communications
 tags: [webrtc, basics, communications, communication-protocol]
 models: [gpt-4, claude-3]

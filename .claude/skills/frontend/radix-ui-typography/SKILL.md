@@ -1,6 +1,6 @@
 ---
 name: radix-ui-typography
-description: Typography with Radix UI. text styling.
+description: "Typography with Radix UI. text styling."
 category: frontend
 tags: [radix-ui, typography, frontend, css]
 models: [gpt-4, claude-3]

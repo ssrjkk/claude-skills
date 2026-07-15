@@ -1,6 +1,6 @@
 ---
 name: prometheus-tsdb-monitoring
-description: Monitoring with Prometheus TSDB. monitoring.
+description: "Monitoring with Prometheus TSDB. monitoring."
 category: database
 tags: [prometheus-tsdb, monitoring, database, time-series]
 models: [gpt-4, claude-3]

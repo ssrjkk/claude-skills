@@ -1,6 +1,6 @@
 ---
 name: meilisearch-clustering
-description: Clustering with Meilisearch. cluster setup.
+description: "Clustering with Meilisearch. cluster setup."
 category: database
 tags: [meilisearch-clustering, database, russian]
 models: [sonnet, opus]

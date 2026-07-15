@@ -1,6 +1,6 @@
 ---
 name: lean-best-practices
-description: Best Practices with Lean. practices.
+description: "Best Practices with Lean. practices."
 category: product
 tags: [lean, best-practices, product, methodology]
 models: [gpt-4, claude-3]

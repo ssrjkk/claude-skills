@@ -1,6 +1,6 @@
 ---
 name: snyk-scanning
-description: Scanning with Snyk. security scanning.
+description: "Scanning with Snyk. security scanning."
 category: security
 tags: [snyk, scanning, security, security-tool]
 models: [gpt-4, claude-3]

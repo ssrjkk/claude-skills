@@ -1,6 +1,6 @@
 ---
 name: prometheus-security
-description: Security for Prometheus: security best practices
+description: "Security for Prometheus: security best practices"
 category: devops
 tags: [prometheus-security, devops, russian]
 models: [sonnet, opus]

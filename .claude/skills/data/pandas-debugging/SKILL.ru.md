@@ -1,6 +1,6 @@
 ---
 name: pandas-debugging
-description: Debugging for Pandas: debugging and troubleshooting
+description: "Debugging for Pandas: debugging and troubleshooting"
 category: data
 tags: [pandas-debugging, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: codeigniter-deployment
-description: Deployment with CodeIgniter. deploy.
+description: "Deployment with CodeIgniter. deploy."
 category: backend
 tags: [codeigniter-deployment, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: snyk-security
-description: Security for Snyk: security best practices
+description: "Security for Snyk: security best practices"
 category: security
 tags: [snyk-security, security, russian]
 models: [sonnet, opus]

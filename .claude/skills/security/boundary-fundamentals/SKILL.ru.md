@@ -1,6 +1,6 @@
 ---
 name: boundary-fundamentals
-description: Fundamentals for Boundary: core concepts
+description: "Fundamentals for Boundary: core concepts"
 category: security
 tags: [boundary-fundamentals, security, russian]
 models: [sonnet, opus]

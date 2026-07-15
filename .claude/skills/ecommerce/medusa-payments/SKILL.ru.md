@@ -1,6 +1,6 @@
 ---
 name: medusa-payments
-description: Payments with Medusa. payment integration.
+description: "Payments with Medusa. payment integration."
 category: ecommerce
 tags: [medusa-payments, ecommerce, russian]
 models: [sonnet, opus]

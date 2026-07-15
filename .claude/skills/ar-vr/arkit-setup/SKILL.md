@@ -1,6 +1,6 @@
 ---
 name: arkit-setup
-description: Setup with ARKit. SDK setup.
+description: "Setup with ARKit. SDK setup."
 category: ar-vr
 tags: [arkit, setup, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

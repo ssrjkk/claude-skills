@@ -1,6 +1,6 @@
 ---
 name: riscv-timers
-description: Timers with RISC-V. timers.
+description: "Timers with RISC-V. timers."
 category: embedded
 tags: [riscv-timers, embedded, russian]
 models: [sonnet, opus]

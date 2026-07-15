@@ -1,6 +1,6 @@
 ---
 name: aws-eks-guides
-description: Guides for Aws-Eks: how-to guides
+description: "Guides for Aws-Eks: how-to guides"
 category: cloud
 tags: [aws-eks, guides, cloud]
 models: [sonnet, opus]

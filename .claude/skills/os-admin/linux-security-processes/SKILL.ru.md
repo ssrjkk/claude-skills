@@ -1,6 +1,6 @@
 ---
 name: linux-security-processes
-description: Processes with Linux Security. process management.
+description: "Processes with Linux Security. process management."
 category: os-admin
 tags: [linux-security-processes, os-admin, russian]
 models: [sonnet, opus]

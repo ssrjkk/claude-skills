@@ -1,6 +1,6 @@
 ---
 name: order-management-implementation
-description: Implementation with OMS. implementation.
+description: "Implementation with OMS. implementation."
 category: finance
 tags: [order-management-implementation, finance, russian]
 models: [sonnet, opus]

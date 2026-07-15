@@ -1,6 +1,6 @@
 ---
 name: falcon-routing
-description: Routing with Falcon. HTTP routing.
+description: "Routing with Falcon. HTTP routing."
 category: backend
 tags: [falcon-routing, backend, russian]
 models: [sonnet, opus]

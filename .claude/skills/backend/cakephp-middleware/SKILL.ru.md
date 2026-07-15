@@ -1,6 +1,6 @@
 ---
 name: cakephp-middleware
-description: Middleware with CakePHP. pipeline.
+description: "Middleware with CakePHP. pipeline."
 category: backend
 tags: [cakephp-middleware, backend, russian]
 models: [sonnet, opus]

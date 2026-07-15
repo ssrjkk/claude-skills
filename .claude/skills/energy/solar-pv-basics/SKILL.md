@@ -1,6 +1,6 @@
 ---
 name: solar-pv-basics
-description: Basics with Solar PV. fundamentals.
+description: "Basics with Solar PV. fundamentals."
 category: energy
 tags: [solar-pv, basics, energy, renewable-energy]
 models: [gpt-4, claude-3]

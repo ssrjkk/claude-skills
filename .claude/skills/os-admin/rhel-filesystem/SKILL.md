@@ -1,6 +1,6 @@
 ---
 name: rhel-filesystem
-description: Filesystem with RHEL. filesystem.
+description: "Filesystem with RHEL. filesystem."
 category: os-admin
 tags: [rhel, filesystem, os-admin, linux]
 models: [gpt-4, claude-3]

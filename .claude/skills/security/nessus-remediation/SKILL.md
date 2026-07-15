@@ -1,6 +1,6 @@
 ---
 name: nessus-remediation
-description: Remediation with Nessus. fixing vulns.
+description: "Remediation with Nessus. fixing vulns."
 category: security
 tags: [nessus, remediation, security, security-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: keras-pruning
-description: Pruning with Keras. model pruning.
+description: "Pruning with Keras. model pruning."
 category: ai
 tags: [keras-pruning, ai, russian]
 models: [sonnet, opus]

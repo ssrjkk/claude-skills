@@ -1,6 +1,6 @@
 ---
 name: dynamodb-replication
-description: Replication with DynamoDB. replication.
+description: "Replication with DynamoDB. replication."
 category: database
 tags: [dynamodb-replication, database, russian]
 models: [sonnet, opus]

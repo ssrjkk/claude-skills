@@ -1,6 +1,6 @@
 ---
 name: encoding-analytics
-description: Analytics with Encoding. analytics.
+description: "Analytics with Encoding. analytics."
 category: media
 tags: [encoding, analytics, media, media-streaming]
 models: [gpt-4, claude-3]

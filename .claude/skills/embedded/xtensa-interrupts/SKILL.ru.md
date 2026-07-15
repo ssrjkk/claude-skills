@@ -1,6 +1,6 @@
 ---
 name: xtensa-interrupts
-description: Interrupts with Xtensa. interrupts.
+description: "Interrupts with Xtensa. interrupts."
 category: embedded
 tags: [xtensa-interrupts, embedded, russian]
 models: [sonnet, opus]

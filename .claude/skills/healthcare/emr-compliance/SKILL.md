@@ -1,6 +1,6 @@
 ---
 name: emr-compliance
-description: Compliance with EMR Systems. compliance.
+description: "Compliance with EMR Systems. compliance."
 category: healthcare
 tags: [emr, compliance, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

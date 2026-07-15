@@ -1,6 +1,6 @@
 ---
 name: fantom-nft
-description: NFT with Fantom. tokens.
+description: "NFT with Fantom. tokens."
 category: blockchain
 tags: [fantom-nft, blockchain, russian]
 models: [sonnet, opus]

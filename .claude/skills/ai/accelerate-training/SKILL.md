@@ -1,6 +1,6 @@
 ---
 name: accelerate-training
-description: Training with Accelerate. training models.
+description: "Training with Accelerate. training models."
 category: ai
 tags: [accelerate, training, ai, deep-learning]
 models: [gpt-4, claude-3]

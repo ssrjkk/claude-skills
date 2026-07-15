@@ -1,6 +1,6 @@
 ---
 name: braintree-fraud
-description: Fraud with Braintree. fraud detection.
+description: "Fraud with Braintree. fraud detection."
 category: payments
 tags: [braintree, fraud, payments, payments]
 models: [gpt-4, claude-3]

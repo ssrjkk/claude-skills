@@ -1,6 +1,6 @@
 ---
 name: radix-ui-theming
-description: Theming with Radix UI. custom themes.
+description: "Theming with Radix UI. custom themes."
 category: frontend
 tags: [radix-ui, theming, frontend, css]
 models: [gpt-4, claude-3]

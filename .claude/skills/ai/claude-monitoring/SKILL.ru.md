@@ -1,6 +1,6 @@
 ---
 name: claude-monitoring
-description: Monitoring for Claude: monitoring and observability
+description: "Monitoring for Claude: monitoring and observability"
 category: ai
 tags: [claude-monitoring, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: accelerate-quantization
-description: Quantization with Accelerate. model quantization.
+description: "Quantization with Accelerate. model quantization."
 category: ai
 tags: [accelerate-quantization, ai, russian]
 models: [sonnet, opus]

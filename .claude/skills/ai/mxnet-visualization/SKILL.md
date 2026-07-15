@@ -1,6 +1,6 @@
 ---
 name: mxnet-visualization
-description: Visualization with Mxnet. model viz.
+description: "Visualization with Mxnet. model viz."
 category: ai
 tags: [mxnet, visualization, ai, deep-learning]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: codeigniter-routing
-description: Routing with CodeIgniter. HTTP routing.
+description: "Routing with CodeIgniter. HTTP routing."
 category: backend
 tags: [codeigniter-routing, backend, russian]
 models: [sonnet, opus]

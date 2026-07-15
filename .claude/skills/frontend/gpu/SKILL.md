@@ -1,6 +1,6 @@
 ---
 name: gpu
-description: Development with Gpu: tools and best practices
+description: "Development with Gpu: tools and best practices"
 category: frontend
 tags: [gpu, frontend, development]
 models: [sonnet, opus]

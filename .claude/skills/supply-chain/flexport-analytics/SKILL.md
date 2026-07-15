@@ -1,6 +1,6 @@
 ---
 name: flexport-analytics
-description: Analytics with Flexport. analytics.
+description: "Analytics with Flexport. analytics."
 category: supply-chain
 tags: [flexport, analytics, supply-chain, logistics]
 models: [gpt-4, claude-3]

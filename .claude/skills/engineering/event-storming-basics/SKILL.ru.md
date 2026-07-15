@@ -1,6 +1,6 @@
 ---
 name: event-storming-basics
-description: Basics with Event Storming. fundamentals.
+description: "Basics with Event Storming. fundamentals."
 category: engineering
 tags: [event-storming-basics, engineering, russian]
 models: [sonnet, opus]

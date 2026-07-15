@@ -1,6 +1,6 @@
 ---
 name: databricks-testing
-description: Testing for Databricks: testing and validation
+description: "Testing for Databricks: testing and validation"
 category: data
 tags: [databricks-testing, data, russian]
 models: [sonnet, opus]

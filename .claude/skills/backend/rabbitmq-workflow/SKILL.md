@@ -1,6 +1,6 @@
 ---
 name: rabbitmq-workflow
-description: Workflow for Rabbitmq: workflow optimization
+description: "Workflow for Rabbitmq: workflow optimization"
 category: backend
 tags: [rabbitmq, workflow, backend]
 models: [sonnet, opus]

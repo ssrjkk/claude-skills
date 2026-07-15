@@ -1,6 +1,6 @@
 ---
 name: vendure-analytics
-description: Analytics with Vendure. analytics.
+description: "Analytics with Vendure. analytics."
 category: ecommerce
 tags: [vendure-analytics, ecommerce, russian]
 models: [sonnet, opus]

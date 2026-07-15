@@ -1,6 +1,6 @@
 ---
 name: oauth-basics
-description: Basics for Oauth: fundamentals and core concepts
+description: "Basics for Oauth: fundamentals and core concepts"
 category: security
 tags: [oauth, basics, security]
 models: [sonnet, opus]

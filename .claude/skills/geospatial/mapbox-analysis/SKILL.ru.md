@@ -1,6 +1,6 @@
 ---
 name: mapbox-analysis
-description: Analysis with Mapbox. spatial analysis.
+description: "Analysis with Mapbox. spatial analysis."
 category: geospatial
 tags: [mapbox-analysis, geospatial, russian]
 models: [sonnet, opus]

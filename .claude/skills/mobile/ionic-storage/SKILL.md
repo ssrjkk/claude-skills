@@ -1,6 +1,6 @@
 ---
 name: ionic-storage
-description: Storage with Ionic. local storage.
+description: "Storage with Ionic. local storage."
 category: mobile
 tags: [ionic, storage, mobile, mobile]
 models: [gpt-4, claude-3]

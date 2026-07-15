@@ -1,6 +1,6 @@
 ---
 name: minitest-parameterization
-description: Parameterization with Minitest. parametrized tests.
+description: "Parameterization with Minitest. parametrized tests."
 category: qa
 tags: [minitest, parameterization, qa, testing]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: suse-processes
-description: Processes with SUSE. process management.
+description: "Processes with SUSE. process management."
 category: os-admin
 tags: [suse-processes, os-admin, russian]
 models: [sonnet, opus]

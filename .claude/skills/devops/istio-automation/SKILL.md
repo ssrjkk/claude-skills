@@ -1,6 +1,6 @@
 ---
 name: istio-automation
-description: Automation for Istio: automation and scripting
+description: "Automation for Istio: automation and scripting"
 category: devops
 tags: [istio, automation, devops]
 models: [sonnet, opus]

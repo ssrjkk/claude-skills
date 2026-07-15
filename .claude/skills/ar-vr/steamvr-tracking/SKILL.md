@@ -1,6 +1,6 @@
 ---
 name: steamvr-tracking
-description: Tracking with SteamVR. spatial tracking.
+description: "Tracking with SteamVR. spatial tracking."
 category: ar-vr
 tags: [steamvr, tracking, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

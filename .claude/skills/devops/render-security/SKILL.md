@@ -1,6 +1,6 @@
 ---
 name: render-security
-description: Security with Render. cloud security.
+description: "Security with Render. cloud security."
 category: devops
 tags: [render, security, devops, cloud]
 models: [gpt-4, claude-3]

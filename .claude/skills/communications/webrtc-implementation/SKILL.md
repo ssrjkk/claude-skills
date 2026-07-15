@@ -1,6 +1,6 @@
 ---
 name: webrtc-implementation
-description: Implementation with WebRTC. implementation.
+description: "Implementation with WebRTC. implementation."
 category: communications
 tags: [webrtc, implementation, communications, communication-protocol]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: marvin-agents
-description: Agents with Marvin. building agents.
+description: "Agents with Marvin. building agents."
 category: ai
 tags: [marvin-agents, ai, russian]
 models: [sonnet, opus]

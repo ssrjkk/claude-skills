@@ -1,6 +1,6 @@
 ---
 name: backlight-design-system
-description: Design Systems with Backlight. tokens.
+description: "Design Systems with Backlight. tokens."
 category: design
 tags: [backlight-design-system, design, russian]
 models: [sonnet, opus]

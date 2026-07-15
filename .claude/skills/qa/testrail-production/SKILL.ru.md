@@ -1,6 +1,6 @@
 ---
 name: testrail-production
-description: Production for Testrail: production deployment
+description: "Production for Testrail: production deployment"
 category: qa
 tags: [testrail-production, qa, russian]
 models: [sonnet, opus]

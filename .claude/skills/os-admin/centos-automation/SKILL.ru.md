@@ -1,6 +1,6 @@
 ---
 name: centos-automation
-description: Automation with CentOS. scripting.
+description: "Automation with CentOS. scripting."
 category: os-admin
 tags: [centos-automation, os-admin, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mxnet-checkpointing
-description: Checkpointing with Mxnet. model saving.
+description: "Checkpointing with Mxnet. model saving."
 category: ai
 tags: [mxnet, checkpointing, ai, deep-learning]
 models: [gpt-4, claude-3]

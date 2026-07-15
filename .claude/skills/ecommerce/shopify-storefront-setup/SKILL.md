@@ -1,6 +1,6 @@
 ---
 name: shopify-storefront-setup
-description: Setup with Shopify Storefront. setup.
+description: "Setup with Shopify Storefront. setup."
 category: ecommerce
 tags: [shopify-storefront, setup, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

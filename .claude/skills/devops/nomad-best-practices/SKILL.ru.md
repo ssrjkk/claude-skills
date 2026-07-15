@@ -1,6 +1,6 @@
 ---
 name: nomad-best-practices
-description: Best Practices for Nomad: best practices and patterns
+description: "Best Practices for Nomad: best practices and patterns"
 category: devops
 tags: [nomad-best-practices, devops, russian]
 models: [sonnet, opus]

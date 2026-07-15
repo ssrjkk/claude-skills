@@ -1,6 +1,6 @@
 ---
 name: hono
-description: Creates lightweight, fast web APIs with Hono, supporting Cloudflare Workers, Deno, Bun, and Node.js. Use for edge-compatible APIs.
+description: "Creates lightweight, fast web APIs with Hono, supporting Cloudflare Workers, Deno, Bun, and Node.js. Use for edge-compatible APIs."
 category: backend
 tags: [hono, backend, russian]
 models: [sonnet, opus]

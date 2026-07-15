@@ -1,6 +1,6 @@
 ---
 name: flask-testing
-description: Testing with Flask. integration tests.
+description: "Testing with Flask. integration tests."
 category: backend
 tags: [flask, testing, backend, backend]
 models: [gpt-4, claude-3]

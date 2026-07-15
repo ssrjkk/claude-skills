@@ -1,6 +1,6 @@
 ---
 name: nrf52-pwm
-description: PWM with nRF52. PWM signals.
+description: "PWM with nRF52. PWM signals."
 category: iot
 tags: [nrf52-pwm, iot, russian]
 models: [sonnet, opus]

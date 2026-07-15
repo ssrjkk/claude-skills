@@ -1,6 +1,6 @@
 ---
 name: junit-deployment
-description: Deployment for Junit: deployment and release
+description: "Deployment for Junit: deployment and release"
 category: qa
 tags: [junit, deployment, qa]
 models: [sonnet, opus]

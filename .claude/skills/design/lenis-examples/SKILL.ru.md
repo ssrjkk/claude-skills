@@ -1,6 +1,6 @@
 ---
 name: lenis-examples
-description: Examples for Lenis: practical examples
+description: "Examples for Lenis: practical examples"
 category: design
 tags: [lenis-examples, design, russian]
 models: [sonnet, opus]

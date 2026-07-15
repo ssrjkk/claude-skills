@@ -1,6 +1,6 @@
 ---
 name: laminas-routing
-description: Routing with Laminas. HTTP routing.
+description: "Routing with Laminas. HTTP routing."
 category: backend
 tags: [laminas, routing, backend, backend]
 models: [gpt-4, claude-3]

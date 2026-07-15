@@ -1,6 +1,6 @@
 ---
 name: brightspace-integration
-description: Integration with Brightspace. LTI.
+description: "Integration with Brightspace. LTI."
 category: education
 tags: [brightspace, integration, education, education-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: airflow-streaming
-description: Streaming with Airflow. real-time.
+description: "Streaming with Airflow. real-time."
 category: data
 tags: [airflow, streaming, data, data-engineering]
 models: [gpt-4, claude-3]

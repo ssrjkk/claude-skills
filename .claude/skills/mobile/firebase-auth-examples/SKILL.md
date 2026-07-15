@@ -1,6 +1,6 @@
 ---
 name: firebase-auth-examples
-description: Examples for Firebase-Auth: practical examples
+description: "Examples for Firebase-Auth: practical examples"
 category: mobile
 tags: [firebase-auth, examples, mobile]
 models: [sonnet, opus]

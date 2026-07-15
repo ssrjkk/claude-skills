@@ -1,6 +1,6 @@
 ---
 name: fastly-security
-description: Security with Fastly. cloud security.
+description: "Security with Fastly. cloud security."
 category: devops
 tags: [fastly, security, devops, cloud]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: azure-iot-security
-description: Security with Azure IoT. device security.
+description: "Security with Azure IoT. device security."
 category: iot
 tags: [azure-iot, security, iot, iot-platform]
 models: [gpt-4, claude-3]

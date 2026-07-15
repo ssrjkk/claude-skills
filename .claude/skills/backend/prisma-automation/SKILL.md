@@ -1,6 +1,6 @@
 ---
 name: prisma-automation
-description: Automation for Prisma: automation and scripting
+description: "Automation for Prisma: automation and scripting"
 category: backend
 tags: [prisma, automation, backend]
 models: [sonnet, opus]

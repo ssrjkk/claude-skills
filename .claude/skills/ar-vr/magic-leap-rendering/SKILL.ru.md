@@ -1,6 +1,6 @@
 ---
 name: magic-leap-rendering
-description: Rendering with Magic Leap. stereoscopic.
+description: "Rendering with Magic Leap. stereoscopic."
 category: ar-vr
 tags: [magic-leap-rendering, ar-vr, russian]
 models: [sonnet, opus]

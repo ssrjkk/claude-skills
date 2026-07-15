@@ -1,6 +1,6 @@
 ---
 name: pinecone-troubleshooting
-description: Troubleshooting for Pinecone: troubleshooting common issues
+description: "Troubleshooting for Pinecone: troubleshooting common issues"
 category: ai
 tags: [pinecone, troubleshooting, ai]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gstreamer-analytics
-description: Analytics with GStreamer. analytics.
+description: "Analytics with GStreamer. analytics."
 category: media
 tags: [gstreamer, analytics, media, media-streaming]
 models: [gpt-4, claude-3]

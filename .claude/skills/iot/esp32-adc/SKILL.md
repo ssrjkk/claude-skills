@@ -1,6 +1,6 @@
 ---
 name: esp32-adc
-description: ADC with ESP32. analog input.
+description: "ADC with ESP32. analog input."
 category: iot
 tags: [esp32, adc, iot, iot]
 models: [gpt-4, claude-3]

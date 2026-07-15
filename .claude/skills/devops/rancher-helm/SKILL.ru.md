@@ -1,6 +1,6 @@
 ---
 name: rancher-helm
-description: Helm with Rancher. package management.
+description: "Helm with Rancher. package management."
 category: devops
 tags: [rancher-helm, devops, russian]
 models: [sonnet, opus]

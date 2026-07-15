@@ -1,6 +1,6 @@
 ---
 name: backlight-export
-description: Export with Backlight. assets.
+description: "Export with Backlight. assets."
 category: design
 tags: [backlight-export, design, russian]
 models: [sonnet, opus]

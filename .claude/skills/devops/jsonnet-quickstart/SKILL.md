@@ -1,6 +1,6 @@
 ---
 name: jsonnet-quickstart
-description: Quickstart for Jsonnet: quick start guide
+description: "Quickstart for Jsonnet: quick start guide"
 category: devops
 tags: [jsonnet, quickstart, devops]
 models: [sonnet, opus]

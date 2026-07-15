@@ -1,6 +1,6 @@
 ---
 name: portfolio-risk
-description: Risk with Portfolio Management. risk analysis.
+description: "Risk with Portfolio Management. risk analysis."
 category: finance
 tags: [portfolio-risk, finance, russian]
 models: [sonnet, opus]

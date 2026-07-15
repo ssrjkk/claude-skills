@@ -1,6 +1,6 @@
 ---
 name: edx-courses
-description: Courses with Open edX. course creation.
+description: "Courses with Open edX. course creation."
 category: education
 tags: [edx-courses, education, russian]
 models: [sonnet, opus]

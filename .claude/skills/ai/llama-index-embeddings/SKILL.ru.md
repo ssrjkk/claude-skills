@@ -1,6 +1,6 @@
 ---
 name: llama-index-embeddings
-description: Embeddings with Llama Index. text embeddings.
+description: "Embeddings with Llama Index. text embeddings."
 category: ai
 tags: [llama-index-embeddings, ai, russian]
 models: [sonnet, opus]

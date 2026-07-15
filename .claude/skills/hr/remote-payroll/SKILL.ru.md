@@ -1,6 +1,6 @@
 ---
 name: remote-payroll
-description: Payroll with Remote.com. payroll.
+description: "Payroll with Remote.com. payroll."
 category: hr
 tags: [remote-payroll, hr, russian]
 models: [sonnet, opus]

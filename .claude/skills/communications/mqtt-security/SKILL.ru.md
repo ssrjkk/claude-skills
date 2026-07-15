@@ -1,6 +1,6 @@
 ---
 name: mqtt-security
-description: Security with MQTT. security.
+description: "Security with MQTT. security."
 category: communications
 tags: [mqtt-security, communications, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sqlite-deployment
-description: Deployment for Sqlite: deployment and release
+description: "Deployment for Sqlite: deployment and release"
 category: database
 tags: [sqlite-deployment, database, russian]
 models: [sonnet, opus]

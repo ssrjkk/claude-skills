@@ -1,6 +1,6 @@
 ---
 name: voip-setup
-description: Setup with VoIP. setup.
+description: "Setup with VoIP. setup."
 category: communications
 tags: [voip-setup, communications, russian]
 models: [sonnet, opus]

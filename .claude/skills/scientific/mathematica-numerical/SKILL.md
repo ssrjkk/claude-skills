@@ -1,6 +1,6 @@
 ---
 name: mathematica-numerical
-description: Numerical with Mathematica. numerical methods.
+description: "Numerical with Mathematica. numerical methods."
 category: scientific
 tags: [mathematica, numerical, scientific, scientific-computing]
 models: [gpt-4, claude-3]

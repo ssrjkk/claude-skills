@@ -1,6 +1,6 @@
 ---
 name: react-aria-examples
-description: Examples for React-Aria: practical examples
+description: "Examples for React-Aria: practical examples"
 category: frontend
 tags: [react-aria, examples, frontend]
 models: [sonnet, opus]

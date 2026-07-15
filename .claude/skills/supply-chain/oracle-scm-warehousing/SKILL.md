@@ -1,6 +1,6 @@
 ---
 name: oracle-scm-warehousing
-description: Warehousing with Oracle SCM. WMS.
+description: "Warehousing with Oracle SCM. WMS."
 category: supply-chain
 tags: [oracle-scm, warehousing, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

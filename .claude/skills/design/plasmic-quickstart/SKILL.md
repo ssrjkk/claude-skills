@@ -1,6 +1,6 @@
 ---
 name: plasmic-quickstart
-description: Quickstart for Plasmic: quick start guide
+description: "Quickstart for Plasmic: quick start guide"
 category: design
 tags: [plasmic, quickstart, design]
 models: [sonnet, opus]

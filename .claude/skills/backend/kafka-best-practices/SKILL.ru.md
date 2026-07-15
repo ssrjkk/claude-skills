@@ -1,6 +1,6 @@
 ---
 name: kafka-best-practices
-description: Best Practices for Kafka: best practices and patterns
+description: "Best Practices for Kafka: best practices and patterns"
 category: backend
 tags: [kafka-best-practices, backend, russian]
 models: [sonnet, opus]

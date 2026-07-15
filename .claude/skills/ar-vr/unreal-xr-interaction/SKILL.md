@@ -1,6 +1,6 @@
 ---
 name: unreal-xr-interaction
-description: Interaction with Unreal XR. hand tracking.
+description: "Interaction with Unreal XR. hand tracking."
 category: ar-vr
 tags: [unreal-xr, interaction, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

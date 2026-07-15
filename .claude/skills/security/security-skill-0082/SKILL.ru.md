@@ -1,6 +1,6 @@
 ---
 name: security-skill-0082
-description: Specialized skill #0082 for security development
+description: "Specialized skill #0082 for security development"
 category: security
 tags: [skill-0082, security, russian]
 models: [sonnet, opus]

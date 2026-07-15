@@ -1,6 +1,6 @@
 ---
 name: spark-basics
-description: Basics for Spark: fundamentals and core concepts
+description: "Basics for Spark: fundamentals and core concepts"
 category: data
 tags: [spark-basics, data, russian]
 models: [sonnet, opus]

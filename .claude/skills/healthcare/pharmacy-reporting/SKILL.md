@@ -1,6 +1,6 @@
 ---
 name: pharmacy-reporting
-description: Reporting with Pharmacy Systems. reports.
+description: "Reporting with Pharmacy Systems. reports."
 category: healthcare
 tags: [pharmacy, reporting, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: checkov-configuration
-description: Configuration for Checkov: configuration and setup
+description: "Configuration for Checkov: configuration and setup"
 category: security
 tags: [checkov-configuration, security, russian]
 models: [sonnet, opus]

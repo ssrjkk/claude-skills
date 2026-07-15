@@ -1,6 +1,6 @@
 ---
 name: dash-protection
-description: Protection with MPEG-DASH. DRM.
+description: "Protection with MPEG-DASH. DRM."
 category: media
 tags: [dash, protection, media, media-streaming]
 models: [gpt-4, claude-3]

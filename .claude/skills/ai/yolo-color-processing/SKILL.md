@@ -1,6 +1,6 @@
 ---
 name: yolo-color-processing
-description: Color Processing with Yolo. color manipulation.
+description: "Color Processing with Yolo. color manipulation."
 category: ai
 tags: [yolo, color-processing, ai, computer-vision]
 models: [gpt-4, claude-3]

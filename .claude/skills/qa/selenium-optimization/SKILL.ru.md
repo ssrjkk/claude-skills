@@ -1,6 +1,6 @@
 ---
 name: selenium-optimization
-description: Optimization for Selenium: performance tuning and optimization
+description: "Optimization for Selenium: performance tuning and optimization"
 category: qa
 tags: [selenium-optimization, qa, russian]
 models: [sonnet, opus]

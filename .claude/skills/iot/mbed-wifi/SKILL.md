@@ -1,6 +1,6 @@
 ---
 name: mbed-wifi
-description: WiFi with Mbed OS. wireless.
+description: "WiFi with Mbed OS. wireless."
 category: iot
 tags: [mbed, wifi, iot, iot]
 models: [gpt-4, claude-3]

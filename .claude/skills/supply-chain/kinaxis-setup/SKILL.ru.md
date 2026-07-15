@@ -1,6 +1,6 @@
 ---
 name: kinaxis-setup
-description: Setup with Kinaxis. setup.
+description: "Setup with Kinaxis. setup."
 category: supply-chain
 tags: [kinaxis-setup, supply-chain, russian]
 models: [sonnet, opus]

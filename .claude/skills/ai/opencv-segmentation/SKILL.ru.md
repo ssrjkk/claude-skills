@@ -1,6 +1,6 @@
 ---
 name: opencv-segmentation
-description: Segmentation with Opencv. image segmentation.
+description: "Segmentation with Opencv. image segmentation."
 category: ai
 tags: [opencv-segmentation, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: zod-production
-description: Production for Zod: production deployment
+description: "Production for Zod: production deployment"
 category: frontend
 tags: [zod-production, frontend, russian]
 models: [sonnet, opus]

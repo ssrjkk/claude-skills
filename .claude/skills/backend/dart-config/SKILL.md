@@ -1,6 +1,6 @@
 ---
 name: dart-config
-description: Configuration with Dart. config management.
+description: "Configuration with Dart. config management."
 category: backend
 tags: [dart, config, backend, backend]
 models: [gpt-4, claude-3]

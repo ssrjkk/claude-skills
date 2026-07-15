@@ -1,6 +1,6 @@
 ---
 name: defold-ui
-description: UI with Defold. game UI.
+description: "UI with Defold. game UI."
 category: gamedev
 tags: [defold, ui, gamedev, game-engine]
 models: [gpt-4, claude-3]

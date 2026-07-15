@@ -1,6 +1,6 @@
 ---
 name: arangodb-graph-querying
-description: Querying with ArangoDB Graph. Cypher/Gremlin.
+description: "Querying with ArangoDB Graph. Cypher/Gremlin."
 category: database
 tags: [arangodb-graph-querying, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: windows-update-monitoring
-description: Monitoring with Windows Update. monitoring.
+description: "Monitoring with Windows Update. monitoring."
 category: os-admin
 tags: [windows-update-monitoring, os-admin, russian]
 models: [sonnet, opus]

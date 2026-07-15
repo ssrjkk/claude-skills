@@ -1,6 +1,6 @@
 ---
 name: csharp-testing
-description: Testing with Csharp. writing tests.
+description: "Testing with Csharp. writing tests."
 category: backend
 tags: [csharp, testing, backend, backend]
 models: [gpt-4, claude-3]

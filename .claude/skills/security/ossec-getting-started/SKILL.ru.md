@@ -1,6 +1,6 @@
 ---
 name: ossec-getting-started
-description: Getting Started for Ossec: initial setup and first steps
+description: "Getting Started for Ossec: initial setup and first steps"
 category: security
 tags: [ossec-getting-started, security, russian]
 models: [sonnet, opus]

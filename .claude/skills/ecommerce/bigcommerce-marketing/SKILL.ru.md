@@ -1,6 +1,6 @@
 ---
 name: bigcommerce-marketing
-description: Marketing with BigCommerce. marketing.
+description: "Marketing with BigCommerce. marketing."
 category: ecommerce
 tags: [bigcommerce-marketing, ecommerce, russian]
 models: [sonnet, opus]

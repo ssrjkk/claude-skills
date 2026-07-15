@@ -1,6 +1,6 @@
 ---
 name: wxwidgets-native
-description: Native with wxWidgets. native APIs.
+description: "Native with wxWidgets. native APIs."
 category: desktop
 tags: [wxwidgets-native, desktop, russian]
 models: [sonnet, opus]

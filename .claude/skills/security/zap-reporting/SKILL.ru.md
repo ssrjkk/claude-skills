@@ -1,6 +1,6 @@
 ---
 name: zap-reporting
-description: Reporting with ZAP. reports.
+description: "Reporting with ZAP. reports."
 category: security
 tags: [zap-reporting, security, russian]
 models: [sonnet, opus]

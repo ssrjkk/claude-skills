@@ -1,6 +1,6 @@
 ---
 name: smart-meter-implementation
-description: Implementation with Smart Metering. deployment.
+description: "Implementation with Smart Metering. deployment."
 category: energy
 tags: [smart-meter-implementation, energy, russian]
 models: [sonnet, opus]

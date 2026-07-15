@@ -1,6 +1,6 @@
 ---
 name: active-directory-monitoring
-description: Monitoring with Active Directory. monitoring.
+description: "Monitoring with Active Directory. monitoring."
 category: os-admin
 tags: [active-directory, monitoring, os-admin, windows]
 models: [gpt-4, claude-3]

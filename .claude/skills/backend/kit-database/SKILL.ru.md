@@ -1,6 +1,6 @@
 ---
 name: kit-database
-description: Database with Go Kit. DB access.
+description: "Database with Go Kit. DB access."
 category: backend
 tags: [kit-database, backend, russian]
 models: [sonnet, opus]

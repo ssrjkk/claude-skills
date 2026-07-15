@@ -1,6 +1,6 @@
 ---
 name: safe-facilitation
-description: Facilitation with SAFe. sessions.
+description: "Facilitation with SAFe. sessions."
 category: product
 tags: [safe-facilitation, product, russian]
 models: [sonnet, opus]

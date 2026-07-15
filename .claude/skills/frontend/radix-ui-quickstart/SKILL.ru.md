@@ -1,6 +1,6 @@
 ---
 name: radix-ui-quickstart
-description: Quickstart for Radix-Ui: quick start guide
+description: "Quickstart for Radix-Ui: quick start guide"
 category: frontend
 tags: [radix-ui-quickstart, frontend, russian]
 models: [sonnet, opus]

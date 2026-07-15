@@ -1,6 +1,6 @@
 ---
 name: plaid-compliance
-description: Compliance with Plaid. compliance.
+description: "Compliance with Plaid. compliance."
 category: finance
 tags: [plaid-compliance, finance, russian]
 models: [sonnet, opus]

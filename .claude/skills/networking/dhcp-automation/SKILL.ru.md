@@ -1,6 +1,6 @@
 ---
 name: dhcp-automation
-description: Automation with DHCP. network automation.
+description: "Automation with DHCP. network automation."
 category: networking
 tags: [dhcp-automation, networking, russian]
 models: [sonnet, opus]

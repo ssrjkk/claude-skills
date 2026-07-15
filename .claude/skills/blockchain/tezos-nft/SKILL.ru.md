@@ -1,6 +1,6 @@
 ---
 name: tezos-nft
-description: NFT with Tezos. tokens.
+description: "NFT with Tezos. tokens."
 category: blockchain
 tags: [tezos-nft, blockchain, russian]
 models: [sonnet, opus]

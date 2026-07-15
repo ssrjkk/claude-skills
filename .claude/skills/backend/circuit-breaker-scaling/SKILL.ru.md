@@ -1,6 +1,6 @@
 ---
 name: circuit-breaker-scaling
-description: Scaling with Circuit Breaker. scaling considerations.
+description: "Scaling with Circuit Breaker. scaling considerations."
 category: backend
 tags: [circuit-breaker-scaling, backend, russian]
 models: [sonnet, opus]

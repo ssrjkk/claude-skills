@@ -1,6 +1,6 @@
 ---
 name: loinc-testing
-description: Testing with LOINC. testing.
+description: "Testing with LOINC. testing."
 category: healthcare
 tags: [loinc, testing, healthcare, healthcare]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: mqtt-testing
-description: Testing with MQTT. testing.
+description: "Testing with MQTT. testing."
 category: communications
 tags: [mqtt-testing, communications, russian]
 models: [sonnet, opus]

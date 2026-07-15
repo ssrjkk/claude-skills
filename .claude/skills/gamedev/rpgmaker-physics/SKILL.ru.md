@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-physics
-description: Physics with RPG Maker. physics.
+description: "Physics with RPG Maker. physics."
 category: gamedev
 tags: [rpgmaker-physics, gamedev, russian]
 models: [sonnet, opus]

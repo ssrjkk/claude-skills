@@ -1,6 +1,6 @@
 ---
 name: godot-setup
-description: Setup with Godot. engine setup.
+description: "Setup with Godot. engine setup."
 category: gamedev
 tags: [godot, setup, gamedev, game-engine]
 models: [gpt-4, claude-3]

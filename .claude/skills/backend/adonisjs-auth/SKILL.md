@@ -1,6 +1,6 @@
 ---
 name: adonisjs-auth
-description: Auth with AdonisJS. JWT.
+description: "Auth with AdonisJS. JWT."
 category: backend
 tags: [adonisjs, auth, backend, backend]
 models: [gpt-4, claude-3]

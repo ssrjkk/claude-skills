@@ -1,6 +1,6 @@
 ---
 name: workday-recruiting
-description: Recruiting with Workday. ATS.
+description: "Recruiting with Workday. ATS."
 category: hr
 tags: [workday, recruiting, hr, hr-tech]
 models: [gpt-4, claude-3]

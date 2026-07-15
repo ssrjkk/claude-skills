@@ -1,6 +1,6 @@
 ---
 name: docusaurus-isr
-description: ISR with Docusaurus. incremental.
+description: "ISR with Docusaurus. incremental."
 category: frontend
 tags: [docusaurus-isr, frontend, russian]
 models: [sonnet, opus]

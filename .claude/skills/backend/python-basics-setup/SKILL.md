@@ -1,6 +1,6 @@
 ---
 name: python-basics-setup
-description: Master Python fundamentals — installation, environment setup, basic syntax, and first programs
+description: "Master Python fundamentals — installation, environment setup, basic syntax, and first programs"
 category: backend
 tags: [python, programming, fundamentals, beginner, setup]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: telegram-bot-voice
-description: Voice with Telegram Bot. voice calls.
+description: "Voice with Telegram Bot. voice calls."
 category: communications
 tags: [telegram-bot, voice, communications, communication-platform]
 models: [gpt-4, claude-3]

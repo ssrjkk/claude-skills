@@ -1,6 +1,6 @@
 ---
 name: roadmap-metrics
-description: Metrics with Roadmapping. measurement.
+description: "Metrics with Roadmapping. measurement."
 category: product
 tags: [roadmap-metrics, product, russian]
 models: [sonnet, opus]

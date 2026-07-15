@@ -1,6 +1,6 @@
 ---
 name: dgraph-clustering
-description: Clustering with Dgraph. clustering.
+description: "Clustering with Dgraph. clustering."
 category: database
 tags: [dgraph-clustering, database, russian]
 models: [sonnet, opus]

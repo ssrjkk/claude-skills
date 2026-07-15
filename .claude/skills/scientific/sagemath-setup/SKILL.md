@@ -1,6 +1,6 @@
 ---
 name: sagemath-setup
-description: Setup with SageMath. installation.
+description: "Setup with SageMath. installation."
 category: scientific
 tags: [sagemath, setup, scientific, scientific-computing]
 models: [gpt-4, claude-3]

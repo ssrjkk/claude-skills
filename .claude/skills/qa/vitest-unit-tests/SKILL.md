@@ -1,6 +1,6 @@
 ---
 name: vitest-unit-tests
-description: Unit Tests with Vitest. unit testing.
+description: "Unit Tests with Vitest. unit testing."
 category: qa
 tags: [vitest, unit-tests, qa, testing]
 models: [gpt-4, claude-3]

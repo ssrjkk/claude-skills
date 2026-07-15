@@ -1,6 +1,6 @@
 ---
 name: plc-security
-description: Security with PLC Programming. security.
+description: "Security with PLC Programming. security."
 category: energy
 tags: [plc-security, energy, russian]
 models: [sonnet, opus]

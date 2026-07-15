@@ -1,6 +1,6 @@
 ---
 name: tauri-events
-description: Events with Tauri. event handling.
+description: "Events with Tauri. event handling."
 category: desktop
 tags: [tauri-events, desktop, russian]
 models: [sonnet, opus]

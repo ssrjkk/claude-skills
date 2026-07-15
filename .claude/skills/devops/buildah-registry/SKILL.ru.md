@@ -1,6 +1,6 @@
 ---
 name: buildah-registry
-description: Registry with Buildah. image registry.
+description: "Registry with Buildah. image registry."
 category: devops
 tags: [buildah-registry, devops, russian]
 models: [sonnet, opus]

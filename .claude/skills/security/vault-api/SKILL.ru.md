@@ -1,6 +1,6 @@
 ---
 name: vault-api
-description: API for Vault: API development and integration
+description: "API for Vault: API development and integration"
 category: security
 tags: [vault-api, security, russian]
 models: [sonnet, opus]

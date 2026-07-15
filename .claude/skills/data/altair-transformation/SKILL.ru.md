@@ -1,6 +1,6 @@
 ---
 name: altair-transformation
-description: Transformation with Altair. transform.
+description: "Transformation with Altair. transform."
 category: data
 tags: [altair-transformation, data, russian]
 models: [sonnet, opus]

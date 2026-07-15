@@ -1,6 +1,6 @@
 ---
 name: brightspace-courses
-description: Courses with Brightspace. course creation.
+description: "Courses with Brightspace. course creation."
 category: education
 tags: [brightspace, courses, education, education-platform]
 models: [gpt-4, claude-3]

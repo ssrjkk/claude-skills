@@ -1,6 +1,6 @@
 ---
 name: tailwind-merge-intro
-description: Intro for Tailwind-Merge: introduction
+description: "Intro for Tailwind-Merge: introduction"
 category: frontend
 tags: [tailwind-merge, intro, frontend]
 models: [sonnet, opus]

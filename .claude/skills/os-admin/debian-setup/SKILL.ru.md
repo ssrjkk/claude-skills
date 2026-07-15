@@ -1,6 +1,6 @@
 ---
 name: debian-setup
-description: Setup with Debian. installation.
+description: "Setup with Debian. installation."
 category: os-admin
 tags: [debian-setup, os-admin, russian]
 models: [sonnet, opus]

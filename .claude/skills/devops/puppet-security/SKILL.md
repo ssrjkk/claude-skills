@@ -1,6 +1,6 @@
 ---
 name: puppet-security
-description: Security with Puppet. security groups.
+description: "Security with Puppet. security groups."
 category: devops
 tags: [puppet, security, devops, iac]
 models: [gpt-4, claude-3]

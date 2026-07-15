@@ -1,6 +1,6 @@
 ---
 name: api-design-team
-description: Team with API Design. team adoption.
+description: "Team with API Design. team adoption."
 category: engineering
 tags: [api-design, team, engineering, engineering]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: unity-scripting
-description: Scripting with Unity. game logic.
+description: "Scripting with Unity. game logic."
 category: gamedev
 tags: [unity, scripting, gamedev, game-engine]
 models: [gpt-4, claude-3]

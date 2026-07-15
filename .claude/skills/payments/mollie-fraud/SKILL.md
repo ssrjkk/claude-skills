@@ -1,6 +1,6 @@
 ---
 name: mollie-fraud
-description: Fraud with Mollie. fraud detection.
+description: "Fraud with Mollie. fraud detection."
 category: payments
 tags: [mollie, fraud, payments, payments]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: prompt-chaining
-description: Multi-step prompt chaining strategies
+description: "Multi-step prompt chaining strategies"
 category: ai
 tags: [prompt-chaining, ai, russian]
 models: [sonnet, opus]

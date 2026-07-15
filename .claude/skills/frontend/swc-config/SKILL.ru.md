@@ -1,6 +1,6 @@
 ---
 name: swc-config
-description: Config with SWC. configuration.
+description: "Config with SWC. configuration."
 category: frontend
 tags: [swc-config, frontend, russian]
 models: [sonnet, opus]

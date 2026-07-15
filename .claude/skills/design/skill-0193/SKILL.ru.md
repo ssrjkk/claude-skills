@@ -1,6 +1,6 @@
 ---
 name: skill-0193
-description: Specialized skill #0193 for design development
+description: "Specialized skill #0193 for design development"
 category: design
 tags: [skill-0193, design, russian]
 models: [sonnet, opus]

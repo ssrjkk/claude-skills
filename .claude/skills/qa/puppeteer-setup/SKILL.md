@@ -1,6 +1,6 @@
 ---
 name: puppeteer-setup
-description: Setup with Puppeteer. installation.
+description: "Setup with Puppeteer. installation."
 category: qa
 tags: [puppeteer, setup, qa, e2e]
 models: [gpt-4, claude-3]

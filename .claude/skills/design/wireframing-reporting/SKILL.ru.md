@@ -1,6 +1,6 @@
 ---
 name: wireframing-reporting
-description: Reporting with Wireframing. reports.
+description: "Reporting with Wireframing. reports."
 category: design
 tags: [wireframing-reporting, design, russian]
 models: [sonnet, opus]

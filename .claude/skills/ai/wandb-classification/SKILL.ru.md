@@ -1,6 +1,6 @@
 ---
 name: wandb-classification
-description: Classification with Wandb. building classifiers.
+description: "Classification with Wandb. building classifiers."
 category: ai
 tags: [wandb-classification, ai, russian]
 models: [sonnet, opus]

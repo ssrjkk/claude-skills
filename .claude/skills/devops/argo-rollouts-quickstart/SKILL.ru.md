@@ -1,6 +1,6 @@
 ---
 name: argo-rollouts-quickstart
-description: Quickstart for Argo-Rollouts: quick start guide
+description: "Quickstart for Argo-Rollouts: quick start guide"
 category: devops
 tags: [argo-rollouts-quickstart, devops, russian]
 models: [sonnet, opus]

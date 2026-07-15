@@ -1,6 +1,6 @@
 ---
 name: pyramid-websocket
-description: WebSocket with Pyramid. real-time.
+description: "WebSocket with Pyramid. real-time."
 category: backend
 tags: [pyramid-websocket, backend, russian]
 models: [sonnet, opus]

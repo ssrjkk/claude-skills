@@ -1,6 +1,6 @@
 ---
 name: kafka-configuration
-description: Configuration for Kafka: configuration and setup
+description: "Configuration for Kafka: configuration and setup"
 category: backend
 tags: [kafka-configuration, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: rspec-ci
-description: CI with RSpec. CI integration.
+description: "CI with RSpec. CI integration."
 category: qa
 tags: [rspec, ci, qa, testing]
 models: [gpt-4, claude-3]

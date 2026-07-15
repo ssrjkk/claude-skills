@@ -1,6 +1,6 @@
 ---
 name: information-architecture-planning
-description: Planning with Information Architecture. study planning.
+description: "Planning with Information Architecture. study planning."
 category: design
 tags: [information-architecture-planning, design, russian]
 models: [sonnet, opus]

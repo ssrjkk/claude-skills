@@ -1,6 +1,6 @@
 ---
 name: textblob-lemmatization
-description: Lemmatization with Textblob. word lemmatization.
+description: "Lemmatization with Textblob. word lemmatization."
 category: ai
 tags: [textblob, lemmatization, ai, nlp]
 models: [gpt-4, claude-3]

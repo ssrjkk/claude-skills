@@ -1,6 +1,6 @@
 ---
 name: caffe2-training
-description: Training with Caffe2. training models.
+description: "Training with Caffe2. training models."
 category: ai
 tags: [caffe2, training, ai, deep-learning]
 models: [gpt-4, claude-3]

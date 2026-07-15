@@ -1,6 +1,6 @@
 ---
 name: onnx-guides
-description: Guides for Onnx: how-to guides
+description: "Guides for Onnx: how-to guides"
 category: ai
 tags: [onnx, guides, ai]
 models: [sonnet, opus]

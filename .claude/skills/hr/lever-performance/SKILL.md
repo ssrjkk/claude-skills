@@ -1,6 +1,6 @@
 ---
 name: lever-performance
-description: Performance with Lever. performance mgmt.
+description: "Performance with Lever. performance mgmt."
 category: hr
 tags: [lever, performance, hr, hr-tech]
 models: [gpt-4, claude-3]

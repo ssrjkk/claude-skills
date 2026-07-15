@@ -1,6 +1,6 @@
 ---
 name: tide-middleware
-description: Middleware with Tide. request pipeline.
+description: "Middleware with Tide. request pipeline."
 category: backend
 tags: [tide-middleware, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: echo-grpc
-description: gRPC with Echo. gRPC services.
+description: "gRPC with Echo. gRPC services."
 category: backend
 tags: [echo-grpc, backend, russian]
 models: [sonnet, opus]

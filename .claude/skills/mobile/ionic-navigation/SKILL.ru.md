@@ -1,6 +1,6 @@
 ---
 name: ionic-navigation
-description: Navigation with Ionic. navigation.
+description: "Navigation with Ionic. navigation."
 category: mobile
 tags: [ionic-navigation, mobile, russian]
 models: [sonnet, opus]

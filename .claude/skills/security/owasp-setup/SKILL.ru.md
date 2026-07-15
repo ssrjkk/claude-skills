@@ -1,6 +1,6 @@
 ---
 name: owasp-setup
-description: Setup for Owasp: installation and configuration
+description: "Setup for Owasp: installation and configuration"
 category: security
 tags: [owasp-setup, security, russian]
 models: [sonnet, opus]

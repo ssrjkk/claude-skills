@@ -1,6 +1,6 @@
 ---
 name: hbase-security
-description: Security with HBase. security.
+description: "Security with HBase. security."
 category: database
 tags: [hbase, security, database, nosql]
 models: [gpt-4, claude-3]

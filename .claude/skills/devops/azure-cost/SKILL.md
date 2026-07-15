@@ -1,6 +1,6 @@
 ---
 name: azure-cost
-description: Cost with Azure. cost optimization.
+description: "Cost with Azure. cost optimization."
 category: devops
 tags: [azure, cost, devops, cloud]
 models: [gpt-4, claude-3]

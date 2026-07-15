@@ -1,6 +1,6 @@
 ---
 name: contiki-timers
-description: Timers with Contiki-NG. software timers.
+description: "Timers with Contiki-NG. software timers."
 category: embedded
 tags: [contiki, timers, embedded, rtos]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: plasmic-examples
-description: Examples for Plasmic: practical examples
+description: "Examples for Plasmic: practical examples"
 category: design
 tags: [plasmic-examples, design, russian]
 models: [sonnet, opus]

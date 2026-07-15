@@ -1,6 +1,6 @@
 ---
 name: refactoring-best-practices
-description: Best Practices with Refactoring. tips.
+description: "Best Practices with Refactoring. tips."
 category: engineering
 tags: [refactoring-best-practices, engineering, russian]
 models: [sonnet, opus]

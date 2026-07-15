@@ -1,6 +1,6 @@
 ---
 name: bpmn-best-practices
-description: Best Practices with BPMN. practices.
+description: "Best Practices with BPMN. practices."
 category: engineering
 tags: [bpmn, best-practices, engineering, modeling]
 models: [gpt-4, claude-3]

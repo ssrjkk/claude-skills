@@ -1,6 +1,6 @@
 ---
 name: kotlin-api
-description: API for Kotlin: API development and integration
+description: "API for Kotlin: API development and integration"
 category: mobile
 tags: [kotlin, api, mobile]
 models: [sonnet, opus]

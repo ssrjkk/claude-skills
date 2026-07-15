@@ -1,6 +1,6 @@
 ---
 name: eleventy-data-fetching
-description: Data Fetching with Eleventy. data loading.
+description: "Data Fetching with Eleventy. data loading."
 category: frontend
 tags: [eleventy-data-fetching, frontend, russian]
 models: [sonnet, opus]

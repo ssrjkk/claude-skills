@@ -1,6 +1,6 @@
 ---
 name: express-database
-description: Database with Express. ORM.
+description: "Database with Express. ORM."
 category: backend
 tags: [express, database, backend, backend]
 models: [gpt-4, claude-3]

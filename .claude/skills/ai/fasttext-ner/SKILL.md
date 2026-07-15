@@ -1,6 +1,6 @@
 ---
 name: fasttext-ner
-description: NER with Fasttext. named entity recognition.
+description: "NER with Fasttext. named entity recognition."
 category: ai
 tags: [fasttext, ner, ai, nlp]
 models: [gpt-4, claude-3]

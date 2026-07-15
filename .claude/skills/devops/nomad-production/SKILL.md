@@ -1,6 +1,6 @@
 ---
 name: nomad-production
-description: Production for Nomad: production deployment
+description: "Production for Nomad: production deployment"
 category: devops
 tags: [nomad, production, devops]
 models: [sonnet, opus]

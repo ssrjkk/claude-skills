@@ -1,6 +1,6 @@
 ---
 name: itil-metrics
-description: Metrics with ITIL. measurement.
+description: "Metrics with ITIL. measurement."
 category: product
 tags: [itil, metrics, product, methodology]
 models: [gpt-4, claude-3]

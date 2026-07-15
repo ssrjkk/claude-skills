@@ -1,6 +1,6 @@
 ---
 name: turbopack-setup
-description: Setup with Turbopack. initial setup.
+description: "Setup with Turbopack. initial setup."
 category: frontend
 tags: [turbopack, setup, frontend, build-tool]
 models: [gpt-4, claude-3]

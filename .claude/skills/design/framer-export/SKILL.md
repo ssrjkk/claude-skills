@@ -1,6 +1,6 @@
 ---
 name: framer-export
-description: Export with Framer. assets.
+description: "Export with Framer. assets."
 category: design
 tags: [framer, export, design, design]
 models: [gpt-4, claude-3]

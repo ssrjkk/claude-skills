@@ -1,6 +1,6 @@
 ---
 name: nicegui-data
-description: Data with NiceGUI. data binding.
+description: "Data with NiceGUI. data binding."
 category: data
 tags: [nicegui, data, data, data-apps]
 models: [gpt-4, claude-3]

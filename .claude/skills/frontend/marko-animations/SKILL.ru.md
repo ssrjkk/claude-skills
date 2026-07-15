@@ -1,6 +1,6 @@
 ---
 name: marko-animations
-description: Animations with Marko. UI animations.
+description: "Animations with Marko. UI animations."
 category: frontend
 tags: [marko-animations, frontend, russian]
 models: [sonnet, opus]

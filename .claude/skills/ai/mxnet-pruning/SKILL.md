@@ -1,6 +1,6 @@
 ---
 name: mxnet-pruning
-description: Pruning with Mxnet. model pruning.
+description: "Pruning with Mxnet. model pruning."
 category: ai
 tags: [mxnet, pruning, ai, deep-learning]
 models: [gpt-4, claude-3]

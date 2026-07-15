@@ -1,6 +1,6 @@
 ---
 name: dash-layout
-description: Layout with Dash. app layout.
+description: "Layout with Dash. app layout."
 category: data
 tags: [dash-layout, data, russian]
 models: [sonnet, opus]

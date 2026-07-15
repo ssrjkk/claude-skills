@@ -1,6 +1,6 @@
 ---
 name: jax-distributed
-description: Distributed with Jax. distributed training.
+description: "Distributed with Jax. distributed training."
 category: ai
 tags: [jax-distributed, ai, russian]
 models: [sonnet, opus]

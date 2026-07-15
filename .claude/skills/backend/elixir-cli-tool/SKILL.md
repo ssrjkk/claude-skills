@@ -1,6 +1,6 @@
 ---
 name: elixir-cli-tool
-description: CLI Tool with Elixir. building CLI tools.
+description: "CLI Tool with Elixir. building CLI tools."
 category: backend
 tags: [elixir, cli-tool, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: seaborn-performance
-description: Performance with Seaborn. optimization.
+description: "Performance with Seaborn. optimization."
 category: data
 tags: [seaborn-performance, data, russian]
 models: [sonnet, opus]

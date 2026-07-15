@@ -1,6 +1,6 @@
 ---
 name: gin-security
-description: Security for Gin: security best practices
+description: "Security for Gin: security best practices"
 category: backend
 tags: [gin-security, backend, russian]
 models: [sonnet, opus]

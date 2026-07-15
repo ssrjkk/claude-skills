@@ -1,6 +1,6 @@
 ---
 name: yolo-image-classification
-description: Image Classification with Yolo. classifying images.
+description: "Image Classification with Yolo. classifying images."
 category: ai
 tags: [yolo-image-classification, ai, russian]
 models: [sonnet, opus]

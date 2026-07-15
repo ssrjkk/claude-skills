@@ -1,6 +1,6 @@
 ---
 name: riot-ssr
-description: SSR with Riot. server rendering.
+description: "SSR with Riot. server rendering."
 category: frontend
 tags: [riot-ssr, frontend, russian]
 models: [sonnet, opus]

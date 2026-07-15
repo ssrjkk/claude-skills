@@ -1,6 +1,6 @@
 ---
 name: chromatic-troubleshooting
-description: Troubleshooting for Chromatic: troubleshooting common issues
+description: "Troubleshooting for Chromatic: troubleshooting common issues"
 category: qa
 tags: [chromatic-troubleshooting, qa, russian]
 models: [sonnet, opus]

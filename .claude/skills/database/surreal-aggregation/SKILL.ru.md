@@ -1,6 +1,6 @@
 ---
 name: surreal-aggregation
-description: Aggregation with SurrealDB. aggregation pipelines.
+description: "Aggregation with SurrealDB. aggregation pipelines."
 category: database
 tags: [surreal-aggregation, database, russian]
 models: [sonnet, opus]

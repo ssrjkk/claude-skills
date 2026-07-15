@@ -1,6 +1,6 @@
 ---
 name: capacitor-security
-description: Security for Capacitor: security best practices
+description: "Security for Capacitor: security best practices"
 category: mobile
 tags: [capacitor, security, mobile]
 models: [sonnet, opus]

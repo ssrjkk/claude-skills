@@ -1,6 +1,6 @@
 ---
 name: questdb-setup
-description: Setup with QuestDB. installation.
+description: "Setup with QuestDB. installation."
 category: database
 tags: [questdb, setup, database, time-series]
 models: [gpt-4, claude-3]

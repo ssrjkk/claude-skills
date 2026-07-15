@@ -1,6 +1,6 @@
 ---
 name: skill-0137
-description: Specialized skill #0137 for backend development
+description: "Specialized skill #0137 for backend development"
 category: backend
 tags: [backend, skill, 0137]
 models: [sonnet, opus]

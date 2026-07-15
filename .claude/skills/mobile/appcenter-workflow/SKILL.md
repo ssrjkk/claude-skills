@@ -1,6 +1,6 @@
 ---
 name: appcenter-workflow
-description: Workflow for Appcenter: workflow optimization
+description: "Workflow for Appcenter: workflow optimization"
 category: mobile
 tags: [appcenter, workflow, mobile]
 models: [sonnet, opus]

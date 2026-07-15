@@ -1,6 +1,6 @@
 ---
 name: echo-basics
-description: Basics for Echo: fundamentals and core concepts
+description: "Basics for Echo: fundamentals and core concepts"
 category: backend
 tags: [echo-basics, backend, russian]
 models: [sonnet, opus]

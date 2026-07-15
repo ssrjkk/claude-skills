@@ -1,6 +1,6 @@
 ---
 name: nestjs-advanced
-description: Advanced for Nestjs: advanced patterns and techniques
+description: "Advanced for Nestjs: advanced patterns and techniques"
 category: backend
 tags: [nestjs, advanced, backend]
 models: [sonnet, opus]

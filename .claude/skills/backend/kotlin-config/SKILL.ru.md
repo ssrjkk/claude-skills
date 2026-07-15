@@ -1,6 +1,6 @@
 ---
 name: kotlin-config
-description: Configuration with Kotlin. config management.
+description: "Configuration with Kotlin. config management."
 category: backend
 tags: [kotlin-config, backend, russian]
 models: [sonnet, opus]

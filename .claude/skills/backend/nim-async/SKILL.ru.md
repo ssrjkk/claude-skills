@@ -1,6 +1,6 @@
 ---
 name: nim-async
-description: Async with Nim. async operations.
+description: "Async with Nim. async operations."
 category: backend
 tags: [nim-async, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: chargebee-analytics
-description: Analytics with Chargebee. revenue analytics.
+description: "Analytics with Chargebee. revenue analytics."
 category: payments
 tags: [chargebee, analytics, payments, billing]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: chartjs-configuration
-description: Configuration for Chartjs: configuration and setup
+description: "Configuration for Chartjs: configuration and setup"
 category: frontend
 tags: [chartjs-configuration, frontend, russian]
 models: [sonnet, opus]

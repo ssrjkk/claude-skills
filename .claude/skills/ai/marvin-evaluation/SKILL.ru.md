@@ -1,6 +1,6 @@
 ---
 name: marvin-evaluation
-description: Evaluation with Marvin. LLM evaluation.
+description: "Evaluation with Marvin. LLM evaluation."
 category: ai
 tags: [marvin-evaluation, ai, russian]
 models: [sonnet, opus]

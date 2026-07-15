@@ -1,6 +1,6 @@
 ---
 name: mailgun-setup
-description: Setup with Mailgun. account setup.
+description: "Setup with Mailgun. account setup."
 category: communications
 tags: [mailgun, setup, communications, communication-platform]
 models: [gpt-4, claude-3]

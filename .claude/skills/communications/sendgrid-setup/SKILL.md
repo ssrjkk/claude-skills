@@ -1,6 +1,6 @@
 ---
 name: sendgrid-setup
-description: Setup with SendGrid. account setup.
+description: "Setup with SendGrid. account setup."
 category: communications
 tags: [sendgrid, setup, communications, communication-platform]
 models: [gpt-4, claude-3]

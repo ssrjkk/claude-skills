@@ -1,6 +1,6 @@
 ---
 name: hbase-aggregation
-description: Aggregation with HBase. aggregation pipelines.
+description: "Aggregation with HBase. aggregation pipelines."
 category: database
 tags: [hbase, aggregation, database, nosql]
 models: [gpt-4, claude-3]

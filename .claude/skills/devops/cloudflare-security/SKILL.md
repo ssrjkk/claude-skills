@@ -1,6 +1,6 @@
 ---
 name: cloudflare-security
-description: Security with Cloudflare. cloud security.
+description: "Security with Cloudflare. cloud security."
 category: devops
 tags: [cloudflare, security, devops, cloud]
 models: [gpt-4, claude-3]

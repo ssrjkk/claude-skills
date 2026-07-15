@@ -1,6 +1,6 @@
 ---
 name: great-expectations-production
-description: Production for Great-Expectations: production deployment
+description: "Production for Great-Expectations: production deployment"
 category: data
 tags: [great-expectations-production, data, russian]
 models: [sonnet, opus]

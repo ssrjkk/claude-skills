@@ -1,6 +1,6 @@
 ---
 name: apache-spark-optimization
-description: Optimization with Apache Spark. performance.
+description: "Optimization with Apache Spark. performance."
 category: data
 tags: [apache-spark-optimization, data, russian]
 models: [sonnet, opus]

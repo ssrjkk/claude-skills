@@ -1,6 +1,6 @@
 ---
 name: milligram-dark-mode
-description: Dark Mode with Milligram. dark theme.
+description: "Dark Mode with Milligram. dark theme."
 category: frontend
 tags: [milligram-dark-mode, frontend, russian]
 models: [sonnet, opus]

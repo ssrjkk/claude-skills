@@ -1,6 +1,6 @@
 ---
 name: mxnet-optimization
-description: Optimization with Mxnet. model optimization.
+description: "Optimization with Mxnet. model optimization."
 category: ai
 tags: [mxnet-optimization, ai, russian]
 models: [sonnet, opus]

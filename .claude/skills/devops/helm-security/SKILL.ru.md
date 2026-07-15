@@ -1,6 +1,6 @@
 ---
 name: helm-security
-description: Security for Helm: security best practices
+description: "Security for Helm: security best practices"
 category: devops
 tags: [helm-security, devops, russian]
 models: [sonnet, opus]

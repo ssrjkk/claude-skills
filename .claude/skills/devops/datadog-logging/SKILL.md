@@ -1,6 +1,6 @@
 ---
 name: datadog-logging
-description: Logging with Datadog. log collection.
+description: "Logging with Datadog. log collection."
 category: devops
 tags: [datadog, logging, devops, monitoring]
 models: [gpt-4, claude-3]

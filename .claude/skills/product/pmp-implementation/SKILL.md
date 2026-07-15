@@ -1,6 +1,6 @@
 ---
 name: pmp-implementation
-description: Implementation with PMP. adoption.
+description: "Implementation with PMP. adoption."
 category: product
 tags: [pmp, implementation, product, methodology]
 models: [gpt-4, claude-3]

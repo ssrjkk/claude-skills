@@ -1,6 +1,6 @@
 ---
 name: procedural-generation-implementation
-description: Implementation with Procedural Generation. implementation.
+description: "Implementation with Procedural Generation. implementation."
 category: gamedev
 tags: [procedural-generation-implementation, gamedev, russian]
 models: [sonnet, opus]

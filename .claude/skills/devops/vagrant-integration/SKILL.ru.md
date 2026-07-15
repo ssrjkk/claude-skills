@@ -1,6 +1,6 @@
 ---
 name: vagrant-integration
-description: Integration for Vagrant: integration with other tools
+description: "Integration for Vagrant: integration with other tools"
 category: devops
 tags: [vagrant-integration, devops, russian]
 models: [sonnet, opus]

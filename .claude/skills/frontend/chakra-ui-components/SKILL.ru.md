@@ -1,6 +1,6 @@
 ---
 name: chakra-ui-components
-description: Components with Chakra UI. UI components.
+description: "Components with Chakra UI. UI components."
 category: frontend
 tags: [chakra-ui-components, frontend, russian]
 models: [sonnet, opus]

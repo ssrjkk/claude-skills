@@ -1,6 +1,6 @@
 ---
 name: neo4j-optimization
-description: Optimization with Neo4j. performance.
+description: "Optimization with Neo4j. performance."
 category: database
 tags: [neo4j, optimization, database, nosql]
 models: [gpt-4, claude-3]

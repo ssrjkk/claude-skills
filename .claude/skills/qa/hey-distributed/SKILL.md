@@ -1,6 +1,6 @@
 ---
 name: hey-distributed
-description: Distributed with hey. distributed load.
+description: "Distributed with hey. distributed load."
 category: qa
 tags: [hey, distributed, qa, performance-testing]
 models: [gpt-4, claude-3]

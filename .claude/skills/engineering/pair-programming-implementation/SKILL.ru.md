@@ -1,6 +1,6 @@
 ---
 name: pair-programming-implementation
-description: Implementation with Pair Programming. practice.
+description: "Implementation with Pair Programming. practice."
 category: engineering
 tags: [pair-programming-implementation, engineering, russian]
 models: [sonnet, opus]

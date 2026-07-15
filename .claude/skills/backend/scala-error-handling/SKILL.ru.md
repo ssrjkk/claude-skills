@@ -1,6 +1,6 @@
 ---
 name: scala-error-handling
-description: Error Handling with Scala. error management.
+description: "Error Handling with Scala. error management."
 category: backend
 tags: [scala-error-handling, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: create-comprehensive-project-charter
-description: Develop a formal project charter that defines scope, objectives, and authority for a new project
+description: "Develop a formal project charter that defines scope, objectives, and authority for a new project"
 category: product
 tags: [create-comprehensive-project-charter, product, russian]
 models: [sonnet, opus]

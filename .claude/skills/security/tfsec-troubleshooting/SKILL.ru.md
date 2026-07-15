@@ -1,6 +1,6 @@
 ---
 name: tfsec-troubleshooting
-description: Troubleshooting for Tfsec: troubleshooting common issues
+description: "Troubleshooting for Tfsec: troubleshooting common issues"
 category: security
 tags: [tfsec-troubleshooting, security, russian]
 models: [sonnet, opus]

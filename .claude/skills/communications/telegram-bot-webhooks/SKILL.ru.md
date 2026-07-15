@@ -1,6 +1,6 @@
 ---
 name: telegram-bot-webhooks
-description: Webhooks with Telegram Bot. webhooks.
+description: "Webhooks with Telegram Bot. webhooks."
 category: communications
 tags: [telegram-bot-webhooks, communications, russian]
 models: [sonnet, opus]

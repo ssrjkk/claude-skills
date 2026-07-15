@@ -1,6 +1,6 @@
 ---
 name: adonisjs-websocket
-description: WebSocket with AdonisJS. Socket.io.
+description: "WebSocket with AdonisJS. Socket.io."
 category: backend
 tags: [adonisjs, websocket, backend, backend]
 models: [gpt-4, claude-3]

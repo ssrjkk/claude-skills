@@ -1,6 +1,6 @@
 ---
 name: plaid-security
-description: Security with Plaid. security.
+description: "Security with Plaid. security."
 category: finance
 tags: [plaid-security, finance, russian]
 models: [sonnet, opus]

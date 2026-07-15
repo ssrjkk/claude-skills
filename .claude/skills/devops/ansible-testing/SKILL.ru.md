@@ -1,6 +1,6 @@
 ---
 name: ansible-testing
-description: Testing with Ansible. infra testing.
+description: "Testing with Ansible. infra testing."
 category: devops
 tags: [ansible-testing, devops, russian]
 models: [sonnet, opus]

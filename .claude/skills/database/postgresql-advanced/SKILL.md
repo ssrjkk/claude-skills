@@ -1,6 +1,6 @@
 ---
 name: postgresql-advanced
-description: Advanced for Postgresql: advanced patterns and techniques
+description: "Advanced for Postgresql: advanced patterns and techniques"
 category: database
 tags: [postgresql, advanced, database]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ldtk-workflow
-description: Workflow for Ldtk: workflow optimization
+description: "Workflow for Ldtk: workflow optimization"
 category: gamedev
 tags: [ldtk-workflow, gamedev, russian]
 models: [sonnet, opus]

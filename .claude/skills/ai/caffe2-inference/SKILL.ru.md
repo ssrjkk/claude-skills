@@ -1,6 +1,6 @@
 ---
 name: caffe2-inference
-description: Inference with Caffe2. running models.
+description: "Inference with Caffe2. running models."
 category: ai
 tags: [caffe2-inference, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: angular-advanced
-description: Advanced for Angular: advanced patterns and techniques
+description: "Advanced for Angular: advanced patterns and techniques"
 category: frontend
 tags: [angular-advanced, frontend, russian]
 models: [sonnet, opus]

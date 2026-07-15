@@ -1,6 +1,6 @@
 ---
 name: peft-optimization
-description: Optimization with Peft. model optimization.
+description: "Optimization with Peft. model optimization."
 category: ai
 tags: [peft-optimization, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cilium-automation
-description: Automation for Cilium: automation and scripting
+description: "Automation for Cilium: automation and scripting"
 category: devops
 tags: [cilium-automation, devops, russian]
 models: [sonnet, opus]

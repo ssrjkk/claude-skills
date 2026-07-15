@@ -1,6 +1,6 @@
 ---
 name: inferno-accessibility
-description: Accessibility with Inferno. a11y.
+description: "Accessibility with Inferno. a11y."
 category: frontend
 tags: [inferno-accessibility, frontend, russian]
 models: [sonnet, opus]

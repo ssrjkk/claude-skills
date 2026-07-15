@@ -1,6 +1,6 @@
 ---
 name: nim-rest-api
-description: REST API with Nim. building REST APIs.
+description: "REST API with Nim. building REST APIs."
 category: backend
 tags: [nim-rest-api, backend, russian]
 models: [sonnet, opus]

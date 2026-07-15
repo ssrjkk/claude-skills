@@ -1,6 +1,6 @@
 ---
 name: bigquery-testing
-description: Testing for Bigquery: testing and validation
+description: "Testing for Bigquery: testing and validation"
 category: data
 tags: [bigquery, testing, data]
 models: [sonnet, opus]

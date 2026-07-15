@@ -1,6 +1,6 @@
 ---
 name: xamarin-navigation
-description: Navigation with Xamarin. navigation.
+description: "Navigation with Xamarin. navigation."
 category: mobile
 tags: [xamarin, navigation, mobile, mobile]
 models: [gpt-4, claude-3]

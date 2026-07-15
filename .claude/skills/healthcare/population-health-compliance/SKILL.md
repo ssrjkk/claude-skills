@@ -1,6 +1,6 @@
 ---
 name: population-health-compliance
-description: Compliance with Population Health. compliance.
+description: "Compliance with Population Health. compliance."
 category: healthcare
 tags: [population-health, compliance, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

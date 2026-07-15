@@ -1,6 +1,6 @@
 ---
 name: rhel-processes
-description: Processes with RHEL. process management.
+description: "Processes with RHEL. process management."
 category: os-admin
 tags: [rhel, processes, os-admin, linux]
 models: [gpt-4, claude-3]

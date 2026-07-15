@@ -1,6 +1,6 @@
 ---
 name: mlflow-best-practices
-description: Best Practices for Mlflow: best practices and patterns
+description: "Best Practices for Mlflow: best practices and patterns"
 category: data
 tags: [mlflow-best-practices, data, russian]
 models: [sonnet, opus]

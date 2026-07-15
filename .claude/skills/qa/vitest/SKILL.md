@@ -1,6 +1,6 @@
 ---
 name: vitest
-description: Runs fast unit and integration tests with Vitest, featuring Vite-native speed and Jest-compatible API. Use for modern Vite projects.
+description: "Runs fast unit and integration tests with Vitest, featuring Vite-native speed and Jest-compatible API. Use for modern Vite projects."
 category: qa
 tags: [vitest, testing, vite, javascript, typescript]
 models: [sonnet, opus]

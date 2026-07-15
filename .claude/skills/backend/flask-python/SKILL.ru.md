@@ -1,6 +1,6 @@
 ---
 name: flask-python
-description: Creates lightweight web applications and REST APIs with Flask, Jinja2 templates, and SQLAlchemy. Use for simple Python web apps and microservices.
+description: "Creates lightweight web applications and REST APIs with Flask, Jinja2 templates, and SQLAlchemy. Use for simple Python web apps and microservices."
 category: backend
 tags: [flask-python, backend, russian]
 models: [sonnet, opus]

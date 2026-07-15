@@ -1,6 +1,6 @@
 ---
 name: chromadb-configuration
-description: Configuration for Chromadb: configuration and setup
+description: "Configuration for Chromadb: configuration and setup"
 category: ai
 tags: [chromadb-configuration, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: couchdb-aggregation
-description: Aggregation with CouchDB. aggregation pipelines.
+description: "Aggregation with CouchDB. aggregation pipelines."
 category: database
 tags: [couchdb-aggregation, database, russian]
 models: [sonnet, opus]

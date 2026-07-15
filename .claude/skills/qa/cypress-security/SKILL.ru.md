@@ -1,6 +1,6 @@
 ---
 name: cypress-security
-description: Security for Cypress: security best practices
+description: "Security for Cypress: security best practices"
 category: qa
 tags: [cypress-security, qa, russian]
 models: [sonnet, opus]

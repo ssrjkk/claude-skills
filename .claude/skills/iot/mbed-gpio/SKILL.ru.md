@@ -1,6 +1,6 @@
 ---
 name: mbed-gpio
-description: GPIO with Mbed OS. digital I/O.
+description: "GPIO with Mbed OS. digital I/O."
 category: iot
 tags: [mbed-gpio, iot, russian]
 models: [sonnet, opus]

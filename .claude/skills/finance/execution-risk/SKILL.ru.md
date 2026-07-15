@@ -1,6 +1,6 @@
 ---
 name: execution-risk
-description: Risk with Execution Systems. risk analysis.
+description: "Risk with Execution Systems. risk analysis."
 category: finance
 tags: [execution-risk, finance, russian]
 models: [sonnet, opus]

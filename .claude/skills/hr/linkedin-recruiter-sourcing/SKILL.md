@@ -1,6 +1,6 @@
 ---
 name: linkedin-recruiter-sourcing
-description: Sourcing with LinkedIn Recruiter. candidate sourcing.
+description: "Sourcing with LinkedIn Recruiter. candidate sourcing."
 category: hr
 tags: [linkedin-recruiter, sourcing, hr, recruiting]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: carbon-accounting-reporting
-description: Reporting with Carbon Accounting. reporting.
+description: "Reporting with Carbon Accounting. reporting."
 category: sustainability
 tags: [carbon-accounting-reporting, sustainability, russian]
 models: [sonnet, opus]

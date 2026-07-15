@@ -1,6 +1,6 @@
 ---
 name: rest-assured-fundamentals
-description: Fundamentals for Rest-Assured: core concepts
+description: "Fundamentals for Rest-Assured: core concepts"
 category: qa
 tags: [rest-assured, fundamentals, qa]
 models: [sonnet, opus]

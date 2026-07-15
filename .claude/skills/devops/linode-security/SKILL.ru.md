@@ -1,6 +1,6 @@
 ---
 name: linode-security
-description: Security with Linode. cloud security.
+description: "Security with Linode. cloud security."
 category: devops
 tags: [linode-security, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: rt-thread-timers
-description: Timers with RT-Thread. software timers.
+description: "Timers with RT-Thread. software timers."
 category: embedded
 tags: [rt-thread-timers, embedded, russian]
 models: [sonnet, opus]

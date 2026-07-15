@@ -1,6 +1,6 @@
 ---
 name: netcat-troubleshooting
-description: Troubleshooting with netcat. debugging.
+description: "Troubleshooting with netcat. debugging."
 category: networking
 tags: [netcat-troubleshooting, networking, russian]
 models: [sonnet, opus]

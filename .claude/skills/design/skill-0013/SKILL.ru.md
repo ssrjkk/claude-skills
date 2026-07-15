@@ -1,6 +1,6 @@
 ---
 name: skill-0013
-description: Specialized skill #0013 for design development
+description: "Specialized skill #0013 for design development"
 category: design
 tags: [skill-0013, design, russian]
 models: [sonnet, opus]

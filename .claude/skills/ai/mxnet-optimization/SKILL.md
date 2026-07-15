@@ -1,6 +1,6 @@
 ---
 name: mxnet-optimization
-description: Optimization with Mxnet. model optimization.
+description: "Optimization with Mxnet. model optimization."
 category: ai
 tags: [mxnet, optimization, ai, deep-learning]
 models: [gpt-4, claude-3]

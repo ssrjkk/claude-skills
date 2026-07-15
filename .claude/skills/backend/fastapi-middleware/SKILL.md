@@ -1,6 +1,6 @@
 ---
 name: fastapi-middleware
-description: Middleware with FastAPI. middleware pipelines.
+description: "Middleware with FastAPI. middleware pipelines."
 category: backend
 tags: [fastapi, middleware, backend, backend]
 models: [gpt-4, claude-3]

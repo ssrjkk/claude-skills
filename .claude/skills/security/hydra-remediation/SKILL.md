@@ -1,6 +1,6 @@
 ---
 name: hydra-remediation
-description: Remediation with Hydra. fixing vulns.
+description: "Remediation with Hydra. fixing vulns."
 category: security
 tags: [hydra, remediation, security, security-tool]
 models: [gpt-4, claude-3]

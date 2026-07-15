@@ -1,6 +1,6 @@
 ---
 name: geoserver-analysis
-description: Analysis with GeoServer. spatial analysis.
+description: "Analysis with GeoServer. spatial analysis."
 category: geospatial
 tags: [geoserver-analysis, geospatial, russian]
 models: [sonnet, opus]

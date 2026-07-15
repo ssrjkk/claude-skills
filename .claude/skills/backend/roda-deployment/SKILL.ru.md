@@ -1,6 +1,6 @@
 ---
 name: roda-deployment
-description: Deployment with Roda. deploy.
+description: "Deployment with Roda. deploy."
 category: backend
 tags: [roda-deployment, backend, russian]
 models: [sonnet, opus]

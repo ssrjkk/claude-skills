@@ -1,6 +1,6 @@
 ---
 name: kotlin-dependency-injection
-description: DI with Kotlin. DI containers.
+description: "DI with Kotlin. DI containers."
 category: backend
 tags: [kotlin, dependency-injection, backend, backend]
 models: [gpt-4, claude-3]

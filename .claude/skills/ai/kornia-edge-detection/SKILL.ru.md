@@ -1,6 +1,6 @@
 ---
 name: kornia-edge-detection
-description: Edge Detection with Kornia. edge detection.
+description: "Edge Detection with Kornia. edge detection."
 category: ai
 tags: [kornia-edge-detection, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ubuntu-networking
-description: Networking with Ubuntu. network config.
+description: "Networking with Ubuntu. network config."
 category: os-admin
 tags: [ubuntu, networking, os-admin, linux]
 models: [gpt-4, claude-3]

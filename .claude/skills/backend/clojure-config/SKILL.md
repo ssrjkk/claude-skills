@@ -1,6 +1,6 @@
 ---
 name: clojure-config
-description: Configuration with Clojure. config management.
+description: "Configuration with Clojure. config management."
 category: backend
 tags: [clojure, config, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: terraform-cicd
-description: CI/CD with Terraform. pipeline integration.
+description: "CI/CD with Terraform. pipeline integration."
 category: devops
 tags: [terraform, cicd, devops, iac]
 models: [gpt-4, claude-3]

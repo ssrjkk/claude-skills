@@ -1,6 +1,6 @@
 ---
 name: amqp-scaling
-description: Scaling with AMQP. scaling.
+description: "Scaling with AMQP. scaling."
 category: communications
 tags: [amqp, scaling, communications, communication-protocol]
 models: [gpt-4, claude-3]

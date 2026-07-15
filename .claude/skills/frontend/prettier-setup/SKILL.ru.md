@@ -1,6 +1,6 @@
 ---
 name: prettier-setup
-description: Setup with Prettier. initial setup.
+description: "Setup with Prettier. initial setup."
 category: frontend
 tags: [prettier-setup, frontend, russian]
 models: [sonnet, opus]

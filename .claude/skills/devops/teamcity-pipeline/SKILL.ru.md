@@ -1,6 +1,6 @@
 ---
 name: teamcity-pipeline
-description: Pipeline with TeamCity. pipeline creation.
+description: "Pipeline with TeamCity. pipeline creation."
 category: devops
 tags: [teamcity-pipeline, devops, russian]
 models: [sonnet, opus]

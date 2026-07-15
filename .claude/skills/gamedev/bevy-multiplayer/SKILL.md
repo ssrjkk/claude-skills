@@ -1,6 +1,6 @@
 ---
 name: bevy-multiplayer
-description: Multiplayer with Bevy. networking.
+description: "Multiplayer with Bevy. networking."
 category: gamedev
 tags: [bevy, multiplayer, gamedev, game-engine]
 models: [gpt-4, claude-3]

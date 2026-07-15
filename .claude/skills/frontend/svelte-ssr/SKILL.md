@@ -1,6 +1,6 @@
 ---
 name: svelte-ssr
-description: SSR with Svelte. server rendering.
+description: "SSR with Svelte. server rendering."
 category: frontend
 tags: [svelte, ssr, frontend, frontend]
 models: [gpt-4, claude-3]

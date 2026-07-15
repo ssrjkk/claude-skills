@@ -1,6 +1,6 @@
 ---
 name: optuna-regression
-description: Regression with Optuna. predicting values.
+description: "Regression with Optuna. predicting values."
 category: ai
 tags: [optuna, regression, ai, ml]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: fedora-backup
-description: Backup with Fedora. backup.
+description: "Backup with Fedora. backup."
 category: os-admin
 tags: [fedora-backup, os-admin, russian]
 models: [sonnet, opus]

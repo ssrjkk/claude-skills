@@ -1,6 +1,6 @@
 ---
 name: express-basics
-description: Basics for Express: fundamentals and core concepts
+description: "Basics for Express: fundamentals and core concepts"
 category: backend
 tags: [express, basics, backend]
 models: [sonnet, opus]

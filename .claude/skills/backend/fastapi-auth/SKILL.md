@@ -1,6 +1,6 @@
 ---
 name: fastapi-auth
-description: Authentication with FastAPI. user auth.
+description: "Authentication with FastAPI. user auth."
 category: backend
 tags: [fastapi, auth, backend, backend]
 models: [gpt-4, claude-3]

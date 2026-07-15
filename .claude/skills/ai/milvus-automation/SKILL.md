@@ -1,6 +1,6 @@
 ---
 name: milvus-automation
-description: Automation for Milvus: automation and scripting
+description: "Automation for Milvus: automation and scripting"
 category: ai
 tags: [milvus, automation, ai]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: portfolio-reporting
-description: Reporting with Portfolio Management. reports.
+description: "Reporting with Portfolio Management. reports."
 category: finance
 tags: [portfolio, reporting, finance, trading]
 models: [gpt-4, claude-3]

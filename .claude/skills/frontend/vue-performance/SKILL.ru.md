@@ -1,6 +1,6 @@
 ---
 name: vue-performance
-description: Performance with Vue. optimization.
+description: "Performance with Vue. optimization."
 category: frontend
 tags: [vue-performance, frontend, russian]
 models: [sonnet, opus]

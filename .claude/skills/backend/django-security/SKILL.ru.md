@@ -1,6 +1,6 @@
 ---
 name: django-security
-description: Security for Django: security best practices
+description: "Security for Django: security best practices"
 category: backend
 tags: [django-security, backend, russian]
 models: [sonnet, opus]

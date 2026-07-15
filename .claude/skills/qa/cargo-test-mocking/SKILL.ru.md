@@ -1,6 +1,6 @@
 ---
 name: cargo-test-mocking
-description: Mocking with Cargo Test. mocks.
+description: "Mocking with Cargo Test. mocks."
 category: qa
 tags: [cargo-test-mocking, qa, russian]
 models: [sonnet, opus]

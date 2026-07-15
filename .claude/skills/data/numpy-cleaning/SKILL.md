@@ -1,6 +1,6 @@
 ---
 name: numpy-cleaning
-description: Cleaning with NumPy. data cleaning.
+description: "Cleaning with NumPy. data cleaning."
 category: data
 tags: [numpy, cleaning, data, data-science]
 models: [gpt-4, claude-3]

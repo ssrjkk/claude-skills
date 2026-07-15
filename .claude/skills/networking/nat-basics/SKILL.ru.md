@@ -1,6 +1,6 @@
 ---
 name: nat-basics
-description: Basics with NAT. fundamentals.
+description: "Basics with NAT. fundamentals."
 category: networking
 tags: [nat-basics, networking, russian]
 models: [sonnet, opus]

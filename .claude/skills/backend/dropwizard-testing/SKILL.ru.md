@@ -1,6 +1,6 @@
 ---
 name: dropwizard-testing
-description: Testing with Dropwizard. unit tests.
+description: "Testing with Dropwizard. unit tests."
 category: backend
 tags: [dropwizard-testing, backend, russian]
 models: [sonnet, opus]

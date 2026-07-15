@@ -1,6 +1,6 @@
 ---
 name: huggingface-advanced
-description: Advanced for Huggingface: advanced patterns and techniques
+description: "Advanced for Huggingface: advanced patterns and techniques"
 category: ai
 tags: [huggingface, advanced, ai]
 models: [sonnet, opus]

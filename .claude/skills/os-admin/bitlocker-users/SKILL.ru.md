@@ -1,6 +1,6 @@
 ---
 name: bitlocker-users
-description: Users with BitLocker. user mgmt.
+description: "Users with BitLocker. user mgmt."
 category: os-admin
 tags: [bitlocker-users, os-admin, russian]
 models: [sonnet, opus]

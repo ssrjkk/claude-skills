@@ -1,6 +1,6 @@
 ---
 name: threadx-optimization
-description: Optimization with ThreadX. optimization.
+description: "Optimization with ThreadX. optimization."
 category: embedded
 tags: [threadx, optimization, embedded, rtos]
 models: [gpt-4, claude-3]

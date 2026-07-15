@@ -1,6 +1,6 @@
 ---
 name: textblob-summarization
-description: Summarization with Textblob. text summarization.
+description: "Summarization with Textblob. text summarization."
 category: ai
 tags: [textblob-summarization, ai, russian]
 models: [sonnet, opus]

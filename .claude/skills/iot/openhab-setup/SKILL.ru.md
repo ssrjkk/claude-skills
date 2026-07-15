@@ -1,6 +1,6 @@
 ---
 name: openhab-setup
-description: Setup with openHAB. setup.
+description: "Setup with openHAB. setup."
 category: iot
 tags: [openhab-setup, iot, russian]
 models: [sonnet, opus]

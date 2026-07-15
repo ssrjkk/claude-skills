@@ -1,6 +1,6 @@
 ---
 name: embedding-models
-description: Working with embedding models (OpenAI, Cohere, Voyage)
+description: "Working with embedding models (OpenAI, Cohere, Voyage)"
 category: ai
 tags: [embeddings, vector, semantic-search, openai, cohere, voyage]
 models: [sonnet, opus]

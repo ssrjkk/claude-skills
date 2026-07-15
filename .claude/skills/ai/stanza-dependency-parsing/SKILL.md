@@ -1,6 +1,6 @@
 ---
 name: stanza-dependency-parsing
-description: Dependency Parsing with Stanza. syntax analysis.
+description: "Dependency Parsing with Stanza. syntax analysis."
 category: ai
 tags: [stanza, dependency-parsing, ai, nlp]
 models: [gpt-4, claude-3]

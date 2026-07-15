@@ -1,6 +1,6 @@
 ---
 name: networking-skill-0044
-description: networking specialized skill #0044 for networking development
+description: "networking specialized skill #0044 for networking development"
 category: networking
 tags: [networking, skill, 0044]
 models: [sonnet, opus]

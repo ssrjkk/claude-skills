@@ -1,6 +1,6 @@
 ---
 name: laminas-testing
-description: Testing with Laminas. PHPUnit.
+description: "Testing with Laminas. PHPUnit."
 category: backend
 tags: [laminas-testing, backend, russian]
 models: [sonnet, opus]

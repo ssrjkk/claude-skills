@@ -1,6 +1,6 @@
 ---
 name: duckdb-automation
-description: Automation for Duckdb: automation and scripting
+description: "Automation for Duckdb: automation and scripting"
 category: database
 tags: [duckdb, automation, database]
 models: [sonnet, opus]

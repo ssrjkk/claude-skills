@@ -1,6 +1,6 @@
 ---
 name: skill-0074
-description: Specialized skill #0074 for ai development
+description: "Specialized skill #0074 for ai development"
 category: ai
 tags: [skill-0074, ai, russian]
 models: [sonnet, opus]

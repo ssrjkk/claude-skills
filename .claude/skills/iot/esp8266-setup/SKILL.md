@@ -1,6 +1,6 @@
 ---
 name: esp8266-setup
-description: Setup with ESP8266. board setup.
+description: "Setup with ESP8266. board setup."
 category: iot
 tags: [esp8266, setup, iot, iot]
 models: [gpt-4, claude-3]

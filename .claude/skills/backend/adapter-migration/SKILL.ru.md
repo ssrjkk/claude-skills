@@ -1,6 +1,6 @@
 ---
 name: adapter-migration
-description: Migration with Adapter. adopting the pattern.
+description: "Migration with Adapter. adopting the pattern."
 category: backend
 tags: [adapter-migration, backend, russian]
 models: [sonnet, opus]

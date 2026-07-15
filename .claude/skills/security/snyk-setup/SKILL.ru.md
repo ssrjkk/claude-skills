@@ -1,6 +1,6 @@
 ---
 name: snyk-setup
-description: Setup with Snyk. installation.
+description: "Setup with Snyk. installation."
 category: security
 tags: [snyk-setup, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vercel-cost
-description: Cost with Vercel. cost optimization.
+description: "Cost with Vercel. cost optimization."
 category: devops
 tags: [vercel, cost, devops, cloud]
 models: [gpt-4, claude-3]

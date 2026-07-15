@@ -1,6 +1,6 @@
 ---
 name: slack-api-messaging
-description: Messaging with Slack API. sending messages.
+description: "Messaging with Slack API. sending messages."
 category: communications
 tags: [slack-api, messaging, communications, communication-platform]
 models: [gpt-4, claude-3]

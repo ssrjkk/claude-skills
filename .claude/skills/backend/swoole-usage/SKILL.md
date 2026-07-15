@@ -1,6 +1,6 @@
 ---
 name: swoole-usage
-description: Usage for Swoole: usage reference
+description: "Usage for Swoole: usage reference"
 category: backend
 tags: [swoole, usage, backend]
 models: [sonnet, opus]

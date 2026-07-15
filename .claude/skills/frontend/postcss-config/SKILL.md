@@ -1,6 +1,6 @@
 ---
 name: postcss-config
-description: Config with PostCSS. configuration.
+description: "Config with PostCSS. configuration."
 category: frontend
 tags: [postcss, config, frontend, build-tool]
 models: [gpt-4, claude-3]

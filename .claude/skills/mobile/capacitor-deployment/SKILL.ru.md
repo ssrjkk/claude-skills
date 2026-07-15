@@ -1,6 +1,6 @@
 ---
 name: capacitor-deployment
-description: Deployment with Capacitor. app store.
+description: "Deployment with Capacitor. app store."
 category: mobile
 tags: [capacitor-deployment, mobile, russian]
 models: [sonnet, opus]

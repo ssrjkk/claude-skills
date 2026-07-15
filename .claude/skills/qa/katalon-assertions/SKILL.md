@@ -1,6 +1,6 @@
 ---
 name: katalon-assertions
-description: Assertions with Katalon. assertions.
+description: "Assertions with Katalon. assertions."
 category: qa
 tags: [katalon, assertions, qa, e2e]
 models: [gpt-4, claude-3]

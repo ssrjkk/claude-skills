@@ -1,6 +1,6 @@
 ---
 name: dynamodb
-description: Designs NoSQL tables, writes efficient queries, and manages capacity with AWS DynamoDB. Use for serverless applications at scale.
+description: "Designs NoSQL tables, writes efficient queries, and manages capacity with AWS DynamoDB. Use for serverless applications at scale."
 category: database
 tags: [dynamodb, database, russian]
 models: [sonnet, opus]

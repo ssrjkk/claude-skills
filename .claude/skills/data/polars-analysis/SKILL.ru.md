@@ -1,6 +1,6 @@
 ---
 name: polars-analysis
-description: Analysis with Polars. data analysis.
+description: "Analysis with Polars. data analysis."
 category: data
 tags: [polars-analysis, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gitleaks-troubleshooting
-description: Troubleshooting for Gitleaks: troubleshooting common issues
+description: "Troubleshooting for Gitleaks: troubleshooting common issues"
 category: security
 tags: [gitleaks-troubleshooting, security, russian]
 models: [sonnet, opus]

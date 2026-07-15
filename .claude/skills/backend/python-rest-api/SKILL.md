@@ -1,6 +1,6 @@
 ---
 name: python-rest-api
-description: REST API with Python. building REST APIs.
+description: "REST API with Python. building REST APIs."
 category: backend
 tags: [python, rest-api, backend, backend]
 models: [gpt-4, claude-3]

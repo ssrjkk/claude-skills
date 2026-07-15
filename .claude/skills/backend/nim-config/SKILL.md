@@ -1,6 +1,6 @@
 ---
 name: nim-config
-description: Configuration with Nim. config management.
+description: "Configuration with Nim. config management."
 category: backend
 tags: [nim, config, backend, backend]
 models: [gpt-4, claude-3]

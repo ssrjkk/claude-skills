@@ -1,6 +1,6 @@
 ---
 name: rails-templating
-description: Templating with Rails. ERB.
+description: "Templating with Rails. ERB."
 category: backend
 tags: [rails, templating, backend, backend]
 models: [gpt-4, claude-3]

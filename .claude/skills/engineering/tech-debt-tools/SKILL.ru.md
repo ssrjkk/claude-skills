@@ -1,6 +1,6 @@
 ---
 name: tech-debt-tools
-description: Tools with Tech Debt Management. tooling.
+description: "Tools with Tech Debt Management. tooling."
 category: engineering
 tags: [tech-debt-tools, engineering, russian]
 models: [sonnet, opus]

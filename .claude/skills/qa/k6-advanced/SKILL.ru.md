@@ -1,6 +1,6 @@
 ---
 name: k6-advanced
-description: Advanced for K6: advanced patterns and techniques
+description: "Advanced for K6: advanced patterns and techniques"
 category: qa
 tags: [k6-advanced, qa, russian]
 models: [sonnet, opus]

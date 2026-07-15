@@ -1,6 +1,6 @@
 ---
 name: vertx-deployment
-description: Deployment with Vert.x. build.
+description: "Deployment with Vert.x. build."
 category: backend
 tags: [vertx, deployment, backend, backend]
 models: [gpt-4, claude-3]

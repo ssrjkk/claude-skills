@@ -1,6 +1,6 @@
 ---
 name: ragas-getting-started
-description: Getting Started for Ragas: initial setup and first steps
+description: "Getting Started for Ragas: initial setup and first steps"
 category: ai
 tags: [ragas-getting-started, ai, russian]
 models: [sonnet, opus]

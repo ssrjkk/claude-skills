@@ -1,6 +1,6 @@
 ---
 name: openvas-automation
-description: Automation with OpenVAS. automation.
+description: "Automation with OpenVAS. automation."
 category: security
 tags: [openvas, automation, security, security-tool]
 models: [gpt-4, claude-3]

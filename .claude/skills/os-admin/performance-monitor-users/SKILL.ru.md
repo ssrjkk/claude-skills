@@ -1,6 +1,6 @@
 ---
 name: performance-monitor-users
-description: Users with Performance Monitor. user mgmt.
+description: "Users with Performance Monitor. user mgmt."
 category: os-admin
 tags: [performance-monitor-users, os-admin, russian]
 models: [sonnet, opus]

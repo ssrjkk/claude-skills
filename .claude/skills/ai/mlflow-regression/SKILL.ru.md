@@ -1,6 +1,6 @@
 ---
 name: mlflow-regression
-description: Regression with Mlflow. predicting values.
+description: "Regression with Mlflow. predicting values."
 category: ai
 tags: [mlflow-regression, ai, russian]
 models: [sonnet, opus]

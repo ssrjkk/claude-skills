@@ -1,6 +1,6 @@
 ---
 name: unreal-xr-setup
-description: Setup with Unreal XR. SDK setup.
+description: "Setup with Unreal XR. SDK setup."
 category: ar-vr
 tags: [unreal-xr-setup, ar-vr, russian]
 models: [sonnet, opus]

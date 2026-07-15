@@ -1,6 +1,6 @@
 ---
 name: tdd-implementation
-description: Implementation with TDD. practice.
+description: "Implementation with TDD. practice."
 category: engineering
 tags: [tdd, implementation, engineering, engineering]
 models: [gpt-4, claude-3]

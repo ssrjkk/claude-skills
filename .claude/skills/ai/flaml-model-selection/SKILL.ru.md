@@ -1,6 +1,6 @@
 ---
 name: flaml-model-selection
-description: Model Selection with Flaml. choosing models.
+description: "Model Selection with Flaml. choosing models."
 category: ai
 tags: [flaml-model-selection, ai, russian]
 models: [sonnet, opus]

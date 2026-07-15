@@ -1,6 +1,6 @@
 ---
 name: testng-coverage
-description: Coverage with TestNG. code coverage.
+description: "Coverage with TestNG. code coverage."
 category: qa
 tags: [testng-coverage, qa, russian]
 models: [sonnet, opus]

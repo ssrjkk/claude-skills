@@ -1,6 +1,6 @@
 ---
 name: aws-monitoring
-description: Monitoring with AWS. monitoring.
+description: "Monitoring with AWS. monitoring."
 category: devops
 tags: [aws-monitoring, devops, russian]
 models: [sonnet, opus]

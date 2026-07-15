@@ -1,6 +1,6 @@
 ---
 name: pinecone-getting-started
-description: Getting Started for Pinecone: initial setup and first steps
+description: "Getting Started for Pinecone: initial setup and first steps"
 category: ai
 tags: [pinecone, getting-started, ai]
 models: [sonnet, opus]

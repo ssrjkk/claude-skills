@@ -1,6 +1,6 @@
 ---
 name: prettier-config
-description: Config with Prettier. configuration.
+description: "Config with Prettier. configuration."
 category: frontend
 tags: [prettier-config, frontend, russian]
 models: [sonnet, opus]

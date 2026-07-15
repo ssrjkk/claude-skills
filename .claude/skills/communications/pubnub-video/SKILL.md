@@ -1,6 +1,6 @@
 ---
 name: pubnub-video
-description: Video with PubNub. video calls.
+description: "Video with PubNub. video calls."
 category: communications
 tags: [pubnub, video, communications, communication-platform]
 models: [gpt-4, claude-3]

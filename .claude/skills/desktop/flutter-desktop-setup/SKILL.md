@@ -1,6 +1,6 @@
 ---
 name: flutter-desktop-setup
-description: Setup with Flutter Desktop. SDK setup.
+description: "Setup with Flutter Desktop. SDK setup."
 category: desktop
 tags: [flutter-desktop, setup, desktop, desktop]
 models: [gpt-4, claude-3]

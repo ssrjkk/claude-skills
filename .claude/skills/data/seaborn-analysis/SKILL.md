@@ -1,6 +1,6 @@
 ---
 name: seaborn-analysis
-description: Analysis with Seaborn. data analysis.
+description: "Analysis with Seaborn. data analysis."
 category: data
 tags: [seaborn, analysis, data, data-science]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: akamai-serverless
-description: Serverless with Akamai. functions.
+description: "Serverless with Akamai. functions."
 category: devops
 tags: [akamai-serverless, devops, russian]
 models: [sonnet, opus]

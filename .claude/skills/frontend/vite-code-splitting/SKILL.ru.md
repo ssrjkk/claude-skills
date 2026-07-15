@@ -1,6 +1,6 @@
 ---
 name: vite-code-splitting
-description: Code Splitting with Vite. lazy loading.
+description: "Code Splitting with Vite. lazy loading."
 category: frontend
 tags: [vite-code-splitting, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: dagger-deployment
-description: Deployment with Dagger. auto-deploy.
+description: "Deployment with Dagger. auto-deploy."
 category: devops
 tags: [dagger-deployment, devops, russian]
 models: [sonnet, opus]

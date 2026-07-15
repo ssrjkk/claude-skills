@@ -1,6 +1,6 @@
 ---
 name: vultr-storage
-description: Storage with Vultr. object storage.
+description: "Storage with Vultr. object storage."
 category: devops
 tags: [vultr-storage, devops, russian]
 models: [sonnet, opus]

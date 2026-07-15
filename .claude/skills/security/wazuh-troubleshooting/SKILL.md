@@ -1,6 +1,6 @@
 ---
 name: wazuh-troubleshooting
-description: Troubleshooting for Wazuh: troubleshooting common issues
+description: "Troubleshooting for Wazuh: troubleshooting common issues"
 category: security
 tags: [wazuh, troubleshooting, security]
 models: [sonnet, opus]

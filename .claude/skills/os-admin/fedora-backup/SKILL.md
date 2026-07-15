@@ -1,6 +1,6 @@
 ---
 name: fedora-backup
-description: Backup with Fedora. backup.
+description: "Backup with Fedora. backup."
 category: os-admin
 tags: [fedora, backup, os-admin, linux]
 models: [gpt-4, claude-3]

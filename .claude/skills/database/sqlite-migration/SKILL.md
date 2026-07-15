@@ -1,6 +1,6 @@
 ---
 name: sqlite-migration
-description: Migration with SQLite. schema migrations.
+description: "Migration with SQLite. schema migrations."
 category: database
 tags: [sqlite, migration, database, sql]
 models: [gpt-4, claude-3]

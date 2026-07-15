@@ -1,6 +1,6 @@
 ---
 name: ansible-advanced
-description: Advanced for Ansible: advanced patterns and techniques
+description: "Advanced for Ansible: advanced patterns and techniques"
 category: devops
 tags: [ansible-advanced, devops, russian]
 models: [sonnet, opus]

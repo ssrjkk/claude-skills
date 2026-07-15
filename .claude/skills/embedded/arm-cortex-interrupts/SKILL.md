@@ -1,6 +1,6 @@
 ---
 name: arm-cortex-interrupts
-description: Interrupts with ARM Cortex-M. interrupts.
+description: "Interrupts with ARM Cortex-M. interrupts."
 category: embedded
 tags: [arm-cortex, interrupts, embedded, embedded-arch]
 models: [gpt-4, claude-3]

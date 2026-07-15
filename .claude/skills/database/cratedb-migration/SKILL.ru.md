@@ -1,6 +1,6 @@
 ---
 name: cratedb-migration
-description: Migration with CrateDB. schema migrations.
+description: "Migration with CrateDB. schema migrations."
 category: database
 tags: [cratedb-migration, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: swc-bundling
-description: Bundling with SWC. code bundling.
+description: "Bundling with SWC. code bundling."
 category: frontend
 tags: [swc-bundling, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cohere-testing
-description: Testing for Cohere: testing and validation
+description: "Testing for Cohere: testing and validation"
 category: ai
 tags: [cohere, testing, ai]
 models: [sonnet, opus]

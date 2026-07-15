@@ -1,6 +1,6 @@
 ---
 name: llvm
-description: Development with Llvm: tools and best practices
+description: "Development with Llvm: tools and best practices"
 category: gamedev
 tags: [llvm, gamedev, russian]
 models: [sonnet, opus]

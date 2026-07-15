@@ -1,6 +1,6 @@
 ---
 name: skill-0063
-description: Specialized skill #0063 for devops development
+description: "Specialized skill #0063 for devops development"
 category: devops
 tags: [skill-0063, devops, russian]
 models: [sonnet, opus]

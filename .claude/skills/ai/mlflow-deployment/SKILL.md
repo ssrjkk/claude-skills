@@ -1,6 +1,6 @@
 ---
 name: mlflow-deployment
-description: Deployment with Mlflow. model serving.
+description: "Deployment with Mlflow. model serving."
 category: ai
 tags: [mlflow, deployment, ai, ml]
 models: [gpt-4, claude-3]

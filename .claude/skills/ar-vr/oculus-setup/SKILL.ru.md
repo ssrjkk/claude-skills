@@ -1,6 +1,6 @@
 ---
 name: oculus-setup
-description: Setup with Oculus SDK. SDK setup.
+description: "Setup with Oculus SDK. SDK setup."
 category: ar-vr
 tags: [oculus-setup, ar-vr, russian]
 models: [sonnet, opus]

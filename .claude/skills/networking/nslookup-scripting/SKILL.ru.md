@@ -1,6 +1,6 @@
 ---
 name: nslookup-scripting
-description: Scripting with nslookup/dig. automation.
+description: "Scripting with nslookup/dig. automation."
 category: networking
 tags: [nslookup-scripting, networking, russian]
 models: [sonnet, opus]

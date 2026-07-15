@@ -1,6 +1,6 @@
 ---
 name: unity-basics
-description: Basics for Unity: fundamentals and core concepts
+description: "Basics for Unity: fundamentals and core concepts"
 category: gamedev
 tags: [unity-basics, gamedev, russian]
 models: [sonnet, opus]

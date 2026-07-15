@@ -1,6 +1,6 @@
 ---
 name: javafx-ui
-description: UI with JavaFX. UI components.
+description: "UI with JavaFX. UI components."
 category: desktop
 tags: [javafx-ui, desktop, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: k0s-autoscaling
-description: Autoscaling with K0s. HPA.
+description: "Autoscaling with K0s. HPA."
 category: devops
 tags: [k0s, autoscaling, devops, kubernetes]
 models: [gpt-4, claude-3]

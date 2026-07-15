@@ -1,6 +1,6 @@
 ---
 name: echo-config
-description: Config with Echo. config management.
+description: "Config with Echo. config management."
 category: backend
 tags: [echo-config, backend, russian]
 models: [sonnet, opus]

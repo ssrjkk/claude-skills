@@ -1,6 +1,6 @@
 ---
 name: zephyr-production
-description: Production for Zephyr: production deployment
+description: "Production for Zephyr: production deployment"
 category: qa
 tags: [zephyr, production, qa]
 models: [sonnet, opus]

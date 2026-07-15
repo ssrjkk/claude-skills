@@ -1,6 +1,6 @@
 ---
 name: avr-memory
-description: Memory with AVR. memory layout.
+description: "Memory with AVR. memory layout."
 category: embedded
 tags: [avr, memory, embedded, embedded-arch]
 models: [gpt-4, claude-3]

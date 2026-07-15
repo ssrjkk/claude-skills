@@ -1,6 +1,6 @@
 ---
 name: yolo-feature-extraction
-description: Feature Extraction with Yolo. extracting features.
+description: "Feature Extraction with Yolo. extracting features."
 category: ai
 tags: [yolo-feature-extraction, ai, russian]
 models: [sonnet, opus]

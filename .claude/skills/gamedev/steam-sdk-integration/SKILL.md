@@ -1,6 +1,6 @@
 ---
 name: steam-sdk-integration
-description: Integration for Steam-Sdk: integration with other tools
+description: "Integration for Steam-Sdk: integration with other tools"
 category: gamedev
 tags: [steam-sdk, integration, gamedev]
 models: [sonnet, opus]

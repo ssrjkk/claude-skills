@@ -1,6 +1,6 @@
 ---
 name: lever-setup
-description: Setup with Lever. setup.
+description: "Setup with Lever. setup."
 category: hr
 tags: [lever-setup, hr, russian]
 models: [sonnet, opus]

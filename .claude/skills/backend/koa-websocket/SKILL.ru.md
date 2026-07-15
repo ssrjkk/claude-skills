@@ -1,6 +1,6 @@
 ---
 name: koa-websocket
-description: WebSocket with Koa. Socket.io.
+description: "WebSocket with Koa. Socket.io."
 category: backend
 tags: [koa-websocket, backend, russian]
 models: [sonnet, opus]

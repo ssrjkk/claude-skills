@@ -1,6 +1,6 @@
 ---
 name: cassandra-indexing
-description: Indexing with Cassandra. indexes.
+description: "Indexing with Cassandra. indexes."
 category: database
 tags: [cassandra-indexing, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: trino-integration
-description: Integration with Trino. connectors.
+description: "Integration with Trino. connectors."
 category: data
 tags: [trino, integration, data, data-engineering]
 models: [gpt-4, claude-3]

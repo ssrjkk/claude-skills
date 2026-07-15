@@ -1,6 +1,6 @@
 ---
 name: scala-testing
-description: Testing with Scala. writing tests.
+description: "Testing with Scala. writing tests."
 category: backend
 tags: [scala, testing, backend, backend]
 models: [gpt-4, claude-3]

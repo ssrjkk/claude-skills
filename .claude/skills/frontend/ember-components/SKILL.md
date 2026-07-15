@@ -1,6 +1,6 @@
 ---
 name: ember-components
-description: Components with Ember. building components.
+description: "Components with Ember. building components."
 category: frontend
 tags: [ember, components, frontend, frontend]
 models: [gpt-4, claude-3]

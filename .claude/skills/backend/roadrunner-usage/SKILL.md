@@ -1,6 +1,6 @@
 ---
 name: roadrunner-usage
-description: Usage for Roadrunner: usage reference
+description: "Usage for Roadrunner: usage reference"
 category: backend
 tags: [roadrunner, usage, backend]
 models: [sonnet, opus]

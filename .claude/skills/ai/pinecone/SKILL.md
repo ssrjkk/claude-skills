@@ -1,6 +1,6 @@
 ---
 name: pinecone
-description: Manages vector embeddings with Pinecone for semantic search, recommendation, and RAG pipelines.
+description: "Manages vector embeddings with Pinecone for semantic search, recommendation, and RAG pipelines."
 category: ai
 tags: [pinecone, vector-database, embeddings, search, rag]
 models: [sonnet, opus]

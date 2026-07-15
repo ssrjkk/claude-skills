@@ -1,6 +1,6 @@
 ---
 name: django-rest
-description: Creates REST APIs on Django with Django REST Framework. Use for Python web applications with powerful admin interface.
+description: "Creates REST APIs on Django with Django REST Framework. Use for Python web applications with powerful admin interface."
 category: backend
 tags: [django, drf, rest, python, admin]
 models: [sonnet, opus]

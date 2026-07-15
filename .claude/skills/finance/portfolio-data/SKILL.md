@@ -1,6 +1,6 @@
 ---
 name: portfolio-data
-description: Data with Portfolio Management. data sources.
+description: "Data with Portfolio Management. data sources."
 category: finance
 tags: [portfolio, data, finance, trading]
 models: [gpt-4, claude-3]

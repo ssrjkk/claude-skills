@@ -1,6 +1,6 @@
 ---
 name: chargebee-compliance
-description: Compliance with Chargebee. tax compliance.
+description: "Compliance with Chargebee. tax compliance."
 category: payments
 tags: [chargebee, compliance, payments, billing]
 models: [gpt-4, claude-3]

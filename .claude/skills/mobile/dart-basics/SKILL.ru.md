@@ -1,6 +1,6 @@
 ---
 name: dart-basics
-description: Basics for Dart: fundamentals and core concepts
+description: "Basics for Dart: fundamentals and core concepts"
 category: mobile
 tags: [dart-basics, mobile, russian]
 models: [sonnet, opus]

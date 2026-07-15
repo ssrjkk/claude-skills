@@ -1,6 +1,6 @@
 ---
 name: cdk8s-examples
-description: Examples for Cdk8S: practical examples
+description: "Examples for Cdk8S: practical examples"
 category: devops
 tags: [cdk8s, examples, devops]
 models: [sonnet, opus]

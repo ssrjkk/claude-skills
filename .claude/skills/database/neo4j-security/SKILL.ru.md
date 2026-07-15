@@ -1,6 +1,6 @@
 ---
 name: neo4j-security
-description: Security with Neo4j. security.
+description: "Security with Neo4j. security."
 category: database
 tags: [neo4j-security, database, russian]
 models: [sonnet, opus]

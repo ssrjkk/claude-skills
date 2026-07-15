@@ -1,6 +1,6 @@
 ---
 name: pcidss-best-practices
-description: Best Practices with PCI DSS. best practices.
+description: "Best Practices with PCI DSS. best practices."
 category: security
 tags: [pcidss, best-practices, security, security]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: weaviate-automation
-description: Automation for Weaviate: automation and scripting
+description: "Automation for Weaviate: automation and scripting"
 category: ai
 tags: [weaviate-automation, ai, russian]
 models: [sonnet, opus]

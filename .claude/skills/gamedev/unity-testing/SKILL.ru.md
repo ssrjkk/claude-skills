@@ -1,6 +1,6 @@
 ---
 name: unity-testing
-description: Testing for Unity: testing and validation
+description: "Testing for Unity: testing and validation"
 category: gamedev
 tags: [unity-testing, gamedev, russian]
 models: [sonnet, opus]

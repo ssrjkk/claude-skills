@@ -1,6 +1,6 @@
 ---
 name: quarkus-testing
-description: Testing with Quarkus. unit tests.
+description: "Testing with Quarkus. unit tests."
 category: backend
 tags: [quarkus-testing, backend, russian]
 models: [sonnet, opus]

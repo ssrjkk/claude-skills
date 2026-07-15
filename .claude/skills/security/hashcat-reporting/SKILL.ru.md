@@ -1,6 +1,6 @@
 ---
 name: hashcat-reporting
-description: Reporting with Hashcat. reports.
+description: "Reporting with Hashcat. reports."
 category: security
 tags: [hashcat-reporting, security, russian]
 models: [sonnet, opus]

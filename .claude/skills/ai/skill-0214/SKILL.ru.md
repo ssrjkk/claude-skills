@@ -1,6 +1,6 @@
 ---
 name: skill-0214
-description: Specialized skill #0214 for ai development
+description: "Specialized skill #0214 for ai development"
 category: ai
 tags: [skill-0214, ai, russian]
 models: [sonnet, opus]

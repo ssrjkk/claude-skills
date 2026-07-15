@@ -1,6 +1,6 @@
 ---
 name: information-architecture-reporting
-description: Reporting with Information Architecture. reports.
+description: "Reporting with Information Architecture. reports."
 category: design
 tags: [information-architecture, reporting, design, ux-research]
 models: [gpt-4, claude-3]

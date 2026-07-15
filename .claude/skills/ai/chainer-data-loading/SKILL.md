@@ -1,6 +1,6 @@
 ---
 name: chainer-data-loading
-description: Data Loading with Chainer. data pipelines.
+description: "Data Loading with Chainer. data pipelines."
 category: ai
 tags: [chainer, data-loading, ai, deep-learning]
 models: [gpt-4, claude-3]

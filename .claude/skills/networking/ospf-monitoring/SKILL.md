@@ -1,6 +1,6 @@
 ---
 name: ospf-monitoring
-description: Monitoring with OSPF. monitoring.
+description: "Monitoring with OSPF. monitoring."
 category: networking
 tags: [ospf, monitoring, networking, networking]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: pyroscope-intro
-description: Intro for Pyroscope: introduction
+description: "Intro for Pyroscope: introduction"
 category: devops
 tags: [pyroscope, intro, devops]
 models: [sonnet, opus]

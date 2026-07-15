@@ -1,6 +1,6 @@
 ---
 name: pulsar-etl
-description: ETL with Pulsar. extract-transform-load.
+description: "ETL with Pulsar. extract-transform-load."
 category: data
 tags: [pulsar, etl, data, data-engineering]
 models: [gpt-4, claude-3]

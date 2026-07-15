@@ -1,6 +1,6 @@
 ---
 name: apache-guides
-description: Guides for Apache: how-to guides
+description: "Guides for Apache: how-to guides"
 category: backend
 tags: [apache-guides, backend, russian]
 models: [sonnet, opus]

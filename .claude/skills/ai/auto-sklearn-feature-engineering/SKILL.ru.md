@@ -1,6 +1,6 @@
 ---
 name: auto-sklearn-feature-engineering
-description: Feature Engineering with Auto Sklearn. creating features.
+description: "Feature Engineering with Auto Sklearn. creating features."
 category: ai
 tags: [auto-sklearn-feature-engineering, ai, russian]
 models: [sonnet, opus]

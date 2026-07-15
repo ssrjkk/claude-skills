@@ -1,6 +1,6 @@
 ---
 name: dspy-tool-use
-description: Tool Use with Dspy. function calling.
+description: "Tool Use with Dspy. function calling."
 category: ai
 tags: [dspy-tool-use, ai, russian]
 models: [sonnet, opus]

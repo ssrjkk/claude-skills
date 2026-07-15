@@ -1,6 +1,6 @@
 ---
 name: invision-plugins
-description: Plugins with InVision. plugins.
+description: "Plugins with InVision. plugins."
 category: design
 tags: [invision-plugins, design, russian]
 models: [sonnet, opus]

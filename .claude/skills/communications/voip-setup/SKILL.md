@@ -1,6 +1,6 @@
 ---
 name: voip-setup
-description: Setup with VoIP. setup.
+description: "Setup with VoIP. setup."
 category: communications
 tags: [voip, setup, communications, communication-protocol]
 models: [gpt-4, claude-3]

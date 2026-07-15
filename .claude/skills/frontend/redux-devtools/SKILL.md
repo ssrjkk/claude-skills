@@ -1,6 +1,6 @@
 ---
 name: redux-devtools
-description: DevTools with Redux. debugging.
+description: "DevTools with Redux. debugging."
 category: frontend
 tags: [redux, devtools, frontend, state-management]
 models: [gpt-4, claude-3]

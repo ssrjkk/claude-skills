@@ -1,6 +1,6 @@
 ---
 name: pms-workflow
-description: Workflow with Practice Management. clinical workflow.
+description: "Workflow with Practice Management. clinical workflow."
 category: healthcare
 tags: [pms, workflow, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

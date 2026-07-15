@@ -1,6 +1,6 @@
 ---
 name: persona-analysis
-description: Analysis with Personas. data analysis.
+description: "Analysis with Personas. data analysis."
 category: design
 tags: [persona, analysis, design, ux-research]
 models: [gpt-4, claude-3]

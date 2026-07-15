@@ -1,6 +1,6 @@
 ---
 name: debezium-configuration
-description: Configuration for Debezium: configuration and setup
+description: "Configuration for Debezium: configuration and setup"
 category: database
 tags: [debezium-configuration, database, russian]
 models: [sonnet, opus]

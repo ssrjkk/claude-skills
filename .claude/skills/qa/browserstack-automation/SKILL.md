@@ -1,6 +1,6 @@
 ---
 name: browserstack-automation
-description: Automation for Browserstack: automation and scripting
+description: "Automation for Browserstack: automation and scripting"
 category: qa
 tags: [browserstack, automation, qa]
 models: [sonnet, opus]

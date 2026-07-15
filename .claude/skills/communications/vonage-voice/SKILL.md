@@ -1,6 +1,6 @@
 ---
 name: vonage-voice
-description: Voice with Vonage. voice calls.
+description: "Voice with Vonage. voice calls."
 category: communications
 tags: [vonage, voice, communications, communication-platform]
 models: [gpt-4, claude-3]

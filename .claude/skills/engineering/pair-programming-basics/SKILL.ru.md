@@ -1,6 +1,6 @@
 ---
 name: pair-programming-basics
-description: Basics with Pair Programming. fundamentals.
+description: "Basics with Pair Programming. fundamentals."
 category: engineering
 tags: [pair-programming-basics, engineering, russian]
 models: [sonnet, opus]

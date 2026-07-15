@@ -1,6 +1,6 @@
 ---
 name: aws-iot-integration
-description: Integration with AWS IoT. integrations.
+description: "Integration with AWS IoT. integrations."
 category: iot
 tags: [aws-iot, integration, iot, iot-platform]
 models: [gpt-4, claude-3]

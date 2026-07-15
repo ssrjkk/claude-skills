@@ -1,6 +1,6 @@
 ---
 name: open-banking-data
-description: Data with Open Banking. financial data.
+description: "Data with Open Banking. financial data."
 category: finance
 tags: [open-banking-data, finance, russian]
 models: [sonnet, opus]

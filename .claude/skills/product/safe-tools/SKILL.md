@@ -1,6 +1,6 @@
 ---
 name: safe-tools
-description: Tools with SAFe. tooling.
+description: "Tools with SAFe. tooling."
 category: product
 tags: [safe, tools, product, methodology]
 models: [gpt-4, claude-3]

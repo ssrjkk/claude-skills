@@ -1,6 +1,6 @@
 ---
 name: astro-middleware
-description: Middleware with Astro. request middleware.
+description: "Middleware with Astro. request middleware."
 category: frontend
 tags: [astro-middleware, frontend, russian]
 models: [sonnet, opus]

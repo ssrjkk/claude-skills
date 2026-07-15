@@ -1,6 +1,6 @@
 ---
 name: spine-production
-description: Production for Spine: production deployment
+description: "Production for Spine: production deployment"
 category: gamedev
 tags: [spine, production, gamedev]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vite-source-maps
-description: Source Maps with Vite. debugging.
+description: "Source Maps with Vite. debugging."
 category: frontend
 tags: [vite-source-maps, frontend, russian]
 models: [sonnet, opus]

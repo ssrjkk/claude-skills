@@ -1,6 +1,6 @@
 ---
 name: helm-testing
-description: Testing for Helm: testing and validation
+description: "Testing for Helm: testing and validation"
 category: devops
 tags: [helm-testing, devops, russian]
 models: [sonnet, opus]

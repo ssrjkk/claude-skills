@@ -1,6 +1,6 @@
 ---
 name: gotest-coverage
-description: Coverage with Go Test. code coverage.
+description: "Coverage with Go Test. code coverage."
 category: qa
 tags: [gotest-coverage, qa, russian]
 models: [sonnet, opus]

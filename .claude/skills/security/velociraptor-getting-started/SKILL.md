@@ -1,6 +1,6 @@
 ---
 name: velociraptor-getting-started
-description: Getting Started for Velociraptor: initial setup and first steps
+description: "Getting Started for Velociraptor: initial setup and first steps"
 category: security
 tags: [velociraptor, getting-started, security]
 models: [sonnet, opus]

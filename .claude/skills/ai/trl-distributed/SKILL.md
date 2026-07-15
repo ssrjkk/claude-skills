@@ -1,6 +1,6 @@
 ---
 name: trl-distributed
-description: Distributed with Trl. distributed training.
+description: "Distributed with Trl. distributed training."
 category: ai
 tags: [trl, distributed, ai, deep-learning]
 models: [gpt-4, claude-3]

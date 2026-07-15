@@ -1,6 +1,6 @@
 ---
 name: fiber-usage
-description: Usage for Fiber: usage reference
+description: "Usage for Fiber: usage reference"
 category: backend
 tags: [fiber, usage, backend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mongodb-mongoose-getting-started
-description: Getting Started for Mongodb-Mongoose: initial setup and first steps
+description: "Getting Started for Mongodb-Mongoose: initial setup and first steps"
 category: backend
 tags: [mongodb-mongoose, getting-started, backend]
 models: [sonnet, opus]

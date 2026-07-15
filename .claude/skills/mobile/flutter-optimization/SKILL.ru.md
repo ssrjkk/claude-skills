@@ -1,6 +1,6 @@
 ---
 name: flutter-optimization
-description: Optimization for Flutter: performance tuning and optimization
+description: "Optimization for Flutter: performance tuning and optimization"
 category: mobile
 tags: [flutter-optimization, mobile, russian]
 models: [sonnet, opus]

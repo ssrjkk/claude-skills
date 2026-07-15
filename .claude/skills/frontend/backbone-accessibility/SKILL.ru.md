@@ -1,6 +1,6 @@
 ---
 name: backbone-accessibility
-description: Accessibility with Backbone. a11y.
+description: "Accessibility with Backbone. a11y."
 category: frontend
 tags: [backbone-accessibility, frontend, russian]
 models: [sonnet, opus]

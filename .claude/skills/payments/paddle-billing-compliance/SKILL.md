@@ -1,6 +1,6 @@
 ---
 name: paddle-billing-compliance
-description: Compliance with Paddle Billing. tax compliance.
+description: "Compliance with Paddle Billing. tax compliance."
 category: payments
 tags: [paddle-billing, compliance, payments, billing]
 models: [gpt-4, claude-3]

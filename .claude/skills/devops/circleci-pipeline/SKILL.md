@@ -1,6 +1,6 @@
 ---
 name: circleci-pipeline
-description: Pipeline with CircleCI. pipeline creation.
+description: "Pipeline with CircleCI. pipeline creation."
 category: devops
 tags: [circleci, pipeline, devops, ci-cd]
 models: [gpt-4, claude-3]

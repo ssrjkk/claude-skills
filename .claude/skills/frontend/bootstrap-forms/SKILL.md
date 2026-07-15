@@ -1,6 +1,6 @@
 ---
 name: bootstrap-forms
-description: Forms with Bootstrap. form styling.
+description: "Forms with Bootstrap. form styling."
 category: frontend
 tags: [bootstrap, forms, frontend, css]
 models: [gpt-4, claude-3]

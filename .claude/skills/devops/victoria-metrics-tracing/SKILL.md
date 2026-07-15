@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-tracing
-description: Tracing with VictoriaMetrics. distributed tracing.
+description: "Tracing with VictoriaMetrics. distributed tracing."
 category: devops
 tags: [victoria-metrics, tracing, devops, monitoring]
 models: [gpt-4, claude-3]

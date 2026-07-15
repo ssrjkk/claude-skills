@@ -1,6 +1,6 @@
 ---
 name: scylla-schema
-description: Schema Design with ScyllaDB. schema design.
+description: "Schema Design with ScyllaDB. schema design."
 category: database
 tags: [scylla-schema, database, russian]
 models: [sonnet, opus]

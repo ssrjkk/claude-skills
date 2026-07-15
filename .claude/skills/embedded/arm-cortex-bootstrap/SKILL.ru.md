@@ -1,6 +1,6 @@
 ---
 name: arm-cortex-bootstrap
-description: Bootstrap with ARM Cortex-M. startup code.
+description: "Bootstrap with ARM Cortex-M. startup code."
 category: embedded
 tags: [arm-cortex-bootstrap, embedded, russian]
 models: [sonnet, opus]

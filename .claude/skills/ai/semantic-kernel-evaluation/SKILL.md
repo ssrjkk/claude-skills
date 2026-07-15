@@ -1,6 +1,6 @@
 ---
 name: semantic-kernel-evaluation
-description: Evaluation with Semantic Kernel. LLM evaluation.
+description: "Evaluation with Semantic Kernel. LLM evaluation."
 category: ai
 tags: [semantic-kernel, evaluation, ai, llm]
 models: [gpt-4, claude-3]

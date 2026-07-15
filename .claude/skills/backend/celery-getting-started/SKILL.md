@@ -1,6 +1,6 @@
 ---
 name: celery-getting-started
-description: Getting Started for Celery: initial setup and first steps
+description: "Getting Started for Celery: initial setup and first steps"
 category: backend
 tags: [celery, getting-started, backend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mailgun-chat
-description: Chat with Mailgun. chat.
+description: "Chat with Mailgun. chat."
 category: communications
 tags: [mailgun, chat, communications, communication-platform]
 models: [gpt-4, claude-3]

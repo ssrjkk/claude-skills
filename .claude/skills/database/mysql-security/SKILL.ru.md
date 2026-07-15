@@ -1,6 +1,6 @@
 ---
 name: mysql-security
-description: Security with MySQL. access control.
+description: "Security with MySQL. access control."
 category: database
 tags: [mysql-security, database, russian]
 models: [sonnet, opus]

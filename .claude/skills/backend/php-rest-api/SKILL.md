@@ -1,6 +1,6 @@
 ---
 name: php-rest-api
-description: REST API with Php. building REST APIs.
+description: "REST API with Php. building REST APIs."
 category: backend
 tags: [php, rest-api, backend, backend]
 models: [gpt-4, claude-3]

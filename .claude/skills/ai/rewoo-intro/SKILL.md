@@ -1,6 +1,6 @@
 ---
 name: rewoo-intro
-description: Intro for Rewoo: introduction
+description: "Intro for Rewoo: introduction"
 category: ai
 tags: [rewoo, intro, ai]
 models: [sonnet, opus]

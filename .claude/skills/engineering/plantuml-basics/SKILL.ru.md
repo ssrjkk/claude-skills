@@ -1,6 +1,6 @@
 ---
 name: plantuml-basics
-description: Basics with PlantUML. fundamentals.
+description: "Basics with PlantUML. fundamentals."
 category: engineering
 tags: [plantuml-basics, engineering, russian]
 models: [sonnet, opus]

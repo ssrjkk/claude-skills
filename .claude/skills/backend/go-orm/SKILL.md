@@ -1,6 +1,6 @@
 ---
 name: go-orm
-description: ORM with Go. database access.
+description: "ORM with Go. database access."
 category: backend
 tags: [go, orm, backend, backend]
 models: [gpt-4, claude-3]

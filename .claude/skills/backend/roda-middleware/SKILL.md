@@ -1,6 +1,6 @@
 ---
 name: roda-middleware
-description: Middleware with Roda. rack middleware.
+description: "Middleware with Roda. rack middleware."
 category: backend
 tags: [roda, middleware, backend, backend]
 models: [gpt-4, claude-3]

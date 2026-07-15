@@ -1,6 +1,6 @@
 ---
 name: nginx-cache-persistence
-description: Persistence with Nginx Cache. persistence.
+description: "Persistence with Nginx Cache. persistence."
 category: database
 tags: [nginx-cache-persistence, database, russian]
 models: [sonnet, opus]

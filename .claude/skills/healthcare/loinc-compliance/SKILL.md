@@ -1,6 +1,6 @@
 ---
 name: loinc-compliance
-description: Compliance with LOINC. compliance.
+description: "Compliance with LOINC. compliance."
 category: healthcare
 tags: [loinc, compliance, healthcare, healthcare]
 models: [gpt-4, claude-3]

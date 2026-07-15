@@ -1,6 +1,6 @@
 ---
 name: zeroheight-plugins
-description: Plugins with Zeroheight. plugins.
+description: "Plugins with Zeroheight. plugins."
 category: design
 tags: [zeroheight, plugins, design, design]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: redpanda-fundamentals
-description: Fundamentals for Redpanda: core concepts
+description: "Fundamentals for Redpanda: core concepts"
 category: data
 tags: [redpanda, fundamentals, data]
 models: [sonnet, opus]

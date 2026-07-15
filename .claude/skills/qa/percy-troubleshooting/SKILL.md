@@ -1,6 +1,6 @@
 ---
 name: percy-troubleshooting
-description: Troubleshooting for Percy: troubleshooting common issues
+description: "Troubleshooting for Percy: troubleshooting common issues"
 category: qa
 tags: [percy, troubleshooting, qa]
 models: [sonnet, opus]

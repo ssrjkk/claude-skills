@@ -1,6 +1,6 @@
 ---
 name: spring-testing
-description: Testing for Spring: testing and validation
+description: "Testing for Spring: testing and validation"
 category: backend
 tags: [spring, testing, backend]
 models: [sonnet, opus]

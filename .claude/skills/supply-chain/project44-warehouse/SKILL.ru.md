@@ -1,6 +1,6 @@
 ---
 name: project44-warehouse
-description: Warehouse with project44. warehouse ops.
+description: "Warehouse with project44. warehouse ops."
 category: supply-chain
 tags: [project44-warehouse, supply-chain, russian]
 models: [sonnet, opus]

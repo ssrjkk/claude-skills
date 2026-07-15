@@ -1,6 +1,6 @@
 ---
 name: compliance-trading-reporting
-description: Reporting with Trading Compliance. reports.
+description: "Reporting with Trading Compliance. reports."
 category: finance
 tags: [compliance-trading, reporting, finance, trading]
 models: [gpt-4, claude-3]

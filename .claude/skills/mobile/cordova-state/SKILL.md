@@ -1,6 +1,6 @@
 ---
 name: cordova-state
-description: State with Cordova. state management.
+description: "State with Cordova. state management."
 category: mobile
 tags: [cordova, state, mobile, mobile]
 models: [gpt-4, claude-3]

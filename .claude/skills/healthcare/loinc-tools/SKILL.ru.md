@@ -1,6 +1,6 @@
 ---
 name: loinc-tools
-description: Tools with LOINC. tools.
+description: "Tools with LOINC. tools."
 category: healthcare
 tags: [loinc-tools, healthcare, russian]
 models: [sonnet, opus]

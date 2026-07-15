@@ -1,6 +1,6 @@
 ---
 name: stable-diffusion-workflow
-description: Workflow for Stable-Diffusion: workflow optimization
+description: "Workflow for Stable-Diffusion: workflow optimization"
 category: ai
 tags: [stable-diffusion-workflow, ai, russian]
 models: [sonnet, opus]

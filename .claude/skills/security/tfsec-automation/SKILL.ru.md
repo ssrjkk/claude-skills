@@ -1,6 +1,6 @@
 ---
 name: tfsec-automation
-description: Automation for Tfsec: automation and scripting
+description: "Automation for Tfsec: automation and scripting"
 category: security
 tags: [tfsec-automation, security, russian]
 models: [sonnet, opus]

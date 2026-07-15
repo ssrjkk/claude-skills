@@ -1,6 +1,6 @@
 ---
 name: xgboost-experiment-tracking
-description: Experiment Tracking with Xgboost. tracking experiments.
+description: "Experiment Tracking with Xgboost. tracking experiments."
 category: ai
 tags: [xgboost, experiment-tracking, ai, ml]
 models: [gpt-4, claude-3]

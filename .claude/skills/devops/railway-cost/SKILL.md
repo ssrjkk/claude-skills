@@ -1,6 +1,6 @@
 ---
 name: railway-cost
-description: Cost with Railway. cost optimization.
+description: "Cost with Railway. cost optimization."
 category: devops
 tags: [railway, cost, devops, cloud]
 models: [gpt-4, claude-3]

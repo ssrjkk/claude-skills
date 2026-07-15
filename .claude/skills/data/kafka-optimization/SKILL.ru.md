@@ -1,6 +1,6 @@
 ---
 name: kafka-optimization
-description: Optimization with Kafka. performance.
+description: "Optimization with Kafka. performance."
 category: data
 tags: [kafka-optimization, data, russian]
 models: [sonnet, opus]

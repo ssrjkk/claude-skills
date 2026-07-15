@@ -1,6 +1,6 @@
 ---
 name: airflow-advanced
-description: Advanced for Airflow: advanced patterns and techniques
+description: "Advanced for Airflow: advanced patterns and techniques"
 category: data
 tags: [airflow-advanced, data, russian]
 models: [sonnet, opus]

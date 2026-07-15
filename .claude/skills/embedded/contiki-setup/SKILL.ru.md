@@ -1,6 +1,6 @@
 ---
 name: contiki-setup
-description: Setup with Contiki-NG. setup.
+description: "Setup with Contiki-NG. setup."
 category: embedded
 tags: [contiki-setup, embedded, russian]
 models: [sonnet, opus]

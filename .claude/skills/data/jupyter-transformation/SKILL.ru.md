@@ -1,6 +1,6 @@
 ---
 name: jupyter-transformation
-description: Transformation with Jupyter. transform.
+description: "Transformation with Jupyter. transform."
 category: data
 tags: [jupyter-transformation, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: selenoid-workflow
-description: Workflow for Selenoid: workflow optimization
+description: "Workflow for Selenoid: workflow optimization"
 category: qa
 tags: [selenoid, workflow, qa]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: spacy-tokenization
-description: Tokenization with Spacy. text tokenization.
+description: "Tokenization with Spacy. text tokenization."
 category: ai
 tags: [spacy-tokenization, ai, russian]
 models: [sonnet, opus]

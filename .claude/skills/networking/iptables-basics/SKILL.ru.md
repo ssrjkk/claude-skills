@@ -1,6 +1,6 @@
 ---
 name: iptables-basics
-description: Basics with iptables/nftables. basic usage.
+description: "Basics with iptables/nftables. basic usage."
 category: networking
 tags: [iptables-basics, networking, russian]
 models: [sonnet, opus]

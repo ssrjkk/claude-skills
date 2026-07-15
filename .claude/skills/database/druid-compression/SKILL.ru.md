@@ -1,6 +1,6 @@
 ---
 name: druid-compression
-description: Compression with Apache Druid. compression.
+description: "Compression with Apache Druid. compression."
 category: database
 tags: [druid-compression, database, russian]
 models: [sonnet, opus]

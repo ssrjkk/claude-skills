@@ -1,6 +1,6 @@
 ---
 name: evidently-troubleshooting
-description: Troubleshooting for Evidently: troubleshooting common issues
+description: "Troubleshooting for Evidently: troubleshooting common issues"
 category: data
 tags: [evidently-troubleshooting, data, russian]
 models: [sonnet, opus]

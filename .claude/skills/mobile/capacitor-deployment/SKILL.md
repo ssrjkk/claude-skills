@@ -1,6 +1,6 @@
 ---
 name: capacitor-deployment
-description: Deployment with Capacitor. app store.
+description: "Deployment with Capacitor. app store."
 category: mobile
 tags: [capacitor, deployment, mobile, mobile]
 models: [gpt-4, claude-3]

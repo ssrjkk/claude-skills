@@ -1,6 +1,6 @@
 ---
 name: zeek-workflow
-description: Workflow for Zeek: workflow optimization
+description: "Workflow for Zeek: workflow optimization"
 category: security
 tags: [zeek, workflow, security]
 models: [sonnet, opus]

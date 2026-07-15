@@ -1,6 +1,6 @@
 ---
 name: openid-basics
-description: Basics with OpenID Connect. fundamentals.
+description: "Basics with OpenID Connect. fundamentals."
 category: security
 tags: [openid-basics, security, russian]
 models: [sonnet, opus]

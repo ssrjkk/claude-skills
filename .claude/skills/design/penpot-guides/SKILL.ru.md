@@ -1,6 +1,6 @@
 ---
 name: penpot-guides
-description: Guides for Penpot: how-to guides
+description: "Guides for Penpot: how-to guides"
 category: design
 tags: [penpot-guides, design, russian]
 models: [sonnet, opus]

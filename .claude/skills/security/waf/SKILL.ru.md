@@ -1,6 +1,6 @@
 ---
 name: waf
-description: Configures Web Application Firewall protection with ModSecurity, CRS rules, and blocking policies.
+description: "Configures Web Application Firewall protection with ModSecurity, CRS rules, and blocking policies."
 category: security
 tags: [waf, security, russian]
 models: [sonnet, opus]

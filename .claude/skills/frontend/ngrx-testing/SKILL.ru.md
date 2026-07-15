@@ -1,6 +1,6 @@
 ---
 name: ngrx-testing
-description: Testing with NgRx. state testing.
+description: "Testing with NgRx. state testing."
 category: frontend
 tags: [ngrx-testing, frontend, russian]
 models: [sonnet, opus]

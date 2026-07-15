@@ -1,6 +1,6 @@
 ---
 name: locust-monitoring
-description: Monitoring for Locust: monitoring and observability
+description: "Monitoring for Locust: monitoring and observability"
 category: qa
 tags: [locust-monitoring, qa, russian]
 models: [sonnet, opus]

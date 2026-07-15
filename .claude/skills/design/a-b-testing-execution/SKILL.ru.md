@@ -1,6 +1,6 @@
 ---
 name: a-b-testing-execution
-description: Execution with A/B Testing. running sessions.
+description: "Execution with A/B Testing. running sessions."
 category: design
 tags: [a-b-testing-execution, design, russian]
 models: [sonnet, opus]

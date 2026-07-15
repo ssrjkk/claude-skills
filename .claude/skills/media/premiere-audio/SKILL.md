@@ -1,6 +1,6 @@
 ---
 name: premiere-audio
-description: Audio with Premiere Pro. audio editing.
+description: "Audio with Premiere Pro. audio editing."
 category: media
 tags: [premiere, audio, media, media-production]
 models: [gpt-4, claude-3]

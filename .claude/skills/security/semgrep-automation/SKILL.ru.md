@@ -1,6 +1,6 @@
 ---
 name: semgrep-automation
-description: Automation for Semgrep: automation and scripting
+description: "Automation for Semgrep: automation and scripting"
 category: security
 tags: [semgrep-automation, security, russian]
 models: [sonnet, opus]

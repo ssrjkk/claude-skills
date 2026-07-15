@@ -1,6 +1,6 @@
 ---
 name: clearml-model-selection
-description: Model Selection with Clearml. choosing models.
+description: "Model Selection with Clearml. choosing models."
 category: ai
 tags: [clearml, model-selection, ai, ml]
 models: [gpt-4, claude-3]

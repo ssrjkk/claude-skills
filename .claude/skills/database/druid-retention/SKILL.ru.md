@@ -1,6 +1,6 @@
 ---
 name: druid-retention
-description: Retention with Apache Druid. data retention.
+description: "Retention with Apache Druid. data retention."
 category: database
 tags: [druid-retention, database, russian]
 models: [sonnet, opus]

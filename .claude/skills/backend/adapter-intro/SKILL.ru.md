@@ -1,6 +1,6 @@
 ---
 name: adapter-intro
-description: Introduction with Adapter. understanding the pattern.
+description: "Introduction with Adapter. understanding the pattern."
 category: backend
 tags: [adapter-intro, backend, russian]
 models: [sonnet, opus]

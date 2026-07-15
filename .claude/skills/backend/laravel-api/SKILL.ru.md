@@ -1,6 +1,6 @@
 ---
 name: laravel-api
-description: API with Laravel. APIs.
+description: "API with Laravel. APIs."
 category: backend
 tags: [laravel-api, backend, russian]
 models: [sonnet, opus]

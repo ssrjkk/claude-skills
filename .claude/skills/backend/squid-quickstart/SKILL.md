@@ -1,6 +1,6 @@
 ---
 name: squid-quickstart
-description: Quickstart for Squid: quick start guide
+description: "Quickstart for Squid: quick start guide"
 category: backend
 tags: [squid, quickstart, backend]
 models: [sonnet, opus]

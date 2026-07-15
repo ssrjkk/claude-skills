@@ -1,6 +1,6 @@
 ---
 name: presto-etl
-description: ETL with Presto. extract-transform-load.
+description: "ETL with Presto. extract-transform-load."
 category: data
 tags: [presto-etl, data, russian]
 models: [sonnet, opus]

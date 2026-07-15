@@ -1,6 +1,6 @@
 ---
 name: debezium-automation
-description: Automation for Debezium: automation and scripting
+description: "Automation for Debezium: automation and scripting"
 category: database
 tags: [debezium-automation, database, russian]
 models: [sonnet, opus]

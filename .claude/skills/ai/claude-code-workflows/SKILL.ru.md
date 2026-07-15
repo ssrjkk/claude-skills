@@ -1,6 +1,6 @@
 ---
 name: claude-code-workflows
-description: Advanced Claude Code workflows and automation
+description: "Advanced Claude Code workflows and automation"
 category: ai
 tags: [claude-code-workflows, ai, russian]
 models: [sonnet, opus]

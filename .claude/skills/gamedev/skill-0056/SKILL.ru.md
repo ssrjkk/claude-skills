@@ -1,6 +1,6 @@
 ---
 name: skill-0056
-description: Specialized skill #0056 for gamedev development
+description: "Specialized skill #0056 for gamedev development"
 category: gamedev
 tags: [skill-0056, gamedev, russian]
 models: [sonnet, opus]

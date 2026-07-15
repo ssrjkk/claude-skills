@@ -1,6 +1,6 @@
 ---
 name: mithril-ssr
-description: SSR with Mithril. server rendering.
+description: "SSR with Mithril. server rendering."
 category: frontend
 tags: [mithril-ssr, frontend, russian]
 models: [sonnet, opus]

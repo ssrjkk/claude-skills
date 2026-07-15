@@ -1,6 +1,6 @@
 ---
 name: arbitrum-nft
-description: NFT with Arbitrum. tokens.
+description: "NFT with Arbitrum. tokens."
 category: blockchain
 tags: [arbitrum, nft, blockchain, blockchain]
 models: [gpt-4, claude-3]

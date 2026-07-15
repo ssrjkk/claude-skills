@@ -1,6 +1,6 @@
 ---
 name: podman-compose
-description: Compose with Podman. multi-container.
+description: "Compose with Podman. multi-container."
 category: devops
 tags: [podman-compose, devops, russian]
 models: [sonnet, opus]

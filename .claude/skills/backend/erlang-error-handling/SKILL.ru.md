@@ -1,6 +1,6 @@
 ---
 name: erlang-error-handling
-description: Error Handling with Erlang. error management.
+description: "Error Handling with Erlang. error management."
 category: backend
 tags: [erlang-error-handling, backend, russian]
 models: [sonnet, opus]

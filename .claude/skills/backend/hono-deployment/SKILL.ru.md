@@ -1,6 +1,6 @@
 ---
 name: hono-deployment
-description: Deployment with Hono. deploy.
+description: "Deployment with Hono. deploy."
 category: backend
 tags: [hono-deployment, backend, russian]
 models: [sonnet, opus]

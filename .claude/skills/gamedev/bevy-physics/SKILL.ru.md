@@ -1,6 +1,6 @@
 ---
 name: bevy-physics
-description: Physics with Bevy. physics.
+description: "Physics with Bevy. physics."
 category: gamedev
 tags: [bevy-physics, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: marvin-streaming
-description: Streaming with Marvin. token streaming.
+description: "Streaming with Marvin. token streaming."
 category: ai
 tags: [marvin-streaming, ai, russian]
 models: [sonnet, opus]

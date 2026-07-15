@@ -1,6 +1,6 @@
 ---
 name: openshift-monitoring
-description: Monitoring with OpenShift. monitoring.
+description: "Monitoring with OpenShift. monitoring."
 category: devops
 tags: [openshift-monitoring, devops, russian]
 models: [sonnet, opus]

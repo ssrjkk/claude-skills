@@ -1,6 +1,6 @@
 ---
 name: cdk-state
-description: State with AWS CDK. state management.
+description: "State with AWS CDK. state management."
 category: devops
 tags: [cdk, state, devops, iac]
 models: [gpt-4, claude-3]

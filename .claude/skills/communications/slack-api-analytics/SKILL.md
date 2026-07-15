@@ -1,6 +1,6 @@
 ---
 name: slack-api-analytics
-description: Analytics with Slack API. analytics.
+description: "Analytics with Slack API. analytics."
 category: communications
 tags: [slack-api, analytics, communications, communication-platform]
 models: [gpt-4, claude-3]

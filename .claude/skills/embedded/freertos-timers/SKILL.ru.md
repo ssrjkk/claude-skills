@@ -1,6 +1,6 @@
 ---
 name: freertos-timers
-description: Timers with FreeRTOS. software timers.
+description: "Timers with FreeRTOS. software timers."
 category: embedded
 tags: [freertos-timers, embedded, russian]
 models: [sonnet, opus]

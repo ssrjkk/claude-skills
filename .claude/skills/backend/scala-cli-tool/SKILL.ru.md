@@ -1,6 +1,6 @@
 ---
 name: scala-cli-tool
-description: CLI Tool with Scala. building CLI tools.
+description: "CLI Tool with Scala. building CLI tools."
 category: backend
 tags: [scala-cli-tool, backend, russian]
 models: [sonnet, opus]

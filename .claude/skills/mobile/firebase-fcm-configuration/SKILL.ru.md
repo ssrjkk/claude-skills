@@ -1,6 +1,6 @@
 ---
 name: firebase-fcm-configuration
-description: Configuration for Firebase-Fcm: configuration and setup
+description: "Configuration for Firebase-Fcm: configuration and setup"
 category: mobile
 tags: [firebase-fcm-configuration, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: caddy-quickstart
-description: Quickstart for Caddy: quick start guide
+description: "Quickstart for Caddy: quick start guide"
 category: backend
 tags: [caddy, quickstart, backend]
 models: [sonnet, opus]

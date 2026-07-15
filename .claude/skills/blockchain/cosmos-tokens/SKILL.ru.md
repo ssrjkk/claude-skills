@@ -1,6 +1,6 @@
 ---
 name: cosmos-tokens
-description: Tokens with Cosmos. token standards.
+description: "Tokens with Cosmos. token standards."
 category: blockchain
 tags: [cosmos-tokens, blockchain, russian]
 models: [sonnet, opus]

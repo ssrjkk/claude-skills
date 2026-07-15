@@ -1,6 +1,6 @@
 ---
 name: bamboo-deployment
-description: Deployment with Bamboo. auto-deploy.
+description: "Deployment with Bamboo. auto-deploy."
 category: devops
 tags: [bamboo, deployment, devops, ci-cd]
 models: [gpt-4, claude-3]

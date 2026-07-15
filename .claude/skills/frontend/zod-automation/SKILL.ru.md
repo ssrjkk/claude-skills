@@ -1,6 +1,6 @@
 ---
 name: zod-automation
-description: Automation for Zod: automation and scripting
+description: "Automation for Zod: automation and scripting"
 category: frontend
 tags: [zod-automation, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: tide-testing
-description: Testing with Tide. unit tests.
+description: "Testing with Tide. unit tests."
 category: backend
 tags: [tide-testing, backend, russian]
 models: [sonnet, opus]

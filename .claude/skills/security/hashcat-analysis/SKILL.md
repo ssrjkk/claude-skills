@@ -1,6 +1,6 @@
 ---
 name: hashcat-analysis
-description: Analysis with Hashcat. analysis.
+description: "Analysis with Hashcat. analysis."
 category: security
 tags: [hashcat, analysis, security, security-tool]
 models: [gpt-4, claude-3]

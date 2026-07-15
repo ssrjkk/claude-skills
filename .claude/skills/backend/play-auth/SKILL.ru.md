@@ -1,6 +1,6 @@
 ---
 name: play-auth
-description: Auth with Play. security.
+description: "Auth with Play. security."
 category: backend
 tags: [play-auth, backend, russian]
 models: [sonnet, opus]

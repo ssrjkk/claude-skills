@@ -1,6 +1,6 @@
 ---
 name: katalon-ci
-description: CI with Katalon. CI integration.
+description: "CI with Katalon. CI integration."
 category: qa
 tags: [katalon-ci, qa, russian]
 models: [sonnet, opus]

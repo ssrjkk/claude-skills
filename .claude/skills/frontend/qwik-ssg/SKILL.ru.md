@@ -1,6 +1,6 @@
 ---
 name: qwik-ssg
-description: SSG with Qwik. static generation.
+description: "SSG with Qwik. static generation."
 category: frontend
 tags: [qwik-ssg, frontend, russian]
 models: [sonnet, opus]

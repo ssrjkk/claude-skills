@@ -1,6 +1,6 @@
 ---
 name: pcidss-monitoring
-description: Monitoring with PCI DSS. security monitoring.
+description: "Monitoring with PCI DSS. security monitoring."
 category: security
 tags: [pcidss-monitoring, security, russian]
 models: [sonnet, opus]

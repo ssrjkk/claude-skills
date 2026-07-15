@@ -1,6 +1,6 @@
 ---
 name: unity-ads-automation
-description: Automation for Unity-Ads: automation and scripting
+description: "Automation for Unity-Ads: automation and scripting"
 category: gamedev
 tags: [unity-ads, automation, gamedev]
 models: [sonnet, opus]

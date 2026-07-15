@@ -1,6 +1,6 @@
 ---
 name: render-security
-description: Security with Render. cloud security.
+description: "Security with Render. cloud security."
 category: devops
 tags: [render-security, devops, russian]
 models: [sonnet, opus]

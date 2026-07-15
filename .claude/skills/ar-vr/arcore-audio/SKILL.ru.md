@@ -1,6 +1,6 @@
 ---
 name: arcore-audio
-description: Audio with ARCore. spatial audio.
+description: "Audio with ARCore. spatial audio."
 category: ar-vr
 tags: [arcore-audio, ar-vr, russian]
 models: [sonnet, opus]

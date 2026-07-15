@@ -1,6 +1,6 @@
 ---
 name: material-tailwind-quickstart
-description: Quickstart for Material-Tailwind: quick start guide
+description: "Quickstart for Material-Tailwind: quick start guide"
 category: frontend
 tags: [material-tailwind, quickstart, frontend]
 models: [sonnet, opus]

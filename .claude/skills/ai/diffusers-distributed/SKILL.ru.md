@@ -1,6 +1,6 @@
 ---
 name: diffusers-distributed
-description: Distributed with Diffusers. distributed training.
+description: "Distributed with Diffusers. distributed training."
 category: ai
 tags: [diffusers-distributed, ai, russian]
 models: [sonnet, opus]

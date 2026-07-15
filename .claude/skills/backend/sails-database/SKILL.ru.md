@@ -1,6 +1,6 @@
 ---
 name: sails-database
-description: Database with Sails.js. ORM.
+description: "Database with Sails.js. ORM."
 category: backend
 tags: [sails-database, backend, russian]
 models: [sonnet, opus]

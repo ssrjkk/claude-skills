@@ -1,6 +1,6 @@
 ---
 name: matplotlib-cleaning
-description: Cleaning with Matplotlib. data cleaning.
+description: "Cleaning with Matplotlib. data cleaning."
 category: data
 tags: [matplotlib-cleaning, data, russian]
 models: [sonnet, opus]

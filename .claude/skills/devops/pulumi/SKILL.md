@@ -1,6 +1,6 @@
 ---
 name: pulumi
-description: Provisions cloud infrastructure with Pulumi using TypeScript, Python, Go, or C#. Use for modern IaC with real programming languages.
+description: "Provisions cloud infrastructure with Pulumi using TypeScript, Python, Go, or C#. Use for modern IaC with real programming languages."
 category: devops
 tags: [pulumi, iac, typescript, cloud, infrastructure]
 models: [sonnet, opus]

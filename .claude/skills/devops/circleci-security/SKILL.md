@@ -1,6 +1,6 @@
 ---
 name: circleci-security
-description: Security with CircleCI. security scanning.
+description: "Security with CircleCI. security scanning."
 category: devops
 tags: [circleci, security, devops, ci-cd]
 models: [gpt-4, claude-3]

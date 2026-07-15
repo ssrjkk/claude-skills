@@ -1,6 +1,6 @@
 ---
 name: htmx
-description: Builds dynamic web UIs with htmx, HTML-over-the-Wire, and hypermedia-driven interactions. Use for server-rendered apps with modern UX.
+description: "Builds dynamic web UIs with htmx, HTML-over-the-Wire, and hypermedia-driven interactions. Use for server-rendered apps with modern UX."
 category: frontend
 tags: [htmx, html, hypermedia, ajax, server-rendered]
 models: [sonnet, opus]

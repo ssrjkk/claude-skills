@@ -1,6 +1,6 @@
 ---
 name: llama-index-prompting
-description: Prompt Engineering with Llama Index. prompt templates.
+description: "Prompt Engineering with Llama Index. prompt templates."
 category: ai
 tags: [llama-index, prompting, ai, llm]
 models: [gpt-4, claude-3]

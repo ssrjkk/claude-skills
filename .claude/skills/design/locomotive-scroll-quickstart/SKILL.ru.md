@@ -1,6 +1,6 @@
 ---
 name: locomotive-scroll-quickstart
-description: Quickstart for Locomotive-Scroll: quick start guide
+description: "Quickstart for Locomotive-Scroll: quick start guide"
 category: design
 tags: [locomotive-scroll-quickstart, design, russian]
 models: [sonnet, opus]

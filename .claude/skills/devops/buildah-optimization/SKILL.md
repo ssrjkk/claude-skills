@@ -1,6 +1,6 @@
 ---
 name: buildah-optimization
-description: Optimization with Buildah. image optimization.
+description: "Optimization with Buildah. image optimization."
 category: devops
 tags: [buildah, optimization, devops, container]
 models: [gpt-4, claude-3]

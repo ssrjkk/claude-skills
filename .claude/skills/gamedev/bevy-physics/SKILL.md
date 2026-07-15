@@ -1,6 +1,6 @@
 ---
 name: bevy-physics
-description: Physics with Bevy. physics.
+description: "Physics with Bevy. physics."
 category: gamedev
 tags: [bevy, physics, gamedev, game-engine]
 models: [gpt-4, claude-3]

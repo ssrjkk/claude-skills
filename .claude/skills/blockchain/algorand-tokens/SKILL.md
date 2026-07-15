@@ -1,6 +1,6 @@
 ---
 name: algorand-tokens
-description: Tokens with Algorand. token standards.
+description: "Tokens with Algorand. token standards."
 category: blockchain
 tags: [algorand, tokens, blockchain, blockchain]
 models: [gpt-4, claude-3]

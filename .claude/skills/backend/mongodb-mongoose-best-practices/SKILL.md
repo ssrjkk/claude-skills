@@ -1,6 +1,6 @@
 ---
 name: mongodb-mongoose-best-practices
-description: Best Practices for Mongodb-Mongoose: best practices and patterns
+description: "Best Practices for Mongodb-Mongoose: best practices and patterns"
 category: backend
 tags: [mongodb-mongoose, best-practices, backend]
 models: [sonnet, opus]

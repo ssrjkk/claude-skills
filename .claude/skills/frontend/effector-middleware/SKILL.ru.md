@@ -1,6 +1,6 @@
 ---
 name: effector-middleware
-description: Middleware with Effector. side effects.
+description: "Middleware with Effector. side effects."
 category: frontend
 tags: [effector-middleware, frontend, russian]
 models: [sonnet, opus]

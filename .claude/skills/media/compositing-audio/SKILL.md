@@ -1,6 +1,6 @@
 ---
 name: compositing-audio
-description: Audio with Compositing. audio editing.
+description: "Audio with Compositing. audio editing."
 category: media
 tags: [compositing, audio, media, media-production]
 models: [gpt-4, claude-3]

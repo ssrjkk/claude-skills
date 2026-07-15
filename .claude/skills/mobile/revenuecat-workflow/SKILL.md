@@ -1,6 +1,6 @@
 ---
 name: revenuecat-workflow
-description: Workflow for Revenuecat: workflow optimization
+description: "Workflow for Revenuecat: workflow optimization"
 category: mobile
 tags: [revenuecat, workflow, mobile]
 models: [sonnet, opus]

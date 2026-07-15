@@ -1,6 +1,6 @@
 ---
 name: thingsboard-automation
-description: Automation with ThingsBoard. automation.
+description: "Automation with ThingsBoard. automation."
 category: iot
 tags: [thingsboard, automation, iot, iot-platform]
 models: [gpt-4, claude-3]

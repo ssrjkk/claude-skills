@@ -1,6 +1,6 @@
 ---
 name: svelte-basics
-description: Basics for Svelte: fundamentals and core concepts
+description: "Basics for Svelte: fundamentals and core concepts"
 category: frontend
 tags: [svelte, basics, frontend]
 models: [sonnet, opus]

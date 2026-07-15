@@ -1,6 +1,6 @@
 ---
 name: code-review-best-practices
-description: Best Practices with Code Review. tips.
+description: "Best Practices with Code Review. tips."
 category: engineering
 tags: [code-review-best-practices, engineering, russian]
 models: [sonnet, opus]

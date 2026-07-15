@@ -1,6 +1,6 @@
 ---
 name: fastlane-integration
-description: Integration for Fastlane: integration with other tools
+description: "Integration for Fastlane: integration with other tools"
 category: mobile
 tags: [fastlane-integration, mobile, russian]
 models: [sonnet, opus]

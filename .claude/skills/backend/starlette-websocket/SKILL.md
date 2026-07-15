@@ -1,6 +1,6 @@
 ---
 name: starlette-websocket
-description: WebSocket with Starlette. real-time.
+description: "WebSocket with Starlette. real-time."
 category: backend
 tags: [starlette, websocket, backend, backend]
 models: [gpt-4, claude-3]

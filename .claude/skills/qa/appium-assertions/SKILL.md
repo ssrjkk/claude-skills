@@ -1,6 +1,6 @@
 ---
 name: appium-assertions
-description: Assertions with Appium. assertions.
+description: "Assertions with Appium. assertions."
 category: qa
 tags: [appium, assertions, qa, e2e]
 models: [gpt-4, claude-3]

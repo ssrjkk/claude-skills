@@ -1,6 +1,6 @@
 ---
 name: flyio-cost
-description: Cost with Fly.io. cost optimization.
+description: "Cost with Fly.io. cost optimization."
 category: devops
 tags: [flyio-cost, devops, russian]
 models: [sonnet, opus]

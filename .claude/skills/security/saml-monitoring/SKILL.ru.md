@@ -1,6 +1,6 @@
 ---
 name: saml-monitoring
-description: Monitoring with SAML. security monitoring.
+description: "Monitoring with SAML. security monitoring."
 category: security
 tags: [saml-monitoring, security, russian]
 models: [sonnet, opus]

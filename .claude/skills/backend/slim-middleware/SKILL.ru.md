@@ -1,6 +1,6 @@
 ---
 name: slim-middleware
-description: Middleware with Slim. pipeline.
+description: "Middleware with Slim. pipeline."
 category: backend
 tags: [slim-middleware, backend, russian]
 models: [sonnet, opus]

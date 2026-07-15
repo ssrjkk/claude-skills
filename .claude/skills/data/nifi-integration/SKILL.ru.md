@@ -1,6 +1,6 @@
 ---
 name: nifi-integration
-description: Integration with NiFi. connectors.
+description: "Integration with NiFi. connectors."
 category: data
 tags: [nifi-integration, data, russian]
 models: [sonnet, opus]

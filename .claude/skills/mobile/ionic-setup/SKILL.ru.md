@@ -1,6 +1,6 @@
 ---
 name: ionic-setup
-description: Setup with Ionic. setup.
+description: "Setup with Ionic. setup."
 category: mobile
 tags: [ionic-setup, mobile, russian]
 models: [sonnet, opus]

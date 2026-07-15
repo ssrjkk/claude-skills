@@ -1,6 +1,6 @@
 ---
 name: containerd-registry
-description: Registry with containerd. image registry.
+description: "Registry with containerd. image registry."
 category: devops
 tags: [containerd-registry, devops, russian]
 models: [sonnet, opus]

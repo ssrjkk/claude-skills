@@ -1,6 +1,6 @@
 ---
 name: nativescript-navigation
-description: Navigation with NativeScript. navigation.
+description: "Navigation with NativeScript. navigation."
 category: mobile
 tags: [nativescript, navigation, mobile, mobile]
 models: [gpt-4, claude-3]

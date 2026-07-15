@@ -1,6 +1,6 @@
 ---
 name: lightgbm-experiment-tracking
-description: Experiment Tracking with Lightgbm. tracking experiments.
+description: "Experiment Tracking with Lightgbm. tracking experiments."
 category: ai
 tags: [lightgbm-experiment-tracking, ai, russian]
 models: [sonnet, opus]

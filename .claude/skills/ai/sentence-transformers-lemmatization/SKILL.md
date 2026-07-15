@@ -1,6 +1,6 @@
 ---
 name: sentence-transformers-lemmatization
-description: Lemmatization with Sentence Transformers. word lemmatization.
+description: "Lemmatization with Sentence Transformers. word lemmatization."
 category: ai
 tags: [sentence-transformers, lemmatization, ai, nlp]
 models: [gpt-4, claude-3]

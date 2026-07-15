@@ -1,6 +1,6 @@
 ---
 name: yii-testing
-description: Testing with Yii. PHPUnit.
+description: "Testing with Yii. PHPUnit."
 category: backend
 tags: [yii, testing, backend, backend]
 models: [gpt-4, claude-3]

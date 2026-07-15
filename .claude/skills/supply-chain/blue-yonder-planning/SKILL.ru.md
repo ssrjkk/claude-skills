@@ -1,6 +1,6 @@
 ---
 name: blue-yonder-planning
-description: Planning with Blue Yonder. demand planning.
+description: "Planning with Blue Yonder. demand planning."
 category: supply-chain
 tags: [blue-yonder-planning, supply-chain, russian]
 models: [sonnet, opus]

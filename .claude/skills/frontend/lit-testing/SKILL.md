@@ -1,6 +1,6 @@
 ---
 name: lit-testing
-description: Testing with Lit. component testing.
+description: "Testing with Lit. component testing."
 category: frontend
 tags: [lit, testing, frontend, frontend]
 models: [gpt-4, claude-3]

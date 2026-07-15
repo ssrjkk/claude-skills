@@ -1,6 +1,6 @@
 ---
 name: puppeteer-reporting
-description: Reporting with Puppeteer. reports.
+description: "Reporting with Puppeteer. reports."
 category: qa
 tags: [puppeteer, reporting, qa, e2e]
 models: [gpt-4, claude-3]

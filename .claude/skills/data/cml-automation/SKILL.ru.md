@@ -1,6 +1,6 @@
 ---
 name: cml-automation
-description: Automation for Cml: automation and scripting
+description: "Automation for Cml: automation and scripting"
 category: data
 tags: [cml-automation, data, russian]
 models: [sonnet, opus]

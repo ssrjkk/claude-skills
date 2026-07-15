@@ -1,6 +1,6 @@
 ---
 name: ansible-testing
-description: Testing with Ansible. infra testing.
+description: "Testing with Ansible. infra testing."
 category: devops
 tags: [ansible, testing, devops, iac]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: gitlab-ci-pipeline
-description: Pipeline with GitLab CI. pipeline creation.
+description: "Pipeline with GitLab CI. pipeline creation."
 category: devops
 tags: [gitlab-ci-pipeline, devops, russian]
 models: [sonnet, opus]

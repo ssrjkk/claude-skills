@@ -1,6 +1,6 @@
 ---
 name: color-grading-audio
-description: Audio with Color Grading. audio editing.
+description: "Audio with Color Grading. audio editing."
 category: media
 tags: [color-grading, audio, media, media-production]
 models: [gpt-4, claude-3]

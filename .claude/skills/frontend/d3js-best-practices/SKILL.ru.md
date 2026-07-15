@@ -1,6 +1,6 @@
 ---
 name: d3js-best-practices
-description: Best Practices for D3Js: best practices and patterns
+description: "Best Practices for D3Js: best practices and patterns"
 category: frontend
 tags: [d3js-best-practices, frontend, russian]
 models: [sonnet, opus]

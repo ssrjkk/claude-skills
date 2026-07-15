@@ -1,6 +1,6 @@
 ---
 name: scikit-image-color-processing
-description: Color Processing with Scikit Image. color manipulation.
+description: "Color Processing with Scikit Image. color manipulation."
 category: ai
 tags: [scikit-image-color-processing, ai, russian]
 models: [sonnet, opus]

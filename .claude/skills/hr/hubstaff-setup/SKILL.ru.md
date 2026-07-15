@@ -1,6 +1,6 @@
 ---
 name: hubstaff-setup
-description: Setup with Hubstaff. setup.
+description: "Setup with Hubstaff. setup."
 category: hr
 tags: [hubstaff-setup, hr, russian]
 models: [sonnet, opus]

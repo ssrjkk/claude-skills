@@ -1,6 +1,6 @@
 ---
 name: after-effects-audio
-description: Audio with After Effects. audio editing.
+description: "Audio with After Effects. audio editing."
 category: media
 tags: [after-effects-audio, media, russian]
 models: [sonnet, opus]

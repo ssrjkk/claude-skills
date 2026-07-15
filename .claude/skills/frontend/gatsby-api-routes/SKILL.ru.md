@@ -1,6 +1,6 @@
 ---
 name: gatsby-api-routes
-description: API Routes with Gatsby. API endpoints.
+description: "API Routes with Gatsby. API endpoints."
 category: frontend
 tags: [gatsby-api-routes, frontend, russian]
 models: [sonnet, opus]

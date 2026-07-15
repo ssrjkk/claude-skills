@@ -1,6 +1,6 @@
 ---
 name: bash-filesystem
-description: Filesystem with Bash Scripting. filesystem.
+description: "Filesystem with Bash Scripting. filesystem."
 category: os-admin
 tags: [bash, filesystem, os-admin, linux]
 models: [gpt-4, claude-3]

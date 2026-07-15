@@ -1,6 +1,6 @@
 ---
 name: hadoop-etl
-description: ETL with Hadoop. extract-transform-load.
+description: "ETL with Hadoop. extract-transform-load."
 category: data
 tags: [hadoop, etl, data, data-engineering]
 models: [gpt-4, claude-3]

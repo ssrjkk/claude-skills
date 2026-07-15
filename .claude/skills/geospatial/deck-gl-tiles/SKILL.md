@@ -1,6 +1,6 @@
 ---
 name: deck-gl-tiles
-description: Tiles with Deck.gl. tile serving.
+description: "Tiles with Deck.gl. tile serving."
 category: geospatial
 tags: [deck-gl, tiles, geospatial, gis]
 models: [gpt-4, claude-3]

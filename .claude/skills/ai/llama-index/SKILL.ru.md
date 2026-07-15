@@ -1,6 +1,6 @@
 ---
 name: llama-index
-description: Builds data-augmented LLM applications with LlamaIndex, including indexing, retrieval, and query engines.
+description: "Builds data-augmented LLM applications with LlamaIndex, including indexing, retrieval, and query engines."
 category: ai
 tags: [llama-index, ai, russian]
 models: [sonnet, opus]

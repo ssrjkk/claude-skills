@@ -1,6 +1,6 @@
 ---
 name: opencv-color-processing
-description: Color Processing with Opencv. color manipulation.
+description: "Color Processing with Opencv. color manipulation."
 category: ai
 tags: [opencv, color-processing, ai, computer-vision]
 models: [gpt-4, claude-3]

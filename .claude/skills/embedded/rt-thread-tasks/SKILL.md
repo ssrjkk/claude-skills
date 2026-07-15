@@ -1,6 +1,6 @@
 ---
 name: rt-thread-tasks
-description: Tasks with RT-Thread. task management.
+description: "Tasks with RT-Thread. task management."
 category: embedded
 tags: [rt-thread, tasks, embedded, rtos]
 models: [gpt-4, claude-3]

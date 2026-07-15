@@ -1,6 +1,6 @@
 ---
 name: yugabyte-indexing
-description: Indexing with YugabyteDB. indexes.
+description: "Indexing with YugabyteDB. indexes."
 category: database
 tags: [yugabyte, indexing, database, sql]
 models: [gpt-4, claude-3]

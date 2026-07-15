@@ -1,6 +1,6 @@
 ---
 name: appium-parallel
-description: Parallel with Appium. parallel execution.
+description: "Parallel with Appium. parallel execution."
 category: qa
 tags: [appium, parallel, qa, e2e]
 models: [gpt-4, claude-3]

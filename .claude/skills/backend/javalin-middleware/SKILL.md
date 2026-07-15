@@ -1,6 +1,6 @@
 ---
 name: javalin-middleware
-description: Middleware with Javalin. request processing.
+description: "Middleware with Javalin. request processing."
 category: backend
 tags: [javalin, middleware, backend, backend]
 models: [gpt-4, claude-3]

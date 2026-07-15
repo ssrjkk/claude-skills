@@ -1,6 +1,6 @@
 ---
 name: laravel-auth
-description: Auth with Laravel. authentication.
+description: "Auth with Laravel. authentication."
 category: backend
 tags: [laravel-auth, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: zephyr-troubleshooting
-description: Troubleshooting for Zephyr: troubleshooting common issues
+description: "Troubleshooting for Zephyr: troubleshooting common issues"
 category: qa
 tags: [zephyr, troubleshooting, qa]
 models: [sonnet, opus]

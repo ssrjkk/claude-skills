@@ -1,6 +1,6 @@
 ---
 name: whylabs-workflow
-description: Workflow for Whylabs: workflow optimization
+description: "Workflow for Whylabs: workflow optimization"
 category: data
 tags: [whylabs, workflow, data]
 models: [sonnet, opus]

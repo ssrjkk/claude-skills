@@ -1,6 +1,6 @@
 ---
 name: openlayers-tiles
-description: Tiles with OpenLayers. tile serving.
+description: "Tiles with OpenLayers. tile serving."
 category: geospatial
 tags: [openlayers, tiles, geospatial, gis]
 models: [gpt-4, claude-3]

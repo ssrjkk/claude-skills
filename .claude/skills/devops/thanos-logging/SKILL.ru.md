@@ -1,6 +1,6 @@
 ---
 name: thanos-logging
-description: Logging with Thanos. log collection.
+description: "Logging with Thanos. log collection."
 category: devops
 tags: [thanos-logging, devops, russian]
 models: [sonnet, opus]

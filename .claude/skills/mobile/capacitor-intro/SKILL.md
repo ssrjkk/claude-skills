@@ -1,6 +1,6 @@
 ---
 name: capacitor-intro
-description: Intro for Capacitor: introduction
+description: "Intro for Capacitor: introduction"
 category: mobile
 tags: [capacitor, intro, mobile]
 models: [sonnet, opus]

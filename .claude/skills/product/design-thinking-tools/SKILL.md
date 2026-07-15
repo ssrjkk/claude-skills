@@ -1,6 +1,6 @@
 ---
 name: design-thinking-tools
-description: Tools with Design Thinking. tools.
+description: "Tools with Design Thinking. tools."
 category: product
 tags: [design-thinking, tools, product, product-framework]
 models: [gpt-4, claude-3]

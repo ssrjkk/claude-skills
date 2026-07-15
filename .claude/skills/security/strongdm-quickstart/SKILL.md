@@ -1,6 +1,6 @@
 ---
 name: strongdm-quickstart
-description: Quickstart for Strongdm: quick start guide
+description: "Quickstart for Strongdm: quick start guide"
 category: security
 tags: [strongdm, quickstart, security]
 models: [sonnet, opus]

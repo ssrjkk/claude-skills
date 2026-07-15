@@ -1,6 +1,6 @@
 ---
 name: lenis-guides
-description: Guides for Lenis: how-to guides
+description: "Guides for Lenis: how-to guides"
 category: design
 tags: [lenis, guides, design]
 models: [sonnet, opus]

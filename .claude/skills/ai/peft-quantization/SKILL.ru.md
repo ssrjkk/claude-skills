@@ -1,6 +1,6 @@
 ---
 name: peft-quantization
-description: Quantization with Peft. model quantization.
+description: "Quantization with Peft. model quantization."
 category: ai
 tags: [peft-quantization, ai, russian]
 models: [sonnet, opus]

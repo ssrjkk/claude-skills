@@ -1,6 +1,6 @@
 ---
 name: rancher-rbac
-description: RBAC with Rancher. access control.
+description: "RBAC with Rancher. access control."
 category: devops
 tags: [rancher, rbac, devops, kubernetes]
 models: [gpt-4, claude-3]

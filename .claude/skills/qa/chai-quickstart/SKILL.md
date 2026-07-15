@@ -1,6 +1,6 @@
 ---
 name: chai-quickstart
-description: Quickstart for Chai: quick start guide
+description: "Quickstart for Chai: quick start guide"
 category: qa
 tags: [chai, quickstart, qa]
 models: [sonnet, opus]

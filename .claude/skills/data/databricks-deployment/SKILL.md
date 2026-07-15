@@ -1,6 +1,6 @@
 ---
 name: databricks-deployment
-description: Deployment for Databricks: deployment and release
+description: "Deployment for Databricks: deployment and release"
 category: data
 tags: [databricks, deployment, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: pubsub-guides
-description: Guides for Pubsub: how-to guides
+description: "Guides for Pubsub: how-to guides"
 category: data
 tags: [pubsub, guides, data]
 models: [sonnet, opus]

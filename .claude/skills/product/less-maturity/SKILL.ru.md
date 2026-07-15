@@ -1,6 +1,6 @@
 ---
 name: less-maturity
-description: Maturity with LeSS. assessment.
+description: "Maturity with LeSS. assessment."
 category: product
 tags: [less-maturity, product, russian]
 models: [sonnet, opus]

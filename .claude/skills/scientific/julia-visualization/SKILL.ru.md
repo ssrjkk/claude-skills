@@ -1,6 +1,6 @@
 ---
 name: julia-visualization
-description: Visualization with Julia. scientific plots.
+description: "Visualization with Julia. scientific plots."
 category: scientific
 tags: [julia-visualization, scientific, russian]
 models: [sonnet, opus]

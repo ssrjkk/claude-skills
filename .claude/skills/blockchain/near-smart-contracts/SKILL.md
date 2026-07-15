@@ -1,6 +1,6 @@
 ---
 name: near-smart-contracts
-description: Smart Contracts with NEAR. contracts.
+description: "Smart Contracts with NEAR. contracts."
 category: blockchain
 tags: [near, smart-contracts, blockchain, blockchain]
 models: [gpt-4, claude-3]

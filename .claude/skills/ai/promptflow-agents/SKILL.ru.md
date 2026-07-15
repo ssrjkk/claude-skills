@@ -1,6 +1,6 @@
 ---
 name: promptflow-agents
-description: Agents with Promptflow. building agents.
+description: "Agents with Promptflow. building agents."
 category: ai
 tags: [promptflow-agents, ai, russian]
 models: [sonnet, opus]

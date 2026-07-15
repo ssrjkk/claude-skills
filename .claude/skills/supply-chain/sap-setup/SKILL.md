@@ -1,6 +1,6 @@
 ---
 name: sap-setup
-description: Setup with SAP SCM. setup.
+description: "Setup with SAP SCM. setup."
 category: supply-chain
 tags: [sap, setup, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

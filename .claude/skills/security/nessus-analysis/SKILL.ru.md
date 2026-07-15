@@ -1,6 +1,6 @@
 ---
 name: nessus-analysis
-description: Analysis with Nessus. analysis.
+description: "Analysis with Nessus. analysis."
 category: security
 tags: [nessus-analysis, security, russian]
 models: [sonnet, opus]

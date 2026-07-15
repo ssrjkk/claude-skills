@@ -1,6 +1,6 @@
 ---
 name: firestore-security
-description: Security with Firestore. security.
+description: "Security with Firestore. security."
 category: database
 tags: [firestore-security, database, russian]
 models: [sonnet, opus]

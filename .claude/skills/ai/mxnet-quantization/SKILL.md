@@ -1,6 +1,6 @@
 ---
 name: mxnet-quantization
-description: Quantization with Mxnet. model quantization.
+description: "Quantization with Mxnet. model quantization."
 category: ai
 tags: [mxnet, quantization, ai, deep-learning]
 models: [gpt-4, claude-3]

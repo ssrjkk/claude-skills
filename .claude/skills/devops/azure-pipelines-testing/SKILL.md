@@ -1,6 +1,6 @@
 ---
 name: azure-pipelines-testing
-description: Testing with Azure Pipelines. automated tests.
+description: "Testing with Azure Pipelines. automated tests."
 category: devops
 tags: [azure-pipelines, testing, devops, ci-cd]
 models: [gpt-4, claude-3]

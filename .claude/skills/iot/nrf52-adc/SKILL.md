@@ -1,6 +1,6 @@
 ---
 name: nrf52-adc
-description: ADC with nRF52. analog input.
+description: "ADC with nRF52. analog input."
 category: iot
 tags: [nrf52, adc, iot, iot]
 models: [gpt-4, claude-3]

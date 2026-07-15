@@ -1,6 +1,6 @@
 ---
 name: user-research-basics
-description: Basics with User Research. fundamentals.
+description: "Basics with User Research. fundamentals."
 category: design
 tags: [user-research-basics, design, russian]
 models: [sonnet, opus]

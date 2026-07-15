@@ -1,6 +1,6 @@
 ---
 name: alpine-forms
-description: Forms with Alpine. form handling.
+description: "Forms with Alpine. form handling."
 category: frontend
 tags: [alpine-forms, frontend, russian]
 models: [sonnet, opus]

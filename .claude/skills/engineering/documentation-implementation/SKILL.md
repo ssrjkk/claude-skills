@@ -1,6 +1,6 @@
 ---
 name: documentation-implementation
-description: Implementation with Documentation. practice.
+description: "Implementation with Documentation. practice."
 category: engineering
 tags: [documentation, implementation, engineering, engineering]
 models: [gpt-4, claude-3]

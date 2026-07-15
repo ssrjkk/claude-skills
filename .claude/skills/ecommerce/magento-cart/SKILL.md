@@ -1,6 +1,6 @@
 ---
 name: magento-cart
-description: Cart with Magento. cart.
+description: "Cart with Magento. cart."
 category: ecommerce
 tags: [magento, cart, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

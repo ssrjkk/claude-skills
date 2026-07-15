@@ -1,6 +1,6 @@
 ---
 name: whisper-production
-description: Production for Whisper: production deployment
+description: "Production for Whisper: production deployment"
 category: ai
 tags: [whisper, production, ai]
 models: [sonnet, opus]

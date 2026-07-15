@@ -1,6 +1,6 @@
 ---
 name: weaviate-aggregations
-description: Aggregations with Weaviate. bucket aggs.
+description: "Aggregations with Weaviate. bucket aggs."
 category: database
 tags: [weaviate-aggregations, database, russian]
 models: [sonnet, opus]

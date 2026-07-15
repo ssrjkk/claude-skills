@@ -1,6 +1,6 @@
 ---
 name: pinecone-production
-description: Production for Pinecone: production deployment
+description: "Production for Pinecone: production deployment"
 category: ai
 tags: [pinecone, production, ai]
 models: [sonnet, opus]

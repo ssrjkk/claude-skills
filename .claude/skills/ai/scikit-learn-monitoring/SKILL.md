@@ -1,6 +1,6 @@
 ---
 name: scikit-learn-monitoring
-description: Monitoring with Scikit Learn. model monitoring.
+description: "Monitoring with Scikit Learn. model monitoring."
 category: ai
 tags: [scikit-learn, monitoring, ai, ml]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: solidstart-deployment
-description: Deployment with SolidStart. production.
+description: "Deployment with SolidStart. production."
 category: frontend
 tags: [solidstart-deployment, frontend, russian]
 models: [sonnet, opus]

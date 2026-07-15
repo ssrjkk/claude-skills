@@ -1,6 +1,6 @@
 ---
 name: mbed-actuators
-description: Actuators with Mbed OS. motors.
+description: "Actuators with Mbed OS. motors."
 category: iot
 tags: [mbed-actuators, iot, russian]
 models: [sonnet, opus]

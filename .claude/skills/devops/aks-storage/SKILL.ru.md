@@ -1,6 +1,6 @@
 ---
 name: aks-storage
-description: Storage with Azure AKS. persistent storage.
+description: "Storage with Azure AKS. persistent storage."
 category: devops
 tags: [aks-storage, devops, russian]
 models: [sonnet, opus]

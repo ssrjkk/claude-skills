@@ -1,6 +1,6 @@
 ---
 name: design-microservices-architecture
-description: Plan and design a scalable microservices-based system architecture
+description: "Plan and design a scalable microservices-based system architecture"
 category: backend
 tags: [design-microservices-architecture, backend, russian]
 models: [sonnet, opus]

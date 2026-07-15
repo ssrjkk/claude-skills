@@ -1,6 +1,6 @@
 ---
 name: chromadb-automation
-description: Automation for Chromadb: automation and scripting
+description: "Automation for Chromadb: automation and scripting"
 category: ai
 tags: [chromadb-automation, ai, russian]
 models: [sonnet, opus]

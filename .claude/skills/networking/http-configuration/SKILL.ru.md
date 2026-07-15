@@ -1,6 +1,6 @@
 ---
 name: http-configuration
-description: Config with HTTP. setup.
+description: "Config with HTTP. setup."
 category: networking
 tags: [http-configuration, networking, russian]
 models: [sonnet, opus]

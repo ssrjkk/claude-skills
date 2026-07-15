@@ -1,6 +1,6 @@
 ---
 name: deel-analytics
-description: Analytics with Deel. analytics.
+description: "Analytics with Deel. analytics."
 category: hr
 tags: [deel-analytics, hr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: checkov-production
-description: Production for Checkov: production deployment
+description: "Production for Checkov: production deployment"
 category: security
 tags: [checkov, production, security]
 models: [sonnet, opus]

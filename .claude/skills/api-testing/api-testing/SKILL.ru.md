@@ -1,6 +1,6 @@
 ---
 name: api-testing
-description: Tests REST and GraphQL APIs using pytest and requests library. Use for endpoint validation, HTTP response verification, and automated API test writing.
+description: "Tests REST and GraphQL APIs using pytest and requests library. Use for endpoint validation, HTTP response verification, and automated API test writing."
 category: api-testing
 tags: [api-testing, api-testing, russian]
 models: [sonnet, opus]

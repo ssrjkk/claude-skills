@@ -1,6 +1,6 @@
 ---
 name: kubernetes-storage
-description: Storage with Kubernetes. persistent storage.
+description: "Storage with Kubernetes. persistent storage."
 category: devops
 tags: [kubernetes, storage, devops, kubernetes]
 models: [gpt-4, claude-3]

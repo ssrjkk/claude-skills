@@ -1,6 +1,6 @@
 ---
 name: flask-debugging
-description: Debugging for Flask: debugging and troubleshooting
+description: "Debugging for Flask: debugging and troubleshooting"
 category: backend
 tags: [flask-debugging, backend, russian]
 models: [sonnet, opus]

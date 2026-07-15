@@ -1,6 +1,6 @@
 ---
 name: detox-setup
-description: Setup with Detox. installation.
+description: "Setup with Detox. installation."
 category: qa
 tags: [detox-setup, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: motherduck-troubleshooting
-description: Troubleshooting for Motherduck: troubleshooting common issues
+description: "Troubleshooting for Motherduck: troubleshooting common issues"
 category: database
 tags: [motherduck-troubleshooting, database, russian]
 models: [sonnet, opus]

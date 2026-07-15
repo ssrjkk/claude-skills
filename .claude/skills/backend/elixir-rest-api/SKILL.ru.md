@@ -1,6 +1,6 @@
 ---
 name: elixir-rest-api
-description: REST API with Elixir. building REST APIs.
+description: "REST API with Elixir. building REST APIs."
 category: backend
 tags: [elixir-rest-api, backend, russian]
 models: [sonnet, opus]

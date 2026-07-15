@@ -1,6 +1,6 @@
 ---
 name: bigcommerce-setup
-description: Setup with BigCommerce. setup.
+description: "Setup with BigCommerce. setup."
 category: ecommerce
 tags: [bigcommerce, setup, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

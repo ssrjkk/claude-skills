@@ -1,6 +1,6 @@
 ---
 name: dspy-examples
-description: Examples for Dspy: practical examples
+description: "Examples for Dspy: practical examples"
 category: ai
 tags: [dspy-examples, ai, russian]
 models: [sonnet, opus]

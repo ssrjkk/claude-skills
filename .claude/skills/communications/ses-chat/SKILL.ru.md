@@ -1,6 +1,6 @@
 ---
 name: ses-chat
-description: Chat with Amazon SES. chat.
+description: "Chat with Amazon SES. chat."
 category: communications
 tags: [ses-chat, communications, russian]
 models: [sonnet, opus]

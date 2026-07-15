@@ -1,6 +1,6 @@
 ---
 name: suricata-automation
-description: Automation for Suricata: automation and scripting
+description: "Automation for Suricata: automation and scripting"
 category: security
 tags: [suricata-automation, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: accelerate-distributed
-description: Distributed with Accelerate. distributed training.
+description: "Distributed with Accelerate. distributed training."
 category: ai
 tags: [accelerate-distributed, ai, russian]
 models: [sonnet, opus]

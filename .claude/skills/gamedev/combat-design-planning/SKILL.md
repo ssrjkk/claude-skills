@@ -1,6 +1,6 @@
 ---
 name: combat-design-planning
-description: Planning with Combat Design. planning.
+description: "Planning with Combat Design. planning."
 category: gamedev
 tags: [combat-design, planning, gamedev, game-design]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: bpmn-tools
-description: Tools with BPMN. tooling.
+description: "Tools with BPMN. tooling."
 category: engineering
 tags: [bpmn, tools, engineering, modeling]
 models: [gpt-4, claude-3]

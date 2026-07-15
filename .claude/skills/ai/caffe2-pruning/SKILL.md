@@ -1,6 +1,6 @@
 ---
 name: caffe2-pruning
-description: Pruning with Caffe2. model pruning.
+description: "Pruning with Caffe2. model pruning."
 category: ai
 tags: [caffe2, pruning, ai, deep-learning]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: unreal-setup
-description: Setup with Unreal Engine. engine setup.
+description: "Setup with Unreal Engine. engine setup."
 category: gamedev
 tags: [unreal-setup, gamedev, russian]
 models: [sonnet, opus]

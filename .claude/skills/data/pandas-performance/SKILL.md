@@ -1,6 +1,6 @@
 ---
 name: pandas-performance
-description: Performance with Pandas. optimization.
+description: "Performance with Pandas. optimization."
 category: data
 tags: [pandas, performance, data, data-science]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: vitest-setup
-description: Setup with Vitest. installation.
+description: "Setup with Vitest. installation."
 category: qa
 tags: [vitest, setup, qa, testing]
 models: [gpt-4, claude-3]

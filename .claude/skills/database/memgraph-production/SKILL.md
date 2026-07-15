@@ -1,6 +1,6 @@
 ---
 name: memgraph-production
-description: Production for Memgraph: production deployment
+description: "Production for Memgraph: production deployment"
 category: database
 tags: [memgraph, production, database]
 models: [sonnet, opus]

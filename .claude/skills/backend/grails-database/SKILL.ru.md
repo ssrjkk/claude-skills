@@ -1,6 +1,6 @@
 ---
 name: grails-database
-description: Database with Grails. DB access.
+description: "Database with Grails. DB access."
 category: backend
 tags: [grails-database, backend, russian]
 models: [sonnet, opus]

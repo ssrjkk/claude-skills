@@ -1,6 +1,6 @@
 ---
 name: skill-0031
-description: Specialized skill #0031 for backend development
+description: "Specialized skill #0031 for backend development"
 category: backend
 tags: [backend, skill, 0031]
 models: [sonnet, opus]

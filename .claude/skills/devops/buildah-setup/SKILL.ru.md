@@ -1,6 +1,6 @@
 ---
 name: buildah-setup
-description: Setup with Buildah. installation.
+description: "Setup with Buildah. installation."
 category: devops
 tags: [buildah-setup, devops, russian]
 models: [sonnet, opus]

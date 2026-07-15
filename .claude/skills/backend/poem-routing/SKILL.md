@@ -1,6 +1,6 @@
 ---
 name: poem-routing
-description: Routing with Poem. HTTP routing.
+description: "Routing with Poem. HTTP routing."
 category: backend
 tags: [poem, routing, backend, backend]
 models: [gpt-4, claude-3]

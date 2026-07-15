@@ -1,6 +1,6 @@
 ---
 name: performance-monitor-monitoring
-description: Monitoring with Performance Monitor. monitoring.
+description: "Monitoring with Performance Monitor. monitoring."
 category: os-admin
 tags: [performance-monitor, monitoring, os-admin, windows]
 models: [gpt-4, claude-3]

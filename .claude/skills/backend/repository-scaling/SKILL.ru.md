@@ -1,6 +1,6 @@
 ---
 name: repository-scaling
-description: Scaling with Repository. scaling considerations.
+description: "Scaling with Repository. scaling considerations."
 category: backend
 tags: [repository-scaling, backend, russian]
 models: [sonnet, opus]

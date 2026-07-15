@@ -1,6 +1,6 @@
 ---
 name: tdd-tools
-description: Tools with TDD. tooling.
+description: "Tools with TDD. tooling."
 category: engineering
 tags: [tdd-tools, engineering, russian]
 models: [sonnet, opus]

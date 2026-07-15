@@ -1,6 +1,6 @@
 ---
 name: chai-fundamentals
-description: Fundamentals for Chai: core concepts
+description: "Fundamentals for Chai: core concepts"
 category: qa
 tags: [chai, fundamentals, qa]
 models: [sonnet, opus]

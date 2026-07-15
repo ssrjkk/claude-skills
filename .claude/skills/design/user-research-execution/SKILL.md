@@ -1,6 +1,6 @@
 ---
 name: user-research-execution
-description: Execution with User Research. running sessions.
+description: "Execution with User Research. running sessions."
 category: design
 tags: [user-research, execution, design, ux-research]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: blue-yonder-integration
-description: Integration with Blue Yonder. integration.
+description: "Integration with Blue Yonder. integration."
 category: supply-chain
 tags: [blue-yonder, integration, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

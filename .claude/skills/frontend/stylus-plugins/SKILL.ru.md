@@ -1,6 +1,6 @@
 ---
 name: stylus-plugins
-description: Plugins with Stylus. plugins.
+description: "Plugins with Stylus. plugins."
 category: frontend
 tags: [stylus-plugins, frontend, russian]
 models: [sonnet, opus]

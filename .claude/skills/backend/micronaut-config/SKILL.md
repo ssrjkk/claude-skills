@@ -1,6 +1,6 @@
 ---
 name: micronaut-config
-description: Config with Micronaut. configuration.
+description: "Config with Micronaut. configuration."
 category: backend
 tags: [micronaut, config, backend, backend]
 models: [gpt-4, claude-3]

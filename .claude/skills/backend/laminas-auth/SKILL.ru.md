@@ -1,6 +1,6 @@
 ---
 name: laminas-auth
-description: Auth with Laminas. authentication.
+description: "Auth with Laminas. authentication."
 category: backend
 tags: [laminas-auth, backend, russian]
 models: [sonnet, opus]

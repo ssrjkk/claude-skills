@@ -1,6 +1,6 @@
 ---
 name: teleport-examples
-description: Examples for Teleport: practical examples
+description: "Examples for Teleport: practical examples"
 category: security
 tags: [teleport, examples, security]
 models: [sonnet, opus]

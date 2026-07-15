@@ -1,6 +1,6 @@
 ---
 name: woodpecker-secrets
-description: Secrets with Woodpecker. secret management.
+description: "Secrets with Woodpecker. secret management."
 category: devops
 tags: [woodpecker, secrets, devops, ci-cd]
 models: [gpt-4, claude-3]

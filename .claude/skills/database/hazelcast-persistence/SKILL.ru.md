@@ -1,6 +1,6 @@
 ---
 name: hazelcast-persistence
-description: Persistence with Hazelcast. persistence.
+description: "Persistence with Hazelcast. persistence."
 category: database
 tags: [hazelcast-persistence, database, russian]
 models: [sonnet, opus]

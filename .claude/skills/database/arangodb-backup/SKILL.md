@@ -1,6 +1,6 @@
 ---
 name: arangodb-backup
-description: Backup with ArangoDB. backup.
+description: "Backup with ArangoDB. backup."
 category: database
 tags: [arangodb, backup, database, nosql]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: hyperopt-pipeline
-description: Pipeline with Hyperopt. ML pipelines.
+description: "Pipeline with Hyperopt. ML pipelines."
 category: ai
 tags: [hyperopt-pipeline, ai, russian]
 models: [sonnet, opus]

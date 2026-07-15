@@ -1,6 +1,6 @@
 ---
 name: jenkins-optimization
-description: Optimization for Jenkins: performance tuning and optimization
+description: "Optimization for Jenkins: performance tuning and optimization"
 category: devops
 tags: [jenkins, optimization, devops]
 models: [sonnet, opus]

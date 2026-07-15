@@ -1,6 +1,6 @@
 ---
 name: k0s-configmap
-description: ConfigMap with K0s. config management.
+description: "ConfigMap with K0s. config management."
 category: devops
 tags: [k0s-configmap, devops, russian]
 models: [sonnet, opus]

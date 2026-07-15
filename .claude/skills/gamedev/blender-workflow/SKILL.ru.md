@@ -1,6 +1,6 @@
 ---
 name: blender-workflow
-description: Workflow for Blender: workflow optimization
+description: "Workflow for Blender: workflow optimization"
 category: gamedev
 tags: [blender-workflow, gamedev, russian]
 models: [sonnet, opus]

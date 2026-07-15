@@ -1,6 +1,6 @@
 ---
 name: deck-gl-data
-description: Data with Deck.gl. geospatial data.
+description: "Data with Deck.gl. geospatial data."
 category: geospatial
 tags: [deck-gl, data, geospatial, gis]
 models: [gpt-4, claude-3]

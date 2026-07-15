@@ -1,6 +1,6 @@
 ---
 name: defold-ui
-description: UI with Defold. game UI.
+description: "UI with Defold. game UI."
 category: gamedev
 tags: [defold-ui, gamedev, russian]
 models: [sonnet, opus]

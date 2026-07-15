@@ -1,6 +1,6 @@
 ---
 name: whylabs-production
-description: Production for Whylabs: production deployment
+description: "Production for Whylabs: production deployment"
 category: data
 tags: [whylabs-production, data, russian]
 models: [sonnet, opus]

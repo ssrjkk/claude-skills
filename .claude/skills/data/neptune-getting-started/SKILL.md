@@ -1,6 +1,6 @@
 ---
 name: neptune-getting-started
-description: Getting Started for Neptune: initial setup and first steps
+description: "Getting Started for Neptune: initial setup and first steps"
 category: data
 tags: [neptune, getting-started, data]
 models: [sonnet, opus]

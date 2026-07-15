@@ -1,6 +1,6 @@
 ---
 name: react-advanced
-description: Advanced for React: advanced patterns and techniques
+description: "Advanced for React: advanced patterns and techniques"
 category: frontend
 tags: [react-advanced, frontend, russian]
 models: [sonnet, opus]

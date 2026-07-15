@@ -1,6 +1,6 @@
 ---
 name: pico-forms
-description: Forms with Pico CSS. form styling.
+description: "Forms with Pico CSS. form styling."
 category: frontend
 tags: [pico-forms, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vertx-routing
-description: Routing with Vert.x. HTTP routing.
+description: "Routing with Vert.x. HTTP routing."
 category: backend
 tags: [vertx, routing, backend, backend]
 models: [gpt-4, claude-3]

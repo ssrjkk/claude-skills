@@ -1,6 +1,6 @@
 ---
 name: firebase-fcm-automation
-description: Automation for Firebase-Fcm: automation and scripting
+description: "Automation for Firebase-Fcm: automation and scripting"
 category: mobile
 tags: [firebase-fcm, automation, mobile]
 models: [sonnet, opus]

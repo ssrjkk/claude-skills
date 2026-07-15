@@ -1,6 +1,6 @@
 ---
 name: scorm-testing
-description: Testing with SCORM. testing.
+description: "Testing with SCORM. testing."
 category: education
 tags: [scorm, testing, education, education-standard]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: gin-optimization
-description: Optimization for Gin: performance tuning and optimization
+description: "Optimization for Gin: performance tuning and optimization"
 category: backend
 tags: [gin, optimization, backend]
 models: [sonnet, opus]

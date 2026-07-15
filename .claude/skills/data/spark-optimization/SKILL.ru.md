@@ -1,6 +1,6 @@
 ---
 name: spark-optimization
-description: Optimization for Spark: performance tuning and optimization
+description: "Optimization for Spark: performance tuning and optimization"
 category: data
 tags: [spark-optimization, data, russian]
 models: [sonnet, opus]

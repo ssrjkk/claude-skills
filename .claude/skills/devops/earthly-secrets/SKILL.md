@@ -1,6 +1,6 @@
 ---
 name: earthly-secrets
-description: Secrets with Earthly. secret management.
+description: "Secrets with Earthly. secret management."
 category: devops
 tags: [earthly, secrets, devops, ci-cd]
 models: [gpt-4, claude-3]

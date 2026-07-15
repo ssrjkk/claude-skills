@@ -1,6 +1,6 @@
 ---
 name: saga-implementation
-description: Implementation with Saga. practical implementation.
+description: "Implementation with Saga. practical implementation."
 category: backend
 tags: [saga, implementation, backend, architecture]
 models: [gpt-4, claude-3]

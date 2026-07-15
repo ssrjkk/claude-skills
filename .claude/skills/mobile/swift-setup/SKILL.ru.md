@@ -1,6 +1,6 @@
 ---
 name: swift-setup
-description: Setup for Swift: installation and configuration
+description: "Setup for Swift: installation and configuration"
 category: mobile
 tags: [swift-setup, mobile, russian]
 models: [sonnet, opus]

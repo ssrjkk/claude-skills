@@ -1,6 +1,6 @@
 ---
 name: firestore-backup
-description: Backup with Firestore. backup.
+description: "Backup with Firestore. backup."
 category: database
 tags: [firestore-backup, database, russian]
 models: [sonnet, opus]

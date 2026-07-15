@@ -1,6 +1,6 @@
 ---
 name: caddy-examples
-description: Examples for Caddy: practical examples
+description: "Examples for Caddy: practical examples"
 category: backend
 tags: [caddy-examples, backend, russian]
 models: [sonnet, opus]

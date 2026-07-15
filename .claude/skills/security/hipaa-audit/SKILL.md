@@ -1,6 +1,6 @@
 ---
 name: hipaa-audit
-description: Audit with HIPAA. security audit.
+description: "Audit with HIPAA. security audit."
 category: security
 tags: [hipaa, audit, security, security]
 models: [gpt-4, claude-3]

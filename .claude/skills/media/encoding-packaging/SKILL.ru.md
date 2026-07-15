@@ -1,6 +1,6 @@
 ---
 name: encoding-packaging
-description: Packaging with Encoding. packaging.
+description: "Packaging with Encoding. packaging."
 category: media
 tags: [encoding-packaging, media, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: bevy-monitoring
-description: Monitoring for Bevy: monitoring and observability
+description: "Monitoring for Bevy: monitoring and observability"
 category: gamedev
 tags: [bevy-monitoring, gamedev, russian]
 models: [sonnet, opus]

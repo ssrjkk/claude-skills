@@ -1,6 +1,6 @@
 ---
 name: construct-animation
-description: Animation with Construct. animation.
+description: "Animation with Construct. animation."
 category: gamedev
 tags: [construct, animation, gamedev, game-engine]
 models: [gpt-4, claude-3]

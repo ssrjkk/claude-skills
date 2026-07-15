@@ -1,6 +1,6 @@
 ---
 name: junit-mocking
-description: Mocking with JUnit. mocks.
+description: "Mocking with JUnit. mocks."
 category: qa
 tags: [junit, mocking, qa, testing]
 models: [gpt-4, claude-3]

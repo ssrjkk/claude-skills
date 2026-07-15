@@ -1,6 +1,6 @@
 ---
 name: quarkus-auth
-description: Auth with Quarkus. security.
+description: "Auth with Quarkus. security."
 category: backend
 tags: [quarkus-auth, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sap-inventory
-description: Inventory with SAP SCM. inventory mgmt.
+description: "Inventory with SAP SCM. inventory mgmt."
 category: supply-chain
 tags: [sap-inventory, supply-chain, russian]
 models: [sonnet, opus]

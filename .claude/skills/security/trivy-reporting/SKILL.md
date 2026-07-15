@@ -1,6 +1,6 @@
 ---
 name: trivy-reporting
-description: Reporting with Trivy. reports.
+description: "Reporting with Trivy. reports."
 category: security
 tags: [trivy, reporting, security, security-tool]
 models: [gpt-4, claude-3]

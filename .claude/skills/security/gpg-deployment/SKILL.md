@@ -1,6 +1,6 @@
 ---
 name: gpg-deployment
-description: Deployment for Gpg: deployment and release
+description: "Deployment for Gpg: deployment and release"
 category: security
 tags: [gpg, deployment, security]
 models: [sonnet, opus]

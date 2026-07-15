@@ -1,6 +1,6 @@
 ---
 name: transformers-data-loading
-description: Data Loading with Transformers. data pipelines.
+description: "Data Loading with Transformers. data pipelines."
 category: ai
 tags: [transformers, data-loading, ai, deep-learning]
 models: [gpt-4, claude-3]

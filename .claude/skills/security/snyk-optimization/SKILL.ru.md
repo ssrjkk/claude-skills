@@ -1,6 +1,6 @@
 ---
 name: snyk-optimization
-description: Optimization for Snyk: performance tuning and optimization
+description: "Optimization for Snyk: performance tuning and optimization"
 category: security
 tags: [snyk-optimization, security, russian]
 models: [sonnet, opus]

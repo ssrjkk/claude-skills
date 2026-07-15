@@ -1,6 +1,6 @@
 ---
 name: uml-diagrams
-description: Diagrams with UML. diagramming.
+description: "Diagrams with UML. diagramming."
 category: engineering
 tags: [uml, diagrams, engineering, modeling]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: cratedb-migration
-description: Migration with CrateDB. schema migrations.
+description: "Migration with CrateDB. schema migrations."
 category: database
 tags: [cratedb, migration, database, sql]
 models: [gpt-4, claude-3]

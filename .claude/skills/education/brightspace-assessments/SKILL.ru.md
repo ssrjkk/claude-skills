@@ -1,6 +1,6 @@
 ---
 name: brightspace-assessments
-description: Assessments with Brightspace. quizzes.
+description: "Assessments with Brightspace. quizzes."
 category: education
 tags: [brightspace-assessments, education, russian]
 models: [sonnet, opus]

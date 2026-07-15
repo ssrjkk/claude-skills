@@ -1,6 +1,6 @@
 ---
 name: iceberg-intro
-description: Intro for Iceberg: introduction
+description: "Intro for Iceberg: introduction"
 category: data
 tags: [iceberg-intro, data, russian]
 models: [sonnet, opus]

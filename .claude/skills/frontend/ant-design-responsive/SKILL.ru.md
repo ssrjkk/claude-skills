@@ -1,6 +1,6 @@
 ---
 name: ant-design-responsive
-description: Responsive with Ant Design. mobile-first.
+description: "Responsive with Ant Design. mobile-first."
 category: frontend
 tags: [ant-design-responsive, frontend, russian]
 models: [sonnet, opus]

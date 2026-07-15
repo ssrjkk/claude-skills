@@ -1,6 +1,6 @@
 ---
 name: docker-compose-optimization
-description: Optimization with Docker Compose. image optimization.
+description: "Optimization with Docker Compose. image optimization."
 category: devops
 tags: [docker-compose-optimization, devops, russian]
 models: [sonnet, opus]

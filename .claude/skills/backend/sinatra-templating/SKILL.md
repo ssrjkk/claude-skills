@@ -1,6 +1,6 @@
 ---
 name: sinatra-templating
-description: Templating with Sinatra. ERB.
+description: "Templating with Sinatra. ERB."
 category: backend
 tags: [sinatra, templating, backend, backend]
 models: [gpt-4, claude-3]

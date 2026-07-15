@@ -1,6 +1,6 @@
 ---
 name: locust-deployment
-description: Deployment for Locust: deployment and release
+description: "Deployment for Locust: deployment and release"
 category: qa
 tags: [locust-deployment, qa, russian]
 models: [sonnet, opus]

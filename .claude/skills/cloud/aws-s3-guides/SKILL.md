@@ -1,6 +1,6 @@
 ---
 name: aws-s3-guides
-description: Guides for Aws-S3: how-to guides
+description: "Guides for Aws-S3: how-to guides"
 category: cloud
 tags: [aws-s3, guides, cloud]
 models: [sonnet, opus]

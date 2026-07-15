@@ -1,6 +1,6 @@
 ---
 name: user-research-tools
-description: Tools with User Research. tools.
+description: "Tools with User Research. tools."
 category: design
 tags: [user-research-tools, design, russian]
 models: [sonnet, opus]

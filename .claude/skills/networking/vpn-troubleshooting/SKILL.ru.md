@@ -1,6 +1,6 @@
 ---
 name: vpn-troubleshooting
-description: Troubleshooting with VPN. diagnostics.
+description: "Troubleshooting with VPN. diagnostics."
 category: networking
 tags: [vpn-troubleshooting, networking, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: albumentations-segmentation
-description: Segmentation with Albumentations. image segmentation.
+description: "Segmentation with Albumentations. image segmentation."
 category: ai
 tags: [albumentations, segmentation, ai, computer-vision]
 models: [gpt-4, claude-3]

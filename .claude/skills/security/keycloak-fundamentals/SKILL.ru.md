@@ -1,6 +1,6 @@
 ---
 name: keycloak-fundamentals
-description: Fundamentals for Keycloak: core concepts
+description: "Fundamentals for Keycloak: core concepts"
 category: security
 tags: [keycloak-fundamentals, security, russian]
 models: [sonnet, opus]

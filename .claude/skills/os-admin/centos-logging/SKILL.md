@@ -1,6 +1,6 @@
 ---
 name: centos-logging
-description: Logging with CentOS. logging.
+description: "Logging with CentOS. logging."
 category: os-admin
 tags: [centos, logging, os-admin, linux]
 models: [gpt-4, claude-3]

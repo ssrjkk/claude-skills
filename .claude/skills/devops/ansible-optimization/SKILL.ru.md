@@ -1,6 +1,6 @@
 ---
 name: ansible-optimization
-description: Optimization for Ansible: performance tuning and optimization
+description: "Optimization for Ansible: performance tuning and optimization"
 category: devops
 tags: [ansible-optimization, devops, russian]
 models: [sonnet, opus]

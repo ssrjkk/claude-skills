@@ -1,6 +1,6 @@
 ---
 name: itil-metrics
-description: Metrics with ITIL. measurement.
+description: "Metrics with ITIL. measurement."
 category: product
 tags: [itil-metrics, product, russian]
 models: [sonnet, opus]

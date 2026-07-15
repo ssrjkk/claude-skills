@@ -1,6 +1,6 @@
 ---
 name: apache-flink-setup
-description: Setup with Apache Flink. installation.
+description: "Setup with Apache Flink. installation."
 category: data
 tags: [apache-flink, setup, data, data-engineering]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: performance-monitor-networking
-description: Networking with Performance Monitor. network.
+description: "Networking with Performance Monitor. network."
 category: os-admin
 tags: [performance-monitor, networking, os-admin, windows]
 models: [gpt-4, claude-3]

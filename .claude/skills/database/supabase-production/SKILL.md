@@ -1,6 +1,6 @@
 ---
 name: supabase-production
-description: Production for Supabase: production deployment
+description: "Production for Supabase: production deployment"
 category: database
 tags: [supabase, production, database]
 models: [sonnet, opus]

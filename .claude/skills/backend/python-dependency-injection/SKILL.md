@@ -1,6 +1,6 @@
 ---
 name: python-dependency-injection
-description: DI with Python. DI containers.
+description: "DI with Python. DI containers."
 category: backend
 tags: [python, dependency-injection, backend, backend]
 models: [gpt-4, claude-3]

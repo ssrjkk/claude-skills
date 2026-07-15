@@ -1,6 +1,6 @@
 ---
 name: rest-assured-quickstart
-description: Quickstart for Rest-Assured: quick start guide
+description: "Quickstart for Rest-Assured: quick start guide"
 category: qa
 tags: [rest-assured, quickstart, qa]
 models: [sonnet, opus]

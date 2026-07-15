@@ -1,6 +1,6 @@
 ---
 name: llama-setup
-description: Setup for Llama: installation and configuration
+description: "Setup for Llama: installation and configuration"
 category: ai
 tags: [llama, setup, ai]
 models: [sonnet, opus]

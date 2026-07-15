@@ -1,6 +1,6 @@
 ---
 name: pytorch-lightning-image-filtering
-description: Image Filtering with Pytorch Lightning. image filters.
+description: "Image Filtering with Pytorch Lightning. image filters."
 category: ai
 tags: [pytorch-lightning, image-filtering, ai, computer-vision]
 models: [gpt-4, claude-3]

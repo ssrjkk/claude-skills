@@ -1,6 +1,6 @@
 ---
 name: aiohttp-routing
-description: Routing with aiohttp. HTTP routing.
+description: "Routing with aiohttp. HTTP routing."
 category: backend
 tags: [aiohttp-routing, backend, russian]
 models: [sonnet, opus]

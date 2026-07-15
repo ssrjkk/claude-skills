@@ -1,6 +1,6 @@
 ---
 name: envoy-getting-started
-description: Getting Started for Envoy: initial setup and first steps
+description: "Getting Started for Envoy: initial setup and first steps"
 category: devops
 tags: [envoy-getting-started, devops, russian]
 models: [sonnet, opus]

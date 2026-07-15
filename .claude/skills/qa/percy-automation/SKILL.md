@@ -1,6 +1,6 @@
 ---
 name: percy-automation
-description: Automation for Percy: automation and scripting
+description: "Automation for Percy: automation and scripting"
 category: qa
 tags: [percy, automation, qa]
 models: [sonnet, opus]

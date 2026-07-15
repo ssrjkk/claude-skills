@@ -1,6 +1,6 @@
 ---
 name: elastic-path-integration
-description: Integration with Elastic Path. frontend integration.
+description: "Integration with Elastic Path. frontend integration."
 category: ecommerce
 tags: [elastic-path, integration, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

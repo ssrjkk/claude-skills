@@ -1,6 +1,6 @@
 ---
 name: tvm-inference
-description: Inference with Tvm. running models.
+description: "Inference with Tvm. running models."
 category: ai
 tags: [tvm, inference, ai, deep-learning]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: mocha-mocking
-description: Mocking with Mocha. mocks.
+description: "Mocking with Mocha. mocks."
 category: qa
 tags: [mocha-mocking, qa, russian]
 models: [sonnet, opus]

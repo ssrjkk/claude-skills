@@ -1,6 +1,6 @@
 ---
 name: ddd-best-practices
-description: Best Practices with Domain-Driven Design. tips.
+description: "Best Practices with Domain-Driven Design. tips."
 category: engineering
 tags: [ddd-best-practices, engineering, russian]
 models: [sonnet, opus]

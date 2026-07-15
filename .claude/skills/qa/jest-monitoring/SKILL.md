@@ -1,6 +1,6 @@
 ---
 name: jest-monitoring
-description: Monitoring for Jest: monitoring and observability
+description: "Monitoring for Jest: monitoring and observability"
 category: qa
 tags: [jest, monitoring, qa]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: bamboohr-performance
-description: Performance with BambooHR. performance mgmt.
+description: "Performance with BambooHR. performance mgmt."
 category: hr
 tags: [bamboohr-performance, hr, russian]
 models: [sonnet, opus]

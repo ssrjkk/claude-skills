@@ -1,6 +1,6 @@
 ---
 name: apache-flink-optimization
-description: Optimization with Apache Flink. performance.
+description: "Optimization with Apache Flink. performance."
 category: data
 tags: [apache-flink-optimization, data, russian]
 models: [sonnet, opus]

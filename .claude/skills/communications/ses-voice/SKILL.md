@@ -1,6 +1,6 @@
 ---
 name: ses-voice
-description: Voice with Amazon SES. voice calls.
+description: "Voice with Amazon SES. voice calls."
 category: communications
 tags: [ses, voice, communications, communication-platform]
 models: [gpt-4, claude-3]

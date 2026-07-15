@@ -1,6 +1,6 @@
 ---
 name: nginx-quickstart
-description: Quickstart for Nginx: quick start guide
+description: "Quickstart for Nginx: quick start guide"
 category: backend
 tags: [nginx-quickstart, backend, russian]
 models: [sonnet, opus]

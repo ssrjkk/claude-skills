@@ -1,6 +1,6 @@
 ---
 name: clickhouse-security
-description: Security for Clickhouse: security best practices
+description: "Security for Clickhouse: security best practices"
 category: database
 tags: [clickhouse-security, database, russian]
 models: [sonnet, opus]

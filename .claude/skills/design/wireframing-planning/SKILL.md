@@ -1,6 +1,6 @@
 ---
 name: wireframing-planning
-description: Planning with Wireframing. study planning.
+description: "Planning with Wireframing. study planning."
 category: design
 tags: [wireframing, planning, design, ux-research]
 models: [gpt-4, claude-3]

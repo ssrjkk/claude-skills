@@ -1,6 +1,6 @@
 ---
 name: pybind11
-description: Development with Pybind11: tools and best practices
+description: "Development with Pybind11: tools and best practices"
 category: backend
 tags: [pybind11, backend, russian]
 models: [sonnet, opus]

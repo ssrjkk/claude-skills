@@ -1,6 +1,6 @@
 ---
 name: svelte-styling
-description: Styling with Svelte. component styling.
+description: "Styling with Svelte. component styling."
 category: frontend
 tags: [svelte-styling, frontend, russian]
 models: [sonnet, opus]

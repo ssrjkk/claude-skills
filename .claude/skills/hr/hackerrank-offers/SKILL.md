@@ -1,6 +1,6 @@
 ---
 name: hackerrank-offers
-description: Offers with HackerRank. offer mgmt.
+description: "Offers with HackerRank. offer mgmt."
 category: hr
 tags: [hackerrank, offers, hr, recruiting]
 models: [gpt-4, claude-3]

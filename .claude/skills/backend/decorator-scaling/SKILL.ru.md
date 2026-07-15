@@ -1,6 +1,6 @@
 ---
 name: decorator-scaling
-description: Scaling with Decorator. scaling considerations.
+description: "Scaling with Decorator. scaling considerations."
 category: backend
 tags: [decorator-scaling, backend, russian]
 models: [sonnet, opus]

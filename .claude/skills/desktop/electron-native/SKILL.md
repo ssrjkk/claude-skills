@@ -1,6 +1,6 @@
 ---
 name: electron-native
-description: Native with Electron. native APIs.
+description: "Native with Electron. native APIs."
 category: desktop
 tags: [electron, native, desktop, desktop]
 models: [gpt-4, claude-3]

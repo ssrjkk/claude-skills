@@ -1,6 +1,6 @@
 ---
 name: clearml-experiment-tracking
-description: Experiment Tracking with Clearml. tracking experiments.
+description: "Experiment Tracking with Clearml. tracking experiments."
 category: ai
 tags: [clearml-experiment-tracking, ai, russian]
 models: [sonnet, opus]

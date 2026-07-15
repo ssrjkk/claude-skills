@@ -1,6 +1,6 @@
 ---
 name: flask-database
-description: Database with Flask. DB access.
+description: "Database with Flask. DB access."
 category: backend
 tags: [flask, database, backend, backend]
 models: [gpt-4, claude-3]

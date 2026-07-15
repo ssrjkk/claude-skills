@@ -1,6 +1,6 @@
 ---
 name: rtmp-packaging
-description: Packaging with RTMP. packaging.
+description: "Packaging with RTMP. packaging."
 category: media
 tags: [rtmp, packaging, media, media-streaming]
 models: [gpt-4, claude-3]

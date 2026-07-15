@@ -1,6 +1,6 @@
 ---
 name: bamboohr-employees
-description: Employees with BambooHR. employee mgmt.
+description: "Employees with BambooHR. employee mgmt."
 category: hr
 tags: [bamboohr-employees, hr, russian]
 models: [sonnet, opus]

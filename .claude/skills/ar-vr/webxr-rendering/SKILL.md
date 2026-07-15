@@ -1,6 +1,6 @@
 ---
 name: webxr-rendering
-description: Rendering with WebXR. stereoscopic.
+description: "Rendering with WebXR. stereoscopic."
 category: ar-vr
 tags: [webxr, rendering, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: tensorflow-debugging
-description: Debugging for Tensorflow: debugging and troubleshooting
+description: "Debugging for Tensorflow: debugging and troubleshooting"
 category: ai
 tags: [tensorflow, debugging, ai]
 models: [sonnet, opus]

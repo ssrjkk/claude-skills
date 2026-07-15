@@ -1,6 +1,6 @@
 ---
 name: javascript-dependency-injection
-description: DI with Javascript. DI containers.
+description: "DI with Javascript. DI containers."
 category: backend
 tags: [javascript, dependency-injection, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: ab-setup
-description: Setup with Apache Bench. installation.
+description: "Setup with Apache Bench. installation."
 category: qa
 tags: [ab-setup, qa, russian]
 models: [sonnet, opus]

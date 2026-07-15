@@ -1,6 +1,6 @@
 ---
 name: phoenix-intro
-description: Intro for Phoenix: introduction
+description: "Intro for Phoenix: introduction"
 category: backend
 tags: [phoenix, intro, backend]
 models: [sonnet, opus]

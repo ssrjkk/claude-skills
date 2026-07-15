@@ -1,6 +1,6 @@
 ---
 name: play-database
-description: Database with Play. DB access.
+description: "Database with Play. DB access."
 category: backend
 tags: [play, database, backend, backend]
 models: [gpt-4, claude-3]

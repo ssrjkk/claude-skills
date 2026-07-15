@@ -1,6 +1,6 @@
 ---
 name: vercel-serverless
-description: Serverless with Vercel. functions.
+description: "Serverless with Vercel. functions."
 category: devops
 tags: [vercel-serverless, devops, russian]
 models: [sonnet, opus]

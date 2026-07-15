@@ -1,6 +1,6 @@
 ---
 name: linkerd-production
-description: Production for Linkerd: production deployment
+description: "Production for Linkerd: production deployment"
 category: devops
 tags: [linkerd-production, devops, russian]
 models: [sonnet, opus]

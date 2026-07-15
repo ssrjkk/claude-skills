@@ -1,6 +1,6 @@
 ---
 name: freertos-optimization
-description: Optimization with FreeRTOS. optimization.
+description: "Optimization with FreeRTOS. optimization."
 category: embedded
 tags: [freertos-optimization, embedded, russian]
 models: [sonnet, opus]

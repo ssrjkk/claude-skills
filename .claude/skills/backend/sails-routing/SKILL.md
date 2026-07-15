@@ -1,6 +1,6 @@
 ---
 name: sails-routing
-description: Routing with Sails.js. HTTP routing.
+description: "Routing with Sails.js. HTTP routing."
 category: backend
 tags: [sails, routing, backend, backend]
 models: [gpt-4, claude-3]

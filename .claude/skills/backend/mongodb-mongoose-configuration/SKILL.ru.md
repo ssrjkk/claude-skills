@@ -1,6 +1,6 @@
 ---
 name: mongodb-mongoose-configuration
-description: Configuration for Mongodb-Mongoose: configuration and setup
+description: "Configuration for Mongodb-Mongoose: configuration and setup"
 category: backend
 tags: [mongodb-mongoose-configuration, backend, russian]
 models: [sonnet, opus]

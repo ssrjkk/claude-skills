@@ -1,6 +1,6 @@
 ---
 name: echo-testing
-description: Testing with Echo. unit tests.
+description: "Testing with Echo. unit tests."
 category: backend
 tags: [echo, testing, backend, backend]
 models: [gpt-4, claude-3]

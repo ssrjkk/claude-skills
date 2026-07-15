@@ -1,6 +1,6 @@
 ---
 name: vagrant-state
-description: State with Vagrant. state management.
+description: "State with Vagrant. state management."
 category: devops
 tags: [vagrant-state, devops, russian]
 models: [sonnet, opus]

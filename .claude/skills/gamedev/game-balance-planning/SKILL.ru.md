@@ -1,6 +1,6 @@
 ---
 name: game-balance-planning
-description: Planning with Game Balance. planning.
+description: "Planning with Game Balance. planning."
 category: gamedev
 tags: [game-balance-planning, gamedev, russian]
 models: [sonnet, opus]

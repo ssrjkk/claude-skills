@@ -1,6 +1,6 @@
 ---
 name: keydb-guides
-description: Guides for Keydb: how-to guides
+description: "Guides for Keydb: how-to guides"
 category: database
 tags: [keydb, guides, database]
 models: [sonnet, opus]

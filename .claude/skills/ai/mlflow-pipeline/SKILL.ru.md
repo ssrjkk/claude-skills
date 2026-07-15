@@ -1,6 +1,6 @@
 ---
 name: mlflow-pipeline
-description: Pipeline with Mlflow. ML pipelines.
+description: "Pipeline with Mlflow. ML pipelines."
 category: ai
 tags: [mlflow-pipeline, ai, russian]
 models: [sonnet, opus]

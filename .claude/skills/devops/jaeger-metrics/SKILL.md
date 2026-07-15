@@ -1,6 +1,6 @@
 ---
 name: jaeger-metrics
-description: Metrics with Jaeger. collecting metrics.
+description: "Metrics with Jaeger. collecting metrics."
 category: devops
 tags: [jaeger, metrics, devops, monitoring]
 models: [gpt-4, claude-3]

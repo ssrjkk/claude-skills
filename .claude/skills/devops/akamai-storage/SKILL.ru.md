@@ -1,6 +1,6 @@
 ---
 name: akamai-storage
-description: Storage with Akamai. object storage.
+description: "Storage with Akamai. object storage."
 category: devops
 tags: [akamai-storage, devops, russian]
 models: [sonnet, opus]

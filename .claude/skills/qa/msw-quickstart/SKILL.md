@@ -1,6 +1,6 @@
 ---
 name: msw-quickstart
-description: Quickstart for Msw: quick start guide
+description: "Quickstart for Msw: quick start guide"
 category: qa
 tags: [msw, quickstart, qa]
 models: [sonnet, opus]

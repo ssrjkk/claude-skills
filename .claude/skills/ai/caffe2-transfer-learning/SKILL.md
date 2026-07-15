@@ -1,6 +1,6 @@
 ---
 name: caffe2-transfer-learning
-description: Transfer Learning with Caffe2. transfer learning.
+description: "Transfer Learning with Caffe2. transfer learning."
 category: ai
 tags: [caffe2, transfer-learning, ai, deep-learning]
 models: [gpt-4, claude-3]

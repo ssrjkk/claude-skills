@@ -1,6 +1,6 @@
 ---
 name: auth0
-description: Integrates Auth0 for authentication, authorization, and user management with social login and MFA.
+description: "Integrates Auth0 for authentication, authorization, and user management with social login and MFA."
 category: security
 tags: [auth0, security, russian]
 models: [sonnet, opus]

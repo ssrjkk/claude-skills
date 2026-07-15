@@ -1,6 +1,6 @@
 ---
 name: rtmp-delivery
-description: Delivery with RTMP. delivery.
+description: "Delivery with RTMP. delivery."
 category: media
 tags: [rtmp-delivery, media, russian]
 models: [sonnet, opus]

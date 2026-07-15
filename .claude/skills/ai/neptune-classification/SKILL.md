@@ -1,6 +1,6 @@
 ---
 name: neptune-classification
-description: Classification with Neptune. building classifiers.
+description: "Classification with Neptune. building classifiers."
 category: ai
 tags: [neptune, classification, ai, ml]
 models: [gpt-4, claude-3]

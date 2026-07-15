@@ -1,6 +1,6 @@
 ---
 name: sycl
-description: Development with Sycl: tools and best practices
+description: "Development with Sycl: tools and best practices"
 category: database
 tags: [sycl, database, development]
 models: [sonnet, opus]

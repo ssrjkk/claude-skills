@@ -1,6 +1,6 @@
 ---
 name: clojure-error-handling
-description: Error Handling with Clojure. error management.
+description: "Error Handling with Clojure. error management."
 category: backend
 tags: [clojure-error-handling, backend, russian]
 models: [sonnet, opus]

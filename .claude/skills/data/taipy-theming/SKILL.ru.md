@@ -1,6 +1,6 @@
 ---
 name: taipy-theming
-description: Theming with Taipy. themes.
+description: "Theming with Taipy. themes."
 category: data
 tags: [taipy-theming, data, russian]
 models: [sonnet, opus]

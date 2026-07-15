@@ -1,6 +1,6 @@
 ---
 name: paddle-refunds
-description: Refunds with Paddle. refunds.
+description: "Refunds with Paddle. refunds."
 category: payments
 tags: [paddle-refunds, payments, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: spec-basics
-description: Basics with Specification Writing. fundamentals.
+description: "Basics with Specification Writing. fundamentals."
 category: product
 tags: [spec, basics, product, product-framework]
 models: [gpt-4, claude-3]

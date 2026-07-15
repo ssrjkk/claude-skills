@@ -1,6 +1,6 @@
 ---
 name: elastic-logging
-description: Logging with Elastic Stack. log collection.
+description: "Logging with Elastic Stack. log collection."
 category: devops
 tags: [elastic-logging, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: backlight-plugins
-description: Plugins with Backlight. plugins.
+description: "Plugins with Backlight. plugins."
 category: design
 tags: [backlight-plugins, design, russian]
 models: [sonnet, opus]

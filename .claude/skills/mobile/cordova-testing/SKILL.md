@@ -1,6 +1,6 @@
 ---
 name: cordova-testing
-description: Testing with Cordova. testing.
+description: "Testing with Cordova. testing."
 category: mobile
 tags: [cordova, testing, mobile, mobile]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: opentelemetry-usage
-description: Usage for Opentelemetry: usage reference
+description: "Usage for Opentelemetry: usage reference"
 category: devops
 tags: [opentelemetry, usage, devops]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: jmeter-spike
-description: Spike with JMeter. spike tests.
+description: "Spike with JMeter. spike tests."
 category: qa
 tags: [jmeter-spike, qa, russian]
 models: [sonnet, opus]

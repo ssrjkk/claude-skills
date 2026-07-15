@@ -1,6 +1,6 @@
 ---
 name: mysql-optimization
-description: Optimization with MySQL. query tuning.
+description: "Optimization with MySQL. query tuning."
 category: database
 tags: [mysql-optimization, database, russian]
 models: [sonnet, opus]

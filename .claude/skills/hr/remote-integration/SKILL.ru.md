@@ -1,6 +1,6 @@
 ---
 name: remote-integration
-description: Integration with Remote.com. integration.
+description: "Integration with Remote.com. integration."
 category: hr
 tags: [remote-integration, hr, russian]
 models: [sonnet, opus]

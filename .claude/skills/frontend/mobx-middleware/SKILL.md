@@ -1,6 +1,6 @@
 ---
 name: mobx-middleware
-description: Middleware with MobX. side effects.
+description: "Middleware with MobX. side effects."
 category: frontend
 tags: [mobx, middleware, frontend, state-management]
 models: [gpt-4, claude-3]

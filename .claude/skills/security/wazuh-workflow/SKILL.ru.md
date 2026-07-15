@@ -1,6 +1,6 @@
 ---
 name: wazuh-workflow
-description: Workflow for Wazuh: workflow optimization
+description: "Workflow for Wazuh: workflow optimization"
 category: security
 tags: [wazuh-workflow, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: saleor-analytics
-description: Analytics with Saleor. analytics.
+description: "Analytics with Saleor. analytics."
 category: ecommerce
 tags: [saleor, analytics, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: neptune-feature-engineering
-description: Feature Engineering with Neptune. creating features.
+description: "Feature Engineering with Neptune. creating features."
 category: ai
 tags: [neptune-feature-engineering, ai, russian]
 models: [sonnet, opus]

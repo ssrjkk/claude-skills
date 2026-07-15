@@ -1,6 +1,6 @@
 ---
 name: vitest-deployment
-description: Deployment for Vitest: deployment and release
+description: "Deployment for Vitest: deployment and release"
 category: qa
 tags: [vitest, deployment, qa]
 models: [sonnet, opus]

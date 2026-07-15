@@ -1,6 +1,6 @@
 ---
 name: transformers-optimization
-description: Optimization with Transformers. model optimization.
+description: "Optimization with Transformers. model optimization."
 category: ai
 tags: [transformers, optimization, ai, deep-learning]
 models: [gpt-4, claude-3]

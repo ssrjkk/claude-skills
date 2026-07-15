@@ -1,6 +1,6 @@
 ---
 name: semantic-kernel-streaming
-description: Streaming with Semantic Kernel. token streaming.
+description: "Streaming with Semantic Kernel. token streaming."
 category: ai
 tags: [semantic-kernel, streaming, ai, llm]
 models: [gpt-4, claude-3]

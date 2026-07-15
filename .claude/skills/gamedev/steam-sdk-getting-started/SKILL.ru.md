@@ -1,6 +1,6 @@
 ---
 name: steam-sdk-getting-started
-description: Getting Started for Steam-Sdk: initial setup and first steps
+description: "Getting Started for Steam-Sdk: initial setup and first steps"
 category: gamedev
 tags: [steam-sdk-getting-started, gamedev, russian]
 models: [sonnet, opus]

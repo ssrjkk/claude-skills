@@ -1,6 +1,6 @@
 ---
 name: pandas-deployment
-description: Deployment with Pandas. app deployment.
+description: "Deployment with Pandas. app deployment."
 category: data
 tags: [pandas, deployment, data, data-science]
 models: [gpt-4, claude-3]

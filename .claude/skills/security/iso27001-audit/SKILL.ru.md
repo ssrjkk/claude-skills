@@ -1,6 +1,6 @@
 ---
 name: iso27001-audit
-description: Audit with ISO 27001. security audit.
+description: "Audit with ISO 27001. security audit."
 category: security
 tags: [iso27001-audit, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: testflight-automation
-description: Automation for Testflight: automation and scripting
+description: "Automation for Testflight: automation and scripting"
 category: mobile
 tags: [testflight-automation, mobile, russian]
 models: [sonnet, opus]

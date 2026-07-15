@@ -1,6 +1,6 @@
 ---
 name: recurly-plans
-description: Plans with Recurly. plan creation.
+description: "Plans with Recurly. plan creation."
 category: payments
 tags: [recurly-plans, payments, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: alpine-components
-description: Components with Alpine. building components.
+description: "Components with Alpine. building components."
 category: frontend
 tags: [alpine-components, frontend, russian]
 models: [sonnet, opus]

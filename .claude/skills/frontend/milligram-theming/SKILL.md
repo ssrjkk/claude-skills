@@ -1,6 +1,6 @@
 ---
 name: milligram-theming
-description: Theming with Milligram. custom themes.
+description: "Theming with Milligram. custom themes."
 category: frontend
 tags: [milligram, theming, frontend, css]
 models: [gpt-4, claude-3]

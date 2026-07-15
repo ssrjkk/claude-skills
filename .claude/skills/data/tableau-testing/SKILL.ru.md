@@ -1,6 +1,6 @@
 ---
 name: tableau-testing
-description: Testing for Tableau: testing and validation
+description: "Testing for Tableau: testing and validation"
 category: data
 tags: [tableau-testing, data, russian]
 models: [sonnet, opus]

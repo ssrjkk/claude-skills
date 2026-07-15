@@ -1,6 +1,6 @@
 ---
 name: order-management-strategy
-description: Strategy with OMS. strategy dev.
+description: "Strategy with OMS. strategy dev."
 category: finance
 tags: [order-management, strategy, finance, trading]
 models: [gpt-4, claude-3]

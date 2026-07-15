@@ -1,6 +1,6 @@
 ---
 name: prometheus-logging
-description: Logging with Prometheus. log collection.
+description: "Logging with Prometheus. log collection."
 category: devops
 tags: [prometheus-logging, devops, russian]
 models: [sonnet, opus]

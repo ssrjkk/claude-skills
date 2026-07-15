@@ -1,6 +1,6 @@
 ---
 name: nslookup-performance
-description: Performance with nslookup/dig. benchmarking.
+description: "Performance with nslookup/dig. benchmarking."
 category: networking
 tags: [nslookup-performance, networking, russian]
 models: [sonnet, opus]

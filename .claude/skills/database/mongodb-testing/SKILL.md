@@ -1,6 +1,6 @@
 ---
 name: mongodb-testing
-description: Testing for Mongodb: testing and validation
+description: "Testing for Mongodb: testing and validation"
 category: database
 tags: [mongodb, testing, database]
 models: [sonnet, opus]

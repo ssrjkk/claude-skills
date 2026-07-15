@@ -1,6 +1,6 @@
 ---
 name: cakephp-templating
-description: Templating with CakePHP. Blade.
+description: "Templating with CakePHP. Blade."
 category: backend
 tags: [cakephp-templating, backend, russian]
 models: [sonnet, opus]

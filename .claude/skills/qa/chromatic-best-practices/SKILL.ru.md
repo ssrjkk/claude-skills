@@ -1,6 +1,6 @@
 ---
 name: chromatic-best-practices
-description: Best Practices for Chromatic: best practices and patterns
+description: "Best Practices for Chromatic: best practices and patterns"
 category: qa
 tags: [chromatic-best-practices, qa, russian]
 models: [sonnet, opus]

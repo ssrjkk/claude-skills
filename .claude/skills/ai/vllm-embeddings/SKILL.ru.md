@@ -1,6 +1,6 @@
 ---
 name: vllm-embeddings
-description: Embeddings with Vllm. text embeddings.
+description: "Embeddings with Vllm. text embeddings."
 category: ai
 tags: [vllm-embeddings, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mlflow-configuration
-description: Configuration for Mlflow: configuration and setup
+description: "Configuration for Mlflow: configuration and setup"
 category: data
 tags: [mlflow-configuration, data, russian]
 models: [sonnet, opus]

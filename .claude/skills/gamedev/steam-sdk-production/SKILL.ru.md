@@ -1,6 +1,6 @@
 ---
 name: steam-sdk-production
-description: Production for Steam-Sdk: production deployment
+description: "Production for Steam-Sdk: production deployment"
 category: gamedev
 tags: [steam-sdk-production, gamedev, russian]
 models: [sonnet, opus]

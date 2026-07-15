@@ -1,6 +1,6 @@
 ---
 name: akamai-monitoring
-description: Monitoring with Akamai. monitoring.
+description: "Monitoring with Akamai. monitoring."
 category: devops
 tags: [akamai-monitoring, devops, russian]
 models: [sonnet, opus]

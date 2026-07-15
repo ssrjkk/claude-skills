@@ -1,6 +1,6 @@
 ---
 name: revenuecat-configuration
-description: Configuration for Revenuecat: configuration and setup
+description: "Configuration for Revenuecat: configuration and setup"
 category: mobile
 tags: [revenuecat-configuration, mobile, russian]
 models: [sonnet, opus]

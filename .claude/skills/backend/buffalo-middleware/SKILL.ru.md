@@ -1,6 +1,6 @@
 ---
 name: buffalo-middleware
-description: Middleware with Buffalo. request pipeline.
+description: "Middleware with Buffalo. request pipeline."
 category: backend
 tags: [buffalo-middleware, backend, russian]
 models: [sonnet, opus]

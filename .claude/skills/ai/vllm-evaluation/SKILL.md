@@ -1,6 +1,6 @@
 ---
 name: vllm-evaluation
-description: Evaluation with Vllm. LLM evaluation.
+description: "Evaluation with Vllm. LLM evaluation."
 category: ai
 tags: [vllm, evaluation, ai, llm]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: neo4j-api
-description: API for Neo4J: API development and integration
+description: "API for Neo4J: API development and integration"
 category: database
 tags: [neo4j, api, database]
 models: [sonnet, opus]

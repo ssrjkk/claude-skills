@@ -1,6 +1,6 @@
 ---
 name: deel-recruiting
-description: Recruiting with Deel. ATS.
+description: "Recruiting with Deel. ATS."
 category: hr
 tags: [deel, recruiting, hr, hr-tech]
 models: [gpt-4, claude-3]

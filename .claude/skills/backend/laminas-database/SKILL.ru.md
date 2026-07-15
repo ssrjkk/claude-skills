@@ -1,6 +1,6 @@
 ---
 name: laminas-database
-description: Database with Laminas. Eloquent.
+description: "Database with Laminas. Eloquent."
 category: backend
 tags: [laminas-database, backend, russian]
 models: [sonnet, opus]

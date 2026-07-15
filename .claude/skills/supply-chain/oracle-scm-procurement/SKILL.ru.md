@@ -1,6 +1,6 @@
 ---
 name: oracle-scm-procurement
-description: Procurement with Oracle SCM. procurement.
+description: "Procurement with Oracle SCM. procurement."
 category: supply-chain
 tags: [oracle-scm-procurement, supply-chain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: hbase-setup
-description: Setup with HBase. installation.
+description: "Setup with HBase. installation."
 category: database
 tags: [hbase, setup, database, nosql]
 models: [gpt-4, claude-3]

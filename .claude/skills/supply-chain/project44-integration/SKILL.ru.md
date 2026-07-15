@@ -1,6 +1,6 @@
 ---
 name: project44-integration
-description: Integration with project44. integration.
+description: "Integration with project44. integration."
 category: supply-chain
 tags: [project44-integration, supply-chain, russian]
 models: [sonnet, opus]

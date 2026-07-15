@@ -1,6 +1,6 @@
 ---
 name: minitest-fixtures
-description: Fixtures with Minitest. test fixtures.
+description: "Fixtures with Minitest. test fixtures."
 category: qa
 tags: [minitest-fixtures, qa, russian]
 models: [sonnet, opus]

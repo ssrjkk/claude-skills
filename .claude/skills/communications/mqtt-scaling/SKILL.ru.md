@@ -1,6 +1,6 @@
 ---
 name: mqtt-scaling
-description: Scaling with MQTT. scaling.
+description: "Scaling with MQTT. scaling."
 category: communications
 tags: [mqtt-scaling, communications, russian]
 models: [sonnet, opus]

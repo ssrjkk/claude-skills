@@ -1,6 +1,6 @@
 ---
 name: dgraph-indexing
-description: Indexing with Dgraph. indexes.
+description: "Indexing with Dgraph. indexes."
 category: database
 tags: [dgraph-indexing, database, russian]
 models: [sonnet, opus]

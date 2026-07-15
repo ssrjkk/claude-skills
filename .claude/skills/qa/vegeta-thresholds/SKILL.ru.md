@@ -1,6 +1,6 @@
 ---
 name: vegeta-thresholds
-description: Thresholds with Vegeta. pass/fail.
+description: "Thresholds with Vegeta. pass/fail."
 category: qa
 tags: [vegeta-thresholds, qa, russian]
 models: [sonnet, opus]

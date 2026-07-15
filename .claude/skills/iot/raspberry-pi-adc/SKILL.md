@@ -1,6 +1,6 @@
 ---
 name: raspberry-pi-adc
-description: ADC with Raspberry Pi. analog input.
+description: "ADC with Raspberry Pi. analog input."
 category: iot
 tags: [raspberry-pi, adc, iot, iot]
 models: [gpt-4, claude-3]

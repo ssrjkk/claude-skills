@@ -1,6 +1,6 @@
 ---
 name: tensorflow-transfer-learning
-description: Transfer Learning with Tensorflow. transfer learning.
+description: "Transfer Learning with Tensorflow. transfer learning."
 category: ai
 tags: [tensorflow-transfer-learning, ai, russian]
 models: [sonnet, opus]

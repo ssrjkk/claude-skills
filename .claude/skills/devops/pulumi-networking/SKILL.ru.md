@@ -1,6 +1,6 @@
 ---
 name: pulumi-networking
-description: Networking with Pulumi. network infra.
+description: "Networking with Pulumi. network infra."
 category: devops
 tags: [pulumi-networking, devops, russian]
 models: [sonnet, opus]

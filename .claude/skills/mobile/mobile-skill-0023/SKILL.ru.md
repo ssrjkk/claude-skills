@@ -1,6 +1,6 @@
 ---
 name: mobile-skill-0023
-description: Specialized skill #0023 for mobile development
+description: "Specialized skill #0023 for mobile development"
 category: mobile
 tags: [skill-0023, mobile, russian]
 models: [sonnet, opus]

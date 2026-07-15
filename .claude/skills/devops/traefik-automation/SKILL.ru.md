@@ -1,6 +1,6 @@
 ---
 name: traefik-automation
-description: Automation for Traefik: automation and scripting
+description: "Automation for Traefik: automation and scripting"
 category: devops
 tags: [traefik-automation, devops, russian]
 models: [sonnet, opus]

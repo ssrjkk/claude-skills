@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-publishing
-description: Publishing with RPG Maker. publishing.
+description: "Publishing with RPG Maker. publishing."
 category: gamedev
 tags: [rpgmaker-publishing, gamedev, russian]
 models: [sonnet, opus]

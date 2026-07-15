@@ -1,6 +1,6 @@
 ---
 name: hyperopt-classification
-description: Classification with Hyperopt. building classifiers.
+description: "Classification with Hyperopt. building classifiers."
 category: ai
 tags: [hyperopt-classification, ai, russian]
 models: [sonnet, opus]

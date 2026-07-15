@@ -1,6 +1,6 @@
 ---
 name: nestjs-deployment
-description: Deployment with NestJS. deploy.
+description: "Deployment with NestJS. deploy."
 category: backend
 tags: [nestjs-deployment, backend, russian]
 models: [sonnet, opus]

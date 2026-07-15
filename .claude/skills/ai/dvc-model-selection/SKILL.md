@@ -1,6 +1,6 @@
 ---
 name: dvc-model-selection
-description: Model Selection with Dvc. choosing models.
+description: "Model Selection with Dvc. choosing models."
 category: ai
 tags: [dvc, model-selection, ai, ml]
 models: [gpt-4, claude-3]

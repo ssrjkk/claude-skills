@@ -1,6 +1,6 @@
 ---
 name: nats-quickstart
-description: Quickstart for Nats: quick start guide
+description: "Quickstart for Nats: quick start guide"
 category: data
 tags: [nats, quickstart, data]
 models: [sonnet, opus]

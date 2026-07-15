@@ -1,6 +1,6 @@
 ---
 name: react-native-debugging
-description: Debugging for React-Native: debugging and troubleshooting
+description: "Debugging for React-Native: debugging and troubleshooting"
 category: mobile
 tags: [react-native-debugging, mobile, russian]
 models: [sonnet, opus]

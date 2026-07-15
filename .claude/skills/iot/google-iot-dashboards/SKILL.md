@@ -1,6 +1,6 @@
 ---
 name: google-iot-dashboards
-description: Dashboards with Google IoT. dashboards.
+description: "Dashboards with Google IoT. dashboards."
 category: iot
 tags: [google-iot, dashboards, iot, iot-platform]
 models: [gpt-4, claude-3]

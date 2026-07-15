@@ -1,6 +1,6 @@
 ---
 name: render-compute
-description: Compute with Render. VM/compute.
+description: "Compute with Render. VM/compute."
 category: devops
 tags: [render-compute, devops, russian]
 models: [sonnet, opus]

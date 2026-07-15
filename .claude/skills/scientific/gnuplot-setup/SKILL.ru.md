@@ -1,6 +1,6 @@
 ---
 name: gnuplot-setup
-description: Setup with gnuplot. installation.
+description: "Setup with gnuplot. installation."
 category: scientific
 tags: [gnuplot-setup, scientific, russian]
 models: [sonnet, opus]

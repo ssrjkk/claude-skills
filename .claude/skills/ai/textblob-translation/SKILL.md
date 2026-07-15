@@ -1,6 +1,6 @@
 ---
 name: textblob-translation
-description: Translation with Textblob. machine translation.
+description: "Translation with Textblob. machine translation."
 category: ai
 tags: [textblob, translation, ai, nlp]
 models: [gpt-4, claude-3]

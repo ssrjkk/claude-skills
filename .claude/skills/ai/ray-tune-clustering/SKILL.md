@@ -1,6 +1,6 @@
 ---
 name: ray-tune-clustering
-description: Clustering with Ray Tune. grouping data.
+description: "Clustering with Ray Tune. grouping data."
 category: ai
 tags: [ray-tune, clustering, ai, ml]
 models: [gpt-4, claude-3]

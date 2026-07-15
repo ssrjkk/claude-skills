@@ -1,6 +1,6 @@
 ---
 name: framer-motion-fundamentals
-description: Fundamentals for Framer-Motion: core concepts
+description: "Fundamentals for Framer-Motion: core concepts"
 category: design
 tags: [framer-motion, fundamentals, design]
 models: [sonnet, opus]

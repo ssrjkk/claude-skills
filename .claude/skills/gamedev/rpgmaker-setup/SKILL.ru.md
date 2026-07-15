@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-setup
-description: Setup with RPG Maker. engine setup.
+description: "Setup with RPG Maker. engine setup."
 category: gamedev
 tags: [rpgmaker-setup, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: velociraptor-workflow
-description: Workflow for Velociraptor: workflow optimization
+description: "Workflow for Velociraptor: workflow optimization"
 category: security
 tags: [velociraptor-workflow, security, russian]
 models: [sonnet, opus]

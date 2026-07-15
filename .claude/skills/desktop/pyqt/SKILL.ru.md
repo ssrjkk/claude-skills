@@ -1,6 +1,6 @@
 ---
 name: pyqt
-description: Creates desktop applications with PyQt6, Qt Widgets, signals/slots, and Qt Designer.
+description: "Creates desktop applications with PyQt6, Qt Widgets, signals/slots, and Qt Designer."
 category: desktop
 tags: [pyqt, desktop, russian]
 models: [sonnet, opus]

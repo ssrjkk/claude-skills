@@ -1,6 +1,6 @@
 ---
 name: bulkhead-migration
-description: Migration with Bulkhead. adopting the pattern.
+description: "Migration with Bulkhead. adopting the pattern."
 category: backend
 tags: [bulkhead-migration, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: langfuse-best-practices
-description: Best Practices for Langfuse: best practices and patterns
+description: "Best Practices for Langfuse: best practices and patterns"
 category: ai
 tags: [langfuse, best-practices, ai]
 models: [sonnet, opus]

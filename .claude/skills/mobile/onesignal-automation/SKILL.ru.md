@@ -1,6 +1,6 @@
 ---
 name: onesignal-automation
-description: Automation for Onesignal: automation and scripting
+description: "Automation for Onesignal: automation and scripting"
 category: mobile
 tags: [onesignal-automation, mobile, russian]
 models: [sonnet, opus]

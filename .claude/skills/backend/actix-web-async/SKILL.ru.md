@@ -1,6 +1,6 @@
 ---
 name: actix-web-async
-description: Async with Actix Web. async handlers.
+description: "Async with Actix Web. async handlers."
 category: backend
 tags: [actix-web-async, backend, russian]
 models: [sonnet, opus]

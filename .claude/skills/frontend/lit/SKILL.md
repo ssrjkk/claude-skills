@@ -1,6 +1,6 @@
 ---
 name: lit
-description: Builds fast, standard-compliant web components with Lit, reactive properties, and Shadow DOM. Use for framework-agnostic UI.
+description: "Builds fast, standard-compliant web components with Lit, reactive properties, and Shadow DOM. Use for framework-agnostic UI."
 category: frontend
 tags: [lit, web-components, shadow-dom, reactive, standards]
 models: [sonnet, opus]

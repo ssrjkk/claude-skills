@@ -1,6 +1,6 @@
 ---
 name: mollie-reporting
-description: Reporting with Mollie. reports.
+description: "Reporting with Mollie. reports."
 category: payments
 tags: [mollie-reporting, payments, russian]
 models: [sonnet, opus]

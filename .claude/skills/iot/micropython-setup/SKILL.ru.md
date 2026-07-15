@@ -1,6 +1,6 @@
 ---
 name: micropython-setup
-description: Setup with MicroPython. board setup.
+description: "Setup with MicroPython. board setup."
 category: iot
 tags: [micropython-setup, iot, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: nat-optimization
-description: Optimization with NAT. tuning.
+description: "Optimization with NAT. tuning."
 category: networking
 tags: [nat, optimization, networking, networking]
 models: [gpt-4, claude-3]

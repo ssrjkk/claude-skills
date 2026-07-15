@@ -1,6 +1,6 @@
 ---
 name: openshift-ingress
-description: Ingress with OpenShift. ingress controller.
+description: "Ingress with OpenShift. ingress controller."
 category: devops
 tags: [openshift, ingress, devops, kubernetes]
 models: [gpt-4, claude-3]

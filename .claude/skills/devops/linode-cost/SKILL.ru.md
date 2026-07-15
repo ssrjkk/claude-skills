@@ -1,6 +1,6 @@
 ---
 name: linode-cost
-description: Cost with Linode. cost optimization.
+description: "Cost with Linode. cost optimization."
 category: devops
 tags: [linode-cost, devops, russian]
 models: [sonnet, opus]

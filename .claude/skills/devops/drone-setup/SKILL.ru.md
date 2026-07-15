@@ -1,6 +1,6 @@
 ---
 name: drone-setup
-description: Setup with Drone CI. pipeline setup.
+description: "Setup with Drone CI. pipeline setup."
 category: devops
 tags: [drone-setup, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: remix-api-routes
-description: API Routes with Remix. API endpoints.
+description: "API Routes with Remix. API endpoints."
 category: frontend
 tags: [remix-api-routes, frontend, russian]
 models: [sonnet, opus]

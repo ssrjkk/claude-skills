@@ -1,6 +1,6 @@
 ---
 name: caliper-deployment
-description: Deployment with Caliper. deployment.
+description: "Deployment with Caliper. deployment."
 category: education
 tags: [caliper, deployment, education, education-standard]
 models: [gpt-4, claude-3]

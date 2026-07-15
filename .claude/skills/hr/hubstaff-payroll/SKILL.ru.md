@@ -1,6 +1,6 @@
 ---
 name: hubstaff-payroll
-description: Payroll with Hubstaff. payroll.
+description: "Payroll with Hubstaff. payroll."
 category: hr
 tags: [hubstaff-payroll, hr, russian]
 models: [sonnet, opus]

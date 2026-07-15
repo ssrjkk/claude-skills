@@ -1,6 +1,6 @@
 ---
 name: bitsandbytes-data-loading
-description: Data Loading with Bitsandbytes. data pipelines.
+description: "Data Loading with Bitsandbytes. data pipelines."
 category: ai
 tags: [bitsandbytes, data-loading, ai, deep-learning]
 models: [gpt-4, claude-3]

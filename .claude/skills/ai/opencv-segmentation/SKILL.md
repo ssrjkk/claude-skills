@@ -1,6 +1,6 @@
 ---
 name: opencv-segmentation
-description: Segmentation with Opencv. image segmentation.
+description: "Segmentation with Opencv. image segmentation."
 category: ai
 tags: [opencv, segmentation, ai, computer-vision]
 models: [gpt-4, claude-3]

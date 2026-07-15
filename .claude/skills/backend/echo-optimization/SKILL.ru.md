@@ -1,6 +1,6 @@
 ---
 name: echo-optimization
-description: Optimization for Echo: performance tuning and optimization
+description: "Optimization for Echo: performance tuning and optimization"
 category: backend
 tags: [echo-optimization, backend, russian]
 models: [sonnet, opus]

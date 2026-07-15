@@ -1,6 +1,6 @@
 ---
 name: leaflet-workflow
-description: Workflow for Leaflet: workflow optimization
+description: "Workflow for Leaflet: workflow optimization"
 category: frontend
 tags: [leaflet-workflow, frontend, russian]
 models: [sonnet, opus]

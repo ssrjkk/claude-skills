@@ -1,6 +1,6 @@
 ---
 name: phpunit-coverage
-description: Coverage with PHPUnit. code coverage.
+description: "Coverage with PHPUnit. code coverage."
 category: qa
 tags: [phpunit-coverage, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: premiere-color
-description: Color with Premiere Pro. color grading.
+description: "Color with Premiere Pro. color grading."
 category: media
 tags: [premiere, color, media, media-production]
 models: [gpt-4, claude-3]

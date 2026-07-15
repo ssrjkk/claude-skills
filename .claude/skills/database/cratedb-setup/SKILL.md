@@ -1,6 +1,6 @@
 ---
 name: cratedb-setup
-description: Setup with CrateDB. installation.
+description: "Setup with CrateDB. installation."
 category: database
 tags: [cratedb, setup, database, sql]
 models: [gpt-4, claude-3]

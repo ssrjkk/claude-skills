@@ -1,6 +1,6 @@
 ---
 name: nestjs-debugging
-description: Debugging for Nestjs: debugging and troubleshooting
+description: "Debugging for Nestjs: debugging and troubleshooting"
 category: backend
 tags: [nestjs, debugging, backend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kafka-connect-troubleshooting
-description: Troubleshooting for Kafka-Connect: troubleshooting common issues
+description: "Troubleshooting for Kafka-Connect: troubleshooting common issues"
 category: database
 tags: [kafka-connect-troubleshooting, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sbti-tools
-description: Tools with SBTi. tools.
+description: "Tools with SBTi. tools."
 category: sustainability
 tags: [sbti-tools, sustainability, russian]
 models: [sonnet, opus]

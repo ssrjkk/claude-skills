@@ -1,6 +1,6 @@
 ---
 name: packer
-description: Creates identical machine images for multiple platforms with Packer, including AWS AMIs and Docker images.
+description: "Creates identical machine images for multiple platforms with Packer, including AWS AMIs and Docker images."
 category: devops
 tags: [packer, devops, russian]
 models: [sonnet, opus]

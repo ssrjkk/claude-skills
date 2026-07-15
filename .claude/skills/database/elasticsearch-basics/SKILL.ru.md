@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-basics
-description: Basics for Elasticsearch: fundamentals and core concepts
+description: "Basics for Elasticsearch: fundamentals and core concepts"
 category: database
 tags: [elasticsearch-basics, database, russian]
 models: [sonnet, opus]

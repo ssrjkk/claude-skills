@@ -1,6 +1,6 @@
 ---
 name: alpine-security
-description: Security with Alpine Linux. hardening.
+description: "Security with Alpine Linux. hardening."
 category: os-admin
 tags: [alpine, security, os-admin, linux]
 models: [gpt-4, claude-3]

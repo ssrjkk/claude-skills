@@ -1,6 +1,6 @@
 ---
 name: c4-model-collaboration
-description: Collaboration with C4 Model. team collaboration.
+description: "Collaboration with C4 Model. team collaboration."
 category: engineering
 tags: [c4-model, collaboration, engineering, modeling]
 models: [gpt-4, claude-3]

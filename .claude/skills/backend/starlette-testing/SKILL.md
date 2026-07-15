@@ -1,6 +1,6 @@
 ---
 name: starlette-testing
-description: Testing with Starlette. integration tests.
+description: "Testing with Starlette. integration tests."
 category: backend
 tags: [starlette, testing, backend, backend]
 models: [gpt-4, claude-3]

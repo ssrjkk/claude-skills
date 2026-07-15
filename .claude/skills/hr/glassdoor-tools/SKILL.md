@@ -1,6 +1,6 @@
 ---
 name: glassdoor-tools
-description: Tools with Glassdoor. tools.
+description: "Tools with Glassdoor. tools."
 category: hr
 tags: [glassdoor, tools, hr, recruiting]
 models: [gpt-4, claude-3]

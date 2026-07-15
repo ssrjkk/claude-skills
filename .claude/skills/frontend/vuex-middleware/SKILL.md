@@ -1,6 +1,6 @@
 ---
 name: vuex-middleware
-description: Middleware with Vuex. side effects.
+description: "Middleware with Vuex. side effects."
 category: frontend
 tags: [vuex, middleware, frontend, state-management]
 models: [gpt-4, claude-3]

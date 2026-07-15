@@ -1,6 +1,6 @@
 ---
 name: streamlit-charts
-description: Charts with Streamlit. charts.
+description: "Charts with Streamlit. charts."
 category: data
 tags: [streamlit-charts, data, russian]
 models: [sonnet, opus]

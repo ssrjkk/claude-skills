@@ -1,6 +1,6 @@
 ---
 name: elasticsearch
-description: Indexes, searches, and analyzes data with Elasticsearch, using full-text search, aggregations, and Kibana visualization. Use for search and log analytics.
+description: "Indexes, searches, and analyzes data with Elasticsearch, using full-text search, aggregations, and Kibana visualization. Use for search and log analytics."
 category: database
 tags: [elasticsearch, search, kibana, analytics, nosql]
 models: [sonnet, opus]

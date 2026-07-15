@@ -1,6 +1,6 @@
 ---
 name: varnish-fundamentals
-description: Fundamentals for Varnish: core concepts
+description: "Fundamentals for Varnish: core concepts"
 category: backend
 tags: [varnish-fundamentals, backend, russian]
 models: [sonnet, opus]

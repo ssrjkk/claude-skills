@@ -1,6 +1,6 @@
 ---
 name: contiki-memory
-description: Memory with Contiki-NG. memory management.
+description: "Memory with Contiki-NG. memory management."
 category: embedded
 tags: [contiki-memory, embedded, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gitleaks-best-practices
-description: Best Practices for Gitleaks: best practices and patterns
+description: "Best Practices for Gitleaks: best practices and patterns"
 category: security
 tags: [gitleaks-best-practices, security, russian]
 models: [sonnet, opus]

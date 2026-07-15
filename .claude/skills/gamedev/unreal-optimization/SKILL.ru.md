@@ -1,6 +1,6 @@
 ---
 name: unreal-optimization
-description: Optimization with Unreal Engine. performance.
+description: "Optimization with Unreal Engine. performance."
 category: gamedev
 tags: [unreal-optimization, gamedev, russian]
 models: [sonnet, opus]

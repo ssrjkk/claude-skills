@@ -1,6 +1,6 @@
 ---
 name: parcel-bundling
-description: Bundling with Parcel. code bundling.
+description: "Bundling with Parcel. code bundling."
 category: frontend
 tags: [parcel-bundling, frontend, russian]
 models: [sonnet, opus]

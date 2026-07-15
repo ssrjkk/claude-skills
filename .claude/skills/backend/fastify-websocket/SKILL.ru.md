@@ -1,6 +1,6 @@
 ---
 name: fastify-websocket
-description: WebSocket with Fastify. Socket.io.
+description: "WebSocket with Fastify. Socket.io."
 category: backend
 tags: [fastify-websocket, backend, russian]
 models: [sonnet, opus]

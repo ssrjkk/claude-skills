@@ -1,6 +1,6 @@
 ---
 name: qdrant-integration
-description: Integration for Qdrant: integration with other tools
+description: "Integration for Qdrant: integration with other tools"
 category: ai
 tags: [qdrant-integration, ai, russian]
 models: [sonnet, opus]

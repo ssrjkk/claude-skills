@@ -1,6 +1,6 @@
 ---
 name: hazelcast-monitoring
-description: Monitoring with Hazelcast. monitoring.
+description: "Monitoring with Hazelcast. monitoring."
 category: database
 tags: [hazelcast-monitoring, database, russian]
 models: [sonnet, opus]

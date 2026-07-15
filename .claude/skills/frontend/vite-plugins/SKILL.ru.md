@@ -1,6 +1,6 @@
 ---
 name: vite-plugins
-description: Plugins with Vite. plugins.
+description: "Plugins with Vite. plugins."
 category: frontend
 tags: [vite-plugins, frontend, russian]
 models: [sonnet, opus]

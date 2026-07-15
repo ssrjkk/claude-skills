@@ -1,6 +1,6 @@
 ---
 name: chi-testing
-description: Testing with Chi. unit tests.
+description: "Testing with Chi. unit tests."
 category: backend
 tags: [chi, testing, backend, backend]
 models: [gpt-4, claude-3]

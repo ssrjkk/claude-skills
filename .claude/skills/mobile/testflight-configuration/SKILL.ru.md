@@ -1,6 +1,6 @@
 ---
 name: testflight-configuration
-description: Configuration for Testflight: configuration and setup
+description: "Configuration for Testflight: configuration and setup"
 category: mobile
 tags: [testflight-configuration, mobile, russian]
 models: [sonnet, opus]

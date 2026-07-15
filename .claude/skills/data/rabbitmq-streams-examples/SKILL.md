@@ -1,6 +1,6 @@
 ---
 name: rabbitmq-streams-examples
-description: Examples for Rabbitmq-Streams: practical examples
+description: "Examples for Rabbitmq-Streams: practical examples"
 category: data
 tags: [rabbitmq-streams, examples, data]
 models: [sonnet, opus]

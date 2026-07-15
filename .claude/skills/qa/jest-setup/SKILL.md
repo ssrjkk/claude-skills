@@ -1,6 +1,6 @@
 ---
 name: jest-setup
-description: Setup with Jest. installation.
+description: "Setup with Jest. installation."
 category: qa
 tags: [jest, setup, qa, testing]
 models: [gpt-4, claude-3]

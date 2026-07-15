@@ -1,6 +1,6 @@
 ---
 name: algo-trading-risk
-description: Risk with Algorithmic Trading. risk analysis.
+description: "Risk with Algorithmic Trading. risk analysis."
 category: finance
 tags: [algo-trading, risk, finance, trading]
 models: [gpt-4, claude-3]

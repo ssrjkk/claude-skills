@@ -1,6 +1,6 @@
 ---
 name: skill-0155
-description: Specialized skill #0155 for ai development
+description: "Specialized skill #0155 for ai development"
 category: ai
 tags: [ai, skill, 0155]
 models: [sonnet, opus]

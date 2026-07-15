@@ -1,6 +1,6 @@
 ---
 name: sqlserver-monitoring
-description: Monitoring with SQL Server. monitoring.
+description: "Monitoring with SQL Server. monitoring."
 category: database
 tags: [sqlserver-monitoring, database, russian]
 models: [sonnet, opus]

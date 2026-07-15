@@ -1,6 +1,6 @@
 ---
 name: safe-maturity
-description: Maturity with SAFe. assessment.
+description: "Maturity with SAFe. assessment."
 category: product
 tags: [safe, maturity, product, methodology]
 models: [gpt-4, claude-3]

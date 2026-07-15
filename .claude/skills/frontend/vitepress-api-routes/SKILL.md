@@ -1,6 +1,6 @@
 ---
 name: vitepress-api-routes
-description: API Routes with VitePress. API endpoints.
+description: "API Routes with VitePress. API endpoints."
 category: frontend
 tags: [vitepress, api-routes, frontend, meta-framework]
 models: [gpt-4, claude-3]

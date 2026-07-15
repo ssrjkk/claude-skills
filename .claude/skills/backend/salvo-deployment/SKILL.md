@@ -1,6 +1,6 @@
 ---
 name: salvo-deployment
-description: Deployment with Salvo. build.
+description: "Deployment with Salvo. build."
 category: backend
 tags: [salvo, deployment, backend, backend]
 models: [gpt-4, claude-3]

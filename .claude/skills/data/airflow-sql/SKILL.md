@@ -1,6 +1,6 @@
 ---
 name: airflow-sql
-description: SQL with Airflow. SQL queries.
+description: "SQL with Airflow. SQL queries."
 category: data
 tags: [airflow, sql, data, data-engineering]
 models: [gpt-4, claude-3]

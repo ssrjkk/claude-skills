@@ -1,6 +1,6 @@
 ---
 name: gatsby-isr
-description: ISR with Gatsby. incremental.
+description: "ISR with Gatsby. incremental."
 category: frontend
 tags: [gatsby, isr, frontend, meta-framework]
 models: [gpt-4, claude-3]

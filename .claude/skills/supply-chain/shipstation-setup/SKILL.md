@@ -1,6 +1,6 @@
 ---
 name: shipstation-setup
-description: Setup with ShipStation. setup.
+description: "Setup with ShipStation. setup."
 category: supply-chain
 tags: [shipstation, setup, supply-chain, logistics]
 models: [gpt-4, claude-3]

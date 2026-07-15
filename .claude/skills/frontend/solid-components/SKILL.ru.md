@@ -1,6 +1,6 @@
 ---
 name: solid-components
-description: Components with Solid. building components.
+description: "Components with Solid. building components."
 category: frontend
 tags: [solid-components, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gatling-deployment
-description: Deployment for Gatling: deployment and release
+description: "Deployment for Gatling: deployment and release"
 category: qa
 tags: [gatling-deployment, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: valkey-guides
-description: Guides for Valkey: how-to guides
+description: "Guides for Valkey: how-to guides"
 category: database
 tags: [valkey-guides, database, russian]
 models: [sonnet, opus]

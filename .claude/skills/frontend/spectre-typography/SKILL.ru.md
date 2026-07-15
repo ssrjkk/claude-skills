@@ -1,6 +1,6 @@
 ---
 name: spectre-typography
-description: Typography with Spectre.css. text styling.
+description: "Typography with Spectre.css. text styling."
 category: frontend
 tags: [spectre-typography, frontend, russian]
 models: [sonnet, opus]

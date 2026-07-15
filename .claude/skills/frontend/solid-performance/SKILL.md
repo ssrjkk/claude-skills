@@ -1,6 +1,6 @@
 ---
 name: solid-performance
-description: Performance with Solid. optimization.
+description: "Performance with Solid. optimization."
 category: frontend
 tags: [solid, performance, frontend, frontend]
 models: [gpt-4, claude-3]

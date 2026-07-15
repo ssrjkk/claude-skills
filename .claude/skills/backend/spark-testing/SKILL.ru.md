@@ -1,6 +1,6 @@
 ---
 name: spark-testing
-description: Testing with Spark. unit tests.
+description: "Testing with Spark. unit tests."
 category: backend
 tags: [spark-testing, backend, russian]
 models: [sonnet, opus]

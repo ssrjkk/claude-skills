@@ -1,6 +1,6 @@
 ---
 name: inferno-components
-description: Components with Inferno. building components.
+description: "Components with Inferno. building components."
 category: frontend
 tags: [inferno-components, frontend, russian]
 models: [sonnet, opus]

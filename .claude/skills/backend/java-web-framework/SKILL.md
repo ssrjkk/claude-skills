@@ -1,6 +1,6 @@
 ---
 name: java-web-framework
-description: Web Framework with Java. web dev.
+description: "Web Framework with Java. web dev."
 category: backend
 tags: [java, web-framework, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: vitest-testing
-description: Testing for Vitest: testing and validation
+description: "Testing for Vitest: testing and validation"
 category: qa
 tags: [vitest-testing, qa, russian]
 models: [sonnet, opus]

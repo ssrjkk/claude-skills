@@ -1,6 +1,6 @@
 ---
 name: aws-rds-guides
-description: Guides for Aws-Rds: how-to guides
+description: "Guides for Aws-Rds: how-to guides"
 category: cloud
 tags: [aws-rds-guides, cloud, russian]
 models: [sonnet, opus]

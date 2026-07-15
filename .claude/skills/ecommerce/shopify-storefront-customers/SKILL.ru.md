@@ -1,6 +1,6 @@
 ---
 name: shopify-storefront-customers
-description: Customers with Shopify Storefront. customer API.
+description: "Customers with Shopify Storefront. customer API."
 category: ecommerce
 tags: [shopify-storefront-customers, ecommerce, russian]
 models: [sonnet, opus]

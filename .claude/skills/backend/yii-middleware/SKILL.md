@@ -1,6 +1,6 @@
 ---
 name: yii-middleware
-description: Middleware with Yii. pipeline.
+description: "Middleware with Yii. pipeline."
 category: backend
 tags: [yii, middleware, backend, backend]
 models: [gpt-4, claude-3]

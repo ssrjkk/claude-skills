@@ -1,6 +1,6 @@
 ---
 name: snort-configuration
-description: Configuration for Snort: configuration and setup
+description: "Configuration for Snort: configuration and setup"
 category: security
 tags: [snort, configuration, security]
 models: [sonnet, opus]

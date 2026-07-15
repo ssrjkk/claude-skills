@@ -1,6 +1,6 @@
 ---
 name: xmpp-security
-description: Security with XMPP. security.
+description: "Security with XMPP. security."
 category: communications
 tags: [xmpp-security, communications, russian]
 models: [sonnet, opus]

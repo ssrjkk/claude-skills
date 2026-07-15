@@ -1,6 +1,6 @@
 ---
 name: architecture-tools
-description: Tools with Software Architecture. tooling.
+description: "Tools with Software Architecture. tooling."
 category: engineering
 tags: [architecture-tools, engineering, russian]
 models: [sonnet, opus]

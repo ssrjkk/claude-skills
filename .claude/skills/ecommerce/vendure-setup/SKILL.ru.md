@@ -1,6 +1,6 @@
 ---
 name: vendure-setup
-description: Setup with Vendure. setup.
+description: "Setup with Vendure. setup."
 category: ecommerce
 tags: [vendure-setup, ecommerce, russian]
 models: [sonnet, opus]

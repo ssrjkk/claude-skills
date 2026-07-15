@@ -1,6 +1,6 @@
 ---
 name: percy-integration
-description: Integration for Percy: integration with other tools
+description: "Integration for Percy: integration with other tools"
 category: qa
 tags: [percy, integration, qa]
 models: [sonnet, opus]

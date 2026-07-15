@@ -1,6 +1,6 @@
 ---
 name: plaid-data
-description: Data with Plaid. financial data.
+description: "Data with Plaid. financial data."
 category: finance
 tags: [plaid-data, finance, russian]
 models: [sonnet, opus]

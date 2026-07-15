@@ -1,6 +1,6 @@
 ---
 name: arbitrum-bridge
-description: Bridge with Arbitrum. cross-chain.
+description: "Bridge with Arbitrum. cross-chain."
 category: blockchain
 tags: [arbitrum, bridge, blockchain, blockchain]
 models: [gpt-4, claude-3]

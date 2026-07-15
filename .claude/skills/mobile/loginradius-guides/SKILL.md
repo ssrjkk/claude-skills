@@ -1,6 +1,6 @@
 ---
 name: loginradius-guides
-description: Guides for Loginradius: how-to guides
+description: "Guides for Loginradius: how-to guides"
 category: mobile
 tags: [loginradius, guides, mobile]
 models: [sonnet, opus]

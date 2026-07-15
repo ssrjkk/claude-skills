@@ -1,6 +1,6 @@
 ---
 name: julia-statistics
-description: Statistics with Julia. statistical analysis.
+description: "Statistics with Julia. statistical analysis."
 category: scientific
 tags: [julia, statistics, scientific, scientific-computing]
 models: [gpt-4, claude-3]

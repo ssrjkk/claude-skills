@@ -1,6 +1,6 @@
 ---
 name: nifi-etl
-description: ETL with NiFi. extract-transform-load.
+description: "ETL with NiFi. extract-transform-load."
 category: data
 tags: [nifi-etl, data, russian]
 models: [sonnet, opus]

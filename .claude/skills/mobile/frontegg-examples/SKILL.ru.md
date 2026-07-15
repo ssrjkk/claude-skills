@@ -1,6 +1,6 @@
 ---
 name: frontegg-examples
-description: Examples for Frontegg: practical examples
+description: "Examples for Frontegg: practical examples"
 category: mobile
 tags: [frontegg-examples, mobile, russian]
 models: [sonnet, opus]

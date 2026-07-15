@@ -1,6 +1,6 @@
 ---
 name: psd2-setup
-description: Setup with PSD2. account setup.
+description: "Setup with PSD2. account setup."
 category: finance
 tags: [psd2-setup, finance, russian]
 models: [sonnet, opus]

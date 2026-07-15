@@ -1,6 +1,6 @@
 ---
 name: dart-setup
-description: Setup for Dart: installation and configuration
+description: "Setup for Dart: installation and configuration"
 category: mobile
 tags: [dart, setup, mobile]
 models: [sonnet, opus]

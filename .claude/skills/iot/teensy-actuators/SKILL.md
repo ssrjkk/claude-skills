@@ -1,6 +1,6 @@
 ---
 name: teensy-actuators
-description: Actuators with Teensy. motors.
+description: "Actuators with Teensy. motors."
 category: iot
 tags: [teensy, actuators, iot, iot]
 models: [gpt-4, claude-3]

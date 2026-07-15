@@ -1,6 +1,6 @@
 ---
 name: qwik-middleware
-description: Middleware with Qwik. request middleware.
+description: "Middleware with Qwik. request middleware."
 category: frontend
 tags: [qwik-middleware, frontend, russian]
 models: [sonnet, opus]

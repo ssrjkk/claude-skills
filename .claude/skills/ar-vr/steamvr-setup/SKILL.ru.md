@@ -1,6 +1,6 @@
 ---
 name: steamvr-setup
-description: Setup with SteamVR. SDK setup.
+description: "Setup with SteamVR. SDK setup."
 category: ar-vr
 tags: [steamvr-setup, ar-vr, russian]
 models: [sonnet, opus]

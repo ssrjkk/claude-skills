@@ -1,6 +1,6 @@
 ---
 name: indeed-interviewing
-description: Interviewing with Indeed. interviews.
+description: "Interviewing with Indeed. interviews."
 category: hr
 tags: [indeed, interviewing, hr, recruiting]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: lever-performance
-description: Performance with Lever. performance mgmt.
+description: "Performance with Lever. performance mgmt."
 category: hr
 tags: [lever-performance, hr, russian]
 models: [sonnet, opus]

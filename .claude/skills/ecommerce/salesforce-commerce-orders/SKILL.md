@@ -1,6 +1,6 @@
 ---
 name: salesforce-commerce-orders
-description: Orders with Salesforce Commerce. order management.
+description: "Orders with Salesforce Commerce. order management."
 category: ecommerce
 tags: [salesforce-commerce, orders, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

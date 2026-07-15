@@ -1,6 +1,6 @@
 ---
 name: azure-aks-examples
-description: Examples for Azure-Aks: practical examples
+description: "Examples for Azure-Aks: practical examples"
 category: cloud
 tags: [azure-aks-examples, cloud, russian]
 models: [sonnet, opus]

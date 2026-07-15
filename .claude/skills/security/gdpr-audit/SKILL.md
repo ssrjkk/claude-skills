@@ -1,6 +1,6 @@
 ---
 name: gdpr-audit
-description: Audit with GDPR. security audit.
+description: "Audit with GDPR. security audit."
 category: security
 tags: [gdpr, audit, security, security]
 models: [gpt-4, claude-3]

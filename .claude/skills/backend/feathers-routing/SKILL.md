@@ -1,6 +1,6 @@
 ---
 name: feathers-routing
-description: Routing with FeathersJS. HTTP routing.
+description: "Routing with FeathersJS. HTTP routing."
 category: backend
 tags: [feathers, routing, backend, backend]
 models: [gpt-4, claude-3]

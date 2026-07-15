@@ -1,6 +1,6 @@
 ---
 name: flutter-deployment
-description: Deployment with Flutter. app store.
+description: "Deployment with Flutter. app store."
 category: mobile
 tags: [flutter-deployment, mobile, russian]
 models: [sonnet, opus]

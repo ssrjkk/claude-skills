@@ -1,6 +1,6 @@
 ---
 name: junit-monitoring
-description: Monitoring for Junit: monitoring and observability
+description: "Monitoring for Junit: monitoring and observability"
 category: qa
 tags: [junit-monitoring, qa, russian]
 models: [sonnet, opus]

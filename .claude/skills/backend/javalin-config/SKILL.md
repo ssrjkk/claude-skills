@@ -1,6 +1,6 @@
 ---
 name: javalin-config
-description: Config with Javalin. configuration.
+description: "Config with Javalin. configuration."
 category: backend
 tags: [javalin, config, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: wireframing-analysis
-description: Analysis with Wireframing. data analysis.
+description: "Analysis with Wireframing. data analysis."
 category: design
 tags: [wireframing, analysis, design, ux-research]
 models: [gpt-4, claude-3]

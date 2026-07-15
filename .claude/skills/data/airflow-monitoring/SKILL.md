@@ -1,6 +1,6 @@
 ---
 name: airflow-monitoring
-description: Monitoring with Airflow. monitoring.
+description: "Monitoring with Airflow. monitoring."
 category: data
 tags: [airflow, monitoring, data, data-engineering]
 models: [gpt-4, claude-3]

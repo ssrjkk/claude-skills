@@ -1,6 +1,6 @@
 ---
 name: kornia-image-augmentation
-description: Image Augmentation with Kornia. data augmentation.
+description: "Image Augmentation with Kornia. data augmentation."
 category: ai
 tags: [kornia, image-augmentation, ai, computer-vision]
 models: [gpt-4, claude-3]

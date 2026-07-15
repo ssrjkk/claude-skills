@@ -1,6 +1,6 @@
 ---
 name: csrd-reporting
-description: Reporting with CSRD. reporting.
+description: "Reporting with CSRD. reporting."
 category: sustainability
 tags: [csrd, reporting, sustainability, sustainability]
 models: [gpt-4, claude-3]

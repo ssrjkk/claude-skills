@@ -1,6 +1,6 @@
 ---
 name: pubnub-chat
-description: Chat with PubNub. chat.
+description: "Chat with PubNub. chat."
 category: communications
 tags: [pubnub-chat, communications, russian]
 models: [sonnet, opus]

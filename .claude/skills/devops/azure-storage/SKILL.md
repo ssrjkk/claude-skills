@@ -1,6 +1,6 @@
 ---
 name: azure-storage
-description: Storage with Azure. object storage.
+description: "Storage with Azure. object storage."
 category: devops
 tags: [azure, storage, devops, cloud]
 models: [gpt-4, claude-3]

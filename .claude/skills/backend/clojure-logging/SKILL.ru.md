@@ -1,6 +1,6 @@
 ---
 name: clojure-logging
-description: Logging with Clojure. app logging.
+description: "Logging with Clojure. app logging."
 category: backend
 tags: [clojure-logging, backend, russian]
 models: [sonnet, opus]

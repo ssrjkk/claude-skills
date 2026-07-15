@@ -1,6 +1,6 @@
 ---
 name: dart-testing
-description: Testing with Dart. writing tests.
+description: "Testing with Dart. writing tests."
 category: backend
 tags: [dart-testing, backend, russian]
 models: [sonnet, opus]

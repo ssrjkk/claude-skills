@@ -1,6 +1,6 @@
 ---
 name: langchain-rag
-description: Builds advanced RAG (Retrieval-Augmented Generation) pipelines with LangChain, multiple retrievers, and document chains.
+description: "Builds advanced RAG (Retrieval-Augmented Generation) pipelines with LangChain, multiple retrievers, and document chains."
 category: ai
 tags: [langchain, rag, llm, retrieval, embeddings]
 models: [opus]

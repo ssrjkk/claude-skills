@@ -1,6 +1,6 @@
 ---
 name: diffusers-optimization
-description: Optimization with Diffusers. model optimization.
+description: "Optimization with Diffusers. model optimization."
 category: ai
 tags: [diffusers, optimization, ai, deep-learning]
 models: [gpt-4, claude-3]

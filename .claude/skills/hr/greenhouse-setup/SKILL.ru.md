@@ -1,6 +1,6 @@
 ---
 name: greenhouse-setup
-description: Setup with Greenhouse. setup.
+description: "Setup with Greenhouse. setup."
 category: hr
 tags: [greenhouse-setup, hr, russian]
 models: [sonnet, opus]

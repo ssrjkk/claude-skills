@@ -1,6 +1,6 @@
 ---
 name: dvc-getting-started
-description: Getting Started for Dvc: initial setup and first steps
+description: "Getting Started for Dvc: initial setup and first steps"
 category: data
 tags: [dvc-getting-started, data, russian]
 models: [sonnet, opus]

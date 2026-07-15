@@ -1,6 +1,6 @@
 ---
 name: sketch-collaboration
-description: Collaboration with Sketch. collaboration.
+description: "Collaboration with Sketch. collaboration."
 category: design
 tags: [sketch-collaboration, design, russian]
 models: [sonnet, opus]

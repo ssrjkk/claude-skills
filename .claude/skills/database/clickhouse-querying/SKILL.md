@@ -1,6 +1,6 @@
 ---
 name: clickhouse-querying
-description: Querying with ClickHouse. time-series queries.
+description: "Querying with ClickHouse. time-series queries."
 category: database
 tags: [clickhouse, querying, database, time-series]
 models: [gpt-4, claude-3]

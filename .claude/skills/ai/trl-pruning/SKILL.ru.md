@@ -1,6 +1,6 @@
 ---
 name: trl-pruning
-description: Pruning with Trl. model pruning.
+description: "Pruning with Trl. model pruning."
 category: ai
 tags: [trl-pruning, ai, russian]
 models: [sonnet, opus]

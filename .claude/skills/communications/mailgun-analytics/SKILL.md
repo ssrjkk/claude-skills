@@ -1,6 +1,6 @@
 ---
 name: mailgun-analytics
-description: Analytics with Mailgun. analytics.
+description: "Analytics with Mailgun. analytics."
 category: communications
 tags: [mailgun, analytics, communications, communication-platform]
 models: [gpt-4, claude-3]

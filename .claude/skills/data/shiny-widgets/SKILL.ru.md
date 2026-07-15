@@ -1,6 +1,6 @@
 ---
 name: shiny-widgets
-description: Widgets with Shiny. input widgets.
+description: "Widgets with Shiny. input widgets."
 category: data
 tags: [shiny-widgets, data, russian]
 models: [sonnet, opus]

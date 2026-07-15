@@ -1,6 +1,6 @@
 ---
 name: substance-workflow
-description: Workflow for Substance: workflow optimization
+description: "Workflow for Substance: workflow optimization"
 category: gamedev
 tags: [substance, workflow, gamedev]
 models: [sonnet, opus]

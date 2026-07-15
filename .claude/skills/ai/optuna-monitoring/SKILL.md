@@ -1,6 +1,6 @@
 ---
 name: optuna-monitoring
-description: Monitoring with Optuna. model monitoring.
+description: "Monitoring with Optuna. model monitoring."
 category: ai
 tags: [optuna, monitoring, ai, ml]
 models: [gpt-4, claude-3]

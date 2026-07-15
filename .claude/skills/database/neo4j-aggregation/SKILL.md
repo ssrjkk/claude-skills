@@ -1,6 +1,6 @@
 ---
 name: neo4j-aggregation
-description: Aggregation with Neo4j. aggregation pipelines.
+description: "Aggregation with Neo4j. aggregation pipelines."
 category: database
 tags: [neo4j, aggregation, database, nosql]
 models: [gpt-4, claude-3]

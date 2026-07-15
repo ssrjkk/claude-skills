@@ -1,6 +1,6 @@
 ---
 name: trankit-tokenization
-description: Tokenization with Trankit. text tokenization.
+description: "Tokenization with Trankit. text tokenization."
 category: ai
 tags: [trankit-tokenization, ai, russian]
 models: [sonnet, opus]

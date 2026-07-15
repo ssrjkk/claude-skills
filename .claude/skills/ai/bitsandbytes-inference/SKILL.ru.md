@@ -1,6 +1,6 @@
 ---
 name: bitsandbytes-inference
-description: Inference with Bitsandbytes. running models.
+description: "Inference with Bitsandbytes. running models."
 category: ai
 tags: [bitsandbytes-inference, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: rabbitmq-troubleshooting
-description: Troubleshooting for Rabbitmq: troubleshooting common issues
+description: "Troubleshooting for Rabbitmq: troubleshooting common issues"
 category: backend
 tags: [rabbitmq, troubleshooting, backend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: triton-fundamentals
-description: Fundamentals for Triton: core concepts
+description: "Fundamentals for Triton: core concepts"
 category: ai
 tags: [triton-fundamentals, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: svelte-advanced
-description: Advanced for Svelte: advanced patterns and techniques
+description: "Advanced for Svelte: advanced patterns and techniques"
 category: frontend
 tags: [svelte-advanced, frontend, russian]
 models: [sonnet, opus]

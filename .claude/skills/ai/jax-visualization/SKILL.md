@@ -1,6 +1,6 @@
 ---
 name: jax-visualization
-description: Visualization with Jax. model viz.
+description: "Visualization with Jax. model viz."
 category: ai
 tags: [jax, visualization, ai, deep-learning]
 models: [gpt-4, claude-3]

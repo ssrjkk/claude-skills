@@ -1,6 +1,6 @@
 ---
 name: debezium-workflow
-description: Workflow for Debezium: workflow optimization
+description: "Workflow for Debezium: workflow optimization"
 category: database
 tags: [debezium-workflow, database, russian]
 models: [sonnet, opus]

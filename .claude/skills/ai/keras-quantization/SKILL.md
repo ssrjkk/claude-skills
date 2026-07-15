@@ -1,6 +1,6 @@
 ---
 name: keras-quantization
-description: Quantization with Keras. model quantization.
+description: "Quantization with Keras. model quantization."
 category: ai
 tags: [keras, quantization, ai, deep-learning]
 models: [gpt-4, claude-3]

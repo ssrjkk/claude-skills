@@ -1,6 +1,6 @@
 ---
 name: gradio-layout
-description: Layout with Gradio. app layout.
+description: "Layout with Gradio. app layout."
 category: data
 tags: [gradio, layout, data, data-apps]
 models: [gpt-4, claude-3]

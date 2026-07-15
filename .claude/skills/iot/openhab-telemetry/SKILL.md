@@ -1,6 +1,6 @@
 ---
 name: openhab-telemetry
-description: Telemetry with openHAB. data collection.
+description: "Telemetry with openHAB. data collection."
 category: iot
 tags: [openhab, telemetry, iot, iot-platform]
 models: [gpt-4, claude-3]

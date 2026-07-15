@@ -1,6 +1,6 @@
 ---
 name: go-logging
-description: Logging with Go. app logging.
+description: "Logging with Go. app logging."
 category: backend
 tags: [go, logging, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: bpmn-tools
-description: Tools with BPMN. tooling.
+description: "Tools with BPMN. tooling."
 category: engineering
 tags: [bpmn-tools, engineering, russian]
 models: [sonnet, opus]

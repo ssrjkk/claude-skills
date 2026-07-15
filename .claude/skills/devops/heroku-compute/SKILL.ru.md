@@ -1,6 +1,6 @@
 ---
 name: heroku-compute
-description: Compute with Heroku. VM/compute.
+description: "Compute with Heroku. VM/compute."
 category: devops
 tags: [heroku-compute, devops, russian]
 models: [sonnet, opus]

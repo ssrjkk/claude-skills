@@ -1,6 +1,6 @@
 ---
 name: javascript-orm
-description: ORM with Javascript. database access.
+description: "ORM with Javascript. database access."
 category: backend
 tags: [javascript-orm, backend, russian]
 models: [sonnet, opus]

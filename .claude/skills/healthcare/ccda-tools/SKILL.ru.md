@@ -1,6 +1,6 @@
 ---
 name: ccda-tools
-description: Tools with C-CDA. tools.
+description: "Tools with C-CDA. tools."
 category: healthcare
 tags: [ccda-tools, healthcare, russian]
 models: [sonnet, opus]

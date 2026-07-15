@@ -1,6 +1,6 @@
 ---
 name: echo-monitoring
-description: Monitoring for Echo: monitoring and observability
+description: "Monitoring for Echo: monitoring and observability"
 category: backend
 tags: [echo, monitoring, backend]
 models: [sonnet, opus]

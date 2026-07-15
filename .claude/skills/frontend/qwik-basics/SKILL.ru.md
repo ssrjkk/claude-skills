@@ -1,6 +1,6 @@
 ---
 name: qwik-basics
-description: Basics for Qwik: fundamentals and core concepts
+description: "Basics for Qwik: fundamentals and core concepts"
 category: frontend
 tags: [qwik-basics, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: pulsar-examples
-description: Examples for Pulsar: practical examples
+description: "Examples for Pulsar: practical examples"
 category: data
 tags: [pulsar-examples, data, russian]
 models: [sonnet, opus]

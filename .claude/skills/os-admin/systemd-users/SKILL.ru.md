@@ -1,6 +1,6 @@
 ---
 name: systemd-users
-description: Users with systemd. user management.
+description: "Users with systemd. user management."
 category: os-admin
 tags: [systemd-users, os-admin, russian]
 models: [sonnet, opus]

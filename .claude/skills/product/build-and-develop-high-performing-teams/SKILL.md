@@ -1,6 +1,6 @@
 ---
 name: build-and-develop-high-performing-teams
-description: Create effective team structures and develop team members for optimal performance
+description: "Create effective team structures and develop team members for optimal performance"
 category: product
 tags: [leadership, team, development, management]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: testng-coverage
-description: Coverage with TestNG. code coverage.
+description: "Coverage with TestNG. code coverage."
 category: qa
 tags: [testng, coverage, qa, testing]
 models: [gpt-4, claude-3]

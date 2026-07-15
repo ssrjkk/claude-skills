@@ -1,6 +1,6 @@
 ---
 name: bigcommerce-payments
-description: Payments with BigCommerce. payment integration.
+description: "Payments with BigCommerce. payment integration."
 category: ecommerce
 tags: [bigcommerce, payments, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

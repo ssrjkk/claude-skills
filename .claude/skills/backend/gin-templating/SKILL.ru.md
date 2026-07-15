@@ -1,6 +1,6 @@
 ---
 name: gin-templating
-description: Templating with Gin. HTML templates.
+description: "Templating with Gin. HTML templates."
 category: backend
 tags: [gin-templating, backend, russian]
 models: [sonnet, opus]

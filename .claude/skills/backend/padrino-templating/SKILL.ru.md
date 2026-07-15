@@ -1,6 +1,6 @@
 ---
 name: padrino-templating
-description: Templating with Padrino. ERB.
+description: "Templating with Padrino. ERB."
 category: backend
 tags: [padrino-templating, backend, russian]
 models: [sonnet, opus]

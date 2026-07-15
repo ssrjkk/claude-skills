@@ -1,6 +1,6 @@
 ---
 name: backtesting-data
-description: Data with Backtesting. data sources.
+description: "Data with Backtesting. data sources."
 category: finance
 tags: [backtesting-data, finance, russian]
 models: [sonnet, opus]

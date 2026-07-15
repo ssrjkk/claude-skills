@@ -1,6 +1,6 @@
 ---
 name: openhab-commands
-description: Commands with openHAB. device commands.
+description: "Commands with openHAB. device commands."
 category: iot
 tags: [openhab, commands, iot, iot-platform]
 models: [gpt-4, claude-3]

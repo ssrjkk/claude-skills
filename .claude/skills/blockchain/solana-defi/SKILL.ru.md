@@ -1,6 +1,6 @@
 ---
 name: solana-defi
-description: DeFi with Solana. DeFi.
+description: "DeFi with Solana. DeFi."
 category: blockchain
 tags: [solana-defi, blockchain, russian]
 models: [sonnet, opus]

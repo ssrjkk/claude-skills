@@ -1,6 +1,6 @@
 ---
 name: digitalocean-serverless
-description: Serverless with DigitalOcean. functions.
+description: "Serverless with DigitalOcean. functions."
 category: devops
 tags: [digitalocean-serverless, devops, russian]
 models: [sonnet, opus]

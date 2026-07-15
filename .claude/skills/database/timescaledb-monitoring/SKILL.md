@@ -1,6 +1,6 @@
 ---
 name: timescaledb-monitoring
-description: Monitoring with TimescaleDB. monitoring.
+description: "Monitoring with TimescaleDB. monitoring."
 category: database
 tags: [timescaledb, monitoring, database, time-series]
 models: [gpt-4, claude-3]

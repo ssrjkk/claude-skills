@@ -1,6 +1,6 @@
 ---
 name: snomed-tools
-description: Tools with SNOMED CT. tools.
+description: "Tools with SNOMED CT. tools."
 category: healthcare
 tags: [snomed-tools, healthcare, russian]
 models: [sonnet, opus]

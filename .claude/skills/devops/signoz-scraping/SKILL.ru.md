@@ -1,6 +1,6 @@
 ---
 name: signoz-scraping
-description: Scraping with SigNoz. target discovery.
+description: "Scraping with SigNoz. target discovery."
 category: devops
 tags: [signoz-scraping, devops, russian]
 models: [sonnet, opus]

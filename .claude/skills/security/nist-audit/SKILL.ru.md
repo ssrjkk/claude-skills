@@ -1,6 +1,6 @@
 ---
 name: nist-audit
-description: Audit with NIST. security audit.
+description: "Audit with NIST. security audit."
 category: security
 tags: [nist-audit, security, russian]
 models: [sonnet, opus]

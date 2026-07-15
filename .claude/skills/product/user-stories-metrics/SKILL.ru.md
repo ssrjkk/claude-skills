@@ -1,6 +1,6 @@
 ---
 name: user-stories-metrics
-description: Metrics with User Stories. measurement.
+description: "Metrics with User Stories. measurement."
 category: product
 tags: [user-stories-metrics, product, russian]
 models: [sonnet, opus]

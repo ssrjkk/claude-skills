@@ -1,6 +1,6 @@
 ---
 name: gcp-cloud-run-guides
-description: Guides for Gcp-Cloud-Run: how-to guides
+description: "Guides for Gcp-Cloud-Run: how-to guides"
 category: cloud
 tags: [gcp-cloud-run, guides, cloud]
 models: [sonnet, opus]

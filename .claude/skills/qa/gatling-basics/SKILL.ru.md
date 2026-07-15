@@ -1,6 +1,6 @@
 ---
 name: gatling-basics
-description: Basics for Gatling: fundamentals and core concepts
+description: "Basics for Gatling: fundamentals and core concepts"
 category: qa
 tags: [gatling-basics, qa, russian]
 models: [sonnet, opus]

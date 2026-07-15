@@ -1,6 +1,6 @@
 ---
 name: onnx-checkpointing
-description: Checkpointing with Onnx. model saving.
+description: "Checkpointing with Onnx. model saving."
 category: ai
 tags: [onnx, checkpointing, ai, deep-learning]
 models: [gpt-4, claude-3]

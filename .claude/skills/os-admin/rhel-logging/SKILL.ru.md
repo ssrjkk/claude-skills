@@ -1,6 +1,6 @@
 ---
 name: rhel-logging
-description: Logging with RHEL. logging.
+description: "Logging with RHEL. logging."
 category: os-admin
 tags: [rhel-logging, os-admin, russian]
 models: [sonnet, opus]

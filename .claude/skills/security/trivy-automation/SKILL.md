@@ -1,6 +1,6 @@
 ---
 name: trivy-automation
-description: Automation with Trivy. automation.
+description: "Automation with Trivy. automation."
 category: security
 tags: [trivy, automation, security, security-tool]
 models: [gpt-4, claude-3]

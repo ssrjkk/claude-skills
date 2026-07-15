@@ -1,6 +1,6 @@
 ---
 name: lit-ssr
-description: SSR with Lit. server rendering.
+description: "SSR with Lit. server rendering."
 category: frontend
 tags: [lit, ssr, frontend, frontend]
 models: [gpt-4, claude-3]

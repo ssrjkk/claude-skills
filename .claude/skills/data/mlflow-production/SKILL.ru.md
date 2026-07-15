@@ -1,6 +1,6 @@
 ---
 name: mlflow-production
-description: Production for Mlflow: production deployment
+description: "Production for Mlflow: production deployment"
 category: data
 tags: [mlflow-production, data, russian]
 models: [sonnet, opus]

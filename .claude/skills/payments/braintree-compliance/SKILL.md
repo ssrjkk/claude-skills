@@ -1,6 +1,6 @@
 ---
 name: braintree-compliance
-description: Compliance with Braintree. PCI DSS.
+description: "Compliance with Braintree. PCI DSS."
 category: payments
 tags: [braintree, compliance, payments, payments]
 models: [gpt-4, claude-3]

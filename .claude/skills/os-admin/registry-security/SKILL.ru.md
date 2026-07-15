@@ -1,6 +1,6 @@
 ---
 name: registry-security
-description: Security with Windows Registry. security.
+description: "Security with Windows Registry. security."
 category: os-admin
 tags: [registry-security, os-admin, russian]
 models: [sonnet, opus]

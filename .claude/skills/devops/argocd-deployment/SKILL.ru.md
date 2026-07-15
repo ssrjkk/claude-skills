@@ -1,6 +1,6 @@
 ---
 name: argocd-deployment
-description: Deployment for Argocd: deployment and release
+description: "Deployment for Argocd: deployment and release"
 category: devops
 tags: [argocd-deployment, devops, russian]
 models: [sonnet, opus]

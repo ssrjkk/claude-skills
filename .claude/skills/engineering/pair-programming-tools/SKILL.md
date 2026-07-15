@@ -1,6 +1,6 @@
 ---
 name: pair-programming-tools
-description: Tools with Pair Programming. tooling.
+description: "Tools with Pair Programming. tooling."
 category: engineering
 tags: [pair-programming, tools, engineering, engineering]
 models: [gpt-4, claude-3]

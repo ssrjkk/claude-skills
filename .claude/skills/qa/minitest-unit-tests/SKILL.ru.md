@@ -1,6 +1,6 @@
 ---
 name: minitest-unit-tests
-description: Unit Tests with Minitest. unit testing.
+description: "Unit Tests with Minitest. unit testing."
 category: qa
 tags: [minitest-unit-tests, qa, russian]
 models: [sonnet, opus]

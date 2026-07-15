@@ -1,6 +1,6 @@
 ---
 name: synctera-setup
-description: Setup with Synctera. account setup.
+description: "Setup with Synctera. account setup."
 category: finance
 tags: [synctera, setup, finance, fintech]
 models: [gpt-4, claude-3]

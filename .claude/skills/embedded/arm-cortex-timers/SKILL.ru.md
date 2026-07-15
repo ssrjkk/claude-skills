@@ -1,6 +1,6 @@
 ---
 name: arm-cortex-timers
-description: Timers with ARM Cortex-M. timers.
+description: "Timers with ARM Cortex-M. timers."
 category: embedded
 tags: [arm-cortex-timers, embedded, russian]
 models: [sonnet, opus]

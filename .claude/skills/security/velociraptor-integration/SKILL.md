@@ -1,6 +1,6 @@
 ---
 name: velociraptor-integration
-description: Integration for Velociraptor: integration with other tools
+description: "Integration for Velociraptor: integration with other tools"
 category: security
 tags: [velociraptor, integration, security]
 models: [sonnet, opus]

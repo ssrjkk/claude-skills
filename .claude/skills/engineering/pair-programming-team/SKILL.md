@@ -1,6 +1,6 @@
 ---
 name: pair-programming-team
-description: Team with Pair Programming. team adoption.
+description: "Team with Pair Programming. team adoption."
 category: engineering
 tags: [pair-programming, team, engineering, engineering]
 models: [gpt-4, claude-3]

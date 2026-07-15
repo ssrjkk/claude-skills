@@ -1,6 +1,6 @@
 ---
 name: drawio-tools
-description: Tools with Draw.io. tooling.
+description: "Tools with Draw.io. tooling."
 category: engineering
 tags: [drawio-tools, engineering, russian]
 models: [sonnet, opus]

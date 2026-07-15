@@ -1,6 +1,6 @@
 ---
 name: cockroachdb-querying
-description: Querying with CockroachDB. SQL queries.
+description: "Querying with CockroachDB. SQL queries."
 category: database
 tags: [cockroachdb-querying, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: openai-debugging
-description: Debugging for Openai: debugging and troubleshooting
+description: "Debugging for Openai: debugging and troubleshooting"
 category: ai
 tags: [openai, debugging, ai]
 models: [sonnet, opus]

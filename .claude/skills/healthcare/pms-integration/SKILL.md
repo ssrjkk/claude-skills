@@ -1,6 +1,6 @@
 ---
 name: pms-integration
-description: Integration with Practice Management. system integration.
+description: "Integration with Practice Management. system integration."
 category: healthcare
 tags: [pms, integration, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

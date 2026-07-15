@@ -1,6 +1,6 @@
 ---
 name: medusa-setup
-description: Setup with Medusa. setup.
+description: "Setup with Medusa. setup."
 category: ecommerce
 tags: [medusa, setup, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

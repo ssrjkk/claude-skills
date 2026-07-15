@@ -1,6 +1,6 @@
 ---
 name: crossplane-networking
-description: Networking with Crossplane. network infra.
+description: "Networking with Crossplane. network infra."
 category: devops
 tags: [crossplane-networking, devops, russian]
 models: [sonnet, opus]

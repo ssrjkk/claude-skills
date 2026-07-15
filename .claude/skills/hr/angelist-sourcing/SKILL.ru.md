@@ -1,6 +1,6 @@
 ---
 name: angelist-sourcing
-description: Sourcing with AngelList/Wellfound. candidate sourcing.
+description: "Sourcing with AngelList/Wellfound. candidate sourcing."
 category: hr
 tags: [angelist-sourcing, hr, russian]
 models: [sonnet, opus]

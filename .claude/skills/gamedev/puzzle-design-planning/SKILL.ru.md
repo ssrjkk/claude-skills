@@ -1,6 +1,6 @@
 ---
 name: puzzle-design-planning
-description: Planning with Puzzle Design. planning.
+description: "Planning with Puzzle Design. planning."
 category: gamedev
 tags: [puzzle-design-planning, gamedev, russian]
 models: [sonnet, opus]

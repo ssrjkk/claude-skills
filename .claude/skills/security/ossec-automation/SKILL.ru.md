@@ -1,6 +1,6 @@
 ---
 name: ossec-automation
-description: Automation for Ossec: automation and scripting
+description: "Automation for Ossec: automation and scripting"
 category: security
 tags: [ossec-automation, security, russian]
 models: [sonnet, opus]

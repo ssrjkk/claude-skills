@@ -1,6 +1,6 @@
 ---
 name: neptune-troubleshooting
-description: Troubleshooting for Neptune: troubleshooting common issues
+description: "Troubleshooting for Neptune: troubleshooting common issues"
 category: data
 tags: [neptune-troubleshooting, data, russian]
 models: [sonnet, opus]

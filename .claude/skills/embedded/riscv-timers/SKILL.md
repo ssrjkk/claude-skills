@@ -1,6 +1,6 @@
 ---
 name: riscv-timers
-description: Timers with RISC-V. timers.
+description: "Timers with RISC-V. timers."
 category: embedded
 tags: [riscv, timers, embedded, embedded-arch]
 models: [gpt-4, claude-3]

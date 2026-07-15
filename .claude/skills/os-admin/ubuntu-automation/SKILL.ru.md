@@ -1,6 +1,6 @@
 ---
 name: ubuntu-automation
-description: Automation with Ubuntu. scripting.
+description: "Automation with Ubuntu. scripting."
 category: os-admin
 tags: [ubuntu-automation, os-admin, russian]
 models: [sonnet, opus]

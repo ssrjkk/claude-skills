@@ -1,6 +1,6 @@
 ---
 name: digitalocean-compute
-description: Compute with DigitalOcean. VM/compute.
+description: "Compute with DigitalOcean. VM/compute."
 category: devops
 tags: [digitalocean-compute, devops, russian]
 models: [sonnet, opus]

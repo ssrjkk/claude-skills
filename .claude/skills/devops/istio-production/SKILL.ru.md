@@ -1,6 +1,6 @@
 ---
 name: istio-production
-description: Production for Istio: production deployment
+description: "Production for Istio: production deployment"
 category: devops
 tags: [istio-production, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: tsung-ci
-description: CI with Tsung. CI integration.
+description: "CI with Tsung. CI integration."
 category: qa
 tags: [tsung, ci, qa, performance-testing]
 models: [gpt-4, claude-3]

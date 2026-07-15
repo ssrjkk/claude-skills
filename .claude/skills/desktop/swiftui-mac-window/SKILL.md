@@ -1,6 +1,6 @@
 ---
 name: swiftui-mac-window
-description: Window with SwiftUI Mac. windows.
+description: "Window with SwiftUI Mac. windows."
 category: desktop
 tags: [swiftui-mac, window, desktop, desktop]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: qgis-tiles
-description: Tiles with QGIS. tile serving.
+description: "Tiles with QGIS. tile serving."
 category: geospatial
 tags: [qgis, tiles, geospatial, gis]
 models: [gpt-4, claude-3]

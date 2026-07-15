@@ -1,6 +1,6 @@
 ---
 name: proxysql-guides
-description: Guides for Proxysql: how-to guides
+description: "Guides for Proxysql: how-to guides"
 category: database
 tags: [proxysql, guides, database]
 models: [sonnet, opus]

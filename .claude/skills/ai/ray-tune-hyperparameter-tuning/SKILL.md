@@ -1,6 +1,6 @@
 ---
 name: ray-tune-hyperparameter-tuning
-description: Hyperparameter Tuning with Ray Tune. optimizing params.
+description: "Hyperparameter Tuning with Ray Tune. optimizing params."
 category: ai
 tags: [ray-tune, hyperparameter-tuning, ai, ml]
 models: [gpt-4, claude-3]

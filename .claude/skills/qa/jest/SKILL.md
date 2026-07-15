@@ -1,6 +1,6 @@
 ---
 name: jest
-description: Writes unit and integration tests with Jest, including mocks, snapshots, and code coverage. Use for JavaScript/TypeScript testing.
+description: "Writes unit and integration tests with Jest, including mocks, snapshots, and code coverage. Use for JavaScript/TypeScript testing."
 category: qa
 tags: [jest, testing, javascript, typescript, unit-test]
 models: [sonnet, opus]

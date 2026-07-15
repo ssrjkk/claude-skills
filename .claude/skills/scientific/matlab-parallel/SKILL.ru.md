@@ -1,6 +1,6 @@
 ---
 name: matlab-parallel
-description: Parallel with MATLAB. parallel computing.
+description: "Parallel with MATLAB. parallel computing."
 category: scientific
 tags: [matlab-parallel, scientific, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ansible-setup
-description: Setup with Ansible. installation.
+description: "Setup with Ansible. installation."
 category: devops
 tags: [ansible-setup, devops, russian]
 models: [sonnet, opus]

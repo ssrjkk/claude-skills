@@ -1,6 +1,6 @@
 ---
 name: arcore-optimization
-description: Optimization with ARCore. performance.
+description: "Optimization with ARCore. performance."
 category: ar-vr
 tags: [arcore, optimization, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

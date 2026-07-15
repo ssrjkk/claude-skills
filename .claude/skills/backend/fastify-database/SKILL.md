@@ -1,6 +1,6 @@
 ---
 name: fastify-database
-description: Database with Fastify. ORM.
+description: "Database with Fastify. ORM."
 category: backend
 tags: [fastify, database, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: teleport-quickstart
-description: Quickstart for Teleport: quick start guide
+description: "Quickstart for Teleport: quick start guide"
 category: security
 tags: [teleport-quickstart, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: esp8266-sensors
-description: Sensors with ESP8266. sensor integration.
+description: "Sensors with ESP8266. sensor integration."
 category: iot
 tags: [esp8266-sensors, iot, russian]
 models: [sonnet, opus]

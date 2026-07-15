@@ -1,6 +1,6 @@
 ---
 name: daisyui-components
-description: Components with daisyUI. UI components.
+description: "Components with daisyUI. UI components."
 category: frontend
 tags: [daisyui-components, frontend, russian]
 models: [sonnet, opus]

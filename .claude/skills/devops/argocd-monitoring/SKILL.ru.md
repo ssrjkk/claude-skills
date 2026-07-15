@@ -1,6 +1,6 @@
 ---
 name: argocd-monitoring
-description: Monitoring for Argocd: monitoring and observability
+description: "Monitoring for Argocd: monitoring and observability"
 category: devops
 tags: [argocd-monitoring, devops, russian]
 models: [sonnet, opus]

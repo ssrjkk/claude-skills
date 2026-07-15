@@ -1,6 +1,6 @@
 ---
 name: kinaxis-transportation
-description: Transportation with Kinaxis. TMS.
+description: "Transportation with Kinaxis. TMS."
 category: supply-chain
 tags: [kinaxis-transportation, supply-chain, russian]
 models: [sonnet, opus]

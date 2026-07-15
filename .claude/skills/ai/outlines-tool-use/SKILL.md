@@ -1,6 +1,6 @@
 ---
 name: outlines-tool-use
-description: Tool Use with Outlines. function calling.
+description: "Tool Use with Outlines. function calling."
 category: ai
 tags: [outlines, tool-use, ai, llm]
 models: [gpt-4, claude-3]

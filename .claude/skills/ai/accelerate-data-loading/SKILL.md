@@ -1,6 +1,6 @@
 ---
 name: accelerate-data-loading
-description: Data Loading with Accelerate. data pipelines.
+description: "Data Loading with Accelerate. data pipelines."
 category: ai
 tags: [accelerate, data-loading, ai, deep-learning]
 models: [gpt-4, claude-3]

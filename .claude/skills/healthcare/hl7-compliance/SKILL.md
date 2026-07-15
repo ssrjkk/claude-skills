@@ -1,6 +1,6 @@
 ---
 name: hl7-compliance
-description: Compliance with HL7 v2. compliance.
+description: "Compliance with HL7 v2. compliance."
 category: healthcare
 tags: [hl7, compliance, healthcare, healthcare]
 models: [gpt-4, claude-3]

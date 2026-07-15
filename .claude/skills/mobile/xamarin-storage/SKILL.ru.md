@@ -1,6 +1,6 @@
 ---
 name: xamarin-storage
-description: Storage with Xamarin. local storage.
+description: "Storage with Xamarin. local storage."
 category: mobile
 tags: [xamarin-storage, mobile, russian]
 models: [sonnet, opus]

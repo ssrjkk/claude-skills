@@ -1,6 +1,6 @@
 ---
 name: twilio-messaging
-description: Messaging with Twilio. sending messages.
+description: "Messaging with Twilio. sending messages."
 category: communications
 tags: [twilio-messaging, communications, russian]
 models: [sonnet, opus]

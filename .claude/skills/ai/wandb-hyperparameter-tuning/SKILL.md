@@ -1,6 +1,6 @@
 ---
 name: wandb-hyperparameter-tuning
-description: Hyperparameter Tuning with Wandb. optimizing params.
+description: "Hyperparameter Tuning with Wandb. optimizing params."
 category: ai
 tags: [wandb, hyperparameter-tuning, ai, ml]
 models: [gpt-4, claude-3]

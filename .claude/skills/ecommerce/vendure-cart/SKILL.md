@@ -1,6 +1,6 @@
 ---
 name: vendure-cart
-description: Cart with Vendure. cart.
+description: "Cart with Vendure. cart."
 category: ecommerce
 tags: [vendure, cart, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

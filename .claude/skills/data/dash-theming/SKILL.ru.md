@@ -1,6 +1,6 @@
 ---
 name: dash-theming
-description: Theming with Dash. themes.
+description: "Theming with Dash. themes."
 category: data
 tags: [dash-theming, data, russian]
 models: [sonnet, opus]

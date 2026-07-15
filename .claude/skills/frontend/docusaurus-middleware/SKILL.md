@@ -1,6 +1,6 @@
 ---
 name: docusaurus-middleware
-description: Middleware with Docusaurus. request middleware.
+description: "Middleware with Docusaurus. request middleware."
 category: frontend
 tags: [docusaurus, middleware, frontend, meta-framework]
 models: [gpt-4, claude-3]

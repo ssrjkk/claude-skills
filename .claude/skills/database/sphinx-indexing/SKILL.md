@@ -1,6 +1,6 @@
 ---
 name: sphinx-indexing
-description: Indexing with Sphinx. document indexing.
+description: "Indexing with Sphinx. document indexing."
 category: database
 tags: [sphinx, indexing, database, search-engine]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: heuristics-tools
-description: Tools with Heuristics. tools.
+description: "Tools with Heuristics. tools."
 category: product
 tags: [heuristics-tools, product, russian]
 models: [sonnet, opus]

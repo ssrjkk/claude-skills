@@ -1,6 +1,6 @@
 ---
 name: coredns-integration
-description: Integration for Coredns: integration with other tools
+description: "Integration for Coredns: integration with other tools"
 category: devops
 tags: [coredns-integration, devops, russian]
 models: [sonnet, opus]

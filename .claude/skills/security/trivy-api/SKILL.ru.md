@@ -1,6 +1,6 @@
 ---
 name: trivy-api
-description: API for Trivy: API development and integration
+description: "API for Trivy: API development and integration"
 category: security
 tags: [trivy-api, security, russian]
 models: [sonnet, opus]

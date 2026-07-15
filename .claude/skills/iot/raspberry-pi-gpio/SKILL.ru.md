@@ -1,6 +1,6 @@
 ---
 name: raspberry-pi-gpio
-description: GPIO with Raspberry Pi. digital I/O.
+description: "GPIO with Raspberry Pi. digital I/O."
 category: iot
 tags: [raspberry-pi-gpio, iot, russian]
 models: [sonnet, opus]

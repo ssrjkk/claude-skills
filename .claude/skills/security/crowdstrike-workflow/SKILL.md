@@ -1,6 +1,6 @@
 ---
 name: crowdstrike-workflow
-description: Workflow for Crowdstrike: workflow optimization
+description: "Workflow for Crowdstrike: workflow optimization"
 category: security
 tags: [crowdstrike, workflow, security]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: iptables-configuration
-description: Config with iptables/nftables. advanced config.
+description: "Config with iptables/nftables. advanced config."
 category: networking
 tags: [iptables, configuration, networking, networking-tool]
 models: [gpt-4, claude-3]

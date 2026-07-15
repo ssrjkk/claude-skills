@@ -1,6 +1,6 @@
 ---
 name: hanami-api
-description: API with Hanami. API building.
+description: "API with Hanami. API building."
 category: backend
 tags: [hanami-api, backend, russian]
 models: [sonnet, opus]

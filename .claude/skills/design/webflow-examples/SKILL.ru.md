@@ -1,6 +1,6 @@
 ---
 name: webflow-examples
-description: Examples for Webflow: practical examples
+description: "Examples for Webflow: practical examples"
 category: design
 tags: [webflow-examples, design, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: supabase-getting-started
-description: Getting Started for Supabase: initial setup and first steps
+description: "Getting Started for Supabase: initial setup and first steps"
 category: database
 tags: [supabase-getting-started, database, russian]
 models: [sonnet, opus]

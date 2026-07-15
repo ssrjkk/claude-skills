@@ -1,6 +1,6 @@
 ---
 name: valkey-examples
-description: Examples for Valkey: practical examples
+description: "Examples for Valkey: practical examples"
 category: database
 tags: [valkey, examples, database]
 models: [sonnet, opus]

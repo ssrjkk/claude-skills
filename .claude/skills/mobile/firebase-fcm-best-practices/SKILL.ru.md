@@ -1,6 +1,6 @@
 ---
 name: firebase-fcm-best-practices
-description: Best Practices for Firebase-Fcm: best practices and patterns
+description: "Best Practices for Firebase-Fcm: best practices and patterns"
 category: mobile
 tags: [firebase-fcm-best-practices, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: langchain-evaluation
-description: Evaluation with Langchain. LLM evaluation.
+description: "Evaluation with Langchain. LLM evaluation."
 category: ai
 tags: [langchain-evaluation, ai, russian]
 models: [sonnet, opus]

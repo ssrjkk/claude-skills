@@ -1,6 +1,6 @@
 ---
 name: fastapi-monitoring
-description: Monitoring for Fastapi: monitoring and observability
+description: "Monitoring for Fastapi: monitoring and observability"
 category: backend
 tags: [fastapi-monitoring, backend, russian]
 models: [sonnet, opus]

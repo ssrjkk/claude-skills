@@ -1,6 +1,6 @@
 ---
 name: heatmaps-reporting
-description: Reporting with Heatmaps. reports.
+description: "Reporting with Heatmaps. reports."
 category: design
 tags: [heatmaps-reporting, design, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mmdetection-object-detection
-description: Object Detection with Mmdetection. detecting objects.
+description: "Object Detection with Mmdetection. detecting objects."
 category: ai
 tags: [mmdetection, object-detection, ai, computer-vision]
 models: [gpt-4, claude-3]

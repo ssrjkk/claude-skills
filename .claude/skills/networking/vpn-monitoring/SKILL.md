@@ -1,6 +1,6 @@
 ---
 name: vpn-monitoring
-description: Monitoring with VPN. monitoring.
+description: "Monitoring with VPN. monitoring."
 category: networking
 tags: [vpn, monitoring, networking, networking]
 models: [gpt-4, claude-3]

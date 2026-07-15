@@ -1,6 +1,6 @@
 ---
 name: sqlite-debugging
-description: Debugging for Sqlite: debugging and troubleshooting
+description: "Debugging for Sqlite: debugging and troubleshooting"
 category: database
 tags: [sqlite-debugging, database, russian]
 models: [sonnet, opus]

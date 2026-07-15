@@ -1,6 +1,6 @@
 ---
 name: construct-publishing
-description: Publishing with Construct. publishing.
+description: "Publishing with Construct. publishing."
 category: gamedev
 tags: [construct-publishing, gamedev, russian]
 models: [sonnet, opus]

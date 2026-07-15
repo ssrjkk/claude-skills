@@ -1,6 +1,6 @@
 ---
 name: swiftui-mac-packaging
-description: Packaging with SwiftUI Mac. app packaging.
+description: "Packaging with SwiftUI Mac. app packaging."
 category: desktop
 tags: [swiftui-mac-packaging, desktop, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: socat-configuration
-description: Config with socat. advanced config.
+description: "Config with socat. advanced config."
 category: networking
 tags: [socat-configuration, networking, russian]
 models: [sonnet, opus]

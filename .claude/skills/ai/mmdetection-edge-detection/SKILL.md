@@ -1,6 +1,6 @@
 ---
 name: mmdetection-edge-detection
-description: Edge Detection with Mmdetection. edge detection.
+description: "Edge Detection with Mmdetection. edge detection."
 category: ai
 tags: [mmdetection, edge-detection, ai, computer-vision]
 models: [gpt-4, claude-3]

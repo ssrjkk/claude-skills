@@ -1,6 +1,6 @@
 ---
 name: styled-components-integration
-description: Integration for Styled-Components: integration with other tools
+description: "Integration for Styled-Components: integration with other tools"
 category: frontend
 tags: [styled-components, integration, frontend]
 models: [sonnet, opus]

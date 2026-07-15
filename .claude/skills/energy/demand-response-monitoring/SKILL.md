@@ -1,6 +1,6 @@
 ---
 name: demand-response-monitoring
-description: Monitoring with Demand Response. monitoring.
+description: "Monitoring with Demand Response. monitoring."
 category: energy
 tags: [demand-response, monitoring, energy, smart-grid]
 models: [gpt-4, claude-3]

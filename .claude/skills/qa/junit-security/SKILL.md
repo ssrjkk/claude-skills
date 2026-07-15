@@ -1,6 +1,6 @@
 ---
 name: junit-security
-description: Security for Junit: security best practices
+description: "Security for Junit: security best practices"
 category: qa
 tags: [junit, security, qa]
 models: [sonnet, opus]

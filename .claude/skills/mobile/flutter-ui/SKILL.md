@@ -1,6 +1,6 @@
 ---
 name: flutter-ui
-description: UI with Flutter. UI components.
+description: "UI with Flutter. UI components."
 category: mobile
 tags: [flutter, ui, mobile, mobile]
 models: [gpt-4, claude-3]

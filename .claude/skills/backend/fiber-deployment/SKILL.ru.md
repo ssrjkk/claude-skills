@@ -1,6 +1,6 @@
 ---
 name: fiber-deployment
-description: Deployment with Fiber. build.
+description: "Deployment with Fiber. build."
 category: backend
 tags: [fiber-deployment, backend, russian]
 models: [sonnet, opus]

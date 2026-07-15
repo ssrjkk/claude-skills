@@ -1,6 +1,6 @@
 ---
 name: spacy-translation
-description: Translation with Spacy. machine translation.
+description: "Translation with Spacy. machine translation."
 category: ai
 tags: [spacy, translation, ai, nlp]
 models: [gpt-4, claude-3]

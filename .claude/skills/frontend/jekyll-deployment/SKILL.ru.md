@@ -1,6 +1,6 @@
 ---
 name: jekyll-deployment
-description: Deployment with Jekyll. production.
+description: "Deployment with Jekyll. production."
 category: frontend
 tags: [jekyll-deployment, frontend, russian]
 models: [sonnet, opus]

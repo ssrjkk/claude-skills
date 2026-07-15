@@ -1,6 +1,6 @@
 ---
 name: pmp-best-practices
-description: Best Practices with PMP. practices.
+description: "Best Practices with PMP. practices."
 category: product
 tags: [pmp-best-practices, product, russian]
 models: [sonnet, opus]

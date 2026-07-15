@@ -1,6 +1,6 @@
 ---
 name: vlan-troubleshooting
-description: Troubleshooting with VLAN. diagnostics.
+description: "Troubleshooting with VLAN. diagnostics."
 category: networking
 tags: [vlan-troubleshooting, networking, russian]
 models: [sonnet, opus]

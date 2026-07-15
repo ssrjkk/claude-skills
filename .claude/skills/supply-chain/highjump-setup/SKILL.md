@@ -1,6 +1,6 @@
 ---
 name: highjump-setup
-description: Setup with HighJump. setup.
+description: "Setup with HighJump. setup."
 category: supply-chain
 tags: [highjump, setup, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

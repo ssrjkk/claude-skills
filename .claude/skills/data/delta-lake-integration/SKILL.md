@@ -1,6 +1,6 @@
 ---
 name: delta-lake-integration
-description: Integration for Delta-Lake: integration with other tools
+description: "Integration for Delta-Lake: integration with other tools"
 category: data
 tags: [delta-lake, integration, data]
 models: [sonnet, opus]

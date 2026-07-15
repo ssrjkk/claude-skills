@@ -1,6 +1,6 @@
 ---
 name: dvc-monitoring
-description: Monitoring with Dvc. model monitoring.
+description: "Monitoring with Dvc. model monitoring."
 category: ai
 tags: [dvc-monitoring, ai, russian]
 models: [sonnet, opus]

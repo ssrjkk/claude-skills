@@ -1,6 +1,6 @@
 ---
 name: soda-integration
-description: Integration for Soda: integration with other tools
+description: "Integration for Soda: integration with other tools"
 category: data
 tags: [soda, integration, data]
 models: [sonnet, opus]

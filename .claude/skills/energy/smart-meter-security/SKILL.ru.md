@@ -1,6 +1,6 @@
 ---
 name: smart-meter-security
-description: Security with Smart Metering. security.
+description: "Security with Smart Metering. security."
 category: energy
 tags: [smart-meter-security, energy, russian]
 models: [sonnet, opus]

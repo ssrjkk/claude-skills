@@ -1,6 +1,6 @@
 ---
 name: surreal-monitoring
-description: Monitoring with SurrealDB. monitoring.
+description: "Monitoring with SurrealDB. monitoring."
 category: database
 tags: [surreal-monitoring, database, russian]
 models: [sonnet, opus]

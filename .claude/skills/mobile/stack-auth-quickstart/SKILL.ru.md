@@ -1,6 +1,6 @@
 ---
 name: stack-auth-quickstart
-description: Quickstart for Stack-Auth: quick start guide
+description: "Quickstart for Stack-Auth: quick start guide"
 category: mobile
 tags: [stack-auth-quickstart, mobile, russian]
 models: [sonnet, opus]

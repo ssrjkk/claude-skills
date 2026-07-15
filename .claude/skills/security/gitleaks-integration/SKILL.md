@@ -1,6 +1,6 @@
 ---
 name: gitleaks-integration
-description: Integration for Gitleaks: integration with other tools
+description: "Integration for Gitleaks: integration with other tools"
 category: security
 tags: [gitleaks, integration, security]
 models: [sonnet, opus]

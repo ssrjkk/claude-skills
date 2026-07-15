@@ -1,6 +1,6 @@
 ---
 name: envoy-troubleshooting
-description: Troubleshooting for Envoy: troubleshooting common issues
+description: "Troubleshooting for Envoy: troubleshooting common issues"
 category: devops
 tags: [envoy-troubleshooting, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: nmap-compliance
-description: Compliance with Nmap. compliance.
+description: "Compliance with Nmap. compliance."
 category: security
 tags: [nmap-compliance, security, russian]
 models: [sonnet, opus]

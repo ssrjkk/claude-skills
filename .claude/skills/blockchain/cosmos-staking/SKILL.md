@@ -1,6 +1,6 @@
 ---
 name: cosmos-staking
-description: Staking with Cosmos. staking.
+description: "Staking with Cosmos. staking."
 category: blockchain
 tags: [cosmos, staking, blockchain, blockchain]
 models: [gpt-4, claude-3]

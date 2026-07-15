@@ -1,6 +1,6 @@
 ---
 name: nuxt-data-fetching
-description: Data Fetching with Nuxt. data loading.
+description: "Data Fetching with Nuxt. data loading."
 category: frontend
 tags: [nuxt, data-fetching, frontend, meta-framework]
 models: [gpt-4, claude-3]

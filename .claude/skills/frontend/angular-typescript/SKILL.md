@@ -1,6 +1,6 @@
 ---
 name: angular-typescript
-description: Creates Angular applications with TypeScript, components, and services. Use for enterprise frontend development.
+description: "Creates Angular applications with TypeScript, components, and services. Use for enterprise frontend development."
 category: frontend
 tags: [angular, typescript, frontend, components, rxjs]
 models: [opus]

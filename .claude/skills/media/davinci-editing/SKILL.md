@@ -1,6 +1,6 @@
 ---
 name: davinci-editing
-description: Editing with DaVinci Resolve. editing.
+description: "Editing with DaVinci Resolve. editing."
 category: media
 tags: [davinci, editing, media, media-production]
 models: [gpt-4, claude-3]

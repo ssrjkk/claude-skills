@@ -1,6 +1,6 @@
 ---
 name: turbopack-code-splitting
-description: Code Splitting with Turbopack. lazy loading.
+description: "Code Splitting with Turbopack. lazy loading."
 category: frontend
 tags: [turbopack, code-splitting, frontend, build-tool]
 models: [gpt-4, claude-3]

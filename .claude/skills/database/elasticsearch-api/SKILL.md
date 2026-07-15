@@ -1,6 +1,6 @@
 ---
 name: elasticsearch-api
-description: API for Elasticsearch: API development and integration
+description: "API for Elasticsearch: API development and integration"
 category: database
 tags: [elasticsearch, api, database]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: wandb-regression
-description: Regression with Wandb. predicting values.
+description: "Regression with Wandb. predicting values."
 category: ai
 tags: [wandb-regression, ai, russian]
 models: [sonnet, opus]

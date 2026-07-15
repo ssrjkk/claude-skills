@@ -1,6 +1,6 @@
 ---
 name: pyramid-routing
-description: Routing with Pyramid. HTTP routing.
+description: "Routing with Pyramid. HTTP routing."
 category: backend
 tags: [pyramid-routing, backend, russian]
 models: [sonnet, opus]

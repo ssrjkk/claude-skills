@@ -1,6 +1,6 @@
 ---
 name: unreal-monitoring
-description: Monitoring for Unreal: monitoring and observability
+description: "Monitoring for Unreal: monitoring and observability"
 category: gamedev
 tags: [unreal-monitoring, gamedev, russian]
 models: [sonnet, opus]

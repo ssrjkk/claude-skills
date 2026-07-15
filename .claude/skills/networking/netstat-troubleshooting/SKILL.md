@@ -1,6 +1,6 @@
 ---
 name: netstat-troubleshooting
-description: Troubleshooting with netstat/ss. debugging.
+description: "Troubleshooting with netstat/ss. debugging."
 category: networking
 tags: [netstat, troubleshooting, networking, networking-tool]
 models: [gpt-4, claude-3]

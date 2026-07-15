@@ -1,6 +1,6 @@
 ---
 name: kafka-debugging
-description: Debugging for Kafka: debugging and troubleshooting
+description: "Debugging for Kafka: debugging and troubleshooting"
 category: data
 tags: [kafka-debugging, data, russian]
 models: [sonnet, opus]

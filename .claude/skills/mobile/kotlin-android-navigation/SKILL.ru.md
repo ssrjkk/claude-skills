@@ -1,6 +1,6 @@
 ---
 name: kotlin-android-navigation
-description: Navigation with Kotlin Android. navigation.
+description: "Navigation with Kotlin Android. navigation."
 category: mobile
 tags: [kotlin-android-navigation, mobile, russian]
 models: [sonnet, opus]

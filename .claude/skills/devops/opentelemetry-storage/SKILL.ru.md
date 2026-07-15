@@ -1,6 +1,6 @@
 ---
 name: opentelemetry-storage
-description: Storage with OpenTelemetry. data retention.
+description: "Storage with OpenTelemetry. data retention."
 category: devops
 tags: [opentelemetry-storage, devops, russian]
 models: [sonnet, opus]

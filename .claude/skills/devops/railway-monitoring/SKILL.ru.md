@@ -1,6 +1,6 @@
 ---
 name: railway-monitoring
-description: Monitoring with Railway. monitoring.
+description: "Monitoring with Railway. monitoring."
 category: devops
 tags: [railway-monitoring, devops, russian]
 models: [sonnet, opus]

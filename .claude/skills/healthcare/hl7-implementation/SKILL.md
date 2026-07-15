@@ -1,6 +1,6 @@
 ---
 name: hl7-implementation
-description: Implementation with HL7 v2. integration.
+description: "Implementation with HL7 v2. integration."
 category: healthcare
 tags: [hl7, implementation, healthcare, healthcare]
 models: [gpt-4, claude-3]

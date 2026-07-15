@@ -1,6 +1,6 @@
 ---
 name: llm-eval
-description: Evaluates LLM performance using BLEU, ROUGE metrics and LLM-as-judge. Use for model testing.
+description: "Evaluates LLM performance using BLEU, ROUGE metrics and LLM-as-judge. Use for model testing."
 category: ai
 tags: [llm-eval, ai, russian]
 models: [sonnet, opus]

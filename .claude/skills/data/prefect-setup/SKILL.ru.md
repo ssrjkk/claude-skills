@@ -1,6 +1,6 @@
 ---
 name: prefect-setup
-description: Setup with Prefect. installation.
+description: "Setup with Prefect. installation."
 category: data
 tags: [prefect-setup, data, russian]
 models: [sonnet, opus]

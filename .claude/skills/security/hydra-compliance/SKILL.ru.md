@@ -1,6 +1,6 @@
 ---
 name: hydra-compliance
-description: Compliance with Hydra. compliance.
+description: "Compliance with Hydra. compliance."
 category: security
 tags: [hydra-compliance, security, russian]
 models: [sonnet, opus]

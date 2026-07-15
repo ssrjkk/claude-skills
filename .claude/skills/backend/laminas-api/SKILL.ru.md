@@ -1,6 +1,6 @@
 ---
 name: laminas-api
-description: API with Laminas. APIs.
+description: "API with Laminas. APIs."
 category: backend
 tags: [laminas-api, backend, russian]
 models: [sonnet, opus]

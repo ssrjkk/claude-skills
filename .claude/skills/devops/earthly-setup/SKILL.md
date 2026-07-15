@@ -1,6 +1,6 @@
 ---
 name: earthly-setup
-description: Setup with Earthly. pipeline setup.
+description: "Setup with Earthly. pipeline setup."
 category: devops
 tags: [earthly, setup, devops, ci-cd]
 models: [gpt-4, claude-3]

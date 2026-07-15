@@ -1,6 +1,6 @@
 ---
 name: puppeteer-mobile
-description: Mobile with Puppeteer. mobile testing.
+description: "Mobile with Puppeteer. mobile testing."
 category: qa
 tags: [puppeteer, mobile, qa, e2e]
 models: [gpt-4, claude-3]

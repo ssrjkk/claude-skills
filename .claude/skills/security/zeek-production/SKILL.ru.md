@@ -1,6 +1,6 @@
 ---
 name: zeek-production
-description: Production for Zeek: production deployment
+description: "Production for Zeek: production deployment"
 category: security
 tags: [zeek-production, security, russian]
 models: [sonnet, opus]

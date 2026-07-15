@@ -1,6 +1,6 @@
 ---
 name: linode-networking
-description: Networking with Linode. VPC.
+description: "Networking with Linode. VPC."
 category: devops
 tags: [linode, networking, devops, cloud]
 models: [gpt-4, claude-3]

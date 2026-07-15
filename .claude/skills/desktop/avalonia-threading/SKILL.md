@@ -1,6 +1,6 @@
 ---
 name: avalonia-threading
-description: Threading with Avalonia. multithreading.
+description: "Threading with Avalonia. multithreading."
 category: desktop
 tags: [avalonia, threading, desktop, desktop]
 models: [gpt-4, claude-3]

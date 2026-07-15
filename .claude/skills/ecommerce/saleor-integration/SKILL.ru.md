@@ -1,6 +1,6 @@
 ---
 name: saleor-integration
-description: Integration with Saleor. frontend integration.
+description: "Integration with Saleor. frontend integration."
 category: ecommerce
 tags: [saleor-integration, ecommerce, russian]
 models: [sonnet, opus]

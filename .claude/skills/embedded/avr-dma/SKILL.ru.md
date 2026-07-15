@@ -1,6 +1,6 @@
 ---
 name: avr-dma
-description: DMA with AVR. DMA.
+description: "DMA with AVR. DMA."
 category: embedded
 tags: [avr-dma, embedded, russian]
 models: [sonnet, opus]

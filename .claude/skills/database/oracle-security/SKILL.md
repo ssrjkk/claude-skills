@@ -1,6 +1,6 @@
 ---
 name: oracle-security
-description: Security with Oracle. access control.
+description: "Security with Oracle. access control."
 category: database
 tags: [oracle, security, database, sql]
 models: [gpt-4, claude-3]

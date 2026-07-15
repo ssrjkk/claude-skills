@@ -1,6 +1,6 @@
 ---
 name: htmx-intro
-description: Intro for Htmx: introduction
+description: "Intro for Htmx: introduction"
 category: frontend
 tags: [htmx, intro, frontend]
 models: [sonnet, opus]

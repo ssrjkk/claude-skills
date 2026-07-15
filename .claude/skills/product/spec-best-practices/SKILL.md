@@ -1,6 +1,6 @@
 ---
 name: spec-best-practices
-description: Best Practices with Specification Writing. tips.
+description: "Best Practices with Specification Writing. tips."
 category: product
 tags: [spec, best-practices, product, product-framework]
 models: [gpt-4, claude-3]

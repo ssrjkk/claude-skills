@@ -1,6 +1,6 @@
 ---
 name: okr-tools
-description: Tools with OKRs. tools.
+description: "Tools with OKRs. tools."
 category: product
 tags: [okr-tools, product, russian]
 models: [sonnet, opus]

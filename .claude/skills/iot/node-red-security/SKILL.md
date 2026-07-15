@@ -1,6 +1,6 @@
 ---
 name: node-red-security
-description: Security with Node-RED. device security.
+description: "Security with Node-RED. device security."
 category: iot
 tags: [node-red, security, iot, iot-platform]
 models: [gpt-4, claude-3]

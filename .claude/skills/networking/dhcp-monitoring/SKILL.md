@@ -1,6 +1,6 @@
 ---
 name: dhcp-monitoring
-description: Monitoring with DHCP. monitoring.
+description: "Monitoring with DHCP. monitoring."
 category: networking
 tags: [dhcp, monitoring, networking, networking]
 models: [gpt-4, claude-3]

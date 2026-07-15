@@ -1,6 +1,6 @@
 ---
 name: reportportal-troubleshooting
-description: Troubleshooting for Reportportal: troubleshooting common issues
+description: "Troubleshooting for Reportportal: troubleshooting common issues"
 category: qa
 tags: [reportportal, troubleshooting, qa]
 models: [sonnet, opus]

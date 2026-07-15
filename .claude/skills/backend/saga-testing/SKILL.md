@@ -1,6 +1,6 @@
 ---
 name: saga-testing
-description: Testing with Saga. testing the pattern.
+description: "Testing with Saga. testing the pattern."
 category: backend
 tags: [saga, testing, backend, architecture]
 models: [gpt-4, claude-3]

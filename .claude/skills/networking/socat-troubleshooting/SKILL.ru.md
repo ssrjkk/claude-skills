@@ -1,6 +1,6 @@
 ---
 name: socat-troubleshooting
-description: Troubleshooting with socat. debugging.
+description: "Troubleshooting with socat. debugging."
 category: networking
 tags: [socat-troubleshooting, networking, russian]
 models: [sonnet, opus]

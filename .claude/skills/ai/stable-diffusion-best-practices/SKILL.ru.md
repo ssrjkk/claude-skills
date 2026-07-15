@@ -1,6 +1,6 @@
 ---
 name: stable-diffusion-best-practices
-description: Best Practices for Stable-Diffusion: best practices and patterns
+description: "Best Practices for Stable-Diffusion: best practices and patterns"
 category: ai
 tags: [stable-diffusion-best-practices, ai, russian]
 models: [sonnet, opus]

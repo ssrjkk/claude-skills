@@ -1,6 +1,6 @@
 ---
 name: mpi
-description: Development with Mpi: tools and best practices
+description: "Development with Mpi: tools and best practices"
 category: mobile
 tags: [mpi, mobile, development]
 models: [sonnet, opus]

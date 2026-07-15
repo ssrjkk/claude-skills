@@ -1,6 +1,6 @@
 ---
 name: nim-testing
-description: Testing with Nim. writing tests.
+description: "Testing with Nim. writing tests."
 category: backend
 tags: [nim-testing, backend, russian]
 models: [sonnet, opus]

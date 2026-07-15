@@ -1,6 +1,6 @@
 ---
 name: vllm-examples
-description: Examples for Vllm: practical examples
+description: "Examples for Vllm: practical examples"
 category: ai
 tags: [vllm-examples, ai, russian]
 models: [sonnet, opus]

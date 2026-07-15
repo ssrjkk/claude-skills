@@ -1,6 +1,6 @@
 ---
 name: semantic-kernel-guides
-description: Guides for Semantic-Kernel: how-to guides
+description: "Guides for Semantic-Kernel: how-to guides"
 category: ai
 tags: [semantic-kernel, guides, ai]
 models: [sonnet, opus]

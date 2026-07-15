@@ -1,6 +1,6 @@
 ---
 name: saml-optimization
-description: Optimization for Saml: performance tuning and optimization
+description: "Optimization for Saml: performance tuning and optimization"
 category: security
 tags: [saml, optimization, security]
 models: [sonnet, opus]

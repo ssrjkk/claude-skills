@@ -1,6 +1,6 @@
 ---
 name: commercetools-shipping
-description: Shipping with commercetools. shipping.
+description: "Shipping with commercetools. shipping."
 category: ecommerce
 tags: [commercetools, shipping, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

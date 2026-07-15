@@ -1,6 +1,6 @@
 ---
 name: snyk-automation
-description: Automation with Snyk. automation.
+description: "Automation with Snyk. automation."
 category: security
 tags: [snyk-automation, security, russian]
 models: [sonnet, opus]

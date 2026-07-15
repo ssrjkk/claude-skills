@@ -1,6 +1,6 @@
 ---
 name: sentence-transformers-translation
-description: Translation with Sentence Transformers. machine translation.
+description: "Translation with Sentence Transformers. machine translation."
 category: ai
 tags: [sentence-transformers, translation, ai, nlp]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: plotly-deployment
-description: Deployment with Plotly. app deployment.
+description: "Deployment with Plotly. app deployment."
 category: data
 tags: [plotly-deployment, data, russian]
 models: [sonnet, opus]

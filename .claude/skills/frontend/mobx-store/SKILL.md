@@ -1,6 +1,6 @@
 ---
 name: mobx-store
-description: Store with MobX. state store.
+description: "Store with MobX. state store."
 category: frontend
 tags: [mobx, store, frontend, state-management]
 models: [gpt-4, claude-3]

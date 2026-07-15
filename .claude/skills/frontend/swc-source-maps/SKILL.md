@@ -1,6 +1,6 @@
 ---
 name: swc-source-maps
-description: Source Maps with SWC. debugging.
+description: "Source Maps with SWC. debugging."
 category: frontend
 tags: [swc, source-maps, frontend, build-tool]
 models: [gpt-4, claude-3]

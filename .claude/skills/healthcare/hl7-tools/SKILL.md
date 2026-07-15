@@ -1,6 +1,6 @@
 ---
 name: hl7-tools
-description: Tools with HL7 v2. tools.
+description: "Tools with HL7 v2. tools."
 category: healthcare
 tags: [hl7, tools, healthcare, healthcare]
 models: [gpt-4, claude-3]

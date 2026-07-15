@@ -1,6 +1,6 @@
 ---
 name: pulumi-testing
-description: Testing with Pulumi. infra testing.
+description: "Testing with Pulumi. infra testing."
 category: devops
 tags: [pulumi-testing, devops, russian]
 models: [sonnet, opus]

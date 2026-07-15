@@ -1,6 +1,6 @@
 ---
 name: ant-design-quickstart
-description: Quickstart for Ant-Design: quick start guide
+description: "Quickstart for Ant-Design: quick start guide"
 category: frontend
 tags: [ant-design, quickstart, frontend]
 models: [sonnet, opus]

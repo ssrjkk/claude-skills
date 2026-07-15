@@ -1,6 +1,6 @@
 ---
 name: marko-animations
-description: Animations with Marko. UI animations.
+description: "Animations with Marko. UI animations."
 category: frontend
 tags: [marko, animations, frontend, frontend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: iot-skill-0225
-description: iot specialized skill #0225 for iot development
+description: "iot specialized skill #0225 for iot development"
 category: iot
 tags: [iot, skill, 0225]
 models: [sonnet, opus]

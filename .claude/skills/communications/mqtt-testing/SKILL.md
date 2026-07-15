@@ -1,6 +1,6 @@
 ---
 name: mqtt-testing
-description: Testing with MQTT. testing.
+description: "Testing with MQTT. testing."
 category: communications
 tags: [mqtt, testing, communications, communication-protocol]
 models: [gpt-4, claude-3]

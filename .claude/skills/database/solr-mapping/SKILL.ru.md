@@ -1,6 +1,6 @@
 ---
 name: solr-mapping
-description: Mapping with Solr. field mapping.
+description: "Mapping with Solr. field mapping."
 category: database
 tags: [solr-mapping, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ethereum-defi
-description: DeFi with Ethereum. DeFi.
+description: "DeFi with Ethereum. DeFi."
 category: blockchain
 tags: [ethereum-defi, blockchain, russian]
 models: [sonnet, opus]

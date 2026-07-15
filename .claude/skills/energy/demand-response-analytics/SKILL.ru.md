@@ -1,6 +1,6 @@
 ---
 name: demand-response-analytics
-description: Analytics with Demand Response. analytics.
+description: "Analytics with Demand Response. analytics."
 category: energy
 tags: [demand-response-analytics, energy, russian]
 models: [sonnet, opus]

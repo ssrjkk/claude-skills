@@ -1,6 +1,6 @@
 ---
 name: marko-forms
-description: Forms with Marko. form handling.
+description: "Forms with Marko. form handling."
 category: frontend
 tags: [marko, forms, frontend, frontend]
 models: [gpt-4, claude-3]

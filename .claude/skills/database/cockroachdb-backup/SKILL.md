@@ -1,6 +1,6 @@
 ---
 name: cockroachdb-backup
-description: Backup with CockroachDB. backup strategies.
+description: "Backup with CockroachDB. backup strategies."
 category: database
 tags: [cockroachdb, backup, database, sql]
 models: [gpt-4, claude-3]

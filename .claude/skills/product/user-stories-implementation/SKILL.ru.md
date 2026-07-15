@@ -1,6 +1,6 @@
 ---
 name: user-stories-implementation
-description: Implementation with User Stories. execution.
+description: "Implementation with User Stories. execution."
 category: product
 tags: [user-stories-implementation, product, russian]
 models: [sonnet, opus]

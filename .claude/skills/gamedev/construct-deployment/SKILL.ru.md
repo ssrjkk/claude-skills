@@ -1,6 +1,6 @@
 ---
 name: construct-deployment
-description: Deployment for Construct: deployment and release
+description: "Deployment for Construct: deployment and release"
 category: gamedev
 tags: [construct-deployment, gamedev, russian]
 models: [sonnet, opus]

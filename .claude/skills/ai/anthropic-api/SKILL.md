@@ -1,6 +1,6 @@
 ---
 name: anthropic-api
-description: Integrates Anthropic's Claude API for chat completions, messages, and tool use in applications.
+description: "Integrates Anthropic's Claude API for chat completions, messages, and tool use in applications."
 category: ai
 tags: [anthropic, claude, api, llm, messages]
 models: [sonnet, opus]

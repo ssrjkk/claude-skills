@@ -1,6 +1,6 @@
 ---
 name: shader-graph-guides
-description: Guides for Shader-Graph: how-to guides
+description: "Guides for Shader-Graph: how-to guides"
 category: gamedev
 tags: [shader-graph, guides, gamedev]
 models: [sonnet, opus]

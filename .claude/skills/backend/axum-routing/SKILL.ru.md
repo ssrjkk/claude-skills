@@ -1,6 +1,6 @@
 ---
 name: axum-routing
-description: Routing with Axum. HTTP routing.
+description: "Routing with Axum. HTTP routing."
 category: backend
 tags: [axum-routing, backend, russian]
 models: [sonnet, opus]

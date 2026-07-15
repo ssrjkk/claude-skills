@@ -1,6 +1,6 @@
 ---
 name: angelist-interviewing
-description: Interviewing with AngelList/Wellfound. interviews.
+description: "Interviewing with AngelList/Wellfound. interviews."
 category: hr
 tags: [angelist-interviewing, hr, russian]
 models: [sonnet, opus]

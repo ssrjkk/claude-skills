@@ -1,6 +1,6 @@
 ---
 name: ember-styling
-description: Styling with Ember. component styling.
+description: "Styling with Ember. component styling."
 category: frontend
 tags: [ember-styling, frontend, russian]
 models: [sonnet, opus]

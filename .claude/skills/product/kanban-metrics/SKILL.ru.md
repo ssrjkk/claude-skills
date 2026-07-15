@@ -1,6 +1,6 @@
 ---
 name: kanban-metrics
-description: Metrics with Kanban. measurement.
+description: "Metrics with Kanban. measurement."
 category: product
 tags: [kanban-metrics, product, russian]
 models: [sonnet, opus]

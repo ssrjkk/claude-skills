@@ -1,6 +1,6 @@
 ---
 name: play-routing
-description: Routing with Play. HTTP routing.
+description: "Routing with Play. HTTP routing."
 category: backend
 tags: [play-routing, backend, russian]
 models: [sonnet, opus]

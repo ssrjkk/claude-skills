@@ -1,6 +1,6 @@
 ---
 name: encoding-encoding
-description: Encoding with Encoding. encoding.
+description: "Encoding with Encoding. encoding."
 category: media
 tags: [encoding-encoding, media, russian]
 models: [sonnet, opus]

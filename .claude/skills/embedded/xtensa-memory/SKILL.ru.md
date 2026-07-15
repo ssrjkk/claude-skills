@@ -1,6 +1,6 @@
 ---
 name: xtensa-memory
-description: Memory with Xtensa. memory layout.
+description: "Memory with Xtensa. memory layout."
 category: embedded
 tags: [xtensa-memory, embedded, russian]
 models: [sonnet, opus]

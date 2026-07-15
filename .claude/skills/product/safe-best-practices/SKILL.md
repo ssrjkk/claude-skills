@@ -1,6 +1,6 @@
 ---
 name: safe-best-practices
-description: Best Practices with SAFe. practices.
+description: "Best Practices with SAFe. practices."
 category: product
 tags: [safe, best-practices, product, methodology]
 models: [gpt-4, claude-3]

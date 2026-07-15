@@ -1,6 +1,6 @@
 ---
 name: jupyter-deployment
-description: Deployment with Jupyter. app deployment.
+description: "Deployment with Jupyter. app deployment."
 category: data
 tags: [jupyter, deployment, data, data-science]
 models: [gpt-4, claude-3]

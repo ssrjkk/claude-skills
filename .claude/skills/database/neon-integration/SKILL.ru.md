@@ -1,6 +1,6 @@
 ---
 name: neon-integration
-description: Integration for Neon: integration with other tools
+description: "Integration for Neon: integration with other tools"
 category: database
 tags: [neon-integration, database, russian]
 models: [sonnet, opus]

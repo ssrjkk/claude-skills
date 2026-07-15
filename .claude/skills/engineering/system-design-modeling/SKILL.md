@@ -1,6 +1,6 @@
 ---
 name: system-design-modeling
-description: Modeling with System Design. system modeling.
+description: "Modeling with System Design. system modeling."
 category: engineering
 tags: [system-design, modeling, engineering, modeling]
 models: [gpt-4, claude-3]

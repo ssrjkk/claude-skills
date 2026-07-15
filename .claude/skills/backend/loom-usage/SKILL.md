@@ -1,6 +1,6 @@
 ---
 name: loom-usage
-description: Usage for Loom: usage reference
+description: "Usage for Loom: usage reference"
 category: backend
 tags: [loom, usage, backend]
 models: [sonnet, opus]

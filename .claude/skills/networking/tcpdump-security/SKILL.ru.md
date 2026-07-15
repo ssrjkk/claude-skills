@@ -1,6 +1,6 @@
 ---
 name: tcpdump-security
-description: Security with tcpdump. security testing.
+description: "Security with tcpdump. security testing."
 category: networking
 tags: [tcpdump-security, networking, russian]
 models: [sonnet, opus]

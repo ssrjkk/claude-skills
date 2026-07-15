@@ -1,6 +1,6 @@
 ---
 name: mapserver-mapping
-description: Mapping with MapServer. mapping.
+description: "Mapping with MapServer. mapping."
 category: geospatial
 tags: [mapserver-mapping, geospatial, russian]
 models: [sonnet, opus]

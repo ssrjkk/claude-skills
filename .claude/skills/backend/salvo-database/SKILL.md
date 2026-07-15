@@ -1,6 +1,6 @@
 ---
 name: salvo-database
-description: Database with Salvo. DB access.
+description: "Database with Salvo. DB access."
 category: backend
 tags: [salvo, database, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: scikit-image-segmentation
-description: Segmentation with Scikit Image. image segmentation.
+description: "Segmentation with Scikit Image. image segmentation."
 category: ai
 tags: [scikit-image-segmentation, ai, russian]
 models: [sonnet, opus]

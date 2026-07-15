@@ -1,6 +1,6 @@
 ---
 name: langchain-fine-tuning
-description: Fine-Tuning with Langchain. model customization.
+description: "Fine-Tuning with Langchain. model customization."
 category: ai
 tags: [langchain, fine-tuning, ai, llm]
 models: [gpt-4, claude-3]

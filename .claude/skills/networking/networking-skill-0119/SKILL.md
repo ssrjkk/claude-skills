@@ -1,6 +1,6 @@
 ---
 name: networking-skill-0119
-description: networking specialized skill #0119 for networking development
+description: "networking specialized skill #0119 for networking development"
 category: networking
 tags: [networking, skill, 0119]
 models: [sonnet, opus]

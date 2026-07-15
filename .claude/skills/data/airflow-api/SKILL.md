@@ -1,6 +1,6 @@
 ---
 name: airflow-api
-description: API for Airflow: API development and integration
+description: "API for Airflow: API development and integration"
 category: data
 tags: [airflow, api, data]
 models: [sonnet, opus]

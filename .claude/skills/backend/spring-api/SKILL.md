@@ -1,6 +1,6 @@
 ---
 name: spring-api
-description: API for Spring: API development and integration
+description: "API for Spring: API development and integration"
 category: backend
 tags: [spring, api, backend]
 models: [sonnet, opus]

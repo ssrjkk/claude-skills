@@ -1,6 +1,6 @@
 ---
 name: heuristics-best-practices
-description: Best Practices with Heuristics. tips.
+description: "Best Practices with Heuristics. tips."
 category: product
 tags: [heuristics-best-practices, product, russian]
 models: [sonnet, opus]

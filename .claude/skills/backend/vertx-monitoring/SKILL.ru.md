@@ -1,6 +1,6 @@
 ---
 name: vertx-monitoring
-description: Monitoring with Vert.x. metrics.
+description: "Monitoring with Vert.x. metrics."
 category: backend
 tags: [vertx-monitoring, backend, russian]
 models: [sonnet, opus]

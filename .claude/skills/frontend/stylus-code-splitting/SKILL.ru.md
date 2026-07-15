@@ -1,6 +1,6 @@
 ---
 name: stylus-code-splitting
-description: Code Splitting with Stylus. lazy loading.
+description: "Code Splitting with Stylus. lazy loading."
 category: frontend
 tags: [stylus-code-splitting, frontend, russian]
 models: [sonnet, opus]

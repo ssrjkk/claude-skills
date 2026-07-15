@@ -1,6 +1,6 @@
 ---
 name: spark-security
-description: Security for Spark: security best practices
+description: "Security for Spark: security best practices"
 category: data
 tags: [spark, security, data]
 models: [sonnet, opus]

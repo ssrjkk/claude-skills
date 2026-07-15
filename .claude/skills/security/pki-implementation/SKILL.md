@@ -1,6 +1,6 @@
 ---
 name: pki-implementation
-description: Implementation with PKI. implementation.
+description: "Implementation with PKI. implementation."
 category: security
 tags: [pki, implementation, security, security]
 models: [gpt-4, claude-3]

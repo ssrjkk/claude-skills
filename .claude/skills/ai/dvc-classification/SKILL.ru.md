@@ -1,6 +1,6 @@
 ---
 name: dvc-classification
-description: Classification with Dvc. building classifiers.
+description: "Classification with Dvc. building classifiers."
 category: ai
 tags: [dvc-classification, ai, russian]
 models: [sonnet, opus]

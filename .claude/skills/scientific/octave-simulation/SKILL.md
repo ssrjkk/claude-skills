@@ -1,6 +1,6 @@
 ---
 name: octave-simulation
-description: Simulation with GNU Octave. Monte Carlo.
+description: "Simulation with GNU Octave. Monte Carlo."
 category: scientific
 tags: [octave, simulation, scientific, scientific-computing]
 models: [gpt-4, claude-3]

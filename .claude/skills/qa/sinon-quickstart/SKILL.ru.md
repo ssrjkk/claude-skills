@@ -1,6 +1,6 @@
 ---
 name: sinon-quickstart
-description: Quickstart for Sinon: quick start guide
+description: "Quickstart for Sinon: quick start guide"
 category: qa
 tags: [sinon-quickstart, qa, russian]
 models: [sonnet, opus]

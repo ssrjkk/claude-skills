@@ -1,6 +1,6 @@
 ---
 name: pusher-messaging
-description: Messaging with Pusher. sending messages.
+description: "Messaging with Pusher. sending messages."
 category: communications
 tags: [pusher-messaging, communications, russian]
 models: [sonnet, opus]

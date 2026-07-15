@@ -1,6 +1,6 @@
 ---
 name: paypal-fraud
-description: Fraud with PayPal. fraud detection.
+description: "Fraud with PayPal. fraud detection."
 category: payments
 tags: [paypal, fraud, payments, payments]
 models: [gpt-4, claude-3]

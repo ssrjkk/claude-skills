@@ -1,6 +1,6 @@
 ---
 name: nmap-troubleshooting
-description: Troubleshooting with Nmap. debugging.
+description: "Troubleshooting with Nmap. debugging."
 category: networking
 tags: [nmap, troubleshooting, networking, networking-tool]
 models: [gpt-4, claude-3]

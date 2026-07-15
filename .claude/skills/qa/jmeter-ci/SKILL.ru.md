@@ -1,6 +1,6 @@
 ---
 name: jmeter-ci
-description: CI with JMeter. CI integration.
+description: "CI with JMeter. CI integration."
 category: qa
 tags: [jmeter-ci, qa, russian]
 models: [sonnet, opus]

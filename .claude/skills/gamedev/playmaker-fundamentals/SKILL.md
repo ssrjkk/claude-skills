@@ -1,6 +1,6 @@
 ---
 name: playmaker-fundamentals
-description: Fundamentals for Playmaker: core concepts
+description: "Fundamentals for Playmaker: core concepts"
 category: gamedev
 tags: [playmaker, fundamentals, gamedev]
 models: [sonnet, opus]

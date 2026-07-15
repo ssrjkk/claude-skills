@@ -1,6 +1,6 @@
 ---
 name: sentence-transformers-translation
-description: Translation with Sentence Transformers. machine translation.
+description: "Translation with Sentence Transformers. machine translation."
 category: ai
 tags: [sentence-transformers-translation, ai, russian]
 models: [sonnet, opus]

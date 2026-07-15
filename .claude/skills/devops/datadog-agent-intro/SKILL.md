@@ -1,6 +1,6 @@
 ---
 name: datadog-agent-intro
-description: Intro for Datadog-Agent: introduction
+description: "Intro for Datadog-Agent: introduction"
 category: devops
 tags: [datadog-agent, intro, devops]
 models: [sonnet, opus]

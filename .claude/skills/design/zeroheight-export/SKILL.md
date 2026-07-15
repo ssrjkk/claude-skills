@@ -1,6 +1,6 @@
 ---
 name: zeroheight-export
-description: Export with Zeroheight. assets.
+description: "Export with Zeroheight. assets."
 category: design
 tags: [zeroheight, export, design, design]
 models: [gpt-4, claude-3]

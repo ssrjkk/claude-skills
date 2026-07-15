@@ -1,6 +1,6 @@
 ---
 name: arbitrum-setup
-description: Setup with Arbitrum. node setup.
+description: "Setup with Arbitrum. node setup."
 category: blockchain
 tags: [arbitrum, setup, blockchain, blockchain]
 models: [gpt-4, claude-3]

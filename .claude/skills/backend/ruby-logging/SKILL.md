@@ -1,6 +1,6 @@
 ---
 name: ruby-logging
-description: Logging with Ruby. app logging.
+description: "Logging with Ruby. app logging."
 category: backend
 tags: [ruby, logging, backend, backend]
 models: [gpt-4, claude-3]

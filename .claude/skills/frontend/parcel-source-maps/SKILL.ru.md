@@ -1,6 +1,6 @@
 ---
 name: parcel-source-maps
-description: Source Maps with Parcel. debugging.
+description: "Source Maps with Parcel. debugging."
 category: frontend
 tags: [parcel-source-maps, frontend, russian]
 models: [sonnet, opus]

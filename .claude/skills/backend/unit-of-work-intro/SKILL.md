@@ -1,6 +1,6 @@
 ---
 name: unit-of-work-intro
-description: Introduction with Unit of Work. understanding the pattern.
+description: "Introduction with Unit of Work. understanding the pattern."
 category: backend
 tags: [unit-of-work, intro, backend, architecture]
 models: [gpt-4, claude-3]

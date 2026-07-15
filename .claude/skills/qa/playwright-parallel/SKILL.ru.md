@@ -1,6 +1,6 @@
 ---
 name: playwright-parallel
-description: Parallel with Playwright. parallel execution.
+description: "Parallel with Playwright. parallel execution."
 category: qa
 tags: [playwright-parallel, qa, russian]
 models: [sonnet, opus]

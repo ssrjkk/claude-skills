@@ -1,6 +1,6 @@
 ---
 name: gcp-kms-fundamentals
-description: Fundamentals for Gcp-Kms: core concepts
+description: "Fundamentals for Gcp-Kms: core concepts"
 category: security
 tags: [gcp-kms, fundamentals, security]
 models: [sonnet, opus]

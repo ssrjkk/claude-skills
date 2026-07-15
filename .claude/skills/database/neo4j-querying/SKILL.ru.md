@@ -1,6 +1,6 @@
 ---
 name: neo4j-querying
-description: Querying with Neo4j. queries.
+description: "Querying with Neo4j. queries."
 category: database
 tags: [neo4j-querying, database, russian]
 models: [sonnet, opus]

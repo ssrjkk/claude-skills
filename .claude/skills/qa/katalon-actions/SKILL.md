@@ -1,6 +1,6 @@
 ---
 name: katalon-actions
-description: Actions with Katalon. user actions.
+description: "Actions with Katalon. user actions."
 category: qa
 tags: [katalon, actions, qa, e2e]
 models: [gpt-4, claude-3]

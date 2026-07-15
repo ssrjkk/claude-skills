@@ -1,6 +1,6 @@
 ---
 name: app-icon-usage
-description: Usage for App-Icon: usage reference
+description: "Usage for App-Icon: usage reference"
 category: mobile
 tags: [app-icon-usage, mobile, russian]
 models: [sonnet, opus]

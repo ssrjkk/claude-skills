@@ -1,6 +1,6 @@
 ---
 name: beego-templating
-description: Templating with Beego. HTML templates.
+description: "Templating with Beego. HTML templates."
 category: backend
 tags: [beego-templating, backend, russian]
 models: [sonnet, opus]

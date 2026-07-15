@@ -1,6 +1,6 @@
 ---
 name: airflow-dags
-description: Creates DAGs for Apache Airflow with tasks and scheduling. Use for ETL pipeline orchestration.
+description: "Creates DAGs for Apache Airflow with tasks and scheduling. Use for ETL pipeline orchestration."
 category: data
 tags: [airflow, dags, orchestration, etl, python]
 models: [sonnet, opus]

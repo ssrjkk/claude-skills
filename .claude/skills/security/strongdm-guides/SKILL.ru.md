@@ -1,6 +1,6 @@
 ---
 name: strongdm-guides
-description: Guides for Strongdm: how-to guides
+description: "Guides for Strongdm: how-to guides"
 category: security
 tags: [strongdm-guides, security, russian]
 models: [sonnet, opus]

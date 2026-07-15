@@ -1,6 +1,6 @@
 ---
 name: dns-basics
-description: Basics with DNS. fundamentals.
+description: "Basics with DNS. fundamentals."
 category: networking
 tags: [dns, basics, networking, networking]
 models: [gpt-4, claude-3]

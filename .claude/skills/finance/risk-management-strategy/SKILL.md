@@ -1,6 +1,6 @@
 ---
 name: risk-management-strategy
-description: Strategy with Risk Management. strategy dev.
+description: "Strategy with Risk Management. strategy dev."
 category: finance
 tags: [risk-management, strategy, finance, trading]
 models: [gpt-4, claude-3]

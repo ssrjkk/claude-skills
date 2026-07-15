@@ -1,6 +1,6 @@
 ---
 name: typeorm-configuration
-description: Configuration for Typeorm: configuration and setup
+description: "Configuration for Typeorm: configuration and setup"
 category: backend
 tags: [typeorm-configuration, backend, russian]
 models: [sonnet, opus]

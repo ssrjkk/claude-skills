@@ -1,6 +1,6 @@
 ---
 name: influxdb-retention
-description: Retention with InfluxDB. data retention.
+description: "Retention with InfluxDB. data retention."
 category: database
 tags: [influxdb, retention, database, time-series]
 models: [gpt-4, claude-3]

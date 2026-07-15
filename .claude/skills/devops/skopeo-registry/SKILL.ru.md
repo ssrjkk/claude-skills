@@ -1,6 +1,6 @@
 ---
 name: skopeo-registry
-description: Registry with Skopeo. image registry.
+description: "Registry with Skopeo. image registry."
 category: devops
 tags: [skopeo-registry, devops, russian]
 models: [sonnet, opus]

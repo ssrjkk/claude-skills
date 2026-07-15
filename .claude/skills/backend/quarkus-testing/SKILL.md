@@ -1,6 +1,6 @@
 ---
 name: quarkus-testing
-description: Testing with Quarkus. unit tests.
+description: "Testing with Quarkus. unit tests."
 category: backend
 tags: [quarkus, testing, backend, backend]
 models: [gpt-4, claude-3]

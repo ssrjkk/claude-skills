@@ -1,6 +1,6 @@
 ---
 name: caliper-testing
-description: Testing with Caliper. testing.
+description: "Testing with Caliper. testing."
 category: education
 tags: [caliper, testing, education, education-standard]
 models: [gpt-4, claude-3]

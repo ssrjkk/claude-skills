@@ -1,6 +1,6 @@
 ---
 name: puppeteer-assertions
-description: Assertions with Puppeteer. assertions.
+description: "Assertions with Puppeteer. assertions."
 category: qa
 tags: [puppeteer-assertions, qa, russian]
 models: [sonnet, opus]

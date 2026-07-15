@@ -1,6 +1,6 @@
 ---
 name: avalonia-events
-description: Events with Avalonia. event handling.
+description: "Events with Avalonia. event handling."
 category: desktop
 tags: [avalonia-events, desktop, russian]
 models: [sonnet, opus]

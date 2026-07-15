@@ -1,6 +1,6 @@
 ---
 name: gnuplot-optimization
-description: Optimization with gnuplot. optimization.
+description: "Optimization with gnuplot. optimization."
 category: scientific
 tags: [gnuplot-optimization, scientific, russian]
 models: [sonnet, opus]

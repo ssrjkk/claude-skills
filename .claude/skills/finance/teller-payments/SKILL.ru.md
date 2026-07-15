@@ -1,6 +1,6 @@
 ---
 name: teller-payments
-description: Payments with Teller. payments.
+description: "Payments with Teller. payments."
 category: finance
 tags: [teller-payments, finance, russian]
 models: [sonnet, opus]

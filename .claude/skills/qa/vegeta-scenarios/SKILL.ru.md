@@ -1,6 +1,6 @@
 ---
 name: vegeta-scenarios
-description: Scenarios with Vegeta. test scenarios.
+description: "Scenarios with Vegeta. test scenarios."
 category: qa
 tags: [vegeta-scenarios, qa, russian]
 models: [sonnet, opus]

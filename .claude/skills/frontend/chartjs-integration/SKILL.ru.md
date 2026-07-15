@@ -1,6 +1,6 @@
 ---
 name: chartjs-integration
-description: Integration for Chartjs: integration with other tools
+description: "Integration for Chartjs: integration with other tools"
 category: frontend
 tags: [chartjs-integration, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: transformers-inference
-description: Inference with Transformers. running models.
+description: "Inference with Transformers. running models."
 category: ai
 tags: [transformers-inference, ai, russian]
 models: [sonnet, opus]

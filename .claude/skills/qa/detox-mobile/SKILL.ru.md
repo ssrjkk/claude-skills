@@ -1,6 +1,6 @@
 ---
 name: detox-mobile
-description: Mobile with Detox. mobile testing.
+description: "Mobile with Detox. mobile testing."
 category: qa
 tags: [detox-mobile, qa, russian]
 models: [sonnet, opus]

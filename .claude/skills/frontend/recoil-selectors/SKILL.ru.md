@@ -1,6 +1,6 @@
 ---
 name: recoil-selectors
-description: Selectors with Recoil. derived data.
+description: "Selectors with Recoil. derived data."
 category: frontend
 tags: [recoil-selectors, frontend, russian]
 models: [sonnet, opus]

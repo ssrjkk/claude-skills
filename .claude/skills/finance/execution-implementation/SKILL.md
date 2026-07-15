@@ -1,6 +1,6 @@
 ---
 name: execution-implementation
-description: Implementation with Execution Systems. implementation.
+description: "Implementation with Execution Systems. implementation."
 category: finance
 tags: [execution, implementation, finance, trading]
 models: [gpt-4, claude-3]

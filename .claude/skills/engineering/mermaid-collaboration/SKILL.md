@@ -1,6 +1,6 @@
 ---
 name: mermaid-collaboration
-description: Collaboration with Mermaid.js. team collaboration.
+description: "Collaboration with Mermaid.js. team collaboration."
 category: engineering
 tags: [mermaid, collaboration, engineering, modeling]
 models: [gpt-4, claude-3]

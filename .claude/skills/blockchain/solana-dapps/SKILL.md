@@ -1,6 +1,6 @@
 ---
 name: solana-dapps
-description: DApps with Solana. decentralized apps.
+description: "DApps with Solana. decentralized apps."
 category: blockchain
 tags: [solana, dapps, blockchain, blockchain]
 models: [gpt-4, claude-3]

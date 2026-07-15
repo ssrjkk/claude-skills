@@ -1,6 +1,6 @@
 ---
 name: prefect-streaming
-description: Streaming with Prefect. real-time.
+description: "Streaming with Prefect. real-time."
 category: data
 tags: [prefect-streaming, data, russian]
 models: [sonnet, opus]

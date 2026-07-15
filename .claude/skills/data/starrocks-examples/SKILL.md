@@ -1,6 +1,6 @@
 ---
 name: starrocks-examples
-description: Examples for Starrocks: practical examples
+description: "Examples for Starrocks: practical examples"
 category: data
 tags: [starrocks, examples, data]
 models: [sonnet, opus]

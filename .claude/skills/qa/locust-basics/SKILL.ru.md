@@ -1,6 +1,6 @@
 ---
 name: locust-basics
-description: Basics for Locust: fundamentals and core concepts
+description: "Basics for Locust: fundamentals and core concepts"
 category: qa
 tags: [locust-basics, qa, russian]
 models: [sonnet, opus]

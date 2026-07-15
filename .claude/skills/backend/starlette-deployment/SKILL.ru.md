@@ -1,6 +1,6 @@
 ---
 name: starlette-deployment
-description: Deployment with Starlette. production deploy.
+description: "Deployment with Starlette. production deploy."
 category: backend
 tags: [starlette-deployment, backend, russian]
 models: [sonnet, opus]

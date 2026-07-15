@@ -1,6 +1,6 @@
 ---
 name: arm-cortex-dma
-description: DMA with ARM Cortex-M. DMA.
+description: "DMA with ARM Cortex-M. DMA."
 category: embedded
 tags: [arm-cortex, dma, embedded, embedded-arch]
 models: [gpt-4, claude-3]

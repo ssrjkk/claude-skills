@@ -1,6 +1,6 @@
 ---
 name: avr-timers
-description: Timers with AVR. timers.
+description: "Timers with AVR. timers."
 category: embedded
 tags: [avr, timers, embedded, embedded-arch]
 models: [gpt-4, claude-3]

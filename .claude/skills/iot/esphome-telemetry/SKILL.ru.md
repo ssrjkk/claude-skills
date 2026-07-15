@@ -1,6 +1,6 @@
 ---
 name: esphome-telemetry
-description: Telemetry with ESPHome. data collection.
+description: "Telemetry with ESPHome. data collection."
 category: iot
 tags: [esphome-telemetry, iot, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: code-review-basics
-description: Basics with Code Review. fundamentals.
+description: "Basics with Code Review. fundamentals."
 category: engineering
 tags: [code-review, basics, engineering, engineering]
 models: [gpt-4, claude-3]

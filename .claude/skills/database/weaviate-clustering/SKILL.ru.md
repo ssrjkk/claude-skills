@@ -1,6 +1,6 @@
 ---
 name: weaviate-clustering
-description: Clustering with Weaviate. cluster setup.
+description: "Clustering with Weaviate. cluster setup."
 category: database
 tags: [weaviate-clustering, database, russian]
 models: [sonnet, opus]

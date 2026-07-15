@@ -1,6 +1,6 @@
 ---
 name: swift-monitoring
-description: Monitoring for Swift: monitoring and observability
+description: "Monitoring for Swift: monitoring and observability"
 category: mobile
 tags: [swift, monitoring, mobile]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kaniko-setup
-description: Setup with Kaniko. installation.
+description: "Setup with Kaniko. installation."
 category: devops
 tags: [kaniko, setup, devops, container]
 models: [gpt-4, claude-3]

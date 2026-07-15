@@ -1,6 +1,6 @@
 ---
 name: ubuntu-logging
-description: Logging with Ubuntu. logging.
+description: "Logging with Ubuntu. logging."
 category: os-admin
 tags: [ubuntu, logging, os-admin, linux]
 models: [gpt-4, claude-3]

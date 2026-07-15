@@ -1,6 +1,6 @@
 ---
 name: ldap-monitoring
-description: Monitoring with LDAP. security monitoring.
+description: "Monitoring with LDAP. security monitoring."
 category: security
 tags: [ldap-monitoring, security, russian]
 models: [sonnet, opus]

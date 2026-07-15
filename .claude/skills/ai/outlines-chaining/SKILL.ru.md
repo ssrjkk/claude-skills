@@ -1,6 +1,6 @@
 ---
 name: outlines-chaining
-description: Chaining with Outlines. multi-step workflows.
+description: "Chaining with Outlines. multi-step workflows."
 category: ai
 tags: [outlines-chaining, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: discord-bot-setup
-description: Setup with Discord Bot. account setup.
+description: "Setup with Discord Bot. account setup."
 category: communications
 tags: [discord-bot-setup, communications, russian]
 models: [sonnet, opus]

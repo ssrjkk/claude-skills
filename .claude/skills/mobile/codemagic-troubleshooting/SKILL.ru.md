@@ -1,6 +1,6 @@
 ---
 name: codemagic-troubleshooting
-description: Troubleshooting for Codemagic: troubleshooting common issues
+description: "Troubleshooting for Codemagic: troubleshooting common issues"
 category: mobile
 tags: [codemagic-troubleshooting, mobile, russian]
 models: [sonnet, opus]

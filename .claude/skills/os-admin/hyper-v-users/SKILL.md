@@ -1,6 +1,6 @@
 ---
 name: hyper-v-users
-description: Users with Hyper-V. user mgmt.
+description: "Users with Hyper-V. user mgmt."
 category: os-admin
 tags: [hyper-v, users, os-admin, windows]
 models: [gpt-4, claude-3]

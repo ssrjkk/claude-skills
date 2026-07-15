@@ -1,6 +1,6 @@
 ---
 name: heroku-database
-description: Database with Heroku. managed databases.
+description: "Database with Heroku. managed databases."
 category: devops
 tags: [heroku-database, devops, russian]
 models: [sonnet, opus]

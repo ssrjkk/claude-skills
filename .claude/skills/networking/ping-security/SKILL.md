@@ -1,6 +1,6 @@
 ---
 name: ping-security
-description: Security with ping/traceroute. security testing.
+description: "Security with ping/traceroute. security testing."
 category: networking
 tags: [ping, security, networking, networking-tool]
 models: [gpt-4, claude-3]

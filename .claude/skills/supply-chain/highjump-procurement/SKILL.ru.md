@@ -1,6 +1,6 @@
 ---
 name: highjump-procurement
-description: Procurement with HighJump. procurement.
+description: "Procurement with HighJump. procurement."
 category: supply-chain
 tags: [highjump-procurement, supply-chain, russian]
 models: [sonnet, opus]

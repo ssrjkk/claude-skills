@@ -1,6 +1,6 @@
 ---
 name: newrelic-storage
-description: Storage with New Relic. data retention.
+description: "Storage with New Relic. data retention."
 category: devops
 tags: [newrelic-storage, devops, russian]
 models: [sonnet, opus]

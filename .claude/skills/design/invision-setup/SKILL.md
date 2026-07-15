@@ -1,6 +1,6 @@
 ---
 name: invision-setup
-description: Setup with InVision. workspace.
+description: "Setup with InVision. workspace."
 category: design
 tags: [invision, setup, design, design]
 models: [gpt-4, claude-3]

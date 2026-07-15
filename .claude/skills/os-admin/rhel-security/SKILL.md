@@ -1,6 +1,6 @@
 ---
 name: rhel-security
-description: Security with RHEL. hardening.
+description: "Security with RHEL. hardening."
 category: os-admin
 tags: [rhel, security, os-admin, linux]
 models: [gpt-4, claude-3]

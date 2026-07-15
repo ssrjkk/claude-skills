@@ -1,6 +1,6 @@
 ---
 name: django-middleware
-description: Middleware with Django. middleware pipelines.
+description: "Middleware with Django. middleware pipelines."
 category: backend
 tags: [django-middleware, backend, russian]
 models: [sonnet, opus]

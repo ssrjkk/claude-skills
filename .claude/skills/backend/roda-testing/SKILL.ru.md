@@ -1,6 +1,6 @@
 ---
 name: roda-testing
-description: Testing with Roda. RSpec.
+description: "Testing with Roda. RSpec."
 category: backend
 tags: [roda-testing, backend, russian]
 models: [sonnet, opus]

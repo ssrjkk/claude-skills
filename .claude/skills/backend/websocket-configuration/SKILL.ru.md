@@ -1,6 +1,6 @@
 ---
 name: websocket-configuration
-description: Configuration for Websocket: configuration and setup
+description: "Configuration for Websocket: configuration and setup"
 category: backend
 tags: [websocket-configuration, backend, russian]
 models: [sonnet, opus]

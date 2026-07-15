@@ -1,6 +1,6 @@
 ---
 name: memcached-optimization
-description: Optimization with Memcached. performance tuning.
+description: "Optimization with Memcached. performance tuning."
 category: database
 tags: [memcached-optimization, database, russian]
 models: [sonnet, opus]

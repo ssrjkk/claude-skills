@@ -1,6 +1,6 @@
 ---
 name: wrk-distributed
-description: Distributed with wrk. distributed load.
+description: "Distributed with wrk. distributed load."
 category: qa
 tags: [wrk-distributed, qa, russian]
 models: [sonnet, opus]

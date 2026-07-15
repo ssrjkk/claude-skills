@@ -1,6 +1,6 @@
 ---
 name: bigquery-api
-description: API for Bigquery: API development and integration
+description: "API for Bigquery: API development and integration"
 category: data
 tags: [bigquery-api, data, russian]
 models: [sonnet, opus]

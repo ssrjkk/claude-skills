@@ -1,6 +1,6 @@
 ---
 name: semantic-ui-utilities
-description: Utilities with Semantic UI. utility classes.
+description: "Utilities with Semantic UI. utility classes."
 category: frontend
 tags: [semantic-ui-utilities, frontend, russian]
 models: [sonnet, opus]

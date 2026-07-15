@@ -1,6 +1,6 @@
 ---
 name: pico-typography
-description: Typography with Pico CSS. text styling.
+description: "Typography with Pico CSS. text styling."
 category: frontend
 tags: [pico-typography, frontend, russian]
 models: [sonnet, opus]

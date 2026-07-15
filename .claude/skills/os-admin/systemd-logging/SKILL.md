@@ -1,6 +1,6 @@
 ---
 name: systemd-logging
-description: Logging with systemd. logging.
+description: "Logging with systemd. logging."
 category: os-admin
 tags: [systemd, logging, os-admin, linux]
 models: [gpt-4, claude-3]

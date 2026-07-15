@@ -1,6 +1,6 @@
 ---
 name: rocket-deployment
-description: Deployment with Rocket. build.
+description: "Deployment with Rocket. build."
 category: backend
 tags: [rocket, deployment, backend, backend]
 models: [gpt-4, claude-3]

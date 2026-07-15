@@ -1,6 +1,6 @@
 ---
 name: pubsub-examples
-description: Examples for Pubsub: practical examples
+description: "Examples for Pubsub: practical examples"
 category: data
 tags: [pubsub-examples, data, russian]
 models: [sonnet, opus]

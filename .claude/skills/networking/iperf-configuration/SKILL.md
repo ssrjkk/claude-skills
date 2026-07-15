@@ -1,6 +1,6 @@
 ---
 name: iperf-configuration
-description: Config with iperf. advanced config.
+description: "Config with iperf. advanced config."
 category: networking
 tags: [iperf, configuration, networking, networking-tool]
 models: [gpt-4, claude-3]

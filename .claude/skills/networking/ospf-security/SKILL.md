@@ -1,6 +1,6 @@
 ---
 name: ospf-security
-description: Security with OSPF. hardening.
+description: "Security with OSPF. hardening."
 category: networking
 tags: [ospf, security, networking, networking]
 models: [gpt-4, claude-3]

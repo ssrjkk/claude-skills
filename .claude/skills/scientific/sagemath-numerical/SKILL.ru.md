@@ -1,6 +1,6 @@
 ---
 name: sagemath-numerical
-description: Numerical with SageMath. numerical methods.
+description: "Numerical with SageMath. numerical methods."
 category: scientific
 tags: [sagemath-numerical, scientific, russian]
 models: [sonnet, opus]

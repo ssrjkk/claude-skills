@@ -1,6 +1,6 @@
 ---
 name: remix-testing
-description: Testing for Remix: testing and validation
+description: "Testing for Remix: testing and validation"
 category: frontend
 tags: [remix, testing, frontend]
 models: [sonnet, opus]

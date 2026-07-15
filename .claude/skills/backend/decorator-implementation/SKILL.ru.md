@@ -1,6 +1,6 @@
 ---
 name: decorator-implementation
-description: Implementation with Decorator. practical implementation.
+description: "Implementation with Decorator. practical implementation."
 category: backend
 tags: [decorator-implementation, backend, russian]
 models: [sonnet, opus]

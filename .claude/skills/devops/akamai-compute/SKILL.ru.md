@@ -1,6 +1,6 @@
 ---
 name: akamai-compute
-description: Compute with Akamai. VM/compute.
+description: "Compute with Akamai. VM/compute."
 category: devops
 tags: [akamai-compute, devops, russian]
 models: [sonnet, opus]

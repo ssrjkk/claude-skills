@@ -1,6 +1,6 @@
 ---
 name: cardano-defi
-description: DeFi with Cardano. DeFi.
+description: "DeFi with Cardano. DeFi."
 category: blockchain
 tags: [cardano-defi, blockchain, russian]
 models: [sonnet, opus]

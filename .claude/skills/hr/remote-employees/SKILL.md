@@ -1,6 +1,6 @@
 ---
 name: remote-employees
-description: Employees with Remote.com. employee mgmt.
+description: "Employees with Remote.com. employee mgmt."
 category: hr
 tags: [remote, employees, hr, hr-tech]
 models: [gpt-4, claude-3]

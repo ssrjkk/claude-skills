@@ -1,6 +1,6 @@
 ---
 name: timescaledb-monitoring
-description: Monitoring with TimescaleDB. monitoring.
+description: "Monitoring with TimescaleDB. monitoring."
 category: database
 tags: [timescaledb-monitoring, database, russian]
 models: [sonnet, opus]

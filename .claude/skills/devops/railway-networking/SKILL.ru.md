@@ -1,6 +1,6 @@
 ---
 name: railway-networking
-description: Networking with Railway. VPC.
+description: "Networking with Railway. VPC."
 category: devops
 tags: [railway-networking, devops, russian]
 models: [sonnet, opus]

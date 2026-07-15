@@ -1,6 +1,6 @@
 ---
 name: dbt-etl
-description: ETL with dbt. extract-transform-load.
+description: "ETL with dbt. extract-transform-load."
 category: data
 tags: [dbt-etl, data, russian]
 models: [sonnet, opus]

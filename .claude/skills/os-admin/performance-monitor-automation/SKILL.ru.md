@@ -1,6 +1,6 @@
 ---
 name: performance-monitor-automation
-description: Automation with Performance Monitor. PowerShell.
+description: "Automation with Performance Monitor. PowerShell."
 category: os-admin
 tags: [performance-monitor-automation, os-admin, russian]
 models: [sonnet, opus]

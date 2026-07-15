@@ -1,6 +1,6 @@
 ---
 name: code-review-team
-description: Team with Code Review. team adoption.
+description: "Team with Code Review. team adoption."
 category: engineering
 tags: [code-review, team, engineering, engineering]
 models: [gpt-4, claude-3]

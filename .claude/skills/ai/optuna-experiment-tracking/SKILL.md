@@ -1,6 +1,6 @@
 ---
 name: optuna-experiment-tracking
-description: Experiment Tracking with Optuna. tracking experiments.
+description: "Experiment Tracking with Optuna. tracking experiments."
 category: ai
 tags: [optuna, experiment-tracking, ai, ml]
 models: [gpt-4, claude-3]

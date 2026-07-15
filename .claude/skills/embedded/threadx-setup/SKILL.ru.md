@@ -1,6 +1,6 @@
 ---
 name: threadx-setup
-description: Setup with ThreadX. setup.
+description: "Setup with ThreadX. setup."
 category: embedded
 tags: [threadx-setup, embedded, russian]
 models: [sonnet, opus]

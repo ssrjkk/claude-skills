@@ -1,6 +1,6 @@
 ---
 name: tempo-scraping
-description: Scraping with Tempo. target discovery.
+description: "Scraping with Tempo. target discovery."
 category: devops
 tags: [tempo-scraping, devops, russian]
 models: [sonnet, opus]

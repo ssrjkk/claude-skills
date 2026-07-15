@@ -1,6 +1,6 @@
 ---
 name: gke-secrets
-description: Secrets with Google GKE. secret management.
+description: "Secrets with Google GKE. secret management."
 category: devops
 tags: [gke-secrets, devops, russian]
 models: [sonnet, opus]

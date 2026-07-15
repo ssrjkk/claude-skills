@@ -1,6 +1,6 @@
 ---
 name: saleor-content
-description: Content with Saleor. content management.
+description: "Content with Saleor. content management."
 category: ecommerce
 tags: [saleor, content, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

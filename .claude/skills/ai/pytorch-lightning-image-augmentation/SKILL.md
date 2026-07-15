@@ -1,6 +1,6 @@
 ---
 name: pytorch-lightning-image-augmentation
-description: Image Augmentation with Pytorch Lightning. data augmentation.
+description: "Image Augmentation with Pytorch Lightning. data augmentation."
 category: ai
 tags: [pytorch-lightning, image-augmentation, ai, computer-vision]
 models: [gpt-4, claude-3]

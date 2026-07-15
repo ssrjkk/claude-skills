@@ -1,6 +1,6 @@
 ---
 name: sympy-simulation
-description: Simulation with SymPy. Monte Carlo.
+description: "Simulation with SymPy. Monte Carlo."
 category: scientific
 tags: [sympy, simulation, scientific, scientific-computing]
 models: [gpt-4, claude-3]

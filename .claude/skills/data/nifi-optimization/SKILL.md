@@ -1,6 +1,6 @@
 ---
 name: nifi-optimization
-description: Optimization with NiFi. performance.
+description: "Optimization with NiFi. performance."
 category: data
 tags: [nifi, optimization, data, data-engineering]
 models: [gpt-4, claude-3]

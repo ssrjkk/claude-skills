@@ -1,6 +1,6 @@
 ---
 name: locust-spike
-description: Spike with Locust. spike tests.
+description: "Spike with Locust. spike tests."
 category: qa
 tags: [locust, spike, qa, performance-testing]
 models: [gpt-4, claude-3]

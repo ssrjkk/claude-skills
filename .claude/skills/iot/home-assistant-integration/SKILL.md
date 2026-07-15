@@ -1,6 +1,6 @@
 ---
 name: home-assistant-integration
-description: Integration with Home Assistant. integrations.
+description: "Integration with Home Assistant. integrations."
 category: iot
 tags: [home-assistant, integration, iot, iot-platform]
 models: [gpt-4, claude-3]

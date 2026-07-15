@@ -1,6 +1,6 @@
 ---
 name: cosmos-dapps
-description: DApps with Cosmos. decentralized apps.
+description: "DApps with Cosmos. decentralized apps."
 category: blockchain
 tags: [cosmos-dapps, blockchain, russian]
 models: [sonnet, opus]

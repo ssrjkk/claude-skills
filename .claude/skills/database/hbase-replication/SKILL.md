@@ -1,6 +1,6 @@
 ---
 name: hbase-replication
-description: Replication with HBase. replication.
+description: "Replication with HBase. replication."
 category: database
 tags: [hbase, replication, database, nosql]
 models: [gpt-4, claude-3]

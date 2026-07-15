@@ -1,6 +1,6 @@
 ---
 name: gitlab-runner-fundamentals
-description: Fundamentals for Gitlab-Runner: core concepts
+description: "Fundamentals for Gitlab-Runner: core concepts"
 category: devops
 tags: [gitlab-runner-fundamentals, devops, russian]
 models: [sonnet, opus]

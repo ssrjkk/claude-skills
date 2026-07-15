@@ -1,6 +1,6 @@
 ---
 name: postgis-geocoding
-description: Geocoding with PostGIS. geocoding.
+description: "Geocoding with PostGIS. geocoding."
 category: geospatial
 tags: [postgis, geocoding, geospatial, gis]
 models: [gpt-4, claude-3]

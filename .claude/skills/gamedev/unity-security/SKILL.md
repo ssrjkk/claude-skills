@@ -1,6 +1,6 @@
 ---
 name: unity-security
-description: Security for Unity: security best practices
+description: "Security for Unity: security best practices"
 category: gamedev
 tags: [unity, security, gamedev]
 models: [sonnet, opus]

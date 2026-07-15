@@ -1,6 +1,6 @@
 ---
 name: opentelemetry
-description: Implements observability with OpenTelemetry for distributed tracing, metrics, and logs collection.
+description: "Implements observability with OpenTelemetry for distributed tracing, metrics, and logs collection."
 category: devops
 tags: [opentelemetry, observability, tracing, metrics, monitoring]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: fastly-serverless
-description: Serverless with Fastly. functions.
+description: "Serverless with Fastly. functions."
 category: devops
 tags: [fastly-serverless, devops, russian]
 models: [sonnet, opus]

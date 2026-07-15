@@ -1,6 +1,6 @@
 ---
 name: remote-setup
-description: Setup with Remote.com. setup.
+description: "Setup with Remote.com. setup."
 category: hr
 tags: [remote-setup, hr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: symfony-testing
-description: Testing with Symfony. PHPUnit.
+description: "Testing with Symfony. PHPUnit."
 category: backend
 tags: [symfony-testing, backend, russian]
 models: [sonnet, opus]

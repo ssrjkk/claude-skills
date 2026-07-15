@@ -1,6 +1,6 @@
 ---
 name: labs-integration
-description: Integration with LIS. system integration.
+description: "Integration with LIS. system integration."
 category: healthcare
 tags: [labs, integration, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

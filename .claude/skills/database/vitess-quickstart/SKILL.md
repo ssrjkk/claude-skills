@@ -1,6 +1,6 @@
 ---
 name: vitess-quickstart
-description: Quickstart for Vitess: quick start guide
+description: "Quickstart for Vitess: quick start guide"
 category: database
 tags: [vitess, quickstart, database]
 models: [sonnet, opus]

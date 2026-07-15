@@ -1,6 +1,6 @@
 ---
 name: dgraph-querying
-description: Querying with Dgraph. Cypher/Gremlin.
+description: "Querying with Dgraph. Cypher/Gremlin."
 category: database
 tags: [dgraph-querying, database, russian]
 models: [sonnet, opus]

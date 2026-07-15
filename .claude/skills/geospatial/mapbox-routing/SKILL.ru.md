@@ -1,6 +1,6 @@
 ---
 name: mapbox-routing
-description: Routing with Mapbox. routing.
+description: "Routing with Mapbox. routing."
 category: geospatial
 tags: [mapbox-routing, geospatial, russian]
 models: [sonnet, opus]

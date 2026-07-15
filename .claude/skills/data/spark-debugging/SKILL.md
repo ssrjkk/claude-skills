@@ -1,6 +1,6 @@
 ---
 name: spark-debugging
-description: Debugging for Spark: debugging and troubleshooting
+description: "Debugging for Spark: debugging and troubleshooting"
 category: data
 tags: [spark, debugging, data]
 models: [sonnet, opus]

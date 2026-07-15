@@ -1,6 +1,6 @@
 ---
 name: katalon-assertions
-description: Assertions with Katalon. assertions.
+description: "Assertions with Katalon. assertions."
 category: qa
 tags: [katalon-assertions, qa, russian]
 models: [sonnet, opus]

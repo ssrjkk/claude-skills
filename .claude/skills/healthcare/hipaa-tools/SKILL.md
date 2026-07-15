@@ -1,6 +1,6 @@
 ---
 name: hipaa-tools
-description: Tools with HIPAA. tools.
+description: "Tools with HIPAA. tools."
 category: healthcare
 tags: [hipaa, tools, healthcare, healthcare]
 models: [gpt-4, claude-3]

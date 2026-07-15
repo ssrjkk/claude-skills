@@ -1,6 +1,6 @@
 ---
 name: archimate-diagrams
-description: Diagrams with ArchiMate. diagramming.
+description: "Diagrams with ArchiMate. diagramming."
 category: engineering
 tags: [archimate, diagrams, engineering, modeling]
 models: [gpt-4, claude-3]

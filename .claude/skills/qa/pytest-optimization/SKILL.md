@@ -1,6 +1,6 @@
 ---
 name: pytest-optimization
-description: Optimization for Pytest: performance tuning and optimization
+description: "Optimization for Pytest: performance tuning and optimization"
 category: qa
 tags: [pytest, optimization, qa]
 models: [sonnet, opus]

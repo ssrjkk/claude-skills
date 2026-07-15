@@ -1,6 +1,6 @@
 ---
 name: sentence-transformers-lemmatization
-description: Lemmatization with Sentence Transformers. word lemmatization.
+description: "Lemmatization with Sentence Transformers. word lemmatization."
 category: ai
 tags: [sentence-transformers-lemmatization, ai, russian]
 models: [sonnet, opus]

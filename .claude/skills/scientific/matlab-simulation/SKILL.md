@@ -1,6 +1,6 @@
 ---
 name: matlab-simulation
-description: Simulation with MATLAB. Monte Carlo.
+description: "Simulation with MATLAB. Monte Carlo."
 category: scientific
 tags: [matlab, simulation, scientific, scientific-computing]
 models: [gpt-4, claude-3]

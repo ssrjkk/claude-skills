@@ -1,6 +1,6 @@
 ---
 name: sqlite-basics
-description: Basics for Sqlite: fundamentals and core concepts
+description: "Basics for Sqlite: fundamentals and core concepts"
 category: database
 tags: [sqlite-basics, database, russian]
 models: [sonnet, opus]

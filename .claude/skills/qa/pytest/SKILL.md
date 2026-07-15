@@ -1,6 +1,6 @@
 ---
 name: pytest
-description: Writes Python tests with pytest, including fixtures, parameterization, and plugins for coverage.
+description: "Writes Python tests with pytest, including fixtures, parameterization, and plugins for coverage."
 category: qa
 tags: [pytest, python, testing, fixtures, unit-test]
 models: [sonnet, opus]

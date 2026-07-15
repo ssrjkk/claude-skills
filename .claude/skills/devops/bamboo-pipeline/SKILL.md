@@ -1,6 +1,6 @@
 ---
 name: bamboo-pipeline
-description: Pipeline with Bamboo. pipeline creation.
+description: "Pipeline with Bamboo. pipeline creation."
 category: devops
 tags: [bamboo, pipeline, devops, ci-cd]
 models: [gpt-4, claude-3]

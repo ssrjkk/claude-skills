@@ -1,6 +1,6 @@
 ---
 name: oracle-indexing
-description: Indexing with Oracle. indexes.
+description: "Indexing with Oracle. indexes."
 category: database
 tags: [oracle, indexing, database, sql]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: eslint-setup
-description: Setup with ESLint. initial setup.
+description: "Setup with ESLint. initial setup."
 category: frontend
 tags: [eslint, setup, frontend, build-tool]
 models: [gpt-4, claude-3]

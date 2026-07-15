@@ -1,6 +1,6 @@
 ---
 name: iis-networking
-description: Networking with IIS. network.
+description: "Networking with IIS. network."
 category: os-admin
 tags: [iis, networking, os-admin, windows]
 models: [gpt-4, claude-3]

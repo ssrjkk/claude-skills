@@ -1,6 +1,6 @@
 ---
 name: crossplane-modules
-description: Modules with Crossplane. modules.
+description: "Modules with Crossplane. modules."
 category: devops
 tags: [crossplane, modules, devops, iac]
 models: [gpt-4, claude-3]

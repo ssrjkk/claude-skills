@@ -1,6 +1,6 @@
 ---
 name: buildah-compose
-description: Compose with Buildah. multi-container.
+description: "Compose with Buildah. multi-container."
 category: devops
 tags: [buildah, compose, devops, container]
 models: [gpt-4, claude-3]

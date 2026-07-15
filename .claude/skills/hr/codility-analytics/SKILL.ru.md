@@ -1,6 +1,6 @@
 ---
 name: codility-analytics
-description: Analytics with Codility. analytics.
+description: "Analytics with Codility. analytics."
 category: hr
 tags: [codility-analytics, hr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: yugabytedb-fundamentals
-description: Fundamentals for Yugabytedb: core concepts
+description: "Fundamentals for Yugabytedb: core concepts"
 category: database
 tags: [yugabytedb, fundamentals, database]
 models: [sonnet, opus]

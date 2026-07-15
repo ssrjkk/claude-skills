@@ -1,6 +1,6 @@
 ---
 name: neon-workflow
-description: Workflow for Neon: workflow optimization
+description: "Workflow for Neon: workflow optimization"
 category: database
 tags: [neon-workflow, database, russian]
 models: [sonnet, opus]

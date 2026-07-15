@@ -1,6 +1,6 @@
 ---
 name: babel-optimization
-description: Optimization with Babel. build optimization.
+description: "Optimization with Babel. build optimization."
 category: frontend
 tags: [babel-optimization, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: puppet-setup
-description: Setup with Puppet. installation.
+description: "Setup with Puppet. installation."
 category: devops
 tags: [puppet-setup, devops, russian]
 models: [sonnet, opus]

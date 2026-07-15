@@ -1,6 +1,6 @@
 ---
 name: azure-compute
-description: Compute with Azure. VM/compute.
+description: "Compute with Azure. VM/compute."
 category: devops
 tags: [azure, compute, devops, cloud]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: amplify-shader-guides
-description: Guides for Amplify-Shader: how-to guides
+description: "Guides for Amplify-Shader: how-to guides"
 category: gamedev
 tags: [amplify-shader-guides, gamedev, russian]
 models: [sonnet, opus]

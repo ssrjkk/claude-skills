@@ -1,6 +1,6 @@
 ---
 name: render-networking
-description: Networking with Render. VPC.
+description: "Networking with Render. VPC."
 category: devops
 tags: [render-networking, devops, russian]
 models: [sonnet, opus]

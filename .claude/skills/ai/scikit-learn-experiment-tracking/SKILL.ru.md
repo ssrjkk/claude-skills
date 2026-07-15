@@ -1,6 +1,6 @@
 ---
 name: scikit-learn-experiment-tracking
-description: Experiment Tracking with Scikit Learn. tracking experiments.
+description: "Experiment Tracking with Scikit Learn. tracking experiments."
 category: ai
 tags: [scikit-learn-experiment-tracking, ai, russian]
 models: [sonnet, opus]

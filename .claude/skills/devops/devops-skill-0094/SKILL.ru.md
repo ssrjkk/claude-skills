@@ -1,6 +1,6 @@
 ---
 name: devops-skill-0094
-description: Specialized skill #0094 for devops development
+description: "Specialized skill #0094 for devops development"
 category: devops
 tags: [skill-0094, devops, russian]
 models: [sonnet, opus]

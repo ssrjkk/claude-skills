@@ -1,6 +1,6 @@
 ---
 name: defold-animation
-description: Animation with Defold. animation.
+description: "Animation with Defold. animation."
 category: gamedev
 tags: [defold, animation, gamedev, game-engine]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: crystal-config
-description: Configuration with Crystal. config management.
+description: "Configuration with Crystal. config management."
 category: backend
 tags: [crystal, config, backend, backend]
 models: [gpt-4, claude-3]

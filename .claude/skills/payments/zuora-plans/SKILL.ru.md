@@ -1,6 +1,6 @@
 ---
 name: zuora-plans
-description: Plans with Zuora. plan creation.
+description: "Plans with Zuora. plan creation."
 category: payments
 tags: [zuora-plans, payments, russian]
 models: [sonnet, opus]

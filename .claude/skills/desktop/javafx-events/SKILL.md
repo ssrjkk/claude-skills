@@ -1,6 +1,6 @@
 ---
 name: javafx-events
-description: Events with JavaFX. event handling.
+description: "Events with JavaFX. event handling."
 category: desktop
 tags: [javafx, events, desktop, desktop]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: janusgraph-setup
-description: Setup with JanusGraph. installation.
+description: "Setup with JanusGraph. installation."
 category: database
 tags: [janusgraph, setup, database, graph-database]
 models: [gpt-4, claude-3]

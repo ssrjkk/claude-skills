@@ -1,6 +1,6 @@
 ---
 name: godot-security
-description: Security for Godot: security best practices
+description: "Security for Godot: security best practices"
 category: gamedev
 tags: [godot-security, gamedev, russian]
 models: [sonnet, opus]

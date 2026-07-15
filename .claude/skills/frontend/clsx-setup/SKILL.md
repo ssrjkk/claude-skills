@@ -1,6 +1,6 @@
 ---
 name: clsx-setup
-description: Setup for Clsx: setup guide
+description: "Setup for Clsx: setup guide"
 category: frontend
 tags: [clsx, setup, frontend]
 models: [sonnet, opus]

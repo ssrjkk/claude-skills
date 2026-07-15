@@ -1,6 +1,6 @@
 ---
 name: circleci-pipeline
-description: Pipeline with CircleCI. pipeline creation.
+description: "Pipeline with CircleCI. pipeline creation."
 category: devops
 tags: [circleci-pipeline, devops, russian]
 models: [sonnet, opus]

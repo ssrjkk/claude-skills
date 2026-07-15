@@ -1,6 +1,6 @@
 ---
 name: remix-middleware
-description: Middleware with Remix. request middleware.
+description: "Middleware with Remix. request middleware."
 category: frontend
 tags: [remix-middleware, frontend, russian]
 models: [sonnet, opus]

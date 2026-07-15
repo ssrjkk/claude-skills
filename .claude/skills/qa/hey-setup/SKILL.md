@@ -1,6 +1,6 @@
 ---
 name: hey-setup
-description: Setup with hey. installation.
+description: "Setup with hey. installation."
 category: qa
 tags: [hey, setup, qa, performance-testing]
 models: [gpt-4, claude-3]

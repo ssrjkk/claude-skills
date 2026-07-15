@@ -1,6 +1,6 @@
 ---
 name: ldap-tools
-description: Tools with LDAP. security tools.
+description: "Tools with LDAP. security tools."
 category: security
 tags: [ldap, tools, security, security]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: warp-middleware
-description: Middleware with Warp. request pipeline.
+description: "Middleware with Warp. request pipeline."
 category: backend
 tags: [warp, middleware, backend, backend]
 models: [gpt-4, claude-3]

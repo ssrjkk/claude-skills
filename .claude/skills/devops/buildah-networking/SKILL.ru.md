@@ -1,6 +1,6 @@
 ---
 name: buildah-networking
-description: Networking with Buildah. container networks.
+description: "Networking with Buildah. container networks."
 category: devops
 tags: [buildah-networking, devops, russian]
 models: [sonnet, opus]

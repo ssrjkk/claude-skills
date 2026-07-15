@@ -1,6 +1,6 @@
 ---
 name: paypal-webhooks
-description: Webhooks with PayPal. webhooks.
+description: "Webhooks with PayPal. webhooks."
 category: payments
 tags: [paypal-webhooks, payments, russian]
 models: [sonnet, opus]

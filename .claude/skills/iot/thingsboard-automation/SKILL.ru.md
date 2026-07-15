@@ -1,6 +1,6 @@
 ---
 name: thingsboard-automation
-description: Automation with ThingsBoard. automation.
+description: "Automation with ThingsBoard. automation."
 category: iot
 tags: [thingsboard-automation, iot, russian]
 models: [sonnet, opus]

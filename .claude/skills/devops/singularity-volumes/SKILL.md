@@ -1,6 +1,6 @@
 ---
 name: singularity-volumes
-description: Volumes with Singularity. data volumes.
+description: "Volumes with Singularity. data volumes."
 category: devops
 tags: [singularity, volumes, devops, container]
 models: [gpt-4, claude-3]

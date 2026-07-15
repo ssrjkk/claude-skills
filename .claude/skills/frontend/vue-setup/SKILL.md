@@ -1,6 +1,6 @@
 ---
 name: vue-setup
-description: Setup for Vue: installation and configuration
+description: "Setup for Vue: installation and configuration"
 category: frontend
 tags: [vue, setup, frontend]
 models: [sonnet, opus]

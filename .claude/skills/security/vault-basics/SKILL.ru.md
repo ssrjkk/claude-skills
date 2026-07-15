@@ -1,6 +1,6 @@
 ---
 name: vault-basics
-description: Basics for Vault: fundamentals and core concepts
+description: "Basics for Vault: fundamentals and core concepts"
 category: security
 tags: [vault-basics, security, russian]
 models: [sonnet, opus]

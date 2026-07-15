@@ -1,6 +1,6 @@
 ---
 name: pgvector-production
-description: Production for Pgvector: production deployment
+description: "Production for Pgvector: production deployment"
 category: ai
 tags: [pgvector-production, ai, russian]
 models: [sonnet, opus]

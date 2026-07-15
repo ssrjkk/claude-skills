@@ -1,6 +1,6 @@
 ---
 name: nim-web-framework
-description: Web Framework with Nim. web dev.
+description: "Web Framework with Nim. web dev."
 category: backend
 tags: [nim, web-framework, backend, backend]
 models: [gpt-4, claude-3]

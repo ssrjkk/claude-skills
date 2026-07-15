@@ -1,6 +1,6 @@
 ---
 name: nginx-cache-monitoring
-description: Monitoring with Nginx Cache. monitoring.
+description: "Monitoring with Nginx Cache. monitoring."
 category: database
 tags: [nginx-cache, monitoring, database, caching]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: postgresql-debugging
-description: Debugging for Postgresql: debugging and troubleshooting
+description: "Debugging for Postgresql: debugging and troubleshooting"
 category: database
 tags: [postgresql, debugging, database]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: oxlint-optimization
-description: Optimization with Oxlint. build optimization.
+description: "Optimization with Oxlint. build optimization."
 category: frontend
 tags: [oxlint-optimization, frontend, russian]
 models: [sonnet, opus]

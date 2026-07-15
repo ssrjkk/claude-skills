@@ -1,6 +1,6 @@
 ---
 name: esbuild-hmr
-description: HMR with esbuild. hot reload.
+description: "HMR with esbuild. hot reload."
 category: frontend
 tags: [esbuild-hmr, frontend, russian]
 models: [sonnet, opus]

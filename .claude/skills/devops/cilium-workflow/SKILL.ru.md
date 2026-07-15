@@ -1,6 +1,6 @@
 ---
 name: cilium-workflow
-description: Workflow for Cilium: workflow optimization
+description: "Workflow for Cilium: workflow optimization"
 category: devops
 tags: [cilium-workflow, devops, russian]
 models: [sonnet, opus]

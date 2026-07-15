@@ -1,6 +1,6 @@
 ---
 name: apache-spark-batch
-description: Batch with Apache Spark. batch processing.
+description: "Batch with Apache Spark. batch processing."
 category: data
 tags: [apache-spark, batch, data, data-engineering]
 models: [gpt-4, claude-3]

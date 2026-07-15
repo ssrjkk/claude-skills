@@ -1,6 +1,6 @@
 ---
 name: tls-tools
-description: Tools with TLS/SSL. security tools.
+description: "Tools with TLS/SSL. security tools."
 category: security
 tags: [tls-tools, security, russian]
 models: [sonnet, opus]

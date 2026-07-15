@@ -1,6 +1,6 @@
 ---
 name: influxdb-visualization
-description: Visualization with InfluxDB. charting.
+description: "Visualization with InfluxDB. charting."
 category: database
 tags: [influxdb, visualization, database, time-series]
 models: [gpt-4, claude-3]

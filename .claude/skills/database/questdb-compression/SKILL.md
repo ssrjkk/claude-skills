@@ -1,6 +1,6 @@
 ---
 name: questdb-compression
-description: Compression with QuestDB. compression.
+description: "Compression with QuestDB. compression."
 category: database
 tags: [questdb, compression, database, time-series]
 models: [gpt-4, claude-3]

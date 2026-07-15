@@ -1,6 +1,6 @@
 ---
 name: persona-basics
-description: Basics with Personas. fundamentals.
+description: "Basics with Personas. fundamentals."
 category: design
 tags: [persona, basics, design, ux-research]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: polkadot-nft
-description: NFT with Polkadot. tokens.
+description: "NFT with Polkadot. tokens."
 category: blockchain
 tags: [polkadot, nft, blockchain, blockchain]
 models: [gpt-4, claude-3]

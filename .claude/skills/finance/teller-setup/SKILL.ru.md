@@ -1,6 +1,6 @@
 ---
 name: teller-setup
-description: Setup with Teller. account setup.
+description: "Setup with Teller. account setup."
 category: finance
 tags: [teller-setup, finance, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: hadoop-batch
-description: Batch with Hadoop. batch processing.
+description: "Batch with Hadoop. batch processing."
 category: data
 tags: [hadoop-batch, data, russian]
 models: [sonnet, opus]

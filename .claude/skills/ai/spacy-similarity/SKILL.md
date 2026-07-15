@@ -1,6 +1,6 @@
 ---
 name: spacy-similarity
-description: Similarity with Spacy. text similarity.
+description: "Similarity with Spacy. text similarity."
 category: ai
 tags: [spacy, similarity, ai, nlp]
 models: [gpt-4, claude-3]

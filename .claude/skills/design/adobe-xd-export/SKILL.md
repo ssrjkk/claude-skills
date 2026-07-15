@@ -1,6 +1,6 @@
 ---
 name: adobe-xd-export
-description: Export with Adobe XD. assets.
+description: "Export with Adobe XD. assets."
 category: design
 tags: [adobe-xd, export, design, design]
 models: [gpt-4, claude-3]

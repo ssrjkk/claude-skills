@@ -1,6 +1,6 @@
 ---
 name: owasp-implementation
-description: Implementation with OWASP. implementation.
+description: "Implementation with OWASP. implementation."
 category: security
 tags: [owasp, implementation, security, security]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: kotlin-orm
-description: ORM with Kotlin. database access.
+description: "ORM with Kotlin. database access."
 category: backend
 tags: [kotlin, orm, backend, backend]
 models: [gpt-4, claude-3]

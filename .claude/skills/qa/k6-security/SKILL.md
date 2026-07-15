@@ -1,6 +1,6 @@
 ---
 name: k6-security
-description: Security for K6: security best practices
+description: "Security for K6: security best practices"
 category: qa
 tags: [k6, security, qa]
 models: [sonnet, opus]

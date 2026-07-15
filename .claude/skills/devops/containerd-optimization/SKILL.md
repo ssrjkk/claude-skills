@@ -1,6 +1,6 @@
 ---
 name: containerd-optimization
-description: Optimization with containerd. image optimization.
+description: "Optimization with containerd. image optimization."
 category: devops
 tags: [containerd, optimization, devops, container]
 models: [gpt-4, claude-3]

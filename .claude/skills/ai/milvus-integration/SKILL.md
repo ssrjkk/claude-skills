@@ -1,6 +1,6 @@
 ---
 name: milvus-integration
-description: Integration for Milvus: integration with other tools
+description: "Integration for Milvus: integration with other tools"
 category: ai
 tags: [milvus, integration, ai]
 models: [sonnet, opus]

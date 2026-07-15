@@ -1,6 +1,6 @@
 ---
 name: valtio-middleware
-description: Middleware with Valtio. side effects.
+description: "Middleware with Valtio. side effects."
 category: frontend
 tags: [valtio, middleware, frontend, state-management]
 models: [gpt-4, claude-3]

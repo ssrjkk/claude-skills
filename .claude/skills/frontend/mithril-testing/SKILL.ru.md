@@ -1,6 +1,6 @@
 ---
 name: mithril-testing
-description: Testing with Mithril. component testing.
+description: "Testing with Mithril. component testing."
 category: frontend
 tags: [mithril-testing, frontend, russian]
 models: [sonnet, opus]

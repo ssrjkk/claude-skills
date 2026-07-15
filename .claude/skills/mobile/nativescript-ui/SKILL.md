@@ -1,6 +1,6 @@
 ---
 name: nativescript-ui
-description: UI with NativeScript. UI components.
+description: "UI with NativeScript. UI components."
 category: mobile
 tags: [nativescript, ui, mobile, mobile]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: thingsboard-integration
-description: Integration with ThingsBoard. integrations.
+description: "Integration with ThingsBoard. integrations."
 category: iot
 tags: [thingsboard-integration, iot, russian]
 models: [sonnet, opus]

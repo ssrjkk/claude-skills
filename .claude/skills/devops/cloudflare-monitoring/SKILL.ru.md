@@ -1,6 +1,6 @@
 ---
 name: cloudflare-monitoring
-description: Monitoring with Cloudflare. monitoring.
+description: "Monitoring with Cloudflare. monitoring."
 category: devops
 tags: [cloudflare-monitoring, devops, russian]
 models: [sonnet, opus]

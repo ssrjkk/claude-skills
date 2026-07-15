@@ -1,6 +1,6 @@
 ---
 name: thanos-logging
-description: Logging with Thanos. log collection.
+description: "Logging with Thanos. log collection."
 category: devops
 tags: [thanos, logging, devops, monitoring]
 models: [gpt-4, claude-3]

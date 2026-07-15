@@ -1,6 +1,6 @@
 ---
 name: varnish-pub-sub
-description: Pub/Sub with Varnish. publish/subscribe.
+description: "Pub/Sub with Varnish. publish/subscribe."
 category: database
 tags: [varnish-pub-sub, database, russian]
 models: [sonnet, opus]

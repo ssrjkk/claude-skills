@@ -1,6 +1,6 @@
 ---
 name: gdpr-incident-response
-description: Incident Response with GDPR. incident response.
+description: "Incident Response with GDPR. incident response."
 category: security
 tags: [gdpr, incident-response, security, security]
 models: [gpt-4, claude-3]

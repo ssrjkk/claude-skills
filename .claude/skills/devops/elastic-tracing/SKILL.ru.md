@@ -1,6 +1,6 @@
 ---
 name: elastic-tracing
-description: Tracing with Elastic Stack. distributed tracing.
+description: "Tracing with Elastic Stack. distributed tracing."
 category: devops
 tags: [elastic-tracing, devops, russian]
 models: [sonnet, opus]

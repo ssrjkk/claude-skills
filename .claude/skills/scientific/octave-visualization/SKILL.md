@@ -1,6 +1,6 @@
 ---
 name: octave-visualization
-description: Visualization with GNU Octave. scientific plots.
+description: "Visualization with GNU Octave. scientific plots."
 category: scientific
 tags: [octave, visualization, scientific, scientific-computing]
 models: [gpt-4, claude-3]

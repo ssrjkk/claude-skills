@@ -1,6 +1,6 @@
 ---
 name: sveltekit-isr
-description: ISR with SvelteKit. incremental.
+description: "ISR with SvelteKit. incremental."
 category: frontend
 tags: [sveltekit, isr, frontend, meta-framework]
 models: [gpt-4, claude-3]

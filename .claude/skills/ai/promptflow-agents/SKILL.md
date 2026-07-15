@@ -1,6 +1,6 @@
 ---
 name: promptflow-agents
-description: Agents with Promptflow. building agents.
+description: "Agents with Promptflow. building agents."
 category: ai
 tags: [promptflow, agents, ai, llm]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: consul-configuration
-description: Configuration for Consul: configuration and setup
+description: "Configuration for Consul: configuration and setup"
 category: devops
 tags: [consul, configuration, devops]
 models: [sonnet, opus]

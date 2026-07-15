@@ -1,6 +1,6 @@
 ---
 name: falcon-websocket
-description: WebSocket with Falcon. real-time.
+description: "WebSocket with Falcon. real-time."
 category: backend
 tags: [falcon, websocket, backend, backend]
 models: [gpt-4, claude-3]

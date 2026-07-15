@@ -1,6 +1,6 @@
 ---
 name: defold-multiplayer
-description: Multiplayer with Defold. networking.
+description: "Multiplayer with Defold. networking."
 category: gamedev
 tags: [defold-multiplayer, gamedev, russian]
 models: [sonnet, opus]

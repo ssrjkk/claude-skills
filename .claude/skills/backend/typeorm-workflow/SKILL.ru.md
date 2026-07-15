@@ -1,6 +1,6 @@
 ---
 name: typeorm-workflow
-description: Workflow for Typeorm: workflow optimization
+description: "Workflow for Typeorm: workflow optimization"
 category: backend
 tags: [typeorm-workflow, backend, russian]
 models: [sonnet, opus]

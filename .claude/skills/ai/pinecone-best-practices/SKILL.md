@@ -1,6 +1,6 @@
 ---
 name: pinecone-best-practices
-description: Best Practices for Pinecone: best practices and patterns
+description: "Best Practices for Pinecone: best practices and patterns"
 category: ai
 tags: [pinecone, best-practices, ai]
 models: [sonnet, opus]

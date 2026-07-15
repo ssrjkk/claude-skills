@@ -1,6 +1,6 @@
 ---
 name: delta-lake-automation
-description: Automation for Delta-Lake: automation and scripting
+description: "Automation for Delta-Lake: automation and scripting"
 category: data
 tags: [delta-lake, automation, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: pulsar-sql
-description: SQL with Pulsar. SQL queries.
+description: "SQL with Pulsar. SQL queries."
 category: data
 tags: [pulsar-sql, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: azure-cosmosdb-guides
-description: Guides for Azure-Cosmosdb: how-to guides
+description: "Guides for Azure-Cosmosdb: how-to guides"
 category: cloud
 tags: [azure-cosmosdb, guides, cloud]
 models: [sonnet, opus]

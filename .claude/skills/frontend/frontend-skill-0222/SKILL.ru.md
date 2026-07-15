@@ -1,6 +1,6 @@
 ---
 name: frontend-skill-0222
-description: Specialized skill #0222 for frontend development
+description: "Specialized skill #0222 for frontend development"
 category: frontend
 tags: [skill-0222, frontend, russian]
 models: [sonnet, opus]

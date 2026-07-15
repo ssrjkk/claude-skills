@@ -1,6 +1,6 @@
 ---
 name: skill-0229
-description: Specialized skill #0229 for data development
+description: "Specialized skill #0229 for data development"
 category: data
 tags: [data, skill, 0229]
 models: [sonnet, opus]

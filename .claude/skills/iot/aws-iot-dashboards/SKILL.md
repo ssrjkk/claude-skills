@@ -1,6 +1,6 @@
 ---
 name: aws-iot-dashboards
-description: Dashboards with AWS IoT. dashboards.
+description: "Dashboards with AWS IoT. dashboards."
 category: iot
 tags: [aws-iot, dashboards, iot, iot-platform]
 models: [gpt-4, claude-3]

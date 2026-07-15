@@ -1,6 +1,6 @@
 ---
 name: tornado-templating
-description: Templating with Tornado. server templates.
+description: "Templating with Tornado. server templates."
 category: backend
 tags: [tornado-templating, backend, russian]
 models: [sonnet, opus]

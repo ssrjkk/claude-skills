@@ -1,6 +1,6 @@
 ---
 name: apache-flink-monitoring
-description: Monitoring with Apache Flink. monitoring.
+description: "Monitoring with Apache Flink. monitoring."
 category: data
 tags: [apache-flink-monitoring, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: singlestore-getting-started
-description: Getting Started for Singlestore: initial setup and first steps
+description: "Getting Started for Singlestore: initial setup and first steps"
 category: database
 tags: [singlestore-getting-started, database, russian]
 models: [sonnet, opus]

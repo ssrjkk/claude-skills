@@ -1,6 +1,6 @@
 ---
 name: grape-testing
-description: Testing with Grape. RSpec.
+description: "Testing with Grape. RSpec."
 category: backend
 tags: [grape-testing, backend, russian]
 models: [sonnet, opus]

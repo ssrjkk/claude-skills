@@ -1,6 +1,6 @@
 ---
 name: journey-mapping-reporting
-description: Reporting with Journey Mapping. reports.
+description: "Reporting with Journey Mapping. reports."
 category: design
 tags: [journey-mapping-reporting, design, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kepler-mapping
-description: Mapping with Kepler.gl. mapping.
+description: "Mapping with Kepler.gl. mapping."
 category: geospatial
 tags: [kepler, mapping, geospatial, gis]
 models: [gpt-4, claude-3]

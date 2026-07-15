@@ -1,6 +1,6 @@
 ---
 name: nightwatch-parallel
-description: Parallel with Nightwatch. parallel execution.
+description: "Parallel with Nightwatch. parallel execution."
 category: qa
 tags: [nightwatch, parallel, qa, e2e]
 models: [gpt-4, claude-3]

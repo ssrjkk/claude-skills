@@ -1,6 +1,6 @@
 ---
 name: sanic-websocket
-description: WebSocket with Sanic. real-time.
+description: "WebSocket with Sanic. real-time."
 category: backend
 tags: [sanic, websocket, backend, backend]
 models: [gpt-4, claude-3]

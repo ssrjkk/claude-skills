@@ -1,6 +1,6 @@
 ---
 name: mocha-api
-description: API for Mocha: API development and integration
+description: "API for Mocha: API development and integration"
 category: qa
 tags: [mocha, api, qa]
 models: [sonnet, opus]

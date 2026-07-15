@@ -1,6 +1,6 @@
 ---
 name: scrum-implementation
-description: Implementation with Scrum. adoption.
+description: "Implementation with Scrum. adoption."
 category: product
 tags: [scrum-implementation, product, russian]
 models: [sonnet, opus]

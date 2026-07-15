@@ -1,6 +1,6 @@
 ---
 name: thinkific-users
-description: Users with Thinkific. user management.
+description: "Users with Thinkific. user management."
 category: education
 tags: [thinkific-users, education, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: jax-training
-description: Training with Jax. training models.
+description: "Training with Jax. training models."
 category: ai
 tags: [jax, training, ai, deep-learning]
 models: [gpt-4, claude-3]

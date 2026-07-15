@@ -1,6 +1,6 @@
 ---
 name: clickhouse-monitoring
-description: Monitoring with ClickHouse. monitoring.
+description: "Monitoring with ClickHouse. monitoring."
 category: database
 tags: [clickhouse-monitoring, database, russian]
 models: [sonnet, opus]

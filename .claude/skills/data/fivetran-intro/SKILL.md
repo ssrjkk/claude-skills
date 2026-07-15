@@ -1,6 +1,6 @@
 ---
 name: fivetran-intro
-description: Intro for Fivetran: introduction
+description: "Intro for Fivetran: introduction"
 category: data
 tags: [fivetran, intro, data]
 models: [sonnet, opus]

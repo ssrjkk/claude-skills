@@ -1,6 +1,6 @@
 ---
 name: hackerrank-analytics
-description: Analytics with HackerRank. analytics.
+description: "Analytics with HackerRank. analytics."
 category: hr
 tags: [hackerrank-analytics, hr, russian]
 models: [sonnet, opus]

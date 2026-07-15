@@ -1,6 +1,6 @@
 ---
 name: postgresql-setup
-description: Setup with PostgreSQL. installation.
+description: "Setup with PostgreSQL. installation."
 category: database
 tags: [postgresql, setup, database, sql]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: green-thread-intro
-description: Intro for Green-Thread: introduction
+description: "Intro for Green-Thread: introduction"
 category: backend
 tags: [green-thread-intro, backend, russian]
 models: [sonnet, opus]

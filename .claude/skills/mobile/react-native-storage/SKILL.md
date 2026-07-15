@@ -1,6 +1,6 @@
 ---
 name: react-native-storage
-description: Storage with React Native. local storage.
+description: "Storage with React Native. local storage."
 category: mobile
 tags: [react-native, storage, mobile, mobile]
 models: [gpt-4, claude-3]

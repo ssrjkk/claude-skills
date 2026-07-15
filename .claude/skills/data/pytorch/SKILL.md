@@ -1,6 +1,6 @@
 ---
 name: pytorch
-description: Builds and trains deep learning models with PyTorch, including tensors, autograd, and neural network modules.
+description: "Builds and trains deep learning models with PyTorch, including tensors, autograd, and neural network modules."
 category: data
 tags: [pytorch, deep-learning, neural-networks, tensor, gpu]
 models: [sonnet, opus]

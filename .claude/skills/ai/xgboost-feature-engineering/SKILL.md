@@ -1,6 +1,6 @@
 ---
 name: xgboost-feature-engineering
-description: Feature Engineering with Xgboost. creating features.
+description: "Feature Engineering with Xgboost. creating features."
 category: ai
 tags: [xgboost, feature-engineering, ai, ml]
 models: [gpt-4, claude-3]

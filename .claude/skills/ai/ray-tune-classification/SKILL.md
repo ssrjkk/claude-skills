@@ -1,6 +1,6 @@
 ---
 name: ray-tune-classification
-description: Classification with Ray Tune. building classifiers.
+description: "Classification with Ray Tune. building classifiers."
 category: ai
 tags: [ray-tune, classification, ai, ml]
 models: [gpt-4, claude-3]

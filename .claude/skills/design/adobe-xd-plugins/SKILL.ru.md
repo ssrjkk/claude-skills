@@ -1,6 +1,6 @@
 ---
 name: adobe-xd-plugins
-description: Plugins with Adobe XD. plugins.
+description: "Plugins with Adobe XD. plugins."
 category: design
 tags: [adobe-xd-plugins, design, russian]
 models: [sonnet, opus]

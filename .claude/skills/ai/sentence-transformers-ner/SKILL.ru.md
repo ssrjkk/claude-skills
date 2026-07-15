@@ -1,6 +1,6 @@
 ---
 name: sentence-transformers-ner
-description: NER with Sentence Transformers. named entity recognition.
+description: "NER with Sentence Transformers. named entity recognition."
 category: ai
 tags: [sentence-transformers-ner, ai, russian]
 models: [sonnet, opus]

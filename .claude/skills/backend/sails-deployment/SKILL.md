@@ -1,6 +1,6 @@
 ---
 name: sails-deployment
-description: Deployment with Sails.js. deploy.
+description: "Deployment with Sails.js. deploy."
 category: backend
 tags: [sails, deployment, backend, backend]
 models: [gpt-4, claude-3]

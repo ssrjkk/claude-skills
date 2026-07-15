@@ -1,6 +1,6 @@
 ---
 name: demand-response-analytics
-description: Analytics with Demand Response. analytics.
+description: "Analytics with Demand Response. analytics."
 category: energy
 tags: [demand-response, analytics, energy, smart-grid]
 models: [gpt-4, claude-3]

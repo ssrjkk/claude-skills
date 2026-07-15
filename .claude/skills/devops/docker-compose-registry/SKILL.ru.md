@@ -1,6 +1,6 @@
 ---
 name: docker-compose-registry
-description: Registry with Docker Compose. image registry.
+description: "Registry with Docker Compose. image registry."
 category: devops
 tags: [docker-compose-registry, devops, russian]
 models: [sonnet, opus]

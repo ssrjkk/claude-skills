@@ -1,6 +1,6 @@
 ---
 name: haystack-embeddings
-description: Embeddings with Haystack. text embeddings.
+description: "Embeddings with Haystack. text embeddings."
 category: ai
 tags: [haystack, embeddings, ai, llm]
 models: [gpt-4, claude-3]

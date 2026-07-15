@@ -1,6 +1,6 @@
 ---
 name: vlan-troubleshooting
-description: Troubleshooting with VLAN. diagnostics.
+description: "Troubleshooting with VLAN. diagnostics."
 category: networking
 tags: [vlan, troubleshooting, networking, networking]
 models: [gpt-4, claude-3]

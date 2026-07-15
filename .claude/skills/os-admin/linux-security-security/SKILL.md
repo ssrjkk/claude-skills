@@ -1,6 +1,6 @@
 ---
 name: linux-security-security
-description: Security with Linux Security. hardening.
+description: "Security with Linux Security. hardening."
 category: os-admin
 tags: [linux-security, security, os-admin, linux]
 models: [gpt-4, claude-3]

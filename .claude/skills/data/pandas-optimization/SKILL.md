@@ -1,6 +1,6 @@
 ---
 name: pandas-optimization
-description: Optimization for Pandas: performance tuning and optimization
+description: "Optimization for Pandas: performance tuning and optimization"
 category: data
 tags: [pandas, optimization, data]
 models: [sonnet, opus]

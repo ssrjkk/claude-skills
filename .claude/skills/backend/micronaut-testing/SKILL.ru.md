@@ -1,6 +1,6 @@
 ---
 name: micronaut-testing
-description: Testing with Micronaut. unit tests.
+description: "Testing with Micronaut. unit tests."
 category: backend
 tags: [micronaut-testing, backend, russian]
 models: [sonnet, opus]

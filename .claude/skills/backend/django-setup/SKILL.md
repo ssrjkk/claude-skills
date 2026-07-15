@@ -1,6 +1,6 @@
 ---
 name: django-setup
-description: Setup for Django: installation and configuration
+description: "Setup for Django: installation and configuration"
 category: backend
 tags: [django, setup, backend]
 models: [sonnet, opus]

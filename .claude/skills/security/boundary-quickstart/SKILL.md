@@ -1,6 +1,6 @@
 ---
 name: boundary-quickstart
-description: Quickstart for Boundary: quick start guide
+description: "Quickstart for Boundary: quick start guide"
 category: security
 tags: [boundary, quickstart, security]
 models: [sonnet, opus]

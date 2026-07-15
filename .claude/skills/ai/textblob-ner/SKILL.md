@@ -1,6 +1,6 @@
 ---
 name: textblob-ner
-description: NER with Textblob. named entity recognition.
+description: "NER with Textblob. named entity recognition."
 category: ai
 tags: [textblob, ner, ai, nlp]
 models: [gpt-4, claude-3]

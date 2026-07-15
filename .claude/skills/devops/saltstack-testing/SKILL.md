@@ -1,6 +1,6 @@
 ---
 name: saltstack-testing
-description: Testing with SaltStack. infra testing.
+description: "Testing with SaltStack. infra testing."
 category: devops
 tags: [saltstack, testing, devops, iac]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: google-iot-dashboards
-description: Dashboards with Google IoT. dashboards.
+description: "Dashboards with Google IoT. dashboards."
 category: iot
 tags: [google-iot-dashboards, iot, russian]
 models: [sonnet, opus]

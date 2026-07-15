@@ -1,6 +1,6 @@
 ---
 name: pubnub-setup
-description: Setup with PubNub. account setup.
+description: "Setup with PubNub. account setup."
 category: communications
 tags: [pubnub, setup, communications, communication-platform]
 models: [gpt-4, claude-3]

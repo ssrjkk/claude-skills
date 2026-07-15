@@ -1,6 +1,6 @@
 ---
 name: esg-reporting
-description: Reporting with ESG. reporting.
+description: "Reporting with ESG. reporting."
 category: sustainability
 tags: [esg, reporting, sustainability, sustainability]
 models: [gpt-4, claude-3]

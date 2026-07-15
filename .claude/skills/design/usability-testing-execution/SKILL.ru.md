@@ -1,6 +1,6 @@
 ---
 name: usability-testing-execution
-description: Execution with Usability Testing. running sessions.
+description: "Execution with Usability Testing. running sessions."
 category: design
 tags: [usability-testing-execution, design, russian]
 models: [sonnet, opus]

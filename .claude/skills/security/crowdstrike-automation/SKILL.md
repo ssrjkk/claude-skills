@@ -1,6 +1,6 @@
 ---
 name: crowdstrike-automation
-description: Automation for Crowdstrike: automation and scripting
+description: "Automation for Crowdstrike: automation and scripting"
 category: security
 tags: [crowdstrike, automation, security]
 models: [sonnet, opus]

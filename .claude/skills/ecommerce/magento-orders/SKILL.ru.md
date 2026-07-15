@@ -1,6 +1,6 @@
 ---
 name: magento-orders
-description: Orders with Magento. order management.
+description: "Orders with Magento. order management."
 category: ecommerce
 tags: [magento-orders, ecommerce, russian]
 models: [sonnet, opus]

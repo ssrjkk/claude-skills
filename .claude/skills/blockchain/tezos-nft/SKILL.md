@@ -1,6 +1,6 @@
 ---
 name: tezos-nft
-description: NFT with Tezos. tokens.
+description: "NFT with Tezos. tokens."
 category: blockchain
 tags: [tezos, nft, blockchain, blockchain]
 models: [gpt-4, claude-3]

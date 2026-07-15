@@ -1,6 +1,6 @@
 ---
 name: loginradius-examples
-description: Examples for Loginradius: practical examples
+description: "Examples for Loginradius: practical examples"
 category: mobile
 tags: [loginradius, examples, mobile]
 models: [sonnet, opus]

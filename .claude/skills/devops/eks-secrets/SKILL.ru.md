@@ -1,6 +1,6 @@
 ---
 name: eks-secrets
-description: Secrets with Amazon EKS. secret management.
+description: "Secrets with Amazon EKS. secret management."
 category: devops
 tags: [eks-secrets, devops, russian]
 models: [sonnet, opus]

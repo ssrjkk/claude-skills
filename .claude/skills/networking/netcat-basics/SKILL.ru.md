@@ -1,6 +1,6 @@
 ---
 name: netcat-basics
-description: Basics with netcat. basic usage.
+description: "Basics with netcat. basic usage."
 category: networking
 tags: [netcat-basics, networking, russian]
 models: [sonnet, opus]

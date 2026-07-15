@@ -1,6 +1,6 @@
 ---
 name: mongodb-advanced
-description: Advanced for Mongodb: advanced patterns and techniques
+description: "Advanced for Mongodb: advanced patterns and techniques"
 category: database
 tags: [mongodb-advanced, database, russian]
 models: [sonnet, opus]

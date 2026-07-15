@@ -1,6 +1,6 @@
 ---
 name: amplify-auth-quickstart
-description: Quickstart for Amplify-Auth: quick start guide
+description: "Quickstart for Amplify-Auth: quick start guide"
 category: mobile
 tags: [amplify-auth-quickstart, mobile, russian]
 models: [sonnet, opus]

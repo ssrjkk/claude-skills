@@ -1,6 +1,6 @@
 ---
 name: actix-web-templating
-description: Templating with Actix Web. templates.
+description: "Templating with Actix Web. templates."
 category: backend
 tags: [actix-web-templating, backend, russian]
 models: [sonnet, opus]

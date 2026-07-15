@@ -1,6 +1,6 @@
 ---
 name: riot-performance
-description: Performance with Riot. optimization.
+description: "Performance with Riot. optimization."
 category: frontend
 tags: [riot-performance, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: hydra-automation
-description: Automation with Hydra. automation.
+description: "Automation with Hydra. automation."
 category: security
 tags: [hydra, automation, security, security-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: preact-forms
-description: Forms with Preact. form handling.
+description: "Forms with Preact. form handling."
 category: frontend
 tags: [preact, forms, frontend, frontend]
 models: [gpt-4, claude-3]

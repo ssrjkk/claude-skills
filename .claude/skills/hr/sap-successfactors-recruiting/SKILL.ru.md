@@ -1,6 +1,6 @@
 ---
 name: sap-successfactors-recruiting
-description: Recruiting with SAP SuccessFactors. ATS.
+description: "Recruiting with SAP SuccessFactors. ATS."
 category: hr
 tags: [sap-successfactors-recruiting, hr, russian]
 models: [sonnet, opus]

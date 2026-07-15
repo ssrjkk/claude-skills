@@ -1,6 +1,6 @@
 ---
 name: soc2-testing
-description: Testing with SOC 2. security testing.
+description: "Testing with SOC 2. security testing."
 category: security
 tags: [soc2, testing, security, security]
 models: [gpt-4, claude-3]

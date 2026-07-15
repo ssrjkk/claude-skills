@@ -1,6 +1,6 @@
 ---
 name: jwt-testing
-description: Testing for Jwt: testing and validation
+description: "Testing for Jwt: testing and validation"
 category: security
 tags: [jwt, testing, security]
 models: [sonnet, opus]

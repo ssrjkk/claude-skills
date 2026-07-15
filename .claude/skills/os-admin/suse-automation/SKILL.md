@@ -1,6 +1,6 @@
 ---
 name: suse-automation
-description: Automation with SUSE. scripting.
+description: "Automation with SUSE. scripting."
 category: os-admin
 tags: [suse, automation, os-admin, linux]
 models: [gpt-4, claude-3]

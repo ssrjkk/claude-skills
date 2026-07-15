@@ -1,6 +1,6 @@
 ---
 name: sveltekit-ssg
-description: SSG with SvelteKit. static generation.
+description: "SSG with SvelteKit. static generation."
 category: frontend
 tags: [sveltekit-ssg, frontend, russian]
 models: [sonnet, opus]

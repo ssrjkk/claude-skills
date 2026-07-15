@@ -1,6 +1,6 @@
 ---
 name: orientdb-indexing
-description: Indexing with OrientDB. indexes.
+description: "Indexing with OrientDB. indexes."
 category: database
 tags: [orientdb, indexing, database, graph-database]
 models: [gpt-4, claude-3]

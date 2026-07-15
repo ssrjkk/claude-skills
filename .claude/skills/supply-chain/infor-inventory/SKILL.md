@@ -1,6 +1,6 @@
 ---
 name: infor-inventory
-description: Inventory with Infor SCM. inventory mgmt.
+description: "Inventory with Infor SCM. inventory mgmt."
 category: supply-chain
 tags: [infor, inventory, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

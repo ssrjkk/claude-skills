@@ -1,6 +1,6 @@
 ---
 name: synctera-security
-description: Security with Synctera. security.
+description: "Security with Synctera. security."
 category: finance
 tags: [synctera-security, finance, russian]
 models: [sonnet, opus]

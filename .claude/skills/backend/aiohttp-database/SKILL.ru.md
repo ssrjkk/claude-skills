@@ -1,6 +1,6 @@
 ---
 name: aiohttp-database
-description: Database with aiohttp. DB access.
+description: "Database with aiohttp. DB access."
 category: backend
 tags: [aiohttp-database, backend, russian]
 models: [sonnet, opus]

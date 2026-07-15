@@ -1,6 +1,6 @@
 ---
 name: azure-iot-setup
-description: Setup with Azure IoT. setup.
+description: "Setup with Azure IoT. setup."
 category: iot
 tags: [azure-iot-setup, iot, russian]
 models: [sonnet, opus]

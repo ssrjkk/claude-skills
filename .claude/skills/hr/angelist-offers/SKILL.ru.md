@@ -1,6 +1,6 @@
 ---
 name: angelist-offers
-description: Offers with AngelList/Wellfound. offer mgmt.
+description: "Offers with AngelList/Wellfound. offer mgmt."
 category: hr
 tags: [angelist-offers, hr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: remix-api-routes
-description: API Routes with Remix. API endpoints.
+description: "API Routes with Remix. API endpoints."
 category: frontend
 tags: [remix, api-routes, frontend, meta-framework]
 models: [gpt-4, claude-3]

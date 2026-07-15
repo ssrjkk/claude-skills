@@ -1,6 +1,6 @@
 ---
 name: kafka-security
-description: Security for Kafka: security best practices
+description: "Security for Kafka: security best practices"
 category: data
 tags: [kafka, security, data]
 models: [sonnet, opus]

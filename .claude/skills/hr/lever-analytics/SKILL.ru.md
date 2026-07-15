@@ -1,6 +1,6 @@
 ---
 name: lever-analytics
-description: Analytics with Lever. analytics.
+description: "Analytics with Lever. analytics."
 category: hr
 tags: [lever-analytics, hr, russian]
 models: [sonnet, opus]

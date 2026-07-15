@@ -1,6 +1,6 @@
 ---
 name: telegram-bot-integration
-description: Integration with Telegram Bot. integration.
+description: "Integration with Telegram Bot. integration."
 category: communications
 tags: [telegram-bot-integration, communications, russian]
 models: [sonnet, opus]

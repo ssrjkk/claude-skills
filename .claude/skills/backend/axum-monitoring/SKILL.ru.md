@@ -1,6 +1,6 @@
 ---
 name: axum-monitoring
-description: Monitoring for Axum: monitoring and observability
+description: "Monitoring for Axum: monitoring and observability"
 category: backend
 tags: [axum-monitoring, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: azure-networking
-description: Networking with Azure. VPC.
+description: "Networking with Azure. VPC."
 category: devops
 tags: [azure-networking, devops, russian]
 models: [sonnet, opus]

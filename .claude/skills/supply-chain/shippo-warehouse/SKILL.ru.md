@@ -1,6 +1,6 @@
 ---
 name: shippo-warehouse
-description: Warehouse with Shippo. warehouse ops.
+description: "Warehouse with Shippo. warehouse ops."
 category: supply-chain
 tags: [shippo-warehouse, supply-chain, russian]
 models: [sonnet, opus]

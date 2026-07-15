@@ -1,6 +1,6 @@
 ---
 name: dns-configuration
-description: Config with DNS. setup.
+description: "Config with DNS. setup."
 category: networking
 tags: [dns-configuration, networking, russian]
 models: [sonnet, opus]

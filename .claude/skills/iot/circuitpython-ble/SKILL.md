@@ -1,6 +1,6 @@
 ---
 name: circuitpython-ble
-description: BLE with CircuitPython. Bluetooth.
+description: "BLE with CircuitPython. Bluetooth."
 category: iot
 tags: [circuitpython, ble, iot, iot]
 models: [gpt-4, claude-3]

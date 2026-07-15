@@ -1,6 +1,6 @@
 ---
 name: figma-design-system
-description: Design Systems with Figma. tokens.
+description: "Design Systems with Figma. tokens."
 category: design
 tags: [figma, design-system, design, design]
 models: [gpt-4, claude-3]

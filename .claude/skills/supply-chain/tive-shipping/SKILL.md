@@ -1,6 +1,6 @@
 ---
 name: tive-shipping
-description: Shipping with Tive. shipping.
+description: "Shipping with Tive. shipping."
 category: supply-chain
 tags: [tive, shipping, supply-chain, logistics]
 models: [gpt-4, claude-3]

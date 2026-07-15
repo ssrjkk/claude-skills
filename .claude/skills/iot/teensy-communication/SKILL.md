@@ -1,6 +1,6 @@
 ---
 name: teensy-communication
-description: Comm with Teensy. I2C.
+description: "Comm with Teensy. I2C."
 category: iot
 tags: [teensy, communication, iot, iot]
 models: [gpt-4, claude-3]

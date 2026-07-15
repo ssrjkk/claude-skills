@@ -1,6 +1,6 @@
 ---
 name: arkit-rendering
-description: Rendering with ARKit. stereoscopic.
+description: "Rendering with ARKit. stereoscopic."
 category: ar-vr
 tags: [arkit-rendering, ar-vr, russian]
 models: [sonnet, opus]

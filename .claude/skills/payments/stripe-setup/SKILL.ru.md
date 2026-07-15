@@ -1,6 +1,6 @@
 ---
 name: stripe-setup
-description: Setup with Stripe. account setup.
+description: "Setup with Stripe. account setup."
 category: payments
 tags: [stripe-setup, payments, russian]
 models: [sonnet, opus]

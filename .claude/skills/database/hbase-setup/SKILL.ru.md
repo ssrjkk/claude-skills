@@ -1,6 +1,6 @@
 ---
 name: hbase-setup
-description: Setup with HBase. installation.
+description: "Setup with HBase. installation."
 category: database
 tags: [hbase-setup, database, russian]
 models: [sonnet, opus]

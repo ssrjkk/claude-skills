@@ -1,6 +1,6 @@
 ---
 name: tensorflow-visualization
-description: Visualization with Tensorflow. model viz.
+description: "Visualization with Tensorflow. model viz."
 category: ai
 tags: [tensorflow-visualization, ai, russian]
 models: [sonnet, opus]

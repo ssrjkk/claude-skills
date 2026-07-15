@@ -1,6 +1,6 @@
 ---
 name: langchain-chaining
-description: Chaining with Langchain. multi-step workflows.
+description: "Chaining with Langchain. multi-step workflows."
 category: ai
 tags: [langchain, chaining, ai, llm]
 models: [gpt-4, claude-3]

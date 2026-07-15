@@ -1,6 +1,6 @@
 ---
 name: openlayers-setup
-description: Setup with OpenLayers. setup.
+description: "Setup with OpenLayers. setup."
 category: geospatial
 tags: [openlayers, setup, geospatial, gis]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: node-red-dashboards
-description: Dashboards with Node-RED. dashboards.
+description: "Dashboards with Node-RED. dashboards."
 category: iot
 tags: [node-red-dashboards, iot, russian]
 models: [sonnet, opus]

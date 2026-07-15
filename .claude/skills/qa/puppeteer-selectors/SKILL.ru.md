@@ -1,6 +1,6 @@
 ---
 name: puppeteer-selectors
-description: Selectors with Puppeteer. element selectors.
+description: "Selectors with Puppeteer. element selectors."
 category: qa
 tags: [puppeteer-selectors, qa, russian]
 models: [sonnet, opus]

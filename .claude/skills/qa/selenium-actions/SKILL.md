@@ -1,6 +1,6 @@
 ---
 name: selenium-actions
-description: Actions with Selenium. user actions.
+description: "Actions with Selenium. user actions."
 category: qa
 tags: [selenium, actions, qa, e2e]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: flutter-testing
-description: Testing with Flutter. testing.
+description: "Testing with Flutter. testing."
 category: mobile
 tags: [flutter-testing, mobile, russian]
 models: [sonnet, opus]

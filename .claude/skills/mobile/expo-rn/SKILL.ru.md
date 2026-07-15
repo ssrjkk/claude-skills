@@ -1,6 +1,6 @@
 ---
 name: expo-rn
-description: Expo SDK for React Native development
+description: "Expo SDK for React Native development"
 category: mobile
 tags: [expo-rn, mobile, russian]
 models: [sonnet, opus]

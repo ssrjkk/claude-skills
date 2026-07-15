@@ -1,6 +1,6 @@
 ---
 name: interviewing-interviewing
-description: Interviewing with Technical Interviewing. interviews.
+description: "Interviewing with Technical Interviewing. interviews."
 category: hr
 tags: [interviewing, interviewing, hr, recruiting]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: drizzle-workflow
-description: Workflow for Drizzle: workflow optimization
+description: "Workflow for Drizzle: workflow optimization"
 category: backend
 tags: [drizzle, workflow, backend]
 models: [sonnet, opus]

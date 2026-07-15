@@ -1,6 +1,6 @@
 ---
 name: dhcp-configuration
-description: Config with DHCP. setup.
+description: "Config with DHCP. setup."
 category: networking
 tags: [dhcp-configuration, networking, russian]
 models: [sonnet, opus]

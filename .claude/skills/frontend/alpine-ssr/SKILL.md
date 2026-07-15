@@ -1,6 +1,6 @@
 ---
 name: alpine-ssr
-description: SSR with Alpine. server rendering.
+description: "SSR with Alpine. server rendering."
 category: frontend
 tags: [alpine, ssr, frontend, frontend]
 models: [gpt-4, claude-3]

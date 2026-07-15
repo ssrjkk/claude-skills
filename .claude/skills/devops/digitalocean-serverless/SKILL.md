@@ -1,6 +1,6 @@
 ---
 name: digitalocean-serverless
-description: Serverless with DigitalOcean. functions.
+description: "Serverless with DigitalOcean. functions."
 category: devops
 tags: [digitalocean, serverless, devops, cloud]
 models: [gpt-4, claude-3]

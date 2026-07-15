@@ -1,6 +1,6 @@
 ---
 name: clickhouse
-description: Analyzes large datasets with ClickHouse, column-oriented DBMS for real-time analytical queries.
+description: "Analyzes large datasets with ClickHouse, column-oriented DBMS for real-time analytical queries."
 category: database
 tags: [clickhouse, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: akita-persistence
-description: Persistence with Akita. state persistence.
+description: "Persistence with Akita. state persistence."
 category: frontend
 tags: [akita, persistence, frontend, state-management]
 models: [gpt-4, claude-3]

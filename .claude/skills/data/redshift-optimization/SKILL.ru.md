@@ -1,6 +1,6 @@
 ---
 name: redshift-optimization
-description: Optimization for Redshift: performance tuning and optimization
+description: "Optimization for Redshift: performance tuning and optimization"
 category: data
 tags: [redshift-optimization, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: jda-planning
-description: Planning with JDA/Blue Yonder. demand planning.
+description: "Planning with JDA/Blue Yonder. demand planning."
 category: supply-chain
 tags: [jda, planning, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

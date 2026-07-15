@@ -1,6 +1,6 @@
 ---
 name: moodle-integration
-description: Integration with Moodle. LTI.
+description: "Integration with Moodle. LTI."
 category: education
 tags: [moodle, integration, education, education-platform]
 models: [gpt-4, claude-3]

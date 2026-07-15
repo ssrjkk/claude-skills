@@ -1,6 +1,6 @@
 ---
 name: bulma-typography
-description: Typography with Bulma. text styling.
+description: "Typography with Bulma. text styling."
 category: frontend
 tags: [bulma, typography, frontend, css]
 models: [gpt-4, claude-3]

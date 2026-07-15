@@ -1,6 +1,6 @@
 ---
 name: archimate-basics
-description: Basics with ArchiMate. fundamentals.
+description: "Basics with ArchiMate. fundamentals."
 category: engineering
 tags: [archimate, basics, engineering, modeling]
 models: [gpt-4, claude-3]

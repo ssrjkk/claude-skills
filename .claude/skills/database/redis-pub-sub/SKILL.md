@@ -1,6 +1,6 @@
 ---
 name: redis-pub-sub
-description: Pub/Sub with Redis. publish/subscribe.
+description: "Pub/Sub with Redis. publish/subscribe."
 category: database
 tags: [redis, pub-sub, database, caching]
 models: [gpt-4, claude-3]

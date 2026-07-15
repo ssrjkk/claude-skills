@@ -1,6 +1,6 @@
 ---
 name: jwt-debugging
-description: Debugging for Jwt: debugging and troubleshooting
+description: "Debugging for Jwt: debugging and troubleshooting"
 category: security
 tags: [jwt-debugging, security, russian]
 models: [sonnet, opus]

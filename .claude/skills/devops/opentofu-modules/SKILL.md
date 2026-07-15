@@ -1,6 +1,6 @@
 ---
 name: opentofu-modules
-description: Modules with OpenTofu. modules.
+description: "Modules with OpenTofu. modules."
 category: devops
 tags: [opentofu, modules, devops, iac]
 models: [gpt-4, claude-3]

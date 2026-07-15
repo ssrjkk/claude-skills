@@ -1,6 +1,6 @@
 ---
 name: magento-shipping
-description: Shipping with Magento. shipping.
+description: "Shipping with Magento. shipping."
 category: ecommerce
 tags: [magento, shipping, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

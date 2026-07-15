@@ -1,6 +1,6 @@
 ---
 name: pganalyze-quickstart
-description: Quickstart for Pganalyze: quick start guide
+description: "Quickstart for Pganalyze: quick start guide"
 category: database
 tags: [pganalyze, quickstart, database]
 models: [sonnet, opus]

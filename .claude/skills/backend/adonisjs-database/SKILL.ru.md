@@ -1,6 +1,6 @@
 ---
 name: adonisjs-database
-description: Database with AdonisJS. ORM.
+description: "Database with AdonisJS. ORM."
 category: backend
 tags: [adonisjs-database, backend, russian]
 models: [sonnet, opus]

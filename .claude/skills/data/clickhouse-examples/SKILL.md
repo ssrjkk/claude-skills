@@ -1,6 +1,6 @@
 ---
 name: clickhouse-examples
-description: Examples for Clickhouse: practical examples
+description: "Examples for Clickhouse: practical examples"
 category: data
 tags: [clickhouse, examples, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: checkov-integration
-description: Integration for Checkov: integration with other tools
+description: "Integration for Checkov: integration with other tools"
 category: security
 tags: [checkov-integration, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: nist-best-practices
-description: Best Practices with NIST. best practices.
+description: "Best Practices with NIST. best practices."
 category: security
 tags: [nist, best-practices, security, security]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: bitlocker-security
-description: Security with BitLocker. security.
+description: "Security with BitLocker. security."
 category: os-admin
 tags: [bitlocker-security, os-admin, russian]
 models: [sonnet, opus]

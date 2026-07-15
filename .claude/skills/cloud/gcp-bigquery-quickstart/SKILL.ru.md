@@ -1,6 +1,6 @@
 ---
 name: gcp-bigquery-quickstart
-description: Quickstart for Gcp-Bigquery: quick start guide
+description: "Quickstart for Gcp-Bigquery: quick start guide"
 category: cloud
 tags: [gcp-bigquery-quickstart, cloud, russian]
 models: [sonnet, opus]

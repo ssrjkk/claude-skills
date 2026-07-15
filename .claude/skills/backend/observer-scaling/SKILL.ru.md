@@ -1,6 +1,6 @@
 ---
 name: observer-scaling
-description: Scaling with Observer. scaling considerations.
+description: "Scaling with Observer. scaling considerations."
 category: backend
 tags: [observer-scaling, backend, russian]
 models: [sonnet, opus]

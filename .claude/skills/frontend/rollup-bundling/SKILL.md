@@ -1,6 +1,6 @@
 ---
 name: rollup-bundling
-description: Bundling with Rollup. code bundling.
+description: "Bundling with Rollup. code bundling."
 category: frontend
 tags: [rollup, bundling, frontend, build-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: indeed-tools
-description: Tools with Indeed. tools.
+description: "Tools with Indeed. tools."
 category: hr
 tags: [indeed, tools, hr, recruiting]
 models: [gpt-4, claude-3]

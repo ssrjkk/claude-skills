@@ -1,6 +1,6 @@
 ---
 name: iptables-configuration
-description: Config with iptables/nftables. advanced config.
+description: "Config with iptables/nftables. advanced config."
 category: networking
 tags: [iptables-configuration, networking, russian]
 models: [sonnet, opus]

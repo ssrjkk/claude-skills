@@ -1,6 +1,6 @@
 ---
 name: erlang-web-framework
-description: Web Framework with Erlang. web dev.
+description: "Web Framework with Erlang. web dev."
 category: backend
 tags: [erlang, web-framework, backend, backend]
 models: [gpt-4, claude-3]

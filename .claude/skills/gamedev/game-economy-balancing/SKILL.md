@@ -1,6 +1,6 @@
 ---
 name: game-economy-balancing
-description: Balancing with Game Economy. balancing.
+description: "Balancing with Game Economy. balancing."
 category: gamedev
 tags: [game-economy, balancing, gamedev, game-design]
 models: [gpt-4, claude-3]

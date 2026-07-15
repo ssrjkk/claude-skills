@@ -1,6 +1,6 @@
 ---
 name: linux-kernel-setup
-description: Setup with Linux Kernel. installation.
+description: "Setup with Linux Kernel. installation."
 category: os-admin
 tags: [linux-kernel-setup, os-admin, russian]
 models: [sonnet, opus]

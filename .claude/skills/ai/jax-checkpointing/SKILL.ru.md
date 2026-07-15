@@ -1,6 +1,6 @@
 ---
 name: jax-checkpointing
-description: Checkpointing with Jax. model saving.
+description: "Checkpointing with Jax. model saving."
 category: ai
 tags: [jax-checkpointing, ai, russian]
 models: [sonnet, opus]

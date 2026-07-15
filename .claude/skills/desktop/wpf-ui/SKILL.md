@@ -1,6 +1,6 @@
 ---
 name: wpf-ui
-description: UI with WPF. UI components.
+description: "UI with WPF. UI components."
 category: desktop
 tags: [wpf, ui, desktop, desktop]
 models: [gpt-4, claude-3]

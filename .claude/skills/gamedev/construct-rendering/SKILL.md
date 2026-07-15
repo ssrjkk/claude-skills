@@ -1,6 +1,6 @@
 ---
 name: construct-rendering
-description: Rendering with Construct. graphics.
+description: "Rendering with Construct. graphics."
 category: gamedev
 tags: [construct, rendering, gamedev, game-engine]
 models: [gpt-4, claude-3]

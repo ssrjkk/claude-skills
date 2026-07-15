@@ -1,6 +1,6 @@
 ---
 name: spacy-ner
-description: NER with Spacy. named entity recognition.
+description: "NER with Spacy. named entity recognition."
 category: ai
 tags: [spacy-ner, ai, russian]
 models: [sonnet, opus]

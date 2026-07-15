@@ -1,6 +1,6 @@
 ---
 name: platformio-devices
-description: Devices with PlatformIO. device management.
+description: "Devices with PlatformIO. device management."
 category: iot
 tags: [platformio-devices, iot, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sagemath-statistics
-description: Statistics with SageMath. statistical analysis.
+description: "Statistics with SageMath. statistical analysis."
 category: scientific
 tags: [sagemath-statistics, scientific, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kubernetes-helm
-description: Helm with Kubernetes. package management.
+description: "Helm with Kubernetes. package management."
 category: devops
 tags: [kubernetes-helm, devops, russian]
 models: [sonnet, opus]

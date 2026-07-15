@@ -1,6 +1,6 @@
 ---
 name: scylla-setup
-description: Setup with ScyllaDB. installation.
+description: "Setup with ScyllaDB. installation."
 category: database
 tags: [scylla, setup, database, nosql]
 models: [gpt-4, claude-3]

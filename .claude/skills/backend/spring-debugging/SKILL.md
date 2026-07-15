@@ -1,6 +1,6 @@
 ---
 name: spring-debugging
-description: Debugging for Spring: debugging and troubleshooting
+description: "Debugging for Spring: debugging and troubleshooting"
 category: backend
 tags: [spring, debugging, backend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: bamboo-monitoring
-description: Monitoring with Bamboo. monitoring.
+description: "Monitoring with Bamboo. monitoring."
 category: devops
 tags: [bamboo-monitoring, devops, russian]
 models: [sonnet, opus]

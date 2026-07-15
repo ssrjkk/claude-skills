@@ -1,6 +1,6 @@
 ---
 name: scylladb-fundamentals
-description: Fundamentals for Scylladb: core concepts
+description: "Fundamentals for Scylladb: core concepts"
 category: database
 tags: [scylladb-fundamentals, database, russian]
 models: [sonnet, opus]

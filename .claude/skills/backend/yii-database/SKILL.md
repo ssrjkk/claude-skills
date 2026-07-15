@@ -1,6 +1,6 @@
 ---
 name: yii-database
-description: Database with Yii. Eloquent.
+description: "Database with Yii. Eloquent."
 category: backend
 tags: [yii, database, backend, backend]
 models: [gpt-4, claude-3]

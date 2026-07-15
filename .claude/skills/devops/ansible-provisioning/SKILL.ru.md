@@ -1,6 +1,6 @@
 ---
 name: ansible-provisioning
-description: Provisioning with Ansible. provisioning.
+description: "Provisioning with Ansible. provisioning."
 category: devops
 tags: [ansible-provisioning, devops, russian]
 models: [sonnet, opus]

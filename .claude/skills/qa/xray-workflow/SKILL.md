@@ -1,6 +1,6 @@
 ---
 name: xray-workflow
-description: Workflow for Xray: workflow optimization
+description: "Workflow for Xray: workflow optimization"
 category: qa
 tags: [xray, workflow, qa]
 models: [sonnet, opus]

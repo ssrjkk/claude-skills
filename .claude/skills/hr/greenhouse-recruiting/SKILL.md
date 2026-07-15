@@ -1,6 +1,6 @@
 ---
 name: greenhouse-recruiting
-description: Recruiting with Greenhouse. ATS.
+description: "Recruiting with Greenhouse. ATS."
 category: hr
 tags: [greenhouse, recruiting, hr, hr-tech]
 models: [gpt-4, claude-3]

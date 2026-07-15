@@ -1,6 +1,6 @@
 ---
 name: detox-assertions
-description: Assertions with Detox. assertions.
+description: "Assertions with Detox. assertions."
 category: qa
 tags: [detox-assertions, qa, russian]
 models: [sonnet, opus]

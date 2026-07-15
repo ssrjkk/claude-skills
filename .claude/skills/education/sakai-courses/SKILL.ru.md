@@ -1,6 +1,6 @@
 ---
 name: sakai-courses
-description: Courses with Sakai. course creation.
+description: "Courses with Sakai. course creation."
 category: education
 tags: [sakai-courses, education, russian]
 models: [sonnet, opus]

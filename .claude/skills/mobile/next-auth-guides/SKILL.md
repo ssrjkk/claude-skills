@@ -1,6 +1,6 @@
 ---
 name: next-auth-guides
-description: Guides for Next-Auth: how-to guides
+description: "Guides for Next-Auth: how-to guides"
 category: mobile
 tags: [next-auth, guides, mobile]
 models: [sonnet, opus]

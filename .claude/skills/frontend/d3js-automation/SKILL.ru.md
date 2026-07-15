@@ -1,6 +1,6 @@
 ---
 name: d3js-automation
-description: Automation for D3Js: automation and scripting
+description: "Automation for D3Js: automation and scripting"
 category: frontend
 tags: [d3js-automation, frontend, russian]
 models: [sonnet, opus]

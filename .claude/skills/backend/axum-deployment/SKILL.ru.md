@@ -1,6 +1,6 @@
 ---
 name: axum-deployment
-description: Deployment with Axum. build.
+description: "Deployment with Axum. build."
 category: backend
 tags: [axum-deployment, backend, russian]
 models: [sonnet, opus]

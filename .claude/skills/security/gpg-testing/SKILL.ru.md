@@ -1,6 +1,6 @@
 ---
 name: gpg-testing
-description: Testing for Gpg: testing and validation
+description: "Testing for Gpg: testing and validation"
 category: security
 tags: [gpg-testing, security, russian]
 models: [sonnet, opus]

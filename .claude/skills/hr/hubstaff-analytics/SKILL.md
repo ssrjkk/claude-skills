@@ -1,6 +1,6 @@
 ---
 name: hubstaff-analytics
-description: Analytics with Hubstaff. analytics.
+description: "Analytics with Hubstaff. analytics."
 category: hr
 tags: [hubstaff, analytics, hr, hr-tech]
 models: [gpt-4, claude-3]

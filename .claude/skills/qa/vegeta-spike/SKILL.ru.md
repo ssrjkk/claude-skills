@@ -1,6 +1,6 @@
 ---
 name: vegeta-spike
-description: Spike with Vegeta. spike tests.
+description: "Spike with Vegeta. spike tests."
 category: qa
 tags: [vegeta-spike, qa, russian]
 models: [sonnet, opus]

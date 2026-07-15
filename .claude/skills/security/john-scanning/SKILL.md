@@ -1,6 +1,6 @@
 ---
 name: john-scanning
-description: Scanning with John the Ripper. security scanning.
+description: "Scanning with John the Ripper. security scanning."
 category: security
 tags: [john, scanning, security, security-tool]
 models: [gpt-4, claude-3]

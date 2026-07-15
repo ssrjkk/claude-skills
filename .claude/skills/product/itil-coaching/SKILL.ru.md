@@ -1,6 +1,6 @@
 ---
 name: itil-coaching
-description: Coaching with ITIL. team coaching.
+description: "Coaching with ITIL. team coaching."
 category: product
 tags: [itil-coaching, product, russian]
 models: [sonnet, opus]

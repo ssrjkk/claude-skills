@@ -1,6 +1,6 @@
 ---
 name: tsc-bundling
-description: Bundling with TypeScript. code bundling.
+description: "Bundling with TypeScript. code bundling."
 category: frontend
 tags: [tsc-bundling, frontend, russian]
 models: [sonnet, opus]

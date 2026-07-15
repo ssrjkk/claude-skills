@@ -1,6 +1,6 @@
 ---
 name: vault-optimization
-description: Optimization for Vault: performance tuning and optimization
+description: "Optimization for Vault: performance tuning and optimization"
 category: security
 tags: [vault, optimization, security]
 models: [sonnet, opus]

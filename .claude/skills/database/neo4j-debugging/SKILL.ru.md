@@ -1,6 +1,6 @@
 ---
 name: neo4j-debugging
-description: Debugging for Neo4J: debugging and troubleshooting
+description: "Debugging for Neo4J: debugging and troubleshooting"
 category: database
 tags: [neo4j-debugging, database, russian]
 models: [sonnet, opus]

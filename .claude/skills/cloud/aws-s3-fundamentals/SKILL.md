@@ -1,6 +1,6 @@
 ---
 name: aws-s3-fundamentals
-description: Fundamentals for Aws-S3: core concepts
+description: "Fundamentals for Aws-S3: core concepts"
 category: cloud
 tags: [aws-s3, fundamentals, cloud]
 models: [sonnet, opus]

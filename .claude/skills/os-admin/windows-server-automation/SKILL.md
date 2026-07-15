@@ -1,6 +1,6 @@
 ---
 name: windows-server-automation
-description: Automation with Windows Server. PowerShell.
+description: "Automation with Windows Server. PowerShell."
 category: os-admin
 tags: [windows-server, automation, os-admin, windows]
 models: [gpt-4, claude-3]

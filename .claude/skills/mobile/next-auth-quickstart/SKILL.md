@@ -1,6 +1,6 @@
 ---
 name: next-auth-quickstart
-description: Quickstart for Next-Auth: quick start guide
+description: "Quickstart for Next-Auth: quick start guide"
 category: mobile
 tags: [next-auth, quickstart, mobile]
 models: [sonnet, opus]

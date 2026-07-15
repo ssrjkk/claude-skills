@@ -1,6 +1,6 @@
 ---
 name: typescript-cli-tool
-description: CLI Tool with Typescript. building CLI tools.
+description: "CLI Tool with Typescript. building CLI tools."
 category: backend
 tags: [typescript-cli-tool, backend, russian]
 models: [sonnet, opus]

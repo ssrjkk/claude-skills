@@ -1,6 +1,6 @@
 ---
 name: gitlab-ci-testing
-description: Testing with GitLab CI. automated tests.
+description: "Testing with GitLab CI. automated tests."
 category: devops
 tags: [gitlab-ci, testing, devops, ci-cd]
 models: [gpt-4, claude-3]

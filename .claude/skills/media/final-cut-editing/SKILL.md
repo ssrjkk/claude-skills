@@ -1,6 +1,6 @@
 ---
 name: final-cut-editing
-description: Editing with Final Cut Pro. editing.
+description: "Editing with Final Cut Pro. editing."
 category: media
 tags: [final-cut, editing, media, media-production]
 models: [gpt-4, claude-3]

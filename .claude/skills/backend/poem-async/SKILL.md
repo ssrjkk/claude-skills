@@ -1,6 +1,6 @@
 ---
 name: poem-async
-description: Async with Poem. async handlers.
+description: "Async with Poem. async handlers."
 category: backend
 tags: [poem, async, backend, backend]
 models: [gpt-4, claude-3]

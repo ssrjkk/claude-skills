@@ -1,6 +1,6 @@
 ---
 name: material-tailwind-fundamentals
-description: Fundamentals for Material-Tailwind: core concepts
+description: "Fundamentals for Material-Tailwind: core concepts"
 category: frontend
 tags: [material-tailwind-fundamentals, frontend, russian]
 models: [sonnet, opus]

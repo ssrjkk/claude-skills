@@ -1,6 +1,6 @@
 ---
 name: fixture-factory-quickstart
-description: Quickstart for Fixture-Factory: quick start guide
+description: "Quickstart for Fixture-Factory: quick start guide"
 category: qa
 tags: [fixture-factory-quickstart, qa, russian]
 models: [sonnet, opus]

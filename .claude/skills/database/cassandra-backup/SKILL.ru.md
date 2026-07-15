@@ -1,6 +1,6 @@
 ---
 name: cassandra-backup
-description: Backup with Cassandra. backup.
+description: "Backup with Cassandra. backup."
 category: database
 tags: [cassandra-backup, database, russian]
 models: [sonnet, opus]

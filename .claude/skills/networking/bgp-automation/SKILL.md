@@ -1,6 +1,6 @@
 ---
 name: bgp-automation
-description: Automation with BGP. network automation.
+description: "Automation with BGP. network automation."
 category: networking
 tags: [bgp, automation, networking, networking]
 models: [gpt-4, claude-3]

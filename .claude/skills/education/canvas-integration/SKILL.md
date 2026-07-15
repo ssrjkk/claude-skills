@@ -1,6 +1,6 @@
 ---
 name: canvas-integration
-description: Integration with Canvas LMS. LTI.
+description: "Integration with Canvas LMS. LTI."
 category: education
 tags: [canvas, integration, education, education-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: godot-debugging
-description: Debugging for Godot: debugging and troubleshooting
+description: "Debugging for Godot: debugging and troubleshooting"
 category: gamedev
 tags: [godot, debugging, gamedev]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: zipkin-scraping
-description: Scraping with Zipkin. target discovery.
+description: "Scraping with Zipkin. target discovery."
 category: devops
 tags: [zipkin, scraping, devops, monitoring]
 models: [gpt-4, claude-3]

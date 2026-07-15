@@ -1,6 +1,6 @@
 ---
 name: react-pattern-usage
-description: Usage for React-Pattern: usage reference
+description: "Usage for React-Pattern: usage reference"
 category: ai
 tags: [react-pattern, usage, ai]
 models: [sonnet, opus]

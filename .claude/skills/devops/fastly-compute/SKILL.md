@@ -1,6 +1,6 @@
 ---
 name: fastly-compute
-description: Compute with Fastly. VM/compute.
+description: "Compute with Fastly. VM/compute."
 category: devops
 tags: [fastly, compute, devops, cloud]
 models: [gpt-4, claude-3]

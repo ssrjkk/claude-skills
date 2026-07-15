@@ -1,6 +1,6 @@
 ---
 name: opentofu-setup
-description: Setup with OpenTofu. installation.
+description: "Setup with OpenTofu. installation."
 category: devops
 tags: [opentofu, setup, devops, iac]
 models: [gpt-4, claude-3]

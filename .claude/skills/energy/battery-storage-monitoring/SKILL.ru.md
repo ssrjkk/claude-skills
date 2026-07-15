@@ -1,6 +1,6 @@
 ---
 name: battery-storage-monitoring
-description: Monitoring with Battery Storage. monitoring.
+description: "Monitoring with Battery Storage. monitoring."
 category: energy
 tags: [battery-storage-monitoring, energy, russian]
 models: [sonnet, opus]

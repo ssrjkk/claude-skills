@@ -1,6 +1,6 @@
 ---
 name: traefik-integration
-description: Integration for Traefik: integration with other tools
+description: "Integration for Traefik: integration with other tools"
 category: devops
 tags: [traefik-integration, devops, russian]
 models: [sonnet, opus]

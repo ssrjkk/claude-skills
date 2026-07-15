@@ -1,6 +1,6 @@
 ---
 name: level-design-basics
-description: Basics with Level Design. fundamentals.
+description: "Basics with Level Design. fundamentals."
 category: gamedev
 tags: [level-design, basics, gamedev, game-design]
 models: [gpt-4, claude-3]

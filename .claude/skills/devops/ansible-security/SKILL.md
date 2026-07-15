@@ -1,6 +1,6 @@
 ---
 name: ansible-security
-description: Security with Ansible. security groups.
+description: "Security with Ansible. security groups."
 category: devops
 tags: [ansible, security, devops, iac]
 models: [gpt-4, claude-3]

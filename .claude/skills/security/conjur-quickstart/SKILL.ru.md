@@ -1,6 +1,6 @@
 ---
 name: conjur-quickstart
-description: Quickstart for Conjur: quick start guide
+description: "Quickstart for Conjur: quick start guide"
 category: security
 tags: [conjur-quickstart, security, russian]
 models: [sonnet, opus]

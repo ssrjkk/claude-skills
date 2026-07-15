@@ -1,6 +1,6 @@
 ---
 name: elastic-scraping
-description: Scraping with Elastic Stack. target discovery.
+description: "Scraping with Elastic Stack. target discovery."
 category: devops
 tags: [elastic-scraping, devops, russian]
 models: [sonnet, opus]

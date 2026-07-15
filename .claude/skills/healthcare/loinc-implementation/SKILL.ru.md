@@ -1,6 +1,6 @@
 ---
 name: loinc-implementation
-description: Implementation with LOINC. integration.
+description: "Implementation with LOINC. integration."
 category: healthcare
 tags: [loinc-implementation, healthcare, russian]
 models: [sonnet, opus]

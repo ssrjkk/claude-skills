@@ -1,6 +1,6 @@
 ---
 name: persona-execution
-description: Execution with Personas. running sessions.
+description: "Execution with Personas. running sessions."
 category: design
 tags: [persona-execution, design, russian]
 models: [sonnet, opus]

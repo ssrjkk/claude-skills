@@ -1,6 +1,6 @@
 ---
 name: rancher-storage
-description: Storage with Rancher. persistent storage.
+description: "Storage with Rancher. persistent storage."
 category: devops
 tags: [rancher, storage, devops, kubernetes]
 models: [gpt-4, claude-3]

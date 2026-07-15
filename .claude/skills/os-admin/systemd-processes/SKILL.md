@@ -1,6 +1,6 @@
 ---
 name: systemd-processes
-description: Processes with systemd. process management.
+description: "Processes with systemd. process management."
 category: os-admin
 tags: [systemd, processes, os-admin, linux]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: riot-styling
-description: Styling with Riot. component styling.
+description: "Styling with Riot. component styling."
 category: frontend
 tags: [riot, styling, frontend, frontend]
 models: [gpt-4, claude-3]

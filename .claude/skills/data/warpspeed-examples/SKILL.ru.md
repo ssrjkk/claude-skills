@@ -1,6 +1,6 @@
 ---
 name: warpspeed-examples
-description: Examples for Warpspeed: practical examples
+description: "Examples for Warpspeed: practical examples"
 category: data
 tags: [warpspeed-examples, data, russian]
 models: [sonnet, opus]

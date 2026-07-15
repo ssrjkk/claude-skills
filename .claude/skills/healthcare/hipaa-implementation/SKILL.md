@@ -1,6 +1,6 @@
 ---
 name: hipaa-implementation
-description: Implementation with HIPAA. integration.
+description: "Implementation with HIPAA. integration."
 category: healthcare
 tags: [hipaa, implementation, healthcare, healthcare]
 models: [gpt-4, claude-3]

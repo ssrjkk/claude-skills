@@ -1,6 +1,6 @@
 ---
 name: swift-test-integration
-description: Integration with Swift Testing. integration tests.
+description: "Integration with Swift Testing. integration tests."
 category: qa
 tags: [swift-test, integration, qa, testing]
 models: [gpt-4, claude-3]

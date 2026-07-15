@@ -1,6 +1,6 @@
 ---
 name: llama-api
-description: API for Llama: API development and integration
+description: "API for Llama: API development and integration"
 category: ai
 tags: [llama, api, ai]
 models: [sonnet, opus]

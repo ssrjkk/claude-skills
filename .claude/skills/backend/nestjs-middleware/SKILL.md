@@ -1,6 +1,6 @@
 ---
 name: nestjs-middleware
-description: Middleware with NestJS. request pipeline.
+description: "Middleware with NestJS. request pipeline."
 category: backend
 tags: [nestjs, middleware, backend, backend]
 models: [gpt-4, claude-3]

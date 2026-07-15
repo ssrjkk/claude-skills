@@ -1,6 +1,6 @@
 ---
 name: factory-scaling
-description: Scaling with Factory. scaling considerations.
+description: "Scaling with Factory. scaling considerations."
 category: backend
 tags: [factory, scaling, backend, architecture]
 models: [gpt-4, claude-3]

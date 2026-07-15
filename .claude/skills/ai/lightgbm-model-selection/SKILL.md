@@ -1,6 +1,6 @@
 ---
 name: lightgbm-model-selection
-description: Model Selection with Lightgbm. choosing models.
+description: "Model Selection with Lightgbm. choosing models."
 category: ai
 tags: [lightgbm, model-selection, ai, ml]
 models: [gpt-4, claude-3]

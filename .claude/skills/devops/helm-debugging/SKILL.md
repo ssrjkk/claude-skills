@@ -1,6 +1,6 @@
 ---
 name: helm-debugging
-description: Debugging for Helm: debugging and troubleshooting
+description: "Debugging for Helm: debugging and troubleshooting"
 category: devops
 tags: [helm, debugging, devops]
 models: [sonnet, opus]

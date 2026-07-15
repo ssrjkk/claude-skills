@@ -1,6 +1,6 @@
 ---
 name: zeek-best-practices
-description: Best Practices for Zeek: best practices and patterns
+description: "Best Practices for Zeek: best practices and patterns"
 category: security
 tags: [zeek-best-practices, security, russian]
 models: [sonnet, opus]

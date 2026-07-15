@@ -1,6 +1,6 @@
 ---
 name: kafka-getting-started
-description: Getting Started for Kafka: initial setup and first steps
+description: "Getting Started for Kafka: initial setup and first steps"
 category: backend
 tags: [kafka-getting-started, backend, russian]
 models: [sonnet, opus]

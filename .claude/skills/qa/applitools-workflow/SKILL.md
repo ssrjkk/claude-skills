@@ -1,6 +1,6 @@
 ---
 name: applitools-workflow
-description: Workflow for Applitools: workflow optimization
+description: "Workflow for Applitools: workflow optimization"
 category: qa
 tags: [applitools, workflow, qa]
 models: [sonnet, opus]

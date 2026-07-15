@@ -1,6 +1,6 @@
 ---
 name: ziprecruiter-screening
-description: Screening with ZipRecruiter. resume screening.
+description: "Screening with ZipRecruiter. resume screening."
 category: hr
 tags: [ziprecruiter-screening, hr, russian]
 models: [sonnet, opus]

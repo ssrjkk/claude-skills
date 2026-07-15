@@ -1,6 +1,6 @@
 ---
 name: padrino-auth
-description: Auth with Padrino. authentication.
+description: "Auth with Padrino. authentication."
 category: backend
 tags: [padrino, auth, backend, backend]
 models: [gpt-4, claude-3]

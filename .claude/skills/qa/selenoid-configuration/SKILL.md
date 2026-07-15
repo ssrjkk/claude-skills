@@ -1,6 +1,6 @@
 ---
 name: selenoid-configuration
-description: Configuration for Selenoid: configuration and setup
+description: "Configuration for Selenoid: configuration and setup"
 category: qa
 tags: [selenoid, configuration, qa]
 models: [sonnet, opus]

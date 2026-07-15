@@ -1,6 +1,6 @@
 ---
 name: pgbouncer-fundamentals
-description: Fundamentals for Pgbouncer: core concepts
+description: "Fundamentals for Pgbouncer: core concepts"
 category: database
 tags: [pgbouncer-fundamentals, database, russian]
 models: [sonnet, opus]

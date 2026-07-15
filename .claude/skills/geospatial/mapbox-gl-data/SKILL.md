@@ -1,6 +1,6 @@
 ---
 name: mapbox-gl-data
-description: Data with Mapbox GL. geospatial data.
+description: "Data with Mapbox GL. geospatial data."
 category: geospatial
 tags: [mapbox-gl, data, geospatial, gis]
 models: [gpt-4, claude-3]

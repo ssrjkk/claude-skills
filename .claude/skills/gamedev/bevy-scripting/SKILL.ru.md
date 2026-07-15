@@ -1,6 +1,6 @@
 ---
 name: bevy-scripting
-description: Scripting with Bevy. game logic.
+description: "Scripting with Bevy. game logic."
 category: gamedev
 tags: [bevy-scripting, gamedev, russian]
 models: [sonnet, opus]

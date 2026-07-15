@@ -1,6 +1,6 @@
 ---
 name: vagrant-modules
-description: Modules with Vagrant. modules.
+description: "Modules with Vagrant. modules."
 category: devops
 tags: [vagrant, modules, devops, iac]
 models: [gpt-4, claude-3]

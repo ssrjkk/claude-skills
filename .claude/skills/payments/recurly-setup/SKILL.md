@@ -1,6 +1,6 @@
 ---
 name: recurly-setup
-description: Setup with Recurly. account setup.
+description: "Setup with Recurly. account setup."
 category: payments
 tags: [recurly, setup, payments, billing]
 models: [gpt-4, claude-3]

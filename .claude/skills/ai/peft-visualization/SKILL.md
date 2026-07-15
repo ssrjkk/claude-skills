@@ -1,6 +1,6 @@
 ---
 name: peft-visualization
-description: Visualization with Peft. model viz.
+description: "Visualization with Peft. model viz."
 category: ai
 tags: [peft, visualization, ai, deep-learning]
 models: [gpt-4, claude-3]

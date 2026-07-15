@@ -1,6 +1,6 @@
 ---
 name: slim-routing
-description: Routing with Slim. HTTP routing.
+description: "Routing with Slim. HTTP routing."
 category: backend
 tags: [slim, routing, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: unity-scripting
-description: Scripting with Unity. game logic.
+description: "Scripting with Unity. game logic."
 category: gamedev
 tags: [unity-scripting, gamedev, russian]
 models: [sonnet, opus]

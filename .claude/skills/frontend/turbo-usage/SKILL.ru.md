@@ -1,6 +1,6 @@
 ---
 name: turbo-usage
-description: Usage for Turbo: usage reference
+description: "Usage for Turbo: usage reference"
 category: frontend
 tags: [turbo-usage, frontend, russian]
 models: [sonnet, opus]

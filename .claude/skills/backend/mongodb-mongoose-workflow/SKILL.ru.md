@@ -1,6 +1,6 @@
 ---
 name: mongodb-mongoose-workflow
-description: Workflow for Mongodb-Mongoose: workflow optimization
+description: "Workflow for Mongodb-Mongoose: workflow optimization"
 category: backend
 tags: [mongodb-mongoose-workflow, backend, russian]
 models: [sonnet, opus]

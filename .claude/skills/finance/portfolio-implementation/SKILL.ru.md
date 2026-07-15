@@ -1,6 +1,6 @@
 ---
 name: portfolio-implementation
-description: Implementation with Portfolio Management. implementation.
+description: "Implementation with Portfolio Management. implementation."
 category: finance
 tags: [portfolio-implementation, finance, russian]
 models: [sonnet, opus]

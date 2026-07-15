@@ -1,6 +1,6 @@
 ---
 name: energy-management-monitoring
-description: Monitoring with Energy Management. monitoring.
+description: "Monitoring with Energy Management. monitoring."
 category: energy
 tags: [energy-management, monitoring, energy, renewable-energy]
 models: [gpt-4, claude-3]

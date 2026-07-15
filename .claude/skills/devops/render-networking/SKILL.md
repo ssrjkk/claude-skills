@@ -1,6 +1,6 @@
 ---
 name: render-networking
-description: Networking with Render. VPC.
+description: "Networking with Render. VPC."
 category: devops
 tags: [render, networking, devops, cloud]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: bamboohr-recruiting
-description: Recruiting with BambooHR. ATS.
+description: "Recruiting with BambooHR. ATS."
 category: hr
 tags: [bamboohr, recruiting, hr, hr-tech]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: pyramid-routing
-description: Routing with Pyramid. HTTP routing.
+description: "Routing with Pyramid. HTTP routing."
 category: backend
 tags: [pyramid, routing, backend, backend]
 models: [gpt-4, claude-3]

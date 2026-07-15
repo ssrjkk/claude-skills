@@ -1,6 +1,6 @@
 ---
 name: echo-deployment
-description: Deployment with Echo. build.
+description: "Deployment with Echo. build."
 category: backend
 tags: [echo, deployment, backend, backend]
 models: [gpt-4, claude-3]

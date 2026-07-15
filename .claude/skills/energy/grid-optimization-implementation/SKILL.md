@@ -1,6 +1,6 @@
 ---
 name: grid-optimization-implementation
-description: Implementation with Grid Optimization. deployment.
+description: "Implementation with Grid Optimization. deployment."
 category: energy
 tags: [grid-optimization, implementation, energy, smart-grid]
 models: [gpt-4, claude-3]

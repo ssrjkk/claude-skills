@@ -1,6 +1,6 @@
 ---
 name: surreal-indexing
-description: Indexing with SurrealDB. indexes.
+description: "Indexing with SurrealDB. indexes."
 category: database
 tags: [surreal, indexing, database, nosql]
 models: [gpt-4, claude-3]

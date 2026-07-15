@@ -1,6 +1,6 @@
 ---
 name: dwolla-compliance
-description: Compliance with Dwolla. compliance.
+description: "Compliance with Dwolla. compliance."
 category: finance
 tags: [dwolla-compliance, finance, russian]
 models: [sonnet, opus]

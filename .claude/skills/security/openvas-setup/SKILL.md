@@ -1,6 +1,6 @@
 ---
 name: openvas-setup
-description: Setup with OpenVAS. installation.
+description: "Setup with OpenVAS. installation."
 category: security
 tags: [openvas, setup, security, security-tool]
 models: [gpt-4, claude-3]

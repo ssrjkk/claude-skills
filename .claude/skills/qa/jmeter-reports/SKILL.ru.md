@@ -1,6 +1,6 @@
 ---
 name: jmeter-reports
-description: Reports with JMeter. report generation.
+description: "Reports with JMeter. report generation."
 category: qa
 tags: [jmeter-reports, qa, russian]
 models: [sonnet, opus]

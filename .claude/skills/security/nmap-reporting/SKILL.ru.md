@@ -1,6 +1,6 @@
 ---
 name: nmap-reporting
-description: Reporting with Nmap. reports.
+description: "Reporting with Nmap. reports."
 category: security
 tags: [nmap-reporting, security, russian]
 models: [sonnet, opus]

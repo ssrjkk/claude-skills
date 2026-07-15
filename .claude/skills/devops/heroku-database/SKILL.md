@@ -1,6 +1,6 @@
 ---
 name: heroku-database
-description: Database with Heroku. managed databases.
+description: "Database with Heroku. managed databases."
 category: devops
 tags: [heroku, database, devops, cloud]
 models: [gpt-4, claude-3]

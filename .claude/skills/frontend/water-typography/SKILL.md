@@ -1,6 +1,6 @@
 ---
 name: water-typography
-description: Typography with Water.css. text styling.
+description: "Typography with Water.css. text styling."
 category: frontend
 tags: [water, typography, frontend, css]
 models: [gpt-4, claude-3]

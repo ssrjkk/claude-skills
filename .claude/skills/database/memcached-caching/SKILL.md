@@ -1,6 +1,6 @@
 ---
 name: memcached-caching
-description: Caching with Memcached. caching strategies.
+description: "Caching with Memcached. caching strategies."
 category: database
 tags: [memcached, caching, database, caching]
 models: [gpt-4, claude-3]

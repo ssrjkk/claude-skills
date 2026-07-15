@@ -1,6 +1,6 @@
 ---
 name: fastlane-getting-started
-description: Getting Started for Fastlane: initial setup and first steps
+description: "Getting Started for Fastlane: initial setup and first steps"
 category: mobile
 tags: [fastlane, getting-started, mobile]
 models: [sonnet, opus]

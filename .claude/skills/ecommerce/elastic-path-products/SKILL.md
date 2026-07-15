@@ -1,6 +1,6 @@
 ---
 name: elastic-path-products
-description: Products with Elastic Path. product API.
+description: "Products with Elastic Path. product API."
 category: ecommerce
 tags: [elastic-path, products, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

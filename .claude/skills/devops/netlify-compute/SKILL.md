@@ -1,6 +1,6 @@
 ---
 name: netlify-compute
-description: Compute with Netlify. VM/compute.
+description: "Compute with Netlify. VM/compute."
 category: devops
 tags: [netlify, compute, devops, cloud]
 models: [gpt-4, claude-3]

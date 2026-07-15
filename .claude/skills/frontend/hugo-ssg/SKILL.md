@@ -1,6 +1,6 @@
 ---
 name: hugo-ssg
-description: SSG with Hugo. static generation.
+description: "SSG with Hugo. static generation."
 category: frontend
 tags: [hugo, ssg, frontend, meta-framework]
 models: [gpt-4, claude-3]

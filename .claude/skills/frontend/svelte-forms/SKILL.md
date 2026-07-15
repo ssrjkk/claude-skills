@@ -1,6 +1,6 @@
 ---
 name: svelte-forms
-description: Forms with Svelte. form handling.
+description: "Forms with Svelte. form handling."
 category: frontend
 tags: [svelte, forms, frontend, frontend]
 models: [gpt-4, claude-3]

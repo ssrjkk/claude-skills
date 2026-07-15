@@ -1,6 +1,6 @@
 ---
 name: pic-toolchain
-description: Toolchain with PIC. compiler.
+description: "Toolchain with PIC. compiler."
 category: embedded
 tags: [pic, toolchain, embedded, embedded-arch]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: digitalocean-networking
-description: Networking with DigitalOcean. VPC.
+description: "Networking with DigitalOcean. VPC."
 category: devops
 tags: [digitalocean-networking, devops, russian]
 models: [sonnet, opus]

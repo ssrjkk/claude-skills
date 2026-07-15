@@ -1,6 +1,6 @@
 ---
 name: rt-thread-debugging
-description: Debugging with RT-Thread. debug.
+description: "Debugging with RT-Thread. debug."
 category: embedded
 tags: [rt-thread-debugging, embedded, russian]
 models: [sonnet, opus]

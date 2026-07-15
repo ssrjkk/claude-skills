@@ -1,6 +1,6 @@
 ---
 name: dhcp-optimization
-description: Optimization with DHCP. tuning.
+description: "Optimization with DHCP. tuning."
 category: networking
 tags: [dhcp-optimization, networking, russian]
 models: [sonnet, opus]

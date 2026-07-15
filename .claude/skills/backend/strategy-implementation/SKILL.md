@@ -1,6 +1,6 @@
 ---
 name: strategy-implementation
-description: Implementation with Strategy. practical implementation.
+description: "Implementation with Strategy. practical implementation."
 category: backend
 tags: [strategy, implementation, backend, architecture]
 models: [gpt-4, claude-3]

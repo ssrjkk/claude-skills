@@ -1,6 +1,6 @@
 ---
 name: solidstart-api-routes
-description: API Routes with SolidStart. API endpoints.
+description: "API Routes with SolidStart. API endpoints."
 category: frontend
 tags: [solidstart-api-routes, frontend, russian]
 models: [sonnet, opus]

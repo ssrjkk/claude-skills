@@ -1,6 +1,6 @@
 ---
 name: outlines-embeddings
-description: Embeddings with Outlines. text embeddings.
+description: "Embeddings with Outlines. text embeddings."
 category: ai
 tags: [outlines, embeddings, ai, llm]
 models: [gpt-4, claude-3]

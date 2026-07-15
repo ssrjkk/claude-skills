@@ -1,6 +1,6 @@
 ---
 name: square-compliance
-description: Compliance with Square. PCI DSS.
+description: "Compliance with Square. PCI DSS."
 category: payments
 tags: [square, compliance, payments, payments]
 models: [gpt-4, claude-3]

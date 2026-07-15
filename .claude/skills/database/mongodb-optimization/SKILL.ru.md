@@ -1,6 +1,6 @@
 ---
 name: mongodb-optimization
-description: Optimization with MongoDB. performance.
+description: "Optimization with MongoDB. performance."
 category: database
 tags: [mongodb-optimization, database, russian]
 models: [sonnet, opus]

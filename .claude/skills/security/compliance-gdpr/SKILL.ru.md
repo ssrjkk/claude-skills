@@ -1,6 +1,6 @@
 ---
 name: compliance-gdpr
-description: Checks application compliance with GDPR (General Data Protection Regulation) requirements. Use for compliance audit.
+description: "Checks application compliance with GDPR (General Data Protection Regulation) requirements. Use for compliance audit."
 category: security
 tags: [compliance-gdpr, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: floating-ui-guides
-description: Guides for Floating-Ui: how-to guides
+description: "Guides for Floating-Ui: how-to guides"
 category: frontend
 tags: [floating-ui-guides, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: zeroheight-design-system
-description: Design Systems with Zeroheight. tokens.
+description: "Design Systems with Zeroheight. tokens."
 category: design
 tags: [zeroheight-design-system, design, russian]
 models: [sonnet, opus]

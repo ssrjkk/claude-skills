@@ -1,6 +1,6 @@
 ---
 name: numpy-performance
-description: Performance with NumPy. optimization.
+description: "Performance with NumPy. optimization."
 category: data
 tags: [numpy-performance, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: linkedin-recruiter-offers
-description: Offers with LinkedIn Recruiter. offer mgmt.
+description: "Offers with LinkedIn Recruiter. offer mgmt."
 category: hr
 tags: [linkedin-recruiter, offers, hr, recruiting]
 models: [gpt-4, claude-3]

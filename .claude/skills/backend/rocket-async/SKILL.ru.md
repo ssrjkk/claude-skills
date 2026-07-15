@@ -1,6 +1,6 @@
 ---
 name: rocket-async
-description: Async with Rocket. async handlers.
+description: "Async with Rocket. async handlers."
 category: backend
 tags: [rocket-async, backend, russian]
 models: [sonnet, opus]

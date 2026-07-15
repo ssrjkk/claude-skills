@@ -1,6 +1,6 @@
 ---
 name: final-cut-effects
-description: Effects with Final Cut Pro. VFX.
+description: "Effects with Final Cut Pro. VFX."
 category: media
 tags: [final-cut-effects, media, russian]
 models: [sonnet, opus]

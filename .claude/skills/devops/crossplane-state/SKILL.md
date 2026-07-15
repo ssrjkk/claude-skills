@@ -1,6 +1,6 @@
 ---
 name: crossplane-state
-description: State with Crossplane. state management.
+description: "State with Crossplane. state management."
 category: devops
 tags: [crossplane, state, devops, iac]
 models: [gpt-4, claude-3]

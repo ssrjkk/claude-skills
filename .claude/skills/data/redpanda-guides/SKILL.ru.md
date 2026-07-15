@@ -1,6 +1,6 @@
 ---
 name: redpanda-guides
-description: Guides for Redpanda: how-to guides
+description: "Guides for Redpanda: how-to guides"
 category: data
 tags: [redpanda-guides, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: openid-implementation
-description: Implementation with OpenID Connect. implementation.
+description: "Implementation with OpenID Connect. implementation."
 category: security
 tags: [openid-implementation, security, russian]
 models: [sonnet, opus]

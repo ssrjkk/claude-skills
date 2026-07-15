@@ -1,6 +1,6 @@
 ---
 name: apache-spark-etl
-description: ETL with Apache Spark. extract-transform-load.
+description: "ETL with Apache Spark. extract-transform-load."
 category: data
 tags: [apache-spark, etl, data, data-engineering]
 models: [gpt-4, claude-3]

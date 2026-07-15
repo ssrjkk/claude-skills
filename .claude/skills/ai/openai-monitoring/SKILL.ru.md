@@ -1,6 +1,6 @@
 ---
 name: openai-monitoring
-description: Monitoring for Openai: monitoring and observability
+description: "Monitoring for Openai: monitoring and observability"
 category: ai
 tags: [openai-monitoring, ai, russian]
 models: [sonnet, opus]

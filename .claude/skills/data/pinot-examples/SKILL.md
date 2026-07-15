@@ -1,6 +1,6 @@
 ---
 name: pinot-examples
-description: Examples for Pinot: practical examples
+description: "Examples for Pinot: practical examples"
 category: data
 tags: [pinot, examples, data]
 models: [sonnet, opus]

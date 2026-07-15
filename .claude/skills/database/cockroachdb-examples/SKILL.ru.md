@@ -1,6 +1,6 @@
 ---
 name: cockroachdb-examples
-description: Examples for Cockroachdb: practical examples
+description: "Examples for Cockroachdb: practical examples"
 category: database
 tags: [cockroachdb-examples, database, russian]
 models: [sonnet, opus]

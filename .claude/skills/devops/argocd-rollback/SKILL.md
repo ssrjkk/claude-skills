@@ -1,6 +1,6 @@
 ---
 name: argocd-rollback
-description: Performs automatic and manual rollback of deployments in Kubernetes via ArgoCD. Use for quick recovery from failures.
+description: "Performs automatic and manual rollback of deployments in Kubernetes via ArgoCD. Use for quick recovery from failures."
 category: devops
 tags: [argocd, rollback, kubernetes, gitops, recovery]
 models: [opus]

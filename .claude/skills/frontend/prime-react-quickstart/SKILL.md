@@ -1,6 +1,6 @@
 ---
 name: prime-react-quickstart
-description: Quickstart for Prime-React: quick start guide
+description: "Quickstart for Prime-React: quick start guide"
 category: frontend
 tags: [prime-react, quickstart, frontend]
 models: [sonnet, opus]

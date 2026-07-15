@@ -1,6 +1,6 @@
 ---
 name: vagrant-automation
-description: Automation for Vagrant: automation and scripting
+description: "Automation for Vagrant: automation and scripting"
 category: devops
 tags: [vagrant, automation, devops]
 models: [sonnet, opus]

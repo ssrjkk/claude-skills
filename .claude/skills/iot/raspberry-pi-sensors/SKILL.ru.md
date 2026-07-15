@@ -1,6 +1,6 @@
 ---
 name: raspberry-pi-sensors
-description: Sensors with Raspberry Pi. sensor integration.
+description: "Sensors with Raspberry Pi. sensor integration."
 category: iot
 tags: [raspberry-pi-sensors, iot, russian]
 models: [sonnet, opus]

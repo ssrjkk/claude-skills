@@ -1,6 +1,6 @@
 ---
 name: containerd-images
-description: Images with containerd. building images.
+description: "Images with containerd. building images."
 category: devops
 tags: [containerd-images, devops, russian]
 models: [sonnet, opus]

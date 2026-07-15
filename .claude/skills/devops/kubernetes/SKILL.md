@@ -1,6 +1,6 @@
 ---
 name: kubernetes
-description: Deploys and manages containerized applications on Kubernetes with pods, deployments, services, and ingress.
+description: "Deploys and manages containerized applications on Kubernetes with pods, deployments, services, and ingress."
 category: devops
 tags: [kubernetes, k8s, containers, orchestration, deployment]
 models: [sonnet, opus]

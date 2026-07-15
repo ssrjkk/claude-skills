@@ -1,6 +1,6 @@
 ---
 name: skill-0161
-description: Specialized skill #0161 for backend development
+description: "Specialized skill #0161 for backend development"
 category: backend
 tags: [backend, skill, 0161]
 models: [sonnet, opus]

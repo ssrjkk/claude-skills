@@ -1,6 +1,6 @@
 ---
 name: backbone-animations
-description: Animations with Backbone. UI animations.
+description: "Animations with Backbone. UI animations."
 category: frontend
 tags: [backbone, animations, frontend, frontend]
 models: [gpt-4, claude-3]

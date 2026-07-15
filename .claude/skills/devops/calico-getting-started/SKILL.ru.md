@@ -1,6 +1,6 @@
 ---
 name: calico-getting-started
-description: Getting Started for Calico: initial setup and first steps
+description: "Getting Started for Calico: initial setup and first steps"
 category: devops
 tags: [calico-getting-started, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: flutter-navigation
-description: Navigation with Flutter. navigation.
+description: "Navigation with Flutter. navigation."
 category: mobile
 tags: [flutter, navigation, mobile, mobile]
 models: [gpt-4, claude-3]

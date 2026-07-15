@@ -1,6 +1,6 @@
 ---
 name: zephyr-getting-started
-description: Getting Started for Zephyr: initial setup and first steps
+description: "Getting Started for Zephyr: initial setup and first steps"
 category: qa
 tags: [zephyr-getting-started, qa, russian]
 models: [sonnet, opus]

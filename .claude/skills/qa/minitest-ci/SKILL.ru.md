@@ -1,6 +1,6 @@
 ---
 name: minitest-ci
-description: CI with Minitest. CI integration.
+description: "CI with Minitest. CI integration."
 category: qa
 tags: [minitest-ci, qa, russian]
 models: [sonnet, opus]

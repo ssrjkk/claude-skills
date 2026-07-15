@@ -1,6 +1,6 @@
 ---
 name: styled-components-configuration
-description: Configuration for Styled-Components: configuration and setup
+description: "Configuration for Styled-Components: configuration and setup"
 category: frontend
 tags: [styled-components, configuration, frontend]
 models: [sonnet, opus]

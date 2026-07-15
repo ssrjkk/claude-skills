@@ -1,6 +1,6 @@
 ---
 name: nats-fundamentals
-description: Fundamentals for Nats: core concepts
+description: "Fundamentals for Nats: core concepts"
 category: data
 tags: [nats, fundamentals, data]
 models: [sonnet, opus]

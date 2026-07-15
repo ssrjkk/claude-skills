@@ -1,6 +1,6 @@
 ---
 name: catboost-deployment
-description: Deployment with Catboost. model serving.
+description: "Deployment with Catboost. model serving."
 category: ai
 tags: [catboost, deployment, ai, ml]
 models: [gpt-4, claude-3]

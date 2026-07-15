@@ -1,6 +1,6 @@
 ---
 name: grid-optimization-monitoring
-description: Monitoring with Grid Optimization. monitoring.
+description: "Monitoring with Grid Optimization. monitoring."
 category: energy
 tags: [grid-optimization-monitoring, energy, russian]
 models: [sonnet, opus]

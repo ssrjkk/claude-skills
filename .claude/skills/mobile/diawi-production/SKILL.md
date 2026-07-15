@@ -1,6 +1,6 @@
 ---
 name: diawi-production
-description: Production for Diawi: production deployment
+description: "Production for Diawi: production deployment"
 category: mobile
 tags: [diawi, production, mobile]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: github-actions-api
-description: API for Github-Actions: API development and integration
+description: "API for Github-Actions: API development and integration"
 category: devops
 tags: [github-actions, api, devops]
 models: [sonnet, opus]

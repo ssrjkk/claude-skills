@@ -1,6 +1,6 @@
 ---
 name: water-forms
-description: Forms with Water.css. form styling.
+description: "Forms with Water.css. form styling."
 category: frontend
 tags: [water-forms, frontend, russian]
 models: [sonnet, opus]

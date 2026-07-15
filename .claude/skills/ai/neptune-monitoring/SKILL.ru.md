@@ -1,6 +1,6 @@
 ---
 name: neptune-monitoring
-description: Monitoring with Neptune. model monitoring.
+description: "Monitoring with Neptune. model monitoring."
 category: ai
 tags: [neptune-monitoring, ai, russian]
 models: [sonnet, opus]

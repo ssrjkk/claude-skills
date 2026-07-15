@@ -1,6 +1,6 @@
 ---
 name: memcached-monitoring
-description: Monitoring with Memcached. monitoring.
+description: "Monitoring with Memcached. monitoring."
 category: database
 tags: [memcached, monitoring, database, caching]
 models: [gpt-4, claude-3]

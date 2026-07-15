@@ -1,6 +1,6 @@
 ---
 name: fedora-processes
-description: Processes with Fedora. process management.
+description: "Processes with Fedora. process management."
 category: os-admin
 tags: [fedora-processes, os-admin, russian]
 models: [sonnet, opus]

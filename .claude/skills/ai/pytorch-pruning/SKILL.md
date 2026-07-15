@@ -1,6 +1,6 @@
 ---
 name: pytorch-pruning
-description: Pruning with Pytorch. model pruning.
+description: "Pruning with Pytorch. model pruning."
 category: ai
 tags: [pytorch, pruning, ai, deep-learning]
 models: [gpt-4, claude-3]

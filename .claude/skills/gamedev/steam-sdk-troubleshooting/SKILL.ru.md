@@ -1,6 +1,6 @@
 ---
 name: steam-sdk-troubleshooting
-description: Troubleshooting for Steam-Sdk: troubleshooting common issues
+description: "Troubleshooting for Steam-Sdk: troubleshooting common issues"
 category: gamedev
 tags: [steam-sdk-troubleshooting, gamedev, russian]
 models: [sonnet, opus]

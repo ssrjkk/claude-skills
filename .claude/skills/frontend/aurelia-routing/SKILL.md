@@ -1,6 +1,6 @@
 ---
 name: aurelia-routing
-description: Routing with Aurelia. client routing.
+description: "Routing with Aurelia. client routing."
 category: frontend
 tags: [aurelia, routing, frontend, frontend]
 models: [gpt-4, claude-3]

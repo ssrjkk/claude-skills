@@ -1,6 +1,6 @@
 ---
 name: neo4j-clustering
-description: Clustering with Neo4j. clustering.
+description: "Clustering with Neo4j. clustering."
 category: database
 tags: [neo4j-clustering, database, russian]
 models: [sonnet, opus]

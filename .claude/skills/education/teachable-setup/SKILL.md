@@ -1,6 +1,6 @@
 ---
 name: teachable-setup
-description: Setup with Teachable. setup.
+description: "Setup with Teachable. setup."
 category: education
 tags: [teachable, setup, education, education-platform]
 models: [gpt-4, claude-3]

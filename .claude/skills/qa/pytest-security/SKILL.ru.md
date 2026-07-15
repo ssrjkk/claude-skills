@@ -1,6 +1,6 @@
 ---
 name: pytest-security
-description: Security for Pytest: security best practices
+description: "Security for Pytest: security best practices"
 category: qa
 tags: [pytest-security, qa, russian]
 models: [sonnet, opus]

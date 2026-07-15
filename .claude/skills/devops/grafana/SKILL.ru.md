@@ -1,6 +1,6 @@
 ---
 name: grafana
-description: Creates dashboards and visualizations with Grafana, including Prometheus data sources, alerting, and annotations.
+description: "Creates dashboards and visualizations with Grafana, including Prometheus data sources, alerting, and annotations."
 category: devops
 tags: [grafana, devops, russian]
 models: [sonnet, opus]

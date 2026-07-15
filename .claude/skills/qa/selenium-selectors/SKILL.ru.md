@@ -1,6 +1,6 @@
 ---
 name: selenium-selectors
-description: Selectors with Selenium. element selectors.
+description: "Selectors with Selenium. element selectors."
 category: qa
 tags: [selenium-selectors, qa, russian]
 models: [sonnet, opus]

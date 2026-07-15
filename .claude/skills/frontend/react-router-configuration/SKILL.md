@@ -1,6 +1,6 @@
 ---
 name: react-router-configuration
-description: Configuration for React-Router: configuration and setup
+description: "Configuration for React-Router: configuration and setup"
 category: frontend
 tags: [react-router, configuration, frontend]
 models: [sonnet, opus]

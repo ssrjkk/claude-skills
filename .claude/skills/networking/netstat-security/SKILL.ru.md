@@ -1,6 +1,6 @@
 ---
 name: netstat-security
-description: Security with netstat/ss. security testing.
+description: "Security with netstat/ss. security testing."
 category: networking
 tags: [netstat-security, networking, russian]
 models: [sonnet, opus]

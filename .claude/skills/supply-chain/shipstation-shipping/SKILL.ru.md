@@ -1,6 +1,6 @@
 ---
 name: shipstation-shipping
-description: Shipping with ShipStation. shipping.
+description: "Shipping with ShipStation. shipping."
 category: supply-chain
 tags: [shipstation-shipping, supply-chain, russian]
 models: [sonnet, opus]

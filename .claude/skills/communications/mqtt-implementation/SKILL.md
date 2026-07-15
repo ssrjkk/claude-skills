@@ -1,6 +1,6 @@
 ---
 name: mqtt-implementation
-description: Implementation with MQTT. implementation.
+description: "Implementation with MQTT. implementation."
 category: communications
 tags: [mqtt, implementation, communications, communication-protocol]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: warpspeed-quickstart
-description: Quickstart for Warpspeed: quick start guide
+description: "Quickstart for Warpspeed: quick start guide"
 category: data
 tags: [warpspeed-quickstart, data, russian]
 models: [sonnet, opus]

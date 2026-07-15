@@ -1,6 +1,6 @@
 ---
 name: sqlserver-querying
-description: Querying with SQL Server. SQL queries.
+description: "Querying with SQL Server. SQL queries."
 category: database
 tags: [sqlserver-querying, database, russian]
 models: [sonnet, opus]

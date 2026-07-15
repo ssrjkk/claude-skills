@@ -1,6 +1,6 @@
 ---
 name: bff-migration
-description: Migration with Backend for Frontend. adopting the pattern.
+description: "Migration with Backend for Frontend. adopting the pattern."
 category: backend
 tags: [bff-migration, backend, russian]
 models: [sonnet, opus]

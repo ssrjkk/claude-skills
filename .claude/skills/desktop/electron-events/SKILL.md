@@ -1,6 +1,6 @@
 ---
 name: electron-events
-description: Events with Electron. event handling.
+description: "Events with Electron. event handling."
 category: desktop
 tags: [electron, events, desktop, desktop]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: nim-cli-tool
-description: CLI Tool with Nim. building CLI tools.
+description: "CLI Tool with Nim. building CLI tools."
 category: backend
 tags: [nim-cli-tool, backend, russian]
 models: [sonnet, opus]

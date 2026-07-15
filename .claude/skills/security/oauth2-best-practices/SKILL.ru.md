@@ -1,6 +1,6 @@
 ---
 name: oauth2-best-practices
-description: Best Practices with OAuth 2.0. best practices.
+description: "Best Practices with OAuth 2.0. best practices."
 category: security
 tags: [oauth2-best-practices, security, russian]
 models: [sonnet, opus]

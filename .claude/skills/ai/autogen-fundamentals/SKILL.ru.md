@@ -1,6 +1,6 @@
 ---
 name: autogen-fundamentals
-description: Fundamentals for Autogen: core concepts
+description: "Fundamentals for Autogen: core concepts"
 category: ai
 tags: [autogen-fundamentals, ai, russian]
 models: [sonnet, opus]

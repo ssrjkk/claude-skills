@@ -1,6 +1,6 @@
 ---
 name: mbed-sensors
-description: Sensors with Mbed OS. sensor integration.
+description: "Sensors with Mbed OS. sensor integration."
 category: iot
 tags: [mbed, sensors, iot, iot]
 models: [gpt-4, claude-3]

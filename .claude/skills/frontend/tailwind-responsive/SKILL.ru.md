@@ -1,6 +1,6 @@
 ---
 name: tailwind-responsive
-description: Responsive with Tailwind CSS. mobile-first.
+description: "Responsive with Tailwind CSS. mobile-first."
 category: frontend
 tags: [tailwind-responsive, frontend, russian]
 models: [sonnet, opus]

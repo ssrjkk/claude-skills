@@ -1,6 +1,6 @@
 ---
 name: bitlocker-backup
-description: Backup with BitLocker. backup.
+description: "Backup with BitLocker. backup."
 category: os-admin
 tags: [bitlocker, backup, os-admin, windows]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: database-migration
-description: Manages PostgreSQL database migrations using Alembic. Use for creating, applying, and rolling back schema changes in QA environments.
+description: "Manages PostgreSQL database migrations using Alembic. Use for creating, applying, and rolling back schema changes in QA environments."
 category: database-migration
 tags: [database, migration, postgresql, alembic, qa, schema]
 models: [haiku, sonnet, opus]

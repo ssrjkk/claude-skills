@@ -1,6 +1,6 @@
 ---
 name: discord-bot-chat
-description: Chat with Discord Bot. chat.
+description: "Chat with Discord Bot. chat."
 category: communications
 tags: [discord-bot-chat, communications, russian]
 models: [sonnet, opus]

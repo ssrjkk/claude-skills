@@ -1,6 +1,6 @@
 ---
 name: jax-inference
-description: Inference with Jax. running models.
+description: "Inference with Jax. running models."
 category: ai
 tags: [jax-inference, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: riot-performance
-description: Performance with Riot. optimization.
+description: "Performance with Riot. optimization."
 category: frontend
 tags: [riot, performance, frontend, frontend]
 models: [gpt-4, claude-3]

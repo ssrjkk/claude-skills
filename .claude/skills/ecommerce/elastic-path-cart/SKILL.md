@@ -1,6 +1,6 @@
 ---
 name: elastic-path-cart
-description: Cart with Elastic Path. cart API.
+description: "Cart with Elastic Path. cart API."
 category: ecommerce
 tags: [elastic-path, cart, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

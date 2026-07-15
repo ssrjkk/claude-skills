@@ -1,6 +1,6 @@
 ---
 name: effector-devtools
-description: DevTools with Effector. debugging.
+description: "DevTools with Effector. debugging."
 category: frontend
 tags: [effector, devtools, frontend, state-management]
 models: [gpt-4, claude-3]

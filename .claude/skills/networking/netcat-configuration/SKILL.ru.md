@@ -1,6 +1,6 @@
 ---
 name: netcat-configuration
-description: Config with netcat. advanced config.
+description: "Config with netcat. advanced config."
 category: networking
 tags: [netcat-configuration, networking, russian]
 models: [sonnet, opus]

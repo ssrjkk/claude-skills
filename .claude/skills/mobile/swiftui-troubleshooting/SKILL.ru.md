@@ -1,6 +1,6 @@
 ---
 name: swiftui-troubleshooting
-description: Troubleshooting for Swiftui: troubleshooting common issues
+description: "Troubleshooting for Swiftui: troubleshooting common issues"
 category: mobile
 tags: [swiftui-troubleshooting, mobile, russian]
 models: [sonnet, opus]

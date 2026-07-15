@@ -1,6 +1,6 @@
 ---
 name: gatsby-ssr
-description: SSR with Gatsby. server rendering.
+description: "SSR with Gatsby. server rendering."
 category: frontend
 tags: [gatsby-ssr, frontend, russian]
 models: [sonnet, opus]

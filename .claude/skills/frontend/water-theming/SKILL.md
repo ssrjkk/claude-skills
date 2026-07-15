@@ -1,6 +1,6 @@
 ---
 name: water-theming
-description: Theming with Water.css. custom themes.
+description: "Theming with Water.css. custom themes."
 category: frontend
 tags: [water, theming, frontend, css]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: mathematica-signal-processing
-description: Signal Processing with Mathematica. FFT.
+description: "Signal Processing with Mathematica. FFT."
 category: scientific
 tags: [mathematica-signal-processing, scientific, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: arbitrum-staking
-description: Staking with Arbitrum. staking.
+description: "Staking with Arbitrum. staking."
 category: blockchain
 tags: [arbitrum, staking, blockchain, blockchain]
 models: [gpt-4, claude-3]

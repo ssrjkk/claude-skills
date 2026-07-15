@@ -1,6 +1,6 @@
 ---
 name: dynatrace-setup
-description: Setup with Dynatrace. installation.
+description: "Setup with Dynatrace. installation."
 category: devops
 tags: [dynatrace, setup, devops, monitoring]
 models: [gpt-4, claude-3]

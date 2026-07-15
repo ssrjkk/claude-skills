@@ -1,6 +1,6 @@
 ---
 name: micronaut-testing
-description: Testing with Micronaut. unit tests.
+description: "Testing with Micronaut. unit tests."
 category: backend
 tags: [micronaut, testing, backend, backend]
 models: [gpt-4, claude-3]

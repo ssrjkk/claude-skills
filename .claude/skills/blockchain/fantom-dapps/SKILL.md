@@ -1,6 +1,6 @@
 ---
 name: fantom-dapps
-description: DApps with Fantom. decentralized apps.
+description: "DApps with Fantom. decentralized apps."
 category: blockchain
 tags: [fantom, dapps, blockchain, blockchain]
 models: [gpt-4, claude-3]

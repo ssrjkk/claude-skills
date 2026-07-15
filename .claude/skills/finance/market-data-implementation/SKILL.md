@@ -1,6 +1,6 @@
 ---
 name: market-data-implementation
-description: Implementation with Market Data. implementation.
+description: "Implementation with Market Data. implementation."
 category: finance
 tags: [market-data, implementation, finance, trading]
 models: [gpt-4, claude-3]

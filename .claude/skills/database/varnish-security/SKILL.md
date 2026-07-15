@@ -1,6 +1,6 @@
 ---
 name: varnish-security
-description: Security with Varnish. security.
+description: "Security with Varnish. security."
 category: database
 tags: [varnish, security, database, caching]
 models: [gpt-4, claude-3]

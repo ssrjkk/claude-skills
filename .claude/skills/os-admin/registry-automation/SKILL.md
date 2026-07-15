@@ -1,6 +1,6 @@
 ---
 name: registry-automation
-description: Automation with Windows Registry. PowerShell.
+description: "Automation with Windows Registry. PowerShell."
 category: os-admin
 tags: [registry, automation, os-admin, windows]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: react-spring-guides
-description: Guides for React-Spring: how-to guides
+description: "Guides for React-Spring: how-to guides"
 category: design
 tags: [react-spring, guides, design]
 models: [sonnet, opus]

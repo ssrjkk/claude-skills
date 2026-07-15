@@ -1,6 +1,6 @@
 ---
 name: eks-configmap
-description: ConfigMap with Amazon EKS. config management.
+description: "ConfigMap with Amazon EKS. config management."
 category: devops
 tags: [eks-configmap, devops, russian]
 models: [sonnet, opus]

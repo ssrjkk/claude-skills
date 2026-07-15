@@ -1,6 +1,6 @@
 ---
 name: warp-templating
-description: Templating with Warp. templates.
+description: "Templating with Warp. templates."
 category: backend
 tags: [warp-templating, backend, russian]
 models: [sonnet, opus]

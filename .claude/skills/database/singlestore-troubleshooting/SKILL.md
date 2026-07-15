@@ -1,6 +1,6 @@
 ---
 name: singlestore-troubleshooting
-description: Troubleshooting for Singlestore: troubleshooting common issues
+description: "Troubleshooting for Singlestore: troubleshooting common issues"
 category: database
 tags: [singlestore, troubleshooting, database]
 models: [sonnet, opus]

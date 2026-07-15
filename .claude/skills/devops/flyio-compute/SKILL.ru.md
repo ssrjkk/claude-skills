@@ -1,6 +1,6 @@
 ---
 name: flyio-compute
-description: Compute with Fly.io. VM/compute.
+description: "Compute with Fly.io. VM/compute."
 category: devops
 tags: [flyio-compute, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: terraform-optimization
-description: Optimization for Terraform: performance tuning and optimization
+description: "Optimization for Terraform: performance tuning and optimization"
 category: devops
 tags: [terraform-optimization, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sendgrid-webhooks
-description: Webhooks with SendGrid. webhooks.
+description: "Webhooks with SendGrid. webhooks."
 category: communications
 tags: [sendgrid-webhooks, communications, russian]
 models: [sonnet, opus]

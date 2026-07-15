@@ -1,6 +1,6 @@
 ---
 name: marko-state-management
-description: State Management with Marko. state handling.
+description: "State Management with Marko. state handling."
 category: frontend
 tags: [marko-state-management, frontend, russian]
 models: [sonnet, opus]

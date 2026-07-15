@@ -1,6 +1,6 @@
 ---
 name: refactoring-implementation
-description: Implementation with Refactoring. practice.
+description: "Implementation with Refactoring. practice."
 category: engineering
 tags: [refactoring-implementation, engineering, russian]
 models: [sonnet, opus]

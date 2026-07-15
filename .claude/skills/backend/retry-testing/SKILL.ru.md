@@ -1,6 +1,6 @@
 ---
 name: retry-testing
-description: Testing with Retry. testing the pattern.
+description: "Testing with Retry. testing the pattern."
 category: backend
 tags: [retry-testing, backend, russian]
 models: [sonnet, opus]

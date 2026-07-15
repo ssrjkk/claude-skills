@@ -1,6 +1,6 @@
 ---
 name: svelte-monitoring
-description: Monitoring for Svelte: monitoring and observability
+description: "Monitoring for Svelte: monitoring and observability"
 category: frontend
 tags: [svelte, monitoring, frontend]
 models: [sonnet, opus]

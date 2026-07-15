@@ -1,6 +1,6 @@
 ---
 name: bootstrap-utilities
-description: Utilities with Bootstrap. utility classes.
+description: "Utilities with Bootstrap. utility classes."
 category: frontend
 tags: [bootstrap, utilities, frontend, css]
 models: [gpt-4, claude-3]

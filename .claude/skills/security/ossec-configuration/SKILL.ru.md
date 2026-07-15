@@ -1,6 +1,6 @@
 ---
 name: ossec-configuration
-description: Configuration for Ossec: configuration and setup
+description: "Configuration for Ossec: configuration and setup"
 category: security
 tags: [ossec-configuration, security, russian]
 models: [sonnet, opus]

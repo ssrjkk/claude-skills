@@ -1,6 +1,6 @@
 ---
 name: saltstack-setup
-description: Setup with SaltStack. installation.
+description: "Setup with SaltStack. installation."
 category: devops
 tags: [saltstack-setup, devops, russian]
 models: [sonnet, opus]

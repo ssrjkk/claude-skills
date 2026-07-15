@@ -1,6 +1,6 @@
 ---
 name: crewai-examples
-description: Examples for Crewai: practical examples
+description: "Examples for Crewai: practical examples"
 category: ai
 tags: [crewai, examples, ai]
 models: [sonnet, opus]

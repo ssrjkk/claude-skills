@@ -1,6 +1,6 @@
 ---
 name: autogen-examples
-description: Examples for Autogen: practical examples
+description: "Examples for Autogen: practical examples"
 category: ai
 tags: [autogen-examples, ai, russian]
 models: [sonnet, opus]

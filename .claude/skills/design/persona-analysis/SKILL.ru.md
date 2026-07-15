@@ -1,6 +1,6 @@
 ---
 name: persona-analysis
-description: Analysis with Personas. data analysis.
+description: "Analysis with Personas. data analysis."
 category: design
 tags: [persona-analysis, design, russian]
 models: [sonnet, opus]

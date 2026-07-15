@@ -1,6 +1,6 @@
 ---
 name: easypost-integration
-description: Integration with EasyPost. integration.
+description: "Integration with EasyPost. integration."
 category: supply-chain
 tags: [easypost, integration, supply-chain, logistics]
 models: [gpt-4, claude-3]

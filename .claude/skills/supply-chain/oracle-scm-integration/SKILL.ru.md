@@ -1,6 +1,6 @@
 ---
 name: oracle-scm-integration
-description: Integration with Oracle SCM. integration.
+description: "Integration with Oracle SCM. integration."
 category: supply-chain
 tags: [oracle-scm-integration, supply-chain, russian]
 models: [sonnet, opus]

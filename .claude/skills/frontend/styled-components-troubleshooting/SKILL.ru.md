@@ -1,6 +1,6 @@
 ---
 name: styled-components-troubleshooting
-description: Troubleshooting for Styled-Components: troubleshooting common issues
+description: "Troubleshooting for Styled-Components: troubleshooting common issues"
 category: frontend
 tags: [styled-components-troubleshooting, frontend, russian]
 models: [sonnet, opus]

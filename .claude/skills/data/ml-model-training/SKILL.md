@@ -1,6 +1,6 @@
 ---
 name: ml-model-training
-description: Creates ML model training pipelines with scikit-learn and experiment tracking. Use for training and evaluating machine learning models.
+description: "Creates ML model training pipelines with scikit-learn and experiment tracking. Use for training and evaluating machine learning models."
 category: data
 tags: [ml, scikit-learn, training, model, pandas]
 models: [opus]

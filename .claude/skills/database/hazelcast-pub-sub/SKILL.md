@@ -1,6 +1,6 @@
 ---
 name: hazelcast-pub-sub
-description: Pub/Sub with Hazelcast. publish/subscribe.
+description: "Pub/Sub with Hazelcast. publish/subscribe."
 category: database
 tags: [hazelcast, pub-sub, database, caching]
 models: [gpt-4, claude-3]

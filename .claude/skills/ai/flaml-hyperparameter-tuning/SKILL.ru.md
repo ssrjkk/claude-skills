@@ -1,6 +1,6 @@
 ---
 name: flaml-hyperparameter-tuning
-description: Hyperparameter Tuning with Flaml. optimizing params.
+description: "Hyperparameter Tuning with Flaml. optimizing params."
 category: ai
 tags: [flaml-hyperparameter-tuning, ai, russian]
 models: [sonnet, opus]

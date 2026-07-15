@@ -1,6 +1,6 @@
 ---
 name: dbt-monitoring
-description: Monitoring with dbt. monitoring.
+description: "Monitoring with dbt. monitoring."
 category: data
 tags: [dbt, monitoring, data, data-engineering]
 models: [gpt-4, claude-3]

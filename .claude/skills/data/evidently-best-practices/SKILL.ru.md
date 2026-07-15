@@ -1,6 +1,6 @@
 ---
 name: evidently-best-practices
-description: Best Practices for Evidently: best practices and patterns
+description: "Best Practices for Evidently: best practices and patterns"
 category: data
 tags: [evidently-best-practices, data, russian]
 models: [sonnet, opus]

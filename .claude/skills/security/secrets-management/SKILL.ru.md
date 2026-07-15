@@ -1,6 +1,6 @@
 ---
 name: secrets-management
-description: Manages application secrets with HashiCorp Vault or AWS Secrets Manager. Use for secure credential storage.
+description: "Manages application secrets with HashiCorp Vault or AWS Secrets Manager. Use for secure credential storage."
 category: security
 tags: [secrets-management, security, russian]
 models: [sonnet, opus]

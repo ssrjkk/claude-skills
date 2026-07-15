@@ -1,6 +1,6 @@
 ---
 name: bpmn-modeling
-description: Modeling with BPMN. system modeling.
+description: "Modeling with BPMN. system modeling."
 category: engineering
 tags: [bpmn-modeling, engineering, russian]
 models: [sonnet, opus]

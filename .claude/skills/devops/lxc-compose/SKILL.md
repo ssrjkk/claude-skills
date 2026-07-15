@@ -1,6 +1,6 @@
 ---
 name: lxc-compose
-description: Compose with LXC. multi-container.
+description: "Compose with LXC. multi-container."
 category: devops
 tags: [lxc, compose, devops, container]
 models: [gpt-4, claude-3]

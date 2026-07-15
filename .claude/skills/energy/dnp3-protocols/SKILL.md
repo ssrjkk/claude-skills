@@ -1,6 +1,6 @@
 ---
 name: dnp3-protocols
-description: Protocols with DNP3. communication.
+description: "Protocols with DNP3. communication."
 category: energy
 tags: [dnp3, protocols, energy, smart-grid]
 models: [gpt-4, claude-3]

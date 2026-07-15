@@ -1,6 +1,6 @@
 ---
 name: github-actions-basics
-description: Basics for Github-Actions: fundamentals and core concepts
+description: "Basics for Github-Actions: fundamentals and core concepts"
 category: devops
 tags: [github-actions, basics, devops]
 models: [sonnet, opus]

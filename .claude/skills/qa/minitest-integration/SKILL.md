@@ -1,6 +1,6 @@
 ---
 name: minitest-integration
-description: Integration with Minitest. integration tests.
+description: "Integration with Minitest. integration tests."
 category: qa
 tags: [minitest, integration, qa, testing]
 models: [gpt-4, claude-3]

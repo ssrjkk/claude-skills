@@ -1,6 +1,6 @@
 ---
 name: github-actions-testing
-description: Testing with GitHub Actions. automated tests.
+description: "Testing with GitHub Actions. automated tests."
 category: devops
 tags: [github-actions-testing, devops, russian]
 models: [sonnet, opus]

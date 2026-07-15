@@ -1,6 +1,6 @@
 ---
 name: presto-batch
-description: Batch with Presto. batch processing.
+description: "Batch with Presto. batch processing."
 category: data
 tags: [presto-batch, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: skill-0240
-description: Specialized skill #0240 for gamedev development
+description: "Specialized skill #0240 for gamedev development"
 category: gamedev
 tags: [gamedev, skill, 0240]
 models: [sonnet, opus]

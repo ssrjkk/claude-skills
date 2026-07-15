@@ -1,6 +1,6 @@
 ---
 name: postgis-tiles
-description: Tiles with PostGIS. tile serving.
+description: "Tiles with PostGIS. tile serving."
 category: geospatial
 tags: [postgis, tiles, geospatial, gis]
 models: [gpt-4, claude-3]

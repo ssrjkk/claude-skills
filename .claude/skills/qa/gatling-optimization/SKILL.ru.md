@@ -1,6 +1,6 @@
 ---
 name: gatling-optimization
-description: Optimization for Gatling: performance tuning and optimization
+description: "Optimization for Gatling: performance tuning and optimization"
 category: qa
 tags: [gatling-optimization, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: azure-pipelines-deployment
-description: Deployment with Azure Pipelines. auto-deploy.
+description: "Deployment with Azure Pipelines. auto-deploy."
 category: devops
 tags: [azure-pipelines-deployment, devops, russian]
 models: [sonnet, opus]

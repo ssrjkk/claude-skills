@@ -1,6 +1,6 @@
 ---
 name: zuora-setup
-description: Setup with Zuora. account setup.
+description: "Setup with Zuora. account setup."
 category: payments
 tags: [zuora, setup, payments, billing]
 models: [gpt-4, claude-3]

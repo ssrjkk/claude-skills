@@ -1,6 +1,6 @@
 ---
 name: jwt-deployment
-description: Deployment for Jwt: deployment and release
+description: "Deployment for Jwt: deployment and release"
 category: security
 tags: [jwt-deployment, security, russian]
 models: [sonnet, opus]

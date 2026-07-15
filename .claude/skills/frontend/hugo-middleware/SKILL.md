@@ -1,6 +1,6 @@
 ---
 name: hugo-middleware
-description: Middleware with Hugo. request middleware.
+description: "Middleware with Hugo. request middleware."
 category: frontend
 tags: [hugo, middleware, frontend, meta-framework]
 models: [gpt-4, claude-3]

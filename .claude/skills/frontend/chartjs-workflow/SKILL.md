@@ -1,6 +1,6 @@
 ---
 name: chartjs-workflow
-description: Workflow for Chartjs: workflow optimization
+description: "Workflow for Chartjs: workflow optimization"
 category: frontend
 tags: [chartjs, workflow, frontend]
 models: [sonnet, opus]

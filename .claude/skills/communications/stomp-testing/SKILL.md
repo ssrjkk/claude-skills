@@ -1,6 +1,6 @@
 ---
 name: stomp-testing
-description: Testing with STOMP. testing.
+description: "Testing with STOMP. testing."
 category: communications
 tags: [stomp, testing, communications, communication-protocol]
 models: [gpt-4, claude-3]

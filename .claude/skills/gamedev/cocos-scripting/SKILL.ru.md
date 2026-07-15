@@ -1,6 +1,6 @@
 ---
 name: cocos-scripting
-description: Scripting with Cocos Creator. game logic.
+description: "Scripting with Cocos Creator. game logic."
 category: gamedev
 tags: [cocos-scripting, gamedev, russian]
 models: [sonnet, opus]

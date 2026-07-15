@@ -1,6 +1,6 @@
 ---
 name: crossplane-testing
-description: Testing with Crossplane. infra testing.
+description: "Testing with Crossplane. infra testing."
 category: devops
 tags: [crossplane-testing, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: recoil-store
-description: Store with Recoil. state store.
+description: "Store with Recoil. state store."
 category: frontend
 tags: [recoil, store, frontend, state-management]
 models: [gpt-4, claude-3]

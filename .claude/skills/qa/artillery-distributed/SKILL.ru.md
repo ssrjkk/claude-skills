@@ -1,6 +1,6 @@
 ---
 name: artillery-distributed
-description: Distributed with Artillery. distributed load.
+description: "Distributed with Artillery. distributed load."
 category: qa
 tags: [artillery-distributed, qa, russian]
 models: [sonnet, opus]

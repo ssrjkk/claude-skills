@@ -1,6 +1,6 @@
 ---
 name: kind-ingress
-description: Ingress with Kind. ingress controller.
+description: "Ingress with Kind. ingress controller."
 category: devops
 tags: [kind-ingress, devops, russian]
 models: [sonnet, opus]

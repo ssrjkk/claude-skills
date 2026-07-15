@@ -1,6 +1,6 @@
 ---
 name: swig
-description: Development with Swig: tools and best practices
+description: "Development with Swig: tools and best practices"
 category: ai
 tags: [swig, ai, russian]
 models: [sonnet, opus]

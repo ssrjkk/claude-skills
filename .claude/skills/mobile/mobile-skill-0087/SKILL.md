@@ -1,6 +1,6 @@
 ---
 name: mobile-skill-0087
-description: mobile specialized skill #0087 for mobile development
+description: "mobile specialized skill #0087 for mobile development"
 category: mobile
 tags: [mobile, skill, 0087]
 models: [sonnet, opus]

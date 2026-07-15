@@ -1,6 +1,6 @@
 ---
 name: slim-database
-description: Database with Slim. Eloquent.
+description: "Database with Slim. Eloquent."
 category: backend
 tags: [slim-database, backend, russian]
 models: [sonnet, opus]

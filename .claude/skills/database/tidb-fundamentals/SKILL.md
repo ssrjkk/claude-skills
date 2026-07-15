@@ -1,6 +1,6 @@
 ---
 name: tidb-fundamentals
-description: Fundamentals for Tidb: core concepts
+description: "Fundamentals for Tidb: core concepts"
 category: database
 tags: [tidb, fundamentals, database]
 models: [sonnet, opus]

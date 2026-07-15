@@ -1,6 +1,6 @@
 ---
 name: storybook-deployment
-description: Deployment with Storybook. production.
+description: "Deployment with Storybook. production."
 category: frontend
 tags: [storybook, deployment, frontend, meta-framework]
 models: [gpt-4, claude-3]

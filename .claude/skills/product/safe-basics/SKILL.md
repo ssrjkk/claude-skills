@@ -1,6 +1,6 @@
 ---
 name: safe-basics
-description: Basics with SAFe. fundamentals.
+description: "Basics with SAFe. fundamentals."
 category: product
 tags: [safe, basics, product, methodology]
 models: [gpt-4, claude-3]

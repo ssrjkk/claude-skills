@@ -1,6 +1,6 @@
 ---
 name: taipy-charts
-description: Charts with Taipy. charts.
+description: "Charts with Taipy. charts."
 category: data
 tags: [taipy-charts, data, russian]
 models: [sonnet, opus]

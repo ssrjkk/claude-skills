@@ -1,6 +1,6 @@
 ---
 name: azure-cosmosdb-examples
-description: Examples for Azure-Cosmosdb: practical examples
+description: "Examples for Azure-Cosmosdb: practical examples"
 category: cloud
 tags: [azure-cosmosdb, examples, cloud]
 models: [sonnet, opus]

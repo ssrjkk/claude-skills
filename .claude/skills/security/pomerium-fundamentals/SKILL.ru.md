@@ -1,6 +1,6 @@
 ---
 name: pomerium-fundamentals
-description: Fundamentals for Pomerium: core concepts
+description: "Fundamentals for Pomerium: core concepts"
 category: security
 tags: [pomerium-fundamentals, security, russian]
 models: [sonnet, opus]

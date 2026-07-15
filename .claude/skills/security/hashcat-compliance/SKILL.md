@@ -1,6 +1,6 @@
 ---
 name: hashcat-compliance
-description: Compliance with Hashcat. compliance.
+description: "Compliance with Hashcat. compliance."
 category: security
 tags: [hashcat, compliance, security, security-tool]
 models: [gpt-4, claude-3]

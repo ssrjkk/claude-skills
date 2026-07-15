@@ -1,6 +1,6 @@
 ---
 name: sqlmap-analysis
-description: Analysis with SQLmap. analysis.
+description: "Analysis with SQLmap. analysis."
 category: security
 tags: [sqlmap, analysis, security, security-tool]
 models: [gpt-4, claude-3]

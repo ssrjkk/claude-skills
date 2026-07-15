@@ -1,6 +1,6 @@
 ---
 name: swift-orm
-description: ORM with Swift. database access.
+description: "ORM with Swift. database access."
 category: backend
 tags: [swift-orm, backend, russian]
 models: [sonnet, opus]

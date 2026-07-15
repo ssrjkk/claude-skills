@@ -1,6 +1,6 @@
 ---
 name: hls-packaging
-description: Packaging with HLS. packaging.
+description: "Packaging with HLS. packaging."
 category: media
 tags: [hls-packaging, media, russian]
 models: [sonnet, opus]

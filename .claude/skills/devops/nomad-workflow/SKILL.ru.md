@@ -1,6 +1,6 @@
 ---
 name: nomad-workflow
-description: Workflow for Nomad: workflow optimization
+description: "Workflow for Nomad: workflow optimization"
 category: devops
 tags: [nomad-workflow, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: bevy-deployment
-description: Deployment for Bevy: deployment and release
+description: "Deployment for Bevy: deployment and release"
 category: gamedev
 tags: [bevy-deployment, gamedev, russian]
 models: [sonnet, opus]

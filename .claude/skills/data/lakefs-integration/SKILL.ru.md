@@ -1,6 +1,6 @@
 ---
 name: lakefs-integration
-description: Integration for Lakefs: integration with other tools
+description: "Integration for Lakefs: integration with other tools"
 category: data
 tags: [lakefs-integration, data, russian]
 models: [sonnet, opus]

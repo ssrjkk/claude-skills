@@ -1,6 +1,6 @@
 ---
 name: apache-flink
-description: Builds real-time stream processing applications with Apache Flink, event time, and exactly-once semantics.
+description: "Builds real-time stream processing applications with Apache Flink, event time, and exactly-once semantics."
 category: data
 tags: [apache-flink, data, russian]
 models: [sonnet, opus]

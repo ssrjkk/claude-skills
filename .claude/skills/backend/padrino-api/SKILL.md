@@ -1,6 +1,6 @@
 ---
 name: padrino-api
-description: API with Padrino. API building.
+description: "API with Padrino. API building."
 category: backend
 tags: [padrino, api, backend, backend]
 models: [gpt-4, claude-3]

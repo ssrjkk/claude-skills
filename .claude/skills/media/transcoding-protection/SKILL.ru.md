@@ -1,6 +1,6 @@
 ---
 name: transcoding-protection
-description: Protection with Transcoding. DRM.
+description: "Protection with Transcoding. DRM."
 category: media
 tags: [transcoding-protection, media, russian]
 models: [sonnet, opus]

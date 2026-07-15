@@ -1,6 +1,6 @@
 ---
 name: magento-setup
-description: Setup with Magento. setup.
+description: "Setup with Magento. setup."
 category: ecommerce
 tags: [magento, setup, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

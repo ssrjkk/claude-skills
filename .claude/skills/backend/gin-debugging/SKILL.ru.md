@@ -1,6 +1,6 @@
 ---
 name: gin-debugging
-description: Debugging for Gin: debugging and troubleshooting
+description: "Debugging for Gin: debugging and troubleshooting"
 category: backend
 tags: [gin-debugging, backend, russian]
 models: [sonnet, opus]

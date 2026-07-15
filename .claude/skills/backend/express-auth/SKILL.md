@@ -1,6 +1,6 @@
 ---
 name: express-auth
-description: Auth with Express. JWT.
+description: "Auth with Express. JWT."
 category: backend
 tags: [express, auth, backend, backend]
 models: [gpt-4, claude-3]

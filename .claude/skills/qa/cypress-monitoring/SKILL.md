@@ -1,6 +1,6 @@
 ---
 name: cypress-monitoring
-description: Monitoring for Cypress: monitoring and observability
+description: "Monitoring for Cypress: monitoring and observability"
 category: qa
 tags: [cypress, monitoring, qa]
 models: [sonnet, opus]

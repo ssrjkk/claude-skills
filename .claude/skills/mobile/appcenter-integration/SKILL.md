@@ -1,6 +1,6 @@
 ---
 name: appcenter-integration
-description: Integration for Appcenter: integration with other tools
+description: "Integration for Appcenter: integration with other tools"
 category: mobile
 tags: [appcenter, integration, mobile]
 models: [sonnet, opus]

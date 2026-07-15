@@ -1,6 +1,6 @@
 ---
 name: milligram-utilities
-description: Utilities with Milligram. utility classes.
+description: "Utilities with Milligram. utility classes."
 category: frontend
 tags: [milligram-utilities, frontend, russian]
 models: [sonnet, opus]

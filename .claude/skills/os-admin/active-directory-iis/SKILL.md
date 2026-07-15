@@ -1,6 +1,6 @@
 ---
 name: active-directory-iis
-description: IIS with Active Directory. web server.
+description: "IIS with Active Directory. web server."
 category: os-admin
 tags: [active-directory, iis, os-admin, windows]
 models: [gpt-4, claude-3]

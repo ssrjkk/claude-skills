@@ -1,6 +1,6 @@
 ---
 name: vllm-embeddings
-description: Embeddings with Vllm. text embeddings.
+description: "Embeddings with Vllm. text embeddings."
 category: ai
 tags: [vllm, embeddings, ai, llm]
 models: [gpt-4, claude-3]

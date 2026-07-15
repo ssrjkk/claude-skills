@@ -1,6 +1,6 @@
 ---
 name: typeorm-getting-started
-description: Getting Started for Typeorm: initial setup and first steps
+description: "Getting Started for Typeorm: initial setup and first steps"
 category: backend
 tags: [typeorm, getting-started, backend]
 models: [sonnet, opus]

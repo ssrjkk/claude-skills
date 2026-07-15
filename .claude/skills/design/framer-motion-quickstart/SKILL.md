@@ -1,6 +1,6 @@
 ---
 name: framer-motion-quickstart
-description: Quickstart for Framer-Motion: quick start guide
+description: "Quickstart for Framer-Motion: quick start guide"
 category: design
 tags: [framer-motion, quickstart, design]
 models: [sonnet, opus]

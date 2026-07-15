@@ -1,6 +1,6 @@
 ---
 name: ehcache-security
-description: Security with Ehcache. security.
+description: "Security with Ehcache. security."
 category: database
 tags: [ehcache, security, database, caching]
 models: [gpt-4, claude-3]

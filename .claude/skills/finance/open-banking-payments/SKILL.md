@@ -1,6 +1,6 @@
 ---
 name: open-banking-payments
-description: Payments with Open Banking. payments.
+description: "Payments with Open Banking. payments."
 category: finance
 tags: [open-banking, payments, finance, fintech]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: esg-basics
-description: Basics with ESG. fundamentals.
+description: "Basics with ESG. fundamentals."
 category: sustainability
 tags: [esg-basics, sustainability, russian]
 models: [sonnet, opus]

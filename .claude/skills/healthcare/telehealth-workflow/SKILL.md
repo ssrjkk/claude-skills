@@ -1,6 +1,6 @@
 ---
 name: telehealth-workflow
-description: Workflow with Telehealth. clinical workflow.
+description: "Workflow with Telehealth. clinical workflow."
 category: healthcare
 tags: [telehealth, workflow, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

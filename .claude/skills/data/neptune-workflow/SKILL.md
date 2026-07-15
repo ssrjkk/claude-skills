@@ -1,6 +1,6 @@
 ---
 name: neptune-workflow
-description: Workflow for Neptune: workflow optimization
+description: "Workflow for Neptune: workflow optimization"
 category: data
 tags: [neptune, workflow, data]
 models: [sonnet, opus]

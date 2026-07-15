@@ -1,6 +1,6 @@
 ---
 name: hbase-optimization
-description: Optimization with HBase. performance.
+description: "Optimization with HBase. performance."
 category: database
 tags: [hbase-optimization, database, russian]
 models: [sonnet, opus]

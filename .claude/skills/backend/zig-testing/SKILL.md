@@ -1,6 +1,6 @@
 ---
 name: zig-testing
-description: Testing with Zig. writing tests.
+description: "Testing with Zig. writing tests."
 category: backend
 tags: [zig, testing, backend, backend]
 models: [gpt-4, claude-3]

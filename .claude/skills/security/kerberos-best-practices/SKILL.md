@@ -1,6 +1,6 @@
 ---
 name: kerberos-best-practices
-description: Best Practices with Kerberos. best practices.
+description: "Best Practices with Kerberos. best practices."
 category: security
 tags: [kerberos, best-practices, security, security]
 models: [gpt-4, claude-3]

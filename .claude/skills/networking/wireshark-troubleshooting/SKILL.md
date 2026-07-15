@@ -1,6 +1,6 @@
 ---
 name: wireshark-troubleshooting
-description: Troubleshooting with Wireshark. debugging.
+description: "Troubleshooting with Wireshark. debugging."
 category: networking
 tags: [wireshark, troubleshooting, networking, networking-tool]
 models: [gpt-4, claude-3]

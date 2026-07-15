@@ -1,6 +1,6 @@
 ---
 name: square-setup
-description: Setup with Square. account setup.
+description: "Setup with Square. account setup."
 category: payments
 tags: [square-setup, payments, russian]
 models: [sonnet, opus]

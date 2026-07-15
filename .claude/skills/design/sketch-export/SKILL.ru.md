@@ -1,6 +1,6 @@
 ---
 name: sketch-export
-description: Export with Sketch. assets.
+description: "Export with Sketch. assets."
 category: design
 tags: [sketch-export, design, russian]
 models: [sonnet, opus]

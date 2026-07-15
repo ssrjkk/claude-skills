@@ -1,6 +1,6 @@
 ---
 name: avalanche-staking
-description: Staking with Avalanche. staking.
+description: "Staking with Avalanche. staking."
 category: blockchain
 tags: [avalanche, staking, blockchain, blockchain]
 models: [gpt-4, claude-3]

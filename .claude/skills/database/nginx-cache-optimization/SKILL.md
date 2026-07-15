@@ -1,6 +1,6 @@
 ---
 name: nginx-cache-optimization
-description: Optimization with Nginx Cache. performance tuning.
+description: "Optimization with Nginx Cache. performance tuning."
 category: database
 tags: [nginx-cache, optimization, database, caching]
 models: [gpt-4, claude-3]

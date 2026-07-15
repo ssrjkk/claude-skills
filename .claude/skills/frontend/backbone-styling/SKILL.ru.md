@@ -1,6 +1,6 @@
 ---
 name: backbone-styling
-description: Styling with Backbone. component styling.
+description: "Styling with Backbone. component styling."
 category: frontend
 tags: [backbone-styling, frontend, russian]
 models: [sonnet, opus]

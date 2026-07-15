@@ -1,6 +1,6 @@
 ---
 name: rabbitmq-integration
-description: Integration for Rabbitmq: integration with other tools
+description: "Integration for Rabbitmq: integration with other tools"
 category: backend
 tags: [rabbitmq-integration, backend, russian]
 models: [sonnet, opus]

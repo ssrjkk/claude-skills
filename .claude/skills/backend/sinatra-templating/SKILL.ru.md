@@ -1,6 +1,6 @@
 ---
 name: sinatra-templating
-description: Templating with Sinatra. ERB.
+description: "Templating with Sinatra. ERB."
 category: backend
 tags: [sinatra-templating, backend, russian]
 models: [sonnet, opus]

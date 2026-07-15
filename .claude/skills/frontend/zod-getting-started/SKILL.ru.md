@@ -1,6 +1,6 @@
 ---
 name: zod-getting-started
-description: Getting Started for Zod: initial setup and first steps
+description: "Getting Started for Zod: initial setup and first steps"
 category: frontend
 tags: [zod-getting-started, frontend, russian]
 models: [sonnet, opus]

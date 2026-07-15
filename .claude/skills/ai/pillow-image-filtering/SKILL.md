@@ -1,6 +1,6 @@
 ---
 name: pillow-image-filtering
-description: Image Filtering with Pillow. image filters.
+description: "Image Filtering with Pillow. image filters."
 category: ai
 tags: [pillow, image-filtering, ai, computer-vision]
 models: [gpt-4, claude-3]

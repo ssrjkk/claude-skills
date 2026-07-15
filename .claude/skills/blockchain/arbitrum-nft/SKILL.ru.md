@@ -1,6 +1,6 @@
 ---
 name: arbitrum-nft
-description: NFT with Arbitrum. tokens.
+description: "NFT with Arbitrum. tokens."
 category: blockchain
 tags: [arbitrum-nft, blockchain, russian]
 models: [sonnet, opus]

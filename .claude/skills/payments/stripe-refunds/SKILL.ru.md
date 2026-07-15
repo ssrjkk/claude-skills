@@ -1,6 +1,6 @@
 ---
 name: stripe-refunds
-description: Refunds with Stripe. refunds.
+description: "Refunds with Stripe. refunds."
 category: payments
 tags: [stripe-refunds, payments, russian]
 models: [sonnet, opus]

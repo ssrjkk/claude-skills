@@ -1,6 +1,6 @@
 ---
 name: couchdb-monitoring
-description: Monitoring with CouchDB. monitoring.
+description: "Monitoring with CouchDB. monitoring."
 category: database
 tags: [couchdb-monitoring, database, russian]
 models: [sonnet, opus]

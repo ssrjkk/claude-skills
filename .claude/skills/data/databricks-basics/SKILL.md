@@ -1,6 +1,6 @@
 ---
 name: databricks-basics
-description: Basics for Databricks: fundamentals and core concepts
+description: "Basics for Databricks: fundamentals and core concepts"
 category: data
 tags: [databricks, basics, data]
 models: [sonnet, opus]

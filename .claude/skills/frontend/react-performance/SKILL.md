@@ -1,6 +1,6 @@
 ---
 name: react-performance
-description: Performance with React. optimization.
+description: "Performance with React. optimization."
 category: frontend
 tags: [react, performance, frontend, frontend]
 models: [gpt-4, claude-3]

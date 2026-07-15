@@ -1,6 +1,6 @@
 ---
 name: security-skill-0166
-description: Specialized skill #0166 for security development
+description: "Specialized skill #0166 for security development"
 category: security
 tags: [skill-0166, security, russian]
 models: [sonnet, opus]

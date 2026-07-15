@@ -1,6 +1,6 @@
 ---
 name: stimulus-performance
-description: Performance with Stimulus. optimization.
+description: "Performance with Stimulus. optimization."
 category: frontend
 tags: [stimulus, performance, frontend, frontend]
 models: [gpt-4, claude-3]

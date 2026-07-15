@@ -1,6 +1,6 @@
 ---
 name: puppet-cicd
-description: CI/CD with Puppet. pipeline integration.
+description: "CI/CD with Puppet. pipeline integration."
 category: devops
 tags: [puppet, cicd, devops, iac]
 models: [gpt-4, claude-3]

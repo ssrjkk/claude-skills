@@ -1,6 +1,6 @@
 ---
 name: junit-basics
-description: Basics for Junit: fundamentals and core concepts
+description: "Basics for Junit: fundamentals and core concepts"
 category: qa
 tags: [junit-basics, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: archimate-tools
-description: Tools with ArchiMate. tooling.
+description: "Tools with ArchiMate. tooling."
 category: engineering
 tags: [archimate, tools, engineering, modeling]
 models: [gpt-4, claude-3]

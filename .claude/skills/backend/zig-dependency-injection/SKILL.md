@@ -1,6 +1,6 @@
 ---
 name: zig-dependency-injection
-description: DI with Zig. DI containers.
+description: "DI with Zig. DI containers."
 category: backend
 tags: [zig, dependency-injection, backend, backend]
 models: [gpt-4, claude-3]

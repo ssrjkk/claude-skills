@@ -1,6 +1,6 @@
 ---
 name: openxr-rendering
-description: Rendering with OpenXR. stereoscopic.
+description: "Rendering with OpenXR. stereoscopic."
 category: ar-vr
 tags: [openxr-rendering, ar-vr, russian]
 models: [sonnet, opus]

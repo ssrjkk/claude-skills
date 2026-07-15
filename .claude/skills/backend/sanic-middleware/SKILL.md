@@ -1,6 +1,6 @@
 ---
 name: sanic-middleware
-description: Middleware with Sanic. middleware pipelines.
+description: "Middleware with Sanic. middleware pipelines."
 category: backend
 tags: [sanic, middleware, backend, backend]
 models: [gpt-4, claude-3]

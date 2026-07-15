@@ -1,6 +1,6 @@
 ---
 name: microsplat-quickstart
-description: Quickstart for Microsplat: quick start guide
+description: "Quickstart for Microsplat: quick start guide"
 category: gamedev
 tags: [microsplat-quickstart, gamedev, russian]
 models: [sonnet, opus]

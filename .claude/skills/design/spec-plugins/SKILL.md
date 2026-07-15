@@ -1,6 +1,6 @@
 ---
 name: spec-plugins
-description: Plugins with Spec. plugins.
+description: "Plugins with Spec. plugins."
 category: design
 tags: [spec, plugins, design, design]
 models: [gpt-4, claude-3]

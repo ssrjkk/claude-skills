@@ -1,6 +1,6 @@
 ---
 name: leaflet-geocoding
-description: Geocoding with Leaflet. geocoding.
+description: "Geocoding with Leaflet. geocoding."
 category: geospatial
 tags: [leaflet, geocoding, geospatial, gis]
 models: [gpt-4, claude-3]

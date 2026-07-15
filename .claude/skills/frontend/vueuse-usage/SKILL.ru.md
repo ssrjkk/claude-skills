@@ -1,6 +1,6 @@
 ---
 name: vueuse-usage
-description: Usage for Vueuse: usage guide
+description: "Usage for Vueuse: usage guide"
 category: frontend
 tags: [vueuse-usage, frontend, russian]
 models: [sonnet, opus]

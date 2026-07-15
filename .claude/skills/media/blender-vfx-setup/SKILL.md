@@ -1,6 +1,6 @@
 ---
 name: blender-vfx-setup
-description: Setup with Blender VFX. setup.
+description: "Setup with Blender VFX. setup."
 category: media
 tags: [blender-vfx, setup, media, media-production]
 models: [gpt-4, claude-3]

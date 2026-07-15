@@ -1,6 +1,6 @@
 ---
 name: wazuh-automation
-description: Automation for Wazuh: automation and scripting
+description: "Automation for Wazuh: automation and scripting"
 category: security
 tags: [wazuh-automation, security, russian]
 models: [sonnet, opus]

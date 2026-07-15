@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-alerts
-description: Alerts with VictoriaMetrics. alerting rules.
+description: "Alerts with VictoriaMetrics. alerting rules."
 category: devops
 tags: [victoria-metrics, alerts, devops, monitoring]
 models: [gpt-4, claude-3]

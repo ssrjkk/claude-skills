@@ -1,6 +1,6 @@
 ---
 name: sails-websocket
-description: WebSocket with Sails.js. Socket.io.
+description: "WebSocket with Sails.js. Socket.io."
 category: backend
 tags: [sails, websocket, backend, backend]
 models: [gpt-4, claude-3]

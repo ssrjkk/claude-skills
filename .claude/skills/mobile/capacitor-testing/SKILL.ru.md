@@ -1,6 +1,6 @@
 ---
 name: capacitor-testing
-description: Testing with Capacitor. testing.
+description: "Testing with Capacitor. testing."
 category: mobile
 tags: [capacitor-testing, mobile, russian]
 models: [sonnet, opus]

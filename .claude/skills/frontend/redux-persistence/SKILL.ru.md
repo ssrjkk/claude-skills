@@ -1,6 +1,6 @@
 ---
 name: redux-persistence
-description: Persistence with Redux. state persistence.
+description: "Persistence with Redux. state persistence."
 category: frontend
 tags: [redux-persistence, frontend, russian]
 models: [sonnet, opus]

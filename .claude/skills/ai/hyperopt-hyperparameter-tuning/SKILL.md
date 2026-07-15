@@ -1,6 +1,6 @@
 ---
 name: hyperopt-hyperparameter-tuning
-description: Hyperparameter Tuning with Hyperopt. optimizing params.
+description: "Hyperparameter Tuning with Hyperopt. optimizing params."
 category: ai
 tags: [hyperopt, hyperparameter-tuning, ai, ml]
 models: [gpt-4, claude-3]

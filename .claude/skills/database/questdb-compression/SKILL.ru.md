@@ -1,6 +1,6 @@
 ---
 name: questdb-compression
-description: Compression with QuestDB. compression.
+description: "Compression with QuestDB. compression."
 category: database
 tags: [questdb-compression, database, russian]
 models: [sonnet, opus]

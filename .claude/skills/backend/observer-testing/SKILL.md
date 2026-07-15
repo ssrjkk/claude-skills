@@ -1,6 +1,6 @@
 ---
 name: observer-testing
-description: Testing with Observer. testing the pattern.
+description: "Testing with Observer. testing the pattern."
 category: backend
 tags: [observer, testing, backend, architecture]
 models: [gpt-4, claude-3]

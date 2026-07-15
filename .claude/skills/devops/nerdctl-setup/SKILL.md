@@ -1,6 +1,6 @@
 ---
 name: nerdctl-setup
-description: Setup with nerdctl. installation.
+description: "Setup with nerdctl. installation."
 category: devops
 tags: [nerdctl, setup, devops, container]
 models: [gpt-4, claude-3]

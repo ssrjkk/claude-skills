@@ -1,6 +1,6 @@
 ---
 name: qdrant-production
-description: Production for Qdrant: production deployment
+description: "Production for Qdrant: production deployment"
 category: ai
 tags: [qdrant, production, ai]
 models: [sonnet, opus]

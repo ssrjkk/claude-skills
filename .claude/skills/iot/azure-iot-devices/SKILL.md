@@ -1,6 +1,6 @@
 ---
 name: azure-iot-devices
-description: Devices with Azure IoT. device management.
+description: "Devices with Azure IoT. device management."
 category: iot
 tags: [azure-iot, devices, iot, iot-platform]
 models: [gpt-4, claude-3]

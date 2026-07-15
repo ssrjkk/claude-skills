@@ -1,6 +1,6 @@
 ---
 name: solid-ssr
-description: SSR with Solid. server rendering.
+description: "SSR with Solid. server rendering."
 category: frontend
 tags: [solid, ssr, frontend, frontend]
 models: [gpt-4, claude-3]

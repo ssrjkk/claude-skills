@@ -1,6 +1,6 @@
 ---
 name: junit-optimization
-description: Optimization for Junit: performance tuning and optimization
+description: "Optimization for Junit: performance tuning and optimization"
 category: qa
 tags: [junit, optimization, qa]
 models: [sonnet, opus]

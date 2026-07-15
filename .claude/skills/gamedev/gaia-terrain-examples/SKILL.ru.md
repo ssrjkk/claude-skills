@@ -1,6 +1,6 @@
 ---
 name: gaia-terrain-examples
-description: Examples for Gaia-Terrain: practical examples
+description: "Examples for Gaia-Terrain: practical examples"
 category: gamedev
 tags: [gaia-terrain-examples, gamedev, russian]
 models: [sonnet, opus]

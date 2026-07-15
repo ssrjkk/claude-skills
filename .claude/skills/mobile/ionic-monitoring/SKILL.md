@@ -1,6 +1,6 @@
 ---
 name: ionic-monitoring
-description: Monitoring for Ionic: monitoring and observability
+description: "Monitoring for Ionic: monitoring and observability"
 category: mobile
 tags: [ionic, monitoring, mobile]
 models: [sonnet, opus]

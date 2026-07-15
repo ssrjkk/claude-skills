@@ -1,6 +1,6 @@
 ---
 name: foundation-forms
-description: Forms with Foundation. form styling.
+description: "Forms with Foundation. form styling."
 category: frontend
 tags: [foundation, forms, frontend, css]
 models: [gpt-4, claude-3]

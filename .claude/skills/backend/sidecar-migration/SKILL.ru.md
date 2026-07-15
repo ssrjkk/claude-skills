@@ -1,6 +1,6 @@
 ---
 name: sidecar-migration
-description: Migration with Sidecar. adopting the pattern.
+description: "Migration with Sidecar. adopting the pattern."
 category: backend
 tags: [sidecar-migration, backend, russian]
 models: [sonnet, opus]

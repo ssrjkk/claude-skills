@@ -1,6 +1,6 @@
 ---
 name: sap-procurement
-description: Procurement with SAP SCM. procurement.
+description: "Procurement with SAP SCM. procurement."
 category: supply-chain
 tags: [sap-procurement, supply-chain, russian]
 models: [sonnet, opus]

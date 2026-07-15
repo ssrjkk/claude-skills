@@ -1,6 +1,6 @@
 ---
 name: openhab-devices
-description: Devices with openHAB. device management.
+description: "Devices with openHAB. device management."
 category: iot
 tags: [openhab, devices, iot, iot-platform]
 models: [gpt-4, claude-3]

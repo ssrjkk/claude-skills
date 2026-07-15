@@ -1,6 +1,6 @@
 ---
 name: apache-beam-etl
-description: ETL with Apache Beam. extract-transform-load.
+description: "ETL with Apache Beam. extract-transform-load."
 category: data
 tags: [apache-beam, etl, data, data-engineering]
 models: [gpt-4, claude-3]

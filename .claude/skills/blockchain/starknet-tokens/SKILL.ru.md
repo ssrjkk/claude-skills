@@ -1,6 +1,6 @@
 ---
 name: starknet-tokens
-description: Tokens with StarkNet. token standards.
+description: "Tokens with StarkNet. token standards."
 category: blockchain
 tags: [starknet-tokens, blockchain, russian]
 models: [sonnet, opus]

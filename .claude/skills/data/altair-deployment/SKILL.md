@@ -1,6 +1,6 @@
 ---
 name: altair-deployment
-description: Deployment with Altair. app deployment.
+description: "Deployment with Altair. app deployment."
 category: data
 tags: [altair, deployment, data, data-science]
 models: [gpt-4, claude-3]

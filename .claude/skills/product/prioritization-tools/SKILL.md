@@ -1,6 +1,6 @@
 ---
 name: prioritization-tools
-description: Tools with Prioritization. tools.
+description: "Tools with Prioritization. tools."
 category: product
 tags: [prioritization, tools, product, product-framework]
 models: [gpt-4, claude-3]

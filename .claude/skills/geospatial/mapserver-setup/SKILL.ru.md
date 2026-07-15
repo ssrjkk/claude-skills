@@ -1,6 +1,6 @@
 ---
 name: mapserver-setup
-description: Setup with MapServer. setup.
+description: "Setup with MapServer. setup."
 category: geospatial
 tags: [mapserver-setup, geospatial, russian]
 models: [sonnet, opus]

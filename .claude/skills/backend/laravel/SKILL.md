@@ -1,6 +1,6 @@
 ---
 name: laravel
-description: Creates web applications on Laravel with Eloquent ORM and Blade templates. Use for PHP web development.
+description: "Creates web applications on Laravel with Eloquent ORM and Blade templates. Use for PHP web development."
 category: backend
 tags: [laravel, php, eloquent, blade, mvc]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: algolia-scoring
-description: Scoring with Algolia. relevance scoring.
+description: "Scoring with Algolia. relevance scoring."
 category: database
 tags: [algolia, scoring, database, search-engine]
 models: [gpt-4, claude-3]

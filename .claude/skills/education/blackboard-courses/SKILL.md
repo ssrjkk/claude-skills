@@ -1,6 +1,6 @@
 ---
 name: blackboard-courses
-description: Courses with Blackboard. course creation.
+description: "Courses with Blackboard. course creation."
 category: education
 tags: [blackboard, courses, education, education-platform]
 models: [gpt-4, claude-3]

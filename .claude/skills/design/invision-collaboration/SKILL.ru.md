@@ -1,6 +1,6 @@
 ---
 name: invision-collaboration
-description: Collaboration with InVision. collaboration.
+description: "Collaboration with InVision. collaboration."
 category: design
 tags: [invision-collaboration, design, russian]
 models: [sonnet, opus]

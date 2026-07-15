@@ -1,6 +1,6 @@
 ---
 name: repository-testing
-description: Testing with Repository. testing the pattern.
+description: "Testing with Repository. testing the pattern."
 category: backend
 tags: [repository, testing, backend, architecture]
 models: [gpt-4, claude-3]

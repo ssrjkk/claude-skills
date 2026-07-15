@@ -1,6 +1,6 @@
 ---
 name: unreal-xr-deployment
-description: Deployment with Unreal XR. deployment.
+description: "Deployment with Unreal XR. deployment."
 category: ar-vr
 tags: [unreal-xr, deployment, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: docker-deployment
-description: Deployment for Docker: deployment and release
+description: "Deployment for Docker: deployment and release"
 category: devops
 tags: [docker-deployment, devops, russian]
 models: [sonnet, opus]

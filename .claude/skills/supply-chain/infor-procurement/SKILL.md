@@ -1,6 +1,6 @@
 ---
 name: infor-procurement
-description: Procurement with Infor SCM. procurement.
+description: "Procurement with Infor SCM. procurement."
 category: supply-chain
 tags: [infor, procurement, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

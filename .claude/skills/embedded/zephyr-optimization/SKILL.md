@@ -1,6 +1,6 @@
 ---
 name: zephyr-optimization
-description: Optimization with Zephyr. optimization.
+description: "Optimization with Zephyr. optimization."
 category: embedded
 tags: [zephyr, optimization, embedded, rtos]
 models: [gpt-4, claude-3]

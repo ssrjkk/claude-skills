@@ -1,6 +1,6 @@
 ---
 name: aiohttp-middleware
-description: Middleware with aiohttp. middleware pipelines.
+description: "Middleware with aiohttp. middleware pipelines."
 category: backend
 tags: [aiohttp, middleware, backend, backend]
 models: [gpt-4, claude-3]

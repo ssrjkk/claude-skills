@@ -1,6 +1,6 @@
 ---
 name: altair-visualization
-description: Visualization with Altair. charting.
+description: "Visualization with Altair. charting."
 category: data
 tags: [altair, visualization, data, data-science]
 models: [gpt-4, claude-3]

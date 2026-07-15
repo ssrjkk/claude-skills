@@ -1,6 +1,6 @@
 ---
 name: sphinx-monitoring
-description: Monitoring with Sphinx. cluster monitoring.
+description: "Monitoring with Sphinx. cluster monitoring."
 category: database
 tags: [sphinx, monitoring, database, search-engine]
 models: [gpt-4, claude-3]

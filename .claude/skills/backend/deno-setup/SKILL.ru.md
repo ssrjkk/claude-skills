@@ -1,6 +1,6 @@
 ---
 name: deno-setup
-description: Setup for Deno: setup guide
+description: "Setup for Deno: setup guide"
 category: backend
 tags: [deno-setup, backend, russian]
 models: [sonnet, opus]

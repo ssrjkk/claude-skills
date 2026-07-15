@@ -1,6 +1,6 @@
 ---
 name: refactoring-measurement
-description: Measurement with Refactoring. metrics.
+description: "Measurement with Refactoring. metrics."
 category: engineering
 tags: [refactoring-measurement, engineering, russian]
 models: [sonnet, opus]

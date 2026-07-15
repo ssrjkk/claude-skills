@@ -1,6 +1,6 @@
 ---
 name: laminas-api
-description: API with Laminas. APIs.
+description: "API with Laminas. APIs."
 category: backend
 tags: [laminas, api, backend, backend]
 models: [gpt-4, claude-3]

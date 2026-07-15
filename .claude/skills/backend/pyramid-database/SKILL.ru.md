@@ -1,6 +1,6 @@
 ---
 name: pyramid-database
-description: Database with Pyramid. DB access.
+description: "Database with Pyramid. DB access."
 category: backend
 tags: [pyramid-database, backend, russian]
 models: [sonnet, opus]

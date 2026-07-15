@@ -1,6 +1,6 @@
 ---
 name: gcp-bigquery-examples
-description: Examples for Gcp-Bigquery: practical examples
+description: "Examples for Gcp-Bigquery: practical examples"
 category: cloud
 tags: [gcp-bigquery-examples, cloud, russian]
 models: [sonnet, opus]

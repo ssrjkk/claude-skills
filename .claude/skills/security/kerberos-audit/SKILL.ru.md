@@ -1,6 +1,6 @@
 ---
 name: kerberos-audit
-description: Audit with Kerberos. security audit.
+description: "Audit with Kerberos. security audit."
 category: security
 tags: [kerberos-audit, security, russian]
 models: [sonnet, opus]

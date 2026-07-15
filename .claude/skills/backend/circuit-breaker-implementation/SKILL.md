@@ -1,6 +1,6 @@
 ---
 name: circuit-breaker-implementation
-description: Implementation with Circuit Breaker. practical implementation.
+description: "Implementation with Circuit Breaker. practical implementation."
 category: backend
 tags: [circuit-breaker, implementation, backend, architecture]
 models: [gpt-4, claude-3]

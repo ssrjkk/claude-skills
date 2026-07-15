@@ -1,6 +1,6 @@
 ---
 name: janusgraph-querying
-description: Querying with JanusGraph. Cypher/Gremlin.
+description: "Querying with JanusGraph. Cypher/Gremlin."
 category: database
 tags: [janusgraph, querying, database, graph-database]
 models: [gpt-4, claude-3]

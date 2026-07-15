@@ -1,6 +1,6 @@
 ---
 name: postcss-hmr
-description: HMR with PostCSS. hot reload.
+description: "HMR with PostCSS. hot reload."
 category: frontend
 tags: [postcss-hmr, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ddd-measurement
-description: Measurement with Domain-Driven Design. metrics.
+description: "Measurement with Domain-Driven Design. metrics."
 category: engineering
 tags: [ddd-measurement, engineering, russian]
 models: [sonnet, opus]

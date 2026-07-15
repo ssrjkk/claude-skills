@@ -1,6 +1,6 @@
 ---
 name: postgresql-testing
-description: Testing for Postgresql: testing and validation
+description: "Testing for Postgresql: testing and validation"
 category: database
 tags: [postgresql-testing, database, russian]
 models: [sonnet, opus]

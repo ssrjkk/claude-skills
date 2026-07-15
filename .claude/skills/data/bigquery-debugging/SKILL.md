@@ -1,6 +1,6 @@
 ---
 name: bigquery-debugging
-description: Debugging for Bigquery: debugging and troubleshooting
+description: "Debugging for Bigquery: debugging and troubleshooting"
 category: data
 tags: [bigquery, debugging, data]
 models: [sonnet, opus]

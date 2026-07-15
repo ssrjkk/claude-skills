@@ -1,6 +1,6 @@
 ---
 name: masonite-testing
-description: Testing with Masonite. integration tests.
+description: "Testing with Masonite. integration tests."
 category: backend
 tags: [masonite-testing, backend, russian]
 models: [sonnet, opus]

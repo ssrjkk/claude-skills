@@ -1,6 +1,6 @@
 ---
 name: claude-advanced
-description: Advanced for Claude: advanced patterns and techniques
+description: "Advanced for Claude: advanced patterns and techniques"
 category: ai
 tags: [claude-advanced, ai, russian]
 models: [sonnet, opus]

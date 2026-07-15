@@ -1,6 +1,6 @@
 ---
 name: cursor-ide
-description: Using Cursor IDE with advanced AI features
+description: "Using Cursor IDE with advanced AI features"
 category: ai
 tags: [cursor, ide, ai, editor, development]
 models: [sonnet, opus]

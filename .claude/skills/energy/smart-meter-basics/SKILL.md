@@ -1,6 +1,6 @@
 ---
 name: smart-meter-basics
-description: Basics with Smart Metering. fundamentals.
+description: "Basics with Smart Metering. fundamentals."
 category: energy
 tags: [smart-meter, basics, energy, smart-grid]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: oauth-debugging
-description: Debugging for Oauth: debugging and troubleshooting
+description: "Debugging for Oauth: debugging and troubleshooting"
 category: security
 tags: [oauth, debugging, security]
 models: [sonnet, opus]

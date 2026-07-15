@@ -1,6 +1,6 @@
 ---
 name: solr-monitoring
-description: Monitoring with Solr. cluster monitoring.
+description: "Monitoring with Solr. cluster monitoring."
 category: database
 tags: [solr-monitoring, database, russian]
 models: [sonnet, opus]

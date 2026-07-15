@@ -1,6 +1,6 @@
 ---
 name: firestore-optimization
-description: Optimization with Firestore. performance.
+description: "Optimization with Firestore. performance."
 category: database
 tags: [firestore, optimization, database, nosql]
 models: [gpt-4, claude-3]

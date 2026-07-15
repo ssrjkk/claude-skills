@@ -1,6 +1,6 @@
 ---
 name: reportportal-automation
-description: Automation for Reportportal: automation and scripting
+description: "Automation for Reportportal: automation and scripting"
 category: qa
 tags: [reportportal, automation, qa]
 models: [sonnet, opus]

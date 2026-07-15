@@ -1,6 +1,6 @@
 ---
 name: system-design-best-practices
-description: Best Practices with System Design. practices.
+description: "Best Practices with System Design. practices."
 category: engineering
 tags: [system-design-best-practices, engineering, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: xamarin-push
-description: Push with Xamarin. push notifications.
+description: "Push with Xamarin. push notifications."
 category: mobile
 tags: [xamarin-push, mobile, russian]
 models: [sonnet, opus]

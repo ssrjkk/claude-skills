@@ -1,6 +1,6 @@
 ---
 name: zap-analysis
-description: Analysis with ZAP. analysis.
+description: "Analysis with ZAP. analysis."
 category: security
 tags: [zap-analysis, security, russian]
 models: [sonnet, opus]

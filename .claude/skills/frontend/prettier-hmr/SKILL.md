@@ -1,6 +1,6 @@
 ---
 name: prettier-hmr
-description: HMR with Prettier. hot reload.
+description: "HMR with Prettier. hot reload."
 category: frontend
 tags: [prettier, hmr, frontend, build-tool]
 models: [gpt-4, claude-3]

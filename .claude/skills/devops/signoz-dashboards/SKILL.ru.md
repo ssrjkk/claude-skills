@@ -1,6 +1,6 @@
 ---
 name: signoz-dashboards
-description: Dashboards with SigNoz. dashboards.
+description: "Dashboards with SigNoz. dashboards."
 category: devops
 tags: [signoz-dashboards, devops, russian]
 models: [sonnet, opus]

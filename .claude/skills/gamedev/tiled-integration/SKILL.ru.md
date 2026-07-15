@@ -1,6 +1,6 @@
 ---
 name: tiled-integration
-description: Integration for Tiled: integration with other tools
+description: "Integration for Tiled: integration with other tools"
 category: gamedev
 tags: [tiled-integration, gamedev, russian]
 models: [sonnet, opus]

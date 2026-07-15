@@ -1,6 +1,6 @@
 ---
 name: x509-tools
-description: Tools with X.509. security tools.
+description: "Tools with X.509. security tools."
 category: security
 tags: [x509-tools, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: workday-setup
-description: Setup with Workday. setup.
+description: "Setup with Workday. setup."
 category: hr
 tags: [workday, setup, hr, hr-tech]
 models: [gpt-4, claude-3]

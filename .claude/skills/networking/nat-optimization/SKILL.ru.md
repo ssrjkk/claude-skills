@@ -1,6 +1,6 @@
 ---
 name: nat-optimization
-description: Optimization with NAT. tuning.
+description: "Optimization with NAT. tuning."
 category: networking
 tags: [nat-optimization, networking, russian]
 models: [sonnet, opus]

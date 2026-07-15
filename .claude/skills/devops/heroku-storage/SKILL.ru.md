@@ -1,6 +1,6 @@
 ---
 name: heroku-storage
-description: Storage with Heroku. object storage.
+description: "Storage with Heroku. object storage."
 category: devops
 tags: [heroku-storage, devops, russian]
 models: [sonnet, opus]

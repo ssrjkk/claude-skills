@@ -1,6 +1,6 @@
 ---
 name: a-b-testing-reporting
-description: Reporting with A/B Testing. reports.
+description: "Reporting with A/B Testing. reports."
 category: design
 tags: [a-b-testing, reporting, design, ux-research]
 models: [gpt-4, claude-3]

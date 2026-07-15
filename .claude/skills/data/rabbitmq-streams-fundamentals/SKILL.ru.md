@@ -1,6 +1,6 @@
 ---
 name: rabbitmq-streams-fundamentals
-description: Fundamentals for Rabbitmq-Streams: core concepts
+description: "Fundamentals for Rabbitmq-Streams: core concepts"
 category: data
 tags: [rabbitmq-streams-fundamentals, data, russian]
 models: [sonnet, opus]

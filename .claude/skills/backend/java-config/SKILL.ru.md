@@ -1,6 +1,6 @@
 ---
 name: java-config
-description: Configuration with Java. config management.
+description: "Configuration with Java. config management."
 category: backend
 tags: [java-config, backend, russian]
 models: [sonnet, opus]

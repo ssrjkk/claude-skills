@@ -1,6 +1,6 @@
 ---
 name: hololens-interaction
-description: Interaction with HoloLens. hand tracking.
+description: "Interaction with HoloLens. hand tracking."
 category: ar-vr
 tags: [hololens-interaction, ar-vr, russian]
 models: [sonnet, opus]

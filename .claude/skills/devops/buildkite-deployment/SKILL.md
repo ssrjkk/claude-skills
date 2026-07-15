@@ -1,6 +1,6 @@
 ---
 name: buildkite-deployment
-description: Deployment with Buildkite. auto-deploy.
+description: "Deployment with Buildkite. auto-deploy."
 category: devops
 tags: [buildkite, deployment, devops, ci-cd]
 models: [gpt-4, claude-3]

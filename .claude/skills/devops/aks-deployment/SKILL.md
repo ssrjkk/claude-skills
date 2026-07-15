@@ -1,6 +1,6 @@
 ---
 name: aks-deployment
-description: Deployment with Azure AKS. apps deployment.
+description: "Deployment with Azure AKS. apps deployment."
 category: devops
 tags: [aks, deployment, devops, kubernetes]
 models: [gpt-4, claude-3]

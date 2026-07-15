@@ -1,6 +1,6 @@
 ---
 name: ospf-monitoring
-description: Monitoring with OSPF. monitoring.
+description: "Monitoring with OSPF. monitoring."
 category: networking
 tags: [ospf-monitoring, networking, russian]
 models: [sonnet, opus]

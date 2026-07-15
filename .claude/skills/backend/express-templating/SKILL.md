@@ -1,6 +1,6 @@
 ---
 name: express-templating
-description: Templating with Express. Pug.
+description: "Templating with Express. Pug."
 category: backend
 tags: [express, templating, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: itil-best-practices
-description: Best Practices with ITIL. practices.
+description: "Best Practices with ITIL. practices."
 category: product
 tags: [itil, best-practices, product, methodology]
 models: [gpt-4, claude-3]

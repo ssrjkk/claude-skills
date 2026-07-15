@@ -1,6 +1,6 @@
 ---
 name: self-hosted-guides
-description: Guides for Self-Hosted: how-to guides
+description: "Guides for Self-Hosted: how-to guides"
 category: devops
 tags: [self-hosted, guides, devops]
 models: [sonnet, opus]

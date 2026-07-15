@@ -1,6 +1,6 @@
 ---
 name: gensim-dependency-parsing
-description: Dependency Parsing with Gensim. syntax analysis.
+description: "Dependency Parsing with Gensim. syntax analysis."
 category: ai
 tags: [gensim, dependency-parsing, ai, nlp]
 models: [gpt-4, claude-3]

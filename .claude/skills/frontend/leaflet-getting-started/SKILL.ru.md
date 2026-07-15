@@ -1,6 +1,6 @@
 ---
 name: leaflet-getting-started
-description: Getting Started for Leaflet: initial setup and first steps
+description: "Getting Started for Leaflet: initial setup and first steps"
 category: frontend
 tags: [leaflet-getting-started, frontend, russian]
 models: [sonnet, opus]

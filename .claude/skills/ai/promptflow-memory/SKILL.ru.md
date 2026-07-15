@@ -1,6 +1,6 @@
 ---
 name: promptflow-memory
-description: Memory with Promptflow. conversation memory.
+description: "Memory with Promptflow. conversation memory."
 category: ai
 tags: [promptflow-memory, ai, russian]
 models: [sonnet, opus]

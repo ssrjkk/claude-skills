@@ -1,6 +1,6 @@
 ---
 name: prettier-bundling
-description: Bundling with Prettier. code bundling.
+description: "Bundling with Prettier. code bundling."
 category: frontend
 tags: [prettier, bundling, frontend, build-tool]
 models: [gpt-4, claude-3]

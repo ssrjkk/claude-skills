@@ -1,6 +1,6 @@
 ---
 name: bulma-grid
-description: Grid with Bulma. layout grids.
+description: "Grid with Bulma. layout grids."
 category: frontend
 tags: [bulma, grid, frontend, css]
 models: [gpt-4, claude-3]

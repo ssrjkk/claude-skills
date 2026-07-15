@@ -1,6 +1,6 @@
 ---
 name: less-implementation
-description: Implementation with LeSS. adoption.
+description: "Implementation with LeSS. adoption."
 category: product
 tags: [less-implementation, product, russian]
 models: [sonnet, opus]

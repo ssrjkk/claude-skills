@@ -1,6 +1,6 @@
 ---
 name: clearml-pipeline
-description: Pipeline with Clearml. ML pipelines.
+description: "Pipeline with Clearml. ML pipelines."
 category: ai
 tags: [clearml-pipeline, ai, russian]
 models: [sonnet, opus]

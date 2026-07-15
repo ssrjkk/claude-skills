@@ -1,6 +1,6 @@
 ---
 name: suricata-troubleshooting
-description: Troubleshooting for Suricata: troubleshooting common issues
+description: "Troubleshooting for Suricata: troubleshooting common issues"
 category: security
 tags: [suricata-troubleshooting, security, russian]
 models: [sonnet, opus]

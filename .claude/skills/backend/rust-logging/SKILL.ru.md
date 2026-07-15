@@ -1,6 +1,6 @@
 ---
 name: rust-logging
-description: Logging with Rust. app logging.
+description: "Logging with Rust. app logging."
 category: backend
 tags: [rust-logging, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: prince2-best-practices
-description: Best Practices with PRINCE2. practices.
+description: "Best Practices with PRINCE2. practices."
 category: product
 tags: [prince2-best-practices, product, russian]
 models: [sonnet, opus]

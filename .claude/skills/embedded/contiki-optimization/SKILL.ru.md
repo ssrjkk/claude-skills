@@ -1,6 +1,6 @@
 ---
 name: contiki-optimization
-description: Optimization with Contiki-NG. optimization.
+description: "Optimization with Contiki-NG. optimization."
 category: embedded
 tags: [contiki-optimization, embedded, russian]
 models: [sonnet, opus]

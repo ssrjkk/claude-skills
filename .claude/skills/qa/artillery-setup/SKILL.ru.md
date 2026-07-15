@@ -1,6 +1,6 @@
 ---
 name: artillery-setup
-description: Setup with Artillery. installation.
+description: "Setup with Artillery. installation."
 category: qa
 tags: [artillery-setup, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ping-configuration
-description: Config with ping/traceroute. advanced config.
+description: "Config with ping/traceroute. advanced config."
 category: networking
 tags: [ping-configuration, networking, russian]
 models: [sonnet, opus]

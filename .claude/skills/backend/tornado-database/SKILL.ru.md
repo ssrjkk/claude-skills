@@ -1,6 +1,6 @@
 ---
 name: tornado-database
-description: Database with Tornado. DB access.
+description: "Database with Tornado. DB access."
 category: backend
 tags: [tornado-database, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: saleor-shipping
-description: Shipping with Saleor. shipping.
+description: "Shipping with Saleor. shipping."
 category: ecommerce
 tags: [saleor-shipping, ecommerce, russian]
 models: [sonnet, opus]

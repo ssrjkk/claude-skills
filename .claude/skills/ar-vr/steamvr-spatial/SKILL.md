@@ -1,6 +1,6 @@
 ---
 name: steamvr-spatial
-description: Spatial with SteamVR. room mapping.
+description: "Spatial with SteamVR. room mapping."
 category: ar-vr
 tags: [steamvr, spatial, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

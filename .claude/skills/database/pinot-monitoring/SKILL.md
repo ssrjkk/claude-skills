@@ -1,6 +1,6 @@
 ---
 name: pinot-monitoring
-description: Monitoring with Apache Pinot. monitoring.
+description: "Monitoring with Apache Pinot. monitoring."
 category: database
 tags: [pinot, monitoring, database, time-series]
 models: [gpt-4, claude-3]

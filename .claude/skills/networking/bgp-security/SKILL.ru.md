@@ -1,6 +1,6 @@
 ---
 name: bgp-security
-description: Security with BGP. hardening.
+description: "Security with BGP. hardening."
 category: networking
 tags: [bgp-security, networking, russian]
 models: [sonnet, opus]

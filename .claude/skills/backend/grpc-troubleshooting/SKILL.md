@@ -1,6 +1,6 @@
 ---
 name: grpc-troubleshooting
-description: Troubleshooting for Grpc: troubleshooting common issues
+description: "Troubleshooting for Grpc: troubleshooting common issues"
 category: backend
 tags: [grpc, troubleshooting, backend]
 models: [sonnet, opus]

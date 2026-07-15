@@ -1,6 +1,6 @@
 ---
 name: dart-web-framework
-description: Web Framework with Dart. web dev.
+description: "Web Framework with Dart. web dev."
 category: backend
 tags: [dart, web-framework, backend, backend]
 models: [gpt-4, claude-3]

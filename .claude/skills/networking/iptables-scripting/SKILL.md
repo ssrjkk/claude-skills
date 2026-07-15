@@ -1,6 +1,6 @@
 ---
 name: iptables-scripting
-description: Scripting with iptables/nftables. automation.
+description: "Scripting with iptables/nftables. automation."
 category: networking
 tags: [iptables, scripting, networking, networking-tool]
 models: [gpt-4, claude-3]

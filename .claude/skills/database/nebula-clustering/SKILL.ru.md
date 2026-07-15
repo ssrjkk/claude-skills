@@ -1,6 +1,6 @@
 ---
 name: nebula-clustering
-description: Clustering with Nebula Graph. clustering.
+description: "Clustering with Nebula Graph. clustering."
 category: database
 tags: [nebula-clustering, database, russian]
 models: [sonnet, opus]

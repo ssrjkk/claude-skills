@@ -1,6 +1,6 @@
 ---
 name: redshift-debugging
-description: Debugging for Redshift: debugging and troubleshooting
+description: "Debugging for Redshift: debugging and troubleshooting"
 category: data
 tags: [redshift-debugging, data, russian]
 models: [sonnet, opus]

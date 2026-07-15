@@ -1,6 +1,6 @@
 ---
 name: lightgbm-regression
-description: Regression with Lightgbm. predicting values.
+description: "Regression with Lightgbm. predicting values."
 category: ai
 tags: [lightgbm, regression, ai, ml]
 models: [gpt-4, claude-3]

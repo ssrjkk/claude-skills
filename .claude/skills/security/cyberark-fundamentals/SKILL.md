@@ -1,6 +1,6 @@
 ---
 name: cyberark-fundamentals
-description: Fundamentals for Cyberark: core concepts
+description: "Fundamentals for Cyberark: core concepts"
 category: security
 tags: [cyberark, fundamentals, security]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: transformers-transfer-learning
-description: Transfer Learning with Transformers. transfer learning.
+description: "Transfer Learning with Transformers. transfer learning."
 category: ai
 tags: [transformers-transfer-learning, ai, russian]
 models: [sonnet, opus]

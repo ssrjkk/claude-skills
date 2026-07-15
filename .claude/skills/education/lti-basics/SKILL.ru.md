@@ -1,6 +1,6 @@
 ---
 name: lti-basics
-description: Basics with LTI. fundamentals.
+description: "Basics with LTI. fundamentals."
 category: education
 tags: [lti-basics, education, russian]
 models: [sonnet, opus]

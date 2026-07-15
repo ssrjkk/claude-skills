@@ -1,6 +1,6 @@
 ---
 name: terraform-gcp
-description: Provisions GCP infrastructure using Terraform modules for compute, networking, and managed services. Use for GCP infrastructure as code.
+description: "Provisions GCP infrastructure using Terraform modules for compute, networking, and managed services. Use for GCP infrastructure as code."
 category: devops
 tags: [terraform, gcp, infrastructure, iac, cloud]
 models: [sonnet, opus]

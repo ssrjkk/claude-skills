@@ -1,6 +1,6 @@
 ---
 name: iis-security
-description: Security with IIS. security.
+description: "Security with IIS. security."
 category: os-admin
 tags: [iis, security, os-admin, windows]
 models: [gpt-4, claude-3]

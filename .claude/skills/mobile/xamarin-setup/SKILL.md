@@ -1,6 +1,6 @@
 ---
 name: xamarin-setup
-description: Setup with Xamarin. setup.
+description: "Setup with Xamarin. setup."
 category: mobile
 tags: [xamarin, setup, mobile, mobile]
 models: [gpt-4, claude-3]

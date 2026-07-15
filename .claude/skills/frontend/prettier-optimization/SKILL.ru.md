@@ -1,6 +1,6 @@
 ---
 name: prettier-optimization
-description: Optimization with Prettier. build optimization.
+description: "Optimization with Prettier. build optimization."
 category: frontend
 tags: [prettier-optimization, frontend, russian]
 models: [sonnet, opus]

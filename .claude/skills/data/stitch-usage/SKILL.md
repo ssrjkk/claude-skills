@@ -1,6 +1,6 @@
 ---
 name: stitch-usage
-description: Usage for Stitch: usage reference
+description: "Usage for Stitch: usage reference"
 category: data
 tags: [stitch, usage, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: powershell-setup
-description: Setup with PowerShell. installation.
+description: "Setup with PowerShell. installation."
 category: os-admin
 tags: [powershell-setup, os-admin, russian]
 models: [sonnet, opus]

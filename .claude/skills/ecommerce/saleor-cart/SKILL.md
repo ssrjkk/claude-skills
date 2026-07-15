@@ -1,6 +1,6 @@
 ---
 name: saleor-cart
-description: Cart with Saleor. cart.
+description: "Cart with Saleor. cart."
 category: ecommerce
 tags: [saleor, cart, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

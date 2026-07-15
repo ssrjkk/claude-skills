@@ -1,6 +1,6 @@
 ---
 name: lean-maturity
-description: Maturity with Lean. assessment.
+description: "Maturity with Lean. assessment."
 category: product
 tags: [lean-maturity, product, russian]
 models: [sonnet, opus]

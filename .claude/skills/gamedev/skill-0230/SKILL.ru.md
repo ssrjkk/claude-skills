@@ -1,6 +1,6 @@
 ---
 name: skill-0230
-description: Specialized skill #0230 for gamedev development
+description: "Specialized skill #0230 for gamedev development"
 category: gamedev
 tags: [skill-0230, gamedev, russian]
 models: [sonnet, opus]

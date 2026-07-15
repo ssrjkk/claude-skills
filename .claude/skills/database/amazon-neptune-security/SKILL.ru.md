@@ -1,6 +1,6 @@
 ---
 name: amazon-neptune-security
-description: Security with Amazon Neptune. security.
+description: "Security with Amazon Neptune. security."
 category: database
 tags: [amazon-neptune-security, database, russian]
 models: [sonnet, opus]

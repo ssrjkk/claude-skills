@@ -1,6 +1,6 @@
 ---
 name: hono-intro
-description: Intro for Hono: introduction
+description: "Intro for Hono: introduction"
 category: backend
 tags: [hono, intro, backend]
 models: [sonnet, opus]

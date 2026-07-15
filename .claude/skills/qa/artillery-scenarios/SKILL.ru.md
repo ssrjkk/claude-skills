@@ -1,6 +1,6 @@
 ---
 name: artillery-scenarios
-description: Scenarios with Artillery. test scenarios.
+description: "Scenarios with Artillery. test scenarios."
 category: qa
 tags: [artillery-scenarios, qa, russian]
 models: [sonnet, opus]

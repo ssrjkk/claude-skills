@@ -1,6 +1,6 @@
 ---
 name: bitsandbytes-inference
-description: Inference with Bitsandbytes. running models.
+description: "Inference with Bitsandbytes. running models."
 category: ai
 tags: [bitsandbytes, inference, ai, deep-learning]
 models: [gpt-4, claude-3]

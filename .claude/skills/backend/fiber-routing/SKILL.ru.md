@@ -1,6 +1,6 @@
 ---
 name: fiber-routing
-description: Routing with Fiber. HTTP routing.
+description: "Routing with Fiber. HTTP routing."
 category: backend
 tags: [fiber-routing, backend, russian]
 models: [sonnet, opus]

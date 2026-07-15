@@ -1,6 +1,6 @@
 ---
 name: caffe2-training
-description: Training with Caffe2. training models.
+description: "Training with Caffe2. training models."
 category: ai
 tags: [caffe2-training, ai, russian]
 models: [sonnet, opus]

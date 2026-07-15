@@ -1,6 +1,6 @@
 ---
 name: scikit-image-edge-detection
-description: Edge Detection with Scikit Image. edge detection.
+description: "Edge Detection with Scikit Image. edge detection."
 category: ai
 tags: [scikit-image, edge-detection, ai, computer-vision]
 models: [gpt-4, claude-3]

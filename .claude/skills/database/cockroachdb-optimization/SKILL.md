@@ -1,6 +1,6 @@
 ---
 name: cockroachdb-optimization
-description: Optimization with CockroachDB. query tuning.
+description: "Optimization with CockroachDB. query tuning."
 category: database
 tags: [cockroachdb, optimization, database, sql]
 models: [gpt-4, claude-3]

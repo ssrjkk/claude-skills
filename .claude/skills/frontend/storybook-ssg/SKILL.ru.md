@@ -1,6 +1,6 @@
 ---
 name: storybook-ssg
-description: SSG with Storybook. static generation.
+description: "SSG with Storybook. static generation."
 category: frontend
 tags: [storybook-ssg, frontend, russian]
 models: [sonnet, opus]

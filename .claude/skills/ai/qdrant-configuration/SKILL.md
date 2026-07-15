@@ -1,6 +1,6 @@
 ---
 name: qdrant-configuration
-description: Configuration for Qdrant: configuration and setup
+description: "Configuration for Qdrant: configuration and setup"
 category: ai
 tags: [qdrant, configuration, ai]
 models: [sonnet, opus]

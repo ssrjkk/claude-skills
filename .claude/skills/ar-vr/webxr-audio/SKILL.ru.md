@@ -1,6 +1,6 @@
 ---
 name: webxr-audio
-description: Audio with WebXR. spatial audio.
+description: "Audio with WebXR. spatial audio."
 category: ar-vr
 tags: [webxr-audio, ar-vr, russian]
 models: [sonnet, opus]

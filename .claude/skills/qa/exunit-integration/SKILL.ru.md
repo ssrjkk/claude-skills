@@ -1,6 +1,6 @@
 ---
 name: exunit-integration
-description: Integration with ExUnit. integration tests.
+description: "Integration with ExUnit. integration tests."
 category: qa
 tags: [exunit-integration, qa, russian]
 models: [sonnet, opus]

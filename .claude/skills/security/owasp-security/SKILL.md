@@ -1,6 +1,6 @@
 ---
 name: owasp-security
-description: Security for Owasp: security best practices
+description: "Security for Owasp: security best practices"
 category: security
 tags: [owasp, security, security]
 models: [sonnet, opus]

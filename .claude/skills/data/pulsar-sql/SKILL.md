@@ -1,6 +1,6 @@
 ---
 name: pulsar-sql
-description: SQL with Pulsar. SQL queries.
+description: "SQL with Pulsar. SQL queries."
 category: data
 tags: [pulsar, sql, data, data-engineering]
 models: [gpt-4, claude-3]

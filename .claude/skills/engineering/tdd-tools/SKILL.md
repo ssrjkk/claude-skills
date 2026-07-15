@@ -1,6 +1,6 @@
 ---
 name: tdd-tools
-description: Tools with TDD. tooling.
+description: "Tools with TDD. tooling."
 category: engineering
 tags: [tdd, tools, engineering, engineering]
 models: [gpt-4, claude-3]

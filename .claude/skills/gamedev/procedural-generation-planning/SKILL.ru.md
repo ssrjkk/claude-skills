@@ -1,6 +1,6 @@
 ---
 name: procedural-generation-planning
-description: Planning with Procedural Generation. planning.
+description: "Planning with Procedural Generation. planning."
 category: gamedev
 tags: [procedural-generation-planning, gamedev, russian]
 models: [sonnet, opus]

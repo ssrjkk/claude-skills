@@ -1,6 +1,6 @@
 ---
 name: nerdctl-registry
-description: Registry with nerdctl. image registry.
+description: "Registry with nerdctl. image registry."
 category: devops
 tags: [nerdctl-registry, devops, russian]
 models: [sonnet, opus]

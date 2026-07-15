@@ -1,6 +1,6 @@
 ---
 name: surreal-security
-description: Security with SurrealDB. security.
+description: "Security with SurrealDB. security."
 category: database
 tags: [surreal, security, database, nosql]
 models: [gpt-4, claude-3]

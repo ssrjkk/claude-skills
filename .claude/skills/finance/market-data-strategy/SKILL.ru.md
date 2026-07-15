@@ -1,6 +1,6 @@
 ---
 name: market-data-strategy
-description: Strategy with Market Data. strategy dev.
+description: "Strategy with Market Data. strategy dev."
 category: finance
 tags: [market-data-strategy, finance, russian]
 models: [sonnet, opus]

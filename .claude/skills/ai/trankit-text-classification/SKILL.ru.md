@@ -1,6 +1,6 @@
 ---
 name: trankit-text-classification
-description: Text Classification with Trankit. document categorization.
+description: "Text Classification with Trankit. document categorization."
 category: ai
 tags: [trankit-text-classification, ai, russian]
 models: [sonnet, opus]

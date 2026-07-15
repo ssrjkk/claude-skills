@@ -1,6 +1,6 @@
 ---
 name: bamboohr-payroll
-description: Payroll with BambooHR. payroll.
+description: "Payroll with BambooHR. payroll."
 category: hr
 tags: [bamboohr-payroll, hr, russian]
 models: [sonnet, opus]

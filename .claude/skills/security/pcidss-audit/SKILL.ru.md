@@ -1,6 +1,6 @@
 ---
 name: pcidss-audit
-description: Audit with PCI DSS. security audit.
+description: "Audit with PCI DSS. security audit."
 category: security
 tags: [pcidss-audit, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sap-planning
-description: Planning with SAP SCM. demand planning.
+description: "Planning with SAP SCM. demand planning."
 category: supply-chain
 tags: [sap, planning, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: cva-setup
-description: Setup for Cva: setup guide
+description: "Setup for Cva: setup guide"
 category: frontend
 tags: [cva-setup, frontend, russian]
 models: [sonnet, opus]

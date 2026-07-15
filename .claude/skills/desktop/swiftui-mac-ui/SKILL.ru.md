@@ -1,6 +1,6 @@
 ---
 name: swiftui-mac-ui
-description: UI with SwiftUI Mac. UI components.
+description: "UI with SwiftUI Mac. UI components."
 category: desktop
 tags: [swiftui-mac-ui, desktop, russian]
 models: [sonnet, opus]

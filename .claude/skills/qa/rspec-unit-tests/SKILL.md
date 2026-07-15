@@ -1,6 +1,6 @@
 ---
 name: rspec-unit-tests
-description: Unit Tests with RSpec. unit testing.
+description: "Unit Tests with RSpec. unit testing."
 category: qa
 tags: [rspec, unit-tests, qa, testing]
 models: [gpt-4, claude-3]

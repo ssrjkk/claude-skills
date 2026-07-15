@@ -1,6 +1,6 @@
 ---
 name: near-nft
-description: NFT with NEAR. tokens.
+description: "NFT with NEAR. tokens."
 category: blockchain
 tags: [near-nft, blockchain, russian]
 models: [sonnet, opus]

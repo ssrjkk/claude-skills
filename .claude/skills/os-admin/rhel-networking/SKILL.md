@@ -1,6 +1,6 @@
 ---
 name: rhel-networking
-description: Networking with RHEL. network config.
+description: "Networking with RHEL. network config."
 category: os-admin
 tags: [rhel, networking, os-admin, linux]
 models: [gpt-4, claude-3]

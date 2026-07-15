@@ -1,6 +1,6 @@
 ---
 name: erlang-testing
-description: Testing with Erlang. writing tests.
+description: "Testing with Erlang. writing tests."
 category: backend
 tags: [erlang, testing, backend, backend]
 models: [gpt-4, claude-3]

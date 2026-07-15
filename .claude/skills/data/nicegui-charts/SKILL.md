@@ -1,6 +1,6 @@
 ---
 name: nicegui-charts
-description: Charts with NiceGUI. charts.
+description: "Charts with NiceGUI. charts."
 category: data
 tags: [nicegui, charts, data, data-apps]
 models: [gpt-4, claude-3]

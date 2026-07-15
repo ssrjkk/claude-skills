@@ -1,6 +1,6 @@
 ---
 name: fastlane-configuration
-description: Configuration for Fastlane: configuration and setup
+description: "Configuration for Fastlane: configuration and setup"
 category: mobile
 tags: [fastlane-configuration, mobile, russian]
 models: [sonnet, opus]

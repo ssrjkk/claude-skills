@@ -1,6 +1,6 @@
 ---
 name: eks-deployment
-description: Deployment with Amazon EKS. apps deployment.
+description: "Deployment with Amazon EKS. apps deployment."
 category: devops
 tags: [eks-deployment, devops, russian]
 models: [sonnet, opus]

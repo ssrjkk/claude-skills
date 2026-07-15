@@ -1,6 +1,6 @@
 ---
 name: bolt-examples
-description: Examples for Bolt: practical examples
+description: "Examples for Bolt: practical examples"
 category: gamedev
 tags: [bolt-examples, gamedev, russian]
 models: [sonnet, opus]

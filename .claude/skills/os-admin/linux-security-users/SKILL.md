@@ -1,6 +1,6 @@
 ---
 name: linux-security-users
-description: Users with Linux Security. user management.
+description: "Users with Linux Security. user management."
 category: os-admin
 tags: [linux-security, users, os-admin, linux]
 models: [gpt-4, claude-3]

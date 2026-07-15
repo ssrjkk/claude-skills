@@ -1,6 +1,6 @@
 ---
 name: javalin-routing
-description: Routing with Javalin. HTTP routing.
+description: "Routing with Javalin. HTTP routing."
 category: backend
 tags: [javalin-routing, backend, russian]
 models: [sonnet, opus]

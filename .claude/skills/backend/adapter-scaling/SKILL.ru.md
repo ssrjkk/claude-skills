@@ -1,6 +1,6 @@
 ---
 name: adapter-scaling
-description: Scaling with Adapter. scaling considerations.
+description: "Scaling with Adapter. scaling considerations."
 category: backend
 tags: [adapter-scaling, backend, russian]
 models: [sonnet, opus]

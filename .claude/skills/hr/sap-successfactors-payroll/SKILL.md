@@ -1,6 +1,6 @@
 ---
 name: sap-successfactors-payroll
-description: Payroll with SAP SuccessFactors. payroll.
+description: "Payroll with SAP SuccessFactors. payroll."
 category: hr
 tags: [sap-successfactors, payroll, hr, hr-tech]
 models: [gpt-4, claude-3]

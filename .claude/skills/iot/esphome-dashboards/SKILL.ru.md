@@ -1,6 +1,6 @@
 ---
 name: esphome-dashboards
-description: Dashboards with ESPHome. dashboards.
+description: "Dashboards with ESPHome. dashboards."
 category: iot
 tags: [esphome-dashboards, iot, russian]
 models: [sonnet, opus]

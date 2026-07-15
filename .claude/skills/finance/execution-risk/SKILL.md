@@ -1,6 +1,6 @@
 ---
 name: execution-risk
-description: Risk with Execution Systems. risk analysis.
+description: "Risk with Execution Systems. risk analysis."
 category: finance
 tags: [execution, risk, finance, trading]
 models: [gpt-4, claude-3]

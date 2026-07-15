@@ -1,6 +1,6 @@
 ---
 name: paypal-checkout
-description: Checkout with PayPal. checkout flow.
+description: "Checkout with PayPal. checkout flow."
 category: payments
 tags: [paypal, checkout, payments, payments]
 models: [gpt-4, claude-3]

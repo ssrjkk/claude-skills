@@ -1,6 +1,6 @@
 ---
 name: throttling-intro
-description: Introduction with Throttling. understanding the pattern.
+description: "Introduction with Throttling. understanding the pattern."
 category: backend
 tags: [throttling, intro, backend, architecture]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: k0s-deployment
-description: Deployment with K0s. apps deployment.
+description: "Deployment with K0s. apps deployment."
 category: devops
 tags: [k0s-deployment, devops, russian]
 models: [sonnet, opus]

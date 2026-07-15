@@ -1,6 +1,6 @@
 ---
 name: avalanche-dapps
-description: DApps with Avalanche. decentralized apps.
+description: "DApps with Avalanche. decentralized apps."
 category: blockchain
 tags: [avalanche, dapps, blockchain, blockchain]
 models: [gpt-4, claude-3]

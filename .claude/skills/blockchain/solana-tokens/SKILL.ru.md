@@ -1,6 +1,6 @@
 ---
 name: solana-tokens
-description: Tokens with Solana. token standards.
+description: "Tokens with Solana. token standards."
 category: blockchain
 tags: [solana-tokens, blockchain, russian]
 models: [sonnet, opus]

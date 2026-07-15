@@ -1,6 +1,6 @@
 ---
 name: ollama-fundamentals
-description: Fundamentals for Ollama: core concepts
+description: "Fundamentals for Ollama: core concepts"
 category: ai
 tags: [ollama-fundamentals, ai, russian]
 models: [sonnet, opus]

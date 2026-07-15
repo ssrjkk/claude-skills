@@ -1,6 +1,6 @@
 ---
 name: gnuplot-parallel
-description: Parallel with gnuplot. parallel computing.
+description: "Parallel with gnuplot. parallel computing."
 category: scientific
 tags: [gnuplot, parallel, scientific, scientific-computing]
 models: [gpt-4, claude-3]

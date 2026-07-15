@@ -1,6 +1,6 @@
 ---
 name: milvus-getting-started
-description: Getting Started for Milvus: initial setup and first steps
+description: "Getting Started for Milvus: initial setup and first steps"
 category: ai
 tags: [milvus, getting-started, ai]
 models: [sonnet, opus]

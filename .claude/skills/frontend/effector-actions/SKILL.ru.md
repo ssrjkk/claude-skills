@@ -1,6 +1,6 @@
 ---
 name: effector-actions
-description: Actions with Effector. actions.
+description: "Actions with Effector. actions."
 category: frontend
 tags: [effector-actions, frontend, russian]
 models: [sonnet, opus]

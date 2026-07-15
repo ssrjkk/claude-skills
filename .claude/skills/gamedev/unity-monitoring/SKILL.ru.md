@@ -1,6 +1,6 @@
 ---
 name: unity-monitoring
-description: Monitoring for Unity: monitoring and observability
+description: "Monitoring for Unity: monitoring and observability"
 category: gamedev
 tags: [unity-monitoring, gamedev, russian]
 models: [sonnet, opus]

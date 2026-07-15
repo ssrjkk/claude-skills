@@ -1,6 +1,6 @@
 ---
 name: jda-setup
-description: Setup with JDA/Blue Yonder. setup.
+description: "Setup with JDA/Blue Yonder. setup."
 category: supply-chain
 tags: [jda, setup, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: firestore-monitoring
-description: Monitoring with Firestore. monitoring.
+description: "Monitoring with Firestore. monitoring."
 category: database
 tags: [firestore-monitoring, database, russian]
 models: [sonnet, opus]

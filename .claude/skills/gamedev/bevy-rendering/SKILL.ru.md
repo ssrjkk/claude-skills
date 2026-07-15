@@ -1,6 +1,6 @@
 ---
 name: bevy-rendering
-description: Rendering with Bevy. graphics.
+description: "Rendering with Bevy. graphics."
 category: gamedev
 tags: [bevy-rendering, gamedev, russian]
 models: [sonnet, opus]

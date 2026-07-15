@@ -1,6 +1,6 @@
 ---
 name: opensearch-monitoring
-description: Monitoring with OpenSearch. cluster monitoring.
+description: "Monitoring with OpenSearch. cluster monitoring."
 category: database
 tags: [opensearch, monitoring, database, search-engine]
 models: [gpt-4, claude-3]

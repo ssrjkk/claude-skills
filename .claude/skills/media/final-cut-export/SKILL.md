@@ -1,6 +1,6 @@
 ---
 name: final-cut-export
-description: Export with Final Cut Pro. export.
+description: "Export with Final Cut Pro. export."
 category: media
 tags: [final-cut, export, media, media-production]
 models: [gpt-4, claude-3]

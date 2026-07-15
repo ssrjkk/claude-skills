@@ -1,6 +1,6 @@
 ---
 name: teachable-courses
-description: Courses with Teachable. course creation.
+description: "Courses with Teachable. course creation."
 category: education
 tags: [teachable, courses, education, education-platform]
 models: [gpt-4, claude-3]

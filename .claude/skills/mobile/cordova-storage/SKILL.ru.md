@@ -1,6 +1,6 @@
 ---
 name: cordova-storage
-description: Storage with Cordova. local storage.
+description: "Storage with Cordova. local storage."
 category: mobile
 tags: [cordova-storage, mobile, russian]
 models: [sonnet, opus]

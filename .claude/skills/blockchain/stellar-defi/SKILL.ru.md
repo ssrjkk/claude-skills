@@ -1,6 +1,6 @@
 ---
 name: stellar-defi
-description: DeFi with Stellar. DeFi.
+description: "DeFi with Stellar. DeFi."
 category: blockchain
 tags: [stellar-defi, blockchain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: diawi-best-practices
-description: Best Practices for Diawi: best practices and patterns
+description: "Best Practices for Diawi: best practices and patterns"
 category: mobile
 tags: [diawi, best-practices, mobile]
 models: [sonnet, opus]

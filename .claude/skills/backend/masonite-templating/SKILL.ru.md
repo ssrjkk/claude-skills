@@ -1,6 +1,6 @@
 ---
 name: masonite-templating
-description: Templating with Masonite. server templates.
+description: "Templating with Masonite. server templates."
 category: backend
 tags: [masonite-templating, backend, russian]
 models: [sonnet, opus]

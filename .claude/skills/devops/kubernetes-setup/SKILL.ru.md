@@ -1,6 +1,6 @@
 ---
 name: kubernetes-setup
-description: Setup for Kubernetes: installation and configuration
+description: "Setup for Kubernetes: installation and configuration"
 category: devops
 tags: [kubernetes-setup, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: motion-variants-intro
-description: Intro for Motion-Variants: introduction
+description: "Intro for Motion-Variants: introduction"
 category: frontend
 tags: [motion-variants-intro, frontend, russian]
 models: [sonnet, opus]

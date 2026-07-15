@@ -1,6 +1,6 @@
 ---
 name: workbox-usage
-description: Usage for Workbox: usage reference
+description: "Usage for Workbox: usage reference"
 category: frontend
 tags: [workbox, usage, frontend]
 models: [sonnet, opus]

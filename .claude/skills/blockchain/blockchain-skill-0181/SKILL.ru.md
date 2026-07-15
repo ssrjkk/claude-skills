@@ -1,6 +1,6 @@
 ---
 name: blockchain-skill-0181
-description: Specialized skill #0181 for blockchain development
+description: "Specialized skill #0181 for blockchain development"
 category: blockchain
 tags: [skill-0181, blockchain, russian]
 models: [sonnet, opus]

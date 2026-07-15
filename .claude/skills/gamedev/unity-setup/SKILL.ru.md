@@ -1,6 +1,6 @@
 ---
 name: unity-setup
-description: Setup with Unity. engine setup.
+description: "Setup with Unity. engine setup."
 category: gamedev
 tags: [unity-setup, gamedev, russian]
 models: [sonnet, opus]

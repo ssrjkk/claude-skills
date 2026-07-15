@@ -1,6 +1,6 @@
 ---
 name: virtual-thread-intro
-description: Intro for Virtual-Thread: introduction
+description: "Intro for Virtual-Thread: introduction"
 category: backend
 tags: [virtual-thread-intro, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: semantic-ui-typography
-description: Typography with Semantic UI. text styling.
+description: "Typography with Semantic UI. text styling."
 category: frontend
 tags: [semantic-ui-typography, frontend, russian]
 models: [sonnet, opus]

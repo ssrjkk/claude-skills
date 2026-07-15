@@ -1,6 +1,6 @@
 ---
 name: tcpdump-configuration
-description: Config with tcpdump. advanced config.
+description: "Config with tcpdump. advanced config."
 category: networking
 tags: [tcpdump-configuration, networking, russian]
 models: [sonnet, opus]

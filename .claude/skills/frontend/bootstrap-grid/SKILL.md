@@ -1,6 +1,6 @@
 ---
 name: bootstrap-grid
-description: Grid with Bootstrap. layout grids.
+description: "Grid with Bootstrap. layout grids."
 category: frontend
 tags: [bootstrap, grid, frontend, css]
 models: [gpt-4, claude-3]

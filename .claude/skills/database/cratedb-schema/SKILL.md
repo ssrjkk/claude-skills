@@ -1,6 +1,6 @@
 ---
 name: cratedb-schema
-description: Schema Design with CrateDB. schema.
+description: "Schema Design with CrateDB. schema."
 category: database
 tags: [cratedb, schema, database, sql]
 models: [gpt-4, claude-3]

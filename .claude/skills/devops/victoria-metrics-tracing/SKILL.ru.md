@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-tracing
-description: Tracing with VictoriaMetrics. distributed tracing.
+description: "Tracing with VictoriaMetrics. distributed tracing."
 category: devops
 tags: [victoria-metrics-tracing, devops, russian]
 models: [sonnet, opus]

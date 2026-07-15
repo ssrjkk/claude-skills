@@ -1,6 +1,6 @@
 ---
 name: falcon-testing
-description: Testing with Falcon. integration tests.
+description: "Testing with Falcon. integration tests."
 category: backend
 tags: [falcon, testing, backend, backend]
 models: [gpt-4, claude-3]

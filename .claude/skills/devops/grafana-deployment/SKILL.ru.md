@@ -1,6 +1,6 @@
 ---
 name: grafana-deployment
-description: Deployment for Grafana: deployment and release
+description: "Deployment for Grafana: deployment and release"
 category: devops
 tags: [grafana-deployment, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: huggingface-debugging
-description: Debugging for Huggingface: debugging and troubleshooting
+description: "Debugging for Huggingface: debugging and troubleshooting"
 category: ai
 tags: [huggingface, debugging, ai]
 models: [sonnet, opus]

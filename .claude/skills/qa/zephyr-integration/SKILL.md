@@ -1,6 +1,6 @@
 ---
 name: zephyr-integration
-description: Integration for Zephyr: integration with other tools
+description: "Integration for Zephyr: integration with other tools"
 category: qa
 tags: [zephyr, integration, qa]
 models: [sonnet, opus]

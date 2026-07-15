@@ -1,6 +1,6 @@
 ---
 name: swift-ios-ui
-description: UI with Swift iOS. UI components.
+description: "UI with Swift iOS. UI components."
 category: mobile
 tags: [swift-ios, ui, mobile, mobile]
 models: [gpt-4, claude-3]

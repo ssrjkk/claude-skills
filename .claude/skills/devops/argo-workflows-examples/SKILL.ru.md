@@ -1,6 +1,6 @@
 ---
 name: argo-workflows-examples
-description: Examples for Argo-Workflows: practical examples
+description: "Examples for Argo-Workflows: practical examples"
 category: devops
 tags: [argo-workflows-examples, devops, russian]
 models: [sonnet, opus]

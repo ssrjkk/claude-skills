@@ -1,6 +1,6 @@
 ---
 name: shiny-charts
-description: Charts with Shiny. charts.
+description: "Charts with Shiny. charts."
 category: data
 tags: [shiny-charts, data, russian]
 models: [sonnet, opus]

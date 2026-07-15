@@ -1,6 +1,6 @@
 ---
 name: wireshark-setup
-description: Setup with Wireshark. installation.
+description: "Setup with Wireshark. installation."
 category: security
 tags: [wireshark-setup, security, russian]
 models: [sonnet, opus]

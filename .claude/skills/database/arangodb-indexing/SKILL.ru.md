@@ -1,6 +1,6 @@
 ---
 name: arangodb-indexing
-description: Indexing with ArangoDB. indexes.
+description: "Indexing with ArangoDB. indexes."
 category: database
 tags: [arangodb-indexing, database, russian]
 models: [sonnet, opus]

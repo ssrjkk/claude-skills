@@ -1,6 +1,6 @@
 ---
 name: onesignal-production
-description: Production for Onesignal: production deployment
+description: "Production for Onesignal: production deployment"
 category: mobile
 tags: [onesignal-production, mobile, russian]
 models: [sonnet, opus]

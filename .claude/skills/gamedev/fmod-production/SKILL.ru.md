@@ -1,6 +1,6 @@
 ---
 name: fmod-production
-description: Production for Fmod: production deployment
+description: "Production for Fmod: production deployment"
 category: gamedev
 tags: [fmod-production, gamedev, russian]
 models: [sonnet, opus]

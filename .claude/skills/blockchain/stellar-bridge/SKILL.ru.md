@@ -1,6 +1,6 @@
 ---
 name: stellar-bridge
-description: Bridge with Stellar. cross-chain.
+description: "Bridge with Stellar. cross-chain."
 category: blockchain
 tags: [stellar-bridge, blockchain, russian]
 models: [sonnet, opus]

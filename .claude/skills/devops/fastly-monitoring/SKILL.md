@@ -1,6 +1,6 @@
 ---
 name: fastly-monitoring
-description: Monitoring with Fastly. monitoring.
+description: "Monitoring with Fastly. monitoring."
 category: devops
 tags: [fastly, monitoring, devops, cloud]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: cardano-tokens
-description: Tokens with Cardano. token standards.
+description: "Tokens with Cardano. token standards."
 category: blockchain
 tags: [cardano, tokens, blockchain, blockchain]
 models: [gpt-4, claude-3]

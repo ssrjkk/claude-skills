@@ -1,6 +1,6 @@
 ---
 name: magento-marketing
-description: Marketing with Magento. marketing.
+description: "Marketing with Magento. marketing."
 category: ecommerce
 tags: [magento-marketing, ecommerce, russian]
 models: [sonnet, opus]

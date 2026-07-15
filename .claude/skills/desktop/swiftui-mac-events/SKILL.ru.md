@@ -1,6 +1,6 @@
 ---
 name: swiftui-mac-events
-description: Events with SwiftUI Mac. event handling.
+description: "Events with SwiftUI Mac. event handling."
 category: desktop
 tags: [swiftui-mac-events, desktop, russian]
 models: [sonnet, opus]

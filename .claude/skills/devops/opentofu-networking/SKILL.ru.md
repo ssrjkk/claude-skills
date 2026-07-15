@@ -1,6 +1,6 @@
 ---
 name: opentofu-networking
-description: Networking with OpenTofu. network infra.
+description: "Networking with OpenTofu. network infra."
 category: devops
 tags: [opentofu-networking, devops, russian]
 models: [sonnet, opus]

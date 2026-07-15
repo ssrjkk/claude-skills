@@ -1,6 +1,6 @@
 ---
 name: tpot-regression
-description: Regression with Tpot. predicting values.
+description: "Regression with Tpot. predicting values."
 category: ai
 tags: [tpot, regression, ai, ml]
 models: [gpt-4, claude-3]

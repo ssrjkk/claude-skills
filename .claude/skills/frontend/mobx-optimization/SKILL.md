@@ -1,6 +1,6 @@
 ---
 name: mobx-optimization
-description: Optimization with MobX. performance.
+description: "Optimization with MobX. performance."
 category: frontend
 tags: [mobx, optimization, frontend, state-management]
 models: [gpt-4, claude-3]

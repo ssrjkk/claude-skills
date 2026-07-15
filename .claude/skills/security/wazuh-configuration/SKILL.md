@@ -1,6 +1,6 @@
 ---
 name: wazuh-configuration
-description: Configuration for Wazuh: configuration and setup
+description: "Configuration for Wazuh: configuration and setup"
 category: security
 tags: [wazuh, configuration, security]
 models: [sonnet, opus]

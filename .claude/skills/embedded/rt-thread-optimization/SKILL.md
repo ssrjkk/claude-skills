@@ -1,6 +1,6 @@
 ---
 name: rt-thread-optimization
-description: Optimization with RT-Thread. optimization.
+description: "Optimization with RT-Thread. optimization."
 category: embedded
 tags: [rt-thread, optimization, embedded, rtos]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: wwise-workflow
-description: Workflow for Wwise: workflow optimization
+description: "Workflow for Wwise: workflow optimization"
 category: gamedev
 tags: [wwise-workflow, gamedev, russian]
 models: [sonnet, opus]

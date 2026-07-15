@@ -1,6 +1,6 @@
 ---
 name: infor-warehousing
-description: Warehousing with Infor SCM. WMS.
+description: "Warehousing with Infor SCM. WMS."
 category: supply-chain
 tags: [infor, warehousing, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

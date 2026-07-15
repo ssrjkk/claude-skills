@@ -1,6 +1,6 @@
 ---
 name: preact-accessibility
-description: Accessibility with Preact. a11y.
+description: "Accessibility with Preact. a11y."
 category: frontend
 tags: [preact, accessibility, frontend, frontend]
 models: [gpt-4, claude-3]

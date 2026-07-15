@@ -1,6 +1,6 @@
 ---
 name: cocos-physics
-description: Physics with Cocos Creator. physics.
+description: "Physics with Cocos Creator. physics."
 category: gamedev
 tags: [cocos-physics, gamedev, russian]
 models: [sonnet, opus]

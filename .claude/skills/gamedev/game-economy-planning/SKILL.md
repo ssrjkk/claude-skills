@@ -1,6 +1,6 @@
 ---
 name: game-economy-planning
-description: Planning with Game Economy. planning.
+description: "Planning with Game Economy. planning."
 category: gamedev
 tags: [game-economy, planning, gamedev, game-design]
 models: [gpt-4, claude-3]

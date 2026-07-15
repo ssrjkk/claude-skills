@@ -1,6 +1,6 @@
 ---
 name: milligram-theming
-description: Theming with Milligram. custom themes.
+description: "Theming with Milligram. custom themes."
 category: frontend
 tags: [milligram-theming, frontend, russian]
 models: [sonnet, opus]

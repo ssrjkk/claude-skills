@@ -1,6 +1,6 @@
 ---
 name: detox
-description: Tests React Native applications E2E with Detox, gray box testing, and device synchronization.
+description: "Tests React Native applications E2E with Detox, gray box testing, and device synchronization."
 category: qa
 tags: [detox, react-native, e2e, mobile-testing, automation]
 models: [sonnet, opus]

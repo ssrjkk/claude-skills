@@ -1,6 +1,6 @@
 ---
 name: altair-cleaning
-description: Cleaning with Altair. data cleaning.
+description: "Cleaning with Altair. data cleaning."
 category: data
 tags: [altair-cleaning, data, russian]
 models: [sonnet, opus]

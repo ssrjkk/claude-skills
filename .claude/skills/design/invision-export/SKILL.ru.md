@@ -1,6 +1,6 @@
 ---
 name: invision-export
-description: Export with InVision. assets.
+description: "Export with InVision. assets."
 category: design
 tags: [invision-export, design, russian]
 models: [sonnet, opus]

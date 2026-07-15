@@ -1,6 +1,6 @@
 ---
 name: detox-ci
-description: CI with Detox. CI integration.
+description: "CI with Detox. CI integration."
 category: qa
 tags: [detox, ci, qa, e2e]
 models: [gpt-4, claude-3]

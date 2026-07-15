@@ -1,6 +1,6 @@
 ---
 name: oauth2-incident-response
-description: Incident Response with OAuth 2.0. incident response.
+description: "Incident Response with OAuth 2.0. incident response."
 category: security
 tags: [oauth2, incident-response, security, security]
 models: [gpt-4, claude-3]

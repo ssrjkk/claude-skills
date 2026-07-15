@@ -1,6 +1,6 @@
 ---
 name: stylus-setup
-description: Setup with Stylus. initial setup.
+description: "Setup with Stylus. initial setup."
 category: frontend
 tags: [stylus, setup, frontend, build-tool]
 models: [gpt-4, claude-3]

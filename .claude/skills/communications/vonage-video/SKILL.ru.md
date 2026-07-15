@@ -1,6 +1,6 @@
 ---
 name: vonage-video
-description: Video with Vonage. video calls.
+description: "Video with Vonage. video calls."
 category: communications
 tags: [vonage-video, communications, russian]
 models: [sonnet, opus]

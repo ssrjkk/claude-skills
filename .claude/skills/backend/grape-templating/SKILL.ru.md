@@ -1,6 +1,6 @@
 ---
 name: grape-templating
-description: Templating with Grape. ERB.
+description: "Templating with Grape. ERB."
 category: backend
 tags: [grape-templating, backend, russian]
 models: [sonnet, opus]

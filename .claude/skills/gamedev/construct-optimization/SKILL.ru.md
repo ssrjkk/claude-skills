@@ -1,6 +1,6 @@
 ---
 name: construct-optimization
-description: Optimization with Construct. performance.
+description: "Optimization with Construct. performance."
 category: gamedev
 tags: [construct-optimization, gamedev, russian]
 models: [sonnet, opus]

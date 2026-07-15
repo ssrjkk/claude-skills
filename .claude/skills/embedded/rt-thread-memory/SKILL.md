@@ -1,6 +1,6 @@
 ---
 name: rt-thread-memory
-description: Memory with RT-Thread. memory management.
+description: "Memory with RT-Thread. memory management."
 category: embedded
 tags: [rt-thread, memory, embedded, rtos]
 models: [gpt-4, claude-3]

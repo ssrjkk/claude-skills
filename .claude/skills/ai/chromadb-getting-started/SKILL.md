@@ -1,6 +1,6 @@
 ---
 name: chromadb-getting-started
-description: Getting Started for Chromadb: initial setup and first steps
+description: "Getting Started for Chromadb: initial setup and first steps"
 category: ai
 tags: [chromadb, getting-started, ai]
 models: [sonnet, opus]

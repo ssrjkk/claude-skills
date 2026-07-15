@@ -1,6 +1,6 @@
 ---
 name: spring-boot-deployment
-description: Deployment with Spring Boot. build.
+description: "Deployment with Spring Boot. build."
 category: backend
 tags: [spring-boot-deployment, backend, russian]
 models: [sonnet, opus]

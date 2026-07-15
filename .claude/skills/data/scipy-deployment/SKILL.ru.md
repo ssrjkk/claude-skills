@@ -1,6 +1,6 @@
 ---
 name: scipy-deployment
-description: Deployment with SciPy. app deployment.
+description: "Deployment with SciPy. app deployment."
 category: data
 tags: [scipy-deployment, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ai-testing
-description: AI-powered test generation and validation
+description: "AI-powered test generation and validation"
 category: engineering
 tags: [testing, ai, test-generation, quality, automation]
 models: [sonnet, opus]

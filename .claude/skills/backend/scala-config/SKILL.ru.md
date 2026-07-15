@@ -1,6 +1,6 @@
 ---
 name: scala-config
-description: Configuration with Scala. config management.
+description: "Configuration with Scala. config management."
 category: backend
 tags: [scala-config, backend, russian]
 models: [sonnet, opus]

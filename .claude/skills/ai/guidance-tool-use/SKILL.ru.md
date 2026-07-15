@@ -1,6 +1,6 @@
 ---
 name: guidance-tool-use
-description: Tool Use with Guidance. function calling.
+description: "Tool Use with Guidance. function calling."
 category: ai
 tags: [guidance-tool-use, ai, russian]
 models: [sonnet, opus]

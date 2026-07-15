@@ -1,6 +1,6 @@
 ---
 name: etl-pipeline
-description: Builds ETL pipelines with Python, Pandas, and SQLAlchemy. Use for extracting, transforming, and loading data between systems.
+description: "Builds ETL pipelines with Python, Pandas, and SQLAlchemy. Use for extracting, transforming, and loading data between systems."
 category: data
 tags: [etl, python, pandas, sqlalchemy, data-pipeline]
 models: [sonnet, opus]

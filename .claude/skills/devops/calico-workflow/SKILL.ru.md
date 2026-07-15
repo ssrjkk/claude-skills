@@ -1,6 +1,6 @@
 ---
 name: calico-workflow
-description: Workflow for Calico: workflow optimization
+description: "Workflow for Calico: workflow optimization"
 category: devops
 tags: [calico-workflow, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: auto-sklearn-model-selection
-description: Model Selection with Auto Sklearn. choosing models.
+description: "Model Selection with Auto Sklearn. choosing models."
 category: ai
 tags: [auto-sklearn-model-selection, ai, russian]
 models: [sonnet, opus]

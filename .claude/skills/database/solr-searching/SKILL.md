@@ -1,6 +1,6 @@
 ---
 name: solr-searching
-description: Searching with Solr. full-text search.
+description: "Searching with Solr. full-text search."
 category: database
 tags: [solr, searching, database, search-engine]
 models: [gpt-4, claude-3]

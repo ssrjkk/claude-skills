@@ -1,6 +1,6 @@
 ---
 name: catboost-hyperparameter-tuning
-description: Hyperparameter Tuning with Catboost. optimizing params.
+description: "Hyperparameter Tuning with Catboost. optimizing params."
 category: ai
 tags: [catboost-hyperparameter-tuning, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: php-dependency-injection
-description: DI with Php. DI containers.
+description: "DI with Php. DI containers."
 category: backend
 tags: [php, dependency-injection, backend, backend]
 models: [gpt-4, claude-3]

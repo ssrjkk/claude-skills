@@ -1,6 +1,6 @@
 ---
 name: leaflet-analysis
-description: Analysis with Leaflet. spatial analysis.
+description: "Analysis with Leaflet. spatial analysis."
 category: geospatial
 tags: [leaflet-analysis, geospatial, russian]
 models: [sonnet, opus]

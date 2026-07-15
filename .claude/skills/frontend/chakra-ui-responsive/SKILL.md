@@ -1,6 +1,6 @@
 ---
 name: chakra-ui-responsive
-description: Responsive with Chakra UI. mobile-first.
+description: "Responsive with Chakra UI. mobile-first."
 category: frontend
 tags: [chakra-ui, responsive, frontend, css]
 models: [gpt-4, claude-3]

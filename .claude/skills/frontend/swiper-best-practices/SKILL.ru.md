@@ -1,6 +1,6 @@
 ---
 name: swiper-best-practices
-description: Best Practices for Swiper: best practices and patterns
+description: "Best Practices for Swiper: best practices and patterns"
 category: frontend
 tags: [swiper-best-practices, frontend, russian]
 models: [sonnet, opus]

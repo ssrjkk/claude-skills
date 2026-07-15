@@ -1,6 +1,6 @@
 ---
 name: claude-code-customization
-description: Customizing Claude Code with CLAUDE.md
+description: "Customizing Claude Code with CLAUDE.md"
 category: ai
 tags: [claude-code-customization, ai, russian]
 models: [sonnet, opus]

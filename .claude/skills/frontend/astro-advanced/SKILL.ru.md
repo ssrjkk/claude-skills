@@ -1,6 +1,6 @@
 ---
 name: astro-advanced
-description: Advanced for Astro: advanced patterns and techniques
+description: "Advanced for Astro: advanced patterns and techniques"
 category: frontend
 tags: [astro-advanced, frontend, russian]
 models: [sonnet, opus]

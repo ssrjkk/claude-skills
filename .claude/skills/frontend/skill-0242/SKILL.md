@@ -1,6 +1,6 @@
 ---
 name: skill-0242
-description: Specialized skill #0242 for frontend development
+description: "Specialized skill #0242 for frontend development"
 category: frontend
 tags: [frontend, skill, 0242]
 models: [sonnet, opus]

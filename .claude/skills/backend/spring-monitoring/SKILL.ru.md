@@ -1,6 +1,6 @@
 ---
 name: spring-monitoring
-description: Monitoring for Spring: monitoring and observability
+description: "Monitoring for Spring: monitoring and observability"
 category: backend
 tags: [spring-monitoring, backend, russian]
 models: [sonnet, opus]

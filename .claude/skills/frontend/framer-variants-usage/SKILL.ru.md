@@ -1,6 +1,6 @@
 ---
 name: framer-variants-usage
-description: Usage for Framer-Variants: usage guide
+description: "Usage for Framer-Variants: usage guide"
 category: frontend
 tags: [framer-variants-usage, frontend, russian]
 models: [sonnet, opus]

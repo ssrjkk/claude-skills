@@ -1,6 +1,6 @@
 ---
 name: nmap-security
-description: Security with Nmap. security testing.
+description: "Security with Nmap. security testing."
 category: networking
 tags: [nmap, security, networking, networking-tool]
 models: [gpt-4, claude-3]

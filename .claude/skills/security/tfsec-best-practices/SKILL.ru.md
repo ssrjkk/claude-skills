@@ -1,6 +1,6 @@
 ---
 name: tfsec-best-practices
-description: Best Practices for Tfsec: best practices and patterns
+description: "Best Practices for Tfsec: best practices and patterns"
 category: security
 tags: [tfsec-best-practices, security, russian]
 models: [sonnet, opus]

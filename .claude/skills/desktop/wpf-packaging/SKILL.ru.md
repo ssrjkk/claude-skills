@@ -1,6 +1,6 @@
 ---
 name: wpf-packaging
-description: Packaging with WPF. app packaging.
+description: "Packaging with WPF. app packaging."
 category: desktop
 tags: [wpf-packaging, desktop, russian]
 models: [sonnet, opus]

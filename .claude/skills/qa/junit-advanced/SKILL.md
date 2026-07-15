@@ -1,6 +1,6 @@
 ---
 name: junit-advanced
-description: Advanced for Junit: advanced patterns and techniques
+description: "Advanced for Junit: advanced patterns and techniques"
 category: qa
 tags: [junit, advanced, qa]
 models: [sonnet, opus]

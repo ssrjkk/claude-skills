@@ -1,6 +1,6 @@
 ---
 name: github-actions-monitoring
-description: Monitoring with GitHub Actions. monitoring.
+description: "Monitoring with GitHub Actions. monitoring."
 category: devops
 tags: [github-actions, monitoring, devops, ci-cd]
 models: [gpt-4, claude-3]

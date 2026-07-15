@@ -1,6 +1,6 @@
 ---
 name: itil-basics
-description: Basics with ITIL. fundamentals.
+description: "Basics with ITIL. fundamentals."
 category: product
 tags: [itil, basics, product, methodology]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: sphinx-searching
-description: Searching with Sphinx. full-text search.
+description: "Searching with Sphinx. full-text search."
 category: database
 tags: [sphinx-searching, database, russian]
 models: [sonnet, opus]

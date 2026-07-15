@@ -1,6 +1,6 @@
 ---
 name: godot-rendering
-description: Rendering with Godot. graphics.
+description: "Rendering with Godot. graphics."
 category: gamedev
 tags: [godot, rendering, gamedev, game-engine]
 models: [gpt-4, claude-3]

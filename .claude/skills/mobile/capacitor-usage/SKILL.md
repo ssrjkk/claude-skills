@@ -1,6 +1,6 @@
 ---
 name: capacitor-usage
-description: Usage for Capacitor: usage reference
+description: "Usage for Capacitor: usage reference"
 category: mobile
 tags: [capacitor, usage, mobile]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: after-effects-effects
-description: Effects with After Effects. VFX.
+description: "Effects with After Effects. VFX."
 category: media
 tags: [after-effects, effects, media, media-production]
 models: [gpt-4, claude-3]

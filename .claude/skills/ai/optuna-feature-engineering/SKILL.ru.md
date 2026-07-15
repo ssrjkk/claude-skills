@@ -1,6 +1,6 @@
 ---
 name: optuna-feature-engineering
-description: Feature Engineering with Optuna. creating features.
+description: "Feature Engineering with Optuna. creating features."
 category: ai
 tags: [optuna-feature-engineering, ai, russian]
 models: [sonnet, opus]

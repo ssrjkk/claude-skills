@@ -1,6 +1,6 @@
 ---
 name: crowdstrike-production
-description: Production for Crowdstrike: production deployment
+description: "Production for Crowdstrike: production deployment"
 category: security
 tags: [crowdstrike-production, security, russian]
 models: [sonnet, opus]

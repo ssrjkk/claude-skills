@@ -1,6 +1,6 @@
 ---
 name: arch-automation
-description: Automation with Arch Linux. scripting.
+description: "Automation with Arch Linux. scripting."
 category: os-admin
 tags: [arch-automation, os-admin, russian]
 models: [sonnet, opus]

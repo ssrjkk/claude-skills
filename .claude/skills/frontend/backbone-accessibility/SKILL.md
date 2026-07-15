@@ -1,6 +1,6 @@
 ---
 name: backbone-accessibility
-description: Accessibility with Backbone. a11y.
+description: "Accessibility with Backbone. a11y."
 category: frontend
 tags: [backbone, accessibility, frontend, frontend]
 models: [gpt-4, claude-3]

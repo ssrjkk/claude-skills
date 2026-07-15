@@ -1,6 +1,6 @@
 ---
 name: snyk-scanning
-description: Scanning with Snyk. security scanning.
+description: "Scanning with Snyk. security scanning."
 category: security
 tags: [snyk-scanning, security, russian]
 models: [sonnet, opus]

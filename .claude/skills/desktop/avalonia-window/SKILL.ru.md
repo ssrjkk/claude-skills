@@ -1,6 +1,6 @@
 ---
 name: avalonia-window
-description: Window with Avalonia. windows.
+description: "Window with Avalonia. windows."
 category: desktop
 tags: [avalonia-window, desktop, russian]
 models: [sonnet, opus]

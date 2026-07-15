@@ -1,6 +1,6 @@
 ---
 name: mithril-routing
-description: Routing with Mithril. client routing.
+description: "Routing with Mithril. client routing."
 category: frontend
 tags: [mithril, routing, frontend, frontend]
 models: [gpt-4, claude-3]

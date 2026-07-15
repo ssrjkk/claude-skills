@@ -1,6 +1,6 @@
 ---
 name: nessus-scanning
-description: Scanning with Nessus. security scanning.
+description: "Scanning with Nessus. security scanning."
 category: security
 tags: [nessus, scanning, security, security-tool]
 models: [gpt-4, claude-3]

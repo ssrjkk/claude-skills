@@ -1,6 +1,6 @@
 ---
 name: dynatrace-logging
-description: Logging with Dynatrace. log collection.
+description: "Logging with Dynatrace. log collection."
 category: devops
 tags: [dynatrace, logging, devops, monitoring]
 models: [gpt-4, claude-3]

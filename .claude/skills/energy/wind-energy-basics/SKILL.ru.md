@@ -1,6 +1,6 @@
 ---
 name: wind-energy-basics
-description: Basics with Wind Energy. fundamentals.
+description: "Basics with Wind Energy. fundamentals."
 category: energy
 tags: [wind-energy-basics, energy, russian]
 models: [sonnet, opus]

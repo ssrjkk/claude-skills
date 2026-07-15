@@ -1,6 +1,6 @@
 ---
 name: owasp-audit
-description: Audit with OWASP. security audit.
+description: "Audit with OWASP. security audit."
 category: security
 tags: [owasp-audit, security, russian]
 models: [sonnet, opus]

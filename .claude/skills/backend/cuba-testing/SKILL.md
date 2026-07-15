@@ -1,6 +1,6 @@
 ---
 name: cuba-testing
-description: Testing with Cuba. RSpec.
+description: "Testing with Cuba. RSpec."
 category: backend
 tags: [cuba, testing, backend, backend]
 models: [gpt-4, claude-3]

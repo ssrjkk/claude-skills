@@ -1,6 +1,6 @@
 ---
 name: penpot-prototyping
-description: Prototyping with Penpot. prototypes.
+description: "Prototyping with Penpot. prototypes."
 category: design
 tags: [penpot, prototyping, design, design]
 models: [gpt-4, claude-3]

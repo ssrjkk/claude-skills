@@ -1,6 +1,6 @@
 ---
 name: mysql-setup
-description: Setup with MySQL. installation.
+description: "Setup with MySQL. installation."
 category: database
 tags: [mysql-setup, database, russian]
 models: [sonnet, opus]

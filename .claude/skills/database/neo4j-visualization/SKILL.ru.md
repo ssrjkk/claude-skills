@@ -1,6 +1,6 @@
 ---
 name: neo4j-visualization
-description: Visualization with Neo4j. graph viz.
+description: "Visualization with Neo4j. graph viz."
 category: database
 tags: [neo4j-visualization, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: eleventy-middleware
-description: Middleware with Eleventy. request middleware.
+description: "Middleware with Eleventy. request middleware."
 category: frontend
 tags: [eleventy, middleware, frontend, meta-framework]
 models: [gpt-4, claude-3]

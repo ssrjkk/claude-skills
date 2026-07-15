@@ -1,6 +1,6 @@
 ---
 name: okr-basics
-description: Basics with OKRs. fundamentals.
+description: "Basics with OKRs. fundamentals."
 category: product
 tags: [okr, basics, product, product-framework]
 models: [gpt-4, claude-3]

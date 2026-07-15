@@ -1,6 +1,6 @@
 ---
 name: eks-storage
-description: Storage with Amazon EKS. persistent storage.
+description: "Storage with Amazon EKS. persistent storage."
 category: devops
 tags: [eks, storage, devops, kubernetes]
 models: [gpt-4, claude-3]

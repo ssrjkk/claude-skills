@@ -1,6 +1,6 @@
 ---
 name: chromadb-workflow
-description: Workflow for Chromadb: workflow optimization
+description: "Workflow for Chromadb: workflow optimization"
 category: ai
 tags: [chromadb-workflow, ai, russian]
 models: [sonnet, opus]

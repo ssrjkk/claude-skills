@@ -1,6 +1,6 @@
 ---
 name: woodpecker-caching
-description: Caching with Woodpecker. dependency caching.
+description: "Caching with Woodpecker. dependency caching."
 category: devops
 tags: [woodpecker-caching, devops, russian]
 models: [sonnet, opus]

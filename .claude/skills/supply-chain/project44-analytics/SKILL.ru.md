@@ -1,6 +1,6 @@
 ---
 name: project44-analytics
-description: Analytics with project44. analytics.
+description: "Analytics with project44. analytics."
 category: supply-chain
 tags: [project44-analytics, supply-chain, russian]
 models: [sonnet, opus]

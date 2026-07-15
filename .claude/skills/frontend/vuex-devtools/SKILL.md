@@ -1,6 +1,6 @@
 ---
 name: vuex-devtools
-description: DevTools with Vuex. debugging.
+description: "DevTools with Vuex. debugging."
 category: frontend
 tags: [vuex, devtools, frontend, state-management]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: java-spring
-description: Generates Spring Boot application structure with REST controllers and JPA repositories. Use for creating enterprise-grade Java applications.
+description: "Generates Spring Boot application structure with REST controllers and JPA repositories. Use for creating enterprise-grade Java applications."
 category: backend
 tags: [java, spring, spring-boot, rest, jpa]
 models: [opus]

@@ -1,6 +1,6 @@
 ---
 name: scylla-replication
-description: Replication with ScyllaDB. replication.
+description: "Replication with ScyllaDB. replication."
 category: database
 tags: [scylla, replication, database, nosql]
 models: [gpt-4, claude-3]

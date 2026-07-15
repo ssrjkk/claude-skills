@@ -1,6 +1,6 @@
 ---
 name: state-machine-ai-usage
-description: Usage for State-Machine-Ai: usage reference
+description: "Usage for State-Machine-Ai: usage reference"
 category: ai
 tags: [state-machine-ai, usage, ai]
 models: [sonnet, opus]

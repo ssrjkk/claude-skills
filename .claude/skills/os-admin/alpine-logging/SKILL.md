@@ -1,6 +1,6 @@
 ---
 name: alpine-logging
-description: Logging with Alpine Linux. logging.
+description: "Logging with Alpine Linux. logging."
 category: os-admin
 tags: [alpine, logging, os-admin, linux]
 models: [gpt-4, claude-3]

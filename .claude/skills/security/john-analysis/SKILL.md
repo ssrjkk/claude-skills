@@ -1,6 +1,6 @@
 ---
 name: john-analysis
-description: Analysis with John the Ripper. analysis.
+description: "Analysis with John the Ripper. analysis."
 category: security
 tags: [john, analysis, security, security-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: matter-protocol
-description: Builds smart home devices with Matter protocol, the unified standard for IoT interoperability.
+description: "Builds smart home devices with Matter protocol, the unified standard for IoT interoperability."
 category: iot
 tags: [matter, iot, smart-home, connectivity, protocol]
 models: [sonnet, opus]

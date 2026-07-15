@@ -1,6 +1,6 @@
 ---
 name: snyk-setup
-description: Setup with Snyk. installation.
+description: "Setup with Snyk. installation."
 category: security
 tags: [snyk, setup, security, security-tool]
 models: [gpt-4, claude-3]

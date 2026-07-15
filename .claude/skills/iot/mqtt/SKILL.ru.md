@@ -1,6 +1,6 @@
 ---
 name: mqtt
-description: Sets up MQTT brokers and clients for messaging in IoT systems. Use for lightweight messaging in IoT.
+description: "Sets up MQTT brokers and clients for messaging in IoT systems. Use for lightweight messaging in IoT."
 category: iot
 tags: [mqtt, iot, russian]
 models: [sonnet, opus]

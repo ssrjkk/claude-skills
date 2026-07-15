@@ -1,6 +1,6 @@
 ---
 name: reference
-description: API testing reference for common patterns and utilities
+description: "API testing reference for common patterns and utilities"
 category: api-testing
 tags: [reference, api-testing, russian]
 models: [sonnet, opus]

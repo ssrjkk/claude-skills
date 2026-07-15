@@ -1,6 +1,6 @@
 ---
 name: pmp-tools
-description: Tools with PMP. tooling.
+description: "Tools with PMP. tooling."
 category: product
 tags: [pmp-tools, product, russian]
 models: [sonnet, opus]

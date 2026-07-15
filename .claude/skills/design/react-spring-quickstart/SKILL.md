@@ -1,6 +1,6 @@
 ---
 name: react-spring-quickstart
-description: Quickstart for React-Spring: quick start guide
+description: "Quickstart for React-Spring: quick start guide"
 category: design
 tags: [react-spring, quickstart, design]
 models: [sonnet, opus]

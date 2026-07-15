@@ -1,6 +1,6 @@
 ---
 name: haystack-prompting
-description: Prompt Engineering with Haystack. prompt templates.
+description: "Prompt Engineering with Haystack. prompt templates."
 category: ai
 tags: [haystack, prompting, ai, llm]
 models: [gpt-4, claude-3]

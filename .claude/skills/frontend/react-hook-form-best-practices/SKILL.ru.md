@@ -1,6 +1,6 @@
 ---
 name: react-hook-form-best-practices
-description: Best Practices for React-Hook-Form: best practices and patterns
+description: "Best Practices for React-Hook-Form: best practices and patterns"
 category: frontend
 tags: [react-hook-form-best-practices, frontend, russian]
 models: [sonnet, opus]

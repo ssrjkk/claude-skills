@@ -1,6 +1,6 @@
 ---
 name: javafx-native
-description: Native with JavaFX. native APIs.
+description: "Native with JavaFX. native APIs."
 category: desktop
 tags: [javafx-native, desktop, russian]
 models: [sonnet, opus]

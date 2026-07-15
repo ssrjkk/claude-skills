@@ -1,6 +1,6 @@
 ---
 name: refactoring-team
-description: Team with Refactoring. team adoption.
+description: "Team with Refactoring. team adoption."
 category: engineering
 tags: [refactoring, team, engineering, engineering]
 models: [gpt-4, claude-3]

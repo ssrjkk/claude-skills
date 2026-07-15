@@ -1,6 +1,6 @@
 ---
 name: testflight-troubleshooting
-description: Troubleshooting for Testflight: troubleshooting common issues
+description: "Troubleshooting for Testflight: troubleshooting common issues"
 category: mobile
 tags: [testflight, troubleshooting, mobile]
 models: [sonnet, opus]

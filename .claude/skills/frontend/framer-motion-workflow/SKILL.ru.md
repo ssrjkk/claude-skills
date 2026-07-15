@@ -1,6 +1,6 @@
 ---
 name: framer-motion-workflow
-description: Workflow for Framer-Motion: workflow optimization
+description: "Workflow for Framer-Motion: workflow optimization"
 category: frontend
 tags: [framer-motion-workflow, frontend, russian]
 models: [sonnet, opus]

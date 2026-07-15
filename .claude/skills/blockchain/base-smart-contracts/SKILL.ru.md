@@ -1,6 +1,6 @@
 ---
 name: base-smart-contracts
-description: Smart Contracts with Base. contracts.
+description: "Smart Contracts with Base. contracts."
 category: blockchain
 tags: [base-smart-contracts, blockchain, russian]
 models: [sonnet, opus]

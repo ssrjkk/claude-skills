@@ -1,6 +1,6 @@
 ---
 name: fantom-staking
-description: Staking with Fantom. staking.
+description: "Staking with Fantom. staking."
 category: blockchain
 tags: [fantom, staking, blockchain, blockchain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: woodpecker-testing
-description: Testing with Woodpecker. automated tests.
+description: "Testing with Woodpecker. automated tests."
 category: devops
 tags: [woodpecker, testing, devops, ci-cd]
 models: [gpt-4, claude-3]

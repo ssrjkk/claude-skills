@@ -1,6 +1,6 @@
 ---
 name: sonarqube-remediation
-description: Remediation with SonarQube. fixing vulns.
+description: "Remediation with SonarQube. fixing vulns."
 category: security
 tags: [sonarqube-remediation, security, russian]
 models: [sonnet, opus]

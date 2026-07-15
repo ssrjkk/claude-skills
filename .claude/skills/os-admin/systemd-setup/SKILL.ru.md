@@ -1,6 +1,6 @@
 ---
 name: systemd-setup
-description: Setup with systemd. installation.
+description: "Setup with systemd. installation."
 category: os-admin
 tags: [systemd-setup, os-admin, russian]
 models: [sonnet, opus]

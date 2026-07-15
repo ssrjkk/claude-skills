@@ -1,6 +1,6 @@
 ---
 name: kind-monitoring
-description: Monitoring with Kind. monitoring.
+description: "Monitoring with Kind. monitoring."
 category: devops
 tags: [kind-monitoring, devops, russian]
 models: [sonnet, opus]

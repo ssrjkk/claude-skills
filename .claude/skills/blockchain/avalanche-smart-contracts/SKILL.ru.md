@@ -1,6 +1,6 @@
 ---
 name: avalanche-smart-contracts
-description: Smart Contracts with Avalanche. contracts.
+description: "Smart Contracts with Avalanche. contracts."
 category: blockchain
 tags: [avalanche-smart-contracts, blockchain, russian]
 models: [sonnet, opus]

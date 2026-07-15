@@ -1,6 +1,6 @@
 ---
 name: linux-security-networking
-description: Networking with Linux Security. network config.
+description: "Networking with Linux Security. network config."
 category: os-admin
 tags: [linux-security-networking, os-admin, russian]
 models: [sonnet, opus]

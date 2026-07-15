@@ -1,6 +1,6 @@
 ---
 name: druid-ingestion
-description: Ingestion with Apache Druid. data ingestion.
+description: "Ingestion with Apache Druid. data ingestion."
 category: database
 tags: [druid, ingestion, database, time-series]
 models: [gpt-4, claude-3]

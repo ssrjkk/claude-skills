@@ -1,6 +1,6 @@
 ---
 name: easypost-shipping
-description: Shipping with EasyPost. shipping.
+description: "Shipping with EasyPost. shipping."
 category: supply-chain
 tags: [easypost, shipping, supply-chain, logistics]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: qdrant-getting-started
-description: Getting Started for Qdrant: initial setup and first steps
+description: "Getting Started for Qdrant: initial setup and first steps"
 category: ai
 tags: [qdrant-getting-started, ai, russian]
 models: [sonnet, opus]

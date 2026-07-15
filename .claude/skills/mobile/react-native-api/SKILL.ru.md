@@ -1,6 +1,6 @@
 ---
 name: react-native-api
-description: API for React-Native: API development and integration
+description: "API for React-Native: API development and integration"
 category: mobile
 tags: [react-native-api, mobile, russian]
 models: [sonnet, opus]

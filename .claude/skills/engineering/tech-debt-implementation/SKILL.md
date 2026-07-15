@@ -1,6 +1,6 @@
 ---
 name: tech-debt-implementation
-description: Implementation with Tech Debt Management. practice.
+description: "Implementation with Tech Debt Management. practice."
 category: engineering
 tags: [tech-debt, implementation, engineering, engineering]
 models: [gpt-4, claude-3]

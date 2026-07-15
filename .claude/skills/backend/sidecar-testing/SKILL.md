@@ -1,6 +1,6 @@
 ---
 name: sidecar-testing
-description: Testing with Sidecar. testing the pattern.
+description: "Testing with Sidecar. testing the pattern."
 category: backend
 tags: [sidecar, testing, backend, architecture]
 models: [gpt-4, claude-3]

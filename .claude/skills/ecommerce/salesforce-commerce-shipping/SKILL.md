@@ -1,6 +1,6 @@
 ---
 name: salesforce-commerce-shipping
-description: Shipping with Salesforce Commerce. shipping.
+description: "Shipping with Salesforce Commerce. shipping."
 category: ecommerce
 tags: [salesforce-commerce, shipping, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

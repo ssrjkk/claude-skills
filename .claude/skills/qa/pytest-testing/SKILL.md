@@ -1,6 +1,6 @@
 ---
 name: pytest-testing
-description: Testing for Pytest: testing and validation
+description: "Testing for Pytest: testing and validation"
 category: qa
 tags: [pytest, testing, qa]
 models: [sonnet, opus]

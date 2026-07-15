@@ -1,6 +1,6 @@
 ---
 name: pytest-ci
-description: CI with pytest. CI integration.
+description: "CI with pytest. CI integration."
 category: qa
 tags: [pytest-ci, qa, russian]
 models: [sonnet, opus]

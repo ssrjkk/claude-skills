@@ -1,6 +1,6 @@
 ---
 name: nativescript-storage
-description: Storage with NativeScript. local storage.
+description: "Storage with NativeScript. local storage."
 category: mobile
 tags: [nativescript-storage, mobile, russian]
 models: [sonnet, opus]

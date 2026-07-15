@@ -1,6 +1,6 @@
 ---
 name: timescaledb-clustering
-description: Clustering with TimescaleDB. clustering.
+description: "Clustering with TimescaleDB. clustering."
 category: database
 tags: [timescaledb, clustering, database, time-series]
 models: [gpt-4, claude-3]

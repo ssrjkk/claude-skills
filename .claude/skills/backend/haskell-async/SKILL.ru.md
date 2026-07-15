@@ -1,6 +1,6 @@
 ---
 name: haskell-async
-description: Async with Haskell. async operations.
+description: "Async with Haskell. async operations."
 category: backend
 tags: [haskell-async, backend, russian]
 models: [sonnet, opus]

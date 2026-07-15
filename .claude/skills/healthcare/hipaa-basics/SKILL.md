@@ -1,6 +1,6 @@
 ---
 name: hipaa-basics
-description: Basics with HIPAA. fundamentals.
+description: "Basics with HIPAA. fundamentals."
 category: healthcare
 tags: [hipaa, basics, healthcare, healthcare]
 models: [gpt-4, claude-3]

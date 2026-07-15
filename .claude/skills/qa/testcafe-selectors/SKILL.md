@@ -1,6 +1,6 @@
 ---
 name: testcafe-selectors
-description: Selectors with TestCafe. element selectors.
+description: "Selectors with TestCafe. element selectors."
 category: qa
 tags: [testcafe, selectors, qa, e2e]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: curl-basics
-description: Basics with curl. basic usage.
+description: "Basics with curl. basic usage."
 category: networking
 tags: [curl-basics, networking, russian]
 models: [sonnet, opus]

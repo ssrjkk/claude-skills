@@ -1,6 +1,6 @@
 ---
 name: snomed-basics
-description: Basics with SNOMED CT. fundamentals.
+description: "Basics with SNOMED CT. fundamentals."
 category: healthcare
 tags: [snomed, basics, healthcare, healthcare]
 models: [gpt-4, claude-3]

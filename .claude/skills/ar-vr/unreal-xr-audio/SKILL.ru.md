@@ -1,6 +1,6 @@
 ---
 name: unreal-xr-audio
-description: Audio with Unreal XR. spatial audio.
+description: "Audio with Unreal XR. spatial audio."
 category: ar-vr
 tags: [unreal-xr-audio, ar-vr, russian]
 models: [sonnet, opus]

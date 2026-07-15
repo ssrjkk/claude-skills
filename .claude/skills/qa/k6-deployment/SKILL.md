@@ -1,6 +1,6 @@
 ---
 name: k6-deployment
-description: Deployment for K6: deployment and release
+description: "Deployment for K6: deployment and release"
 category: qa
 tags: [k6, deployment, qa]
 models: [sonnet, opus]

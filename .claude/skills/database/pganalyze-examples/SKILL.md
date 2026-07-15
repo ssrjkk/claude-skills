@@ -1,6 +1,6 @@
 ---
 name: pganalyze-examples
-description: Examples for Pganalyze: practical examples
+description: "Examples for Pganalyze: practical examples"
 category: database
 tags: [pganalyze, examples, database]
 models: [sonnet, opus]

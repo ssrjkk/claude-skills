@@ -1,6 +1,6 @@
 ---
 name: winui-styling
-description: Styling with WinUI. styling.
+description: "Styling with WinUI. styling."
 category: desktop
 tags: [winui, styling, desktop, desktop]
 models: [gpt-4, claude-3]

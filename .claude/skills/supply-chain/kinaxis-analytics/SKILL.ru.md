@@ -1,6 +1,6 @@
 ---
 name: kinaxis-analytics
-description: Analytics with Kinaxis. analytics.
+description: "Analytics with Kinaxis. analytics."
 category: supply-chain
 tags: [kinaxis-analytics, supply-chain, russian]
 models: [sonnet, opus]

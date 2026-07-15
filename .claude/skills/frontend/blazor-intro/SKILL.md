@@ -1,6 +1,6 @@
 ---
 name: blazor-intro
-description: Intro for Blazor: introduction
+description: "Intro for Blazor: introduction"
 category: frontend
 tags: [blazor, intro, frontend]
 models: [sonnet, opus]

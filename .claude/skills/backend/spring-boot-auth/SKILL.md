@@ -1,6 +1,6 @@
 ---
 name: spring-boot-auth
-description: Auth with Spring Boot. security.
+description: "Auth with Spring Boot. security."
 category: backend
 tags: [spring-boot, auth, backend, backend]
 models: [gpt-4, claude-3]

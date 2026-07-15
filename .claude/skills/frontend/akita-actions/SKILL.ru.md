@@ -1,6 +1,6 @@
 ---
 name: akita-actions
-description: Actions with Akita. actions.
+description: "Actions with Akita. actions."
 category: frontend
 tags: [akita-actions, frontend, russian]
 models: [sonnet, opus]

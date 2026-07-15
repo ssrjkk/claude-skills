@@ -1,6 +1,6 @@
 ---
 name: scikit-learn-regression
-description: Regression with Scikit Learn. predicting values.
+description: "Regression with Scikit Learn. predicting values."
 category: ai
 tags: [scikit-learn, regression, ai, ml]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: parcel-source-maps
-description: Source Maps with Parcel. debugging.
+description: "Source Maps with Parcel. debugging."
 category: frontend
 tags: [parcel, source-maps, frontend, build-tool]
 models: [gpt-4, claude-3]

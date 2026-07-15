@@ -1,6 +1,6 @@
 ---
 name: gcp-bigquery-guides
-description: Guides for Gcp-Bigquery: how-to guides
+description: "Guides for Gcp-Bigquery: how-to guides"
 category: cloud
 tags: [gcp-bigquery-guides, cloud, russian]
 models: [sonnet, opus]

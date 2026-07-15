@@ -1,6 +1,6 @@
 ---
 name: wxwidgets-packaging
-description: Packaging with wxWidgets. app packaging.
+description: "Packaging with wxWidgets. app packaging."
 category: desktop
 tags: [wxwidgets, packaging, desktop, desktop]
 models: [gpt-4, claude-3]

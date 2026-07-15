@@ -1,6 +1,6 @@
 ---
 name: pmp-best-practices
-description: Best Practices with PMP. practices.
+description: "Best Practices with PMP. practices."
 category: product
 tags: [pmp, best-practices, product, methodology]
 models: [gpt-4, claude-3]

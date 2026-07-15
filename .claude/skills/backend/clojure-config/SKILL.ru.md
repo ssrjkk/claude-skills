@@ -1,6 +1,6 @@
 ---
 name: clojure-config
-description: Configuration with Clojure. config management.
+description: "Configuration with Clojure. config management."
 category: backend
 tags: [clojure-config, backend, russian]
 models: [sonnet, opus]

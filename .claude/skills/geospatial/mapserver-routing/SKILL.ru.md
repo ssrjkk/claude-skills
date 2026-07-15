@@ -1,6 +1,6 @@
 ---
 name: mapserver-routing
-description: Routing with MapServer. routing.
+description: "Routing with MapServer. routing."
 category: geospatial
 tags: [mapserver-routing, geospatial, russian]
 models: [sonnet, opus]

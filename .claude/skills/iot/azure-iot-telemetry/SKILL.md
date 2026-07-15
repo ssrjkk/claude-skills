@@ -1,6 +1,6 @@
 ---
 name: azure-iot-telemetry
-description: Telemetry with Azure IoT. data collection.
+description: "Telemetry with Azure IoT. data collection."
 category: iot
 tags: [azure-iot, telemetry, iot, iot-platform]
 models: [gpt-4, claude-3]

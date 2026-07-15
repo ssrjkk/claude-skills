@@ -1,6 +1,6 @@
 ---
 name: haproxy-guides
-description: Guides for Haproxy: how-to guides
+description: "Guides for Haproxy: how-to guides"
 category: backend
 tags: [haproxy, guides, backend]
 models: [sonnet, opus]

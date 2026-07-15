@@ -1,6 +1,6 @@
 ---
 name: sonarqube-analysis
-description: Analysis with SonarQube. analysis.
+description: "Analysis with SonarQube. analysis."
 category: security
 tags: [sonarqube-analysis, security, russian]
 models: [sonnet, opus]

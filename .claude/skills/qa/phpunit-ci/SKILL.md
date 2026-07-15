@@ -1,6 +1,6 @@
 ---
 name: phpunit-ci
-description: CI with PHPUnit. CI integration.
+description: "CI with PHPUnit. CI integration."
 category: qa
 tags: [phpunit, ci, qa, testing]
 models: [gpt-4, claude-3]

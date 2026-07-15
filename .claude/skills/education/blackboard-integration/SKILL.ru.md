@@ -1,6 +1,6 @@
 ---
 name: blackboard-integration
-description: Integration with Blackboard. LTI.
+description: "Integration with Blackboard. LTI."
 category: education
 tags: [blackboard-integration, education, russian]
 models: [sonnet, opus]

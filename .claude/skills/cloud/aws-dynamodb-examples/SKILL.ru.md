@@ -1,6 +1,6 @@
 ---
 name: aws-dynamodb-examples
-description: Examples for Aws-Dynamodb: practical examples
+description: "Examples for Aws-Dynamodb: practical examples"
 category: cloud
 tags: [aws-dynamodb-examples, cloud, russian]
 models: [sonnet, opus]

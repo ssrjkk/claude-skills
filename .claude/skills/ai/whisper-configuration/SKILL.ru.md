@@ -1,6 +1,6 @@
 ---
 name: whisper-configuration
-description: Configuration for Whisper: configuration and setup
+description: "Configuration for Whisper: configuration and setup"
 category: ai
 tags: [whisper-configuration, ai, russian]
 models: [sonnet, opus]

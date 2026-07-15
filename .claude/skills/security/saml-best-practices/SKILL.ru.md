@@ -1,6 +1,6 @@
 ---
 name: saml-best-practices
-description: Best Practices with SAML. best practices.
+description: "Best Practices with SAML. best practices."
 category: security
 tags: [saml-best-practices, security, russian]
 models: [sonnet, opus]

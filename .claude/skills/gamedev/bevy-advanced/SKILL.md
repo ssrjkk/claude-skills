@@ -1,6 +1,6 @@
 ---
 name: bevy-advanced
-description: Advanced for Bevy: advanced patterns and techniques
+description: "Advanced for Bevy: advanced patterns and techniques"
 category: gamedev
 tags: [bevy, advanced, gamedev]
 models: [sonnet, opus]

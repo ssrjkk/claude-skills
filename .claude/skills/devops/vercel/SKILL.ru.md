@@ -1,6 +1,6 @@
 ---
 name: vercel
-description: Deploys frontend applications with Vercel, including serverless functions, preview deployments, and edge functions.
+description: "Deploys frontend applications with Vercel, including serverless functions, preview deployments, and edge functions."
 category: devops
 tags: [vercel, devops, russian]
 models: [sonnet, opus]

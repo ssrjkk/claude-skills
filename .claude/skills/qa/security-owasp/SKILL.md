@@ -1,6 +1,6 @@
 ---
 name: security-owasp
-description: Checks web applications for OWASP Top 10 compliance. Use for security testing.
+description: "Checks web applications for OWASP Top 10 compliance. Use for security testing."
 category: qa
 tags: [security, owasp, testing, vulnerability]
 models: [opus]

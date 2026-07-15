@@ -1,6 +1,6 @@
 ---
 name: opensearch-mapping
-description: Mapping with OpenSearch. field mapping.
+description: "Mapping with OpenSearch. field mapping."
 category: database
 tags: [opensearch, mapping, database, search-engine]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: langgraph-agents
-description: Building agents with LangGraph
+description: "Building agents with LangGraph"
 category: ai
 tags: [langgraph-agents, ai, russian]
 models: [sonnet, opus]

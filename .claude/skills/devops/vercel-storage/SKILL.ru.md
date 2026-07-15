@@ -1,6 +1,6 @@
 ---
 name: vercel-storage
-description: Storage with Vercel. object storage.
+description: "Storage with Vercel. object storage."
 category: devops
 tags: [vercel-storage, devops, russian]
 models: [sonnet, opus]

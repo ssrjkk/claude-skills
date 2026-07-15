@@ -1,6 +1,6 @@
 ---
 name: stripe-billing-plans
-description: Plans with Stripe Billing. plan creation.
+description: "Plans with Stripe Billing. plan creation."
 category: payments
 tags: [stripe-billing, plans, payments, billing]
 models: [gpt-4, claude-3]

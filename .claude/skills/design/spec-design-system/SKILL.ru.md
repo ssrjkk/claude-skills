@@ -1,6 +1,6 @@
 ---
 name: spec-design-system
-description: Design Systems with Spec. tokens.
+description: "Design Systems with Spec. tokens."
 category: design
 tags: [spec-design-system, design, russian]
 models: [sonnet, opus]

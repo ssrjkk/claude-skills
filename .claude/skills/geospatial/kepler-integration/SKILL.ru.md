@@ -1,6 +1,6 @@
 ---
 name: kepler-integration
-description: Integration with Kepler.gl. integration.
+description: "Integration with Kepler.gl. integration."
 category: geospatial
 tags: [kepler-integration, geospatial, russian]
 models: [sonnet, opus]

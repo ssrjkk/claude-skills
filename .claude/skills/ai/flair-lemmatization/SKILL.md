@@ -1,6 +1,6 @@
 ---
 name: flair-lemmatization
-description: Lemmatization with Flair. word lemmatization.
+description: "Lemmatization with Flair. word lemmatization."
 category: ai
 tags: [flair, lemmatization, ai, nlp]
 models: [gpt-4, claude-3]

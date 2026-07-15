@@ -1,6 +1,6 @@
 ---
 name: aarrr-facilitation
-description: Facilitation with AARRR. running.
+description: "Facilitation with AARRR. running."
 category: product
 tags: [aarrr, facilitation, product, product-framework]
 models: [gpt-4, claude-3]

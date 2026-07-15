@@ -1,6 +1,6 @@
 ---
 name: project44-tracking
-description: Tracking with project44. tracking.
+description: "Tracking with project44. tracking."
 category: supply-chain
 tags: [project44, tracking, supply-chain, logistics]
 models: [gpt-4, claude-3]

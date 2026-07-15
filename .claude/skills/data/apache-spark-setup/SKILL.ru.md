@@ -1,6 +1,6 @@
 ---
 name: apache-spark-setup
-description: Setup with Apache Spark. installation.
+description: "Setup with Apache Spark. installation."
 category: data
 tags: [apache-spark-setup, data, russian]
 models: [sonnet, opus]

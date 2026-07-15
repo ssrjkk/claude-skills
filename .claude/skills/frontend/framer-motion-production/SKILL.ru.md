@@ -1,6 +1,6 @@
 ---
 name: framer-motion-production
-description: Production for Framer-Motion: production deployment
+description: "Production for Framer-Motion: production deployment"
 category: frontend
 tags: [framer-motion-production, frontend, russian]
 models: [sonnet, opus]

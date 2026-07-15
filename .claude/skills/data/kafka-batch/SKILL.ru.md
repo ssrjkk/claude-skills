@@ -1,6 +1,6 @@
 ---
 name: kafka-batch
-description: Batch with Kafka. batch processing.
+description: "Batch with Kafka. batch processing."
 category: data
 tags: [kafka-batch, data, russian]
 models: [sonnet, opus]

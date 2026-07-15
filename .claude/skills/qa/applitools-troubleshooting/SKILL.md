@@ -1,6 +1,6 @@
 ---
 name: applitools-troubleshooting
-description: Troubleshooting for Applitools: troubleshooting common issues
+description: "Troubleshooting for Applitools: troubleshooting common issues"
 category: qa
 tags: [applitools, troubleshooting, qa]
 models: [sonnet, opus]

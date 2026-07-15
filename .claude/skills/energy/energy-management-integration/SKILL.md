@@ -1,6 +1,6 @@
 ---
 name: energy-management-integration
-description: Integration with Energy Management. grid integration.
+description: "Integration with Energy Management. grid integration."
 category: energy
 tags: [energy-management, integration, energy, renewable-energy]
 models: [gpt-4, claude-3]

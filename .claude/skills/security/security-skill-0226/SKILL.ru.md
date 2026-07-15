@@ -1,6 +1,6 @@
 ---
 name: security-skill-0226
-description: Specialized skill #0226 for security development
+description: "Specialized skill #0226 for security development"
 category: security
 tags: [skill-0226, security, russian]
 models: [sonnet, opus]

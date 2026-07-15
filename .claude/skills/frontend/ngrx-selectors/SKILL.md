@@ -1,6 +1,6 @@
 ---
 name: ngrx-selectors
-description: Selectors with NgRx. derived data.
+description: "Selectors with NgRx. derived data."
 category: frontend
 tags: [ngrx, selectors, frontend, state-management]
 models: [gpt-4, claude-3]

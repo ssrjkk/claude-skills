@@ -1,6 +1,6 @@
 ---
 name: vonage-chat
-description: Chat with Vonage. chat.
+description: "Chat with Vonage. chat."
 category: communications
 tags: [vonage-chat, communications, russian]
 models: [sonnet, opus]

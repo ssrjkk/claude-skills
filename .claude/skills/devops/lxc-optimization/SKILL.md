@@ -1,6 +1,6 @@
 ---
 name: lxc-optimization
-description: Optimization with LXC. image optimization.
+description: "Optimization with LXC. image optimization."
 category: devops
 tags: [lxc, optimization, devops, container]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: singularity-security
-description: Security with Singularity. container security.
+description: "Security with Singularity. container security."
 category: devops
 tags: [singularity, security, devops, container]
 models: [gpt-4, claude-3]

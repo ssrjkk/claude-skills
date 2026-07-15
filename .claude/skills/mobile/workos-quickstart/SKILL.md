@@ -1,6 +1,6 @@
 ---
 name: workos-quickstart
-description: Quickstart for Workos: quick start guide
+description: "Quickstart for Workos: quick start guide"
 category: mobile
 tags: [workos, quickstart, mobile]
 models: [sonnet, opus]

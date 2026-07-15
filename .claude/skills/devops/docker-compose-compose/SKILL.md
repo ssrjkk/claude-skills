@@ -1,6 +1,6 @@
 ---
 name: docker-compose-compose
-description: Compose with Docker Compose. multi-container.
+description: "Compose with Docker Compose. multi-container."
 category: devops
 tags: [docker-compose, compose, devops, container]
 models: [gpt-4, claude-3]

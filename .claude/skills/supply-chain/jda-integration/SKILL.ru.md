@@ -1,6 +1,6 @@
 ---
 name: jda-integration
-description: Integration with JDA/Blue Yonder. integration.
+description: "Integration with JDA/Blue Yonder. integration."
 category: supply-chain
 tags: [jda-integration, supply-chain, russian]
 models: [sonnet, opus]

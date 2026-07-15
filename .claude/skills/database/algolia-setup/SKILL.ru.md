@@ -1,6 +1,6 @@
 ---
 name: algolia-setup
-description: Setup with Algolia. installation.
+description: "Setup with Algolia. installation."
 category: database
 tags: [algolia-setup, database, russian]
 models: [sonnet, opus]

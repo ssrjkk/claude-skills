@@ -1,6 +1,6 @@
 ---
 name: sentence-transformers-dependency-parsing
-description: Dependency Parsing with Sentence Transformers. syntax analysis.
+description: "Dependency Parsing with Sentence Transformers. syntax analysis."
 category: ai
 tags: [sentence-transformers-dependency-parsing, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ldtk-production
-description: Production for Ldtk: production deployment
+description: "Production for Ldtk: production deployment"
 category: gamedev
 tags: [ldtk, production, gamedev]
 models: [sonnet, opus]

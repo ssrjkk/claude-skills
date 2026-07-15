@@ -1,6 +1,6 @@
 ---
 name: iis-setup
-description: Setup with IIS. installation.
+description: "Setup with IIS. installation."
 category: os-admin
 tags: [iis, setup, os-admin, windows]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: neo4j-setup
-description: Setup with Neo4j. installation.
+description: "Setup with Neo4j. installation."
 category: database
 tags: [neo4j, setup, database, nosql]
 models: [gpt-4, claude-3]

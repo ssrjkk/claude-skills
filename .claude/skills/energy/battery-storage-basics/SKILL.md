@@ -1,6 +1,6 @@
 ---
 name: battery-storage-basics
-description: Basics with Battery Storage. fundamentals.
+description: "Basics with Battery Storage. fundamentals."
 category: energy
 tags: [battery-storage, basics, energy, renewable-energy]
 models: [gpt-4, claude-3]

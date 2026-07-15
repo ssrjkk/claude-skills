@@ -1,6 +1,6 @@
 ---
 name: swiftui-workflow
-description: Workflow for Swiftui: workflow optimization
+description: "Workflow for Swiftui: workflow optimization"
 category: mobile
 tags: [swiftui-workflow, mobile, russian]
 models: [sonnet, opus]

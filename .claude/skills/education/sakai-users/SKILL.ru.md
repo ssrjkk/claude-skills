@@ -1,6 +1,6 @@
 ---
 name: sakai-users
-description: Users with Sakai. user management.
+description: "Users with Sakai. user management."
 category: education
 tags: [sakai-users, education, russian]
 models: [sonnet, opus]

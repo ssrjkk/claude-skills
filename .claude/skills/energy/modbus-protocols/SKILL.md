@@ -1,6 +1,6 @@
 ---
 name: modbus-protocols
-description: Protocols with Modbus. communication.
+description: "Protocols with Modbus. communication."
 category: energy
 tags: [modbus, protocols, energy, smart-grid]
 models: [gpt-4, claude-3]

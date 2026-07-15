@@ -1,6 +1,6 @@
 ---
 name: vault-best-practices
-description: Best Practices for Vault: best practices and patterns
+description: "Best Practices for Vault: best practices and patterns"
 category: devops
 tags: [vault, best-practices, devops]
 models: [sonnet, opus]

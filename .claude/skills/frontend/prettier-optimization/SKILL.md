@@ -1,6 +1,6 @@
 ---
 name: prettier-optimization
-description: Optimization with Prettier. build optimization.
+description: "Optimization with Prettier. build optimization."
 category: frontend
 tags: [prettier, optimization, frontend, build-tool]
 models: [gpt-4, claude-3]

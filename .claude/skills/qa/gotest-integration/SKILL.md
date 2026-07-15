@@ -1,6 +1,6 @@
 ---
 name: gotest-integration
-description: Integration with Go Test. integration tests.
+description: "Integration with Go Test. integration tests."
 category: qa
 tags: [gotest, integration, qa, testing]
 models: [gpt-4, claude-3]

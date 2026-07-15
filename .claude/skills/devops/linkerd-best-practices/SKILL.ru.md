@@ -1,6 +1,6 @@
 ---
 name: linkerd-best-practices
-description: Best Practices for Linkerd: best practices and patterns
+description: "Best Practices for Linkerd: best practices and patterns"
 category: devops
 tags: [linkerd-best-practices, devops, russian]
 models: [sonnet, opus]

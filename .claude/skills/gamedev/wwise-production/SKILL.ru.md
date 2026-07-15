@@ -1,6 +1,6 @@
 ---
 name: wwise-production
-description: Production for Wwise: production deployment
+description: "Production for Wwise: production deployment"
 category: gamedev
 tags: [wwise-production, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mpls-automation
-description: Automation with MPLS. network automation.
+description: "Automation with MPLS. network automation."
 category: networking
 tags: [mpls-automation, networking, russian]
 models: [sonnet, opus]

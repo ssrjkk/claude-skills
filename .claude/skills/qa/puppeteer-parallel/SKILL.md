@@ -1,6 +1,6 @@
 ---
 name: puppeteer-parallel
-description: Parallel with Puppeteer. parallel execution.
+description: "Parallel with Puppeteer. parallel execution."
 category: qa
 tags: [puppeteer, parallel, qa, e2e]
 models: [gpt-4, claude-3]

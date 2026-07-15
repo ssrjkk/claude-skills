@@ -1,6 +1,6 @@
 ---
 name: lever-payroll
-description: Payroll with Lever. payroll.
+description: "Payroll with Lever. payroll."
 category: hr
 tags: [lever-payroll, hr, russian]
 models: [sonnet, opus]

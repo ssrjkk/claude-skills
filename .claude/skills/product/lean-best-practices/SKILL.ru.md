@@ -1,6 +1,6 @@
 ---
 name: lean-best-practices
-description: Best Practices with Lean. practices.
+description: "Best Practices with Lean. practices."
 category: product
 tags: [lean-best-practices, product, russian]
 models: [sonnet, opus]

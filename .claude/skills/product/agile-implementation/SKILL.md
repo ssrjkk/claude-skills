@@ -1,6 +1,6 @@
 ---
 name: agile-implementation
-description: Implementation with Agile. adoption.
+description: "Implementation with Agile. adoption."
 category: product
 tags: [agile, implementation, product, methodology]
 models: [gpt-4, claude-3]

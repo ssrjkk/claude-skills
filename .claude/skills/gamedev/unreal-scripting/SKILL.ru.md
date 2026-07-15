@@ -1,6 +1,6 @@
 ---
 name: unreal-scripting
-description: Scripting with Unreal Engine. game logic.
+description: "Scripting with Unreal Engine. game logic."
 category: gamedev
 tags: [unreal-scripting, gamedev, russian]
 models: [sonnet, opus]

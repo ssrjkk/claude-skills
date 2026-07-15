@@ -1,6 +1,6 @@
 ---
 name: pmp-basics
-description: Basics with PMP. fundamentals.
+description: "Basics with PMP. fundamentals."
 category: product
 tags: [pmp-basics, product, russian]
 models: [sonnet, opus]

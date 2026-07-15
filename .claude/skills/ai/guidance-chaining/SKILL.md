@@ -1,6 +1,6 @@
 ---
 name: guidance-chaining
-description: Chaining with Guidance. multi-step workflows.
+description: "Chaining with Guidance. multi-step workflows."
 category: ai
 tags: [guidance, chaining, ai, llm]
 models: [gpt-4, claude-3]

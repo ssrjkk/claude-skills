@@ -1,6 +1,6 @@
 ---
 name: arkit-optimization
-description: Optimization with ARKit. performance.
+description: "Optimization with ARKit. performance."
 category: ar-vr
 tags: [arkit, optimization, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

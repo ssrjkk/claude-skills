@@ -1,6 +1,6 @@
 ---
 name: midjourney-automation
-description: Automation for Midjourney: automation and scripting
+description: "Automation for Midjourney: automation and scripting"
 category: ai
 tags: [midjourney-automation, ai, russian]
 models: [sonnet, opus]

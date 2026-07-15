@@ -1,6 +1,6 @@
 ---
 name: packer-configuration
-description: Configuration for Packer: configuration and setup
+description: "Configuration for Packer: configuration and setup"
 category: devops
 tags: [packer, configuration, devops]
 models: [sonnet, opus]

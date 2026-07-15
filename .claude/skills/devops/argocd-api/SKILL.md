@@ -1,6 +1,6 @@
 ---
 name: argocd-api
-description: API for Argocd: API development and integration
+description: "API for Argocd: API development and integration"
 category: devops
 tags: [argocd, api, devops]
 models: [sonnet, opus]

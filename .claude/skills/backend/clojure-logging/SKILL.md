@@ -1,6 +1,6 @@
 ---
 name: clojure-logging
-description: Logging with Clojure. app logging.
+description: "Logging with Clojure. app logging."
 category: backend
 tags: [clojure, logging, backend, backend]
 models: [gpt-4, claude-3]

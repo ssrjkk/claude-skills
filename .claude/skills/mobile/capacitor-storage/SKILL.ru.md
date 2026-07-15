@@ -1,6 +1,6 @@
 ---
 name: capacitor-storage
-description: Storage with Capacitor. local storage.
+description: "Storage with Capacitor. local storage."
 category: mobile
 tags: [capacitor-storage, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: fourkites-integration
-description: Integration with FourKites. integration.
+description: "Integration with FourKites. integration."
 category: supply-chain
 tags: [fourkites-integration, supply-chain, russian]
 models: [sonnet, opus]

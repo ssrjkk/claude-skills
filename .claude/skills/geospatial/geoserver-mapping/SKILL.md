@@ -1,6 +1,6 @@
 ---
 name: geoserver-mapping
-description: Mapping with GeoServer. mapping.
+description: "Mapping with GeoServer. mapping."
 category: geospatial
 tags: [geoserver, mapping, geospatial, gis]
 models: [gpt-4, claude-3]

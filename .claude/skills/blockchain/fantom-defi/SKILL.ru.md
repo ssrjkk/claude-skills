@@ -1,6 +1,6 @@
 ---
 name: fantom-defi
-description: DeFi with Fantom. DeFi.
+description: "DeFi with Fantom. DeFi."
 category: blockchain
 tags: [fantom-defi, blockchain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sass-code-splitting
-description: Code Splitting with Sass. lazy loading.
+description: "Code Splitting with Sass. lazy loading."
 category: frontend
 tags: [sass, code-splitting, frontend, build-tool]
 models: [gpt-4, claude-3]

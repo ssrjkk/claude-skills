@@ -1,6 +1,6 @@
 ---
 name: archimate-tools
-description: Tools with ArchiMate. tooling.
+description: "Tools with ArchiMate. tooling."
 category: engineering
 tags: [archimate-tools, engineering, russian]
 models: [sonnet, opus]

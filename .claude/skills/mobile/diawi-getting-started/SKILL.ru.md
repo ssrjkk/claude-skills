@@ -1,6 +1,6 @@
 ---
 name: diawi-getting-started
-description: Getting Started for Diawi: initial setup and first steps
+description: "Getting Started for Diawi: initial setup and first steps"
 category: mobile
 tags: [diawi-getting-started, mobile, russian]
 models: [sonnet, opus]

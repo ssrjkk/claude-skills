@@ -1,6 +1,6 @@
 ---
 name: salesforce-commerce-cart
-description: Cart with Salesforce Commerce. cart.
+description: "Cart with Salesforce Commerce. cart."
 category: ecommerce
 tags: [salesforce-commerce-cart, ecommerce, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: tive-warehouse
-description: Warehouse with Tive. warehouse ops.
+description: "Warehouse with Tive. warehouse ops."
 category: supply-chain
 tags: [tive-warehouse, supply-chain, russian]
 models: [sonnet, opus]

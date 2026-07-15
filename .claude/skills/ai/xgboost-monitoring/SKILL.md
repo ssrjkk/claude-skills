@@ -1,6 +1,6 @@
 ---
 name: xgboost-monitoring
-description: Monitoring with Xgboost. model monitoring.
+description: "Monitoring with Xgboost. model monitoring."
 category: ai
 tags: [xgboost, monitoring, ai, ml]
 models: [gpt-4, claude-3]

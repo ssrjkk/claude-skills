@@ -1,6 +1,6 @@
 ---
 name: tcfd-basics
-description: Basics with TCFD. fundamentals.
+description: "Basics with TCFD. fundamentals."
 category: sustainability
 tags: [tcfd-basics, sustainability, russian]
 models: [sonnet, opus]

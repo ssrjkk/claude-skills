@@ -1,6 +1,6 @@
 ---
 name: openid-audit
-description: Audit with OpenID Connect. security audit.
+description: "Audit with OpenID Connect. security audit."
 category: security
 tags: [openid-audit, security, russian]
 models: [sonnet, opus]

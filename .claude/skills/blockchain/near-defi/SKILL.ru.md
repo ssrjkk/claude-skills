@@ -1,6 +1,6 @@
 ---
 name: near-defi
-description: DeFi with NEAR. DeFi.
+description: "DeFi with NEAR. DeFi."
 category: blockchain
 tags: [near-defi, blockchain, russian]
 models: [sonnet, opus]

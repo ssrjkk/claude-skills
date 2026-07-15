@@ -1,6 +1,6 @@
 ---
 name: panel-performance
-description: Performance with Panel. performance.
+description: "Performance with Panel. performance."
 category: data
 tags: [panel-performance, data, russian]
 models: [sonnet, opus]

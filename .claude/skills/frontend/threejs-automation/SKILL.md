@@ -1,6 +1,6 @@
 ---
 name: threejs-automation
-description: Automation for Threejs: automation and scripting
+description: "Automation for Threejs: automation and scripting"
 category: frontend
 tags: [threejs, automation, frontend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: unity
-description: Develops games on Unity using C# scripts and component architecture. Use for 2D/3D games across multiple platforms.
+description: "Develops games on Unity using C# scripts and component architecture. Use for 2D/3D games across multiple platforms."
 category: gamedev
 tags: [unity, csharp, game-dev, 2d, 3d]
 models: [opus]

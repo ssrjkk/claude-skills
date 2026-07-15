@@ -1,6 +1,6 @@
 ---
 name: linkedin-recruiter-analytics
-description: Analytics with LinkedIn Recruiter. analytics.
+description: "Analytics with LinkedIn Recruiter. analytics."
 category: hr
 tags: [linkedin-recruiter, analytics, hr, recruiting]
 models: [gpt-4, claude-3]

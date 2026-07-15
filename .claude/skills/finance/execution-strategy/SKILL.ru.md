@@ -1,6 +1,6 @@
 ---
 name: execution-strategy
-description: Strategy with Execution Systems. strategy dev.
+description: "Strategy with Execution Systems. strategy dev."
 category: finance
 tags: [execution-strategy, finance, russian]
 models: [sonnet, opus]

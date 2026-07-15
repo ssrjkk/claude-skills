@@ -1,6 +1,6 @@
 ---
 name: actix-web-routing
-description: Routing with Actix Web. HTTP routing.
+description: "Routing with Actix Web. HTTP routing."
 category: backend
 tags: [actix-web-routing, backend, russian]
 models: [sonnet, opus]

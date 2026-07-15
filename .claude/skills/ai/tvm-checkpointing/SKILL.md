@@ -1,6 +1,6 @@
 ---
 name: tvm-checkpointing
-description: Checkpointing with Tvm. model saving.
+description: "Checkpointing with Tvm. model saving."
 category: ai
 tags: [tvm, checkpointing, ai, deep-learning]
 models: [gpt-4, claude-3]

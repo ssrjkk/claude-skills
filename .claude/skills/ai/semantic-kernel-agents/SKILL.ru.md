@@ -1,6 +1,6 @@
 ---
 name: semantic-kernel-agents
-description: Agents with Semantic Kernel. building agents.
+description: "Agents with Semantic Kernel. building agents."
 category: ai
 tags: [semantic-kernel-agents, ai, russian]
 models: [sonnet, opus]

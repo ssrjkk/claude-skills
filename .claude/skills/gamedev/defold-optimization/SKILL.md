@@ -1,6 +1,6 @@
 ---
 name: defold-optimization
-description: Optimization with Defold. performance.
+description: "Optimization with Defold. performance."
 category: gamedev
 tags: [defold, optimization, gamedev, game-engine]
 models: [gpt-4, claude-3]

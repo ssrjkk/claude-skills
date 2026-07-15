@@ -1,6 +1,6 @@
 ---
 name: foundation-utilities
-description: Utilities with Foundation. utility classes.
+description: "Utilities with Foundation. utility classes."
 category: frontend
 tags: [foundation-utilities, frontend, russian]
 models: [sonnet, opus]

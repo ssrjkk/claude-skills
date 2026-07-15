@@ -1,6 +1,6 @@
 ---
 name: angular-setup
-description: Setup for Angular: installation and configuration
+description: "Setup for Angular: installation and configuration"
 category: frontend
 tags: [angular-setup, frontend, russian]
 models: [sonnet, opus]

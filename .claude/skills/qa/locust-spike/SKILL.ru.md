@@ -1,6 +1,6 @@
 ---
 name: locust-spike
-description: Spike with Locust. spike tests.
+description: "Spike with Locust. spike tests."
 category: qa
 tags: [locust-spike, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: eleventy-isr
-description: ISR with Eleventy. incremental.
+description: "ISR with Eleventy. incremental."
 category: frontend
 tags: [eleventy-isr, frontend, russian]
 models: [sonnet, opus]

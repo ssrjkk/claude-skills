@@ -1,6 +1,6 @@
 ---
 name: mlflow-experiment-tracking
-description: Experiment Tracking with Mlflow. tracking experiments.
+description: "Experiment Tracking with Mlflow. tracking experiments."
 category: ai
 tags: [mlflow, experiment-tracking, ai, ml]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: vault-workflow
-description: Workflow for Vault: workflow optimization
+description: "Workflow for Vault: workflow optimization"
 category: devops
 tags: [vault, workflow, devops]
 models: [sonnet, opus]

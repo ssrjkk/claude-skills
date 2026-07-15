@@ -1,6 +1,6 @@
 ---
 name: iperf-security
-description: Security with iperf. security testing.
+description: "Security with iperf. security testing."
 category: networking
 tags: [iperf-security, networking, russian]
 models: [sonnet, opus]

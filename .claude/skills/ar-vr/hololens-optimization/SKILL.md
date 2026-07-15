@@ -1,6 +1,6 @@
 ---
 name: hololens-optimization
-description: Optimization with HoloLens. performance.
+description: "Optimization with HoloLens. performance."
 category: ar-vr
 tags: [hololens, optimization, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

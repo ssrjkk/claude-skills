@@ -1,6 +1,6 @@
 ---
 name: devops-skill-0079
-description: Specialized skill #0079 for devops development
+description: "Specialized skill #0079 for devops development"
 category: devops
 tags: [skill-0079, devops, russian]
 models: [sonnet, opus]

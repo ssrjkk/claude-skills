@@ -1,6 +1,6 @@
 ---
 name: ab-thresholds
-description: Thresholds with Apache Bench. pass/fail.
+description: "Thresholds with Apache Bench. pass/fail."
 category: qa
 tags: [ab-thresholds, qa, russian]
 models: [sonnet, opus]

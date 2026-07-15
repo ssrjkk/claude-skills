@@ -1,6 +1,6 @@
 ---
 name: gnuplot-simulation
-description: Simulation with gnuplot. Monte Carlo.
+description: "Simulation with gnuplot. Monte Carlo."
 category: scientific
 tags: [gnuplot-simulation, scientific, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: agent-design
-description: Designs LLM agents with memory, tools, and reasoning cycle. Use for creating autonomous AI assistants.
+description: "Designs LLM agents with memory, tools, and reasoning cycle. Use for creating autonomous AI assistants."
 category: ai
 tags: [agent-design, ai, russian]
 models: [sonnet, opus]

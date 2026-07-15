@@ -1,6 +1,6 @@
 ---
 name: gradio-data
-description: Data with Gradio. data binding.
+description: "Data with Gradio. data binding."
 category: data
 tags: [gradio-data, data, russian]
 models: [sonnet, opus]

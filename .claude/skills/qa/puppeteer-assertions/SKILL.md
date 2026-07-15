@@ -1,6 +1,6 @@
 ---
 name: puppeteer-assertions
-description: Assertions with Puppeteer. assertions.
+description: "Assertions with Puppeteer. assertions."
 category: qa
 tags: [puppeteer, assertions, qa, e2e]
 models: [gpt-4, claude-3]

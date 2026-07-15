@@ -1,6 +1,6 @@
 ---
 name: firestore-schema
-description: Schema Design with Firestore. schema design.
+description: "Schema Design with Firestore. schema design."
 category: database
 tags: [firestore-schema, database, russian]
 models: [sonnet, opus]

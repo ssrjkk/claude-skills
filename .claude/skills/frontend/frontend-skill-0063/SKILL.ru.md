@@ -1,6 +1,6 @@
 ---
 name: frontend-skill-0063
-description: Specialized skill #0063 for frontend development
+description: "Specialized skill #0063 for frontend development"
 category: frontend
 tags: [skill-0063, frontend, russian]
 models: [sonnet, opus]

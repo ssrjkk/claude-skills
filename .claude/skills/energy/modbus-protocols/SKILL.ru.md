@@ -1,6 +1,6 @@
 ---
 name: modbus-protocols
-description: Protocols with Modbus. communication.
+description: "Protocols with Modbus. communication."
 category: energy
 tags: [modbus-protocols, energy, russian]
 models: [sonnet, opus]

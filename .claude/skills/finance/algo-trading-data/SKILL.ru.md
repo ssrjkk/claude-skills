@@ -1,6 +1,6 @@
 ---
 name: algo-trading-data
-description: Data with Algorithmic Trading. data sources.
+description: "Data with Algorithmic Trading. data sources."
 category: finance
 tags: [algo-trading-data, finance, russian]
 models: [sonnet, opus]

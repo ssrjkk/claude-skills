@@ -1,6 +1,6 @@
 ---
 name: trl-transfer-learning
-description: Transfer Learning with Trl. transfer learning.
+description: "Transfer Learning with Trl. transfer learning."
 category: ai
 tags: [trl-transfer-learning, ai, russian]
 models: [sonnet, opus]

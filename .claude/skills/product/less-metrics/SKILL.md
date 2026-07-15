@@ -1,6 +1,6 @@
 ---
 name: less-metrics
-description: Metrics with LeSS. measurement.
+description: "Metrics with LeSS. measurement."
 category: product
 tags: [less, metrics, product, methodology]
 models: [gpt-4, claude-3]

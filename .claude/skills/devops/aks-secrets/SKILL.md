@@ -1,6 +1,6 @@
 ---
 name: aks-secrets
-description: Secrets with Azure AKS. secret management.
+description: "Secrets with Azure AKS. secret management."
 category: devops
 tags: [aks, secrets, devops, kubernetes]
 models: [gpt-4, claude-3]

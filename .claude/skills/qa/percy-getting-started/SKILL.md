@@ -1,6 +1,6 @@
 ---
 name: percy-getting-started
-description: Getting Started for Percy: initial setup and first steps
+description: "Getting Started for Percy: initial setup and first steps"
 category: qa
 tags: [percy, getting-started, qa]
 models: [sonnet, opus]

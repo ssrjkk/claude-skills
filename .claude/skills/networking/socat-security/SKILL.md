@@ -1,6 +1,6 @@
 ---
 name: socat-security
-description: Security with socat. security testing.
+description: "Security with socat. security testing."
 category: networking
 tags: [socat, security, networking, networking-tool]
 models: [gpt-4, claude-3]

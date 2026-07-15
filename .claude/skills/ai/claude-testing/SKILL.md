@@ -1,6 +1,6 @@
 ---
 name: claude-testing
-description: Testing for Claude: testing and validation
+description: "Testing for Claude: testing and validation"
 category: ai
 tags: [claude, testing, ai]
 models: [sonnet, opus]

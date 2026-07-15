@@ -1,6 +1,6 @@
 ---
 name: chi-config
-description: Config with Chi. config management.
+description: "Config with Chi. config management."
 category: backend
 tags: [chi, config, backend, backend]
 models: [gpt-4, claude-3]

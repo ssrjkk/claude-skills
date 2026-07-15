@@ -1,6 +1,6 @@
 ---
 name: clojure-orm
-description: ORM with Clojure. database access.
+description: "ORM with Clojure. database access."
 category: backend
 tags: [clojure, orm, backend, backend]
 models: [gpt-4, claude-3]

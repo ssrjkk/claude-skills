@@ -1,6 +1,6 @@
 ---
 name: accelerate-visualization
-description: Visualization with Accelerate. model viz.
+description: "Visualization with Accelerate. model viz."
 category: ai
 tags: [accelerate-visualization, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ray-tune-deployment
-description: Deployment with Ray Tune. model serving.
+description: "Deployment with Ray Tune. model serving."
 category: ai
 tags: [ray-tune-deployment, ai, russian]
 models: [sonnet, opus]

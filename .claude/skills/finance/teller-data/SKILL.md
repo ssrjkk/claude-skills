@@ -1,6 +1,6 @@
 ---
 name: teller-data
-description: Data with Teller. financial data.
+description: "Data with Teller. financial data."
 category: finance
 tags: [teller, data, finance, fintech]
 models: [gpt-4, claude-3]

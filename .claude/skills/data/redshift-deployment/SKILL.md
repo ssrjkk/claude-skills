@@ -1,6 +1,6 @@
 ---
 name: redshift-deployment
-description: Deployment for Redshift: deployment and release
+description: "Deployment for Redshift: deployment and release"
 category: data
 tags: [redshift, deployment, data]
 models: [sonnet, opus]

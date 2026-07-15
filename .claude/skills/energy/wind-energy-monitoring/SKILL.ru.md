@@ -1,6 +1,6 @@
 ---
 name: wind-energy-monitoring
-description: Monitoring with Wind Energy. monitoring.
+description: "Monitoring with Wind Energy. monitoring."
 category: energy
 tags: [wind-energy-monitoring, energy, russian]
 models: [sonnet, opus]

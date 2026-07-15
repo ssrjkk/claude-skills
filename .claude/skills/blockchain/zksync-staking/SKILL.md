@@ -1,6 +1,6 @@
 ---
 name: zksync-staking
-description: Staking with zkSync. staking.
+description: "Staking with zkSync. staking."
 category: blockchain
 tags: [zksync, staking, blockchain, blockchain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: telehealth-setup
-description: Setup with Telehealth. implementation.
+description: "Setup with Telehealth. implementation."
 category: healthcare
 tags: [telehealth, setup, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

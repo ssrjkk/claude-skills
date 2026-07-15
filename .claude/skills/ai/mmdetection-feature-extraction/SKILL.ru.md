@@ -1,6 +1,6 @@
 ---
 name: mmdetection-feature-extraction
-description: Feature Extraction with Mmdetection. extracting features.
+description: "Feature Extraction with Mmdetection. extracting features."
 category: ai
 tags: [mmdetection-feature-extraction, ai, russian]
 models: [sonnet, opus]

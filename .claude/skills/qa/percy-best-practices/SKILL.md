@@ -1,6 +1,6 @@
 ---
 name: percy-best-practices
-description: Best Practices for Percy: best practices and patterns
+description: "Best Practices for Percy: best practices and patterns"
 category: qa
 tags: [percy, best-practices, qa]
 models: [sonnet, opus]

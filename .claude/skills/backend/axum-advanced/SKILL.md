@@ -1,6 +1,6 @@
 ---
 name: axum-advanced
-description: Advanced for Axum: advanced patterns and techniques
+description: "Advanced for Axum: advanced patterns and techniques"
 category: backend
 tags: [axum, advanced, backend]
 models: [sonnet, opus]

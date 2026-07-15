@@ -1,6 +1,6 @@
 ---
 name: prometheus-storage
-description: Storage with Prometheus. data retention.
+description: "Storage with Prometheus. data retention."
 category: devops
 tags: [prometheus-storage, devops, russian]
 models: [sonnet, opus]

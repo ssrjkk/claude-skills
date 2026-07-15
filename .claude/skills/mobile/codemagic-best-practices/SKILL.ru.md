@@ -1,6 +1,6 @@
 ---
 name: codemagic-best-practices
-description: Best Practices for Codemagic: best practices and patterns
+description: "Best Practices for Codemagic: best practices and patterns"
 category: mobile
 tags: [codemagic-best-practices, mobile, russian]
 models: [sonnet, opus]

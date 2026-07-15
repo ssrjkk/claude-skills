@@ -1,6 +1,6 @@
 ---
 name: gradio-deployment
-description: Deployment with Gradio. deploy.
+description: "Deployment with Gradio. deploy."
 category: data
 tags: [gradio-deployment, data, russian]
 models: [sonnet, opus]

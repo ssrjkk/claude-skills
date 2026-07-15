@@ -1,6 +1,6 @@
 ---
 name: envoy-production
-description: Production for Envoy: production deployment
+description: "Production for Envoy: production deployment"
 category: devops
 tags: [envoy-production, devops, russian]
 models: [sonnet, opus]

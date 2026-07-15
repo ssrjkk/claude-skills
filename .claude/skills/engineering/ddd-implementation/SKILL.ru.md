@@ -1,6 +1,6 @@
 ---
 name: ddd-implementation
-description: Implementation with Domain-Driven Design. practice.
+description: "Implementation with Domain-Driven Design. practice."
 category: engineering
 tags: [ddd-implementation, engineering, russian]
 models: [sonnet, opus]

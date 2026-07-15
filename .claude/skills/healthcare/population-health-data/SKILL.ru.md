@@ -1,6 +1,6 @@
 ---
 name: population-health-data
-description: Data with Population Health. data management.
+description: "Data with Population Health. data management."
 category: healthcare
 tags: [population-health-data, healthcare, russian]
 models: [sonnet, opus]

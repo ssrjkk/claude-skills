@@ -1,6 +1,6 @@
 ---
 name: zuora-invoicing
-description: Invoicing with Zuora. invoices.
+description: "Invoicing with Zuora. invoices."
 category: payments
 tags: [zuora, invoicing, payments, billing]
 models: [gpt-4, claude-3]

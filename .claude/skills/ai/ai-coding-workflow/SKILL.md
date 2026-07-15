@@ -1,6 +1,6 @@
 ---
 name: ai-coding-workflow
-description: Modern AI-assisted development workflow
+description: "Modern AI-assisted development workflow"
 category: ai
 tags: [workflow, ai-assisted, development, best-practices]
 models: [sonnet, opus]

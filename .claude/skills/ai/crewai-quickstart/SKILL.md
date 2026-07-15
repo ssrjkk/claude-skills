@@ -1,6 +1,6 @@
 ---
 name: crewai-quickstart
-description: Quickstart for Crewai: quick start guide
+description: "Quickstart for Crewai: quick start guide"
 category: ai
 tags: [crewai, quickstart, ai]
 models: [sonnet, opus]

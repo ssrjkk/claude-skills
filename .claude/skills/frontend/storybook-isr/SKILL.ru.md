@@ -1,6 +1,6 @@
 ---
 name: storybook-isr
-description: ISR with Storybook. incremental.
+description: "ISR with Storybook. incremental."
 category: frontend
 tags: [storybook-isr, frontend, russian]
 models: [sonnet, opus]

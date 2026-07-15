@@ -1,6 +1,6 @@
 ---
 name: deck-gl-integration
-description: Integration with Deck.gl. integration.
+description: "Integration with Deck.gl. integration."
 category: geospatial
 tags: [deck-gl-integration, geospatial, russian]
 models: [sonnet, opus]

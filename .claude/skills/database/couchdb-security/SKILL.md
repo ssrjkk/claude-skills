@@ -1,6 +1,6 @@
 ---
 name: couchdb-security
-description: Security with CouchDB. security.
+description: "Security with CouchDB. security."
 category: database
 tags: [couchdb, security, database, nosql]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: percy-production
-description: Production for Percy: production deployment
+description: "Production for Percy: production deployment"
 category: qa
 tags: [percy, production, qa]
 models: [sonnet, opus]

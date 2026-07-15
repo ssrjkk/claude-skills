@@ -1,6 +1,6 @@
 ---
 name: skill-0223
-description: Specialized skill #0223 for design development
+description: "Specialized skill #0223 for design development"
 category: design
 tags: [skill-0223, design, russian]
 models: [sonnet, opus]

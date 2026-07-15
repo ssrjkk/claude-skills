@@ -1,6 +1,6 @@
 ---
 name: micronaut-middleware
-description: Middleware with Micronaut. request processing.
+description: "Middleware with Micronaut. request processing."
 category: backend
 tags: [micronaut, middleware, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: opencv-image-classification
-description: Image Classification with Opencv. classifying images.
+description: "Image Classification with Opencv. classifying images."
 category: ai
 tags: [opencv-image-classification, ai, russian]
 models: [sonnet, opus]

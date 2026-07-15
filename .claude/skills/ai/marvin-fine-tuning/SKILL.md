@@ -1,6 +1,6 @@
 ---
 name: marvin-fine-tuning
-description: Fine-Tuning with Marvin. model customization.
+description: "Fine-Tuning with Marvin. model customization."
 category: ai
 tags: [marvin, fine-tuning, ai, llm]
 models: [gpt-4, claude-3]

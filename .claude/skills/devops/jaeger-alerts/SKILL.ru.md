@@ -1,6 +1,6 @@
 ---
 name: jaeger-alerts
-description: Alerts with Jaeger. alerting rules.
+description: "Alerts with Jaeger. alerting rules."
 category: devops
 tags: [jaeger-alerts, devops, russian]
 models: [sonnet, opus]

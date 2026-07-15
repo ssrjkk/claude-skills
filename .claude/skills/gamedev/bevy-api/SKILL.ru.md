@@ -1,6 +1,6 @@
 ---
 name: bevy-api
-description: API for Bevy: API development and integration
+description: "API for Bevy: API development and integration"
 category: gamedev
 tags: [bevy-api, gamedev, russian]
 models: [sonnet, opus]

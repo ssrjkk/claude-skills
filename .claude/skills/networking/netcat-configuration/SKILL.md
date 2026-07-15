@@ -1,6 +1,6 @@
 ---
 name: netcat-configuration
-description: Config with netcat. advanced config.
+description: "Config with netcat. advanced config."
 category: networking
 tags: [netcat, configuration, networking, networking-tool]
 models: [gpt-4, claude-3]

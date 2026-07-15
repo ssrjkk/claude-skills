@@ -1,6 +1,6 @@
 ---
 name: valtio-optimization
-description: Optimization with Valtio. performance.
+description: "Optimization with Valtio. performance."
 category: frontend
 tags: [valtio, optimization, frontend, state-management]
 models: [gpt-4, claude-3]

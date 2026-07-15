@@ -1,6 +1,6 @@
 ---
 name: pubnub-analytics
-description: Analytics with PubNub. analytics.
+description: "Analytics with PubNub. analytics."
 category: communications
 tags: [pubnub-analytics, communications, russian]
 models: [sonnet, opus]

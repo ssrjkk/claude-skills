@@ -1,6 +1,6 @@
 ---
 name: openshift-service
-description: Service with OpenShift. services.
+description: "Service with OpenShift. services."
 category: devops
 tags: [openshift, service, devops, kubernetes]
 models: [gpt-4, claude-3]

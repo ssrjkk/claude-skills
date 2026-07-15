@@ -1,6 +1,6 @@
 ---
 name: snyk-advanced
-description: Advanced for Snyk: advanced patterns and techniques
+description: "Advanced for Snyk: advanced patterns and techniques"
 category: security
 tags: [snyk-advanced, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gensim-dependency-parsing
-description: Dependency Parsing with Gensim. syntax analysis.
+description: "Dependency Parsing with Gensim. syntax analysis."
 category: ai
 tags: [gensim-dependency-parsing, ai, russian]
 models: [sonnet, opus]

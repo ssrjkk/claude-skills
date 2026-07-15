@@ -1,6 +1,6 @@
 ---
 name: plotly-analysis
-description: Analysis with Plotly. data analysis.
+description: "Analysis with Plotly. data analysis."
 category: data
 tags: [plotly-analysis, data, russian]
 models: [sonnet, opus]

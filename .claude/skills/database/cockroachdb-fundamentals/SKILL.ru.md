@@ -1,6 +1,6 @@
 ---
 name: cockroachdb-fundamentals
-description: Fundamentals for Cockroachdb: core concepts
+description: "Fundamentals for Cockroachdb: core concepts"
 category: database
 tags: [cockroachdb-fundamentals, database, russian]
 models: [sonnet, opus]

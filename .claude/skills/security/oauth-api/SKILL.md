@@ -1,6 +1,6 @@
 ---
 name: oauth-api
-description: API for Oauth: API development and integration
+description: "API for Oauth: API development and integration"
 category: security
 tags: [oauth, api, security]
 models: [sonnet, opus]

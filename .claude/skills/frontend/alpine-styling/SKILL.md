@@ -1,6 +1,6 @@
 ---
 name: alpine-styling
-description: Styling with Alpine. component styling.
+description: "Styling with Alpine. component styling."
 category: frontend
 tags: [alpine, styling, frontend, frontend]
 models: [gpt-4, claude-3]

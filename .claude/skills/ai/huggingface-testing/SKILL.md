@@ -1,6 +1,6 @@
 ---
 name: huggingface-testing
-description: Testing for Huggingface: testing and validation
+description: "Testing for Huggingface: testing and validation"
 category: ai
 tags: [huggingface, testing, ai]
 models: [sonnet, opus]

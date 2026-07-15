@@ -1,6 +1,6 @@
 ---
 name: suse-setup
-description: Setup with SUSE. installation.
+description: "Setup with SUSE. installation."
 category: os-admin
 tags: [suse, setup, os-admin, linux]
 models: [gpt-4, claude-3]

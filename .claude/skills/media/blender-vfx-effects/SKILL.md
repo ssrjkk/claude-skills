@@ -1,6 +1,6 @@
 ---
 name: blender-vfx-effects
-description: Effects with Blender VFX. VFX.
+description: "Effects with Blender VFX. VFX."
 category: media
 tags: [blender-vfx, effects, media, media-production]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: digitalocean-cost
-description: Cost with DigitalOcean. cost optimization.
+description: "Cost with DigitalOcean. cost optimization."
 category: devops
 tags: [digitalocean-cost, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: solid-forms
-description: Forms with Solid. form handling.
+description: "Forms with Solid. form handling."
 category: frontend
 tags: [solid, forms, frontend, frontend]
 models: [gpt-4, claude-3]

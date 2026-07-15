@@ -1,6 +1,6 @@
 ---
 name: coap-testing
-description: Testing with CoAP. testing.
+description: "Testing with CoAP. testing."
 category: communications
 tags: [coap-testing, communications, russian]
 models: [sonnet, opus]

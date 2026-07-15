@@ -1,6 +1,6 @@
 ---
 name: svelte-state-management
-description: State Management with Svelte. state handling.
+description: "State Management with Svelte. state handling."
 category: frontend
 tags: [svelte, state-management, frontend, frontend]
 models: [gpt-4, claude-3]

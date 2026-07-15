@@ -1,6 +1,6 @@
 ---
 name: great-expectations-workflow
-description: Workflow for Great-Expectations: workflow optimization
+description: "Workflow for Great-Expectations: workflow optimization"
 category: data
 tags: [great-expectations, workflow, data]
 models: [sonnet, opus]

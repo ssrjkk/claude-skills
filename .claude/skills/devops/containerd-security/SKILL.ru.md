@@ -1,6 +1,6 @@
 ---
 name: containerd-security
-description: Security with containerd. container security.
+description: "Security with containerd. container security."
 category: devops
 tags: [containerd-security, devops, russian]
 models: [sonnet, opus]

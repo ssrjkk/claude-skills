@@ -1,6 +1,6 @@
 ---
 name: swiper-configuration
-description: Configuration for Swiper: configuration and setup
+description: "Configuration for Swiper: configuration and setup"
 category: frontend
 tags: [swiper, configuration, frontend]
 models: [sonnet, opus]

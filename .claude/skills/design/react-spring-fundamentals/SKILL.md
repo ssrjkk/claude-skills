@@ -1,6 +1,6 @@
 ---
 name: react-spring-fundamentals
-description: Fundamentals for React-Spring: core concepts
+description: "Fundamentals for React-Spring: core concepts"
 category: design
 tags: [react-spring, fundamentals, design]
 models: [sonnet, opus]

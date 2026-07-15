@@ -1,6 +1,6 @@
 ---
 name: highlight-intro
-description: Intro for Highlight: introduction
+description: "Intro for Highlight: introduction"
 category: devops
 tags: [highlight, intro, devops]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ubuntu-processes
-description: Processes with Ubuntu. process management.
+description: "Processes with Ubuntu. process management."
 category: os-admin
 tags: [ubuntu-processes, os-admin, russian]
 models: [sonnet, opus]

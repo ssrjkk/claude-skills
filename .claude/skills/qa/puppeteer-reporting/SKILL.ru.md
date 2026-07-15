@@ -1,6 +1,6 @@
 ---
 name: puppeteer-reporting
-description: Reporting with Puppeteer. reports.
+description: "Reporting with Puppeteer. reports."
 category: qa
 tags: [puppeteer-reporting, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: puppeteer
-description: Automates browser testing with Puppeteer, headless Chrome, and page interaction APIs.
+description: "Automates browser testing with Puppeteer, headless Chrome, and page interaction APIs."
 category: qa
 tags: [puppeteer, qa, russian]
 models: [sonnet, opus]

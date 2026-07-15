@@ -1,6 +1,6 @@
 ---
 name: prefect-batch
-description: Batch with Prefect. batch processing.
+description: "Batch with Prefect. batch processing."
 category: data
 tags: [prefect, batch, data, data-engineering]
 models: [gpt-4, claude-3]

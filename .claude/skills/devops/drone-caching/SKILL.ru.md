@@ -1,6 +1,6 @@
 ---
 name: drone-caching
-description: Caching with Drone CI. dependency caching.
+description: "Caching with Drone CI. dependency caching."
 category: devops
 tags: [drone-caching, devops, russian]
 models: [sonnet, opus]

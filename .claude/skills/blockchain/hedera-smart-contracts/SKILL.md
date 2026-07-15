@@ -1,6 +1,6 @@
 ---
 name: hedera-smart-contracts
-description: Smart Contracts with Hedera. contracts.
+description: "Smart Contracts with Hedera. contracts."
 category: blockchain
 tags: [hedera, smart-contracts, blockchain, blockchain]
 models: [gpt-4, claude-3]

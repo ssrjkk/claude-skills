@@ -1,6 +1,6 @@
 ---
 name: powershell-networking
-description: Networking with PowerShell. network.
+description: "Networking with PowerShell. network."
 category: os-admin
 tags: [powershell, networking, os-admin, windows]
 models: [gpt-4, claude-3]

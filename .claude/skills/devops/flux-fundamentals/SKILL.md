@@ -1,6 +1,6 @@
 ---
 name: flux-fundamentals
-description: Fundamentals for Flux: core concepts
+description: "Fundamentals for Flux: core concepts"
 category: devops
 tags: [flux, fundamentals, devops]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: portfolio-strategy
-description: Strategy with Portfolio Management. strategy dev.
+description: "Strategy with Portfolio Management. strategy dev."
 category: finance
 tags: [portfolio-strategy, finance, russian]
 models: [sonnet, opus]

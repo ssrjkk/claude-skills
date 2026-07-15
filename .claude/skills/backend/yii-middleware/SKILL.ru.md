@@ -1,6 +1,6 @@
 ---
 name: yii-middleware
-description: Middleware with Yii. pipeline.
+description: "Middleware with Yii. pipeline."
 category: backend
 tags: [yii-middleware, backend, russian]
 models: [sonnet, opus]

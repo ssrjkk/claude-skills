@@ -1,6 +1,6 @@
 ---
 name: greenhouse-performance
-description: Performance with Greenhouse. performance mgmt.
+description: "Performance with Greenhouse. performance mgmt."
 category: hr
 tags: [greenhouse, performance, hr, hr-tech]
 models: [gpt-4, claude-3]

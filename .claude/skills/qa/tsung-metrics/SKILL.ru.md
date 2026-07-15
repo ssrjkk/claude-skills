@@ -1,6 +1,6 @@
 ---
 name: tsung-metrics
-description: Metrics with Tsung. performance metrics.
+description: "Metrics with Tsung. performance metrics."
 category: qa
 tags: [tsung-metrics, qa, russian]
 models: [sonnet, opus]

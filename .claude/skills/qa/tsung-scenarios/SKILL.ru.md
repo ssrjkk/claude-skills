@@ -1,6 +1,6 @@
 ---
 name: tsung-scenarios
-description: Scenarios with Tsung. test scenarios.
+description: "Scenarios with Tsung. test scenarios."
 category: qa
 tags: [tsung-scenarios, qa, russian]
 models: [sonnet, opus]

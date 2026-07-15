@@ -1,6 +1,6 @@
 ---
 name: nextjs-advanced
-description: Advanced for Nextjs: advanced patterns and techniques
+description: "Advanced for Nextjs: advanced patterns and techniques"
 category: frontend
 tags: [nextjs-advanced, frontend, russian]
 models: [sonnet, opus]

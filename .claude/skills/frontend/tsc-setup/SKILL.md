@@ -1,6 +1,6 @@
 ---
 name: tsc-setup
-description: Setup with TypeScript. initial setup.
+description: "Setup with TypeScript. initial setup."
 category: frontend
 tags: [tsc, setup, frontend, build-tool]
 models: [gpt-4, claude-3]

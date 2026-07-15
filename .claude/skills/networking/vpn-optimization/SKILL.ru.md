@@ -1,6 +1,6 @@
 ---
 name: vpn-optimization
-description: Optimization with VPN. tuning.
+description: "Optimization with VPN. tuning."
 category: networking
 tags: [vpn-optimization, networking, russian]
 models: [sonnet, opus]

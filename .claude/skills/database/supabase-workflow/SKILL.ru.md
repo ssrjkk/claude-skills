@@ -1,6 +1,6 @@
 ---
 name: supabase-workflow
-description: Workflow for Supabase: workflow optimization
+description: "Workflow for Supabase: workflow optimization"
 category: database
 tags: [supabase-workflow, database, russian]
 models: [sonnet, opus]

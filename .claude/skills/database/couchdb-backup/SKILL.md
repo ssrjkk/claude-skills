@@ -1,6 +1,6 @@
 ---
 name: couchdb-backup
-description: Backup with CouchDB. backup.
+description: "Backup with CouchDB. backup."
 category: database
 tags: [couchdb, backup, database, nosql]
 models: [gpt-4, claude-3]

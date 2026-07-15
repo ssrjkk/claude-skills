@@ -1,6 +1,6 @@
 ---
 name: pandas-setup
-description: Setup for Pandas: installation and configuration
+description: "Setup for Pandas: installation and configuration"
 category: data
 tags: [pandas, setup, data]
 models: [sonnet, opus]

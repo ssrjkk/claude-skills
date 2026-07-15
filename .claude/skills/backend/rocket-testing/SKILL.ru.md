@@ -1,6 +1,6 @@
 ---
 name: rocket-testing
-description: Testing with Rocket. unit tests.
+description: "Testing with Rocket. unit tests."
 category: backend
 tags: [rocket-testing, backend, russian]
 models: [sonnet, opus]

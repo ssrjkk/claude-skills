@@ -1,6 +1,6 @@
 ---
 name: tyk-quickstart
-description: Quickstart for Tyk: quick start guide
+description: "Quickstart for Tyk: quick start guide"
 category: backend
 tags: [tyk, quickstart, backend]
 models: [sonnet, opus]

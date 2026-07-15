@@ -1,6 +1,6 @@
 ---
 name: vault-production
-description: Production for Vault: production deployment
+description: "Production for Vault: production deployment"
 category: devops
 tags: [vault-production, devops, russian]
 models: [sonnet, opus]

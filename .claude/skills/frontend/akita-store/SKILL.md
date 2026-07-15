@@ -1,6 +1,6 @@
 ---
 name: akita-store
-description: Store with Akita. state store.
+description: "Store with Akita. state store."
 category: frontend
 tags: [akita, store, frontend, state-management]
 models: [gpt-4, claude-3]

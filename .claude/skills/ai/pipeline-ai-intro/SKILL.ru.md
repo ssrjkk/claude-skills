@@ -1,6 +1,6 @@
 ---
 name: pipeline-ai-intro
-description: Intro for Pipeline-Ai: introduction
+description: "Intro for Pipeline-Ai: introduction"
 category: ai
 tags: [pipeline-ai-intro, ai, russian]
 models: [sonnet, opus]

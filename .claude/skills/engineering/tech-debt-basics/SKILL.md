@@ -1,6 +1,6 @@
 ---
 name: tech-debt-basics
-description: Basics with Tech Debt Management. fundamentals.
+description: "Basics with Tech Debt Management. fundamentals."
 category: engineering
 tags: [tech-debt, basics, engineering, engineering]
 models: [gpt-4, claude-3]

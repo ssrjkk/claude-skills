@@ -1,6 +1,6 @@
 ---
 name: microk8s-autoscaling
-description: Autoscaling with MicroK8s. HPA.
+description: "Autoscaling with MicroK8s. HPA."
 category: devops
 tags: [microk8s-autoscaling, devops, russian]
 models: [sonnet, opus]

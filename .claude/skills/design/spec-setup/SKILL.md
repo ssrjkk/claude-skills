@@ -1,6 +1,6 @@
 ---
 name: spec-setup
-description: Setup with Spec. workspace.
+description: "Setup with Spec. workspace."
 category: design
 tags: [spec, setup, design, design]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: fiber-testing
-description: Testing with Fiber. unit tests.
+description: "Testing with Fiber. unit tests."
 category: backend
 tags: [fiber-testing, backend, russian]
 models: [sonnet, opus]

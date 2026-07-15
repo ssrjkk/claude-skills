@@ -1,6 +1,6 @@
 ---
 name: tcpdump-scripting
-description: Scripting with tcpdump. automation.
+description: "Scripting with tcpdump. automation."
 category: networking
 tags: [tcpdump-scripting, networking, russian]
 models: [sonnet, opus]

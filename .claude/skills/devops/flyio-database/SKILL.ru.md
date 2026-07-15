@@ -1,6 +1,6 @@
 ---
 name: flyio-database
-description: Database with Fly.io. managed databases.
+description: "Database with Fly.io. managed databases."
 category: devops
 tags: [flyio-database, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: databricks-security
-description: Security for Databricks: security best practices
+description: "Security for Databricks: security best practices"
 category: data
 tags: [databricks, security, data]
 models: [sonnet, opus]

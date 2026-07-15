@@ -1,6 +1,6 @@
 ---
 name: envoy-examples
-description: Examples for Envoy: practical examples
+description: "Examples for Envoy: practical examples"
 category: backend
 tags: [envoy-examples, backend, russian]
 models: [sonnet, opus]

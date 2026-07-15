@@ -1,6 +1,6 @@
 ---
 name: feathers-middleware
-description: Middleware with FeathersJS. request pipeline.
+description: "Middleware with FeathersJS. request pipeline."
 category: backend
 tags: [feathers, middleware, backend, backend]
 models: [gpt-4, claude-3]

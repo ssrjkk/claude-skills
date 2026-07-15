@@ -1,6 +1,6 @@
 ---
 name: questdb-setup
-description: Setup with QuestDB. installation.
+description: "Setup with QuestDB. installation."
 category: database
 tags: [questdb-setup, database, russian]
 models: [sonnet, opus]

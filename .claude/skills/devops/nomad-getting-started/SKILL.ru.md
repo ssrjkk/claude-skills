@@ -1,6 +1,6 @@
 ---
 name: nomad-getting-started
-description: Getting Started for Nomad: initial setup and first steps
+description: "Getting Started for Nomad: initial setup and first steps"
 category: devops
 tags: [nomad-getting-started, devops, russian]
 models: [sonnet, opus]

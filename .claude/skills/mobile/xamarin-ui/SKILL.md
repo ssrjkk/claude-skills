@@ -1,6 +1,6 @@
 ---
 name: xamarin-ui
-description: UI with Xamarin. UI components.
+description: "UI with Xamarin. UI components."
 category: mobile
 tags: [xamarin, ui, mobile, mobile]
 models: [gpt-4, claude-3]

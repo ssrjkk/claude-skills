@@ -1,6 +1,6 @@
 ---
 name: pytorch-setup
-description: Setup for Pytorch: installation and configuration
+description: "Setup for Pytorch: installation and configuration"
 category: ai
 tags: [pytorch-setup, ai, russian]
 models: [sonnet, opus]

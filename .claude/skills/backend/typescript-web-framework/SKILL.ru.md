@@ -1,6 +1,6 @@
 ---
 name: typescript-web-framework
-description: Web Framework with Typescript. web dev.
+description: "Web Framework with Typescript. web dev."
 category: backend
 tags: [typescript-web-framework, backend, russian]
 models: [sonnet, opus]

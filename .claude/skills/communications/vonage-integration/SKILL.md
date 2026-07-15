@@ -1,6 +1,6 @@
 ---
 name: vonage-integration
-description: Integration with Vonage. integration.
+description: "Integration with Vonage. integration."
 category: communications
 tags: [vonage, integration, communications, communication-platform]
 models: [gpt-4, claude-3]

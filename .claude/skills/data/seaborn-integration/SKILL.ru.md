@@ -1,6 +1,6 @@
 ---
 name: seaborn-integration
-description: Integration with Seaborn. data sources.
+description: "Integration with Seaborn. data sources."
 category: data
 tags: [seaborn-integration, data, russian]
 models: [sonnet, opus]

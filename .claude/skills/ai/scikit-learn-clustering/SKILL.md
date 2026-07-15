@@ -1,6 +1,6 @@
 ---
 name: scikit-learn-clustering
-description: Clustering with Scikit Learn. grouping data.
+description: "Clustering with Scikit Learn. grouping data."
 category: ai
 tags: [scikit-learn, clustering, ai, ml]
 models: [gpt-4, claude-3]

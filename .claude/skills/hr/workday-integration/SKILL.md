@@ -1,6 +1,6 @@
 ---
 name: workday-integration
-description: Integration with Workday. integration.
+description: "Integration with Workday. integration."
 category: hr
 tags: [workday, integration, hr, hr-tech]
 models: [gpt-4, claude-3]

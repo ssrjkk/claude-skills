@@ -1,6 +1,6 @@
 ---
 name: google-maps-analysis
-description: Analysis with Google Maps API. spatial analysis.
+description: "Analysis with Google Maps API. spatial analysis."
 category: geospatial
 tags: [google-maps-analysis, geospatial, russian]
 models: [sonnet, opus]

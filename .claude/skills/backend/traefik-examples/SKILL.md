@@ -1,6 +1,6 @@
 ---
 name: traefik-examples
-description: Examples for Traefik: practical examples
+description: "Examples for Traefik: practical examples"
 category: backend
 tags: [traefik, examples, backend]
 models: [sonnet, opus]

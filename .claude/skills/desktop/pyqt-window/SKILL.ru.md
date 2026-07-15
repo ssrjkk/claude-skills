@@ -1,6 +1,6 @@
 ---
 name: pyqt-window
-description: Window with PyQt. windows.
+description: "Window with PyQt. windows."
 category: desktop
 tags: [pyqt-window, desktop, russian]
 models: [sonnet, opus]

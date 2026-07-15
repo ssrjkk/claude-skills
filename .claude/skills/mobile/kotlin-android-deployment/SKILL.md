@@ -1,6 +1,6 @@
 ---
 name: kotlin-android-deployment
-description: Deployment with Kotlin Android. app store.
+description: "Deployment with Kotlin Android. app store."
 category: mobile
 tags: [kotlin-android, deployment, mobile, mobile]
 models: [gpt-4, claude-3]

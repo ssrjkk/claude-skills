@@ -1,6 +1,6 @@
 ---
 name: timescaledb-visualization
-description: Visualization with TimescaleDB. charting.
+description: "Visualization with TimescaleDB. charting."
 category: database
 tags: [timescaledb-visualization, database, russian]
 models: [sonnet, opus]

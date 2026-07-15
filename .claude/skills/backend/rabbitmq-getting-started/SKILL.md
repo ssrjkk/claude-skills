@@ -1,6 +1,6 @@
 ---
 name: rabbitmq-getting-started
-description: Getting Started for Rabbitmq: initial setup and first steps
+description: "Getting Started for Rabbitmq: initial setup and first steps"
 category: backend
 tags: [rabbitmq, getting-started, backend]
 models: [sonnet, opus]

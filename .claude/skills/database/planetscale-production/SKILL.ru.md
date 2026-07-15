@@ -1,6 +1,6 @@
 ---
 name: planetscale-production
-description: Production for Planetscale: production deployment
+description: "Production for Planetscale: production deployment"
 category: database
 tags: [planetscale-production, database, russian]
 models: [sonnet, opus]

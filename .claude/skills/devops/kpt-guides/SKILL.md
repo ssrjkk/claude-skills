@@ -1,6 +1,6 @@
 ---
 name: kpt-guides
-description: Guides for Kpt: how-to guides
+description: "Guides for Kpt: how-to guides"
 category: devops
 tags: [kpt, guides, devops]
 models: [sonnet, opus]

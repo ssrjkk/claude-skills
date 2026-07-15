@@ -1,6 +1,6 @@
 ---
 name: dvc-troubleshooting
-description: Troubleshooting for Dvc: troubleshooting common issues
+description: "Troubleshooting for Dvc: troubleshooting common issues"
 category: data
 tags: [dvc-troubleshooting, data, russian]
 models: [sonnet, opus]

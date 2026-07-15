@@ -1,6 +1,6 @@
 ---
 name: langsmith-configuration
-description: Configuration for Langsmith: configuration and setup
+description: "Configuration for Langsmith: configuration and setup"
 category: ai
 tags: [langsmith, configuration, ai]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: near-dapps
-description: DApps with NEAR. decentralized apps.
+description: "DApps with NEAR. decentralized apps."
 category: blockchain
 tags: [near-dapps, blockchain, russian]
 models: [sonnet, opus]

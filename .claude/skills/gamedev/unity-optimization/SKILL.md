@@ -1,6 +1,6 @@
 ---
 name: unity-optimization
-description: Optimization with Unity. performance.
+description: "Optimization with Unity. performance."
 category: gamedev
 tags: [unity, optimization, gamedev, game-engine]
 models: [gpt-4, claude-3]

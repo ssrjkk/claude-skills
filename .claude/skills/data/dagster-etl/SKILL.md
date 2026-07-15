@@ -1,6 +1,6 @@
 ---
 name: dagster-etl
-description: ETL with Dagster. extract-transform-load.
+description: "ETL with Dagster. extract-transform-load."
 category: data
 tags: [dagster, etl, data, data-engineering]
 models: [gpt-4, claude-3]

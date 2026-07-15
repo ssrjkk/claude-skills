@@ -1,6 +1,6 @@
 ---
 name: vertx-config
-description: Config with Vert.x. configuration.
+description: "Config with Vert.x. configuration."
 category: backend
 tags: [vertx, config, backend, backend]
 models: [gpt-4, claude-3]

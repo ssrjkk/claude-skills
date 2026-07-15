@@ -1,6 +1,6 @@
 ---
 name: polars-cleaning
-description: Cleaning with Polars. data cleaning.
+description: "Cleaning with Polars. data cleaning."
 category: data
 tags: [polars, cleaning, data, data-science]
 models: [gpt-4, claude-3]

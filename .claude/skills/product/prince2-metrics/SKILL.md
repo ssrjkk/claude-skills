@@ -1,6 +1,6 @@
 ---
 name: prince2-metrics
-description: Metrics with PRINCE2. measurement.
+description: "Metrics with PRINCE2. measurement."
 category: product
 tags: [prince2, metrics, product, methodology]
 models: [gpt-4, claude-3]

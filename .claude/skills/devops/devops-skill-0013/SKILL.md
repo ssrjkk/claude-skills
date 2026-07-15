@@ -1,6 +1,6 @@
 ---
 name: devops-skill-0013
-description: devops specialized skill #0013 for devops development
+description: "devops specialized skill #0013 for devops development"
 category: devops
 tags: [devops, skill, 0013]
 models: [sonnet, opus]

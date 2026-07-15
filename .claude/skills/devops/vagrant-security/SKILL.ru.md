@@ -1,6 +1,6 @@
 ---
 name: vagrant-security
-description: Security with Vagrant. security groups.
+description: "Security with Vagrant. security groups."
 category: devops
 tags: [vagrant-security, devops, russian]
 models: [sonnet, opus]

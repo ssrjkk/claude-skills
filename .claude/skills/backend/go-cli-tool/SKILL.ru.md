@@ -1,6 +1,6 @@
 ---
 name: go-cli-tool
-description: CLI Tool with Go. building CLI tools.
+description: "CLI Tool with Go. building CLI tools."
 category: backend
 tags: [go-cli-tool, backend, russian]
 models: [sonnet, opus]

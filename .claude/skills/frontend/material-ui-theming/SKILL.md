@@ -1,6 +1,6 @@
 ---
 name: material-ui-theming
-description: Theming with MUI. custom themes.
+description: "Theming with MUI. custom themes."
 category: frontend
 tags: [material-ui, theming, frontend, css]
 models: [gpt-4, claude-3]

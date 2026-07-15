@@ -1,6 +1,6 @@
 ---
 name: skill-0097
-description: Specialized skill #0097 for mobile development
+description: "Specialized skill #0097 for mobile development"
 category: mobile
 tags: [skill-0097, mobile, russian]
 models: [sonnet, opus]

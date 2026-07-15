@@ -1,6 +1,6 @@
 ---
 name: hyper-v-setup
-description: Setup with Hyper-V. installation.
+description: "Setup with Hyper-V. installation."
 category: os-admin
 tags: [hyper-v, setup, os-admin, windows]
 models: [gpt-4, claude-3]

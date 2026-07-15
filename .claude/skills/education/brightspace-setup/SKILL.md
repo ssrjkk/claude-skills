@@ -1,6 +1,6 @@
 ---
 name: brightspace-setup
-description: Setup with Brightspace. setup.
+description: "Setup with Brightspace. setup."
 category: education
 tags: [brightspace, setup, education, education-platform]
 models: [gpt-4, claude-3]

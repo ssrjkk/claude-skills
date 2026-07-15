@@ -1,6 +1,6 @@
 ---
 name: cocos-physics
-description: Physics with Cocos Creator. physics.
+description: "Physics with Cocos Creator. physics."
 category: gamedev
 tags: [cocos, physics, gamedev, game-engine]
 models: [gpt-4, claude-3]

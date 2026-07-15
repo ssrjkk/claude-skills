@@ -1,6 +1,6 @@
 ---
 name: solidstart-isr
-description: ISR with SolidStart. incremental.
+description: "ISR with SolidStart. incremental."
 category: frontend
 tags: [solidstart-isr, frontend, russian]
 models: [sonnet, opus]

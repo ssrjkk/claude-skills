@@ -1,6 +1,6 @@
 ---
 name: pms-reporting
-description: Reporting with Practice Management. reports.
+description: "Reporting with Practice Management. reports."
 category: healthcare
 tags: [pms-reporting, healthcare, russian]
 models: [sonnet, opus]

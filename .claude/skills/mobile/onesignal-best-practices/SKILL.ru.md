@@ -1,6 +1,6 @@
 ---
 name: onesignal-best-practices
-description: Best Practices for Onesignal: best practices and patterns
+description: "Best Practices for Onesignal: best practices and patterns"
 category: mobile
 tags: [onesignal-best-practices, mobile, russian]
 models: [sonnet, opus]

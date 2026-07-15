@@ -1,6 +1,6 @@
 ---
 name: amqp-basics
-description: Basics with AMQP. fundamentals.
+description: "Basics with AMQP. fundamentals."
 category: communications
 tags: [amqp-basics, communications, russian]
 models: [sonnet, opus]

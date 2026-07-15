@@ -1,6 +1,6 @@
 ---
 name: backtesting-risk
-description: Risk with Backtesting. risk analysis.
+description: "Risk with Backtesting. risk analysis."
 category: finance
 tags: [backtesting, risk, finance, trading]
 models: [gpt-4, claude-3]

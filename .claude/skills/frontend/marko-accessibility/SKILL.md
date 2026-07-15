@@ -1,6 +1,6 @@
 ---
 name: marko-accessibility
-description: Accessibility with Marko. a11y.
+description: "Accessibility with Marko. a11y."
 category: frontend
 tags: [marko, accessibility, frontend, frontend]
 models: [gpt-4, claude-3]

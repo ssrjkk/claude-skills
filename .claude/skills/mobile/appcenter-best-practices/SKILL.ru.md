@@ -1,6 +1,6 @@
 ---
 name: appcenter-best-practices
-description: Best Practices for Appcenter: best practices and patterns
+description: "Best Practices for Appcenter: best practices and patterns"
 category: mobile
 tags: [appcenter-best-practices, mobile, russian]
 models: [sonnet, opus]

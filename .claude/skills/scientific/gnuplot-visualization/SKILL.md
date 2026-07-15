@@ -1,6 +1,6 @@
 ---
 name: gnuplot-visualization
-description: Visualization with gnuplot. scientific plots.
+description: "Visualization with gnuplot. scientific plots."
 category: scientific
 tags: [gnuplot, visualization, scientific, scientific-computing]
 models: [gpt-4, claude-3]

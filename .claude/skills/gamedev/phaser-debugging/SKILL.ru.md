@@ -1,6 +1,6 @@
 ---
 name: phaser-debugging
-description: Debugging for Phaser: debugging and troubleshooting
+description: "Debugging for Phaser: debugging and troubleshooting"
 category: gamedev
 tags: [phaser-debugging, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: emr-integration
-description: Integration with EMR Systems. system integration.
+description: "Integration with EMR Systems. system integration."
 category: healthcare
 tags: [emr-integration, healthcare, russian]
 models: [sonnet, opus]

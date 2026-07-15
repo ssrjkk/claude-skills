@@ -1,6 +1,6 @@
 ---
 name: plaid-accounts
-description: Accounts with Plaid. account linking.
+description: "Accounts with Plaid. account linking."
 category: finance
 tags: [plaid, accounts, finance, fintech]
 models: [gpt-4, claude-3]

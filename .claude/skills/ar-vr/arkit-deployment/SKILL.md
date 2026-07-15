@@ -1,6 +1,6 @@
 ---
 name: arkit-deployment
-description: Deployment with ARKit. deployment.
+description: "Deployment with ARKit. deployment."
 category: ar-vr
 tags: [arkit, deployment, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

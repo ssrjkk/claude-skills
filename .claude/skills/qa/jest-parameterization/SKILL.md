@@ -1,6 +1,6 @@
 ---
 name: jest-parameterization
-description: Parameterization with Jest. parametrized tests.
+description: "Parameterization with Jest. parametrized tests."
 category: qa
 tags: [jest, parameterization, qa, testing]
 models: [gpt-4, claude-3]

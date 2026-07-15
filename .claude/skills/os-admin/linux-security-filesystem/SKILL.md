@@ -1,6 +1,6 @@
 ---
 name: linux-security-filesystem
-description: Filesystem with Linux Security. filesystem.
+description: "Filesystem with Linux Security. filesystem."
 category: os-admin
 tags: [linux-security, filesystem, os-admin, linux]
 models: [gpt-4, claude-3]

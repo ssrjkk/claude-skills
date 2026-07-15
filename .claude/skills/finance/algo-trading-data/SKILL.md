@@ -1,6 +1,6 @@
 ---
 name: algo-trading-data
-description: Data with Algorithmic Trading. data sources.
+description: "Data with Algorithmic Trading. data sources."
 category: finance
 tags: [algo-trading, data, finance, trading]
 models: [gpt-4, claude-3]

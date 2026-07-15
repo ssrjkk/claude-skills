@@ -1,6 +1,6 @@
 ---
 name: contiki-tasks
-description: Tasks with Contiki-NG. task management.
+description: "Tasks with Contiki-NG. task management."
 category: embedded
 tags: [contiki-tasks, embedded, russian]
 models: [sonnet, opus]

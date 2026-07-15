@@ -1,6 +1,6 @@
 ---
 name: hugo-deployment
-description: Deployment with Hugo. production.
+description: "Deployment with Hugo. production."
 category: frontend
 tags: [hugo, deployment, frontend, meta-framework]
 models: [gpt-4, claude-3]

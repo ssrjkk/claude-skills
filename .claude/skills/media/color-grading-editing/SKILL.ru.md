@@ -1,6 +1,6 @@
 ---
 name: color-grading-editing
-description: Editing with Color Grading. editing.
+description: "Editing with Color Grading. editing."
 category: media
 tags: [color-grading-editing, media, russian]
 models: [sonnet, opus]

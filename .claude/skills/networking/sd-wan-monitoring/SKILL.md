@@ -1,6 +1,6 @@
 ---
 name: sd-wan-monitoring
-description: Monitoring with SD-WAN. monitoring.
+description: "Monitoring with SD-WAN. monitoring."
 category: networking
 tags: [sd-wan, monitoring, networking, networking]
 models: [gpt-4, claude-3]

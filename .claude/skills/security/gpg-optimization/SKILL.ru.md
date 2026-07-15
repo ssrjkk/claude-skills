@@ -1,6 +1,6 @@
 ---
 name: gpg-optimization
-description: Optimization for Gpg: performance tuning and optimization
+description: "Optimization for Gpg: performance tuning and optimization"
 category: security
 tags: [gpg-optimization, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: redis-monitoring
-description: Monitoring with Redis. monitoring.
+description: "Monitoring with Redis. monitoring."
 category: database
 tags: [redis-monitoring, database, russian]
 models: [sonnet, opus]

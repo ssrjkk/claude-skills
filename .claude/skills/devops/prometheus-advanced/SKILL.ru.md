@@ -1,6 +1,6 @@
 ---
 name: prometheus-advanced
-description: Advanced for Prometheus: advanced patterns and techniques
+description: "Advanced for Prometheus: advanced patterns and techniques"
 category: devops
 tags: [prometheus-advanced, devops, russian]
 models: [sonnet, opus]

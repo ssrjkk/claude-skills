@@ -1,6 +1,6 @@
 ---
 name: julia-signal-processing
-description: Signal Processing with Julia. FFT.
+description: "Signal Processing with Julia. FFT."
 category: scientific
 tags: [julia, signal-processing, scientific, scientific-computing]
 models: [gpt-4, claude-3]

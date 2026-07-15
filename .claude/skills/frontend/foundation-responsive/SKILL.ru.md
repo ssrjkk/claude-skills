@@ -1,6 +1,6 @@
 ---
 name: foundation-responsive
-description: Responsive with Foundation. mobile-first.
+description: "Responsive with Foundation. mobile-first."
 category: frontend
 tags: [foundation-responsive, frontend, russian]
 models: [sonnet, opus]

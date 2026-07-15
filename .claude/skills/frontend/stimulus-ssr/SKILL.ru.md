@@ -1,6 +1,6 @@
 ---
 name: stimulus-ssr
-description: SSR with Stimulus. server rendering.
+description: "SSR with Stimulus. server rendering."
 category: frontend
 tags: [stimulus-ssr, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: chainer-inference
-description: Inference with Chainer. running models.
+description: "Inference with Chainer. running models."
 category: ai
 tags: [chainer, inference, ai, deep-learning]
 models: [gpt-4, claude-3]

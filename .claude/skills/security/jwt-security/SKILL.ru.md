@@ -1,6 +1,6 @@
 ---
 name: jwt-security
-description: Security for Jwt: security best practices
+description: "Security for Jwt: security best practices"
 category: security
 tags: [jwt-security, security, russian]
 models: [sonnet, opus]

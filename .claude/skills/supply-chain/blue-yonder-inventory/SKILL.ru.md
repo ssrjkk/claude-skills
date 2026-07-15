@@ -1,6 +1,6 @@
 ---
 name: blue-yonder-inventory
-description: Inventory with Blue Yonder. inventory mgmt.
+description: "Inventory with Blue Yonder. inventory mgmt."
 category: supply-chain
 tags: [blue-yonder-inventory, supply-chain, russian]
 models: [sonnet, opus]

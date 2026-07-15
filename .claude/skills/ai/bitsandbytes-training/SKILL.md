@@ -1,6 +1,6 @@
 ---
 name: bitsandbytes-training
-description: Training with Bitsandbytes. training models.
+description: "Training with Bitsandbytes. training models."
 category: ai
 tags: [bitsandbytes, training, ai, deep-learning]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: bokeh-cleaning
-description: Cleaning with Bokeh. data cleaning.
+description: "Cleaning with Bokeh. data cleaning."
 category: data
 tags: [bokeh, cleaning, data, data-science]
 models: [gpt-4, claude-3]

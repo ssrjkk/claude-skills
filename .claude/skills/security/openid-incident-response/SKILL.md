@@ -1,6 +1,6 @@
 ---
 name: openid-incident-response
-description: Incident Response with OpenID Connect. incident response.
+description: "Incident Response with OpenID Connect. incident response."
 category: security
 tags: [openid, incident-response, security, security]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: framer-guides
-description: Guides for Framer: how-to guides
+description: "Guides for Framer: how-to guides"
 category: design
 tags: [framer-guides, design, russian]
 models: [sonnet, opus]

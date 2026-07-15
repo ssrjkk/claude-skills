@@ -1,6 +1,6 @@
 ---
 name: threadx-memory
-description: Memory with ThreadX. memory management.
+description: "Memory with ThreadX. memory management."
 category: embedded
 tags: [threadx, memory, embedded, rtos]
 models: [gpt-4, claude-3]

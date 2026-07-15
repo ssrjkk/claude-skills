@@ -1,6 +1,6 @@
 ---
 name: web3js
-description: Integrates Web3.js for interacting with Ethereum blockchain from JavaScript/TypeScript. Use for DApp frontend development.
+description: "Integrates Web3.js for interacting with Ethereum blockchain from JavaScript/TypeScript. Use for DApp frontend development."
 category: blockchain
 tags: [web3js, blockchain, russian]
 models: [sonnet, opus]

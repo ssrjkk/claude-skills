@@ -1,6 +1,6 @@
 ---
 name: dragonfly-fundamentals
-description: Fundamentals for Dragonfly: core concepts
+description: "Fundamentals for Dragonfly: core concepts"
 category: database
 tags: [dragonfly-fundamentals, database, russian]
 models: [sonnet, opus]

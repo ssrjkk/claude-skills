@@ -1,6 +1,6 @@
 ---
 name: home-assistant-dashboards
-description: Dashboards with Home Assistant. dashboards.
+description: "Dashboards with Home Assistant. dashboards."
 category: iot
 tags: [home-assistant-dashboards, iot, russian]
 models: [sonnet, opus]

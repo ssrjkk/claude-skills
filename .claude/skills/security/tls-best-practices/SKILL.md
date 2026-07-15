@@ -1,6 +1,6 @@
 ---
 name: tls-best-practices
-description: Best Practices with TLS/SSL. best practices.
+description: "Best Practices with TLS/SSL. best practices."
 category: security
 tags: [tls, best-practices, security, security]
 models: [gpt-4, claude-3]

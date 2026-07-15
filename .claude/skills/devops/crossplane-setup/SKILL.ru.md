@@ -1,6 +1,6 @@
 ---
 name: crossplane-setup
-description: Setup with Crossplane. installation.
+description: "Setup with Crossplane. installation."
 category: devops
 tags: [crossplane-setup, devops, russian]
 models: [sonnet, opus]

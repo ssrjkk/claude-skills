@@ -1,6 +1,6 @@
 ---
 name: duckdb-best-practices
-description: Best Practices for Duckdb: best practices and patterns
+description: "Best Practices for Duckdb: best practices and patterns"
 category: database
 tags: [duckdb, best-practices, database]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: codeigniter-api
-description: API with CodeIgniter. APIs.
+description: "API with CodeIgniter. APIs."
 category: backend
 tags: [codeigniter-api, backend, russian]
 models: [sonnet, opus]

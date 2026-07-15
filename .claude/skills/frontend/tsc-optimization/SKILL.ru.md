@@ -1,6 +1,6 @@
 ---
 name: tsc-optimization
-description: Optimization with TypeScript. build optimization.
+description: "Optimization with TypeScript. build optimization."
 category: frontend
 tags: [tsc-optimization, frontend, russian]
 models: [sonnet, opus]

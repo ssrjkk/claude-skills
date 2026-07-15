@@ -1,6 +1,6 @@
 ---
 name: swiftui-mac-threading
-description: Threading with SwiftUI Mac. multithreading.
+description: "Threading with SwiftUI Mac. multithreading."
 category: desktop
 tags: [swiftui-mac, threading, desktop, desktop]
 models: [gpt-4, claude-3]

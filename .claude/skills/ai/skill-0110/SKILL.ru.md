@@ -1,6 +1,6 @@
 ---
 name: skill-0110
-description: Specialized skill #0110 for ai development
+description: "Specialized skill #0110 for ai development"
 category: ai
 tags: [skill-0110, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: circuitpython-pwm
-description: PWM with CircuitPython. PWM signals.
+description: "PWM with CircuitPython. PWM signals."
 category: iot
 tags: [circuitpython-pwm, iot, russian]
 models: [sonnet, opus]

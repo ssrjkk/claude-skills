@@ -1,6 +1,6 @@
 ---
 name: tls-ssl-design
-description: Design with TLS/SSL. network design.
+description: "Design with TLS/SSL. network design."
 category: networking
 tags: [tls-ssl, design, networking, networking]
 models: [gpt-4, claude-3]

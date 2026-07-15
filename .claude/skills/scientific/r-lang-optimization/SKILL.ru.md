@@ -1,6 +1,6 @@
 ---
 name: r-lang-optimization
-description: Optimization with R. optimization.
+description: "Optimization with R. optimization."
 category: scientific
 tags: [r-lang-optimization, scientific, russian]
 models: [sonnet, opus]

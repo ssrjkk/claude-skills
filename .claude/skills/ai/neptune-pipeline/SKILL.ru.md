@@ -1,6 +1,6 @@
 ---
 name: neptune-pipeline
-description: Pipeline with Neptune. ML pipelines.
+description: "Pipeline with Neptune. ML pipelines."
 category: ai
 tags: [neptune-pipeline, ai, russian]
 models: [sonnet, opus]

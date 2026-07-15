@@ -1,6 +1,6 @@
 ---
 name: ses-setup
-description: Setup with Amazon SES. account setup.
+description: "Setup with Amazon SES. account setup."
 category: communications
 tags: [ses, setup, communications, communication-platform]
 models: [gpt-4, claude-3]

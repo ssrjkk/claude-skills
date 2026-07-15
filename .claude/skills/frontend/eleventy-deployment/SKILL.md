@@ -1,6 +1,6 @@
 ---
 name: eleventy-deployment
-description: Deployment with Eleventy. production.
+description: "Deployment with Eleventy. production."
 category: frontend
 tags: [eleventy, deployment, frontend, meta-framework]
 models: [gpt-4, claude-3]

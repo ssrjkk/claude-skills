@@ -1,6 +1,6 @@
 ---
 name: cdk8s-quickstart
-description: Quickstart for Cdk8S: quick start guide
+description: "Quickstart for Cdk8S: quick start guide"
 category: devops
 tags: [cdk8s-quickstart, devops, russian]
 models: [sonnet, opus]

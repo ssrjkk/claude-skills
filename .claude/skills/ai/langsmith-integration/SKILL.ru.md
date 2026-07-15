@@ -1,6 +1,6 @@
 ---
 name: langsmith-integration
-description: Integration for Langsmith: integration with other tools
+description: "Integration for Langsmith: integration with other tools"
 category: ai
 tags: [langsmith-integration, ai, russian]
 models: [sonnet, opus]

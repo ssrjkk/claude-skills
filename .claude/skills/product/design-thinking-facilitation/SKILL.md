@@ -1,6 +1,6 @@
 ---
 name: design-thinking-facilitation
-description: Facilitation with Design Thinking. running.
+description: "Facilitation with Design Thinking. running."
 category: product
 tags: [design-thinking, facilitation, product, product-framework]
 models: [gpt-4, claude-3]

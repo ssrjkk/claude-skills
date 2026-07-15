@@ -1,6 +1,6 @@
 ---
 name: consul-automation
-description: Automation for Consul: automation and scripting
+description: "Automation for Consul: automation and scripting"
 category: devops
 tags: [consul, automation, devops]
 models: [sonnet, opus]

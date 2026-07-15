@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-optimization
-description: Optimization with RPG Maker. performance.
+description: "Optimization with RPG Maker. performance."
 category: gamedev
 tags: [rpgmaker, optimization, gamedev, game-engine]
 models: [gpt-4, claude-3]

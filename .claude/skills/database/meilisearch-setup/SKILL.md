@@ -1,6 +1,6 @@
 ---
 name: meilisearch-setup
-description: Setup with Meilisearch. installation.
+description: "Setup with Meilisearch. installation."
 category: database
 tags: [meilisearch, setup, database, search-engine]
 models: [gpt-4, claude-3]

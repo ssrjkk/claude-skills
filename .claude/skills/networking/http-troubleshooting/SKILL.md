@@ -1,6 +1,6 @@
 ---
 name: http-troubleshooting
-description: Troubleshooting with HTTP. diagnostics.
+description: "Troubleshooting with HTTP. diagnostics."
 category: networking
 tags: [http, troubleshooting, networking, networking]
 models: [gpt-4, claude-3]

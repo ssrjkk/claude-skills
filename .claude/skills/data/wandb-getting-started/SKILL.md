@@ -1,6 +1,6 @@
 ---
 name: wandb-getting-started
-description: Getting Started for Wandb: initial setup and first steps
+description: "Getting Started for Wandb: initial setup and first steps"
 category: data
 tags: [wandb, getting-started, data]
 models: [sonnet, opus]

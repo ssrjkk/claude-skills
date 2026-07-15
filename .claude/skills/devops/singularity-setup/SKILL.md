@@ -1,6 +1,6 @@
 ---
 name: singularity-setup
-description: Setup with Singularity. installation.
+description: "Setup with Singularity. installation."
 category: devops
 tags: [singularity, setup, devops, container]
 models: [gpt-4, claude-3]

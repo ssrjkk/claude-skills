@@ -1,6 +1,6 @@
 ---
 name: clickhouse-retention
-description: Retention with ClickHouse. data retention.
+description: "Retention with ClickHouse. data retention."
 category: database
 tags: [clickhouse, retention, database, time-series]
 models: [gpt-4, claude-3]

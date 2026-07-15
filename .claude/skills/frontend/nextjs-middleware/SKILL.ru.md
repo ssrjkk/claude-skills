@@ -1,6 +1,6 @@
 ---
 name: nextjs-middleware
-description: Middleware with Next.js. request middleware.
+description: "Middleware with Next.js. request middleware."
 category: frontend
 tags: [nextjs-middleware, frontend, russian]
 models: [sonnet, opus]

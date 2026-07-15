@@ -1,6 +1,6 @@
 ---
 name: vertx-monitoring
-description: Monitoring with Vert.x. metrics.
+description: "Monitoring with Vert.x. metrics."
 category: backend
 tags: [vertx, monitoring, backend, backend]
 models: [gpt-4, claude-3]

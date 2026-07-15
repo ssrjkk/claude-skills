@@ -1,6 +1,6 @@
 ---
 name: gcp-compute
-description: Compute with GCP. VM/compute.
+description: "Compute with GCP. VM/compute."
 category: devops
 tags: [gcp-compute, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: d3js-configuration
-description: Configuration for D3Js: configuration and setup
+description: "Configuration for D3Js: configuration and setup"
 category: frontend
 tags: [d3js, configuration, frontend]
 models: [sonnet, opus]

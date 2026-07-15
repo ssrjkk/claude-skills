@@ -1,6 +1,6 @@
 ---
 name: lit-animations
-description: Animations with Lit. UI animations.
+description: "Animations with Lit. UI animations."
 category: frontend
 tags: [lit, animations, frontend, frontend]
 models: [gpt-4, claude-3]

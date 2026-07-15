@@ -1,6 +1,6 @@
 ---
 name: rhel-users
-description: Users with RHEL. user management.
+description: "Users with RHEL. user management."
 category: os-admin
 tags: [rhel-users, os-admin, russian]
 models: [sonnet, opus]

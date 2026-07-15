@@ -1,6 +1,6 @@
 ---
 name: construct-testing
-description: Testing for Construct: testing and validation
+description: "Testing for Construct: testing and validation"
 category: gamedev
 tags: [construct-testing, gamedev, russian]
 models: [sonnet, opus]

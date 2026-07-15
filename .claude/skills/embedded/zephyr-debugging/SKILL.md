@@ -1,6 +1,6 @@
 ---
 name: zephyr-debugging
-description: Debugging with Zephyr. debug.
+description: "Debugging with Zephyr. debug."
 category: embedded
 tags: [zephyr, debugging, embedded, rtos]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: onnx-fundamentals
-description: Fundamentals for Onnx: core concepts
+description: "Fundamentals for Onnx: core concepts"
 category: ai
 tags: [onnx, fundamentals, ai]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ngrx-persistence
-description: Persistence with NgRx. state persistence.
+description: "Persistence with NgRx. state persistence."
 category: frontend
 tags: [ngrx-persistence, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cml-integration
-description: Integration for Cml: integration with other tools
+description: "Integration for Cml: integration with other tools"
 category: data
 tags: [cml-integration, data, russian]
 models: [sonnet, opus]

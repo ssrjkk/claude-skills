@@ -1,6 +1,6 @@
 ---
 name: pytest-basics
-description: Basics for Pytest: fundamentals and core concepts
+description: "Basics for Pytest: fundamentals and core concepts"
 category: qa
 tags: [pytest, basics, qa]
 models: [sonnet, opus]

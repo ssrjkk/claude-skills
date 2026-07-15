@@ -1,6 +1,6 @@
 ---
 name: elixir-error-handling
-description: Error Handling with Elixir. error management.
+description: "Error Handling with Elixir. error management."
 category: backend
 tags: [elixir-error-handling, backend, russian]
 models: [sonnet, opus]

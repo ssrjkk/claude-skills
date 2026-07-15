@@ -1,6 +1,6 @@
 ---
 name: paddlepaddle-optimization
-description: Optimization with Paddlepaddle. model optimization.
+description: "Optimization with Paddlepaddle. model optimization."
 category: ai
 tags: [paddlepaddle, optimization, ai, deep-learning]
 models: [gpt-4, claude-3]

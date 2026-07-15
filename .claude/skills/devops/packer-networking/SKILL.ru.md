@@ -1,6 +1,6 @@
 ---
 name: packer-networking
-description: Networking with Packer. network infra.
+description: "Networking with Packer. network infra."
 category: devops
 tags: [packer-networking, devops, russian]
 models: [sonnet, opus]

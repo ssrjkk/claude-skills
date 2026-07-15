@@ -1,6 +1,6 @@
 ---
 name: unocss-usage
-description: Usage for Unocss: usage guide
+description: "Usage for Unocss: usage guide"
 category: frontend
 tags: [unocss-usage, frontend, russian]
 models: [sonnet, opus]

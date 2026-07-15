@@ -1,6 +1,6 @@
 ---
 name: react-native-state
-description: State with React Native. state management.
+description: "State with React Native. state management."
 category: mobile
 tags: [react-native, state, mobile, mobile]
 models: [gpt-4, claude-3]

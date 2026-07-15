@@ -1,6 +1,6 @@
 ---
 name: kind-rbac
-description: RBAC with Kind. access control.
+description: "RBAC with Kind. access control."
 category: devops
 tags: [kind-rbac, devops, russian]
 models: [sonnet, opus]

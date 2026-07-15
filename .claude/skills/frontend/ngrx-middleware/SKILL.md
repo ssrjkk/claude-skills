@@ -1,6 +1,6 @@
 ---
 name: ngrx-middleware
-description: Middleware with NgRx. side effects.
+description: "Middleware with NgRx. side effects."
 category: frontend
 tags: [ngrx, middleware, frontend, state-management]
 models: [gpt-4, claude-3]

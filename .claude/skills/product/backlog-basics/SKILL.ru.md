@@ -1,6 +1,6 @@
 ---
 name: backlog-basics
-description: Basics with Backlog Management. fundamentals.
+description: "Basics with Backlog Management. fundamentals."
 category: product
 tags: [backlog-basics, product, russian]
 models: [sonnet, opus]

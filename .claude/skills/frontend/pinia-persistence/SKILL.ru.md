@@ -1,6 +1,6 @@
 ---
 name: pinia-persistence
-description: Persistence with Pinia. state persistence.
+description: "Persistence with Pinia. state persistence."
 category: frontend
 tags: [pinia-persistence, frontend, russian]
 models: [sonnet, opus]

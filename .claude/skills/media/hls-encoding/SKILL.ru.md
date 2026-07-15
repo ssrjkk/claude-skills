@@ -1,6 +1,6 @@
 ---
 name: hls-encoding
-description: Encoding with HLS. encoding.
+description: "Encoding with HLS. encoding."
 category: media
 tags: [hls-encoding, media, russian]
 models: [sonnet, opus]

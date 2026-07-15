@@ -1,6 +1,6 @@
 ---
 name: construct-monitoring
-description: Monitoring for Construct: monitoring and observability
+description: "Monitoring for Construct: monitoring and observability"
 category: gamedev
 tags: [construct-monitoring, gamedev, russian]
 models: [sonnet, opus]

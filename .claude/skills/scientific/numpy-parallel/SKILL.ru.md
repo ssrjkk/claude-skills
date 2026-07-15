@@ -1,6 +1,6 @@
 ---
 name: numpy-parallel
-description: Parallel with NumPy. parallel computing.
+description: "Parallel with NumPy. parallel computing."
 category: scientific
 tags: [numpy-parallel, scientific, russian]
 models: [sonnet, opus]

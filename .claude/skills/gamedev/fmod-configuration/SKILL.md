@@ -1,6 +1,6 @@
 ---
 name: fmod-configuration
-description: Configuration for Fmod: configuration and setup
+description: "Configuration for Fmod: configuration and setup"
 category: gamedev
 tags: [fmod, configuration, gamedev]
 models: [sonnet, opus]

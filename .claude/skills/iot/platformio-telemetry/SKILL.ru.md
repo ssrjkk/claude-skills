@@ -1,6 +1,6 @@
 ---
 name: platformio-telemetry
-description: Telemetry with PlatformIO. data collection.
+description: "Telemetry with PlatformIO. data collection."
 category: iot
 tags: [platformio-telemetry, iot, russian]
 models: [sonnet, opus]

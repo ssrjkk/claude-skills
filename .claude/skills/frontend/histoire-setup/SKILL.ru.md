@@ -1,6 +1,6 @@
 ---
 name: histoire-setup
-description: Setup for Histoire: setup guide
+description: "Setup for Histoire: setup guide"
 category: frontend
 tags: [histoire-setup, frontend, russian]
 models: [sonnet, opus]

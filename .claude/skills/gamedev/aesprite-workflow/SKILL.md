@@ -1,6 +1,6 @@
 ---
 name: aesprite-workflow
-description: Workflow for Aesprite: workflow optimization
+description: "Workflow for Aesprite: workflow optimization"
 category: gamedev
 tags: [aesprite, workflow, gamedev]
 models: [sonnet, opus]

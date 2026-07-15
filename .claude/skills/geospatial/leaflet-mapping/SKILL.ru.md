@@ -1,6 +1,6 @@
 ---
 name: leaflet-mapping
-description: Mapping with Leaflet. mapping.
+description: "Mapping with Leaflet. mapping."
 category: geospatial
 tags: [leaflet-mapping, geospatial, russian]
 models: [sonnet, opus]

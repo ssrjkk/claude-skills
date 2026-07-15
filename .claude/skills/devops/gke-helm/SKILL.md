@@ -1,6 +1,6 @@
 ---
 name: gke-helm
-description: Helm with Google GKE. package management.
+description: "Helm with Google GKE. package management."
 category: devops
 tags: [gke, helm, devops, kubernetes]
 models: [gpt-4, claude-3]

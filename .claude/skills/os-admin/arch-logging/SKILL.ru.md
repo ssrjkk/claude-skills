@@ -1,6 +1,6 @@
 ---
 name: arch-logging
-description: Logging with Arch Linux. logging.
+description: "Logging with Arch Linux. logging."
 category: os-admin
 tags: [arch-logging, os-admin, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: solid-styling
-description: Styling with Solid. component styling.
+description: "Styling with Solid. component styling."
 category: frontend
 tags: [solid-styling, frontend, russian]
 models: [sonnet, opus]

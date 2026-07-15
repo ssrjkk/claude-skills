@@ -1,6 +1,6 @@
 ---
 name: csharp-dependency-injection
-description: DI with Csharp. DI containers.
+description: "DI with Csharp. DI containers."
 category: backend
 tags: [csharp, dependency-injection, backend, backend]
 models: [gpt-4, claude-3]

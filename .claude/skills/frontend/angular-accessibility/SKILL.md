@@ -1,6 +1,6 @@
 ---
 name: angular-accessibility
-description: Accessibility with Angular. a11y.
+description: "Accessibility with Angular. a11y."
 category: frontend
 tags: [angular, accessibility, frontend, frontend]
 models: [gpt-4, claude-3]

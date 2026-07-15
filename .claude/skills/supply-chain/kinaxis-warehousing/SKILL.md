@@ -1,6 +1,6 @@
 ---
 name: kinaxis-warehousing
-description: Warehousing with Kinaxis. WMS.
+description: "Warehousing with Kinaxis. WMS."
 category: supply-chain
 tags: [kinaxis, warehousing, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

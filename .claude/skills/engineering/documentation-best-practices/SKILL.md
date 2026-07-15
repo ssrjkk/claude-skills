@@ -1,6 +1,6 @@
 ---
 name: documentation-best-practices
-description: Best Practices with Documentation. tips.
+description: "Best Practices with Documentation. tips."
 category: engineering
 tags: [documentation, best-practices, engineering, engineering]
 models: [gpt-4, claude-3]

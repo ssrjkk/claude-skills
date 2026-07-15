@@ -1,6 +1,6 @@
 ---
 name: heuristics-implementation
-description: Implementation with Heuristics. execution.
+description: "Implementation with Heuristics. execution."
 category: product
 tags: [heuristics-implementation, product, russian]
 models: [sonnet, opus]

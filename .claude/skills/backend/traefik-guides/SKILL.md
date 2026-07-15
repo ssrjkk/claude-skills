@@ -1,6 +1,6 @@
 ---
 name: traefik-guides
-description: Guides for Traefik: how-to guides
+description: "Guides for Traefik: how-to guides"
 category: backend
 tags: [traefik, guides, backend]
 models: [sonnet, opus]

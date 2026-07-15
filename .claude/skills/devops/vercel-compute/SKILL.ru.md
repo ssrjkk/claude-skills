@@ -1,6 +1,6 @@
 ---
 name: vercel-compute
-description: Compute with Vercel. VM/compute.
+description: "Compute with Vercel. VM/compute."
 category: devops
 tags: [vercel-compute, devops, russian]
 models: [sonnet, opus]

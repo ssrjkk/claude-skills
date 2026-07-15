@@ -1,6 +1,6 @@
 ---
 name: pytest-parameterization
-description: Parameterization with pytest. parametrized tests.
+description: "Parameterization with pytest. parametrized tests."
 category: qa
 tags: [pytest, parameterization, qa, testing]
 models: [gpt-4, claude-3]

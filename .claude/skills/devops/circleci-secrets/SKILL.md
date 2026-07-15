@@ -1,6 +1,6 @@
 ---
 name: circleci-secrets
-description: Secrets with CircleCI. secret management.
+description: "Secrets with CircleCI. secret management."
 category: devops
 tags: [circleci, secrets, devops, ci-cd]
 models: [gpt-4, claude-3]

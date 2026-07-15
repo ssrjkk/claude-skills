@@ -1,6 +1,6 @@
 ---
 name: esp8266-gpio
-description: GPIO with ESP8266. digital I/O.
+description: "GPIO with ESP8266. digital I/O."
 category: iot
 tags: [esp8266-gpio, iot, russian]
 models: [sonnet, opus]

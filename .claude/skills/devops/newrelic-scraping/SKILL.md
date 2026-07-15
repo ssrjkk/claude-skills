@@ -1,6 +1,6 @@
 ---
 name: newrelic-scraping
-description: Scraping with New Relic. target discovery.
+description: "Scraping with New Relic. target discovery."
 category: devops
 tags: [newrelic, scraping, devops, monitoring]
 models: [gpt-4, claude-3]

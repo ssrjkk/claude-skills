@@ -1,6 +1,6 @@
 ---
 name: nginx-guides
-description: Guides for Nginx: how-to guides
+description: "Guides for Nginx: how-to guides"
 category: backend
 tags: [nginx-guides, backend, russian]
 models: [sonnet, opus]

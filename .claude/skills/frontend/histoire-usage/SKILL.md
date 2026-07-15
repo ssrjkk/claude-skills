@@ -1,6 +1,6 @@
 ---
 name: histoire-usage
-description: Usage for Histoire: usage guide
+description: "Usage for Histoire: usage guide"
 category: frontend
 tags: [histoire, usage, frontend]
 models: [sonnet, opus]

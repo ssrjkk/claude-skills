@@ -1,6 +1,6 @@
 ---
 name: websocket-getting-started
-description: Getting Started for Websocket: initial setup and first steps
+description: "Getting Started for Websocket: initial setup and first steps"
 category: backend
 tags: [websocket, getting-started, backend]
 models: [sonnet, opus]

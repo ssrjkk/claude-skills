@@ -1,6 +1,6 @@
 ---
 name: nim-orm
-description: ORM with Nim. database access.
+description: "ORM with Nim. database access."
 category: backend
 tags: [nim, orm, backend, backend]
 models: [gpt-4, claude-3]

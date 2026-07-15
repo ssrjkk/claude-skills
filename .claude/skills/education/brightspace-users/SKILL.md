@@ -1,6 +1,6 @@
 ---
 name: brightspace-users
-description: Users with Brightspace. user management.
+description: "Users with Brightspace. user management."
 category: education
 tags: [brightspace, users, education, education-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: sakai-setup
-description: Setup with Sakai. setup.
+description: "Setup with Sakai. setup."
 category: education
 tags: [sakai-setup, education, russian]
 models: [sonnet, opus]

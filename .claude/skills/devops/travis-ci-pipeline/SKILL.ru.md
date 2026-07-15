@@ -1,6 +1,6 @@
 ---
 name: travis-ci-pipeline
-description: Pipeline with Travis CI. pipeline creation.
+description: "Pipeline with Travis CI. pipeline creation."
 category: devops
 tags: [travis-ci-pipeline, devops, russian]
 models: [sonnet, opus]

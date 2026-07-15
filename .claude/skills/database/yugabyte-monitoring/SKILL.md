@@ -1,6 +1,6 @@
 ---
 name: yugabyte-monitoring
-description: Monitoring with YugabyteDB. monitoring.
+description: "Monitoring with YugabyteDB. monitoring."
 category: database
 tags: [yugabyte, monitoring, database, sql]
 models: [gpt-4, claude-3]

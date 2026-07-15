@@ -1,6 +1,6 @@
 ---
 name: reportportal-best-practices
-description: Best Practices for Reportportal: best practices and patterns
+description: "Best Practices for Reportportal: best practices and patterns"
 category: qa
 tags: [reportportal, best-practices, qa]
 models: [sonnet, opus]

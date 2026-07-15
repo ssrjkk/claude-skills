@@ -1,6 +1,6 @@
 ---
 name: phaser-setup
-description: Setup with Phaser. engine setup.
+description: "Setup with Phaser. engine setup."
 category: gamedev
 tags: [phaser-setup, gamedev, russian]
 models: [sonnet, opus]

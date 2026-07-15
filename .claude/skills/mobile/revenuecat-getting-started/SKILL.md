@@ -1,6 +1,6 @@
 ---
 name: revenuecat-getting-started
-description: Getting Started for Revenuecat: initial setup and first steps
+description: "Getting Started for Revenuecat: initial setup and first steps"
 category: mobile
 tags: [revenuecat, getting-started, mobile]
 models: [sonnet, opus]

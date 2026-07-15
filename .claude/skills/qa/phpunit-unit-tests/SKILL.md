@@ -1,6 +1,6 @@
 ---
 name: phpunit-unit-tests
-description: Unit Tests with PHPUnit. unit testing.
+description: "Unit Tests with PHPUnit. unit testing."
 category: qa
 tags: [phpunit, unit-tests, qa, testing]
 models: [gpt-4, claude-3]

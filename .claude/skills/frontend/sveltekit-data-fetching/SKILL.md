@@ -1,6 +1,6 @@
 ---
 name: sveltekit-data-fetching
-description: Data Fetching with SvelteKit. data loading.
+description: "Data Fetching with SvelteKit. data loading."
 category: frontend
 tags: [sveltekit, data-fetching, frontend, meta-framework]
 models: [gpt-4, claude-3]

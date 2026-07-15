@@ -1,6 +1,6 @@
 ---
 name: unity-optimization
-description: Optimization with Unity. performance.
+description: "Optimization with Unity. performance."
 category: gamedev
 tags: [unity-optimization, gamedev, russian]
 models: [sonnet, opus]

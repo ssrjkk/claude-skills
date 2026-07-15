@@ -1,6 +1,6 @@
 ---
 name: sakai-assessments
-description: Assessments with Sakai. quizzes.
+description: "Assessments with Sakai. quizzes."
 category: education
 tags: [sakai-assessments, education, russian]
 models: [sonnet, opus]

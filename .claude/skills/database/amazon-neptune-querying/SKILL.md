@@ -1,6 +1,6 @@
 ---
 name: amazon-neptune-querying
-description: Querying with Amazon Neptune. Cypher/Gremlin.
+description: "Querying with Amazon Neptune. Cypher/Gremlin."
 category: database
 tags: [amazon-neptune, querying, database, graph-database]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: clojure-async
-description: Async with Clojure. async operations.
+description: "Async with Clojure. async operations."
 category: backend
 tags: [clojure, async, backend, backend]
 models: [gpt-4, claude-3]

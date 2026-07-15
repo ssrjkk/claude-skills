@@ -1,6 +1,6 @@
 ---
 name: xtensa-timers
-description: Timers with Xtensa. timers.
+description: "Timers with Xtensa. timers."
 category: embedded
 tags: [xtensa, timers, embedded, embedded-arch]
 models: [gpt-4, claude-3]

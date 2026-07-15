@@ -1,6 +1,6 @@
 ---
 name: sqlmap-remediation
-description: Remediation with SQLmap. fixing vulns.
+description: "Remediation with SQLmap. fixing vulns."
 category: security
 tags: [sqlmap, remediation, security, security-tool]
 models: [gpt-4, claude-3]

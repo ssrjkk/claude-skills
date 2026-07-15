@@ -1,6 +1,6 @@
 ---
 name: sip-implementation
-description: Implementation with SIP. implementation.
+description: "Implementation with SIP. implementation."
 category: communications
 tags: [sip-implementation, communications, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mongodb-monitoring
-description: Monitoring with MongoDB. monitoring.
+description: "Monitoring with MongoDB. monitoring."
 category: database
 tags: [mongodb-monitoring, database, russian]
 models: [sonnet, opus]

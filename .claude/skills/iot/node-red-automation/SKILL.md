@@ -1,6 +1,6 @@
 ---
 name: node-red-automation
-description: Automation with Node-RED. automation.
+description: "Automation with Node-RED. automation."
 category: iot
 tags: [node-red, automation, iot, iot-platform]
 models: [gpt-4, claude-3]

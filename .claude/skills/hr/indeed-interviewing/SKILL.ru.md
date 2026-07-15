@@ -1,6 +1,6 @@
 ---
 name: indeed-interviewing
-description: Interviewing with Indeed. interviews.
+description: "Interviewing with Indeed. interviews."
 category: hr
 tags: [indeed-interviewing, hr, russian]
 models: [sonnet, opus]

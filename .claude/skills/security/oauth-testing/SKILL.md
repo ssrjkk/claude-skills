@@ -1,6 +1,6 @@
 ---
 name: oauth-testing
-description: Testing for Oauth: testing and validation
+description: "Testing for Oauth: testing and validation"
 category: security
 tags: [oauth, testing, security]
 models: [sonnet, opus]

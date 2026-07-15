@@ -1,6 +1,6 @@
 ---
 name: accessibility
-description: Checks and improves web application accessibility per WCAG standards. Use for creating inclusive design.
+description: "Checks and improves web application accessibility per WCAG standards. Use for creating inclusive design."
 category: design
 tags: [accessibility, wcag, a11y, inclusive-design]
 models: [sonnet, opus]

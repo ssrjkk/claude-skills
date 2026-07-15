@@ -1,6 +1,6 @@
 ---
 name: mysql-deployment
-description: Deployment for Mysql: deployment and release
+description: "Deployment for Mysql: deployment and release"
 category: database
 tags: [mysql-deployment, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: solar-pv-optimization
-description: Optimization with Solar PV. optimization.
+description: "Optimization with Solar PV. optimization."
 category: energy
 tags: [solar-pv, optimization, energy, renewable-energy]
 models: [gpt-4, claude-3]

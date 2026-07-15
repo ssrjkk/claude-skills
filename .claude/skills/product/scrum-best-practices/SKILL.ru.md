@@ -1,6 +1,6 @@
 ---
 name: scrum-best-practices
-description: Best Practices with Scrum. practices.
+description: "Best Practices with Scrum. practices."
 category: product
 tags: [scrum-best-practices, product, russian]
 models: [sonnet, opus]

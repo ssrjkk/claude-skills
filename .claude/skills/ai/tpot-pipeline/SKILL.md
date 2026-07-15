@@ -1,6 +1,6 @@
 ---
 name: tpot-pipeline
-description: Pipeline with Tpot. ML pipelines.
+description: "Pipeline with Tpot. ML pipelines."
 category: ai
 tags: [tpot, pipeline, ai, ml]
 models: [gpt-4, claude-3]

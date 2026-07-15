@@ -1,6 +1,6 @@
 ---
 name: fastapi-websocket
-description: WebSocket with FastAPI. real-time.
+description: "WebSocket with FastAPI. real-time."
 category: backend
 tags: [fastapi, websocket, backend, backend]
 models: [gpt-4, claude-3]

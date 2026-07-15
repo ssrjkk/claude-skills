@@ -1,6 +1,6 @@
 ---
 name: eslint-bundling
-description: Bundling with ESLint. code bundling.
+description: "Bundling with ESLint. code bundling."
 category: frontend
 tags: [eslint, bundling, frontend, build-tool]
 models: [gpt-4, claude-3]

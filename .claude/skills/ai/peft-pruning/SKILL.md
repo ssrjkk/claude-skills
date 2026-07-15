@@ -1,6 +1,6 @@
 ---
 name: peft-pruning
-description: Pruning with Peft. model pruning.
+description: "Pruning with Peft. model pruning."
 category: ai
 tags: [peft, pruning, ai, deep-learning]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: podman-networking
-description: Networking with Podman. container networks.
+description: "Networking with Podman. container networks."
 category: devops
 tags: [podman-networking, devops, russian]
 models: [sonnet, opus]

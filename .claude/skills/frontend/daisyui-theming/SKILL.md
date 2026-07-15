@@ -1,6 +1,6 @@
 ---
 name: daisyui-theming
-description: Theming with daisyUI. custom themes.
+description: "Theming with daisyUI. custom themes."
 category: frontend
 tags: [daisyui, theming, frontend, css]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: less-basics
-description: Basics with LeSS. fundamentals.
+description: "Basics with LeSS. fundamentals."
 category: product
 tags: [less, basics, product, methodology]
 models: [gpt-4, claude-3]

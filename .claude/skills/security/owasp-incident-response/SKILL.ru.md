@@ -1,6 +1,6 @@
 ---
 name: owasp-incident-response
-description: Incident Response with OWASP. incident response.
+description: "Incident Response with OWASP. incident response."
 category: security
 tags: [owasp-incident-response, security, russian]
 models: [sonnet, opus]

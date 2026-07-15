@@ -1,6 +1,6 @@
 ---
 name: taipy-deployment
-description: Deployment with Taipy. deploy.
+description: "Deployment with Taipy. deploy."
 category: data
 tags: [taipy-deployment, data, russian]
 models: [sonnet, opus]

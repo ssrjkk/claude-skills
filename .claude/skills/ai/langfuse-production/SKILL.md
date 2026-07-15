@@ -1,6 +1,6 @@
 ---
 name: langfuse-production
-description: Production for Langfuse: production deployment
+description: "Production for Langfuse: production deployment"
 category: ai
 tags: [langfuse, production, ai]
 models: [sonnet, opus]

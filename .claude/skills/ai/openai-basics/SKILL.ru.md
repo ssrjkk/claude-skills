@@ -1,6 +1,6 @@
 ---
 name: openai-basics
-description: Basics for Openai: fundamentals and core concepts
+description: "Basics for Openai: fundamentals and core concepts"
 category: ai
 tags: [openai-basics, ai, russian]
 models: [sonnet, opus]

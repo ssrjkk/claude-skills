@@ -1,6 +1,6 @@
 ---
 name: phaser-testing
-description: Testing for Phaser: testing and validation
+description: "Testing for Phaser: testing and validation"
 category: gamedev
 tags: [phaser-testing, gamedev, russian]
 models: [sonnet, opus]

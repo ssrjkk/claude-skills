@@ -1,6 +1,6 @@
 ---
 name: clerk-quickstart
-description: Quickstart for Clerk: quick start guide
+description: "Quickstart for Clerk: quick start guide"
 category: mobile
 tags: [clerk, quickstart, mobile]
 models: [sonnet, opus]

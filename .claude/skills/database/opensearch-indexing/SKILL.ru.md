@@ -1,6 +1,6 @@
 ---
 name: opensearch-indexing
-description: Indexing with OpenSearch. document indexing.
+description: "Indexing with OpenSearch. document indexing."
 category: database
 tags: [opensearch-indexing, database, russian]
 models: [sonnet, opus]

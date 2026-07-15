@@ -1,6 +1,6 @@
 ---
 name: owasp-audit
-description: Audit with OWASP. security audit.
+description: "Audit with OWASP. security audit."
 category: security
 tags: [owasp, audit, security, security]
 models: [gpt-4, claude-3]

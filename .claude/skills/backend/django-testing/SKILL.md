@@ -1,6 +1,6 @@
 ---
 name: django-testing
-description: Testing with Django. integration tests.
+description: "Testing with Django. integration tests."
 category: backend
 tags: [django, testing, backend, backend]
 models: [gpt-4, claude-3]

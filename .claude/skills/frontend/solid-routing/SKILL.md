@@ -1,6 +1,6 @@
 ---
 name: solid-routing
-description: Routing with Solid. client routing.
+description: "Routing with Solid. client routing."
 category: frontend
 tags: [solid, routing, frontend, frontend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: xstate-testing
-description: Testing with XState. state testing.
+description: "Testing with XState. state testing."
 category: frontend
 tags: [xstate-testing, frontend, russian]
 models: [sonnet, opus]

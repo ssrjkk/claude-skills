@@ -1,6 +1,6 @@
 ---
 name: xapi-deployment
-description: Deployment with xAPI. deployment.
+description: "Deployment with xAPI. deployment."
 category: education
 tags: [xapi-deployment, education, russian]
 models: [sonnet, opus]

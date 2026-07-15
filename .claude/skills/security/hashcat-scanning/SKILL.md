@@ -1,6 +1,6 @@
 ---
 name: hashcat-scanning
-description: Scanning with Hashcat. security scanning.
+description: "Scanning with Hashcat. security scanning."
 category: security
 tags: [hashcat, scanning, security, security-tool]
 models: [gpt-4, claude-3]

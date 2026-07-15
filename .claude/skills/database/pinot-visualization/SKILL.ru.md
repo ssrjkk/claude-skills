@@ -1,6 +1,6 @@
 ---
 name: pinot-visualization
-description: Visualization with Apache Pinot. charting.
+description: "Visualization with Apache Pinot. charting."
 category: database
 tags: [pinot-visualization, database, russian]
 models: [sonnet, opus]

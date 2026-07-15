@@ -1,6 +1,6 @@
 ---
 name: ev-charging-monitoring
-description: Monitoring with EV Charging. monitoring.
+description: "Monitoring with EV Charging. monitoring."
 category: energy
 tags: [ev-charging, monitoring, energy, renewable-energy]
 models: [gpt-4, claude-3]

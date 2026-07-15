@@ -1,6 +1,6 @@
 ---
 name: remix-ssr
-description: SSR with Remix. server rendering.
+description: "SSR with Remix. server rendering."
 category: frontend
 tags: [remix-ssr, frontend, russian]
 models: [sonnet, opus]

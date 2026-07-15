@@ -1,6 +1,6 @@
 ---
 name: apache-beam-batch
-description: Batch with Apache Beam. batch processing.
+description: "Batch with Apache Beam. batch processing."
 category: data
 tags: [apache-beam-batch, data, russian]
 models: [sonnet, opus]

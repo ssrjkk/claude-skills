@@ -1,6 +1,6 @@
 ---
 name: tableau-basics
-description: Basics for Tableau: fundamentals and core concepts
+description: "Basics for Tableau: fundamentals and core concepts"
 category: data
 tags: [tableau, basics, data]
 models: [sonnet, opus]

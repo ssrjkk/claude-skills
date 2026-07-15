@@ -1,6 +1,6 @@
 ---
 name: databricks-monitoring
-description: Monitoring for Databricks: monitoring and observability
+description: "Monitoring for Databricks: monitoring and observability"
 category: data
 tags: [databricks, monitoring, data]
 models: [sonnet, opus]

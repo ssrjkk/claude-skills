@@ -1,6 +1,6 @@
 ---
 name: heroku-compute
-description: Compute with Heroku. VM/compute.
+description: "Compute with Heroku. VM/compute."
 category: devops
 tags: [heroku, compute, devops, cloud]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: saml-incident-response
-description: Incident Response with SAML. incident response.
+description: "Incident Response with SAML. incident response."
 category: security
 tags: [saml, incident-response, security, security]
 models: [gpt-4, claude-3]

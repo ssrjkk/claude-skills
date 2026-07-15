@@ -1,6 +1,6 @@
 ---
 name: cdk8s-guides
-description: Guides for Cdk8S: how-to guides
+description: "Guides for Cdk8S: how-to guides"
 category: devops
 tags: [cdk8s-guides, devops, russian]
 models: [sonnet, opus]

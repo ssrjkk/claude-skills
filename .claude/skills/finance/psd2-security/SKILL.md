@@ -1,6 +1,6 @@
 ---
 name: psd2-security
-description: Security with PSD2. security.
+description: "Security with PSD2. security."
 category: finance
 tags: [psd2, security, finance, fintech]
 models: [gpt-4, claude-3]

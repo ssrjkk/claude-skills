@@ -1,6 +1,6 @@
 ---
 name: deno-intro
-description: Intro for Deno: introduction
+description: "Intro for Deno: introduction"
 category: backend
 tags: [deno, intro, backend]
 models: [sonnet, opus]

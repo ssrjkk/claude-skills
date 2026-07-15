@@ -1,6 +1,6 @@
 ---
 name: windows-server-monitoring
-description: Monitoring with Windows Server. monitoring.
+description: "Monitoring with Windows Server. monitoring."
 category: os-admin
 tags: [windows-server-monitoring, os-admin, russian]
 models: [sonnet, opus]

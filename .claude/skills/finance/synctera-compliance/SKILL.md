@@ -1,6 +1,6 @@
 ---
 name: synctera-compliance
-description: Compliance with Synctera. compliance.
+description: "Compliance with Synctera. compliance."
 category: finance
 tags: [synctera, compliance, finance, fintech]
 models: [gpt-4, claude-3]

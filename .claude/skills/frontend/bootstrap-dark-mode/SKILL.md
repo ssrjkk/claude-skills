@@ -1,6 +1,6 @@
 ---
 name: bootstrap-dark-mode
-description: Dark Mode with Bootstrap. dark theme.
+description: "Dark Mode with Bootstrap. dark theme."
 category: frontend
 tags: [bootstrap, dark-mode, frontend, css]
 models: [gpt-4, claude-3]

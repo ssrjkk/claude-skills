@@ -1,6 +1,6 @@
 ---
 name: debian-users
-description: Users with Debian. user management.
+description: "Users with Debian. user management."
 category: os-admin
 tags: [debian-users, os-admin, russian]
 models: [sonnet, opus]

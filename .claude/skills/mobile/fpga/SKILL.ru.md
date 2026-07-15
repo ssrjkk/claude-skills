@@ -1,6 +1,6 @@
 ---
 name: fpga
-description: Development with Fpga: tools and best practices
+description: "Development with Fpga: tools and best practices"
 category: mobile
 tags: [fpga, mobile, russian]
 models: [sonnet, opus]

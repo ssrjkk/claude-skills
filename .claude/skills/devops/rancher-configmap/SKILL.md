@@ -1,6 +1,6 @@
 ---
 name: rancher-configmap
-description: ConfigMap with Rancher. config management.
+description: "ConfigMap with Rancher. config management."
 category: devops
 tags: [rancher, configmap, devops, kubernetes]
 models: [gpt-4, claude-3]

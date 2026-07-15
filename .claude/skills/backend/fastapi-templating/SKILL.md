@@ -1,6 +1,6 @@
 ---
 name: fastapi-templating
-description: Templating with FastAPI. server templates.
+description: "Templating with FastAPI. server templates."
 category: backend
 tags: [fastapi, templating, backend, backend]
 models: [gpt-4, claude-3]

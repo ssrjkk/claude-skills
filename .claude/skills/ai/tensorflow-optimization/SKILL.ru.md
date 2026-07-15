@@ -1,6 +1,6 @@
 ---
 name: tensorflow-optimization
-description: Optimization with Tensorflow. model optimization.
+description: "Optimization with Tensorflow. model optimization."
 category: ai
 tags: [tensorflow-optimization, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: pytorch-security
-description: Security for Pytorch: security best practices
+description: "Security for Pytorch: security best practices"
 category: ai
 tags: [pytorch, security, ai]
 models: [sonnet, opus]

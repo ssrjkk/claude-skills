@@ -1,6 +1,6 @@
 ---
 name: adapter-implementation
-description: Implementation with Adapter. practical implementation.
+description: "Implementation with Adapter. practical implementation."
 category: backend
 tags: [adapter, implementation, backend, architecture]
 models: [gpt-4, claude-3]

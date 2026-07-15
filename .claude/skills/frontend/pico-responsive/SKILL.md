@@ -1,6 +1,6 @@
 ---
 name: pico-responsive
-description: Responsive with Pico CSS. mobile-first.
+description: "Responsive with Pico CSS. mobile-first."
 category: frontend
 tags: [pico, responsive, frontend, css]
 models: [gpt-4, claude-3]

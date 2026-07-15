@@ -1,6 +1,6 @@
 ---
 name: paddle-checkout
-description: Checkout with Paddle. checkout flow.
+description: "Checkout with Paddle. checkout flow."
 category: payments
 tags: [paddle, checkout, payments, payments]
 models: [gpt-4, claude-3]

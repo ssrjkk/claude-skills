@@ -1,6 +1,6 @@
 ---
 name: paddle-webhooks
-description: Webhooks with Paddle. webhooks.
+description: "Webhooks with Paddle. webhooks."
 category: payments
 tags: [paddle-webhooks, payments, russian]
 models: [sonnet, opus]

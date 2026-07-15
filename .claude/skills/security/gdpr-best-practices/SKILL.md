@@ -1,6 +1,6 @@
 ---
 name: gdpr-best-practices
-description: Best Practices with GDPR. best practices.
+description: "Best Practices with GDPR. best practices."
 category: security
 tags: [gdpr, best-practices, security, security]
 models: [gpt-4, claude-3]

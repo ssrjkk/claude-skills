@@ -1,6 +1,6 @@
 ---
 name: gin-basics
-description: Basics for Gin: fundamentals and core concepts
+description: "Basics for Gin: fundamentals and core concepts"
 category: backend
 tags: [gin, basics, backend]
 models: [sonnet, opus]

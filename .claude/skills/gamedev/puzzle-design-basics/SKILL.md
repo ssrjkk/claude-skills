@@ -1,6 +1,6 @@
 ---
 name: puzzle-design-basics
-description: Basics with Puzzle Design. fundamentals.
+description: "Basics with Puzzle Design. fundamentals."
 category: gamedev
 tags: [puzzle-design, basics, gamedev, game-design]
 models: [gpt-4, claude-3]

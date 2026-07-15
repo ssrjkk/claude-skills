@@ -1,6 +1,6 @@
 ---
 name: starknet-smart-contracts
-description: Smart Contracts with StarkNet. contracts.
+description: "Smart Contracts with StarkNet. contracts."
 category: blockchain
 tags: [starknet, smart-contracts, blockchain, blockchain]
 models: [gpt-4, claude-3]

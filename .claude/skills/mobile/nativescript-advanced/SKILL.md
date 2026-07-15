@@ -1,6 +1,6 @@
 ---
 name: nativescript-advanced
-description: Advanced for Nativescript: advanced patterns and techniques
+description: "Advanced for Nativescript: advanced patterns and techniques"
 category: mobile
 tags: [nativescript, advanced, mobile]
 models: [sonnet, opus]

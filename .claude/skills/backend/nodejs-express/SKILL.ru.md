@@ -1,6 +1,6 @@
 ---
 name: nodejs-express
-description: Generates boilerplate for Express.js applications with TypeScript and middleware. Use for building Node.js APIs or web services.
+description: "Generates boilerplate for Express.js applications with TypeScript and middleware. Use for building Node.js APIs or web services."
 category: backend
 tags: [nodejs-express, backend, russian]
 models: [sonnet, opus]

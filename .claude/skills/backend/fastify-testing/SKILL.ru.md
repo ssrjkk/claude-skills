@@ -1,6 +1,6 @@
 ---
 name: fastify-testing
-description: Testing with Fastify. Jest.
+description: "Testing with Fastify. Jest."
 category: backend
 tags: [fastify-testing, backend, russian]
 models: [sonnet, opus]

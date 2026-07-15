@@ -1,6 +1,6 @@
 ---
 name: masonite-routing
-description: Routing with Masonite. HTTP routing.
+description: "Routing with Masonite. HTTP routing."
 category: backend
 tags: [masonite, routing, backend, backend]
 models: [gpt-4, claude-3]

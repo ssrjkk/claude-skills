@@ -1,6 +1,6 @@
 ---
 name: framer-plugins
-description: Plugins with Framer. plugins.
+description: "Plugins with Framer. plugins."
 category: design
 tags: [framer-plugins, design, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: moodle-setup
-description: Setup with Moodle. setup.
+description: "Setup with Moodle. setup."
 category: education
 tags: [moodle-setup, education, russian]
 models: [sonnet, opus]

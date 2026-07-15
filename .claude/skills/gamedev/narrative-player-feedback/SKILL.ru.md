@@ -1,6 +1,6 @@
 ---
 name: narrative-player-feedback
-description: Feedback with Narrative Design. player feedback.
+description: "Feedback with Narrative Design. player feedback."
 category: gamedev
 tags: [narrative-player-feedback, gamedev, russian]
 models: [sonnet, opus]

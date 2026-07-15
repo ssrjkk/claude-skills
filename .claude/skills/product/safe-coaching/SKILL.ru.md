@@ -1,6 +1,6 @@
 ---
 name: safe-coaching
-description: Coaching with SAFe. team coaching.
+description: "Coaching with SAFe. team coaching."
 category: product
 tags: [safe-coaching, product, russian]
 models: [sonnet, opus]

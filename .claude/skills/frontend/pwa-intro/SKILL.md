@@ -1,6 +1,6 @@
 ---
 name: pwa-intro
-description: Intro for Pwa: introduction
+description: "Intro for Pwa: introduction"
 category: frontend
 tags: [pwa, intro, frontend]
 models: [sonnet, opus]

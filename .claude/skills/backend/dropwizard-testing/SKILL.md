@@ -1,6 +1,6 @@
 ---
 name: dropwizard-testing
-description: Testing with Dropwizard. unit tests.
+description: "Testing with Dropwizard. unit tests."
 category: backend
 tags: [dropwizard, testing, backend, backend]
 models: [gpt-4, claude-3]

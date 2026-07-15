@@ -1,6 +1,6 @@
 ---
 name: agile-metrics
-description: Metrics with Agile. measurement.
+description: "Metrics with Agile. measurement."
 category: product
 tags: [agile-metrics, product, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vitest-api
-description: API for Vitest: API development and integration
+description: "API for Vitest: API development and integration"
 category: qa
 tags: [vitest, api, qa]
 models: [sonnet, opus]

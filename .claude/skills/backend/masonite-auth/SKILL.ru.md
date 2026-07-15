@@ -1,6 +1,6 @@
 ---
 name: masonite-auth
-description: Authentication with Masonite. user auth.
+description: "Authentication with Masonite. user auth."
 category: backend
 tags: [masonite-auth, backend, russian]
 models: [sonnet, opus]

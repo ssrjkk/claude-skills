@@ -1,6 +1,6 @@
 ---
 name: actix-web-database
-description: Database with Actix Web. DB access.
+description: "Database with Actix Web. DB access."
 category: backend
 tags: [actix-web-database, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: orientdb-indexing
-description: Indexing with OrientDB. indexes.
+description: "Indexing with OrientDB. indexes."
 category: database
 tags: [orientdb-indexing, database, russian]
 models: [sonnet, opus]

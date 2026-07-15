@@ -1,6 +1,6 @@
 ---
 name: transcoding-setup
-description: Setup with Transcoding. setup.
+description: "Setup with Transcoding. setup."
 category: media
 tags: [transcoding-setup, media, russian]
 models: [sonnet, opus]

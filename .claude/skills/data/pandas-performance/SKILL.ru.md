@@ -1,6 +1,6 @@
 ---
 name: pandas-performance
-description: Performance with Pandas. optimization.
+description: "Performance with Pandas. optimization."
 category: data
 tags: [pandas-performance, data, russian]
 models: [sonnet, opus]

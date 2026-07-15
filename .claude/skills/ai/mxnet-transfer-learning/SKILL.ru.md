@@ -1,6 +1,6 @@
 ---
 name: mxnet-transfer-learning
-description: Transfer Learning with Mxnet. transfer learning.
+description: "Transfer Learning with Mxnet. transfer learning."
 category: ai
 tags: [mxnet-transfer-learning, ai, russian]
 models: [sonnet, opus]

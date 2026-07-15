@@ -1,6 +1,6 @@
 ---
 name: scylla-monitoring
-description: Monitoring with ScyllaDB. monitoring.
+description: "Monitoring with ScyllaDB. monitoring."
 category: database
 tags: [scylla-monitoring, database, russian]
 models: [sonnet, opus]

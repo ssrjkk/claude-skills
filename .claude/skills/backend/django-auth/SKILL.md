@@ -1,6 +1,6 @@
 ---
 name: django-auth
-description: Authentication with Django. user auth.
+description: "Authentication with Django. user auth."
 category: backend
 tags: [django, auth, backend, backend]
 models: [gpt-4, claude-3]

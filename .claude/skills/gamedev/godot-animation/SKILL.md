@@ -1,6 +1,6 @@
 ---
 name: godot-animation
-description: Animation with Godot. animation.
+description: "Animation with Godot. animation."
 category: gamedev
 tags: [godot, animation, gamedev, game-engine]
 models: [gpt-4, claude-3]

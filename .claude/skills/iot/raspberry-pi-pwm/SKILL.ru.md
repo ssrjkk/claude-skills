@@ -1,6 +1,6 @@
 ---
 name: raspberry-pi-pwm
-description: PWM with Raspberry Pi. PWM signals.
+description: "PWM with Raspberry Pi. PWM signals."
 category: iot
 tags: [raspberry-pi-pwm, iot, russian]
 models: [sonnet, opus]

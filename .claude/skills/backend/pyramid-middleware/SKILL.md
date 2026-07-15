@@ -1,6 +1,6 @@
 ---
 name: pyramid-middleware
-description: Middleware with Pyramid. middleware pipelines.
+description: "Middleware with Pyramid. middleware pipelines."
 category: backend
 tags: [pyramid, middleware, backend, backend]
 models: [gpt-4, claude-3]

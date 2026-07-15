@@ -1,6 +1,6 @@
 ---
 name: swift-ios-networking
-description: Networking with Swift iOS. API calls.
+description: "Networking with Swift iOS. API calls."
 category: mobile
 tags: [swift-ios, networking, mobile, mobile]
 models: [gpt-4, claude-3]

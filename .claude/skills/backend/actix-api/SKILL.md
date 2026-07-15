@@ -1,6 +1,6 @@
 ---
 name: actix-api
-description: API for Actix: API development and integration
+description: "API for Actix: API development and integration"
 category: backend
 tags: [actix, api, backend]
 models: [sonnet, opus]

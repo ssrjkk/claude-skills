@@ -1,6 +1,6 @@
 ---
 name: cypress-selectors
-description: Selectors with Cypress. element selectors.
+description: "Selectors with Cypress. element selectors."
 category: qa
 tags: [cypress-selectors, qa, russian]
 models: [sonnet, opus]

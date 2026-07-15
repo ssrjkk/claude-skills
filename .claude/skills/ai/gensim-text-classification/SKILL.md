@@ -1,6 +1,6 @@
 ---
 name: gensim-text-classification
-description: Text Classification with Gensim. document categorization.
+description: "Text Classification with Gensim. document categorization."
 category: ai
 tags: [gensim, text-classification, ai, nlp]
 models: [gpt-4, claude-3]

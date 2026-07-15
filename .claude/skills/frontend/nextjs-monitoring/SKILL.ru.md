@@ -1,6 +1,6 @@
 ---
 name: nextjs-monitoring
-description: Monitoring for Nextjs: monitoring and observability
+description: "Monitoring for Nextjs: monitoring and observability"
 category: frontend
 tags: [nextjs-monitoring, frontend, russian]
 models: [sonnet, opus]

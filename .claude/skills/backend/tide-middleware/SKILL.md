@@ -1,6 +1,6 @@
 ---
 name: tide-middleware
-description: Middleware with Tide. request pipeline.
+description: "Middleware with Tide. request pipeline."
 category: backend
 tags: [tide, middleware, backend, backend]
 models: [gpt-4, claude-3]

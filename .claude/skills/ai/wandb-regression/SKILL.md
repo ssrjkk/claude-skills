@@ -1,6 +1,6 @@
 ---
 name: wandb-regression
-description: Regression with Wandb. predicting values.
+description: "Regression with Wandb. predicting values."
 category: ai
 tags: [wandb, regression, ai, ml]
 models: [gpt-4, claude-3]

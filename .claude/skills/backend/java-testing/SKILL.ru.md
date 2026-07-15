@@ -1,6 +1,6 @@
 ---
 name: java-testing
-description: Testing with Java. writing tests.
+description: "Testing with Java. writing tests."
 category: backend
 tags: [java-testing, backend, russian]
 models: [sonnet, opus]

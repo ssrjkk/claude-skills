@@ -1,6 +1,6 @@
 ---
 name: neo4j-monitoring
-description: Monitoring with Neo4j. monitoring.
+description: "Monitoring with Neo4j. monitoring."
 category: database
 tags: [neo4j, monitoring, database, nosql]
 models: [gpt-4, claude-3]

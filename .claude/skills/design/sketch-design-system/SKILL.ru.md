@@ -1,6 +1,6 @@
 ---
 name: sketch-design-system
-description: Design Systems with Sketch. tokens.
+description: "Design Systems with Sketch. tokens."
 category: design
 tags: [sketch-design-system, design, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: paddle-fraud
-description: Fraud with Paddle. fraud detection.
+description: "Fraud with Paddle. fraud detection."
 category: payments
 tags: [paddle-fraud, payments, russian]
 models: [sonnet, opus]

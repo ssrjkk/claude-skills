@@ -1,6 +1,6 @@
 ---
 name: detectron2-segmentation
-description: Segmentation with Detectron2. image segmentation.
+description: "Segmentation with Detectron2. image segmentation."
 category: ai
 tags: [detectron2-segmentation, ai, russian]
 models: [sonnet, opus]

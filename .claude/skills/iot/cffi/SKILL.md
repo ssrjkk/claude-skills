@@ -1,6 +1,6 @@
 ---
 name: cffi
-description: Development with Cffi: tools and best practices
+description: "Development with Cffi: tools and best practices"
 category: iot
 tags: [cffi, iot, development]
 models: [sonnet, opus]

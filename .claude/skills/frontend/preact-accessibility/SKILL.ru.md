@@ -1,6 +1,6 @@
 ---
 name: preact-accessibility
-description: Accessibility with Preact. a11y.
+description: "Accessibility with Preact. a11y."
 category: frontend
 tags: [preact-accessibility, frontend, russian]
 models: [sonnet, opus]

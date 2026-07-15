@@ -1,6 +1,6 @@
 ---
 name: webxr-spatial
-description: Spatial with WebXR. room mapping.
+description: "Spatial with WebXR. room mapping."
 category: ar-vr
 tags: [webxr-spatial, ar-vr, russian]
 models: [sonnet, opus]

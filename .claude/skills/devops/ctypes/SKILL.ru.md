@@ -1,6 +1,6 @@
 ---
 name: ctypes
-description: Development with Ctypes: tools and best practices
+description: "Development with Ctypes: tools and best practices"
 category: devops
 tags: [ctypes, devops, russian]
 models: [sonnet, opus]

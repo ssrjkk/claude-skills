@@ -1,6 +1,6 @@
 ---
 name: matplotlib-integration
-description: Integration with Matplotlib. data sources.
+description: "Integration with Matplotlib. data sources."
 category: data
 tags: [matplotlib, integration, data, data-science]
 models: [gpt-4, claude-3]

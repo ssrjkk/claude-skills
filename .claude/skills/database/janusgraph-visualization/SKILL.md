@@ -1,6 +1,6 @@
 ---
 name: janusgraph-visualization
-description: Visualization with JanusGraph. graph viz.
+description: "Visualization with JanusGraph. graph viz."
 category: database
 tags: [janusgraph, visualization, database, graph-database]
 models: [gpt-4, claude-3]

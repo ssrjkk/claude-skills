@@ -1,6 +1,6 @@
 ---
 name: dspy-prompting
-description: Prompt Engineering with Dspy. prompt templates.
+description: "Prompt Engineering with Dspy. prompt templates."
 category: ai
 tags: [dspy-prompting, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: hugo-routing
-description: Routing with Hugo. file-based routing.
+description: "Routing with Hugo. file-based routing."
 category: frontend
 tags: [hugo-routing, frontend, russian]
 models: [sonnet, opus]

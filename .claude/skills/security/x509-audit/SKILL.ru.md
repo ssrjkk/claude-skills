@@ -1,6 +1,6 @@
 ---
 name: x509-audit
-description: Audit with X.509. security audit.
+description: "Audit with X.509. security audit."
 category: security
 tags: [x509-audit, security, russian]
 models: [sonnet, opus]

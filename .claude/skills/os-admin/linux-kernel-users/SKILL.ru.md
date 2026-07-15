@@ -1,6 +1,6 @@
 ---
 name: linux-kernel-users
-description: Users with Linux Kernel. user management.
+description: "Users with Linux Kernel. user management."
 category: os-admin
 tags: [linux-kernel-users, os-admin, russian]
 models: [sonnet, opus]

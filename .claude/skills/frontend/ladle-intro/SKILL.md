@@ -1,6 +1,6 @@
 ---
 name: ladle-intro
-description: Intro for Ladle: introduction
+description: "Intro for Ladle: introduction"
 category: frontend
 tags: [ladle, intro, frontend]
 models: [sonnet, opus]

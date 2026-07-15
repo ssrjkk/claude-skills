@@ -1,6 +1,6 @@
 ---
 name: paddle-billing-analytics
-description: Analytics with Paddle Billing. revenue analytics.
+description: "Analytics with Paddle Billing. revenue analytics."
 category: payments
 tags: [paddle-billing-analytics, payments, russian]
 models: [sonnet, opus]

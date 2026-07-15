@@ -1,6 +1,6 @@
 ---
 name: javafx-styling
-description: Styling with JavaFX. styling.
+description: "Styling with JavaFX. styling."
 category: desktop
 tags: [javafx, styling, desktop, desktop]
 models: [gpt-4, claude-3]

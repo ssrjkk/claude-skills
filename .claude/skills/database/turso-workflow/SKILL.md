@@ -1,6 +1,6 @@
 ---
 name: turso-workflow
-description: Workflow for Turso: workflow optimization
+description: "Workflow for Turso: workflow optimization"
 category: database
 tags: [turso, workflow, database]
 models: [sonnet, opus]

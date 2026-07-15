@@ -1,6 +1,6 @@
 ---
 name: k0s-helm
-description: Helm with K0s. package management.
+description: "Helm with K0s. package management."
 category: devops
 tags: [k0s-helm, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: loki-setup
-description: Setup with Loki. installation.
+description: "Setup with Loki. installation."
 category: devops
 tags: [loki, setup, devops, monitoring]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: event-storming-best-practices
-description: Best Practices with Event Storming. practices.
+description: "Best Practices with Event Storming. practices."
 category: engineering
 tags: [event-storming, best-practices, engineering, modeling]
 models: [gpt-4, claude-3]

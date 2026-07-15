@@ -1,6 +1,6 @@
 ---
 name: stripe-billing-invoicing
-description: Invoicing with Stripe Billing. invoices.
+description: "Invoicing with Stripe Billing. invoices."
 category: payments
 tags: [stripe-billing-invoicing, payments, russian]
 models: [sonnet, opus]

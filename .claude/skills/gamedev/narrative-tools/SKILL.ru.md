@@ -1,6 +1,6 @@
 ---
 name: narrative-tools
-description: Tools with Narrative Design. tools.
+description: "Tools with Narrative Design. tools."
 category: gamedev
 tags: [narrative-tools, gamedev, russian]
 models: [sonnet, opus]

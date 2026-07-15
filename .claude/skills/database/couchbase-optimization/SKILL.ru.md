@@ -1,6 +1,6 @@
 ---
 name: couchbase-optimization
-description: Optimization with Couchbase. performance tuning.
+description: "Optimization with Couchbase. performance tuning."
 category: database
 tags: [couchbase-optimization, database, russian]
 models: [sonnet, opus]

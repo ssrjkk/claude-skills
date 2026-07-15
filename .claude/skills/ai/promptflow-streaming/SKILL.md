@@ -1,6 +1,6 @@
 ---
 name: promptflow-streaming
-description: Streaming with Promptflow. token streaming.
+description: "Streaming with Promptflow. token streaming."
 category: ai
 tags: [promptflow, streaming, ai, llm]
 models: [gpt-4, claude-3]

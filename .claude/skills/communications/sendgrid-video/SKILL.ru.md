@@ -1,6 +1,6 @@
 ---
 name: sendgrid-video
-description: Video with SendGrid. video calls.
+description: "Video with SendGrid. video calls."
 category: communications
 tags: [sendgrid-video, communications, russian]
 models: [sonnet, opus]

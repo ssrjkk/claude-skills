@@ -1,6 +1,6 @@
 ---
 name: demand-response-implementation
-description: Implementation with Demand Response. deployment.
+description: "Implementation with Demand Response. deployment."
 category: energy
 tags: [demand-response-implementation, energy, russian]
 models: [sonnet, opus]

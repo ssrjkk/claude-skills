@@ -1,6 +1,6 @@
 ---
 name: spacy-tokenization
-description: Tokenization with Spacy. text tokenization.
+description: "Tokenization with Spacy. text tokenization."
 category: ai
 tags: [spacy, tokenization, ai, nlp]
 models: [gpt-4, claude-3]

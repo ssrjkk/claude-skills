@@ -1,6 +1,6 @@
 ---
 name: bash-packages
-description: Packages with Bash Scripting. package management.
+description: "Packages with Bash Scripting. package management."
 category: os-admin
 tags: [bash, packages, os-admin, linux]
 models: [gpt-4, claude-3]

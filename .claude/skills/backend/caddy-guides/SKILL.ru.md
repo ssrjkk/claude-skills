@@ -1,6 +1,6 @@
 ---
 name: caddy-guides
-description: Guides for Caddy: how-to guides
+description: "Guides for Caddy: how-to guides"
 category: backend
 tags: [caddy-guides, backend, russian]
 models: [sonnet, opus]

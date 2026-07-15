@@ -1,6 +1,6 @@
 ---
 name: elysia-intro
-description: Intro for Elysia: introduction
+description: "Intro for Elysia: introduction"
 category: backend
 tags: [elysia-intro, backend, russian]
 models: [sonnet, opus]

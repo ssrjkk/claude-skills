@@ -1,6 +1,6 @@
 ---
 name: snowflake-api
-description: API for Snowflake: API development and integration
+description: "API for Snowflake: API development and integration"
 category: data
 tags: [snowflake, api, data]
 models: [sonnet, opus]

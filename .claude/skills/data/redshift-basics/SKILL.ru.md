@@ -1,6 +1,6 @@
 ---
 name: redshift-basics
-description: Basics for Redshift: fundamentals and core concepts
+description: "Basics for Redshift: fundamentals and core concepts"
 category: data
 tags: [redshift-basics, data, russian]
 models: [sonnet, opus]

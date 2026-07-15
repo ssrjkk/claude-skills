@@ -1,6 +1,6 @@
 ---
 name: skill-0042
-description: Specialized skill #0042 for cloud development
+description: "Specialized skill #0042 for cloud development"
 category: cloud
 tags: [skill-0042, cloud, russian]
 models: [sonnet, opus]

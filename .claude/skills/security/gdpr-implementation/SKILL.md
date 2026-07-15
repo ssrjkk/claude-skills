@@ -1,6 +1,6 @@
 ---
 name: gdpr-implementation
-description: Implementation with GDPR. implementation.
+description: "Implementation with GDPR. implementation."
 category: security
 tags: [gdpr, implementation, security, security]
 models: [gpt-4, claude-3]

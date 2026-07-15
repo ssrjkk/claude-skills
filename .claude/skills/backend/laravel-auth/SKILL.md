@@ -1,6 +1,6 @@
 ---
 name: laravel-auth
-description: Auth with Laravel. authentication.
+description: "Auth with Laravel. authentication."
 category: backend
 tags: [laravel, auth, backend, backend]
 models: [gpt-4, claude-3]

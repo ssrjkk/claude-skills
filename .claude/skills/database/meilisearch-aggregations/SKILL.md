@@ -1,6 +1,6 @@
 ---
 name: meilisearch-aggregations
-description: Aggregations with Meilisearch. bucket aggs.
+description: "Aggregations with Meilisearch. bucket aggs."
 category: database
 tags: [meilisearch, aggregations, database, search-engine]
 models: [gpt-4, claude-3]

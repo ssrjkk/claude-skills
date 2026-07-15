@@ -1,6 +1,6 @@
 ---
 name: jekyll-ssr
-description: SSR with Jekyll. server rendering.
+description: "SSR with Jekyll. server rendering."
 category: frontend
 tags: [jekyll-ssr, frontend, russian]
 models: [sonnet, opus]

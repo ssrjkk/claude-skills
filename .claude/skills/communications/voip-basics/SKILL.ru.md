@@ -1,6 +1,6 @@
 ---
 name: voip-basics
-description: Basics with VoIP. fundamentals.
+description: "Basics with VoIP. fundamentals."
 category: communications
 tags: [voip-basics, communications, russian]
 models: [sonnet, opus]

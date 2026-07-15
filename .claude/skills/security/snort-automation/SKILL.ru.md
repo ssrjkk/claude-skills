@@ -1,6 +1,6 @@
 ---
 name: snort-automation
-description: Automation for Snort: automation and scripting
+description: "Automation for Snort: automation and scripting"
 category: security
 tags: [snort-automation, security, russian]
 models: [sonnet, opus]

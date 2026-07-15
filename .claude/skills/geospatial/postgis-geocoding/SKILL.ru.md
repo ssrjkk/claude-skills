@@ -1,6 +1,6 @@
 ---
 name: postgis-geocoding
-description: Geocoding with PostGIS. geocoding.
+description: "Geocoding with PostGIS. geocoding."
 category: geospatial
 tags: [postgis-geocoding, geospatial, russian]
 models: [sonnet, opus]

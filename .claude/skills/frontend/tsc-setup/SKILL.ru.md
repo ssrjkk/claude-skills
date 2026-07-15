@@ -1,6 +1,6 @@
 ---
 name: tsc-setup
-description: Setup with TypeScript. initial setup.
+description: "Setup with TypeScript. initial setup."
 category: frontend
 tags: [tsc-setup, frontend, russian]
 models: [sonnet, opus]

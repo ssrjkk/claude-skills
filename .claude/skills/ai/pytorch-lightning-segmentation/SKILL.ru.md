@@ -1,6 +1,6 @@
 ---
 name: pytorch-lightning-segmentation
-description: Segmentation with Pytorch Lightning. image segmentation.
+description: "Segmentation with Pytorch Lightning. image segmentation."
 category: ai
 tags: [pytorch-lightning-segmentation, ai, russian]
 models: [sonnet, opus]

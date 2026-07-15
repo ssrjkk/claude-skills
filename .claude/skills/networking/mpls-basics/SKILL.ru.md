@@ -1,6 +1,6 @@
 ---
 name: mpls-basics
-description: Basics with MPLS. fundamentals.
+description: "Basics with MPLS. fundamentals."
 category: networking
 tags: [mpls-basics, networking, russian]
 models: [sonnet, opus]

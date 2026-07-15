@@ -1,6 +1,6 @@
 ---
 name: bamboohr-compliance
-description: Compliance with BambooHR. compliance.
+description: "Compliance with BambooHR. compliance."
 category: hr
 tags: [bamboohr, compliance, hr, hr-tech]
 models: [gpt-4, claude-3]

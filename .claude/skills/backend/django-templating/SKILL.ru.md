@@ -1,6 +1,6 @@
 ---
 name: django-templating
-description: Templating with Django. server templates.
+description: "Templating with Django. server templates."
 category: backend
 tags: [django-templating, backend, russian]
 models: [sonnet, opus]

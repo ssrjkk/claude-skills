@@ -1,6 +1,6 @@
 ---
 name: kornia-optical-flow
-description: Optical Flow with Kornia. motion detection.
+description: "Optical Flow with Kornia. motion detection."
 category: ai
 tags: [kornia, optical-flow, ai, computer-vision]
 models: [gpt-4, claude-3]

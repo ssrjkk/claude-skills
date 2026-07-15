@@ -1,6 +1,6 @@
 ---
 name: unity-ads-best-practices
-description: Best Practices for Unity-Ads: best practices and patterns
+description: "Best Practices for Unity-Ads: best practices and patterns"
 category: gamedev
 tags: [unity-ads-best-practices, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: skill-0090
-description: Specialized skill #0090 for gamedev development
+description: "Specialized skill #0090 for gamedev development"
 category: gamedev
 tags: [skill-0090, gamedev, russian]
 models: [sonnet, opus]

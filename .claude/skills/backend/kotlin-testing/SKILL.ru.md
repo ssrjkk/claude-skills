@@ -1,6 +1,6 @@
 ---
 name: kotlin-testing
-description: Testing with Kotlin. writing tests.
+description: "Testing with Kotlin. writing tests."
 category: backend
 tags: [kotlin-testing, backend, russian]
 models: [sonnet, opus]

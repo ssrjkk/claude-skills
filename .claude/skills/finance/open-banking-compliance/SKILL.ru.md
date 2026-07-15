@@ -1,6 +1,6 @@
 ---
 name: open-banking-compliance
-description: Compliance with Open Banking. compliance.
+description: "Compliance with Open Banking. compliance."
 category: finance
 tags: [open-banking-compliance, finance, russian]
 models: [sonnet, opus]

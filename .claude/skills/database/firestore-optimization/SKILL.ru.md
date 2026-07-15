@@ -1,6 +1,6 @@
 ---
 name: firestore-optimization
-description: Optimization with Firestore. performance.
+description: "Optimization with Firestore. performance."
 category: database
 tags: [firestore-optimization, database, russian]
 models: [sonnet, opus]

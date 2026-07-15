@@ -1,6 +1,6 @@
 ---
 name: blackboard-setup
-description: Setup with Blackboard. setup.
+description: "Setup with Blackboard. setup."
 category: education
 tags: [blackboard, setup, education, education-platform]
 models: [gpt-4, claude-3]

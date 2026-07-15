@@ -1,6 +1,6 @@
 ---
 name: woodpecker-security
-description: Security with Woodpecker. security scanning.
+description: "Security with Woodpecker. security scanning."
 category: devops
 tags: [woodpecker-security, devops, russian]
 models: [sonnet, opus]

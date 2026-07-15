@@ -1,6 +1,6 @@
 ---
 name: reportportal-configuration
-description: Configuration for Reportportal: configuration and setup
+description: "Configuration for Reportportal: configuration and setup"
 category: qa
 tags: [reportportal-configuration, qa, russian]
 models: [sonnet, opus]

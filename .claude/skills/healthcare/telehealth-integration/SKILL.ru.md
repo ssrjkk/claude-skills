@@ -1,6 +1,6 @@
 ---
 name: telehealth-integration
-description: Integration with Telehealth. system integration.
+description: "Integration with Telehealth. system integration."
 category: healthcare
 tags: [telehealth-integration, healthcare, russian]
 models: [sonnet, opus]

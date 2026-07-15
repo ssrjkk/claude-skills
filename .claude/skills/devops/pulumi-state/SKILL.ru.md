@@ -1,6 +1,6 @@
 ---
 name: pulumi-state
-description: State with Pulumi. state management.
+description: "State with Pulumi. state management."
 category: devops
 tags: [pulumi-state, devops, russian]
 models: [sonnet, opus]

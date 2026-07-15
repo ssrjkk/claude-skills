@@ -1,6 +1,6 @@
 ---
 name: medusa-marketing
-description: Marketing with Medusa. marketing.
+description: "Marketing with Medusa. marketing."
 category: ecommerce
 tags: [medusa-marketing, ecommerce, russian]
 models: [sonnet, opus]

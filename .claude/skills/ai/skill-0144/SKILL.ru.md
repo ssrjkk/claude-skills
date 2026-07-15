@@ -1,6 +1,6 @@
 ---
 name: skill-0144
-description: Specialized skill #0144 for ai development
+description: "Specialized skill #0144 for ai development"
 category: ai
 tags: [skill-0144, ai, russian]
 models: [sonnet, opus]

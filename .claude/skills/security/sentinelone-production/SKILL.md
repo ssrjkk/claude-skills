@@ -1,6 +1,6 @@
 ---
 name: sentinelone-production
-description: Production for Sentinelone: production deployment
+description: "Production for Sentinelone: production deployment"
 category: security
 tags: [sentinelone, production, security]
 models: [sonnet, opus]

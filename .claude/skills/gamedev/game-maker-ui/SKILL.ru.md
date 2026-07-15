@@ -1,6 +1,6 @@
 ---
 name: game-maker-ui
-description: UI with GameMaker. game UI.
+description: "UI with GameMaker. game UI."
 category: gamedev
 tags: [game-maker-ui, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vm
-description: Development with Vm: tools and best practices
+description: "Development with Vm: tools and best practices"
 category: mobile
 tags: [vm, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: fasttext-dependency-parsing
-description: Dependency Parsing with Fasttext. syntax analysis.
+description: "Dependency Parsing with Fasttext. syntax analysis."
 category: ai
 tags: [fasttext, dependency-parsing, ai, nlp]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: k0s-storage
-description: Storage with K0s. persistent storage.
+description: "Storage with K0s. persistent storage."
 category: devops
 tags: [k0s-storage, devops, russian]
 models: [sonnet, opus]

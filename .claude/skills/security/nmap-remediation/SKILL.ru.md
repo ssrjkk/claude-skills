@@ -1,6 +1,6 @@
 ---
 name: nmap-remediation
-description: Remediation with Nmap. fixing vulns.
+description: "Remediation with Nmap. fixing vulns."
 category: security
 tags: [nmap-remediation, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: game-maker-rendering
-description: Rendering with GameMaker. graphics.
+description: "Rendering with GameMaker. graphics."
 category: gamedev
 tags: [game-maker, rendering, gamedev, game-engine]
 models: [gpt-4, claude-3]

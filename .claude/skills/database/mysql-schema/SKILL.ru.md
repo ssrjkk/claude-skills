@@ -1,6 +1,6 @@
 ---
 name: mysql-schema
-description: Schema Design with MySQL. schema.
+description: "Schema Design with MySQL. schema."
 category: database
 tags: [mysql-schema, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ai-code-review
-description: Automated code review with AI agents
+description: "Automated code review with AI agents"
 category: ai
 tags: [ai-code-review, ai, russian]
 models: [sonnet, opus]

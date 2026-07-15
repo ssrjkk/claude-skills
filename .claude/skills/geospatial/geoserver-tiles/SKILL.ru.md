@@ -1,6 +1,6 @@
 ---
 name: geoserver-tiles
-description: Tiles with GeoServer. tile serving.
+description: "Tiles with GeoServer. tile serving."
 category: geospatial
 tags: [geoserver-tiles, geospatial, russian]
 models: [sonnet, opus]

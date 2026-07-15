@@ -1,6 +1,6 @@
 ---
 name: microk8s-monitoring
-description: Monitoring with MicroK8s. monitoring.
+description: "Monitoring with MicroK8s. monitoring."
 category: devops
 tags: [microk8s, monitoring, devops, kubernetes]
 models: [gpt-4, claude-3]

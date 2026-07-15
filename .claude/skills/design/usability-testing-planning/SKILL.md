@@ -1,6 +1,6 @@
 ---
 name: usability-testing-planning
-description: Planning with Usability Testing. study planning.
+description: "Planning with Usability Testing. study planning."
 category: design
 tags: [usability-testing, planning, design, ux-research]
 models: [gpt-4, claude-3]

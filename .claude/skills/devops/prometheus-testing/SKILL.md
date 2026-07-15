@@ -1,6 +1,6 @@
 ---
 name: prometheus-testing
-description: Testing for Prometheus: testing and validation
+description: "Testing for Prometheus: testing and validation"
 category: devops
 tags: [prometheus, testing, devops]
 models: [sonnet, opus]

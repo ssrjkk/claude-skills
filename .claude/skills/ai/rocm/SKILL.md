@@ -1,6 +1,6 @@
 ---
 name: rocm
-description: Development with Rocm: tools and best practices
+description: "Development with Rocm: tools and best practices"
 category: ai
 tags: [rocm, ai, development]
 models: [sonnet, opus]

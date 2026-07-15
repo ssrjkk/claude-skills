@@ -1,6 +1,6 @@
 ---
 name: construct-advanced
-description: Advanced for Construct: advanced patterns and techniques
+description: "Advanced for Construct: advanced patterns and techniques"
 category: gamedev
 tags: [construct-advanced, gamedev, russian]
 models: [sonnet, opus]

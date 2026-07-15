@@ -1,6 +1,6 @@
 ---
 name: vultr-database
-description: Database with Vultr. managed databases.
+description: "Database with Vultr. managed databases."
 category: devops
 tags: [vultr, database, devops, cloud]
 models: [gpt-4, claude-3]

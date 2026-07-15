@@ -1,6 +1,6 @@
 ---
 name: jupyter-analysis
-description: Analysis with Jupyter. data analysis.
+description: "Analysis with Jupyter. data analysis."
 category: data
 tags: [jupyter-analysis, data, russian]
 models: [sonnet, opus]

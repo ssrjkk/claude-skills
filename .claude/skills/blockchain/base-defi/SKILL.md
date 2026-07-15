@@ -1,6 +1,6 @@
 ---
 name: base-defi
-description: DeFi with Base. DeFi.
+description: "DeFi with Base. DeFi."
 category: blockchain
 tags: [base, defi, blockchain, blockchain]
 models: [gpt-4, claude-3]

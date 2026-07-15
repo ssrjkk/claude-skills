@@ -1,6 +1,6 @@
 ---
 name: mocha-monitoring
-description: Monitoring for Mocha: monitoring and observability
+description: "Monitoring for Mocha: monitoring and observability"
 category: qa
 tags: [mocha-monitoring, qa, russian]
 models: [sonnet, opus]

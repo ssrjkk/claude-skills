@@ -1,6 +1,6 @@
 ---
 name: podman-setup
-description: Setup with Podman. installation.
+description: "Setup with Podman. installation."
 category: devops
 tags: [podman-setup, devops, russian]
 models: [sonnet, opus]

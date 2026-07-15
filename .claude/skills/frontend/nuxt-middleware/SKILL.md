@@ -1,6 +1,6 @@
 ---
 name: nuxt-middleware
-description: Middleware with Nuxt. request middleware.
+description: "Middleware with Nuxt. request middleware."
 category: frontend
 tags: [nuxt, middleware, frontend, meta-framework]
 models: [gpt-4, claude-3]

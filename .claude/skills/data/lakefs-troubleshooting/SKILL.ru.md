@@ -1,6 +1,6 @@
 ---
 name: lakefs-troubleshooting
-description: Troubleshooting for Lakefs: troubleshooting common issues
+description: "Troubleshooting for Lakefs: troubleshooting common issues"
 category: data
 tags: [lakefs-troubleshooting, data, russian]
 models: [sonnet, opus]

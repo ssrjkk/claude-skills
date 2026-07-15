@@ -1,6 +1,6 @@
 ---
 name: retry-scaling
-description: Scaling with Retry. scaling considerations.
+description: "Scaling with Retry. scaling considerations."
 category: backend
 tags: [retry, scaling, backend, architecture]
 models: [gpt-4, claude-3]

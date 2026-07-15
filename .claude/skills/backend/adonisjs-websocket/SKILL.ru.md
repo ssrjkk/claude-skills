@@ -1,6 +1,6 @@
 ---
 name: adonisjs-websocket
-description: WebSocket with AdonisJS. Socket.io.
+description: "WebSocket with AdonisJS. Socket.io."
 category: backend
 tags: [adonisjs-websocket, backend, russian]
 models: [sonnet, opus]

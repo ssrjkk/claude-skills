@@ -1,6 +1,6 @@
 ---
 name: taipy-setup
-description: Setup with Taipy. installation.
+description: "Setup with Taipy. installation."
 category: data
 tags: [taipy, setup, data, data-apps]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: polygon-bridge
-description: Bridge with Polygon. cross-chain.
+description: "Bridge with Polygon. cross-chain."
 category: blockchain
 tags: [polygon, bridge, blockchain, blockchain]
 models: [gpt-4, claude-3]

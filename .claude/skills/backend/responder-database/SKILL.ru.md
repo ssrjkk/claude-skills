@@ -1,6 +1,6 @@
 ---
 name: responder-database
-description: Database with Responder. DB access.
+description: "Database with Responder. DB access."
 category: backend
 tags: [responder-database, backend, russian]
 models: [sonnet, opus]

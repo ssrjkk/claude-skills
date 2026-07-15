@@ -1,6 +1,6 @@
 ---
 name: nicegui-performance
-description: Performance with NiceGUI. performance.
+description: "Performance with NiceGUI. performance."
 category: data
 tags: [nicegui, performance, data, data-apps]
 models: [gpt-4, claude-3]

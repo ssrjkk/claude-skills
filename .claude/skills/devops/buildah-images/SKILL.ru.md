@@ -1,6 +1,6 @@
 ---
 name: buildah-images
-description: Images with Buildah. building images.
+description: "Images with Buildah. building images."
 category: devops
 tags: [buildah-images, devops, russian]
 models: [sonnet, opus]

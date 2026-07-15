@@ -1,6 +1,6 @@
 ---
 name: dhcp-security
-description: Security with DHCP. hardening.
+description: "Security with DHCP. hardening."
 category: networking
 tags: [dhcp, security, networking, networking]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: huggingface-monitoring
-description: Monitoring for Huggingface: monitoring and observability
+description: "Monitoring for Huggingface: monitoring and observability"
 category: ai
 tags: [huggingface, monitoring, ai]
 models: [sonnet, opus]

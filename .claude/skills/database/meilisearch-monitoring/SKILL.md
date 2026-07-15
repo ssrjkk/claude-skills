@@ -1,6 +1,6 @@
 ---
 name: meilisearch-monitoring
-description: Monitoring with Meilisearch. cluster monitoring.
+description: "Monitoring with Meilisearch. cluster monitoring."
 category: database
 tags: [meilisearch, monitoring, database, search-engine]
 models: [gpt-4, claude-3]

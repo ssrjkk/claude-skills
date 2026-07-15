@@ -1,6 +1,6 @@
 ---
 name: hadoop-setup
-description: Setup with Hadoop. installation.
+description: "Setup with Hadoop. installation."
 category: data
 tags: [hadoop-setup, data, russian]
 models: [sonnet, opus]

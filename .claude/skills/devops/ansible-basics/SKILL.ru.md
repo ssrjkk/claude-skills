@@ -1,6 +1,6 @@
 ---
 name: ansible-basics
-description: Basics for Ansible: fundamentals and core concepts
+description: "Basics for Ansible: fundamentals and core concepts"
 category: devops
 tags: [ansible-basics, devops, russian]
 models: [sonnet, opus]

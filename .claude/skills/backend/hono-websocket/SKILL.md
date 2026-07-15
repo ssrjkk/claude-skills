@@ -1,6 +1,6 @@
 ---
 name: hono-websocket
-description: WebSocket with Hono. Socket.io.
+description: "WebSocket with Hono. Socket.io."
 category: backend
 tags: [hono, websocket, backend, backend]
 models: [gpt-4, claude-3]

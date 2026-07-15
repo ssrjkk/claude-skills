@@ -1,6 +1,6 @@
 ---
 name: concourse-deployment
-description: Deployment with Concourse. auto-deploy.
+description: "Deployment with Concourse. auto-deploy."
 category: devops
 tags: [concourse, deployment, devops, ci-cd]
 models: [gpt-4, claude-3]

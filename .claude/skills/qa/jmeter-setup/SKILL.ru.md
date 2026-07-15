@@ -1,6 +1,6 @@
 ---
 name: jmeter-setup
-description: Setup with JMeter. installation.
+description: "Setup with JMeter. installation."
 category: qa
 tags: [jmeter-setup, qa, russian]
 models: [sonnet, opus]

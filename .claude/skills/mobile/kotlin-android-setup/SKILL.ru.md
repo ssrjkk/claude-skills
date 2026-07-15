@@ -1,6 +1,6 @@
 ---
 name: kotlin-android-setup
-description: Setup with Kotlin Android. setup.
+description: "Setup with Kotlin Android. setup."
 category: mobile
 tags: [kotlin-android-setup, mobile, russian]
 models: [sonnet, opus]

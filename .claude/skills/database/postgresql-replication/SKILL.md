@@ -1,6 +1,6 @@
 ---
 name: postgresql-replication
-description: Replication with PostgreSQL. replication.
+description: "Replication with PostgreSQL. replication."
 category: database
 tags: [postgresql, replication, database, sql]
 models: [gpt-4, claude-3]

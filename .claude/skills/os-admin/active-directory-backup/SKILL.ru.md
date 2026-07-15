@@ -1,6 +1,6 @@
 ---
 name: active-directory-backup
-description: Backup with Active Directory. backup.
+description: "Backup with Active Directory. backup."
 category: os-admin
 tags: [active-directory-backup, os-admin, russian]
 models: [sonnet, opus]

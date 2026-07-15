@@ -1,6 +1,6 @@
 ---
 name: oculus-spatial
-description: Spatial with Oculus SDK. room mapping.
+description: "Spatial with Oculus SDK. room mapping."
 category: ar-vr
 tags: [oculus, spatial, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

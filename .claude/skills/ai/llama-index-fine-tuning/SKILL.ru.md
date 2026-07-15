@@ -1,6 +1,6 @@
 ---
 name: llama-index-fine-tuning
-description: Fine-Tuning with Llama Index. model customization.
+description: "Fine-Tuning with Llama Index. model customization."
 category: ai
 tags: [llama-index-fine-tuning, ai, russian]
 models: [sonnet, opus]

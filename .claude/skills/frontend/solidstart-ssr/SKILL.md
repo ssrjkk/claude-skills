@@ -1,6 +1,6 @@
 ---
 name: solidstart-ssr
-description: SSR with SolidStart. server rendering.
+description: "SSR with SolidStart. server rendering."
 category: frontend
 tags: [solidstart, ssr, frontend, meta-framework]
 models: [gpt-4, claude-3]

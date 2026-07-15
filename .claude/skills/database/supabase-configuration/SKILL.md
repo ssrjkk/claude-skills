@@ -1,6 +1,6 @@
 ---
 name: supabase-configuration
-description: Configuration for Supabase: configuration and setup
+description: "Configuration for Supabase: configuration and setup"
 category: database
 tags: [supabase, configuration, database]
 models: [sonnet, opus]

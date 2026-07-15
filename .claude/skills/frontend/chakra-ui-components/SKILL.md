@@ -1,6 +1,6 @@
 ---
 name: chakra-ui-components
-description: Components with Chakra UI. UI components.
+description: "Components with Chakra UI. UI components."
 category: frontend
 tags: [chakra-ui, components, frontend, css]
 models: [gpt-4, claude-3]

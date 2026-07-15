@@ -1,6 +1,6 @@
 ---
 name: mqtt-setup
-description: Setup with MQTT. setup.
+description: "Setup with MQTT. setup."
 category: communications
 tags: [mqtt-setup, communications, russian]
 models: [sonnet, opus]

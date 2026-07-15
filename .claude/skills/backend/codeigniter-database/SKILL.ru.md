@@ -1,6 +1,6 @@
 ---
 name: codeigniter-database
-description: Database with CodeIgniter. Eloquent.
+description: "Database with CodeIgniter. Eloquent."
 category: backend
 tags: [codeigniter-database, backend, russian]
 models: [sonnet, opus]

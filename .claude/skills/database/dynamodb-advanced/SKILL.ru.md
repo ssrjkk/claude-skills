@@ -1,6 +1,6 @@
 ---
 name: dynamodb-advanced
-description: Advanced for Dynamodb: advanced patterns and techniques
+description: "Advanced for Dynamodb: advanced patterns and techniques"
 category: database
 tags: [dynamodb-advanced, database, russian]
 models: [sonnet, opus]

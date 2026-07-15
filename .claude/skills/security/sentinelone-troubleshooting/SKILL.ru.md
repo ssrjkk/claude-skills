@@ -1,6 +1,6 @@
 ---
 name: sentinelone-troubleshooting
-description: Troubleshooting for Sentinelone: troubleshooting common issues
+description: "Troubleshooting for Sentinelone: troubleshooting common issues"
 category: security
 tags: [sentinelone-troubleshooting, security, russian]
 models: [sonnet, opus]

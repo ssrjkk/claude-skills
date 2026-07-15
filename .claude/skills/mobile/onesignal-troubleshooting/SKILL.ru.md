@@ -1,6 +1,6 @@
 ---
 name: onesignal-troubleshooting
-description: Troubleshooting for Onesignal: troubleshooting common issues
+description: "Troubleshooting for Onesignal: troubleshooting common issues"
 category: mobile
 tags: [onesignal-troubleshooting, mobile, russian]
 models: [sonnet, opus]

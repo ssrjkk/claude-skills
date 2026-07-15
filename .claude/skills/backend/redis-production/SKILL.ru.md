@@ -1,6 +1,6 @@
 ---
 name: redis-production
-description: Production for Redis: production deployment
+description: "Production for Redis: production deployment"
 category: backend
 tags: [redis-production, backend, russian]
 models: [sonnet, opus]

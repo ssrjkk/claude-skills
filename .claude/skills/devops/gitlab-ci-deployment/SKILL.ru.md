@@ -1,6 +1,6 @@
 ---
 name: gitlab-ci-deployment
-description: Deployment with GitLab CI. auto-deploy.
+description: "Deployment with GitLab CI. auto-deploy."
 category: devops
 tags: [gitlab-ci-deployment, devops, russian]
 models: [sonnet, opus]

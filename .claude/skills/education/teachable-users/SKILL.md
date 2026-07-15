@@ -1,6 +1,6 @@
 ---
 name: teachable-users
-description: Users with Teachable. user management.
+description: "Users with Teachable. user management."
 category: education
 tags: [teachable, users, education, education-platform]
 models: [gpt-4, claude-3]

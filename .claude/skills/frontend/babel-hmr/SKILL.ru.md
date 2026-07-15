@@ -1,6 +1,6 @@
 ---
 name: babel-hmr
-description: HMR with Babel. hot reload.
+description: "HMR with Babel. hot reload."
 category: frontend
 tags: [babel-hmr, frontend, russian]
 models: [sonnet, opus]

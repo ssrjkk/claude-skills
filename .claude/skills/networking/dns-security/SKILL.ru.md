@@ -1,6 +1,6 @@
 ---
 name: dns-security
-description: Security with DNS. hardening.
+description: "Security with DNS. hardening."
 category: networking
 tags: [dns-security, networking, russian]
 models: [sonnet, opus]

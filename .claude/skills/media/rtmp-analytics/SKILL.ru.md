@@ -1,6 +1,6 @@
 ---
 name: rtmp-analytics
-description: Analytics with RTMP. analytics.
+description: "Analytics with RTMP. analytics."
 category: media
 tags: [rtmp-analytics, media, russian]
 models: [sonnet, opus]

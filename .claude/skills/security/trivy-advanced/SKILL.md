@@ -1,6 +1,6 @@
 ---
 name: trivy-advanced
-description: Advanced for Trivy: advanced patterns and techniques
+description: "Advanced for Trivy: advanced patterns and techniques"
 category: security
 tags: [trivy, advanced, security]
 models: [sonnet, opus]

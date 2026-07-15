@@ -1,6 +1,6 @@
 ---
 name: defold-testing
-description: Testing for Defold: testing and validation
+description: "Testing for Defold: testing and validation"
 category: gamedev
 tags: [defold-testing, gamedev, russian]
 models: [sonnet, opus]

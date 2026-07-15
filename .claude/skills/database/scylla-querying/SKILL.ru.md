@@ -1,6 +1,6 @@
 ---
 name: scylla-querying
-description: Querying with ScyllaDB. queries.
+description: "Querying with ScyllaDB. queries."
 category: database
 tags: [scylla-querying, database, russian]
 models: [sonnet, opus]

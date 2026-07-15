@@ -1,6 +1,6 @@
 ---
 name: saucelabs-production
-description: Production for Saucelabs: production deployment
+description: "Production for Saucelabs: production deployment"
 category: qa
 tags: [saucelabs-production, qa, russian]
 models: [sonnet, opus]

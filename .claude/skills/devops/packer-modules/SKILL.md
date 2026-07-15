@@ -1,6 +1,6 @@
 ---
 name: packer-modules
-description: Modules with Packer. modules.
+description: "Modules with Packer. modules."
 category: devops
 tags: [packer, modules, devops, iac]
 models: [gpt-4, claude-3]

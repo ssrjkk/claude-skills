@@ -1,6 +1,6 @@
 ---
 name: vllm-rag
-description: RAG with Vllm. building RAG systems.
+description: "RAG with Vllm. building RAG systems."
 category: ai
 tags: [vllm, rag, ai, llm]
 models: [gpt-4, claude-3]

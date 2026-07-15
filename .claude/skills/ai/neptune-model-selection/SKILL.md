@@ -1,6 +1,6 @@
 ---
 name: neptune-model-selection
-description: Model Selection with Neptune. choosing models.
+description: "Model Selection with Neptune. choosing models."
 category: ai
 tags: [neptune, model-selection, ai, ml]
 models: [gpt-4, claude-3]

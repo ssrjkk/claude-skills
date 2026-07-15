@@ -1,6 +1,6 @@
 ---
 name: user-research-reporting
-description: Reporting with User Research. reports.
+description: "Reporting with User Research. reports."
 category: design
 tags: [user-research-reporting, design, russian]
 models: [sonnet, opus]

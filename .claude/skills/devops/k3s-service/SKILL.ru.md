@@ -1,6 +1,6 @@
 ---
 name: k3s-service
-description: Service with K3s. services.
+description: "Service with K3s. services."
 category: devops
 tags: [k3s-service, devops, russian]
 models: [sonnet, opus]

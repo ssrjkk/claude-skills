@@ -1,6 +1,6 @@
 ---
 name: home-assistant-devices
-description: Devices with Home Assistant. device management.
+description: "Devices with Home Assistant. device management."
 category: iot
 tags: [home-assistant-devices, iot, russian]
 models: [sonnet, opus]

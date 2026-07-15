@@ -1,6 +1,6 @@
 ---
 name: xamarin-performance
-description: Performance with Xamarin. optimization.
+description: "Performance with Xamarin. optimization."
 category: mobile
 tags: [xamarin-performance, mobile, russian]
 models: [sonnet, opus]

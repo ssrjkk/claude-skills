@@ -1,6 +1,6 @@
 ---
 name: defold-monitoring
-description: Monitoring for Defold: monitoring and observability
+description: "Monitoring for Defold: monitoring and observability"
 category: gamedev
 tags: [defold, monitoring, gamedev]
 models: [sonnet, opus]

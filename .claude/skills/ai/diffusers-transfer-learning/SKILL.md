@@ -1,6 +1,6 @@
 ---
 name: diffusers-transfer-learning
-description: Transfer Learning with Diffusers. transfer learning.
+description: "Transfer Learning with Diffusers. transfer learning."
 category: ai
 tags: [diffusers, transfer-learning, ai, deep-learning]
 models: [gpt-4, claude-3]

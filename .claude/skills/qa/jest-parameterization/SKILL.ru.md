@@ -1,6 +1,6 @@
 ---
 name: jest-parameterization
-description: Parameterization with Jest. parametrized tests.
+description: "Parameterization with Jest. parametrized tests."
 category: qa
 tags: [jest-parameterization, qa, russian]
 models: [sonnet, opus]

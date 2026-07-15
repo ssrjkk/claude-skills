@@ -1,6 +1,6 @@
 ---
 name: smart-meter-protocols
-description: Protocols with Smart Metering. communication.
+description: "Protocols with Smart Metering. communication."
 category: energy
 tags: [smart-meter-protocols, energy, russian]
 models: [sonnet, opus]

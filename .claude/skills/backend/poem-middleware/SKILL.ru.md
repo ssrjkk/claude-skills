@@ -1,6 +1,6 @@
 ---
 name: poem-middleware
-description: Middleware with Poem. request pipeline.
+description: "Middleware with Poem. request pipeline."
 category: backend
 tags: [poem-middleware, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: oauth2-jwt
-description: Implements OAuth 2.0 authentication and JWT-based authorization with refresh tokens. Use for secure API access.
+description: "Implements OAuth 2.0 authentication and JWT-based authorization with refresh tokens. Use for secure API access."
 category: security
 tags: [oauth2-jwt, security, russian]
 models: [sonnet, opus]

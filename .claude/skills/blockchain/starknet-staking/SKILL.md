@@ -1,6 +1,6 @@
 ---
 name: starknet-staking
-description: Staking with StarkNet. staking.
+description: "Staking with StarkNet. staking."
 category: blockchain
 tags: [starknet, staking, blockchain, blockchain]
 models: [gpt-4, claude-3]

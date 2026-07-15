@@ -1,6 +1,6 @@
 ---
 name: maya-automation
-description: Automation for Maya: automation and scripting
+description: "Automation for Maya: automation and scripting"
 category: gamedev
 tags: [maya-automation, gamedev, russian]
 models: [sonnet, opus]

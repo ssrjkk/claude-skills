@@ -1,6 +1,6 @@
 ---
 name: pocketbase
-description: Deploys backend-as-a-service with PocketBase, including embedded SQLite, auth, file storage, and real-time subscriptions. Use for rapid prototyping.
+description: "Deploys backend-as-a-service with PocketBase, including embedded SQLite, auth, file storage, and real-time subscriptions. Use for rapid prototyping."
 category: backend
 tags: [pocketbase, bas, sqlite, auth, realtime]
 models: [sonnet, opus]

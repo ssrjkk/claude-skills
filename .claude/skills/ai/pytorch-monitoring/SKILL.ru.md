@@ -1,6 +1,6 @@
 ---
 name: pytorch-monitoring
-description: Monitoring for Pytorch: monitoring and observability
+description: "Monitoring for Pytorch: monitoring and observability"
 category: ai
 tags: [pytorch-monitoring, ai, russian]
 models: [sonnet, opus]

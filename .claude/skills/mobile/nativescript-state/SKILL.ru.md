@@ -1,6 +1,6 @@
 ---
 name: nativescript-state
-description: State with NativeScript. state management.
+description: "State with NativeScript. state management."
 category: mobile
 tags: [nativescript-state, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: conjur-fundamentals
-description: Fundamentals for Conjur: core concepts
+description: "Fundamentals for Conjur: core concepts"
 category: security
 tags: [conjur, fundamentals, security]
 models: [sonnet, opus]

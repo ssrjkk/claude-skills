@@ -1,6 +1,6 @@
 ---
 name: imgaug-segmentation
-description: Segmentation with Imgaug. image segmentation.
+description: "Segmentation with Imgaug. image segmentation."
 category: ai
 tags: [imgaug-segmentation, ai, russian]
 models: [sonnet, opus]

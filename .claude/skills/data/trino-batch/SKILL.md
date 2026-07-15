@@ -1,6 +1,6 @@
 ---
 name: trino-batch
-description: Batch with Trino. batch processing.
+description: "Batch with Trino. batch processing."
 category: data
 tags: [trino, batch, data, data-engineering]
 models: [gpt-4, claude-3]

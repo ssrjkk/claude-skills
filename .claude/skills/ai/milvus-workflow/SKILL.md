@@ -1,6 +1,6 @@
 ---
 name: milvus-workflow
-description: Workflow for Milvus: workflow optimization
+description: "Workflow for Milvus: workflow optimization"
 category: ai
 tags: [milvus, workflow, ai]
 models: [sonnet, opus]

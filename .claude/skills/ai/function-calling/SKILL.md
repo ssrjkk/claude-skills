@@ -1,6 +1,6 @@
 ---
 name: function-calling
-description: Designs prompts and schemas for LLM function calling and tool use, enabling structured interactions with external APIs and services.
+description: "Designs prompts and schemas for LLM function calling and tool use, enabling structured interactions with external APIs and services."
 category: ai
 tags: [prompt, function-calling, tools, api, structured]
 models: [sonnet, opus]

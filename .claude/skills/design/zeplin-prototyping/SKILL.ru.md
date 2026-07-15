@@ -1,6 +1,6 @@
 ---
 name: zeplin-prototyping
-description: Prototyping with Zeplin. prototypes.
+description: "Prototyping with Zeplin. prototypes."
 category: design
 tags: [zeplin-prototyping, design, russian]
 models: [sonnet, opus]

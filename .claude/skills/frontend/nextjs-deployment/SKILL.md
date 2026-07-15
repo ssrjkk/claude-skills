@@ -1,6 +1,6 @@
 ---
 name: nextjs-deployment
-description: Deployment with Next.js. production.
+description: "Deployment with Next.js. production."
 category: frontend
 tags: [nextjs, deployment, frontend, meta-framework]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: qwik-api-routes
-description: API Routes with Qwik. API endpoints.
+description: "API Routes with Qwik. API endpoints."
 category: frontend
 tags: [qwik, api-routes, frontend, meta-framework]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: reflection-ai-usage
-description: Usage for Reflection-Ai: usage reference
+description: "Usage for Reflection-Ai: usage reference"
 category: ai
 tags: [reflection-ai-usage, ai, russian]
 models: [sonnet, opus]

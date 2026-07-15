@@ -1,6 +1,6 @@
 ---
 name: gin-api
-description: API for Gin: API development and integration
+description: "API for Gin: API development and integration"
 category: backend
 tags: [gin-api, backend, russian]
 models: [sonnet, opus]

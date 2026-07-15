@@ -1,6 +1,6 @@
 ---
 name: figma-export
-description: Export with Figma. assets.
+description: "Export with Figma. assets."
 category: design
 tags: [figma, export, design, design]
 models: [gpt-4, claude-3]

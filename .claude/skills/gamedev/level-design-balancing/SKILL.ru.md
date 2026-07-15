@@ -1,6 +1,6 @@
 ---
 name: level-design-balancing
-description: Balancing with Level Design. balancing.
+description: "Balancing with Level Design. balancing."
 category: gamedev
 tags: [level-design-balancing, gamedev, russian]
 models: [sonnet, opus]

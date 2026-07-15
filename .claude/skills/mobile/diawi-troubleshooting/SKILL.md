@@ -1,6 +1,6 @@
 ---
 name: diawi-troubleshooting
-description: Troubleshooting for Diawi: troubleshooting common issues
+description: "Troubleshooting for Diawi: troubleshooting common issues"
 category: mobile
 tags: [diawi, troubleshooting, mobile]
 models: [sonnet, opus]

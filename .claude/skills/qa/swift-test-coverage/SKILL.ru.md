@@ -1,6 +1,6 @@
 ---
 name: swift-test-coverage
-description: Coverage with Swift Testing. code coverage.
+description: "Coverage with Swift Testing. code coverage."
 category: qa
 tags: [swift-test-coverage, qa, russian]
 models: [sonnet, opus]

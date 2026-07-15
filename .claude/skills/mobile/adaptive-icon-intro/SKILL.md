@@ -1,6 +1,6 @@
 ---
 name: adaptive-icon-intro
-description: Intro for Adaptive-Icon: introduction
+description: "Intro for Adaptive-Icon: introduction"
 category: mobile
 tags: [adaptive-icon, intro, mobile]
 models: [sonnet, opus]

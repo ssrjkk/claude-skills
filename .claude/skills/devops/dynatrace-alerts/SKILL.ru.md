@@ -1,6 +1,6 @@
 ---
 name: dynatrace-alerts
-description: Alerts with Dynatrace. alerting rules.
+description: "Alerts with Dynatrace. alerting rules."
 category: devops
 tags: [dynatrace-alerts, devops, russian]
 models: [sonnet, opus]

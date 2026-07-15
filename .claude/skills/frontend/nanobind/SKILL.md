@@ -1,6 +1,6 @@
 ---
 name: nanobind
-description: Development with Nanobind: tools and best practices
+description: "Development with Nanobind: tools and best practices"
 category: frontend
 tags: [nanobind, frontend, development]
 models: [sonnet, opus]

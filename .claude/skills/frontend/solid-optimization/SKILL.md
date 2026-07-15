@@ -1,6 +1,6 @@
 ---
 name: solid-optimization
-description: Optimization for Solid: performance tuning and optimization
+description: "Optimization for Solid: performance tuning and optimization"
 category: frontend
 tags: [solid, optimization, frontend]
 models: [sonnet, opus]

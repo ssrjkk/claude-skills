@@ -1,6 +1,6 @@
 ---
 name: decorator-testing
-description: Testing with Decorator. testing the pattern.
+description: "Testing with Decorator. testing the pattern."
 category: backend
 tags: [decorator, testing, backend, architecture]
 models: [gpt-4, claude-3]

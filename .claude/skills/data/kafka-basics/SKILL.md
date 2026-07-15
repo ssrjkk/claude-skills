@@ -1,6 +1,6 @@
 ---
 name: kafka-basics
-description: Basics for Kafka: fundamentals and core concepts
+description: "Basics for Kafka: fundamentals and core concepts"
 category: data
 tags: [kafka, basics, data]
 models: [sonnet, opus]

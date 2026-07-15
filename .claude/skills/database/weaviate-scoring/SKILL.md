@@ -1,6 +1,6 @@
 ---
 name: weaviate-scoring
-description: Scoring with Weaviate. relevance scoring.
+description: "Scoring with Weaviate. relevance scoring."
 category: database
 tags: [weaviate, scoring, database, search-engine]
 models: [gpt-4, claude-3]

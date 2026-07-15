@@ -1,6 +1,6 @@
 ---
 name: concourse-deployment
-description: Deployment with Concourse. auto-deploy.
+description: "Deployment with Concourse. auto-deploy."
 category: devops
 tags: [concourse-deployment, devops, russian]
 models: [sonnet, opus]

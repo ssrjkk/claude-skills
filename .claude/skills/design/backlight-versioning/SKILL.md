@@ -1,6 +1,6 @@
 ---
 name: backlight-versioning
-description: Versioning with Backlight. version control.
+description: "Versioning with Backlight. version control."
 category: design
 tags: [backlight, versioning, design, design]
 models: [gpt-4, claude-3]

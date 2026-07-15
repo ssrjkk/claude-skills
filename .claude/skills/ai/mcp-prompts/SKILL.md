@@ -1,6 +1,6 @@
 ---
 name: mcp-prompts
-description: MCP prompt templates and management
+description: "MCP prompt templates and management"
 category: ai
 tags: [mcp, prompts, templates, management, llm]
 models: [sonnet, opus]

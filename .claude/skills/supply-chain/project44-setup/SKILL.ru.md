@@ -1,6 +1,6 @@
 ---
 name: project44-setup
-description: Setup with project44. setup.
+description: "Setup with project44. setup."
 category: supply-chain
 tags: [project44-setup, supply-chain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mapbox-routing
-description: Routing with Mapbox. routing.
+description: "Routing with Mapbox. routing."
 category: geospatial
 tags: [mapbox, routing, geospatial, gis]
 models: [gpt-4, claude-3]

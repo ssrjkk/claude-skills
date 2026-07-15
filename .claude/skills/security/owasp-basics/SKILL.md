@@ -1,6 +1,6 @@
 ---
 name: owasp-basics
-description: Basics with OWASP. fundamentals.
+description: "Basics with OWASP. fundamentals."
 category: security
 tags: [owasp, basics, security, security]
 models: [gpt-4, claude-3]

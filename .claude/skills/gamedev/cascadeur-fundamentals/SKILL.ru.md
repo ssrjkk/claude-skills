@@ -1,6 +1,6 @@
 ---
 name: cascadeur-fundamentals
-description: Fundamentals for Cascadeur: core concepts
+description: "Fundamentals for Cascadeur: core concepts"
 category: gamedev
 tags: [cascadeur-fundamentals, gamedev, russian]
 models: [sonnet, opus]

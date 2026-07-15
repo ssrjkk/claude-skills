@@ -1,6 +1,6 @@
 ---
 name: planetscale-configuration
-description: Configuration for Planetscale: configuration and setup
+description: "Configuration for Planetscale: configuration and setup"
 category: database
 tags: [planetscale-configuration, database, russian]
 models: [sonnet, opus]

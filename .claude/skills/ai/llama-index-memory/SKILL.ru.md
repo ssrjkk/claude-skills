@@ -1,6 +1,6 @@
 ---
 name: llama-index-memory
-description: Memory with Llama Index. conversation memory.
+description: "Memory with Llama Index. conversation memory."
 category: ai
 tags: [llama-index-memory, ai, russian]
 models: [sonnet, opus]

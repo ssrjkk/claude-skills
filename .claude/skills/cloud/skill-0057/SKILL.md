@@ -1,6 +1,6 @@
 ---
 name: skill-0057
-description: Specialized skill #0057 for cloud development
+description: "Specialized skill #0057 for cloud development"
 category: cloud
 tags: [cloud, skill, 0057]
 models: [sonnet, opus]

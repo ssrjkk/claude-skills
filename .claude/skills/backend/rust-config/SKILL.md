@@ -1,6 +1,6 @@
 ---
 name: rust-config
-description: Configuration with Rust. config management.
+description: "Configuration with Rust. config management."
 category: backend
 tags: [rust, config, backend, backend]
 models: [gpt-4, claude-3]

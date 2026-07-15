@@ -1,6 +1,6 @@
 ---
 name: xapi-basics
-description: Basics with xAPI. fundamentals.
+description: "Basics with xAPI. fundamentals."
 category: education
 tags: [xapi, basics, education, education-standard]
 models: [gpt-4, claude-3]

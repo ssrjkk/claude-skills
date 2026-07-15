@@ -1,6 +1,6 @@
 ---
 name: percy-workflow
-description: Workflow for Percy: workflow optimization
+description: "Workflow for Percy: workflow optimization"
 category: qa
 tags: [percy-workflow, qa, russian]
 models: [sonnet, opus]

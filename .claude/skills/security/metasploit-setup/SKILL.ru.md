@@ -1,6 +1,6 @@
 ---
 name: metasploit-setup
-description: Setup with Metasploit. installation.
+description: "Setup with Metasploit. installation."
 category: security
 tags: [metasploit-setup, security, russian]
 models: [sonnet, opus]

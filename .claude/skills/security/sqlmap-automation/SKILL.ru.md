@@ -1,6 +1,6 @@
 ---
 name: sqlmap-automation
-description: Automation with SQLmap. automation.
+description: "Automation with SQLmap. automation."
 category: security
 tags: [sqlmap-automation, security, russian]
 models: [sonnet, opus]

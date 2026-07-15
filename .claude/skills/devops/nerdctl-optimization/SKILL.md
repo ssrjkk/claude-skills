@@ -1,6 +1,6 @@
 ---
 name: nerdctl-optimization
-description: Optimization with nerdctl. image optimization.
+description: "Optimization with nerdctl. image optimization."
 category: devops
 tags: [nerdctl, optimization, devops, container]
 models: [gpt-4, claude-3]

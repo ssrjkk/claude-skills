@@ -1,6 +1,6 @@
 ---
 name: riot-routing
-description: Routing with Riot. client routing.
+description: "Routing with Riot. client routing."
 category: frontend
 tags: [riot, routing, frontend, frontend]
 models: [gpt-4, claude-3]

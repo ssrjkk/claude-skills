@@ -1,6 +1,6 @@
 ---
 name: webdriverio-selectors
-description: Selectors with WebdriverIO. element selectors.
+description: "Selectors with WebdriverIO. element selectors."
 category: qa
 tags: [webdriverio, selectors, qa, e2e]
 models: [gpt-4, claude-3]

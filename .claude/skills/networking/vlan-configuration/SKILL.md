@@ -1,6 +1,6 @@
 ---
 name: vlan-configuration
-description: Config with VLAN. setup.
+description: "Config with VLAN. setup."
 category: networking
 tags: [vlan, configuration, networking, networking]
 models: [gpt-4, claude-3]

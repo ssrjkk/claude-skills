@@ -1,6 +1,6 @@
 ---
 name: fmod-workflow
-description: Workflow for Fmod: workflow optimization
+description: "Workflow for Fmod: workflow optimization"
 category: gamedev
 tags: [fmod-workflow, gamedev, russian]
 models: [sonnet, opus]

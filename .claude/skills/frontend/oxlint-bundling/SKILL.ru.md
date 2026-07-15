@@ -1,6 +1,6 @@
 ---
 name: oxlint-bundling
-description: Bundling with Oxlint. code bundling.
+description: "Bundling with Oxlint. code bundling."
 category: frontend
 tags: [oxlint-bundling, frontend, russian]
 models: [sonnet, opus]

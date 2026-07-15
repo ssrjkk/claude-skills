@@ -1,6 +1,6 @@
 ---
 name: trl-training
-description: Training with Trl. training models.
+description: "Training with Trl. training models."
 category: ai
 tags: [trl, training, ai, deep-learning]
 models: [gpt-4, claude-3]

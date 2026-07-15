@@ -1,6 +1,6 @@
 ---
 name: keycloak-guides
-description: Guides for Keycloak: how-to guides
+description: "Guides for Keycloak: how-to guides"
 category: security
 tags: [keycloak, guides, security]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: php-config
-description: Configuration with Php. config management.
+description: "Configuration with Php. config management."
 category: backend
 tags: [php-config, backend, russian]
 models: [sonnet, opus]

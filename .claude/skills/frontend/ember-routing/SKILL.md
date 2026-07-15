@@ -1,6 +1,6 @@
 ---
 name: ember-routing
-description: Routing with Ember. client routing.
+description: "Routing with Ember. client routing."
 category: frontend
 tags: [ember, routing, frontend, frontend]
 models: [gpt-4, claude-3]

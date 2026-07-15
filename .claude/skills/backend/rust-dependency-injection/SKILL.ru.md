@@ -1,6 +1,6 @@
 ---
 name: rust-dependency-injection
-description: DI with Rust. DI containers.
+description: "DI with Rust. DI containers."
 category: backend
 tags: [rust-dependency-injection, backend, russian]
 models: [sonnet, opus]

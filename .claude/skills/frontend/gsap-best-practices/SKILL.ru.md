@@ -1,6 +1,6 @@
 ---
 name: gsap-best-practices
-description: Best Practices for Gsap: best practices and patterns
+description: "Best Practices for Gsap: best practices and patterns"
 category: frontend
 tags: [gsap-best-practices, frontend, russian]
 models: [sonnet, opus]

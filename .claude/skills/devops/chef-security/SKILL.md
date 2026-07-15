@@ -1,6 +1,6 @@
 ---
 name: chef-security
-description: Security with Chef. security groups.
+description: "Security with Chef. security groups."
 category: devops
 tags: [chef, security, devops, iac]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: snowflake-monitoring
-description: Monitoring for Snowflake: monitoring and observability
+description: "Monitoring for Snowflake: monitoring and observability"
 category: data
 tags: [snowflake-monitoring, data, russian]
 models: [sonnet, opus]

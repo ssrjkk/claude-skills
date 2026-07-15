@@ -1,6 +1,6 @@
 ---
 name: nltk-lemmatization
-description: Lemmatization with Nltk. word lemmatization.
+description: "Lemmatization with Nltk. word lemmatization."
 category: ai
 tags: [nltk-lemmatization, ai, russian]
 models: [sonnet, opus]

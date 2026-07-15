@@ -1,6 +1,6 @@
 ---
 name: sling-usage
-description: Usage for Sling: usage reference
+description: "Usage for Sling: usage reference"
 category: data
 tags: [sling, usage, data]
 models: [sonnet, opus]

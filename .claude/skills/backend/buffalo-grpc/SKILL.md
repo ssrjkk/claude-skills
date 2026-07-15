@@ -1,6 +1,6 @@
 ---
 name: buffalo-grpc
-description: gRPC with Buffalo. gRPC services.
+description: "gRPC with Buffalo. gRPC services."
 category: backend
 tags: [buffalo, grpc, backend, backend]
 models: [gpt-4, claude-3]

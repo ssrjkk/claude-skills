@@ -1,6 +1,6 @@
 ---
 name: tensorflow-inference
-description: Inference with Tensorflow. running models.
+description: "Inference with Tensorflow. running models."
 category: ai
 tags: [tensorflow-inference, ai, russian]
 models: [sonnet, opus]

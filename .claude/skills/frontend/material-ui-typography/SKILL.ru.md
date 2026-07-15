@@ -1,6 +1,6 @@
 ---
 name: material-ui-typography
-description: Typography with MUI. text styling.
+description: "Typography with MUI. text styling."
 category: frontend
 tags: [material-ui-typography, frontend, russian]
 models: [sonnet, opus]

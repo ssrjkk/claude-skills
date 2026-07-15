@@ -1,6 +1,6 @@
 ---
 name: snowflake-advanced
-description: Advanced for Snowflake: advanced patterns and techniques
+description: "Advanced for Snowflake: advanced patterns and techniques"
 category: data
 tags: [snowflake, advanced, data]
 models: [sonnet, opus]

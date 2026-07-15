@@ -1,6 +1,6 @@
 ---
 name: rocket-database
-description: Database with Rocket. DB access.
+description: "Database with Rocket. DB access."
 category: backend
 tags: [rocket, database, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: tsc-plugins
-description: Plugins with TypeScript. plugins.
+description: "Plugins with TypeScript. plugins."
 category: frontend
 tags: [tsc-plugins, frontend, russian]
 models: [sonnet, opus]

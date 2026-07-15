@@ -1,6 +1,6 @@
 ---
 name: fhir-implementation
-description: Implementation with FHIR. integration.
+description: "Implementation with FHIR. integration."
 category: healthcare
 tags: [fhir, implementation, healthcare, healthcare]
 models: [gpt-4, claude-3]

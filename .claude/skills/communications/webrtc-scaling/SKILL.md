@@ -1,6 +1,6 @@
 ---
 name: webrtc-scaling
-description: Scaling with WebRTC. scaling.
+description: "Scaling with WebRTC. scaling."
 category: communications
 tags: [webrtc, scaling, communications, communication-protocol]
 models: [gpt-4, claude-3]

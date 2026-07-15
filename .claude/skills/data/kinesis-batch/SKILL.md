@@ -1,6 +1,6 @@
 ---
 name: kinesis-batch
-description: Batch with Kinesis. batch processing.
+description: "Batch with Kinesis. batch processing."
 category: data
 tags: [kinesis, batch, data, data-engineering]
 models: [gpt-4, claude-3]

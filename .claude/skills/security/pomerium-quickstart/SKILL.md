@@ -1,6 +1,6 @@
 ---
 name: pomerium-quickstart
-description: Quickstart for Pomerium: quick start guide
+description: "Quickstart for Pomerium: quick start guide"
 category: security
 tags: [pomerium, quickstart, security]
 models: [sonnet, opus]

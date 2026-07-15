@@ -1,6 +1,6 @@
 ---
 name: storybook-deployment
-description: Deployment with Storybook. production.
+description: "Deployment with Storybook. production."
 category: frontend
 tags: [storybook-deployment, frontend, russian]
 models: [sonnet, opus]

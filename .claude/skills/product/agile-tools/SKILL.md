@@ -1,6 +1,6 @@
 ---
 name: agile-tools
-description: Tools with Agile. tooling.
+description: "Tools with Agile. tooling."
 category: product
 tags: [agile, tools, product, methodology]
 models: [gpt-4, claude-3]

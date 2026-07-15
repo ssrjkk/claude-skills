@@ -1,6 +1,6 @@
 ---
 name: capacitor-performance
-description: Performance with Capacitor. optimization.
+description: "Performance with Capacitor. optimization."
 category: mobile
 tags: [capacitor-performance, mobile, russian]
 models: [sonnet, opus]

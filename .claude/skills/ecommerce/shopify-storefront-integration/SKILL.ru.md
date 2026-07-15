@@ -1,6 +1,6 @@
 ---
 name: shopify-storefront-integration
-description: Integration with Shopify Storefront. frontend integration.
+description: "Integration with Shopify Storefront. frontend integration."
 category: ecommerce
 tags: [shopify-storefront-integration, ecommerce, russian]
 models: [sonnet, opus]

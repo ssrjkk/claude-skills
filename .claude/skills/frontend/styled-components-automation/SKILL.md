@@ -1,6 +1,6 @@
 ---
 name: styled-components-automation
-description: Automation for Styled-Components: automation and scripting
+description: "Automation for Styled-Components: automation and scripting"
 category: frontend
 tags: [styled-components, automation, frontend]
 models: [sonnet, opus]

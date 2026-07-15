@@ -1,6 +1,6 @@
 ---
 name: quarkus-monitoring
-description: Monitoring with Quarkus. metrics.
+description: "Monitoring with Quarkus. metrics."
 category: backend
 tags: [quarkus, monitoring, backend, backend]
 models: [gpt-4, claude-3]

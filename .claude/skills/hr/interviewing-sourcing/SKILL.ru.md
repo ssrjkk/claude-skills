@@ -1,6 +1,6 @@
 ---
 name: interviewing-sourcing
-description: Sourcing with Technical Interviewing. candidate sourcing.
+description: "Sourcing with Technical Interviewing. candidate sourcing."
 category: hr
 tags: [interviewing-sourcing, hr, russian]
 models: [sonnet, opus]

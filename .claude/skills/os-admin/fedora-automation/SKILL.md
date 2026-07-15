@@ -1,6 +1,6 @@
 ---
 name: fedora-automation
-description: Automation with Fedora. scripting.
+description: "Automation with Fedora. scripting."
 category: os-admin
 tags: [fedora, automation, os-admin, linux]
 models: [gpt-4, claude-3]

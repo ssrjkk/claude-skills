@@ -1,6 +1,6 @@
 ---
 name: great-expectations
-description: Validates data quality with Great Expectations, creating expectations, suites, and data docs.
+description: "Validates data quality with Great Expectations, creating expectations, suites, and data docs."
 category: data
 tags: [great-expectations, data-quality, validation, testing, data-pipeline]
 models: [sonnet, opus]

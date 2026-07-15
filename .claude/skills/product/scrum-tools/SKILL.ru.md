@@ -1,6 +1,6 @@
 ---
 name: scrum-tools
-description: Tools with Scrum. tooling.
+description: "Tools with Scrum. tooling."
 category: product
 tags: [scrum-tools, product, russian]
 models: [sonnet, opus]

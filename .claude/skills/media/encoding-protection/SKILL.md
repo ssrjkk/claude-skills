@@ -1,6 +1,6 @@
 ---
 name: encoding-protection
-description: Protection with Encoding. DRM.
+description: "Protection with Encoding. DRM."
 category: media
 tags: [encoding, protection, media, media-streaming]
 models: [gpt-4, claude-3]

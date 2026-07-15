@@ -1,6 +1,6 @@
 ---
 name: vertx-middleware
-description: Middleware with Vert.x. request processing.
+description: "Middleware with Vert.x. request processing."
 category: backend
 tags: [vertx, middleware, backend, backend]
 models: [gpt-4, claude-3]

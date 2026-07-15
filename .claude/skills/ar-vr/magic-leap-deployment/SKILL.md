@@ -1,6 +1,6 @@
 ---
 name: magic-leap-deployment
-description: Deployment with Magic Leap. deployment.
+description: "Deployment with Magic Leap. deployment."
 category: ar-vr
 tags: [magic-leap, deployment, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

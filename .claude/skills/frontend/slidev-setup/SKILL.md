@@ -1,6 +1,6 @@
 ---
 name: slidev-setup
-description: Setup for Slidev: setup guide
+description: "Setup for Slidev: setup guide"
 category: frontend
 tags: [slidev, setup, frontend]
 models: [sonnet, opus]

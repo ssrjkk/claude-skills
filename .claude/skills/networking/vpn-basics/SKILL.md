@@ -1,6 +1,6 @@
 ---
 name: vpn-basics
-description: Basics with VPN. fundamentals.
+description: "Basics with VPN. fundamentals."
 category: networking
 tags: [vpn, basics, networking, networking]
 models: [gpt-4, claude-3]

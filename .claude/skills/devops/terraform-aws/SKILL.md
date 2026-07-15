@@ -1,6 +1,6 @@
 ---
 name: terraform-aws
-description: Provisions infrastructure in AWS using Terraform modules. Use for IaC management of cloud resources.
+description: "Provisions infrastructure in AWS using Terraform modules. Use for IaC management of cloud resources."
 category: devops
 tags: [terraform, aws, iac, infrastructure]
 models: [sonnet, opus]

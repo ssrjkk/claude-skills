@@ -1,6 +1,6 @@
 ---
 name: information-architecture-tools
-description: Tools with Information Architecture. tools.
+description: "Tools with Information Architecture. tools."
 category: design
 tags: [information-architecture, tools, design, ux-research]
 models: [gpt-4, claude-3]

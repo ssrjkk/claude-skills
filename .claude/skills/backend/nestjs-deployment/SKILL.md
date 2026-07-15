@@ -1,6 +1,6 @@
 ---
 name: nestjs-deployment
-description: Deployment with NestJS. deploy.
+description: "Deployment with NestJS. deploy."
 category: backend
 tags: [nestjs, deployment, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: k6-distributed
-description: Distributed with k6. distributed load.
+description: "Distributed with k6. distributed load."
 category: qa
 tags: [k6-distributed, qa, russian]
 models: [sonnet, opus]

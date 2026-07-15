@@ -1,6 +1,6 @@
 ---
 name: tsung-reports
-description: Reports with Tsung. report generation.
+description: "Reports with Tsung. report generation."
 category: qa
 tags: [tsung-reports, qa, russian]
 models: [sonnet, opus]

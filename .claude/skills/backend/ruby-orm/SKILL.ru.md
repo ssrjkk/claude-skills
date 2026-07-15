@@ -1,6 +1,6 @@
 ---
 name: ruby-orm
-description: ORM with Ruby. database access.
+description: "ORM with Ruby. database access."
 category: backend
 tags: [ruby-orm, backend, russian]
 models: [sonnet, opus]

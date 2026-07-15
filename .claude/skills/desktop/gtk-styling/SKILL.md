@@ -1,6 +1,6 @@
 ---
 name: gtk-styling
-description: Styling with GTK. styling.
+description: "Styling with GTK. styling."
 category: desktop
 tags: [gtk, styling, desktop, desktop]
 models: [gpt-4, claude-3]

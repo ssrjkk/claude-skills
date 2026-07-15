@@ -1,6 +1,6 @@
 ---
 name: great-expectations-integration
-description: Integration for Great-Expectations: integration with other tools
+description: "Integration for Great-Expectations: integration with other tools"
 category: data
 tags: [great-expectations-integration, data, russian]
 models: [sonnet, opus]

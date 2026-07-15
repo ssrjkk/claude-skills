@@ -1,6 +1,6 @@
 ---
 name: framer-motion-guides
-description: Guides for Framer-Motion: how-to guides
+description: "Guides for Framer-Motion: how-to guides"
 category: design
 tags: [framer-motion, guides, design]
 models: [sonnet, opus]

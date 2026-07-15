@@ -1,6 +1,6 @@
 ---
 name: effector-testing
-description: Testing with Effector. state testing.
+description: "Testing with Effector. state testing."
 category: frontend
 tags: [effector, testing, frontend, state-management]
 models: [gpt-4, claude-3]

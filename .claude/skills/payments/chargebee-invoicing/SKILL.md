@@ -1,6 +1,6 @@
 ---
 name: chargebee-invoicing
-description: Invoicing with Chargebee. invoices.
+description: "Invoicing with Chargebee. invoices."
 category: payments
 tags: [chargebee, invoicing, payments, billing]
 models: [gpt-4, claude-3]

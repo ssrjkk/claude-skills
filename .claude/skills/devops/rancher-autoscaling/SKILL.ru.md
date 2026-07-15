@@ -1,6 +1,6 @@
 ---
 name: rancher-autoscaling
-description: Autoscaling with Rancher. HPA.
+description: "Autoscaling with Rancher. HPA."
 category: devops
 tags: [rancher-autoscaling, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: arcgis-tiles
-description: Tiles with ArcGIS. tile serving.
+description: "Tiles with ArcGIS. tile serving."
 category: geospatial
 tags: [arcgis-tiles, geospatial, russian]
 models: [sonnet, opus]

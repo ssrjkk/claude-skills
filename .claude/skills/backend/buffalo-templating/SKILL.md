@@ -1,6 +1,6 @@
 ---
 name: buffalo-templating
-description: Templating with Buffalo. HTML templates.
+description: "Templating with Buffalo. HTML templates."
 category: backend
 tags: [buffalo, templating, backend, backend]
 models: [gpt-4, claude-3]

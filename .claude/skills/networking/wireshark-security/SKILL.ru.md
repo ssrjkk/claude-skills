@@ -1,6 +1,6 @@
 ---
 name: wireshark-security
-description: Security with Wireshark. security testing.
+description: "Security with Wireshark. security testing."
 category: networking
 tags: [wireshark-security, networking, russian]
 models: [sonnet, opus]

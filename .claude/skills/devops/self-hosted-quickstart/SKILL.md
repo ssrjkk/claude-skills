@@ -1,6 +1,6 @@
 ---
 name: self-hosted-quickstart
-description: Quickstart for Self-Hosted: quick start guide
+description: "Quickstart for Self-Hosted: quick start guide"
 category: devops
 tags: [self-hosted, quickstart, devops]
 models: [sonnet, opus]

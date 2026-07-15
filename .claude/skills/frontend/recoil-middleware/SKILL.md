@@ -1,6 +1,6 @@
 ---
 name: recoil-middleware
-description: Middleware with Recoil. side effects.
+description: "Middleware with Recoil. side effects."
 category: frontend
 tags: [recoil, middleware, frontend, state-management]
 models: [gpt-4, claude-3]

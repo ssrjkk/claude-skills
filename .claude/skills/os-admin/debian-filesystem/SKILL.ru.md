@@ -1,6 +1,6 @@
 ---
 name: debian-filesystem
-description: Filesystem with Debian. filesystem.
+description: "Filesystem with Debian. filesystem."
 category: os-admin
 tags: [debian-filesystem, os-admin, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ngrx-optimization
-description: Optimization with NgRx. performance.
+description: "Optimization with NgRx. performance."
 category: frontend
 tags: [ngrx-optimization, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: loki-dashboards
-description: Dashboards with Loki. dashboards.
+description: "Dashboards with Loki. dashboards."
 category: devops
 tags: [loki, dashboards, devops, monitoring]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: crowdstrike-configuration
-description: Configuration for Crowdstrike: configuration and setup
+description: "Configuration for Crowdstrike: configuration and setup"
 category: security
 tags: [crowdstrike, configuration, security]
 models: [sonnet, opus]

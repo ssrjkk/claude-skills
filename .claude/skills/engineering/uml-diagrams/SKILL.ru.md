@@ -1,6 +1,6 @@
 ---
 name: uml-diagrams
-description: Diagrams with UML. diagramming.
+description: "Diagrams with UML. diagramming."
 category: engineering
 tags: [uml-diagrams, engineering, russian]
 models: [sonnet, opus]

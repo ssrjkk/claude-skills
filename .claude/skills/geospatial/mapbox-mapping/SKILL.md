@@ -1,6 +1,6 @@
 ---
 name: mapbox-mapping
-description: Mapping with Mapbox. mapping.
+description: "Mapping with Mapbox. mapping."
 category: geospatial
 tags: [mapbox, mapping, geospatial, gis]
 models: [gpt-4, claude-3]

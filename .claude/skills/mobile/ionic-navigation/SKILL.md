@@ -1,6 +1,6 @@
 ---
 name: ionic-navigation
-description: Navigation with Ionic. navigation.
+description: "Navigation with Ionic. navigation."
 category: mobile
 tags: [ionic, navigation, mobile, mobile]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: graphql-best-practices
-description: Best Practices for Graphql: best practices and patterns
+description: "Best Practices for Graphql: best practices and patterns"
 category: backend
 tags: [graphql-best-practices, backend, russian]
 models: [sonnet, opus]

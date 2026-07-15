@@ -1,6 +1,6 @@
 ---
 name: saleor-marketing
-description: Marketing with Saleor. marketing.
+description: "Marketing with Saleor. marketing."
 category: ecommerce
 tags: [saleor-marketing, ecommerce, russian]
 models: [sonnet, opus]

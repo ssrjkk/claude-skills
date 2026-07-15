@@ -1,6 +1,6 @@
 ---
 name: go-gin
-description: Creates high-performance HTTP APIs on Go using Gin framework. Use for microservices requiring high throughput.
+description: "Creates high-performance HTTP APIs on Go using Gin framework. Use for microservices requiring high throughput."
 category: backend
 tags: [go-gin, backend, russian]
 models: [sonnet, opus]

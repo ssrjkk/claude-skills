@@ -1,6 +1,6 @@
 ---
 name: tls-ssl-configuration
-description: Config with TLS/SSL. setup.
+description: "Config with TLS/SSL. setup."
 category: networking
 tags: [tls-ssl-configuration, networking, russian]
 models: [sonnet, opus]

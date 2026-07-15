@@ -1,6 +1,6 @@
 ---
 name: azure-functions-fundamentals
-description: Fundamentals for Azure-Functions: core concepts
+description: "Fundamentals for Azure-Functions: core concepts"
 category: cloud
 tags: [azure-functions-fundamentals, cloud, russian]
 models: [sonnet, opus]

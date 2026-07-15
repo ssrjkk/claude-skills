@@ -1,6 +1,6 @@
 ---
 name: nativescript-api
-description: API for Nativescript: API development and integration
+description: "API for Nativescript: API development and integration"
 category: mobile
 tags: [nativescript-api, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: polkadot-setup
-description: Setup with Polkadot. node setup.
+description: "Setup with Polkadot. node setup."
 category: blockchain
 tags: [polkadot, setup, blockchain, blockchain]
 models: [gpt-4, claude-3]

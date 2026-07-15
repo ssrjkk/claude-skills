@@ -1,6 +1,6 @@
 ---
 name: drone-monitoring
-description: Monitoring with Drone CI. monitoring.
+description: "Monitoring with Drone CI. monitoring."
 category: devops
 tags: [drone-monitoring, devops, russian]
 models: [sonnet, opus]

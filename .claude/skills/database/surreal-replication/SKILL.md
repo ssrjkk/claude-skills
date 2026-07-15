@@ -1,6 +1,6 @@
 ---
 name: surreal-replication
-description: Replication with SurrealDB. replication.
+description: "Replication with SurrealDB. replication."
 category: database
 tags: [surreal, replication, database, nosql]
 models: [gpt-4, claude-3]

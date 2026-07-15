@@ -1,6 +1,6 @@
 ---
 name: voila-setup
-description: Setup with Voila. installation.
+description: "Setup with Voila. installation."
 category: data
 tags: [voila, setup, data, data-apps]
 models: [gpt-4, claude-3]

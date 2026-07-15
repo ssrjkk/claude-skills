@@ -1,6 +1,6 @@
 ---
 name: gsap-configuration
-description: Configuration for Gsap: configuration and setup
+description: "Configuration for Gsap: configuration and setup"
 category: frontend
 tags: [gsap-configuration, frontend, russian]
 models: [sonnet, opus]

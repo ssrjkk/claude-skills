@@ -1,6 +1,6 @@
 ---
 name: bulkhead-implementation
-description: Implementation with Bulkhead. practical implementation.
+description: "Implementation with Bulkhead. practical implementation."
 category: backend
 tags: [bulkhead-implementation, backend, russian]
 models: [sonnet, opus]

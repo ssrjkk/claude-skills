@@ -1,6 +1,6 @@
 ---
 name: webdriverio-assertions
-description: Assertions with WebdriverIO. assertions.
+description: "Assertions with WebdriverIO. assertions."
 category: qa
 tags: [webdriverio, assertions, qa, e2e]
 models: [gpt-4, claude-3]

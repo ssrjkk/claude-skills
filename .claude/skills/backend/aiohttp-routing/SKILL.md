@@ -1,6 +1,6 @@
 ---
 name: aiohttp-routing
-description: Routing with aiohttp. HTTP routing.
+description: "Routing with aiohttp. HTTP routing."
 category: backend
 tags: [aiohttp, routing, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: procedural-generation-balancing
-description: Balancing with Procedural Generation. balancing.
+description: "Balancing with Procedural Generation. balancing."
 category: gamedev
 tags: [procedural-generation, balancing, gamedev, game-design]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: cocos-monitoring
-description: Monitoring for Cocos: monitoring and observability
+description: "Monitoring for Cocos: monitoring and observability"
 category: gamedev
 tags: [cocos-monitoring, gamedev, russian]
 models: [sonnet, opus]

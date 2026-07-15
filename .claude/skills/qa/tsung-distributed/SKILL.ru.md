@@ -1,6 +1,6 @@
 ---
 name: tsung-distributed
-description: Distributed with Tsung. distributed load.
+description: "Distributed with Tsung. distributed load."
 category: qa
 tags: [tsung-distributed, qa, russian]
 models: [sonnet, opus]

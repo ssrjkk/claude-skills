@@ -1,6 +1,6 @@
 ---
 name: semantic-ui-forms
-description: Forms with Semantic UI. form styling.
+description: "Forms with Semantic UI. form styling."
 category: frontend
 tags: [semantic-ui, forms, frontend, css]
 models: [gpt-4, claude-3]

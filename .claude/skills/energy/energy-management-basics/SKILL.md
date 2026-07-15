@@ -1,6 +1,6 @@
 ---
 name: energy-management-basics
-description: Basics with Energy Management. fundamentals.
+description: "Basics with Energy Management. fundamentals."
 category: energy
 tags: [energy-management, basics, energy, renewable-energy]
 models: [gpt-4, claude-3]

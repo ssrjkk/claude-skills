@@ -1,6 +1,6 @@
 ---
 name: frontend-skill-0123
-description: frontend specialized skill #0123 for frontend development
+description: "frontend specialized skill #0123 for frontend development"
 category: frontend
 tags: [frontend, skill, 0123]
 models: [sonnet, opus]

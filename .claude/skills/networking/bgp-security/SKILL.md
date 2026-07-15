@@ -1,6 +1,6 @@
 ---
 name: bgp-security
-description: Security with BGP. hardening.
+description: "Security with BGP. hardening."
 category: networking
 tags: [bgp, security, networking, networking]
 models: [gpt-4, claude-3]

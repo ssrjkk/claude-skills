@@ -1,6 +1,6 @@
 ---
 name: xstate-optimization
-description: Optimization with XState. performance.
+description: "Optimization with XState. performance."
 category: frontend
 tags: [xstate, optimization, frontend, state-management]
 models: [gpt-4, claude-3]

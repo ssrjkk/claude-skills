@@ -1,6 +1,6 @@
 ---
 name: plivo-video
-description: Video with Plivo. video calls.
+description: "Video with Plivo. video calls."
 category: communications
 tags: [plivo, video, communications, communication-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: ubuntu-backup
-description: Backup with Ubuntu. backup.
+description: "Backup with Ubuntu. backup."
 category: os-admin
 tags: [ubuntu, backup, os-admin, linux]
 models: [gpt-4, claude-3]

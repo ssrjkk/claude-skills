@@ -1,6 +1,6 @@
 ---
 name: julia-optimization
-description: Optimization with Julia. optimization.
+description: "Optimization with Julia. optimization."
 category: scientific
 tags: [julia, optimization, scientific, scientific-computing]
 models: [gpt-4, claude-3]
