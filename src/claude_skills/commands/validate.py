@@ -17,18 +17,21 @@ def cmd_validate(args: argparse.Namespace) -> int:
 
     report = pipeline.report(results)
 
-    print(f"Validation complete: {report['total']} files in {elapsed:.2f}s")
+    print(f"\nValidation complete: {report['total']} files in {elapsed:.2f}s")
     print(f"  Errors:   {report['errors']}")
     print(f"  Warnings: {report['warnings']}")
     print(f"  Info:     {report['info']}")
 
     if report["error_details"]:
         print("\nErrors:")
-        for e in report["error_details"][:10]:
+        for e in report["error_details"][:15]:
             print(f"  {e}")
     if report["warning_details"]:
-        print("\nWarnings (first 10):")
-        for w in report["warning_details"][:10]:
+        print("\nWarnings (first 15):")
+        for w in report["warning_details"][:15]:
             print(f"  {w}")
+
+    if getattr(args, "strict", False) and report["warnings"] > 0:
+        return 1
 
     return 1 if report["errors"] > 0 else 0

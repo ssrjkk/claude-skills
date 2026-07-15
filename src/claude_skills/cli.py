@@ -83,6 +83,7 @@ def main() -> int:
 
     p_validate = sub.add_parser("validate", help="Validate all skills")
     p_validate.add_argument("--dir", default=".claude/skills", help="Skills directory")
+    p_validate.add_argument("--strict", action="store_true", help="Fail CI on warnings, not just critical errors")
     p_validate.set_defaults(func=cmd_validate)
 
     p_quality = sub.add_parser("quality", help="Analyze skill quality")

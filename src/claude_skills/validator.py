@@ -91,7 +91,7 @@ class SkillValidator:
             results.append(ValidationResult(str(filepath), Severity.WARNING, "W020", f"Body too short ({len(body_stripped)} chars)"))
 
         if len(body_stripped) < 50:
-            results.append(ValidationResult(str(filepath), Severity.ERROR, "E030", f"Body extremely short ({len(body_stripped)} chars)"))
+            results.append(ValidationResult(str(filepath), Severity.WARNING, "W030", f"Body critically short ({len(body_stripped)} chars)"))
 
         if self.BAD_PATTERNS.search(body):
             results.append(ValidationResult(str(filepath), Severity.WARNING, "W021", "Contains TODO/FIXME placeholder"))
