@@ -92,7 +92,7 @@ jobs:
           "
 
   deploy-pages:
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/main' && vars.GITHUB_PAGES_ENABLED == 'true'
     needs: validate
     runs-on: ubuntu-latest
     environment:
