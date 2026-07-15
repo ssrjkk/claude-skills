@@ -1,6 +1,6 @@
 ---
 name: arangodb-replication
-description: Replication with ArangoDB. replication.
+description: "Replication with ArangoDB. replication."
 category: database
 tags: [arangodb-replication, database, russian]
 models: [sonnet, opus]

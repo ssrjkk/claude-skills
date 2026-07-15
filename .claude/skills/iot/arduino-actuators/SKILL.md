@@ -1,6 +1,6 @@
 ---
 name: arduino-actuators
-description: Actuators with Arduino. motors.
+description: "Actuators with Arduino. motors."
 category: iot
 tags: [arduino, actuators, iot, iot]
 models: [gpt-4, claude-3]

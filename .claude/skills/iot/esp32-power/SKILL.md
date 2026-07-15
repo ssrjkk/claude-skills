@@ -1,6 +1,6 @@
 ---
 name: esp32-power
-description: Power with ESP32. power management.
+description: "Power with ESP32. power management."
 category: iot
 tags: [esp32, power, iot, iot]
 models: [gpt-4, claude-3]

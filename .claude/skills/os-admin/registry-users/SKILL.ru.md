@@ -1,6 +1,6 @@
 ---
 name: registry-users
-description: Users with Windows Registry. user mgmt.
+description: "Users with Windows Registry. user mgmt."
 category: os-admin
 tags: [registry-users, os-admin, russian]
 models: [sonnet, opus]

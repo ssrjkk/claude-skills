@@ -1,6 +1,6 @@
 ---
 name: r-lang-visualization
-description: Visualization with R. scientific plots.
+description: "Visualization with R. scientific plots."
 category: scientific
 tags: [r-lang, visualization, scientific, scientific-computing]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: ev-charging-integration
-description: Integration with EV Charging. grid integration.
+description: "Integration with EV Charging. grid integration."
 category: energy
 tags: [ev-charging-integration, energy, russian]
 models: [sonnet, opus]

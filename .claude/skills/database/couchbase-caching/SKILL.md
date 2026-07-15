@@ -1,6 +1,6 @@
 ---
 name: couchbase-caching
-description: Caching with Couchbase. caching strategies.
+description: "Caching with Couchbase. caching strategies."
 category: database
 tags: [couchbase, caching, database, caching]
 models: [gpt-4, claude-3]

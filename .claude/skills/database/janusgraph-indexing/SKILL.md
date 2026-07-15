@@ -1,6 +1,6 @@
 ---
 name: janusgraph-indexing
-description: Indexing with JanusGraph. indexes.
+description: "Indexing with JanusGraph. indexes."
 category: database
 tags: [janusgraph, indexing, database, graph-database]
 models: [gpt-4, claude-3]

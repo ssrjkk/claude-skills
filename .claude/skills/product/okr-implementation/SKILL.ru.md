@@ -1,6 +1,6 @@
 ---
 name: okr-implementation
-description: Implementation with OKRs. execution.
+description: "Implementation with OKRs. execution."
 category: product
 tags: [okr-implementation, product, russian]
 models: [sonnet, opus]

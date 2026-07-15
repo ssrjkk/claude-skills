@@ -1,6 +1,6 @@
 ---
 name: ehcache-monitoring
-description: Monitoring with Ehcache. monitoring.
+description: "Monitoring with Ehcache. monitoring."
 category: database
 tags: [ehcache-monitoring, database, russian]
 models: [sonnet, opus]

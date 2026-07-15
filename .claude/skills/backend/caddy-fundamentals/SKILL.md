@@ -1,6 +1,6 @@
 ---
 name: caddy-fundamentals
-description: Fundamentals for Caddy: core concepts
+description: "Fundamentals for Caddy: core concepts"
 category: backend
 tags: [caddy, fundamentals, backend]
 models: [sonnet, opus]

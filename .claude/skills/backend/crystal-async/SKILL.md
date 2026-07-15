@@ -1,6 +1,6 @@
 ---
 name: crystal-async
-description: Async with Crystal. async operations.
+description: "Async with Crystal. async operations."
 category: backend
 tags: [crystal, async, backend, backend]
 models: [gpt-4, claude-3]

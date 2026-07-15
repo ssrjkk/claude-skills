@@ -1,6 +1,6 @@
 ---
 name: google-iot-security
-description: Security with Google IoT. device security.
+description: "Security with Google IoT. device security."
 category: iot
 tags: [google-iot-security, iot, russian]
 models: [sonnet, opus]

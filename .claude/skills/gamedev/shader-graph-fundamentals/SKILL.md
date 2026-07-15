@@ -1,6 +1,6 @@
 ---
 name: shader-graph-fundamentals
-description: Fundamentals for Shader-Graph: core concepts
+description: "Fundamentals for Shader-Graph: core concepts"
 category: gamedev
 tags: [shader-graph, fundamentals, gamedev]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: socat-performance
-description: Performance with socat. benchmarking.
+description: "Performance with socat. benchmarking."
 category: networking
 tags: [socat-performance, networking, russian]
 models: [sonnet, opus]

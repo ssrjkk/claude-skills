@@ -1,6 +1,6 @@
 ---
 name: buildkite-setup
-description: Setup with Buildkite. pipeline setup.
+description: "Setup with Buildkite. pipeline setup."
 category: devops
 tags: [buildkite-setup, devops, russian]
 models: [sonnet, opus]

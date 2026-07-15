@@ -1,6 +1,6 @@
 ---
 name: mapbox-gl-setup
-description: Setup with Mapbox GL. setup.
+description: "Setup with Mapbox GL. setup."
 category: geospatial
 tags: [mapbox-gl-setup, geospatial, russian]
 models: [sonnet, opus]

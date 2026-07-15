@@ -1,6 +1,6 @@
 ---
 name: tvm-data-loading
-description: Data Loading with Tvm. data pipelines.
+description: "Data Loading with Tvm. data pipelines."
 category: ai
 tags: [tvm-data-loading, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: keras-checkpointing
-description: Checkpointing with Keras. model saving.
+description: "Checkpointing with Keras. model saving."
 category: ai
 tags: [keras-checkpointing, ai, russian]
 models: [sonnet, opus]

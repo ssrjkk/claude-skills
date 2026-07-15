@@ -1,6 +1,6 @@
 ---
 name: system-design-basics
-description: Basics with System Design. fundamentals.
+description: "Basics with System Design. fundamentals."
 category: engineering
 tags: [system-design, basics, engineering, modeling]
 models: [gpt-4, claude-3]

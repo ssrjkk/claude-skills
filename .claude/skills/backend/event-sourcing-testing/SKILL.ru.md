@@ -1,6 +1,6 @@
 ---
 name: event-sourcing-testing
-description: Testing with Event Sourcing. testing the pattern.
+description: "Testing with Event Sourcing. testing the pattern."
 category: backend
 tags: [event-sourcing-testing, backend, russian]
 models: [sonnet, opus]

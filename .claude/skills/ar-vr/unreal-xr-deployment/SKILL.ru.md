@@ -1,6 +1,6 @@
 ---
 name: unreal-xr-deployment
-description: Deployment with Unreal XR. deployment.
+description: "Deployment with Unreal XR. deployment."
 category: ar-vr
 tags: [unreal-xr-deployment, ar-vr, russian]
 models: [sonnet, opus]

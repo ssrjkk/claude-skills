@@ -1,6 +1,6 @@
 ---
 name: aws-database
-description: Database with AWS. managed databases.
+description: "Database with AWS. managed databases."
 category: devops
 tags: [aws-database, devops, russian]
 models: [sonnet, opus]

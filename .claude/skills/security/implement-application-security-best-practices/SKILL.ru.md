@@ -1,6 +1,6 @@
 ---
 name: implement-application-security-best-practices
-description: Secure application development lifecycle with security controls and practices
+description: "Secure application development lifecycle with security controls and practices"
 category: security
 tags: [implement-application-security-best-practices, security, russian]
 models: [sonnet, opus]

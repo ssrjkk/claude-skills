@@ -1,6 +1,6 @@
 ---
 name: kinaxis-analytics
-description: Analytics with Kinaxis. analytics.
+description: "Analytics with Kinaxis. analytics."
 category: supply-chain
 tags: [kinaxis, analytics, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: react-native-setup
-description: Setup with React Native. setup.
+description: "Setup with React Native. setup."
 category: mobile
 tags: [react-native-setup, mobile, russian]
 models: [sonnet, opus]

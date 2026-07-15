@@ -1,6 +1,6 @@
 ---
 name: chef-provisioning
-description: Provisioning with Chef. provisioning.
+description: "Provisioning with Chef. provisioning."
 category: devops
 tags: [chef, provisioning, devops, iac]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: scala-async
-description: Async with Scala. async operations.
+description: "Async with Scala. async operations."
 category: backend
 tags: [scala-async, backend, russian]
 models: [sonnet, opus]

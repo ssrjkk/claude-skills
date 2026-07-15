@@ -1,6 +1,6 @@
 ---
 name: godot-multiplayer
-description: Multiplayer with Godot. networking.
+description: "Multiplayer with Godot. networking."
 category: gamedev
 tags: [godot-multiplayer, gamedev, russian]
 models: [sonnet, opus]

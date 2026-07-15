@@ -1,6 +1,6 @@
 ---
 name: zephyr-synchronization
-description: Sync with Zephyr. mutexes.
+description: "Sync with Zephyr. mutexes."
 category: embedded
 tags: [zephyr-synchronization, embedded, russian]
 models: [sonnet, opus]

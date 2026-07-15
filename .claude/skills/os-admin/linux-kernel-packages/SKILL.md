@@ -1,6 +1,6 @@
 ---
 name: linux-kernel-packages
-description: Packages with Linux Kernel. package management.
+description: "Packages with Linux Kernel. package management."
 category: os-admin
 tags: [linux-kernel, packages, os-admin, linux]
 models: [gpt-4, claude-3]

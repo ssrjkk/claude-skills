@@ -1,6 +1,6 @@
 ---
 name: grafana-debugging
-description: Debugging for Grafana: debugging and troubleshooting
+description: "Debugging for Grafana: debugging and troubleshooting"
 category: devops
 tags: [grafana-debugging, devops, russian]
 models: [sonnet, opus]

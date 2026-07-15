@@ -1,6 +1,6 @@
 ---
 name: helm-setup
-description: Setup for Helm: installation and configuration
+description: "Setup for Helm: installation and configuration"
 category: devops
 tags: [helm-setup, devops, russian]
 models: [sonnet, opus]

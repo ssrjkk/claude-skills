@@ -1,6 +1,6 @@
 ---
 name: firebase-fcm-integration
-description: Integration for Firebase-Fcm: integration with other tools
+description: "Integration for Firebase-Fcm: integration with other tools"
 category: mobile
 tags: [firebase-fcm-integration, mobile, russian]
 models: [sonnet, opus]

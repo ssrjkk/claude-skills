@@ -1,6 +1,6 @@
 ---
 name: argocd-security
-description: Security for Argocd: security best practices
+description: "Security for Argocd: security best practices"
 category: devops
 tags: [argocd, security, devops]
 models: [sonnet, opus]

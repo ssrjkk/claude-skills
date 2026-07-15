@@ -1,6 +1,6 @@
 ---
 name: memcached-pub-sub
-description: Pub/Sub with Memcached. publish/subscribe.
+description: "Pub/Sub with Memcached. publish/subscribe."
 category: database
 tags: [memcached, pub-sub, database, caching]
 models: [gpt-4, claude-3]

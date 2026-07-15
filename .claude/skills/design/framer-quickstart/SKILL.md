@@ -1,6 +1,6 @@
 ---
 name: framer-quickstart
-description: Quickstart for Framer: quick start guide
+description: "Quickstart for Framer: quick start guide"
 category: design
 tags: [framer, quickstart, design]
 models: [sonnet, opus]

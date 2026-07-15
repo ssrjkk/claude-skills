@@ -1,6 +1,6 @@
 ---
 name: arm-cortex-setup
-description: Setup with ARM Cortex-M. toolchain.
+description: "Setup with ARM Cortex-M. toolchain."
 category: embedded
 tags: [arm-cortex, setup, embedded, embedded-arch]
 models: [gpt-4, claude-3]

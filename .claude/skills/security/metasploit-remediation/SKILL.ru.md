@@ -1,6 +1,6 @@
 ---
 name: metasploit-remediation
-description: Remediation with Metasploit. fixing vulns.
+description: "Remediation with Metasploit. fixing vulns."
 category: security
 tags: [metasploit-remediation, security, russian]
 models: [sonnet, opus]

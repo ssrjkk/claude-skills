@@ -1,6 +1,6 @@
 ---
 name: linux-security-packages
-description: Packages with Linux Security. package management.
+description: "Packages with Linux Security. package management."
 category: os-admin
 tags: [linux-security-packages, os-admin, russian]
 models: [sonnet, opus]

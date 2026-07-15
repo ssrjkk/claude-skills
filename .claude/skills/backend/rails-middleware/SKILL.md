@@ -1,6 +1,6 @@
 ---
 name: rails-middleware
-description: Middleware with Rails. rack middleware.
+description: "Middleware with Rails. rack middleware."
 category: backend
 tags: [rails, middleware, backend, backend]
 models: [gpt-4, claude-3]

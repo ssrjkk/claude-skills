@@ -1,6 +1,6 @@
 ---
 name: openhab-integration
-description: Integration with openHAB. integrations.
+description: "Integration with openHAB. integrations."
 category: iot
 tags: [openhab, integration, iot, iot-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: socat-scripting
-description: Scripting with socat. automation.
+description: "Scripting with socat. automation."
 category: networking
 tags: [socat-scripting, networking, russian]
 models: [sonnet, opus]

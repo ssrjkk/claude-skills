@@ -1,6 +1,6 @@
 ---
 name: dnp3-protocols
-description: Protocols with DNP3. communication.
+description: "Protocols with DNP3. communication."
 category: energy
 tags: [dnp3-protocols, energy, russian]
 models: [sonnet, opus]

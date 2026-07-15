@@ -1,6 +1,6 @@
 ---
 name: spectre-utilities
-description: Utilities with Spectre.css. utility classes.
+description: "Utilities with Spectre.css. utility classes."
 category: frontend
 tags: [spectre-utilities, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: near-bridge
-description: Bridge with NEAR. cross-chain.
+description: "Bridge with NEAR. cross-chain."
 category: blockchain
 tags: [near-bridge, blockchain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ab-scenarios
-description: Scenarios with Apache Bench. test scenarios.
+description: "Scenarios with Apache Bench. test scenarios."
 category: qa
 tags: [ab, scenarios, qa, performance-testing]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: albumentations-face-detection
-description: Face Detection with Albumentations. facial recognition.
+description: "Face Detection with Albumentations. facial recognition."
 category: ai
 tags: [albumentations-face-detection, ai, russian]
 models: [sonnet, opus]

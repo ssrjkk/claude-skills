@@ -1,6 +1,6 @@
 ---
 name: mocha-optimization
-description: Optimization for Mocha: performance tuning and optimization
+description: "Optimization for Mocha: performance tuning and optimization"
 category: qa
 tags: [mocha-optimization, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: onnx-optimization
-description: Optimization with Onnx. model optimization.
+description: "Optimization with Onnx. model optimization."
 category: ai
 tags: [onnx, optimization, ai, deep-learning]
 models: [gpt-4, claude-3]

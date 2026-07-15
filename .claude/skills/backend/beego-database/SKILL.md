@@ -1,6 +1,6 @@
 ---
 name: beego-database
-description: Database with Beego. DB access.
+description: "Database with Beego. DB access."
 category: backend
 tags: [beego, database, backend, backend]
 models: [gpt-4, claude-3]

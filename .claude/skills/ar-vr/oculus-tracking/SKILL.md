@@ -1,6 +1,6 @@
 ---
 name: oculus-tracking
-description: Tracking with Oculus SDK. spatial tracking.
+description: "Tracking with Oculus SDK. spatial tracking."
 category: ar-vr
 tags: [oculus, tracking, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

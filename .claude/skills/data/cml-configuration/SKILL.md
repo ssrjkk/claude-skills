@@ -1,6 +1,6 @@
 ---
 name: cml-configuration
-description: Configuration for Cml: configuration and setup
+description: "Configuration for Cml: configuration and setup"
 category: data
 tags: [cml, configuration, data]
 models: [sonnet, opus]

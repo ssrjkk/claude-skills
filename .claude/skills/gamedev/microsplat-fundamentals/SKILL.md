@@ -1,6 +1,6 @@
 ---
 name: microsplat-fundamentals
-description: Fundamentals for Microsplat: core concepts
+description: "Fundamentals for Microsplat: core concepts"
 category: gamedev
 tags: [microsplat, fundamentals, gamedev]
 models: [sonnet, opus]

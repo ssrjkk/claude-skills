@@ -1,6 +1,6 @@
 ---
 name: presto-monitoring
-description: Monitoring with Presto. monitoring.
+description: "Monitoring with Presto. monitoring."
 category: data
 tags: [presto-monitoring, data, russian]
 models: [sonnet, opus]

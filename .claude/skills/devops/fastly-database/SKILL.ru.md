@@ -1,6 +1,6 @@
 ---
 name: fastly-database
-description: Database with Fastly. managed databases.
+description: "Database with Fastly. managed databases."
 category: devops
 tags: [fastly-database, devops, russian]
 models: [sonnet, opus]

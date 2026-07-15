@@ -1,6 +1,6 @@
 ---
 name: jetpack-compose-integration
-description: Integration for Jetpack-Compose: integration with other tools
+description: "Integration for Jetpack-Compose: integration with other tools"
 category: mobile
 tags: [jetpack-compose-integration, mobile, russian]
 models: [sonnet, opus]

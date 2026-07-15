@@ -1,6 +1,6 @@
 ---
 name: safe-best-practices
-description: Best Practices with SAFe. practices.
+description: "Best Practices with SAFe. practices."
 category: product
 tags: [safe-best-practices, product, russian]
 models: [sonnet, opus]

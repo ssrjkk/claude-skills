@@ -1,6 +1,6 @@
 ---
 name: ant-design-dark-mode
-description: Dark Mode with Ant Design. dark theme.
+description: "Dark Mode with Ant Design. dark theme."
 category: frontend
 tags: [ant-design-dark-mode, frontend, russian]
 models: [sonnet, opus]

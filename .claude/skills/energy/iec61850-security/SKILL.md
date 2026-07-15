@@ -1,6 +1,6 @@
 ---
 name: iec61850-security
-description: Security with IEC 61850. security.
+description: "Security with IEC 61850. security."
 category: energy
 tags: [iec61850, security, energy, smart-grid]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: windows-update-setup
-description: Setup with Windows Update. installation.
+description: "Setup with Windows Update. installation."
 category: os-admin
 tags: [windows-update, setup, os-admin, windows]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: ionic-optimization
-description: Optimization for Ionic: performance tuning and optimization
+description: "Optimization for Ionic: performance tuning and optimization"
 category: mobile
 tags: [ionic-optimization, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: zod-configuration
-description: Configuration for Zod: configuration and setup
+description: "Configuration for Zod: configuration and setup"
 category: frontend
 tags: [zod-configuration, frontend, russian]
 models: [sonnet, opus]

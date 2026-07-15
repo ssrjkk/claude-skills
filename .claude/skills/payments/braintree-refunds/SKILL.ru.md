@@ -1,6 +1,6 @@
 ---
 name: braintree-refunds
-description: Refunds with Braintree. refunds.
+description: "Refunds with Braintree. refunds."
 category: payments
 tags: [braintree-refunds, payments, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: medusa-products
-description: Products with Medusa. product management.
+description: "Products with Medusa. product management."
 category: ecommerce
 tags: [medusa, products, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: sbti-measurement
-description: Measurement with SBTi. measurement.
+description: "Measurement with SBTi. measurement."
 category: sustainability
 tags: [sbti, measurement, sustainability, sustainability]
 models: [gpt-4, claude-3]

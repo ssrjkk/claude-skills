@@ -1,6 +1,6 @@
 ---
 name: bamboohr-setup
-description: Setup with BambooHR. setup.
+description: "Setup with BambooHR. setup."
 category: hr
 tags: [bamboohr, setup, hr, hr-tech]
 models: [gpt-4, claude-3]

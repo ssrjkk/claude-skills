@@ -1,6 +1,6 @@
 ---
 name: swiper-workflow
-description: Workflow for Swiper: workflow optimization
+description: "Workflow for Swiper: workflow optimization"
 category: frontend
 tags: [swiper, workflow, frontend]
 models: [sonnet, opus]

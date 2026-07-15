@@ -1,6 +1,6 @@
 ---
 name: hanami-database
-description: Database with Hanami. ActiveRecord.
+description: "Database with Hanami. ActiveRecord."
 category: backend
 tags: [hanami-database, backend, russian]
 models: [sonnet, opus]

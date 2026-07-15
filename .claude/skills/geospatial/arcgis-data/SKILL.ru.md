@@ -1,6 +1,6 @@
 ---
 name: arcgis-data
-description: Data with ArcGIS. geospatial data.
+description: "Data with ArcGIS. geospatial data."
 category: geospatial
 tags: [arcgis-data, geospatial, russian]
 models: [sonnet, opus]

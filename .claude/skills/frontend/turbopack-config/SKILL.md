@@ -1,6 +1,6 @@
 ---
 name: turbopack-config
-description: Config with Turbopack. configuration.
+description: "Config with Turbopack. configuration."
 category: frontend
 tags: [turbopack, config, frontend, build-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: yii-database
-description: Database with Yii. Eloquent.
+description: "Database with Yii. Eloquent."
 category: backend
 tags: [yii-database, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: bokeh-cleaning
-description: Cleaning with Bokeh. data cleaning.
+description: "Cleaning with Bokeh. data cleaning."
 category: data
 tags: [bokeh-cleaning, data, russian]
 models: [sonnet, opus]

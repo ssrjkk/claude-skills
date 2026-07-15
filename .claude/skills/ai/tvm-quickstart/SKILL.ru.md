@@ -1,6 +1,6 @@
 ---
 name: tvm-quickstart
-description: Quickstart for Tvm: quick start guide
+description: "Quickstart for Tvm: quick start guide"
 category: ai
 tags: [tvm-quickstart, ai, russian]
 models: [sonnet, opus]

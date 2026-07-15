@@ -1,6 +1,6 @@
 ---
 name: sanic-routing
-description: Routing with Sanic. HTTP routing.
+description: "Routing with Sanic. HTTP routing."
 category: backend
 tags: [sanic, routing, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: teensy-sensors
-description: Sensors with Teensy. sensor integration.
+description: "Sensors with Teensy. sensor integration."
 category: iot
 tags: [teensy-sensors, iot, russian]
 models: [sonnet, opus]

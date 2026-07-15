@@ -1,6 +1,6 @@
 ---
 name: unreal-api
-description: API for Unreal: API development and integration
+description: "API for Unreal: API development and integration"
 category: gamedev
 tags: [unreal-api, gamedev, russian]
 models: [sonnet, opus]

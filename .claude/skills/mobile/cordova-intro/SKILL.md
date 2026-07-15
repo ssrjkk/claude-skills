@@ -1,6 +1,6 @@
 ---
 name: cordova-intro
-description: Intro for Cordova: introduction
+description: "Intro for Cordova: introduction"
 category: mobile
 tags: [cordova, intro, mobile]
 models: [sonnet, opus]

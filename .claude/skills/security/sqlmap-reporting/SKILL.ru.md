@@ -1,6 +1,6 @@
 ---
 name: sqlmap-reporting
-description: Reporting with SQLmap. reports.
+description: "Reporting with SQLmap. reports."
 category: security
 tags: [sqlmap-reporting, security, russian]
 models: [sonnet, opus]

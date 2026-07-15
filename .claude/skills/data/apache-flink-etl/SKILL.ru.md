@@ -1,6 +1,6 @@
 ---
 name: apache-flink-etl
-description: ETL with Apache Flink. extract-transform-load.
+description: "ETL with Apache Flink. extract-transform-load."
 category: data
 tags: [apache-flink-etl, data, russian]
 models: [sonnet, opus]

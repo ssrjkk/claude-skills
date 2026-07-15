@@ -1,6 +1,6 @@
 ---
 name: micropython-power
-description: Power with MicroPython. power management.
+description: "Power with MicroPython. power management."
 category: iot
 tags: [micropython-power, iot, russian]
 models: [sonnet, opus]

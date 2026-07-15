@@ -1,6 +1,6 @@
 ---
 name: streamlit-layout
-description: Layout with Streamlit. app layout.
+description: "Layout with Streamlit. app layout."
 category: data
 tags: [streamlit, layout, data, data-apps]
 models: [gpt-4, claude-3]

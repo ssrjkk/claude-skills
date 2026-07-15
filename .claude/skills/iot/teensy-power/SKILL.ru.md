@@ -1,6 +1,6 @@
 ---
 name: teensy-power
-description: Power with Teensy. power management.
+description: "Power with Teensy. power management."
 category: iot
 tags: [teensy-power, iot, russian]
 models: [sonnet, opus]

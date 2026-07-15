@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-monitoring
-description: Monitoring for Rpgmaker: monitoring and observability
+description: "Monitoring for Rpgmaker: monitoring and observability"
 category: gamedev
 tags: [rpgmaker, monitoring, gamedev]
 models: [sonnet, opus]

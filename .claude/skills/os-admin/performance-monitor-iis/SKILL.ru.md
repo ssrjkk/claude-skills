@@ -1,6 +1,6 @@
 ---
 name: performance-monitor-iis
-description: IIS with Performance Monitor. web server.
+description: "IIS with Performance Monitor. web server."
 category: os-admin
 tags: [performance-monitor-iis, os-admin, russian]
 models: [sonnet, opus]

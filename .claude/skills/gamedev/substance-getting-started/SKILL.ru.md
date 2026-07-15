@@ -1,6 +1,6 @@
 ---
 name: substance-getting-started
-description: Getting Started for Substance: initial setup and first steps
+description: "Getting Started for Substance: initial setup and first steps"
 category: gamedev
 tags: [substance-getting-started, gamedev, russian]
 models: [sonnet, opus]

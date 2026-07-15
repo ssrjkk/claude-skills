@@ -1,6 +1,6 @@
 ---
 name: nextjs-routing
-description: Routing with Next.js. file-based routing.
+description: "Routing with Next.js. file-based routing."
 category: frontend
 tags: [nextjs, routing, frontend, meta-framework]
 models: [gpt-4, claude-3]

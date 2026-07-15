@@ -1,6 +1,6 @@
 ---
 name: rspec-mocking
-description: Mocking with RSpec. mocks.
+description: "Mocking with RSpec. mocks."
 category: qa
 tags: [rspec, mocking, qa, testing]
 models: [gpt-4, claude-3]

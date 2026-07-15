@@ -1,6 +1,6 @@
 ---
 name: sqlite-optimization
-description: Optimization with SQLite. query tuning.
+description: "Optimization with SQLite. query tuning."
 category: database
 tags: [sqlite-optimization, database, russian]
 models: [sonnet, opus]

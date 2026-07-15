@@ -1,6 +1,6 @@
 ---
 name: deel-setup
-description: Setup with Deel. setup.
+description: "Setup with Deel. setup."
 category: hr
 tags: [deel, setup, hr, hr-tech]
 models: [gpt-4, claude-3]

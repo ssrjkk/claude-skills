@@ -1,6 +1,6 @@
 ---
 name: panel-deployment
-description: Deployment with Panel. deploy.
+description: "Deployment with Panel. deploy."
 category: data
 tags: [panel, deployment, data, data-apps]
 models: [gpt-4, claude-3]

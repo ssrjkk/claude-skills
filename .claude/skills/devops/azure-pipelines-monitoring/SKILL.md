@@ -1,6 +1,6 @@
 ---
 name: azure-pipelines-monitoring
-description: Monitoring with Azure Pipelines. monitoring.
+description: "Monitoring with Azure Pipelines. monitoring."
 category: devops
 tags: [azure-pipelines, monitoring, devops, ci-cd]
 models: [gpt-4, claude-3]

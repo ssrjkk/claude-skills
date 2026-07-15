@@ -1,6 +1,6 @@
 ---
 name: zig-async
-description: Async with Zig. async operations.
+description: "Async with Zig. async operations."
 category: backend
 tags: [zig, async, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: qt-window
-description: Window with Qt. windows.
+description: "Window with Qt. windows."
 category: desktop
 tags: [qt, window, desktop, desktop]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: valtio-testing
-description: Testing with Valtio. state testing.
+description: "Testing with Valtio. state testing."
 category: frontend
 tags: [valtio-testing, frontend, russian]
 models: [sonnet, opus]

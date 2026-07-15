@@ -1,6 +1,6 @@
 ---
 name: skopeo-volumes
-description: Volumes with Skopeo. data volumes.
+description: "Volumes with Skopeo. data volumes."
 category: devops
 tags: [skopeo-volumes, devops, russian]
 models: [sonnet, opus]

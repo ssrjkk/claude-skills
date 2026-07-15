@@ -1,6 +1,6 @@
 ---
 name: nat-troubleshooting
-description: Troubleshooting with NAT. diagnostics.
+description: "Troubleshooting with NAT. diagnostics."
 category: networking
 tags: [nat-troubleshooting, networking, russian]
 models: [sonnet, opus]

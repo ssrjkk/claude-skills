@@ -1,6 +1,6 @@
 ---
 name: ionic-basics
-description: Basics for Ionic: fundamentals and core concepts
+description: "Basics for Ionic: fundamentals and core concepts"
 category: mobile
 tags: [ionic-basics, mobile, russian]
 models: [sonnet, opus]

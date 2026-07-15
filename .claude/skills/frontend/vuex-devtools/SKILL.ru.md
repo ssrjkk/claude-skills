@@ -1,6 +1,6 @@
 ---
 name: vuex-devtools
-description: DevTools with Vuex. debugging.
+description: "DevTools with Vuex. debugging."
 category: frontend
 tags: [vuex-devtools, frontend, russian]
 models: [sonnet, opus]

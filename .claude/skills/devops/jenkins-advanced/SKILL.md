@@ -1,6 +1,6 @@
 ---
 name: jenkins-advanced
-description: Advanced for Jenkins: advanced patterns and techniques
+description: "Advanced for Jenkins: advanced patterns and techniques"
 category: devops
 tags: [jenkins, advanced, devops]
 models: [sonnet, opus]

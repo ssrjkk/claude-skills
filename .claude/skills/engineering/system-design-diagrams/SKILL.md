@@ -1,6 +1,6 @@
 ---
 name: system-design-diagrams
-description: Diagrams with System Design. diagramming.
+description: "Diagrams with System Design. diagramming."
 category: engineering
 tags: [system-design, diagrams, engineering, modeling]
 models: [gpt-4, claude-3]

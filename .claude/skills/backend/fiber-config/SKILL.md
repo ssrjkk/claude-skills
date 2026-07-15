@@ -1,6 +1,6 @@
 ---
 name: fiber-config
-description: Config with Fiber. config management.
+description: "Config with Fiber. config management."
 category: backend
 tags: [fiber, config, backend, backend]
 models: [gpt-4, claude-3]

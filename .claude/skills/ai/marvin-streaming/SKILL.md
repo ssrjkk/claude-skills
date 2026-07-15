@@ -1,6 +1,6 @@
 ---
 name: marvin-streaming
-description: Streaming with Marvin. token streaming.
+description: "Streaming with Marvin. token streaming."
 category: ai
 tags: [marvin, streaming, ai, llm]
 models: [gpt-4, claude-3]

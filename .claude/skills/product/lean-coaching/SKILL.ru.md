@@ -1,6 +1,6 @@
 ---
 name: lean-coaching
-description: Coaching with Lean. team coaching.
+description: "Coaching with Lean. team coaching."
 category: product
 tags: [lean-coaching, product, russian]
 models: [sonnet, opus]

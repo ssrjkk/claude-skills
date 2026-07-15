@@ -1,6 +1,6 @@
 ---
 name: arcore-deployment
-description: Deployment with ARCore. deployment.
+description: "Deployment with ARCore. deployment."
 category: ar-vr
 tags: [arcore-deployment, ar-vr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cloudflare-cost
-description: Cost with Cloudflare. cost optimization.
+description: "Cost with Cloudflare. cost optimization."
 category: devops
 tags: [cloudflare-cost, devops, russian]
 models: [sonnet, opus]

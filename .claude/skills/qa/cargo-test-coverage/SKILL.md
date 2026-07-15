@@ -1,6 +1,6 @@
 ---
 name: cargo-test-coverage
-description: Coverage with Cargo Test. code coverage.
+description: "Coverage with Cargo Test. code coverage."
 category: qa
 tags: [cargo-test, coverage, qa, testing]
 models: [gpt-4, claude-3]

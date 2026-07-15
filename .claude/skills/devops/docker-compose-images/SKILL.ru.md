@@ -1,6 +1,6 @@
 ---
 name: docker-compose-images
-description: Images with Docker Compose. building images.
+description: "Images with Docker Compose. building images."
 category: devops
 tags: [docker-compose-images, devops, russian]
 models: [sonnet, opus]

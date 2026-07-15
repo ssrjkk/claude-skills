@@ -1,6 +1,6 @@
 ---
 name: qgis-geocoding
-description: Geocoding with QGIS. geocoding.
+description: "Geocoding with QGIS. geocoding."
 category: geospatial
 tags: [qgis-geocoding, geospatial, russian]
 models: [sonnet, opus]

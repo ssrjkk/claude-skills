@@ -1,6 +1,6 @@
 ---
 name: netlify-security
-description: Security with Netlify. cloud security.
+description: "Security with Netlify. cloud security."
 category: devops
 tags: [netlify-security, devops, russian]
 models: [sonnet, opus]

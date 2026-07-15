@@ -1,6 +1,6 @@
 ---
 name: spec-tools
-description: Tools with Specification Writing. tools.
+description: "Tools with Specification Writing. tools."
 category: product
 tags: [spec, tools, product, product-framework]
 models: [gpt-4, claude-3]

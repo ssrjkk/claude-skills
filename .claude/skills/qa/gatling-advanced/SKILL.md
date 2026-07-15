@@ -1,6 +1,6 @@
 ---
 name: gatling-advanced
-description: Advanced for Gatling: advanced patterns and techniques
+description: "Advanced for Gatling: advanced patterns and techniques"
 category: qa
 tags: [gatling, advanced, qa]
 models: [sonnet, opus]

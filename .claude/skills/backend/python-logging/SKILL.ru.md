@@ -1,6 +1,6 @@
 ---
 name: python-logging
-description: Logging with Python. app logging.
+description: "Logging with Python. app logging."
 category: backend
 tags: [python-logging, backend, russian]
 models: [sonnet, opus]

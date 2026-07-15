@@ -1,6 +1,6 @@
 ---
 name: mongodb-querying
-description: Querying with MongoDB. queries.
+description: "Querying with MongoDB. queries."
 category: database
 tags: [mongodb, querying, database, nosql]
 models: [gpt-4, claude-3]

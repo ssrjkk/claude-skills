@@ -1,6 +1,6 @@
 ---
 name: auth0-guides
-description: Guides for Auth0: how-to guides
+description: "Guides for Auth0: how-to guides"
 category: mobile
 tags: [auth0-guides, mobile, russian]
 models: [sonnet, opus]

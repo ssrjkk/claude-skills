@@ -1,6 +1,6 @@
 ---
 name: tezos-staking
-description: Staking with Tezos. staking.
+description: "Staking with Tezos. staking."
 category: blockchain
 tags: [tezos-staking, blockchain, russian]
 models: [sonnet, opus]

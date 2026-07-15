@@ -1,6 +1,6 @@
 ---
 name: unity-xr-spatial
-description: Spatial with Unity XR. room mapping.
+description: "Spatial with Unity XR. room mapping."
 category: ar-vr
 tags: [unity-xr-spatial, ar-vr, russian]
 models: [sonnet, opus]

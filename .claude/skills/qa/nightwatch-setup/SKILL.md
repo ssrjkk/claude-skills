@@ -1,6 +1,6 @@
 ---
 name: nightwatch-setup
-description: Setup with Nightwatch. installation.
+description: "Setup with Nightwatch. installation."
 category: qa
 tags: [nightwatch, setup, qa, e2e]
 models: [gpt-4, claude-3]

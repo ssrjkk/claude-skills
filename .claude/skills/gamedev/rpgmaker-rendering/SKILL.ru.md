@@ -1,6 +1,6 @@
 ---
 name: rpgmaker-rendering
-description: Rendering with RPG Maker. graphics.
+description: "Rendering with RPG Maker. graphics."
 category: gamedev
 tags: [rpgmaker-rendering, gamedev, russian]
 models: [sonnet, opus]

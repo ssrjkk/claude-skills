@@ -1,6 +1,6 @@
 ---
 name: cohere-setup
-description: Setup for Cohere: installation and configuration
+description: "Setup for Cohere: installation and configuration"
 category: ai
 tags: [cohere-setup, ai, russian]
 models: [sonnet, opus]

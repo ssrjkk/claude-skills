@@ -1,6 +1,6 @@
 ---
 name: ragas-automation
-description: Automation for Ragas: automation and scripting
+description: "Automation for Ragas: automation and scripting"
 category: ai
 tags: [ragas, automation, ai]
 models: [sonnet, opus]

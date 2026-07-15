@@ -1,6 +1,6 @@
 ---
 name: julia-numerical
-description: Numerical with Julia. numerical methods.
+description: "Numerical with Julia. numerical methods."
 category: scientific
 tags: [julia-numerical, scientific, russian]
 models: [sonnet, opus]

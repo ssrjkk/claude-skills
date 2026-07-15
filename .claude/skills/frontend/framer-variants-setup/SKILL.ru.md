@@ -1,6 +1,6 @@
 ---
 name: framer-variants-setup
-description: Setup for Framer-Variants: setup guide
+description: "Setup for Framer-Variants: setup guide"
 category: frontend
 tags: [framer-variants-setup, frontend, russian]
 models: [sonnet, opus]

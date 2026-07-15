@@ -1,6 +1,6 @@
 ---
 name: bigquery-optimization
-description: Optimization for Bigquery: performance tuning and optimization
+description: "Optimization for Bigquery: performance tuning and optimization"
 category: data
 tags: [bigquery, optimization, data]
 models: [sonnet, opus]

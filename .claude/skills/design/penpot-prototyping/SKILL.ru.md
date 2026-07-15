@@ -1,6 +1,6 @@
 ---
 name: penpot-prototyping
-description: Prototyping with Penpot. prototypes.
+description: "Prototyping with Penpot. prototypes."
 category: design
 tags: [penpot-prototyping, design, russian]
 models: [sonnet, opus]

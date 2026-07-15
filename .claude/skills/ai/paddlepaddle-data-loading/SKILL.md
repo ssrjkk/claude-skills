@@ -1,6 +1,6 @@
 ---
 name: paddlepaddle-data-loading
-description: Data Loading with Paddlepaddle. data pipelines.
+description: "Data Loading with Paddlepaddle. data pipelines."
 category: ai
 tags: [paddlepaddle, data-loading, ai, deep-learning]
 models: [gpt-4, claude-3]

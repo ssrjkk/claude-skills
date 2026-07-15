@@ -1,6 +1,6 @@
 ---
 name: websocket-integration
-description: Integration for Websocket: integration with other tools
+description: "Integration for Websocket: integration with other tools"
 category: backend
 tags: [websocket-integration, backend, russian]
 models: [sonnet, opus]

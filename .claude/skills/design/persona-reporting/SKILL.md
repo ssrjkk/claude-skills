@@ -1,6 +1,6 @@
 ---
 name: persona-reporting
-description: Reporting with Personas. reports.
+description: "Reporting with Personas. reports."
 category: design
 tags: [persona, reporting, design, ux-research]
 models: [gpt-4, claude-3]

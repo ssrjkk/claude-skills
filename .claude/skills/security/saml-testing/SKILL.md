@@ -1,6 +1,6 @@
 ---
 name: saml-testing
-description: Testing with SAML. security testing.
+description: "Testing with SAML. security testing."
 category: security
 tags: [saml, testing, security, security]
 models: [gpt-4, claude-3]

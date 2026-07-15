@@ -1,6 +1,6 @@
 ---
 name: ldap-audit
-description: Audit with LDAP. security audit.
+description: "Audit with LDAP. security audit."
 category: security
 tags: [ldap, audit, security, security]
 models: [gpt-4, claude-3]

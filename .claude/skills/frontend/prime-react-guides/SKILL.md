@@ -1,6 +1,6 @@
 ---
 name: prime-react-guides
-description: Guides for Prime-React: how-to guides
+description: "Guides for Prime-React: how-to guides"
 category: frontend
 tags: [prime-react, guides, frontend]
 models: [sonnet, opus]

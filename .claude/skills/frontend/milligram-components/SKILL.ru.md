@@ -1,6 +1,6 @@
 ---
 name: milligram-components
-description: Components with Milligram. UI components.
+description: "Components with Milligram. UI components."
 category: frontend
 tags: [milligram-components, frontend, russian]
 models: [sonnet, opus]

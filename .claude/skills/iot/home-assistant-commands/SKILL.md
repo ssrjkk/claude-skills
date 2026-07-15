@@ -1,6 +1,6 @@
 ---
 name: home-assistant-commands
-description: Commands with Home Assistant. device commands.
+description: "Commands with Home Assistant. device commands."
 category: iot
 tags: [home-assistant, commands, iot, iot-platform]
 models: [gpt-4, claude-3]

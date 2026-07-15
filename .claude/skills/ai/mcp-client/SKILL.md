@@ -1,6 +1,6 @@
 ---
 name: mcp-client
-description: MCP client integration for Claude
+description: "MCP client integration for Claude"
 category: ai
 tags: [mcp, client, integration, claude, protocol]
 models: [sonnet, opus]

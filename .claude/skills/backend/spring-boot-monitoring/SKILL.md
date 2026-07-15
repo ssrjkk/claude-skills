@@ -1,6 +1,6 @@
 ---
 name: spring-boot-monitoring
-description: Monitoring with Spring Boot. metrics.
+description: "Monitoring with Spring Boot. metrics."
 category: backend
 tags: [spring-boot, monitoring, backend, backend]
 models: [gpt-4, claude-3]

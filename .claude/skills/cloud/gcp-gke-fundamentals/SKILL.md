@@ -1,6 +1,6 @@
 ---
 name: gcp-gke-fundamentals
-description: Fundamentals for Gcp-Gke: core concepts
+description: "Fundamentals for Gcp-Gke: core concepts"
 category: cloud
 tags: [gcp-gke, fundamentals, cloud]
 models: [sonnet, opus]

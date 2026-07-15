@@ -1,6 +1,6 @@
 ---
 name: ai-code-review
-description: Automated code review with AI agents
+description: "Automated code review with AI agents"
 category: ai
 tags: [code-review, ai, automation, quality, security]
 models: [sonnet, opus]

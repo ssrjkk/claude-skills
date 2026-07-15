@@ -1,6 +1,6 @@
 ---
 name: ltrace
-description: Development with Ltrace: tools and best practices
+description: "Development with Ltrace: tools and best practices"
 category: security
 tags: [ltrace, security, russian]
 models: [sonnet, opus]

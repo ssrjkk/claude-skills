@@ -1,6 +1,6 @@
 ---
 name: eleventy-ssg
-description: SSG with Eleventy. static generation.
+description: "SSG with Eleventy. static generation."
 category: frontend
 tags: [eleventy-ssg, frontend, russian]
 models: [sonnet, opus]

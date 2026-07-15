@@ -1,6 +1,6 @@
 ---
 name: emotion-troubleshooting
-description: Troubleshooting for Emotion: troubleshooting common issues
+description: "Troubleshooting for Emotion: troubleshooting common issues"
 category: frontend
 tags: [emotion-troubleshooting, frontend, russian]
 models: [sonnet, opus]

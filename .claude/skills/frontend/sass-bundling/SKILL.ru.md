@@ -1,6 +1,6 @@
 ---
 name: sass-bundling
-description: Bundling with Sass. code bundling.
+description: "Bundling with Sass. code bundling."
 category: frontend
 tags: [sass-bundling, frontend, russian]
 models: [sonnet, opus]

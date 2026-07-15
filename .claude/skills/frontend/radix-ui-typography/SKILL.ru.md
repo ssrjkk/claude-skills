@@ -1,6 +1,6 @@
 ---
 name: radix-ui-typography
-description: Typography with Radix UI. text styling.
+description: "Typography with Radix UI. text styling."
 category: frontend
 tags: [radix-ui-typography, frontend, russian]
 models: [sonnet, opus]

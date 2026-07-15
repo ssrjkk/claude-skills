@@ -1,6 +1,6 @@
 ---
 name: wireshark-scanning
-description: Scanning with Wireshark. security scanning.
+description: "Scanning with Wireshark. security scanning."
 category: security
 tags: [wireshark-scanning, security, russian]
 models: [sonnet, opus]

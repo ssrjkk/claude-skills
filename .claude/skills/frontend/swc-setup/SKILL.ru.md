@@ -1,6 +1,6 @@
 ---
 name: swc-setup
-description: Setup with SWC. initial setup.
+description: "Setup with SWC. initial setup."
 category: frontend
 tags: [swc-setup, frontend, russian]
 models: [sonnet, opus]

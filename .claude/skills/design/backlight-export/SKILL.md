@@ -1,6 +1,6 @@
 ---
 name: backlight-export
-description: Export with Backlight. assets.
+description: "Export with Backlight. assets."
 category: design
 tags: [backlight, export, design, design]
 models: [gpt-4, claude-3]

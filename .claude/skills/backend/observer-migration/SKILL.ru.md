@@ -1,6 +1,6 @@
 ---
 name: observer-migration
-description: Migration with Observer. adopting the pattern.
+description: "Migration with Observer. adopting the pattern."
 category: backend
 tags: [observer-migration, backend, russian]
 models: [sonnet, opus]

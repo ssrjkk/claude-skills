@@ -1,6 +1,6 @@
 ---
 name: haystack-rag
-description: RAG with Haystack. building RAG systems.
+description: "RAG with Haystack. building RAG systems."
 category: ai
 tags: [haystack-rag, ai, russian]
 models: [sonnet, opus]

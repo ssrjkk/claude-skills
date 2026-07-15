@@ -1,6 +1,6 @@
 ---
 name: azure-pipelines-secrets
-description: Secrets with Azure Pipelines. secret management.
+description: "Secrets with Azure Pipelines. secret management."
 category: devops
 tags: [azure-pipelines, secrets, devops, ci-cd]
 models: [gpt-4, claude-3]

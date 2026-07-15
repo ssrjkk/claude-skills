@@ -1,6 +1,6 @@
 ---
 name: debian-networking
-description: Networking with Debian. network config.
+description: "Networking with Debian. network config."
 category: os-admin
 tags: [debian, networking, os-admin, linux]
 models: [gpt-4, claude-3]

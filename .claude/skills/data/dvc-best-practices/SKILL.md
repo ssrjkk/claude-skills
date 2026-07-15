@@ -1,6 +1,6 @@
 ---
 name: dvc-best-practices
-description: Best Practices for Dvc: best practices and patterns
+description: "Best Practices for Dvc: best practices and patterns"
 category: data
 tags: [dvc, best-practices, data]
 models: [sonnet, opus]

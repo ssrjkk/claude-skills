@@ -1,6 +1,6 @@
 ---
 name: crossplane-cicd
-description: CI/CD with Crossplane. pipeline integration.
+description: "CI/CD with Crossplane. pipeline integration."
 category: devops
 tags: [crossplane-cicd, devops, russian]
 models: [sonnet, opus]

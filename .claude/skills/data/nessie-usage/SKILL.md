@@ -1,6 +1,6 @@
 ---
 name: nessie-usage
-description: Usage for Nessie: usage reference
+description: "Usage for Nessie: usage reference"
 category: data
 tags: [nessie, usage, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: platformio-commands
-description: Commands with PlatformIO. device commands.
+description: "Commands with PlatformIO. device commands."
 category: iot
 tags: [platformio-commands, iot, russian]
 models: [sonnet, opus]

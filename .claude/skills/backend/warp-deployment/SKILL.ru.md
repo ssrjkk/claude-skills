@@ -1,6 +1,6 @@
 ---
 name: warp-deployment
-description: Deployment with Warp. build.
+description: "Deployment with Warp. build."
 category: backend
 tags: [warp-deployment, backend, russian]
 models: [sonnet, opus]

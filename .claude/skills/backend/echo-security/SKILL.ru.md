@@ -1,6 +1,6 @@
 ---
 name: echo-security
-description: Security for Echo: security best practices
+description: "Security for Echo: security best practices"
 category: backend
 tags: [echo-security, backend, russian]
 models: [sonnet, opus]

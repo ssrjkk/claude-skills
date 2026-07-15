@@ -1,6 +1,6 @@
 ---
 name: influxdb
-description: Collects and queries time-series data with InfluxDB, Flux language, and continuous queries.
+description: "Collects and queries time-series data with InfluxDB, Flux language, and continuous queries."
 category: database
 tags: [influxdb, database, russian]
 models: [sonnet, opus]

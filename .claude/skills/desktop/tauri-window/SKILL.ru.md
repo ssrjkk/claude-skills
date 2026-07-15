@@ -1,6 +1,6 @@
 ---
 name: tauri-window
-description: Window with Tauri. windows.
+description: "Window with Tauri. windows."
 category: desktop
 tags: [tauri-window, desktop, russian]
 models: [sonnet, opus]

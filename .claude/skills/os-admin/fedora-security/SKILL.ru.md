@@ -1,6 +1,6 @@
 ---
 name: fedora-security
-description: Security with Fedora. hardening.
+description: "Security with Fedora. hardening."
 category: os-admin
 tags: [fedora-security, os-admin, russian]
 models: [sonnet, opus]

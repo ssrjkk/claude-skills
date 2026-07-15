@@ -1,6 +1,6 @@
 ---
 name: ehcache-persistence
-description: Persistence with Ehcache. persistence.
+description: "Persistence with Ehcache. persistence."
 category: database
 tags: [ehcache, persistence, database, caching]
 models: [gpt-4, claude-3]

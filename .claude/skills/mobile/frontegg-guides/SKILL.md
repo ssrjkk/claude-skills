@@ -1,6 +1,6 @@
 ---
 name: frontegg-guides
-description: Guides for Frontegg: how-to guides
+description: "Guides for Frontegg: how-to guides"
 category: mobile
 tags: [frontegg, guides, mobile]
 models: [sonnet, opus]

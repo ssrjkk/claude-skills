@@ -1,6 +1,6 @@
 ---
 name: floating-ui-fundamentals
-description: Fundamentals for Floating-Ui: core concepts
+description: "Fundamentals for Floating-Ui: core concepts"
 category: frontend
 tags: [floating-ui-fundamentals, frontend, russian]
 models: [sonnet, opus]

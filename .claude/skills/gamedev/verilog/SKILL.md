@@ -1,6 +1,6 @@
 ---
 name: verilog
-description: Development with Verilog: tools and best practices
+description: "Development with Verilog: tools and best practices"
 category: gamedev
 tags: [verilog, gamedev, development]
 models: [sonnet, opus]

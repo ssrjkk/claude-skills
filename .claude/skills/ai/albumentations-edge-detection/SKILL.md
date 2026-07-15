@@ -1,6 +1,6 @@
 ---
 name: albumentations-edge-detection
-description: Edge Detection with Albumentations. edge detection.
+description: "Edge Detection with Albumentations. edge detection."
 category: ai
 tags: [albumentations, edge-detection, ai, computer-vision]
 models: [gpt-4, claude-3]

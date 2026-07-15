@@ -1,6 +1,6 @@
 ---
 name: centos-networking
-description: Networking with CentOS. network config.
+description: "Networking with CentOS. network config."
 category: os-admin
 tags: [centos, networking, os-admin, linux]
 models: [gpt-4, claude-3]

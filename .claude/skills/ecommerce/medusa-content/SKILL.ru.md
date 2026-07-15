@@ -1,6 +1,6 @@
 ---
 name: medusa-content
-description: Content with Medusa. content management.
+description: "Content with Medusa. content management."
 category: ecommerce
 tags: [medusa-content, ecommerce, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: kepler-setup
-description: Setup with Kepler.gl. setup.
+description: "Setup with Kepler.gl. setup."
 category: geospatial
 tags: [kepler, setup, geospatial, gis]
 models: [gpt-4, claude-3]

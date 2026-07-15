@@ -1,6 +1,6 @@
 ---
 name: elixir-dependency-injection
-description: DI with Elixir. DI containers.
+description: "DI with Elixir. DI containers."
 category: backend
 tags: [elixir, dependency-injection, backend, backend]
 models: [gpt-4, claude-3]

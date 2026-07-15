@@ -1,6 +1,6 @@
 ---
 name: cargo-test-unit-tests
-description: Unit Tests with Cargo Test. unit testing.
+description: "Unit Tests with Cargo Test. unit testing."
 category: qa
 tags: [cargo-test, unit-tests, qa, testing]
 models: [gpt-4, claude-3]

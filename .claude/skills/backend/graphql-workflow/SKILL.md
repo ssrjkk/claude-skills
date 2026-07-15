@@ -1,6 +1,6 @@
 ---
 name: graphql-workflow
-description: Workflow for Graphql: workflow optimization
+description: "Workflow for Graphql: workflow optimization"
 category: backend
 tags: [graphql, workflow, backend]
 models: [sonnet, opus]

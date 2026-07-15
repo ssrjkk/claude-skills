@@ -1,6 +1,6 @@
 ---
 name: tiled-production
-description: Production for Tiled: production deployment
+description: "Production for Tiled: production deployment"
 category: gamedev
 tags: [tiled-production, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: vllm-agents
-description: Agents with Vllm. building agents.
+description: "Agents with Vllm. building agents."
 category: ai
 tags: [vllm-agents, ai, russian]
 models: [sonnet, opus]

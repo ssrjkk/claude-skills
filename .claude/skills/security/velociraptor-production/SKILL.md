@@ -1,6 +1,6 @@
 ---
 name: velociraptor-production
-description: Production for Velociraptor: production deployment
+description: "Production for Velociraptor: production deployment"
 category: security
 tags: [velociraptor, production, security]
 models: [sonnet, opus]

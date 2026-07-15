@@ -1,6 +1,6 @@
 ---
 name: fasttext-summarization
-description: Summarization with Fasttext. text summarization.
+description: "Summarization with Fasttext. text summarization."
 category: ai
 tags: [fasttext, summarization, ai, nlp]
 models: [gpt-4, claude-3]

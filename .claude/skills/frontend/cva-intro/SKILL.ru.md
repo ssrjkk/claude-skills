@@ -1,6 +1,6 @@
 ---
 name: cva-intro
-description: Intro for Cva: introduction
+description: "Intro for Cva: introduction"
 category: frontend
 tags: [cva-intro, frontend, russian]
 models: [sonnet, opus]

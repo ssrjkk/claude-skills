@@ -1,6 +1,6 @@
 ---
 name: dns-automation
-description: Automation with DNS. network automation.
+description: "Automation with DNS. network automation."
 category: networking
 tags: [dns-automation, networking, russian]
 models: [sonnet, opus]

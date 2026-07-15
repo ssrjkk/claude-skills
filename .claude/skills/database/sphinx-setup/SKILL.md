@@ -1,6 +1,6 @@
 ---
 name: sphinx-setup
-description: Setup with Sphinx. installation.
+description: "Setup with Sphinx. installation."
 category: database
 tags: [sphinx, setup, database, search-engine]
 models: [gpt-4, claude-3]

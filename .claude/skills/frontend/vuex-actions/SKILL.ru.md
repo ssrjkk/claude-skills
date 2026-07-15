@@ -1,6 +1,6 @@
 ---
 name: vuex-actions
-description: Actions with Vuex. actions.
+description: "Actions with Vuex. actions."
 category: frontend
 tags: [vuex-actions, frontend, russian]
 models: [sonnet, opus]

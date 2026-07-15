@@ -1,6 +1,6 @@
 ---
 name: node-red-integration
-description: Integration with Node-RED. integrations.
+description: "Integration with Node-RED. integrations."
 category: iot
 tags: [node-red-integration, iot, russian]
 models: [sonnet, opus]

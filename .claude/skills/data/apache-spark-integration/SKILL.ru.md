@@ -1,6 +1,6 @@
 ---
 name: apache-spark-integration
-description: Integration with Apache Spark. connectors.
+description: "Integration with Apache Spark. connectors."
 category: data
 tags: [apache-spark-integration, data, russian]
 models: [sonnet, opus]

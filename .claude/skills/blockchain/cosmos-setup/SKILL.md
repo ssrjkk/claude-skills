@@ -1,6 +1,6 @@
 ---
 name: cosmos-setup
-description: Setup with Cosmos. node setup.
+description: "Setup with Cosmos. node setup."
 category: blockchain
 tags: [cosmos, setup, blockchain, blockchain]
 models: [gpt-4, claude-3]

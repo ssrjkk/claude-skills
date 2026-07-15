@@ -1,6 +1,6 @@
 ---
 name: dnp3-security
-description: Security with DNP3. security.
+description: "Security with DNP3. security."
 category: energy
 tags: [dnp3, security, energy, smart-grid]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: dagger-setup
-description: Setup with Dagger. pipeline setup.
+description: "Setup with Dagger. pipeline setup."
 category: devops
 tags: [dagger, setup, devops, ci-cd]
 models: [gpt-4, claude-3]

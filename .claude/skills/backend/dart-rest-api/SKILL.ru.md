@@ -1,6 +1,6 @@
 ---
 name: dart-rest-api
-description: REST API with Dart. building REST APIs.
+description: "REST API with Dart. building REST APIs."
 category: backend
 tags: [dart-rest-api, backend, russian]
 models: [sonnet, opus]

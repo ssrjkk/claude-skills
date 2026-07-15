@@ -1,6 +1,6 @@
 ---
 name: zephyr-setup
-description: Setup with Zephyr. setup.
+description: "Setup with Zephyr. setup."
 category: embedded
 tags: [zephyr-setup, embedded, russian]
 models: [sonnet, opus]

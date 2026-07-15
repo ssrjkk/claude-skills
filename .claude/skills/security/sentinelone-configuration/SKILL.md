@@ -1,6 +1,6 @@
 ---
 name: sentinelone-configuration
-description: Configuration for Sentinelone: configuration and setup
+description: "Configuration for Sentinelone: configuration and setup"
 category: security
 tags: [sentinelone, configuration, security]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: clickhouse-setup
-description: Setup with ClickHouse. installation.
+description: "Setup with ClickHouse. installation."
 category: database
 tags: [clickhouse, setup, database, time-series]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: xamarin
-description: Builds native mobile apps with Xamarin and .NET MAUI, sharing C# code across iOS, Android, and Windows.
+description: "Builds native mobile apps with Xamarin and .NET MAUI, sharing C# code across iOS, Android, and Windows."
 category: mobile
 tags: [xamarin, dotnet, mobile, csharp, maui]
 models: [sonnet, opus]

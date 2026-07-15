@@ -1,6 +1,6 @@
 ---
 name: kpi-implementation
-description: Implementation with KPIs. execution.
+description: "Implementation with KPIs. execution."
 category: product
 tags: [kpi, implementation, product, product-framework]
 models: [gpt-4, claude-3]

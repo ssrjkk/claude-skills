@@ -1,6 +1,6 @@
 ---
 name: mapbox-tiles
-description: Tiles with Mapbox. tile serving.
+description: "Tiles with Mapbox. tile serving."
 category: geospatial
 tags: [mapbox-tiles, geospatial, russian]
 models: [sonnet, opus]

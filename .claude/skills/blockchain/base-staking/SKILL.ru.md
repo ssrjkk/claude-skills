@@ -1,6 +1,6 @@
 ---
 name: base-staking
-description: Staking with Base. staking.
+description: "Staking with Base. staking."
 category: blockchain
 tags: [base-staking, blockchain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: redis-configuration
-description: Configuration for Redis: configuration and setup
+description: "Configuration for Redis: configuration and setup"
 category: backend
 tags: [redis, configuration, backend]
 models: [sonnet, opus]

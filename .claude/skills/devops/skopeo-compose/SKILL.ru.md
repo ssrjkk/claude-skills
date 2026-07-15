@@ -1,6 +1,6 @@
 ---
 name: skopeo-compose
-description: Compose with Skopeo. multi-container.
+description: "Compose with Skopeo. multi-container."
 category: devops
 tags: [skopeo-compose, devops, russian]
 models: [sonnet, opus]

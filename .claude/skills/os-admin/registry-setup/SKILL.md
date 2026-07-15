@@ -1,6 +1,6 @@
 ---
 name: registry-setup
-description: Setup with Windows Registry. installation.
+description: "Setup with Windows Registry. installation."
 category: os-admin
 tags: [registry, setup, os-admin, windows]
 models: [gpt-4, claude-3]

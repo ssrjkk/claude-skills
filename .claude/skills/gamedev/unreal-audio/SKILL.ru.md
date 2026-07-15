@@ -1,6 +1,6 @@
 ---
 name: unreal-audio
-description: Audio with Unreal Engine. audio.
+description: "Audio with Unreal Engine. audio."
 category: gamedev
 tags: [unreal-audio, gamedev, russian]
 models: [sonnet, opus]

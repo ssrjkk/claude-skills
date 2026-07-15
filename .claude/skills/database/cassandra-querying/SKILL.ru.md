@@ -1,6 +1,6 @@
 ---
 name: cassandra-querying
-description: Querying with Cassandra. queries.
+description: "Querying with Cassandra. queries."
 category: database
 tags: [cassandra-querying, database, russian]
 models: [sonnet, opus]

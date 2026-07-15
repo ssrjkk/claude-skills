@@ -1,6 +1,6 @@
 ---
 name: axum-setup
-description: Setup for Axum: installation and configuration
+description: "Setup for Axum: installation and configuration"
 category: backend
 tags: [axum-setup, backend, russian]
 models: [sonnet, opus]

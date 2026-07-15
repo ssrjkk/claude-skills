@@ -1,6 +1,6 @@
 ---
 name: foundation-typography
-description: Typography with Foundation. text styling.
+description: "Typography with Foundation. text styling."
 category: frontend
 tags: [foundation-typography, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: appium-setup
-description: Setup with Appium. installation.
+description: "Setup with Appium. installation."
 category: qa
 tags: [appium, setup, qa, e2e]
 models: [gpt-4, claude-3]

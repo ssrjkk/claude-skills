@@ -1,6 +1,6 @@
 ---
 name: home-assistant-devices
-description: Devices with Home Assistant. device management.
+description: "Devices with Home Assistant. device management."
 category: iot
 tags: [home-assistant, devices, iot, iot-platform]
 models: [gpt-4, claude-3]

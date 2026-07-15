@@ -1,6 +1,6 @@
 ---
 name: guidance-prompting
-description: Prompt Engineering with Guidance. prompt templates.
+description: "Prompt Engineering with Guidance. prompt templates."
 category: ai
 tags: [guidance, prompting, ai, llm]
 models: [gpt-4, claude-3]

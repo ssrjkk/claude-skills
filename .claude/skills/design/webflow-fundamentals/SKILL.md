@@ -1,6 +1,6 @@
 ---
 name: webflow-fundamentals
-description: Fundamentals for Webflow: core concepts
+description: "Fundamentals for Webflow: core concepts"
 category: design
 tags: [webflow, fundamentals, design]
 models: [sonnet, opus]

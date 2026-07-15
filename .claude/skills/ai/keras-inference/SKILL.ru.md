@@ -1,6 +1,6 @@
 ---
 name: keras-inference
-description: Inference with Keras. running models.
+description: "Inference with Keras. running models."
 category: ai
 tags: [keras-inference, ai, russian]
 models: [sonnet, opus]

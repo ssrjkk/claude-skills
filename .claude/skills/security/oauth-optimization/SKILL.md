@@ -1,6 +1,6 @@
 ---
 name: oauth-optimization
-description: Optimization for Oauth: performance tuning and optimization
+description: "Optimization for Oauth: performance tuning and optimization"
 category: security
 tags: [oauth, optimization, security]
 models: [sonnet, opus]

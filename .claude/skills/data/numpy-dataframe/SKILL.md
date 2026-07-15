@@ -1,6 +1,6 @@
 ---
 name: numpy-dataframe
-description: DataFrame with NumPy. data manipulation.
+description: "DataFrame with NumPy. data manipulation."
 category: data
 tags: [numpy, dataframe, data, data-science]
 models: [gpt-4, claude-3]

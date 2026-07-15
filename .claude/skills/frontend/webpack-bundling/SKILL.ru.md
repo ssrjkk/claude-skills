@@ -1,6 +1,6 @@
 ---
 name: webpack-bundling
-description: Bundling with Webpack. code bundling.
+description: "Bundling with Webpack. code bundling."
 category: frontend
 tags: [webpack-bundling, frontend, russian]
 models: [sonnet, opus]

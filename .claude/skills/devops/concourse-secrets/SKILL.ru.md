@@ -1,6 +1,6 @@
 ---
 name: concourse-secrets
-description: Secrets with Concourse. secret management.
+description: "Secrets with Concourse. secret management."
 category: devops
 tags: [concourse-secrets, devops, russian]
 models: [sonnet, opus]

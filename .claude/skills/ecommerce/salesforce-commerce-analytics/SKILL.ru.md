@@ -1,6 +1,6 @@
 ---
 name: salesforce-commerce-analytics
-description: Analytics with Salesforce Commerce. analytics.
+description: "Analytics with Salesforce Commerce. analytics."
 category: ecommerce
 tags: [salesforce-commerce-analytics, ecommerce, russian]
 models: [sonnet, opus]

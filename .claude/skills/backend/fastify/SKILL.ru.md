@@ -1,6 +1,6 @@
 ---
 name: fastify
-description: Builds fast and low-overhead Node.js web APIs with Fastify, schema validation, and plugins. Use for high-performance Node.js backends.
+description: "Builds fast and low-overhead Node.js web APIs with Fastify, schema validation, and plugins. Use for high-performance Node.js backends."
 category: backend
 tags: [fastify, backend, russian]
 models: [sonnet, opus]

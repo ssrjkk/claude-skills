@@ -1,6 +1,6 @@
 ---
 name: puzzle-design-player-feedback
-description: Feedback with Puzzle Design. player feedback.
+description: "Feedback with Puzzle Design. player feedback."
 category: gamedev
 tags: [puzzle-design-player-feedback, gamedev, russian]
 models: [sonnet, opus]

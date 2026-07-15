@@ -1,6 +1,6 @@
 ---
 name: revenuecat-integration
-description: Integration for Revenuecat: integration with other tools
+description: "Integration for Revenuecat: integration with other tools"
 category: mobile
 tags: [revenuecat, integration, mobile]
 models: [sonnet, opus]

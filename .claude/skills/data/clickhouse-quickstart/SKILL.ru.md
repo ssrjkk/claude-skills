@@ -1,6 +1,6 @@
 ---
 name: clickhouse-quickstart
-description: Quickstart for Clickhouse: quick start guide
+description: "Quickstart for Clickhouse: quick start guide"
 category: data
 tags: [clickhouse-quickstart, data, russian]
 models: [sonnet, opus]

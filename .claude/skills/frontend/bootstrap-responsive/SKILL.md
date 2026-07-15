@@ -1,6 +1,6 @@
 ---
 name: bootstrap-responsive
-description: Responsive with Bootstrap. mobile-first.
+description: "Responsive with Bootstrap. mobile-first."
 category: frontend
 tags: [bootstrap, responsive, frontend, css]
 models: [gpt-4, claude-3]

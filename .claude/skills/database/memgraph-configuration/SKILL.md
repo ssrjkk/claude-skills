@@ -1,6 +1,6 @@
 ---
 name: memgraph-configuration
-description: Configuration for Memgraph: configuration and setup
+description: "Configuration for Memgraph: configuration and setup"
 category: database
 tags: [memgraph, configuration, database]
 models: [sonnet, opus]

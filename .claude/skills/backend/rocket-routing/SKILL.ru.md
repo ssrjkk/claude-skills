@@ -1,6 +1,6 @@
 ---
 name: rocket-routing
-description: Routing with Rocket. HTTP routing.
+description: "Routing with Rocket. HTTP routing."
 category: backend
 tags: [rocket-routing, backend, russian]
 models: [sonnet, opus]

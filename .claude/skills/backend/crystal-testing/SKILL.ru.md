@@ -1,6 +1,6 @@
 ---
 name: crystal-testing
-description: Testing with Crystal. writing tests.
+description: "Testing with Crystal. writing tests."
 category: backend
 tags: [crystal-testing, backend, russian]
 models: [sonnet, opus]

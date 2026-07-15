@@ -1,6 +1,6 @@
 ---
 name: graph-ai-intro
-description: Intro for Graph-Ai: introduction
+description: "Intro for Graph-Ai: introduction"
 category: ai
 tags: [graph-ai, intro, ai]
 models: [sonnet, opus]

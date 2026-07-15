@@ -1,6 +1,6 @@
 ---
 name: nrf52-setup
-description: Setup with nRF52. board setup.
+description: "Setup with nRF52. board setup."
 category: iot
 tags: [nrf52-setup, iot, russian]
 models: [sonnet, opus]

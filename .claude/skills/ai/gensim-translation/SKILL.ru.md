@@ -1,6 +1,6 @@
 ---
 name: gensim-translation
-description: Translation with Gensim. machine translation.
+description: "Translation with Gensim. machine translation."
 category: ai
 tags: [gensim-translation, ai, russian]
 models: [sonnet, opus]

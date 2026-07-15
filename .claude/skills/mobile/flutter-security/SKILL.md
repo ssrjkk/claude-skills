@@ -1,6 +1,6 @@
 ---
 name: flutter-security
-description: Security for Flutter: security best practices
+description: "Security for Flutter: security best practices"
 category: mobile
 tags: [flutter, security, mobile]
 models: [sonnet, opus]

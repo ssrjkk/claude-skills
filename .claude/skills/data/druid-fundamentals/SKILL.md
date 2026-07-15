@@ -1,6 +1,6 @@
 ---
 name: druid-fundamentals
-description: Fundamentals for Druid: core concepts
+description: "Fundamentals for Druid: core concepts"
 category: data
 tags: [druid, fundamentals, data]
 models: [sonnet, opus]

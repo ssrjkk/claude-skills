@@ -1,6 +1,6 @@
 ---
 name: tcpdump-configuration
-description: Config with tcpdump. advanced config.
+description: "Config with tcpdump. advanced config."
 category: networking
 tags: [tcpdump, configuration, networking, networking-tool]
 models: [gpt-4, claude-3]

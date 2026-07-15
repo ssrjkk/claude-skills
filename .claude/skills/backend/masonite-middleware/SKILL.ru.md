@@ -1,6 +1,6 @@
 ---
 name: masonite-middleware
-description: Middleware with Masonite. middleware pipelines.
+description: "Middleware with Masonite. middleware pipelines."
 category: backend
 tags: [masonite-middleware, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ragas-best-practices
-description: Best Practices for Ragas: best practices and patterns
+description: "Best Practices for Ragas: best practices and patterns"
 category: ai
 tags: [ragas, best-practices, ai]
 models: [sonnet, opus]

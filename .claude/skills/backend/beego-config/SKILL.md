@@ -1,6 +1,6 @@
 ---
 name: beego-config
-description: Config with Beego. config management.
+description: "Config with Beego. config management."
 category: backend
 tags: [beego, config, backend, backend]
 models: [gpt-4, claude-3]

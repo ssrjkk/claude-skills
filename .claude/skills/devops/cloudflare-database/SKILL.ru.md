@@ -1,6 +1,6 @@
 ---
 name: cloudflare-database
-description: Database with Cloudflare. managed databases.
+description: "Database with Cloudflare. managed databases."
 category: devops
 tags: [cloudflare-database, devops, russian]
 models: [sonnet, opus]

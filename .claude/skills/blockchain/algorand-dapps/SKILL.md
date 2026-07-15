@@ -1,6 +1,6 @@
 ---
 name: algorand-dapps
-description: DApps with Algorand. decentralized apps.
+description: "DApps with Algorand. decentralized apps."
 category: blockchain
 tags: [algorand, dapps, blockchain, blockchain]
 models: [gpt-4, claude-3]

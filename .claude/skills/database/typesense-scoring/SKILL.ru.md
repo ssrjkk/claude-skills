@@ -1,6 +1,6 @@
 ---
 name: typesense-scoring
-description: Scoring with Typesense. relevance scoring.
+description: "Scoring with Typesense. relevance scoring."
 category: database
 tags: [typesense-scoring, database, russian]
 models: [sonnet, opus]

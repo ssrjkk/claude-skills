@@ -1,6 +1,6 @@
 ---
 name: fastify-testing
-description: Testing with Fastify. Jest.
+description: "Testing with Fastify. Jest."
 category: backend
 tags: [fastify, testing, backend, backend]
 models: [gpt-4, claude-3]

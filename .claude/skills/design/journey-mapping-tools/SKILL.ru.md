@@ -1,6 +1,6 @@
 ---
 name: journey-mapping-tools
-description: Tools with Journey Mapping. tools.
+description: "Tools with Journey Mapping. tools."
 category: design
 tags: [journey-mapping-tools, design, russian]
 models: [sonnet, opus]

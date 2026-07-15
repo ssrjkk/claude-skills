@@ -1,6 +1,6 @@
 ---
 name: steamvr-rendering
-description: Rendering with SteamVR. stereoscopic.
+description: "Rendering with SteamVR. stereoscopic."
 category: ar-vr
 tags: [steamvr, rendering, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

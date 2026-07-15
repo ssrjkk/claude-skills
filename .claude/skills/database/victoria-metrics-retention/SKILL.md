@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-retention
-description: Retention with VictoriaMetrics. data retention.
+description: "Retention with VictoriaMetrics. data retention."
 category: database
 tags: [victoria-metrics, retention, database, time-series]
 models: [gpt-4, claude-3]

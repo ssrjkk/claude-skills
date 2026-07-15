@@ -1,6 +1,6 @@
 ---
 name: graphql-automation
-description: Automation for Graphql: automation and scripting
+description: "Automation for Graphql: automation and scripting"
 category: backend
 tags: [graphql-automation, backend, russian]
 models: [sonnet, opus]

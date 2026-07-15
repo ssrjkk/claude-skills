@@ -1,6 +1,6 @@
 ---
 name: solr-mapping
-description: Mapping with Solr. field mapping.
+description: "Mapping with Solr. field mapping."
 category: database
 tags: [solr, mapping, database, search-engine]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: vlan-configuration
-description: Config with VLAN. setup.
+description: "Config with VLAN. setup."
 category: networking
 tags: [vlan-configuration, networking, russian]
 models: [sonnet, opus]

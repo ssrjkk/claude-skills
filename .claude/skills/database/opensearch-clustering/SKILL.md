@@ -1,6 +1,6 @@
 ---
 name: opensearch-clustering
-description: Clustering with OpenSearch. cluster setup.
+description: "Clustering with OpenSearch. cluster setup."
 category: database
 tags: [opensearch, clustering, database, search-engine]
 models: [gpt-4, claude-3]

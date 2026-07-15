@@ -1,6 +1,6 @@
 ---
 name: graphql-production
-description: Production for Graphql: production deployment
+description: "Production for Graphql: production deployment"
 category: backend
 tags: [graphql-production, backend, russian]
 models: [sonnet, opus]

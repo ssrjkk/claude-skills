@@ -1,6 +1,6 @@
 ---
 name: mistral-testing
-description: Testing for Mistral: testing and validation
+description: "Testing for Mistral: testing and validation"
 category: ai
 tags: [mistral-testing, ai, russian]
 models: [sonnet, opus]

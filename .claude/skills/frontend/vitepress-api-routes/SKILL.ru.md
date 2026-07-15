@@ -1,6 +1,6 @@
 ---
 name: vitepress-api-routes
-description: API Routes with VitePress. API endpoints.
+description: "API Routes with VitePress. API endpoints."
 category: frontend
 tags: [vitepress-api-routes, frontend, russian]
 models: [sonnet, opus]

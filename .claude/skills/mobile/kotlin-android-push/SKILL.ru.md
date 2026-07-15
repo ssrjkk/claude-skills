@@ -1,6 +1,6 @@
 ---
 name: kotlin-android-push
-description: Push with Kotlin Android. push notifications.
+description: "Push with Kotlin Android. push notifications."
 category: mobile
 tags: [kotlin-android-push, mobile, russian]
 models: [sonnet, opus]

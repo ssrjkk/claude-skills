@@ -1,6 +1,6 @@
 ---
 name: sanic-testing
-description: Testing with Sanic. integration tests.
+description: "Testing with Sanic. integration tests."
 category: backend
 tags: [sanic, testing, backend, backend]
 models: [gpt-4, claude-3]

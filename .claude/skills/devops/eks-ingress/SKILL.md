@@ -1,6 +1,6 @@
 ---
 name: eks-ingress
-description: Ingress with Amazon EKS. ingress controller.
+description: "Ingress with Amazon EKS. ingress controller."
 category: devops
 tags: [eks, ingress, devops, kubernetes]
 models: [gpt-4, claude-3]

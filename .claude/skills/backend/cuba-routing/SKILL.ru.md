@@ -1,6 +1,6 @@
 ---
 name: cuba-routing
-description: Routing with Cuba. HTTP routing.
+description: "Routing with Cuba. HTTP routing."
 category: backend
 tags: [cuba-routing, backend, russian]
 models: [sonnet, opus]

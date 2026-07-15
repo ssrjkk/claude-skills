@@ -1,6 +1,6 @@
 ---
 name: tvm-guides
-description: Guides for Tvm: how-to guides
+description: "Guides for Tvm: how-to guides"
 category: ai
 tags: [tvm, guides, ai]
 models: [sonnet, opus]

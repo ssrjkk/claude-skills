@@ -1,6 +1,6 @@
 ---
 name: greenhouse-employees
-description: Employees with Greenhouse. employee mgmt.
+description: "Employees with Greenhouse. employee mgmt."
 category: hr
 tags: [greenhouse, employees, hr, hr-tech]
 models: [gpt-4, claude-3]

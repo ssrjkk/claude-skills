@@ -1,6 +1,6 @@
 ---
 name: vultr-compute
-description: Compute with Vultr. VM/compute.
+description: "Compute with Vultr. VM/compute."
 category: devops
 tags: [vultr, compute, devops, cloud]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: cloudformation-setup
-description: Setup with CloudFormation. installation.
+description: "Setup with CloudFormation. installation."
 category: devops
 tags: [cloudformation-setup, devops, russian]
 models: [sonnet, opus]

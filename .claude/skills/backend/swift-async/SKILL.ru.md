@@ -1,6 +1,6 @@
 ---
 name: swift-async
-description: Async with Swift. async operations.
+description: "Async with Swift. async operations."
 category: backend
 tags: [swift-async, backend, russian]
 models: [sonnet, opus]

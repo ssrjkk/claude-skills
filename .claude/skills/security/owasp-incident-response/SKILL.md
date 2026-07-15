@@ -1,6 +1,6 @@
 ---
 name: owasp-incident-response
-description: Incident Response with OWASP. incident response.
+description: "Incident Response with OWASP. incident response."
 category: security
 tags: [owasp, incident-response, security, security]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: swiftui-mac-setup
-description: Setup with SwiftUI Mac. SDK setup.
+description: "Setup with SwiftUI Mac. SDK setup."
 category: desktop
 tags: [swiftui-mac-setup, desktop, russian]
 models: [sonnet, opus]

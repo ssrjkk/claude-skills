@@ -1,6 +1,6 @@
 ---
 name: carbon-accounting-measurement
-description: Measurement with Carbon Accounting. measurement.
+description: "Measurement with Carbon Accounting. measurement."
 category: sustainability
 tags: [carbon-accounting, measurement, sustainability, sustainability]
 models: [gpt-4, claude-3]

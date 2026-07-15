@@ -1,6 +1,6 @@
 ---
 name: podman-security
-description: Security with Podman. container security.
+description: "Security with Podman. container security."
 category: devops
 tags: [podman-security, devops, russian]
 models: [sonnet, opus]

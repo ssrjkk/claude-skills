@@ -1,6 +1,6 @@
 ---
 name: streamlit-data
-description: Data with Streamlit. data binding.
+description: "Data with Streamlit. data binding."
 category: data
 tags: [streamlit, data, data, data-apps]
 models: [gpt-4, claude-3]

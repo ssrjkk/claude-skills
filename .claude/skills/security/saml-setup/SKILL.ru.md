@@ -1,6 +1,6 @@
 ---
 name: saml-setup
-description: Setup for Saml: installation and configuration
+description: "Setup for Saml: installation and configuration"
 category: security
 tags: [saml-setup, security, russian]
 models: [sonnet, opus]

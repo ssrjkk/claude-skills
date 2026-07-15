@@ -1,6 +1,6 @@
 ---
 name: stack-auth-examples
-description: Examples for Stack-Auth: practical examples
+description: "Examples for Stack-Auth: practical examples"
 category: mobile
 tags: [stack-auth, examples, mobile]
 models: [sonnet, opus]

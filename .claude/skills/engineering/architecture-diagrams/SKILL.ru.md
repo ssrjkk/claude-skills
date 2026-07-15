@@ -1,6 +1,6 @@
 ---
 name: architecture-diagrams
-description: Diagrams with Software Architecture. diagramming.
+description: "Diagrams with Software Architecture. diagramming."
 category: engineering
 tags: [architecture-diagrams, engineering, russian]
 models: [sonnet, opus]

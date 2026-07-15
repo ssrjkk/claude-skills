@@ -1,6 +1,6 @@
 ---
 name: firebase-fcm-production
-description: Production for Firebase-Fcm: production deployment
+description: "Production for Firebase-Fcm: production deployment"
 category: mobile
 tags: [firebase-fcm-production, mobile, russian]
 models: [sonnet, opus]

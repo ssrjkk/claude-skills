@@ -1,6 +1,6 @@
 ---
 name: substance-integration
-description: Integration for Substance: integration with other tools
+description: "Integration for Substance: integration with other tools"
 category: gamedev
 tags: [substance-integration, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: bevy-setup
-description: Setup with Bevy. engine setup.
+description: "Setup with Bevy. engine setup."
 category: gamedev
 tags: [bevy, setup, gamedev, game-engine]
 models: [gpt-4, claude-3]

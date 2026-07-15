@@ -1,6 +1,6 @@
 ---
 name: vercel-monitoring
-description: Monitoring with Vercel. monitoring.
+description: "Monitoring with Vercel. monitoring."
 category: devops
 tags: [vercel, monitoring, devops, cloud]
 models: [gpt-4, claude-3]

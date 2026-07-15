@@ -1,6 +1,6 @@
 ---
 name: infor-integration
-description: Integration with Infor SCM. integration.
+description: "Integration with Infor SCM. integration."
 category: supply-chain
 tags: [infor-integration, supply-chain, russian]
 models: [sonnet, opus]

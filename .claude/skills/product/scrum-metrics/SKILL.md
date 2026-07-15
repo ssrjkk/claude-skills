@@ -1,6 +1,6 @@
 ---
 name: scrum-metrics
-description: Metrics with Scrum. measurement.
+description: "Metrics with Scrum. measurement."
 category: product
 tags: [scrum, metrics, product, methodology]
 models: [gpt-4, claude-3]

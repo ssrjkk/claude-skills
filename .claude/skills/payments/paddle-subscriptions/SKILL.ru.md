@@ -1,6 +1,6 @@
 ---
 name: paddle-subscriptions
-description: Subscriptions with Paddle. recurring.
+description: "Subscriptions with Paddle. recurring."
 category: payments
 tags: [paddle-subscriptions, payments, russian]
 models: [sonnet, opus]

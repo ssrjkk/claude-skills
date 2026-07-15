@@ -1,6 +1,6 @@
 ---
 name: influxdb-monitoring
-description: Monitoring with InfluxDB. monitoring.
+description: "Monitoring with InfluxDB. monitoring."
 category: database
 tags: [influxdb-monitoring, database, russian]
 models: [sonnet, opus]

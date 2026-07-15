@@ -1,6 +1,6 @@
 ---
 name: skill-0016
-description: Specialized skill #0016 for blockchain development
+description: "Specialized skill #0016 for blockchain development"
 category: blockchain
 tags: [blockchain, skill, 0016]
 models: [sonnet, opus]

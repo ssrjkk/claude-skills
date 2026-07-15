@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-monitoring
-description: Monitoring with VictoriaMetrics. monitoring.
+description: "Monitoring with VictoriaMetrics. monitoring."
 category: database
 tags: [victoria-metrics-monitoring, database, russian]
 models: [sonnet, opus]

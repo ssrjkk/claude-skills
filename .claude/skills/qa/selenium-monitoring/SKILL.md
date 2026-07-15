@@ -1,6 +1,6 @@
 ---
 name: selenium-monitoring
-description: Monitoring for Selenium: monitoring and observability
+description: "Monitoring for Selenium: monitoring and observability"
 category: qa
 tags: [selenium, monitoring, qa]
 models: [sonnet, opus]

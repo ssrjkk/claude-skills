@@ -1,6 +1,6 @@
 ---
 name: godot-monitoring
-description: Monitoring for Godot: monitoring and observability
+description: "Monitoring for Godot: monitoring and observability"
 category: gamedev
 tags: [godot, monitoring, gamedev]
 models: [sonnet, opus]

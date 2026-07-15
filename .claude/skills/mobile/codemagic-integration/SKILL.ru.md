@@ -1,6 +1,6 @@
 ---
 name: codemagic-integration
-description: Integration for Codemagic: integration with other tools
+description: "Integration for Codemagic: integration with other tools"
 category: mobile
 tags: [codemagic-integration, mobile, russian]
 models: [sonnet, opus]

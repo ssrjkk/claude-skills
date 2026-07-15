@@ -1,6 +1,6 @@
 ---
 name: sphinx-monitoring
-description: Monitoring with Sphinx. cluster monitoring.
+description: "Monitoring with Sphinx. cluster monitoring."
 category: database
 tags: [sphinx-monitoring, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: styled-components-production
-description: Production for Styled-Components: production deployment
+description: "Production for Styled-Components: production deployment"
 category: frontend
 tags: [styled-components-production, frontend, russian]
 models: [sonnet, opus]

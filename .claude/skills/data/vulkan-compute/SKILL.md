@@ -1,6 +1,6 @@
 ---
 name: vulkan-compute
-description: Development with Vulkan-Compute: tools and best practices
+description: "Development with Vulkan-Compute: tools and best practices"
 category: data
 tags: [vulkan-compute, data, development]
 models: [sonnet, opus]

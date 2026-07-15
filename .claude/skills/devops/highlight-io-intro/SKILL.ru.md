@@ -1,6 +1,6 @@
 ---
 name: highlight-io-intro
-description: Intro for Highlight-Io: introduction
+description: "Intro for Highlight-Io: introduction"
 category: devops
 tags: [highlight-io-intro, devops, russian]
 models: [sonnet, opus]

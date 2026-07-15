@@ -1,6 +1,6 @@
 ---
 name: turso-troubleshooting
-description: Troubleshooting for Turso: troubleshooting common issues
+description: "Troubleshooting for Turso: troubleshooting common issues"
 category: database
 tags: [turso, troubleshooting, database]
 models: [sonnet, opus]

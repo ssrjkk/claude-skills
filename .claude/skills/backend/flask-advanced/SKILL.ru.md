@@ -1,6 +1,6 @@
 ---
 name: flask-advanced
-description: Advanced for Flask: advanced patterns and techniques
+description: "Advanced for Flask: advanced patterns and techniques"
 category: backend
 tags: [flask-advanced, backend, russian]
 models: [sonnet, opus]

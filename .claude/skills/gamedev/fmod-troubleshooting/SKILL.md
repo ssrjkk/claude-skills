@@ -1,6 +1,6 @@
 ---
 name: fmod-troubleshooting
-description: Troubleshooting for Fmod: troubleshooting common issues
+description: "Troubleshooting for Fmod: troubleshooting common issues"
 category: gamedev
 tags: [fmod, troubleshooting, gamedev]
 models: [sonnet, opus]

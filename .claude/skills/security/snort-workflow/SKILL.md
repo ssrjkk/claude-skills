@@ -1,6 +1,6 @@
 ---
 name: snort-workflow
-description: Workflow for Snort: workflow optimization
+description: "Workflow for Snort: workflow optimization"
 category: security
 tags: [snort, workflow, security]
 models: [sonnet, opus]

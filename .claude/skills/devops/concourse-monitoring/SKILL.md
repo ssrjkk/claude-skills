@@ -1,6 +1,6 @@
 ---
 name: concourse-monitoring
-description: Monitoring with Concourse. monitoring.
+description: "Monitoring with Concourse. monitoring."
 category: devops
 tags: [concourse, monitoring, devops, ci-cd]
 models: [gpt-4, claude-3]

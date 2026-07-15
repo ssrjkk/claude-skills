@@ -1,6 +1,6 @@
 ---
 name: mysql
-description: Designs and manages MySQL databases with schemas, indexes, queries, and replication. Use for relational data storage.
+description: "Designs and manages MySQL databases with schemas, indexes, queries, and replication. Use for relational data storage."
 category: database
 tags: [mysql, sql, database, relational, queries]
 models: [sonnet, opus]

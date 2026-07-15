@@ -1,6 +1,6 @@
 ---
 name: celery-integration
-description: Integration for Celery: integration with other tools
+description: "Integration for Celery: integration with other tools"
 category: backend
 tags: [celery-integration, backend, russian]
 models: [sonnet, opus]

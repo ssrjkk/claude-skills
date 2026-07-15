@@ -1,6 +1,6 @@
 ---
 name: flutter-desktop-ui
-description: UI with Flutter Desktop. UI components.
+description: "UI with Flutter Desktop. UI components."
 category: desktop
 tags: [flutter-desktop, ui, desktop, desktop]
 models: [gpt-4, claude-3]

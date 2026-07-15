@@ -1,6 +1,6 @@
 ---
 name: jsonnet-guides
-description: Guides for Jsonnet: how-to guides
+description: "Guides for Jsonnet: how-to guides"
 category: devops
 tags: [jsonnet-guides, devops, russian]
 models: [sonnet, opus]

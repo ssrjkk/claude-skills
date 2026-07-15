@@ -1,6 +1,6 @@
 ---
 name: codility-tools
-description: Tools with Codility. tools.
+description: "Tools with Codility. tools."
 category: hr
 tags: [codility-tools, hr, russian]
 models: [sonnet, opus]

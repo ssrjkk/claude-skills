@@ -1,6 +1,6 @@
 ---
 name: hadoop-integration
-description: Integration with Hadoop. connectors.
+description: "Integration with Hadoop. connectors."
 category: data
 tags: [hadoop, integration, data, data-engineering]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: zbrush-automation
-description: Automation for Zbrush: automation and scripting
+description: "Automation for Zbrush: automation and scripting"
 category: gamedev
 tags: [zbrush-automation, gamedev, russian]
 models: [sonnet, opus]

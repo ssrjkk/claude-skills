@@ -1,6 +1,6 @@
 ---
 name: group-policy-users
-description: Users with Group Policy. user mgmt.
+description: "Users with Group Policy. user mgmt."
 category: os-admin
 tags: [group-policy, users, os-admin, windows]
 models: [gpt-4, claude-3]

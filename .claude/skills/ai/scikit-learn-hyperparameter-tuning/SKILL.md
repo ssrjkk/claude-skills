@@ -1,6 +1,6 @@
 ---
 name: scikit-learn-hyperparameter-tuning
-description: Hyperparameter Tuning with Scikit Learn. optimizing params.
+description: "Hyperparameter Tuning with Scikit Learn. optimizing params."
 category: ai
 tags: [scikit-learn, hyperparameter-tuning, ai, ml]
 models: [gpt-4, claude-3]

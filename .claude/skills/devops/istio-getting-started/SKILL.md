@@ -1,6 +1,6 @@
 ---
 name: istio-getting-started
-description: Getting Started for Istio: initial setup and first steps
+description: "Getting Started for Istio: initial setup and first steps"
 category: devops
 tags: [istio, getting-started, devops]
 models: [sonnet, opus]

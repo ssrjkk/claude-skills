@@ -1,6 +1,6 @@
 ---
 name: janusgraph-visualization
-description: Visualization with JanusGraph. graph viz.
+description: "Visualization with JanusGraph. graph viz."
 category: database
 tags: [janusgraph-visualization, database, russian]
 models: [sonnet, opus]

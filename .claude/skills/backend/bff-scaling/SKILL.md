@@ -1,6 +1,6 @@
 ---
 name: bff-scaling
-description: Scaling with Backend for Frontend. scaling considerations.
+description: "Scaling with Backend for Frontend. scaling considerations."
 category: backend
 tags: [bff, scaling, backend, architecture]
 models: [gpt-4, claude-3]

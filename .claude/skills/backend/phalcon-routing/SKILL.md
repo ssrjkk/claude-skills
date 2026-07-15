@@ -1,6 +1,6 @@
 ---
 name: phalcon-routing
-description: Routing with Phalcon. HTTP routing.
+description: "Routing with Phalcon. HTTP routing."
 category: backend
 tags: [phalcon, routing, backend, backend]
 models: [gpt-4, claude-3]

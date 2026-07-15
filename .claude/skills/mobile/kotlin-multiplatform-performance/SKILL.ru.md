@@ -1,6 +1,6 @@
 ---
 name: kotlin-multiplatform-performance
-description: Performance with Kotlin Multiplatform. optimization.
+description: "Performance with Kotlin Multiplatform. optimization."
 category: mobile
 tags: [kotlin-multiplatform-performance, mobile, russian]
 models: [sonnet, opus]

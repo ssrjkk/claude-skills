@@ -1,6 +1,6 @@
 ---
 name: bulma-typography
-description: Typography with Bulma. text styling.
+description: "Typography with Bulma. text styling."
 category: frontend
 tags: [bulma-typography, frontend, russian]
 models: [sonnet, opus]

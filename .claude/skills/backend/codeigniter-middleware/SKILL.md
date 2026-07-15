@@ -1,6 +1,6 @@
 ---
 name: codeigniter-middleware
-description: Middleware with CodeIgniter. pipeline.
+description: "Middleware with CodeIgniter. pipeline."
 category: backend
 tags: [codeigniter, middleware, backend, backend]
 models: [gpt-4, claude-3]

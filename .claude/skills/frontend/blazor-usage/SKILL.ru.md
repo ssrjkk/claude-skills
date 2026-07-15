@@ -1,6 +1,6 @@
 ---
 name: blazor-usage
-description: Usage for Blazor: usage reference
+description: "Usage for Blazor: usage reference"
 category: frontend
 tags: [blazor-usage, frontend, russian]
 models: [sonnet, opus]

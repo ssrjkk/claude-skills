@@ -1,6 +1,6 @@
 ---
 name: a-b-testing-tools
-description: Tools with A/B Testing. tools.
+description: "Tools with A/B Testing. tools."
 category: design
 tags: [a-b-testing-tools, design, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: jekyll-deployment
-description: Deployment with Jekyll. production.
+description: "Deployment with Jekyll. production."
 category: frontend
 tags: [jekyll, deployment, frontend, meta-framework]
 models: [gpt-4, claude-3]

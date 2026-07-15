@@ -1,6 +1,6 @@
 ---
 name: selenoid-integration
-description: Integration for Selenoid: integration with other tools
+description: "Integration for Selenoid: integration with other tools"
 category: qa
 tags: [selenoid, integration, qa]
 models: [sonnet, opus]

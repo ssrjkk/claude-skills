@@ -1,6 +1,6 @@
 ---
 name: axum-websocket
-description: WebSocket with Axum. real-time.
+description: "WebSocket with Axum. real-time."
 category: backend
 tags: [axum-websocket, backend, russian]
 models: [sonnet, opus]

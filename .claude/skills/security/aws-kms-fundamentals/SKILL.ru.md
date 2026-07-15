@@ -1,6 +1,6 @@
 ---
 name: aws-kms-fundamentals
-description: Fundamentals for Aws-Kms: core concepts
+description: "Fundamentals for Aws-Kms: core concepts"
 category: security
 tags: [aws-kms-fundamentals, security, russian]
 models: [sonnet, opus]

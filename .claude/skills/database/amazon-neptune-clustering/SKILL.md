@@ -1,6 +1,6 @@
 ---
 name: amazon-neptune-clustering
-description: Clustering with Amazon Neptune. clustering.
+description: "Clustering with Amazon Neptune. clustering."
 category: database
 tags: [amazon-neptune, clustering, database, graph-database]
 models: [gpt-4, claude-3]

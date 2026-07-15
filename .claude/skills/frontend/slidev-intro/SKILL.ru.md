@@ -1,6 +1,6 @@
 ---
 name: slidev-intro
-description: Intro for Slidev: introduction
+description: "Intro for Slidev: introduction"
 category: frontend
 tags: [slidev-intro, frontend, russian]
 models: [sonnet, opus]

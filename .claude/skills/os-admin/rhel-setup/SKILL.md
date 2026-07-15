@@ -1,6 +1,6 @@
 ---
 name: rhel-setup
-description: Setup with RHEL. installation.
+description: "Setup with RHEL. installation."
 category: os-admin
 tags: [rhel, setup, os-admin, linux]
 models: [gpt-4, claude-3]

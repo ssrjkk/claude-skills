@@ -1,6 +1,6 @@
 ---
 name: langgraph-multi-agent
-description: Multi-agent systems with LangGraph
+description: "Multi-agent systems with LangGraph"
 category: ai
 tags: [langgraph, multi-agent, orchestration, coordination, python]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: woodpecker-testing
-description: Testing with Woodpecker. automated tests.
+description: "Testing with Woodpecker. automated tests."
 category: devops
 tags: [woodpecker-testing, devops, russian]
 models: [sonnet, opus]

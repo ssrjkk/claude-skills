@@ -1,6 +1,6 @@
 ---
 name: erlang-logging
-description: Logging with Erlang. app logging.
+description: "Logging with Erlang. app logging."
 category: backend
 tags: [erlang, logging, backend, backend]
 models: [gpt-4, claude-3]

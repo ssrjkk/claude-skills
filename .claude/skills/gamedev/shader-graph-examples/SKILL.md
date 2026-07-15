@@ -1,6 +1,6 @@
 ---
 name: shader-graph-examples
-description: Examples for Shader-Graph: practical examples
+description: "Examples for Shader-Graph: practical examples"
 category: gamedev
 tags: [shader-graph, examples, gamedev]
 models: [sonnet, opus]

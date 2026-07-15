@@ -1,6 +1,6 @@
 ---
 name: event-sourcing-testing
-description: Testing with Event Sourcing. testing the pattern.
+description: "Testing with Event Sourcing. testing the pattern."
 category: backend
 tags: [event-sourcing, testing, backend, architecture]
 models: [gpt-4, claude-3]

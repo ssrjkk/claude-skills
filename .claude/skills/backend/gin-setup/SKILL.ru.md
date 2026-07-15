@@ -1,6 +1,6 @@
 ---
 name: gin-setup
-description: Setup for Gin: installation and configuration
+description: "Setup for Gin: installation and configuration"
 category: backend
 tags: [gin-setup, backend, russian]
 models: [sonnet, opus]

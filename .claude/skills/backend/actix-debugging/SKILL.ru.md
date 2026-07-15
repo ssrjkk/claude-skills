@@ -1,6 +1,6 @@
 ---
 name: actix-debugging
-description: Debugging for Actix: debugging and troubleshooting
+description: "Debugging for Actix: debugging and troubleshooting"
 category: backend
 tags: [actix-debugging, backend, russian]
 models: [sonnet, opus]

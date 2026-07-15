@@ -1,6 +1,6 @@
 ---
 name: netcat-scripting
-description: Scripting with netcat. automation.
+description: "Scripting with netcat. automation."
 category: networking
 tags: [netcat, scripting, networking, networking-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: game-maker-rendering
-description: Rendering with GameMaker. graphics.
+description: "Rendering with GameMaker. graphics."
 category: gamedev
 tags: [game-maker-rendering, gamedev, russian]
 models: [sonnet, opus]

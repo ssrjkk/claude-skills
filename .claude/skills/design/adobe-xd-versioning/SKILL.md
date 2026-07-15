@@ -1,6 +1,6 @@
 ---
 name: adobe-xd-versioning
-description: Versioning with Adobe XD. version control.
+description: "Versioning with Adobe XD. version control."
 category: design
 tags: [adobe-xd, versioning, design, design]
 models: [gpt-4, claude-3]

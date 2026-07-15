@@ -1,6 +1,6 @@
 ---
 name: spectre-components
-description: Components with Spectre.css. UI components.
+description: "Components with Spectre.css. UI components."
 category: frontend
 tags: [spectre, components, frontend, css]
 models: [gpt-4, claude-3]

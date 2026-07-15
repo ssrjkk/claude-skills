@@ -1,6 +1,6 @@
 ---
 name: marvin-chaining
-description: Chaining with Marvin. multi-step workflows.
+description: "Chaining with Marvin. multi-step workflows."
 category: ai
 tags: [marvin-chaining, ai, russian]
 models: [sonnet, opus]

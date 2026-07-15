@@ -1,6 +1,6 @@
 ---
 name: architecture-collaboration
-description: Collaboration with Software Architecture. team collaboration.
+description: "Collaboration with Software Architecture. team collaboration."
 category: engineering
 tags: [architecture-collaboration, engineering, russian]
 models: [sonnet, opus]

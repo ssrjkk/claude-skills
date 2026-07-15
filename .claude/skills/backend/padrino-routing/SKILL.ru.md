@@ -1,6 +1,6 @@
 ---
 name: padrino-routing
-description: Routing with Padrino. HTTP routing.
+description: "Routing with Padrino. HTTP routing."
 category: backend
 tags: [padrino-routing, backend, russian]
 models: [sonnet, opus]

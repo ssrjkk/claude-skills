@@ -1,6 +1,6 @@
 ---
 name: yodlee-compliance
-description: Compliance with Yodlee. compliance.
+description: "Compliance with Yodlee. compliance."
 category: finance
 tags: [yodlee, compliance, finance, fintech]
 models: [gpt-4, claude-3]

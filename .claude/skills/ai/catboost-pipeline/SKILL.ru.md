@@ -1,6 +1,6 @@
 ---
 name: catboost-pipeline
-description: Pipeline with Catboost. ML pipelines.
+description: "Pipeline with Catboost. ML pipelines."
 category: ai
 tags: [catboost-pipeline, ai, russian]
 models: [sonnet, opus]

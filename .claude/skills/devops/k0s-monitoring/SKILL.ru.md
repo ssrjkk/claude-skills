@@ -1,6 +1,6 @@
 ---
 name: k0s-monitoring
-description: Monitoring with K0s. monitoring.
+description: "Monitoring with K0s. monitoring."
 category: devops
 tags: [k0s-monitoring, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: architecture-basics
-description: Basics with Software Architecture. fundamentals.
+description: "Basics with Software Architecture. fundamentals."
 category: engineering
 tags: [architecture-basics, engineering, russian]
 models: [sonnet, opus]

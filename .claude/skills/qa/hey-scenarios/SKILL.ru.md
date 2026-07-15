@@ -1,6 +1,6 @@
 ---
 name: hey-scenarios
-description: Scenarios with hey. test scenarios.
+description: "Scenarios with hey. test scenarios."
 category: qa
 tags: [hey-scenarios, qa, russian]
 models: [sonnet, opus]

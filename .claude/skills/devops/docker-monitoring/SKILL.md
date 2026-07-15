@@ -1,6 +1,6 @@
 ---
 name: docker-monitoring
-description: Monitoring for Docker: monitoring and observability
+description: "Monitoring for Docker: monitoring and observability"
 category: devops
 tags: [docker, monitoring, devops]
 models: [sonnet, opus]

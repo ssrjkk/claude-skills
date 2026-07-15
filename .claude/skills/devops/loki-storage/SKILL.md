@@ -1,6 +1,6 @@
 ---
 name: loki-storage
-description: Storage with Loki. data retention.
+description: "Storage with Loki. data retention."
 category: devops
 tags: [loki, storage, devops, monitoring]
 models: [gpt-4, claude-3]

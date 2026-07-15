@@ -1,6 +1,6 @@
 ---
 name: daisyui-grid
-description: Grid with daisyUI. layout grids.
+description: "Grid with daisyUI. layout grids."
 category: frontend
 tags: [daisyui-grid, frontend, russian]
 models: [sonnet, opus]

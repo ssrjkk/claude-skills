@@ -1,6 +1,6 @@
 ---
 name: neptune-automation
-description: Automation for Neptune: automation and scripting
+description: "Automation for Neptune: automation and scripting"
 category: data
 tags: [neptune, automation, data]
 models: [sonnet, opus]

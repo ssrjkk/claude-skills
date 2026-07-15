@@ -1,6 +1,6 @@
 ---
 name: curl-performance
-description: Performance with curl. benchmarking.
+description: "Performance with curl. benchmarking."
 category: networking
 tags: [curl, performance, networking, networking-tool]
 models: [gpt-4, claude-3]

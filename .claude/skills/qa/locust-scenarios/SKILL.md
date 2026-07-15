@@ -1,6 +1,6 @@
 ---
 name: locust-scenarios
-description: Scenarios with Locust. test scenarios.
+description: "Scenarios with Locust. test scenarios."
 category: qa
 tags: [locust, scenarios, qa, performance-testing]
 models: [gpt-4, claude-3]

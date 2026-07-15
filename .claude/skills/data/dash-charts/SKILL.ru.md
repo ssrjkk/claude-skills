@@ -1,6 +1,6 @@
 ---
 name: dash-charts
-description: Charts with Dash. charts.
+description: "Charts with Dash. charts."
 category: data
 tags: [dash-charts, data, russian]
 models: [sonnet, opus]

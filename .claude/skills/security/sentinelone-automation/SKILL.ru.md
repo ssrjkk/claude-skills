@@ -1,6 +1,6 @@
 ---
 name: sentinelone-automation
-description: Automation for Sentinelone: automation and scripting
+description: "Automation for Sentinelone: automation and scripting"
 category: security
 tags: [sentinelone-automation, security, russian]
 models: [sonnet, opus]

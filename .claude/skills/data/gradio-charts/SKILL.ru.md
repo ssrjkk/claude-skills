@@ -1,6 +1,6 @@
 ---
 name: gradio-charts
-description: Charts with Gradio. charts.
+description: "Charts with Gradio. charts."
 category: data
 tags: [gradio-charts, data, russian]
 models: [sonnet, opus]

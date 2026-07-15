@@ -1,6 +1,6 @@
 ---
 name: shopify-marketing
-description: Marketing with Shopify. marketing.
+description: "Marketing with Shopify. marketing."
 category: ecommerce
 tags: [shopify-marketing, ecommerce, russian]
 models: [sonnet, opus]

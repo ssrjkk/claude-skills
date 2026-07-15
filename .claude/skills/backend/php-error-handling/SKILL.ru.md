@@ -1,6 +1,6 @@
 ---
 name: php-error-handling
-description: Error Handling with Php. error management.
+description: "Error Handling with Php. error management."
 category: backend
 tags: [php-error-handling, backend, russian]
 models: [sonnet, opus]

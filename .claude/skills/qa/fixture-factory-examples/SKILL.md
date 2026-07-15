@@ -1,6 +1,6 @@
 ---
 name: fixture-factory-examples
-description: Examples for Fixture-Factory: practical examples
+description: "Examples for Fixture-Factory: practical examples"
 category: qa
 tags: [fixture-factory, examples, qa]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: color-grading-export
-description: Export with Color Grading. export.
+description: "Export with Color Grading. export."
 category: media
 tags: [color-grading-export, media, russian]
 models: [sonnet, opus]

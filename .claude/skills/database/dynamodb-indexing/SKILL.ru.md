@@ -1,6 +1,6 @@
 ---
 name: dynamodb-indexing
-description: Indexing with DynamoDB. indexes.
+description: "Indexing with DynamoDB. indexes."
 category: database
 tags: [dynamodb-indexing, database, russian]
 models: [sonnet, opus]

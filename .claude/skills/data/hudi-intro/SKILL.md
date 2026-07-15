@@ -1,6 +1,6 @@
 ---
 name: hudi-intro
-description: Intro for Hudi: introduction
+description: "Intro for Hudi: introduction"
 category: data
 tags: [hudi, intro, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: hugo-data-fetching
-description: Data Fetching with Hugo. data loading.
+description: "Data Fetching with Hugo. data loading."
 category: frontend
 tags: [hugo-data-fetching, frontend, russian]
 models: [sonnet, opus]

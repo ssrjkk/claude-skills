@@ -1,6 +1,6 @@
 ---
 name: cdk8s-fundamentals
-description: Fundamentals for Cdk8S: core concepts
+description: "Fundamentals for Cdk8S: core concepts"
 category: devops
 tags: [cdk8s-fundamentals, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: backbone-testing
-description: Testing with Backbone. component testing.
+description: "Testing with Backbone. component testing."
 category: frontend
 tags: [backbone, testing, frontend, frontend]
 models: [gpt-4, claude-3]

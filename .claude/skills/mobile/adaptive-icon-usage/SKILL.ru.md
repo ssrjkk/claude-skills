@@ -1,6 +1,6 @@
 ---
 name: adaptive-icon-usage
-description: Usage for Adaptive-Icon: usage reference
+description: "Usage for Adaptive-Icon: usage reference"
 category: mobile
 tags: [adaptive-icon-usage, mobile, russian]
 models: [sonnet, opus]

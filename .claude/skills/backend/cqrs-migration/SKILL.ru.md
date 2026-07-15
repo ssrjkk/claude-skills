@@ -1,6 +1,6 @@
 ---
 name: cqrs-migration
-description: Migration with CQRS. adopting the pattern.
+description: "Migration with CQRS. adopting the pattern."
 category: backend
 tags: [cqrs-migration, backend, russian]
 models: [sonnet, opus]

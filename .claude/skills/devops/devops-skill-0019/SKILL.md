@@ -1,6 +1,6 @@
 ---
 name: devops-skill-0019
-description: devops specialized skill #0019 for devops development
+description: "devops specialized skill #0019 for devops development"
 category: devops
 tags: [devops, skill, 0019]
 models: [sonnet, opus]

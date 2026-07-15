@@ -1,6 +1,6 @@
 ---
 name: go-testing
-description: Testing with Go. writing tests.
+description: "Testing with Go. writing tests."
 category: backend
 tags: [go, testing, backend, backend]
 models: [gpt-4, claude-3]

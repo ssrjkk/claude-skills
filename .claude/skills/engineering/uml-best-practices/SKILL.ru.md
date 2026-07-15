@@ -1,6 +1,6 @@
 ---
 name: uml-best-practices
-description: Best Practices with UML. practices.
+description: "Best Practices with UML. practices."
 category: engineering
 tags: [uml-best-practices, engineering, russian]
 models: [sonnet, opus]

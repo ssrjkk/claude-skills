@@ -1,6 +1,6 @@
 ---
 name: actions-runner-quickstart
-description: Quickstart for Actions-Runner: quick start guide
+description: "Quickstart for Actions-Runner: quick start guide"
 category: devops
 tags: [actions-runner-quickstart, devops, russian]
 models: [sonnet, opus]

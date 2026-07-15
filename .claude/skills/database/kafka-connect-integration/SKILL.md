@@ -1,6 +1,6 @@
 ---
 name: kafka-connect-integration
-description: Integration for Kafka-Connect: integration with other tools
+description: "Integration for Kafka-Connect: integration with other tools"
 category: database
 tags: [kafka-connect, integration, database]
 models: [sonnet, opus]

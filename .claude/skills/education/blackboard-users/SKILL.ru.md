@@ -1,6 +1,6 @@
 ---
 name: blackboard-users
-description: Users with Blackboard. user management.
+description: "Users with Blackboard. user management."
 category: education
 tags: [blackboard-users, education, russian]
 models: [sonnet, opus]

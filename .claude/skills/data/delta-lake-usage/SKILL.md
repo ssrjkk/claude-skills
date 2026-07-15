@@ -1,6 +1,6 @@
 ---
 name: delta-lake-usage
-description: Usage for Delta-Lake: usage reference
+description: "Usage for Delta-Lake: usage reference"
 category: data
 tags: [delta-lake, usage, data]
 models: [sonnet, opus]

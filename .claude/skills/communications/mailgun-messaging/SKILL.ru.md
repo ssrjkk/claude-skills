@@ -1,6 +1,6 @@
 ---
 name: mailgun-messaging
-description: Messaging with Mailgun. sending messages.
+description: "Messaging with Mailgun. sending messages."
 category: communications
 tags: [mailgun-messaging, communications, russian]
 models: [sonnet, opus]

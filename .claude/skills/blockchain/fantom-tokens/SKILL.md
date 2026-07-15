@@ -1,6 +1,6 @@
 ---
 name: fantom-tokens
-description: Tokens with Fantom. token standards.
+description: "Tokens with Fantom. token standards."
 category: blockchain
 tags: [fantom, tokens, blockchain, blockchain]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: numpy-statistics
-description: Statistics with NumPy. statistical analysis.
+description: "Statistics with NumPy. statistical analysis."
 category: scientific
 tags: [numpy, statistics, scientific, scientific-computing]
 models: [gpt-4, claude-3]

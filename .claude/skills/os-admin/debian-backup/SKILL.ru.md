@@ -1,6 +1,6 @@
 ---
 name: debian-backup
-description: Backup with Debian. backup.
+description: "Backup with Debian. backup."
 category: os-admin
 tags: [debian-backup, os-admin, russian]
 models: [sonnet, opus]

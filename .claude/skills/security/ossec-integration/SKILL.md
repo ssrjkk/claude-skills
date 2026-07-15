@@ -1,6 +1,6 @@
 ---
 name: ossec-integration
-description: Integration for Ossec: integration with other tools
+description: "Integration for Ossec: integration with other tools"
 category: security
 tags: [ossec, integration, security]
 models: [sonnet, opus]

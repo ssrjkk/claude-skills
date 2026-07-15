@@ -1,6 +1,6 @@
 ---
 name: tableau-setup
-description: Setup for Tableau: installation and configuration
+description: "Setup for Tableau: installation and configuration"
 category: data
 tags: [tableau, setup, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: esp32-actuators
-description: Actuators with ESP32. motors.
+description: "Actuators with ESP32. motors."
 category: iot
 tags: [esp32-actuators, iot, russian]
 models: [sonnet, opus]

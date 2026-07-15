@@ -1,6 +1,6 @@
 ---
 name: mlflow-experiment-tracking
-description: Experiment Tracking with Mlflow. tracking experiments.
+description: "Experiment Tracking with Mlflow. tracking experiments."
 category: ai
 tags: [mlflow-experiment-tracking, ai, russian]
 models: [sonnet, opus]

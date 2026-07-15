@@ -1,6 +1,6 @@
 ---
 name: tensorflow-pruning
-description: Pruning with Tensorflow. model pruning.
+description: "Pruning with Tensorflow. model pruning."
 category: ai
 tags: [tensorflow, pruning, ai, deep-learning]
 models: [gpt-4, claude-3]

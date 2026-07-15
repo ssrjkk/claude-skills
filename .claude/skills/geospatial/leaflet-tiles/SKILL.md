@@ -1,6 +1,6 @@
 ---
 name: leaflet-tiles
-description: Tiles with Leaflet. tile serving.
+description: "Tiles with Leaflet. tile serving."
 category: geospatial
 tags: [leaflet, tiles, geospatial, gis]
 models: [gpt-4, claude-3]

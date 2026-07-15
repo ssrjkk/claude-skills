@@ -1,6 +1,6 @@
 ---
 name: zod-workflow
-description: Workflow for Zod: workflow optimization
+description: "Workflow for Zod: workflow optimization"
 category: frontend
 tags: [zod, workflow, frontend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: buffalo-routing
-description: Routing with Buffalo. HTTP routing.
+description: "Routing with Buffalo. HTTP routing."
 category: backend
 tags: [buffalo, routing, backend, backend]
 models: [gpt-4, claude-3]

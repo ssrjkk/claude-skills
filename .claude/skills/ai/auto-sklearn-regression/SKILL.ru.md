@@ -1,6 +1,6 @@
 ---
 name: auto-sklearn-regression
-description: Regression with Auto Sklearn. predicting values.
+description: "Regression with Auto Sklearn. predicting values."
 category: ai
 tags: [auto-sklearn-regression, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: pinia-middleware
-description: Middleware with Pinia. side effects.
+description: "Middleware with Pinia. side effects."
 category: frontend
 tags: [pinia-middleware, frontend, russian]
 models: [sonnet, opus]

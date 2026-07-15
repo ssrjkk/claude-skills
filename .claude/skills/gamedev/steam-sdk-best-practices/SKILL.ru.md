@@ -1,6 +1,6 @@
 ---
 name: steam-sdk-best-practices
-description: Best Practices for Steam-Sdk: best practices and patterns
+description: "Best Practices for Steam-Sdk: best practices and patterns"
 category: gamedev
 tags: [steam-sdk-best-practices, gamedev, russian]
 models: [sonnet, opus]

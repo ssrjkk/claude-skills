@@ -1,6 +1,6 @@
 ---
 name: orientdb-querying
-description: Querying with OrientDB. Cypher/Gremlin.
+description: "Querying with OrientDB. Cypher/Gremlin."
 category: database
 tags: [orientdb, querying, database, graph-database]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: mocha-security
-description: Security for Mocha: security best practices
+description: "Security for Mocha: security best practices"
 category: qa
 tags: [mocha-security, qa, russian]
 models: [sonnet, opus]

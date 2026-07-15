@@ -1,6 +1,6 @@
 ---
 name: deck-gl-routing
-description: Routing with Deck.gl. routing.
+description: "Routing with Deck.gl. routing."
 category: geospatial
 tags: [deck-gl-routing, geospatial, russian]
 models: [sonnet, opus]

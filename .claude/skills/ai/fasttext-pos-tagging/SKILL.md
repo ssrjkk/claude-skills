@@ -1,6 +1,6 @@
 ---
 name: fasttext-pos-tagging
-description: POS Tagging with Fasttext. POS tagging.
+description: "POS Tagging with Fasttext. POS tagging."
 category: ai
 tags: [fasttext, pos-tagging, ai, nlp]
 models: [gpt-4, claude-3]

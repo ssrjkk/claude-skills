@@ -1,6 +1,6 @@
 ---
 name: zig-orm
-description: ORM with Zig. database access.
+description: "ORM with Zig. database access."
 category: backend
 tags: [zig, orm, backend, backend]
 models: [gpt-4, claude-3]

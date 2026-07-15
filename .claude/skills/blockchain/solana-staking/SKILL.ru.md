@@ -1,6 +1,6 @@
 ---
 name: solana-staking
-description: Staking with Solana. staking.
+description: "Staking with Solana. staking."
 category: blockchain
 tags: [solana-staking, blockchain, russian]
 models: [sonnet, opus]

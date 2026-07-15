@@ -1,6 +1,6 @@
 ---
 name: docker-volumes
-description: Volumes with Docker. data volumes.
+description: "Volumes with Docker. data volumes."
 category: devops
 tags: [docker, volumes, devops, container]
 models: [gpt-4, claude-3]

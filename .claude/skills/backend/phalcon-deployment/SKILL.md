@@ -1,6 +1,6 @@
 ---
 name: phalcon-deployment
-description: Deployment with Phalcon. deploy.
+description: "Deployment with Phalcon. deploy."
 category: backend
 tags: [phalcon, deployment, backend, backend]
 models: [gpt-4, claude-3]

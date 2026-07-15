@@ -1,6 +1,6 @@
 ---
 name: near-tokens
-description: Tokens with NEAR. token standards.
+description: "Tokens with NEAR. token standards."
 category: blockchain
 tags: [near-tokens, blockchain, russian]
 models: [sonnet, opus]

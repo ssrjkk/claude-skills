@@ -1,6 +1,6 @@
 ---
 name: hbase-monitoring
-description: Monitoring with HBase. monitoring.
+description: "Monitoring with HBase. monitoring."
 category: database
 tags: [hbase-monitoring, database, russian]
 models: [sonnet, opus]

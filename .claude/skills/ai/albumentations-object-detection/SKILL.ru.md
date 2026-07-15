@@ -1,6 +1,6 @@
 ---
 name: albumentations-object-detection
-description: Object Detection with Albumentations. detecting objects.
+description: "Object Detection with Albumentations. detecting objects."
 category: ai
 tags: [albumentations-object-detection, ai, russian]
 models: [sonnet, opus]

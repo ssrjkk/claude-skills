@@ -1,6 +1,6 @@
 ---
 name: home-assistant-telemetry
-description: Telemetry with Home Assistant. data collection.
+description: "Telemetry with Home Assistant. data collection."
 category: iot
 tags: [home-assistant-telemetry, iot, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: socat-troubleshooting
-description: Troubleshooting with socat. debugging.
+description: "Troubleshooting with socat. debugging."
 category: networking
 tags: [socat, troubleshooting, networking, networking-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: metasploit-scanning
-description: Scanning with Metasploit. security scanning.
+description: "Scanning with Metasploit. security scanning."
 category: security
 tags: [metasploit, scanning, security, security-tool]
 models: [gpt-4, claude-3]

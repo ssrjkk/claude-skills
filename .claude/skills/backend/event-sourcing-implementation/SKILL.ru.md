@@ -1,6 +1,6 @@
 ---
 name: event-sourcing-implementation
-description: Implementation with Event Sourcing. practical implementation.
+description: "Implementation with Event Sourcing. practical implementation."
 category: backend
 tags: [event-sourcing-implementation, backend, russian]
 models: [sonnet, opus]

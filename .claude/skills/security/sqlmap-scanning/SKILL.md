@@ -1,6 +1,6 @@
 ---
 name: sqlmap-scanning
-description: Scanning with SQLmap. security scanning.
+description: "Scanning with SQLmap. security scanning."
 category: security
 tags: [sqlmap, scanning, security, security-tool]
 models: [gpt-4, claude-3]

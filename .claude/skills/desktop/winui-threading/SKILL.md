@@ -1,6 +1,6 @@
 ---
 name: winui-threading
-description: Threading with WinUI. multithreading.
+description: "Threading with WinUI. multithreading."
 category: desktop
 tags: [winui, threading, desktop, desktop]
 models: [gpt-4, claude-3]

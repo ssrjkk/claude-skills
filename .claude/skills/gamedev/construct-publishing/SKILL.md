@@ -1,6 +1,6 @@
 ---
 name: construct-publishing
-description: Publishing with Construct. publishing.
+description: "Publishing with Construct. publishing."
 category: gamedev
 tags: [construct, publishing, gamedev, game-engine]
 models: [gpt-4, claude-3]

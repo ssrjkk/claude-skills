@@ -1,6 +1,6 @@
 ---
 name: gri-basics
-description: Basics with GRI. fundamentals.
+description: "Basics with GRI. fundamentals."
 category: sustainability
 tags: [gri-basics, sustainability, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: synctera-payments
-description: Payments with Synctera. payments.
+description: "Payments with Synctera. payments."
 category: finance
 tags: [synctera-payments, finance, russian]
 models: [sonnet, opus]

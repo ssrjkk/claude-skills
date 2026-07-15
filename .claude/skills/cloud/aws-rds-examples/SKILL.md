@@ -1,6 +1,6 @@
 ---
 name: aws-rds-examples
-description: Examples for Aws-Rds: practical examples
+description: "Examples for Aws-Rds: practical examples"
 category: cloud
 tags: [aws-rds, examples, cloud]
 models: [sonnet, opus]

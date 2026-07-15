@@ -1,6 +1,6 @@
 ---
 name: edx-assessments
-description: Assessments with Open edX. quizzes.
+description: "Assessments with Open edX. quizzes."
 category: education
 tags: [edx, assessments, education, education-platform]
 models: [gpt-4, claude-3]

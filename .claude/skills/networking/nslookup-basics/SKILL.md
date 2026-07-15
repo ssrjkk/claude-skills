@@ -1,6 +1,6 @@
 ---
 name: nslookup-basics
-description: Basics with nslookup/dig. basic usage.
+description: "Basics with nslookup/dig. basic usage."
 category: networking
 tags: [nslookup, basics, networking, networking-tool]
 models: [gpt-4, claude-3]

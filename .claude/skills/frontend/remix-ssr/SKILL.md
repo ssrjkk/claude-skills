@@ -1,6 +1,6 @@
 ---
 name: remix-ssr
-description: SSR with Remix. server rendering.
+description: "SSR with Remix. server rendering."
 category: frontend
 tags: [remix, ssr, frontend, meta-framework]
 models: [gpt-4, claude-3]

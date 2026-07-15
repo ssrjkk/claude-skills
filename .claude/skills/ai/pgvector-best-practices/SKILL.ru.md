@@ -1,6 +1,6 @@
 ---
 name: pgvector-best-practices
-description: Best Practices for Pgvector: best practices and patterns
+description: "Best Practices for Pgvector: best practices and patterns"
 category: ai
 tags: [pgvector-best-practices, ai, russian]
 models: [sonnet, opus]

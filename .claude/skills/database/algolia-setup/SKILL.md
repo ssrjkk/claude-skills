@@ -1,6 +1,6 @@
 ---
 name: algolia-setup
-description: Setup with Algolia. installation.
+description: "Setup with Algolia. installation."
 category: database
 tags: [algolia, setup, database, search-engine]
 models: [gpt-4, claude-3]

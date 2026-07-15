@@ -1,6 +1,6 @@
 ---
 name: qdrant-automation
-description: Automation for Qdrant: automation and scripting
+description: "Automation for Qdrant: automation and scripting"
 category: ai
 tags: [qdrant-automation, ai, russian]
 models: [sonnet, opus]

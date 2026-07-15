@@ -1,6 +1,6 @@
 ---
 name: gitlab-ci-monitoring
-description: Monitoring with GitLab CI. monitoring.
+description: "Monitoring with GitLab CI. monitoring."
 category: devops
 tags: [gitlab-ci-monitoring, devops, russian]
 models: [sonnet, opus]

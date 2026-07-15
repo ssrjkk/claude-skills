@@ -1,6 +1,6 @@
 ---
 name: skill-0005
-description: Specialized skill #0005 for ai development
+description: "Specialized skill #0005 for ai development"
 category: ai
 tags: [skill-0005, ai, russian]
 models: [sonnet, opus]

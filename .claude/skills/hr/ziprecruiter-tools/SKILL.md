@@ -1,6 +1,6 @@
 ---
 name: ziprecruiter-tools
-description: Tools with ZipRecruiter. tools.
+description: "Tools with ZipRecruiter. tools."
 category: hr
 tags: [ziprecruiter, tools, hr, recruiting]
 models: [gpt-4, claude-3]

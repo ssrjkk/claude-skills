@@ -1,6 +1,6 @@
 ---
 name: mysql-api
-description: API for Mysql: API development and integration
+description: "API for Mysql: API development and integration"
 category: database
 tags: [mysql-api, database, russian]
 models: [sonnet, opus]

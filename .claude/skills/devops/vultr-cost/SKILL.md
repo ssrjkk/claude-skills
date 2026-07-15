@@ -1,6 +1,6 @@
 ---
 name: vultr-cost
-description: Cost with Vultr. cost optimization.
+description: "Cost with Vultr. cost optimization."
 category: devops
 tags: [vultr, cost, devops, cloud]
 models: [gpt-4, claude-3]

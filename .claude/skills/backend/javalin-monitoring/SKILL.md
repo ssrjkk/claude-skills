@@ -1,6 +1,6 @@
 ---
 name: javalin-monitoring
-description: Monitoring with Javalin. metrics.
+description: "Monitoring with Javalin. metrics."
 category: backend
 tags: [javalin, monitoring, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: group-policy-monitoring
-description: Monitoring with Group Policy. monitoring.
+description: "Monitoring with Group Policy. monitoring."
 category: os-admin
 tags: [group-policy-monitoring, os-admin, russian]
 models: [sonnet, opus]

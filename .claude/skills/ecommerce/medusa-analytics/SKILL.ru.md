@@ -1,6 +1,6 @@
 ---
 name: medusa-analytics
-description: Analytics with Medusa. analytics.
+description: "Analytics with Medusa. analytics."
 category: ecommerce
 tags: [medusa-analytics, ecommerce, russian]
 models: [sonnet, opus]

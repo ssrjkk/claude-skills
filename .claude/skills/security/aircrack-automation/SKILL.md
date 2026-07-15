@@ -1,6 +1,6 @@
 ---
 name: aircrack-automation
-description: Automation with Aircrack-ng. automation.
+description: "Automation with Aircrack-ng. automation."
 category: security
 tags: [aircrack, automation, security, security-tool]
 models: [gpt-4, claude-3]

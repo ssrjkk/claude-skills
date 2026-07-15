@@ -1,6 +1,6 @@
 ---
 name: wandb-configuration
-description: Configuration for Wandb: configuration and setup
+description: "Configuration for Wandb: configuration and setup"
 category: data
 tags: [wandb, configuration, data]
 models: [sonnet, opus]

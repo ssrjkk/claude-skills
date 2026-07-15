@@ -1,6 +1,6 @@
 ---
 name: cohere-deployment
-description: Deployment for Cohere: deployment and release
+description: "Deployment for Cohere: deployment and release"
 category: ai
 tags: [cohere-deployment, ai, russian]
 models: [sonnet, opus]

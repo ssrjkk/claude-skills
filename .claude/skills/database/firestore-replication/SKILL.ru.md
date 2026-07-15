@@ -1,6 +1,6 @@
 ---
 name: firestore-replication
-description: Replication with Firestore. replication.
+description: "Replication with Firestore. replication."
 category: database
 tags: [firestore-replication, database, russian]
 models: [sonnet, opus]

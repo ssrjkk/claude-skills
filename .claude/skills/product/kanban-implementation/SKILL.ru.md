@@ -1,6 +1,6 @@
 ---
 name: kanban-implementation
-description: Implementation with Kanban. adoption.
+description: "Implementation with Kanban. adoption."
 category: product
 tags: [kanban-implementation, product, russian]
 models: [sonnet, opus]

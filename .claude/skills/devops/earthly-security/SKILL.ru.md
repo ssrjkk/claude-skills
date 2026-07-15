@@ -1,6 +1,6 @@
 ---
 name: earthly-security
-description: Security with Earthly. security scanning.
+description: "Security with Earthly. security scanning."
 category: devops
 tags: [earthly-security, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: react-aria-guides
-description: Guides for React-Aria: how-to guides
+description: "Guides for React-Aria: how-to guides"
 category: frontend
 tags: [react-aria-guides, frontend, russian]
 models: [sonnet, opus]

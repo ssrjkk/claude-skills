@@ -1,6 +1,6 @@
 ---
 name: fantom-defi
-description: DeFi with Fantom. DeFi.
+description: "DeFi with Fantom. DeFi."
 category: blockchain
 tags: [fantom, defi, blockchain, blockchain]
 models: [gpt-4, claude-3]

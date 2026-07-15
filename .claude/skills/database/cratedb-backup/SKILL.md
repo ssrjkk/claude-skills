@@ -1,6 +1,6 @@
 ---
 name: cratedb-backup
-description: Backup with CrateDB. backup strategies.
+description: "Backup with CrateDB. backup strategies."
 category: database
 tags: [cratedb, backup, database, sql]
 models: [gpt-4, claude-3]

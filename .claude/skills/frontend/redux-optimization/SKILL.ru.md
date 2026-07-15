@@ -1,6 +1,6 @@
 ---
 name: redux-optimization
-description: Optimization with Redux. performance.
+description: "Optimization with Redux. performance."
 category: frontend
 tags: [redux-optimization, frontend, russian]
 models: [sonnet, opus]

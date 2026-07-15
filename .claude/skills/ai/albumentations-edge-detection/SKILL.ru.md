@@ -1,6 +1,6 @@
 ---
 name: albumentations-edge-detection
-description: Edge Detection with Albumentations. edge detection.
+description: "Edge Detection with Albumentations. edge detection."
 category: ai
 tags: [albumentations-edge-detection, ai, russian]
 models: [sonnet, opus]

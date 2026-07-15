@@ -1,6 +1,6 @@
 ---
 name: zipkin-logging
-description: Logging with Zipkin. log collection.
+description: "Logging with Zipkin. log collection."
 category: devops
 tags: [zipkin, logging, devops, monitoring]
 models: [gpt-4, claude-3]

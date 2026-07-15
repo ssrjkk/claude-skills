@@ -1,6 +1,6 @@
 ---
 name: aws-rds-fundamentals
-description: Fundamentals for Aws-Rds: core concepts
+description: "Fundamentals for Aws-Rds: core concepts"
 category: cloud
 tags: [aws-rds, fundamentals, cloud]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: amazon-neptune-visualization
-description: Visualization with Amazon Neptune. graph viz.
+description: "Visualization with Amazon Neptune. graph viz."
 category: database
 tags: [amazon-neptune-visualization, database, russian]
 models: [sonnet, opus]

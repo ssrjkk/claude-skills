@@ -1,6 +1,6 @@
 ---
 name: accelerate-checkpointing
-description: Checkpointing with Accelerate. model saving.
+description: "Checkpointing with Accelerate. model saving."
 category: ai
 tags: [accelerate, checkpointing, ai, deep-learning]
 models: [gpt-4, claude-3]

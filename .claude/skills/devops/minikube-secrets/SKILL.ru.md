@@ -1,6 +1,6 @@
 ---
 name: minikube-secrets
-description: Secrets with Minikube. secret management.
+description: "Secrets with Minikube. secret management."
 category: devops
 tags: [minikube-secrets, devops, russian]
 models: [sonnet, opus]

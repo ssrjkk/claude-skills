@@ -1,6 +1,6 @@
 ---
 name: tpot-monitoring
-description: Monitoring with Tpot. model monitoring.
+description: "Monitoring with Tpot. model monitoring."
 category: ai
 tags: [tpot-monitoring, ai, russian]
 models: [sonnet, opus]

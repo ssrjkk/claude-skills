@@ -1,6 +1,6 @@
 ---
 name: feathers-auth
-description: Auth with FeathersJS. JWT.
+description: "Auth with FeathersJS. JWT."
 category: backend
 tags: [feathers, auth, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: warp-routing
-description: Routing with Warp. HTTP routing.
+description: "Routing with Warp. HTTP routing."
 category: backend
 tags: [warp-routing, backend, russian]
 models: [sonnet, opus]

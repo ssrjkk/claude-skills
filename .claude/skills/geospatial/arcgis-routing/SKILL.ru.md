@@ -1,6 +1,6 @@
 ---
 name: arcgis-routing
-description: Routing with ArcGIS. routing.
+description: "Routing with ArcGIS. routing."
 category: geospatial
 tags: [arcgis-routing, geospatial, russian]
 models: [sonnet, opus]

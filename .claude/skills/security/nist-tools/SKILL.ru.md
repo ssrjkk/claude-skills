@@ -1,6 +1,6 @@
 ---
 name: nist-tools
-description: Tools with NIST. security tools.
+description: "Tools with NIST. security tools."
 category: security
 tags: [nist-tools, security, russian]
 models: [sonnet, opus]

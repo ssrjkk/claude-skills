@@ -1,6 +1,6 @@
 ---
 name: vitepress-deployment
-description: Deployment with VitePress. production.
+description: "Deployment with VitePress. production."
 category: frontend
 tags: [vitepress-deployment, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gatling-debugging
-description: Debugging for Gatling: debugging and troubleshooting
+description: "Debugging for Gatling: debugging and troubleshooting"
 category: qa
 tags: [gatling-debugging, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gcp-gke-quickstart
-description: Quickstart for Gcp-Gke: quick start guide
+description: "Quickstart for Gcp-Gke: quick start guide"
 category: cloud
 tags: [gcp-gke-quickstart, cloud, russian]
 models: [sonnet, opus]

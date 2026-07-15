@@ -1,6 +1,6 @@
 ---
 name: tokenizers-text-classification
-description: Text Classification with Tokenizers. document categorization.
+description: "Text Classification with Tokenizers. document categorization."
 category: ai
 tags: [tokenizers-text-classification, ai, russian]
 models: [sonnet, opus]

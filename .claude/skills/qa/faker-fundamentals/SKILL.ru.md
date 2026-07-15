@@ -1,6 +1,6 @@
 ---
 name: faker-fundamentals
-description: Fundamentals for Faker: core concepts
+description: "Fundamentals for Faker: core concepts"
 category: qa
 tags: [faker-fundamentals, qa, russian]
 models: [sonnet, opus]

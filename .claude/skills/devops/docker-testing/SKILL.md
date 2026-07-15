@@ -1,6 +1,6 @@
 ---
 name: docker-testing
-description: Testing for Docker: testing and validation
+description: "Testing for Docker: testing and validation"
 category: devops
 tags: [docker, testing, devops]
 models: [sonnet, opus]

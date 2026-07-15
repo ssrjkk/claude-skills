@@ -1,6 +1,6 @@
 ---
 name: sbti-reporting
-description: Reporting with SBTi. reporting.
+description: "Reporting with SBTi. reporting."
 category: sustainability
 tags: [sbti-reporting, sustainability, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: webrtc-streaming-delivery
-description: Delivery with WebRTC Streaming. delivery.
+description: "Delivery with WebRTC Streaming. delivery."
 category: media
 tags: [webrtc-streaming-delivery, media, russian]
 models: [sonnet, opus]

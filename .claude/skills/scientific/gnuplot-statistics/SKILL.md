@@ -1,6 +1,6 @@
 ---
 name: gnuplot-statistics
-description: Statistics with gnuplot. statistical analysis.
+description: "Statistics with gnuplot. statistical analysis."
 category: scientific
 tags: [gnuplot, statistics, scientific, scientific-computing]
 models: [gpt-4, claude-3]

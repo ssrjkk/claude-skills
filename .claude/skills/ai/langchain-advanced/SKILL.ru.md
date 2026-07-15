@@ -1,6 +1,6 @@
 ---
 name: langchain-advanced
-description: Advanced for Langchain: advanced patterns and techniques
+description: "Advanced for Langchain: advanced patterns and techniques"
 category: ai
 tags: [langchain-advanced, ai, russian]
 models: [sonnet, opus]

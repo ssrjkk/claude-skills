@@ -1,6 +1,6 @@
 ---
 name: jax-data-loading
-description: Data Loading with Jax. data pipelines.
+description: "Data Loading with Jax. data pipelines."
 category: ai
 tags: [jax-data-loading, ai, russian]
 models: [sonnet, opus]

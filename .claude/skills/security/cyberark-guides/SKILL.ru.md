@@ -1,6 +1,6 @@
 ---
 name: cyberark-guides
-description: Guides for Cyberark: how-to guides
+description: "Guides for Cyberark: how-to guides"
 category: security
 tags: [cyberark-guides, security, russian]
 models: [sonnet, opus]

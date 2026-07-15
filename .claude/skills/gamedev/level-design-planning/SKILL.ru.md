@@ -1,6 +1,6 @@
 ---
 name: level-design-planning
-description: Planning with Level Design. planning.
+description: "Planning with Level Design. planning."
 category: gamedev
 tags: [level-design-planning, gamedev, russian]
 models: [sonnet, opus]

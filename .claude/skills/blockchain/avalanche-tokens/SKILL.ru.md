@@ -1,6 +1,6 @@
 ---
 name: avalanche-tokens
-description: Tokens with Avalanche. token standards.
+description: "Tokens with Avalanche. token standards."
 category: blockchain
 tags: [avalanche-tokens, blockchain, russian]
 models: [sonnet, opus]

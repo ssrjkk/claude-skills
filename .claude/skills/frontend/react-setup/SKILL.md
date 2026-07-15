@@ -1,6 +1,6 @@
 ---
 name: react-setup
-description: Setup for React: installation and configuration
+description: "Setup for React: installation and configuration"
 category: frontend
 tags: [react, setup, frontend]
 models: [sonnet, opus]

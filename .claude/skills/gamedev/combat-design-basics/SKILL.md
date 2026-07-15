@@ -1,6 +1,6 @@
 ---
 name: combat-design-basics
-description: Basics with Combat Design. fundamentals.
+description: "Basics with Combat Design. fundamentals."
 category: gamedev
 tags: [combat-design, basics, gamedev, game-design]
 models: [gpt-4, claude-3]

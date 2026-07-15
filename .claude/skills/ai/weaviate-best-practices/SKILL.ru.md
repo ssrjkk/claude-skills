@@ -1,6 +1,6 @@
 ---
 name: weaviate-best-practices
-description: Best Practices for Weaviate: best practices and patterns
+description: "Best Practices for Weaviate: best practices and patterns"
 category: ai
 tags: [weaviate-best-practices, ai, russian]
 models: [sonnet, opus]

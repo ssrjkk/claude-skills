@@ -1,6 +1,6 @@
 ---
 name: unity-audio
-description: Audio with Unity. audio.
+description: "Audio with Unity. audio."
 category: gamedev
 tags: [unity, audio, gamedev, game-engine]
 models: [gpt-4, claude-3]

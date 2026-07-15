@@ -1,6 +1,6 @@
 ---
 name: detectron2-image-augmentation
-description: Image Augmentation with Detectron2. data augmentation.
+description: "Image Augmentation with Detectron2. data augmentation."
 category: ai
 tags: [detectron2, image-augmentation, ai, computer-vision]
 models: [gpt-4, claude-3]

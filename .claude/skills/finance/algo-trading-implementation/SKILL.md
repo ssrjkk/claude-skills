@@ -1,6 +1,6 @@
 ---
 name: algo-trading-implementation
-description: Implementation with Algorithmic Trading. implementation.
+description: "Implementation with Algorithmic Trading. implementation."
 category: finance
 tags: [algo-trading, implementation, finance, trading]
 models: [gpt-4, claude-3]

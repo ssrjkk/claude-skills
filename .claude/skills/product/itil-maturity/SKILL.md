@@ -1,6 +1,6 @@
 ---
 name: itil-maturity
-description: Maturity with ITIL. assessment.
+description: "Maturity with ITIL. assessment."
 category: product
 tags: [itil, maturity, product, methodology]
 models: [gpt-4, claude-3]

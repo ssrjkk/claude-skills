@@ -1,6 +1,6 @@
 ---
 name: remix-deployment
-description: Deployment with Remix. production.
+description: "Deployment with Remix. production."
 category: frontend
 tags: [remix-deployment, frontend, russian]
 models: [sonnet, opus]

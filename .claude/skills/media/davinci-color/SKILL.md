@@ -1,6 +1,6 @@
 ---
 name: davinci-color
-description: Color with DaVinci Resolve. color grading.
+description: "Color with DaVinci Resolve. color grading."
 category: media
 tags: [davinci, color, media, media-production]
 models: [gpt-4, claude-3]

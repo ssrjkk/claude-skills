@@ -1,6 +1,6 @@
 ---
 name: apache-beam-integration
-description: Integration with Apache Beam. connectors.
+description: "Integration with Apache Beam. connectors."
 category: data
 tags: [apache-beam-integration, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: flaml-clustering
-description: Clustering with Flaml. grouping data.
+description: "Clustering with Flaml. grouping data."
 category: ai
 tags: [flaml, clustering, ai, ml]
 models: [gpt-4, claude-3]

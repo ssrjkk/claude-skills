@@ -1,6 +1,6 @@
 ---
 name: ospf-troubleshooting
-description: Troubleshooting with OSPF. diagnostics.
+description: "Troubleshooting with OSPF. diagnostics."
 category: networking
 tags: [ospf, troubleshooting, networking, networking]
 models: [gpt-4, claude-3]

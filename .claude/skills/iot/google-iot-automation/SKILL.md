@@ -1,6 +1,6 @@
 ---
 name: google-iot-automation
-description: Automation with Google IoT. automation.
+description: "Automation with Google IoT. automation."
 category: iot
 tags: [google-iot, automation, iot, iot-platform]
 models: [gpt-4, claude-3]

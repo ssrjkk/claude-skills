@@ -1,6 +1,6 @@
 ---
 name: stellar-smart-contracts
-description: Smart Contracts with Stellar. contracts.
+description: "Smart Contracts with Stellar. contracts."
 category: blockchain
 tags: [stellar-smart-contracts, blockchain, russian]
 models: [sonnet, opus]

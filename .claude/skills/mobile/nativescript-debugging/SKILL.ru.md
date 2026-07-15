@@ -1,6 +1,6 @@
 ---
 name: nativescript-debugging
-description: Debugging for Nativescript: debugging and troubleshooting
+description: "Debugging for Nativescript: debugging and troubleshooting"
 category: mobile
 tags: [nativescript-debugging, mobile, russian]
 models: [sonnet, opus]

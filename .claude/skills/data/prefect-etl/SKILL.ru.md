@@ -1,6 +1,6 @@
 ---
 name: prefect-etl
-description: ETL with Prefect. extract-transform-load.
+description: "ETL with Prefect. extract-transform-load."
 category: data
 tags: [prefect-etl, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gensim-lemmatization
-description: Lemmatization with Gensim. word lemmatization.
+description: "Lemmatization with Gensim. word lemmatization."
 category: ai
 tags: [gensim, lemmatization, ai, nlp]
 models: [gpt-4, claude-3]

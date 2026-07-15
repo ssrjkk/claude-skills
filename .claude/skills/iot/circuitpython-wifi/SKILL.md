@@ -1,6 +1,6 @@
 ---
 name: circuitpython-wifi
-description: WiFi with CircuitPython. wireless.
+description: "WiFi with CircuitPython. wireless."
 category: iot
 tags: [circuitpython, wifi, iot, iot]
 models: [gpt-4, claude-3]

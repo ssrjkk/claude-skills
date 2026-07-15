@@ -1,6 +1,6 @@
 ---
 name: remix-monitoring
-description: Monitoring for Remix: monitoring and observability
+description: "Monitoring for Remix: monitoring and observability"
 category: frontend
 tags: [remix, monitoring, frontend]
 models: [sonnet, opus]

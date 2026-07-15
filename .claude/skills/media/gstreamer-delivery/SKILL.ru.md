@@ -1,6 +1,6 @@
 ---
 name: gstreamer-delivery
-description: Delivery with GStreamer. delivery.
+description: "Delivery with GStreamer. delivery."
 category: media
 tags: [gstreamer-delivery, media, russian]
 models: [sonnet, opus]

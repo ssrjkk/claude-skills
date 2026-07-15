@@ -1,6 +1,6 @@
 ---
 name: penpot-quickstart
-description: Quickstart for Penpot: quick start guide
+description: "Quickstart for Penpot: quick start guide"
 category: design
 tags: [penpot, quickstart, design]
 models: [sonnet, opus]

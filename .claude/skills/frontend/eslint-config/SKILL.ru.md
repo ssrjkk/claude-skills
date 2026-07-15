@@ -1,6 +1,6 @@
 ---
 name: eslint-config
-description: Config with ESLint. configuration.
+description: "Config with ESLint. configuration."
 category: frontend
 tags: [eslint-config, frontend, russian]
 models: [sonnet, opus]

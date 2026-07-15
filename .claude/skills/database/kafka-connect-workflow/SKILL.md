@@ -1,6 +1,6 @@
 ---
 name: kafka-connect-workflow
-description: Workflow for Kafka-Connect: workflow optimization
+description: "Workflow for Kafka-Connect: workflow optimization"
 category: database
 tags: [kafka-connect, workflow, database]
 models: [sonnet, opus]

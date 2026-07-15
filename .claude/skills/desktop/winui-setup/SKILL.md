@@ -1,6 +1,6 @@
 ---
 name: winui-setup
-description: Setup with WinUI. SDK setup.
+description: "Setup with WinUI. SDK setup."
 category: desktop
 tags: [winui, setup, desktop, desktop]
 models: [gpt-4, claude-3]

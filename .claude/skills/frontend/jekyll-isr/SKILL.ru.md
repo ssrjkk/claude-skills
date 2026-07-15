@@ -1,6 +1,6 @@
 ---
 name: jekyll-isr
-description: ISR with Jekyll. incremental.
+description: "ISR with Jekyll. incremental."
 category: frontend
 tags: [jekyll-isr, frontend, russian]
 models: [sonnet, opus]

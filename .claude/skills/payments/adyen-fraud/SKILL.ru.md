@@ -1,6 +1,6 @@
 ---
 name: adyen-fraud
-description: Fraud with Adyen. fraud detection.
+description: "Fraud with Adyen. fraud detection."
 category: payments
 tags: [adyen-fraud, payments, russian]
 models: [sonnet, opus]

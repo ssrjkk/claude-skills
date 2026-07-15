@@ -1,6 +1,6 @@
 ---
 name: cardano-nft
-description: NFT with Cardano. tokens.
+description: "NFT with Cardano. tokens."
 category: blockchain
 tags: [cardano-nft, blockchain, russian]
 models: [sonnet, opus]

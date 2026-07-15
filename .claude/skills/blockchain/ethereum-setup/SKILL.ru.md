@@ -1,6 +1,6 @@
 ---
 name: ethereum-setup
-description: Setup with Ethereum. node setup.
+description: "Setup with Ethereum. node setup."
 category: blockchain
 tags: [ethereum-setup, blockchain, russian]
 models: [sonnet, opus]

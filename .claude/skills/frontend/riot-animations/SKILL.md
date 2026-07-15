@@ -1,6 +1,6 @@
 ---
 name: riot-animations
-description: Animations with Riot. UI animations.
+description: "Animations with Riot. UI animations."
 category: frontend
 tags: [riot, animations, frontend, frontend]
 models: [gpt-4, claude-3]

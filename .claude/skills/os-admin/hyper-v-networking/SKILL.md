@@ -1,6 +1,6 @@
 ---
 name: hyper-v-networking
-description: Networking with Hyper-V. network.
+description: "Networking with Hyper-V. network."
 category: os-admin
 tags: [hyper-v, networking, os-admin, windows]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: numpy-performance
-description: Performance with NumPy. optimization.
+description: "Performance with NumPy. optimization."
 category: data
 tags: [numpy, performance, data, data-science]
 models: [gpt-4, claude-3]

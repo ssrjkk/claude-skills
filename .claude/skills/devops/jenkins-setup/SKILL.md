@@ -1,6 +1,6 @@
 ---
 name: jenkins-setup
-description: Setup with Jenkins. pipeline setup.
+description: "Setup with Jenkins. pipeline setup."
 category: devops
 tags: [jenkins, setup, devops, ci-cd]
 models: [gpt-4, claude-3]

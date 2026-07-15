@@ -1,6 +1,6 @@
 ---
 name: packer-getting-started
-description: Getting Started for Packer: initial setup and first steps
+description: "Getting Started for Packer: initial setup and first steps"
 category: devops
 tags: [packer, getting-started, devops]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: thingsboard-security
-description: Security with ThingsBoard. device security.
+description: "Security with ThingsBoard. device security."
 category: iot
 tags: [thingsboard-security, iot, russian]
 models: [sonnet, opus]

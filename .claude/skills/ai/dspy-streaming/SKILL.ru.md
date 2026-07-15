@@ -1,6 +1,6 @@
 ---
 name: dspy-streaming
-description: Streaming with Dspy. token streaming.
+description: "Streaming with Dspy. token streaming."
 category: ai
 tags: [dspy-streaming, ai, russian]
 models: [sonnet, opus]

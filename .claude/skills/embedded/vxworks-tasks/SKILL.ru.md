@@ -1,6 +1,6 @@
 ---
 name: vxworks-tasks
-description: Tasks with VxWorks. task management.
+description: "Tasks with VxWorks. task management."
 category: embedded
 tags: [vxworks-tasks, embedded, russian]
 models: [sonnet, opus]

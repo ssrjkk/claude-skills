@@ -1,6 +1,6 @@
 ---
 name: spark-database
-description: Database with Spark. DB access.
+description: "Database with Spark. DB access."
 category: backend
 tags: [spark-database, backend, russian]
 models: [sonnet, opus]

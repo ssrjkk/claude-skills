@@ -1,6 +1,6 @@
 ---
 name: docusaurus-deployment
-description: Deployment with Docusaurus. production.
+description: "Deployment with Docusaurus. production."
 category: frontend
 tags: [docusaurus, deployment, frontend, meta-framework]
 models: [gpt-4, claude-3]

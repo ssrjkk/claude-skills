@@ -1,6 +1,6 @@
 ---
 name: game-maker-ui
-description: UI with GameMaker. game UI.
+description: "UI with GameMaker. game UI."
 category: gamedev
 tags: [game-maker, ui, gamedev, game-engine]
 models: [gpt-4, claude-3]

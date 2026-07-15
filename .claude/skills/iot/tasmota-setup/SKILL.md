@@ -1,6 +1,6 @@
 ---
 name: tasmota-setup
-description: Setup with Tasmota. setup.
+description: "Setup with Tasmota. setup."
 category: iot
 tags: [tasmota, setup, iot, iot-platform]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: grails-auth
-description: Auth with Grails. security.
+description: "Auth with Grails. security."
 category: backend
 tags: [grails-auth, backend, russian]
 models: [sonnet, opus]

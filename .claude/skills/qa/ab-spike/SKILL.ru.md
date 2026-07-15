@@ -1,6 +1,6 @@
 ---
 name: ab-spike
-description: Spike with Apache Bench. spike tests.
+description: "Spike with Apache Bench. spike tests."
 category: qa
 tags: [ab-spike, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: trankit-similarity
-description: Similarity with Trankit. text similarity.
+description: "Similarity with Trankit. text similarity."
 category: ai
 tags: [trankit, similarity, ai, nlp]
 models: [gpt-4, claude-3]

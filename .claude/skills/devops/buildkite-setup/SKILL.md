@@ -1,6 +1,6 @@
 ---
 name: buildkite-setup
-description: Setup with Buildkite. pipeline setup.
+description: "Setup with Buildkite. pipeline setup."
 category: devops
 tags: [buildkite, setup, devops, ci-cd]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: gcp-serverless
-description: Serverless with GCP. functions.
+description: "Serverless with GCP. functions."
 category: devops
 tags: [gcp, serverless, devops, cloud]
 models: [gpt-4, claude-3]

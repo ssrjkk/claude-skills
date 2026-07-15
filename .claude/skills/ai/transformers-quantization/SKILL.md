@@ -1,6 +1,6 @@
 ---
 name: transformers-quantization
-description: Quantization with Transformers. model quantization.
+description: "Quantization with Transformers. model quantization."
 category: ai
 tags: [transformers, quantization, ai, deep-learning]
 models: [gpt-4, claude-3]

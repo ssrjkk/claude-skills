@@ -1,6 +1,6 @@
 ---
 name: airflow-etl
-description: ETL with Airflow. extract-transform-load.
+description: "ETL with Airflow. extract-transform-load."
 category: data
 tags: [airflow-etl, data, russian]
 models: [sonnet, opus]

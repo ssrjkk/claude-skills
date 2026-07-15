@@ -1,6 +1,6 @@
 ---
 name: artillery-metrics
-description: Metrics with Artillery. performance metrics.
+description: "Metrics with Artillery. performance metrics."
 category: qa
 tags: [artillery-metrics, qa, russian]
 models: [sonnet, opus]

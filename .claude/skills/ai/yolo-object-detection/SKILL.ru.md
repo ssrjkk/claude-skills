@@ -1,6 +1,6 @@
 ---
 name: yolo-object-detection
-description: Object Detection with Yolo. detecting objects.
+description: "Object Detection with Yolo. detecting objects."
 category: ai
 tags: [yolo-object-detection, ai, russian]
 models: [sonnet, opus]

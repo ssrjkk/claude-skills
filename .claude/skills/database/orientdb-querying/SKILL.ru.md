@@ -1,6 +1,6 @@
 ---
 name: orientdb-querying
-description: Querying with OrientDB. Cypher/Gremlin.
+description: "Querying with OrientDB. Cypher/Gremlin."
 category: database
 tags: [orientdb-querying, database, russian]
 models: [sonnet, opus]

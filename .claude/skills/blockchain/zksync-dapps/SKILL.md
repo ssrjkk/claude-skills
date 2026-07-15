@@ -1,6 +1,6 @@
 ---
 name: zksync-dapps
-description: DApps with zkSync. decentralized apps.
+description: "DApps with zkSync. decentralized apps."
 category: blockchain
 tags: [zksync, dapps, blockchain, blockchain]
 models: [gpt-4, claude-3]

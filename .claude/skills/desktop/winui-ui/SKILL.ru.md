@@ -1,6 +1,6 @@
 ---
 name: winui-ui
-description: UI with WinUI. UI components.
+description: "UI with WinUI. UI components."
 category: desktop
 tags: [winui-ui, desktop, russian]
 models: [sonnet, opus]

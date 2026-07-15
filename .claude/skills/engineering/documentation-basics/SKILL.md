@@ -1,6 +1,6 @@
 ---
 name: documentation-basics
-description: Basics with Documentation. fundamentals.
+description: "Basics with Documentation. fundamentals."
 category: engineering
 tags: [documentation, basics, engineering, engineering]
 models: [gpt-4, claude-3]

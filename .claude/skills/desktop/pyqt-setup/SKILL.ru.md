@@ -1,6 +1,6 @@
 ---
 name: pyqt-setup
-description: Setup with PyQt. SDK setup.
+description: "Setup with PyQt. SDK setup."
 category: desktop
 tags: [pyqt-setup, desktop, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: coroutine-intro
-description: Intro for Coroutine: introduction
+description: "Intro for Coroutine: introduction"
 category: backend
 tags: [coroutine, intro, backend]
 models: [sonnet, opus]

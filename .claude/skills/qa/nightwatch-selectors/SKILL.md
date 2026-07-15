@@ -1,6 +1,6 @@
 ---
 name: nightwatch-selectors
-description: Selectors with Nightwatch. element selectors.
+description: "Selectors with Nightwatch. element selectors."
 category: qa
 tags: [nightwatch, selectors, qa, e2e]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: deel-integration
-description: Integration with Deel. integration.
+description: "Integration with Deel. integration."
 category: hr
 tags: [deel-integration, hr, russian]
 models: [sonnet, opus]

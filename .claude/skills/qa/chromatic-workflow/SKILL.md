@@ -1,6 +1,6 @@
 ---
 name: chromatic-workflow
-description: Workflow for Chromatic: workflow optimization
+description: "Workflow for Chromatic: workflow optimization"
 category: qa
 tags: [chromatic, workflow, qa]
 models: [sonnet, opus]

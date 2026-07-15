@@ -1,6 +1,6 @@
 ---
 name: qwik
-description: Creates instant-loading web applications with Qwik, resumability, and fine-grained lazy loading. Use for maximum performance SPAs.
+description: "Creates instant-loading web applications with Qwik, resumability, and fine-grained lazy loading. Use for maximum performance SPAs."
 category: frontend
 tags: [qwik, frontend, russian]
 models: [sonnet, opus]

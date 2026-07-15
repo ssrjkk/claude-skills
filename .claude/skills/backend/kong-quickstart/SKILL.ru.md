@@ -1,6 +1,6 @@
 ---
 name: kong-quickstart
-description: Quickstart for Kong: quick start guide
+description: "Quickstart for Kong: quick start guide"
 category: backend
 tags: [kong-quickstart, backend, russian]
 models: [sonnet, opus]

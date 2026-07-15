@@ -1,6 +1,6 @@
 ---
 name: feathers-deployment
-description: Deployment with FeathersJS. deploy.
+description: "Deployment with FeathersJS. deploy."
 category: backend
 tags: [feathers, deployment, backend, backend]
 models: [gpt-4, claude-3]

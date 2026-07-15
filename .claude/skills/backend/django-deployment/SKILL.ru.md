@@ -1,6 +1,6 @@
 ---
 name: django-deployment
-description: Deployment with Django. production deploy.
+description: "Deployment with Django. production deploy."
 category: backend
 tags: [django-deployment, backend, russian]
 models: [sonnet, opus]

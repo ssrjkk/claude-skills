@@ -1,6 +1,6 @@
 ---
 name: linux-security-backup
-description: Backup with Linux Security. backup.
+description: "Backup with Linux Security. backup."
 category: os-admin
 tags: [linux-security-backup, os-admin, russian]
 models: [sonnet, opus]

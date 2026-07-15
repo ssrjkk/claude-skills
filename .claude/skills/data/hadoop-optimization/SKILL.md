@@ -1,6 +1,6 @@
 ---
 name: hadoop-optimization
-description: Optimization with Hadoop. performance.
+description: "Optimization with Hadoop. performance."
 category: data
 tags: [hadoop, optimization, data, data-engineering]
 models: [gpt-4, claude-3]

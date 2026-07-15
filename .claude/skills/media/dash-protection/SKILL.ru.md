@@ -1,6 +1,6 @@
 ---
 name: dash-protection
-description: Protection with MPEG-DASH. DRM.
+description: "Protection with MPEG-DASH. DRM."
 category: media
 tags: [dash-protection, media, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: dart-logging
-description: Logging with Dart. app logging.
+description: "Logging with Dart. app logging."
 category: backend
 tags: [dart-logging, backend, russian]
 models: [sonnet, opus]

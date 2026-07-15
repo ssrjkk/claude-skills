@@ -1,6 +1,6 @@
 ---
 name: wireshark-automation
-description: Automation with Wireshark. automation.
+description: "Automation with Wireshark. automation."
 category: security
 tags: [wireshark-automation, security, russian]
 models: [sonnet, opus]

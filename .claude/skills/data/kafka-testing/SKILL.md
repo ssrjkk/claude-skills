@@ -1,6 +1,6 @@
 ---
 name: kafka-testing
-description: Testing for Kafka: testing and validation
+description: "Testing for Kafka: testing and validation"
 category: data
 tags: [kafka, testing, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: zustand-testing
-description: Testing with Zustand. state testing.
+description: "Testing with Zustand. state testing."
 category: frontend
 tags: [zustand, testing, frontend, state-management]
 models: [gpt-4, claude-3]

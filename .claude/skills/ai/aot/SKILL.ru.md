@@ -1,6 +1,6 @@
 ---
 name: aot
-description: Development with Aot: tools and best practices
+description: "Development with Aot: tools and best practices"
 category: ai
 tags: [aot, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: remix-middleware
-description: Middleware with Remix. request middleware.
+description: "Middleware with Remix. request middleware."
 category: frontend
 tags: [remix, middleware, frontend, meta-framework]
 models: [gpt-4, claude-3]

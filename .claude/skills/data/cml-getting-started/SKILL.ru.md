@@ -1,6 +1,6 @@
 ---
 name: cml-getting-started
-description: Getting Started for Cml: initial setup and first steps
+description: "Getting Started for Cml: initial setup and first steps"
 category: data
 tags: [cml-getting-started, data, russian]
 models: [sonnet, opus]

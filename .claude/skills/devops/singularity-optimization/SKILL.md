@@ -1,6 +1,6 @@
 ---
 name: singularity-optimization
-description: Optimization with Singularity. image optimization.
+description: "Optimization with Singularity. image optimization."
 category: devops
 tags: [singularity, optimization, devops, container]
 models: [gpt-4, claude-3]

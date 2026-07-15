@@ -1,6 +1,6 @@
 ---
 name: wandb-model-selection
-description: Model Selection with Wandb. choosing models.
+description: "Model Selection with Wandb. choosing models."
 category: ai
 tags: [wandb-model-selection, ai, russian]
 models: [sonnet, opus]

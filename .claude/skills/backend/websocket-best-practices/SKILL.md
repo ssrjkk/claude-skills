@@ -1,6 +1,6 @@
 ---
 name: websocket-best-practices
-description: Best Practices for Websocket: best practices and patterns
+description: "Best Practices for Websocket: best practices and patterns"
 category: backend
 tags: [websocket, best-practices, backend]
 models: [sonnet, opus]

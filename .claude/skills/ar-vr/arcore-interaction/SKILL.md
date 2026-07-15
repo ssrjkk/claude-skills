@@ -1,6 +1,6 @@
 ---
 name: arcore-interaction
-description: Interaction with ARCore. hand tracking.
+description: "Interaction with ARCore. hand tracking."
 category: ar-vr
 tags: [arcore, interaction, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

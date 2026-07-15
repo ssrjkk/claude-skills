@@ -1,6 +1,6 @@
 ---
 name: aws-lambda-examples
-description: Examples for Aws-Lambda: practical examples
+description: "Examples for Aws-Lambda: practical examples"
 category: cloud
 tags: [aws-lambda-examples, cloud, russian]
 models: [sonnet, opus]

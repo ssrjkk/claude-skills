@@ -1,6 +1,6 @@
 ---
 name: adapter-testing
-description: Testing with Adapter. testing the pattern.
+description: "Testing with Adapter. testing the pattern."
 category: backend
 tags: [adapter-testing, backend, russian]
 models: [sonnet, opus]

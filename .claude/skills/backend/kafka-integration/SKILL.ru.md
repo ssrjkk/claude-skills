@@ -1,6 +1,6 @@
 ---
 name: kafka-integration
-description: Integration for Kafka: integration with other tools
+description: "Integration for Kafka: integration with other tools"
 category: backend
 tags: [kafka-integration, backend, russian]
 models: [sonnet, opus]

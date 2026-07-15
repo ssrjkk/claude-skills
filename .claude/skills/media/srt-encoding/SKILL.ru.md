@@ -1,6 +1,6 @@
 ---
 name: srt-encoding
-description: Encoding with SRT. encoding.
+description: "Encoding with SRT. encoding."
 category: media
 tags: [srt-encoding, media, russian]
 models: [sonnet, opus]

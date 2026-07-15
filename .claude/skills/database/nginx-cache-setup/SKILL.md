@@ -1,6 +1,6 @@
 ---
 name: nginx-cache-setup
-description: Setup with Nginx Cache. installation.
+description: "Setup with Nginx Cache. installation."
 category: database
 tags: [nginx-cache, setup, database, caching]
 models: [gpt-4, claude-3]

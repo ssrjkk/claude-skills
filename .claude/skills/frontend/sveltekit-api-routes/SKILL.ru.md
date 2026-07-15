@@ -1,6 +1,6 @@
 ---
 name: sveltekit-api-routes
-description: API Routes with SvelteKit. API endpoints.
+description: "API Routes with SvelteKit. API endpoints."
 category: frontend
 tags: [sveltekit-api-routes, frontend, russian]
 models: [sonnet, opus]

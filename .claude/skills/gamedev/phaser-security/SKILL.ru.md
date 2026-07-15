@@ -1,6 +1,6 @@
 ---
 name: phaser-security
-description: Security for Phaser: security best practices
+description: "Security for Phaser: security best practices"
 category: gamedev
 tags: [phaser-security, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ant-design-examples
-description: Examples for Ant-Design: practical examples
+description: "Examples for Ant-Design: practical examples"
 category: frontend
 tags: [ant-design, examples, frontend]
 models: [sonnet, opus]

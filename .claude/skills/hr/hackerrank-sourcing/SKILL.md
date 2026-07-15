@@ -1,6 +1,6 @@
 ---
 name: hackerrank-sourcing
-description: Sourcing with HackerRank. candidate sourcing.
+description: "Sourcing with HackerRank. candidate sourcing."
 category: hr
 tags: [hackerrank, sourcing, hr, recruiting]
 models: [gpt-4, claude-3]

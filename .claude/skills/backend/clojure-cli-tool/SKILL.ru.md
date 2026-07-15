@@ -1,6 +1,6 @@
 ---
 name: clojure-cli-tool
-description: CLI Tool with Clojure. building CLI tools.
+description: "CLI Tool with Clojure. building CLI tools."
 category: backend
 tags: [clojure-cli-tool, backend, russian]
 models: [sonnet, opus]

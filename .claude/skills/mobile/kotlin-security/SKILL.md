@@ -1,6 +1,6 @@
 ---
 name: kotlin-security
-description: Security for Kotlin: security best practices
+description: "Security for Kotlin: security best practices"
 category: mobile
 tags: [kotlin, security, mobile]
 models: [sonnet, opus]

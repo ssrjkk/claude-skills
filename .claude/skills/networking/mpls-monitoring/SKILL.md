@@ -1,6 +1,6 @@
 ---
 name: mpls-monitoring
-description: Monitoring with MPLS. monitoring.
+description: "Monitoring with MPLS. monitoring."
 category: networking
 tags: [mpls, monitoring, networking, networking]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: gatling-spike
-description: Spike with Gatling. spike tests.
+description: "Spike with Gatling. spike tests."
 category: qa
 tags: [gatling-spike, qa, russian]
 models: [sonnet, opus]

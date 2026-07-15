@@ -1,6 +1,6 @@
 ---
 name: aiohttp-testing
-description: Testing with aiohttp. integration tests.
+description: "Testing with aiohttp. integration tests."
 category: backend
 tags: [aiohttp-testing, backend, russian]
 models: [sonnet, opus]

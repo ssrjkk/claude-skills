@@ -1,6 +1,6 @@
 ---
 name: kong-guides
-description: Guides for Kong: how-to guides
+description: "Guides for Kong: how-to guides"
 category: backend
 tags: [kong, guides, backend]
 models: [sonnet, opus]

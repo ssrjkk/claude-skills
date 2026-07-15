@@ -1,6 +1,6 @@
 ---
 name: claude-code
-description: Using Claude Code CLI for autonomous development
+description: "Using Claude Code CLI for autonomous development"
 category: ai
 tags: [claude-code, ai, russian]
 models: [sonnet, opus]

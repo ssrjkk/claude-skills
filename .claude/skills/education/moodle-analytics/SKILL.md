@@ -1,6 +1,6 @@
 ---
 name: moodle-analytics
-description: Analytics with Moodle. analytics.
+description: "Analytics with Moodle. analytics."
 category: education
 tags: [moodle, analytics, education, education-platform]
 models: [gpt-4, claude-3]

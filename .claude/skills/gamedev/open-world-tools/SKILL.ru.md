@@ -1,6 +1,6 @@
 ---
 name: open-world-tools
-description: Tools with Open World Design. tools.
+description: "Tools with Open World Design. tools."
 category: gamedev
 tags: [open-world-tools, gamedev, russian]
 models: [sonnet, opus]

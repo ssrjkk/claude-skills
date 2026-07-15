@@ -1,6 +1,6 @@
 ---
 name: hackerrank-screening
-description: Screening with HackerRank. resume screening.
+description: "Screening with HackerRank. resume screening."
 category: hr
 tags: [hackerrank-screening, hr, russian]
 models: [sonnet, opus]

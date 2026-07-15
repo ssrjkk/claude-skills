@@ -1,6 +1,6 @@
 ---
 name: tech-debt-team
-description: Team with Tech Debt Management. team adoption.
+description: "Team with Tech Debt Management. team adoption."
 category: engineering
 tags: [tech-debt, team, engineering, engineering]
 models: [gpt-4, claude-3]

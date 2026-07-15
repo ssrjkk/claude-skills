@@ -1,6 +1,6 @@
 ---
 name: onnx-pruning
-description: Pruning with Onnx. model pruning.
+description: "Pruning with Onnx. model pruning."
 category: ai
 tags: [onnx, pruning, ai, deep-learning]
 models: [gpt-4, claude-3]

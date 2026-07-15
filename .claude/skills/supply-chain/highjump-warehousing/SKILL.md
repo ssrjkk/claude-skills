@@ -1,6 +1,6 @@
 ---
 name: highjump-warehousing
-description: Warehousing with HighJump. WMS.
+description: "Warehousing with HighJump. WMS."
 category: supply-chain
 tags: [highjump, warehousing, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

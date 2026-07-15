@@ -1,6 +1,6 @@
 ---
 name: typesense-monitoring
-description: Monitoring with Typesense. cluster monitoring.
+description: "Monitoring with Typesense. cluster monitoring."
 category: database
 tags: [typesense-monitoring, database, russian]
 models: [sonnet, opus]

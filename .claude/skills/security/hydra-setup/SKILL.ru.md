@@ -1,6 +1,6 @@
 ---
 name: hydra-setup
-description: Setup with Hydra. installation.
+description: "Setup with Hydra. installation."
 category: security
 tags: [hydra-setup, security, russian]
 models: [sonnet, opus]

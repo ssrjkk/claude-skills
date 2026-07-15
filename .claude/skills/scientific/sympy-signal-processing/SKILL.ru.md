@@ -1,6 +1,6 @@
 ---
 name: sympy-signal-processing
-description: Signal Processing with SymPy. FFT.
+description: "Signal Processing with SymPy. FFT."
 category: scientific
 tags: [sympy-signal-processing, scientific, russian]
 models: [sonnet, opus]

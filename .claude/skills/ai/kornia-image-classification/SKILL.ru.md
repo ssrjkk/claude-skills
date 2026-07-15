@@ -1,6 +1,6 @@
 ---
 name: kornia-image-classification
-description: Image Classification with Kornia. classifying images.
+description: "Image Classification with Kornia. classifying images."
 category: ai
 tags: [kornia-image-classification, ai, russian]
 models: [sonnet, opus]

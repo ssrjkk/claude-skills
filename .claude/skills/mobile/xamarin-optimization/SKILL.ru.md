@@ -1,6 +1,6 @@
 ---
 name: xamarin-optimization
-description: Optimization for Xamarin: performance tuning and optimization
+description: "Optimization for Xamarin: performance tuning and optimization"
 category: mobile
 tags: [xamarin-optimization, mobile, russian]
 models: [sonnet, opus]

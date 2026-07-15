@@ -1,6 +1,6 @@
 ---
 name: crystal-orm
-description: ORM with Crystal. database access.
+description: "ORM with Crystal. database access."
 category: backend
 tags: [crystal, orm, backend, backend]
 models: [gpt-4, claude-3]

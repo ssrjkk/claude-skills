@@ -1,6 +1,6 @@
 ---
 name: devops-skill-0004
-description: devops specialized skill #0004 for devops development
+description: "devops specialized skill #0004 for devops development"
 category: devops
 tags: [devops, skill, 0004]
 models: [sonnet, opus]

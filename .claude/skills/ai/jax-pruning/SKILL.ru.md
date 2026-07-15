@@ -1,6 +1,6 @@
 ---
 name: jax-pruning
-description: Pruning with Jax. model pruning.
+description: "Pruning with Jax. model pruning."
 category: ai
 tags: [jax-pruning, ai, russian]
 models: [sonnet, opus]

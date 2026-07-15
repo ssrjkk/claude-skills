@@ -1,6 +1,6 @@
 ---
 name: code-review-measurement
-description: Measurement with Code Review. metrics.
+description: "Measurement with Code Review. metrics."
 category: engineering
 tags: [code-review, measurement, engineering, engineering]
 models: [gpt-4, claude-3]

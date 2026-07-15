@@ -1,6 +1,6 @@
 ---
 name: visual-scripting-quickstart
-description: Quickstart for Visual-Scripting: quick start guide
+description: "Quickstart for Visual-Scripting: quick start guide"
 category: gamedev
 tags: [visual-scripting-quickstart, gamedev, russian]
 models: [sonnet, opus]

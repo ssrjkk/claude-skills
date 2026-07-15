@@ -1,6 +1,6 @@
 ---
 name: cloud-native-ai
-description: Cloud-native AI deployment patterns
+description: "Cloud-native AI deployment patterns"
 category: devops
 tags: [cloud-native, ai, kubernetes, inference, deployment]
 models: [sonnet, opus]

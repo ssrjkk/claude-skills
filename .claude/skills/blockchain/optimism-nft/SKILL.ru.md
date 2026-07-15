@@ -1,6 +1,6 @@
 ---
 name: optimism-nft
-description: NFT with Optimism. tokens.
+description: "NFT with Optimism. tokens."
 category: blockchain
 tags: [optimism-nft, blockchain, russian]
 models: [sonnet, opus]

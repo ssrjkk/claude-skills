@@ -1,6 +1,6 @@
 ---
 name: prompt-engineering
-description: Advanced prompt engineering patterns
+description: "Advanced prompt engineering patterns"
 category: ai
 tags: [prompt-engineering, llm, patterns, techniques]
 models: [sonnet, opus]

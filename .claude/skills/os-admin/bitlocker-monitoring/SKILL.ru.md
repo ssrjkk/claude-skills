@@ -1,6 +1,6 @@
 ---
 name: bitlocker-monitoring
-description: Monitoring with BitLocker. monitoring.
+description: "Monitoring with BitLocker. monitoring."
 category: os-admin
 tags: [bitlocker-monitoring, os-admin, russian]
 models: [sonnet, opus]

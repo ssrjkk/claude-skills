@@ -1,6 +1,6 @@
 ---
 name: scala-orm
-description: ORM with Scala. database access.
+description: "ORM with Scala. database access."
 category: backend
 tags: [scala, orm, backend, backend]
 models: [gpt-4, claude-3]

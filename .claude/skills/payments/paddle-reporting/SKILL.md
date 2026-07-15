@@ -1,6 +1,6 @@
 ---
 name: paddle-reporting
-description: Reporting with Paddle. reports.
+description: "Reporting with Paddle. reports."
 category: payments
 tags: [paddle, reporting, payments, payments]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: istio-best-practices
-description: Best Practices for Istio: best practices and patterns
+description: "Best Practices for Istio: best practices and patterns"
 category: devops
 tags: [istio-best-practices, devops, russian]
 models: [sonnet, opus]

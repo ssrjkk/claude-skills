@@ -1,6 +1,6 @@
 ---
 name: imgaug-image-augmentation
-description: Image Augmentation with Imgaug. data augmentation.
+description: "Image Augmentation with Imgaug. data augmentation."
 category: ai
 tags: [imgaug-image-augmentation, ai, russian]
 models: [sonnet, opus]

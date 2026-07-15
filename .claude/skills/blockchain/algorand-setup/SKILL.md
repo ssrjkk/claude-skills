@@ -1,6 +1,6 @@
 ---
 name: algorand-setup
-description: Setup with Algorand. node setup.
+description: "Setup with Algorand. node setup."
 category: blockchain
 tags: [algorand, setup, blockchain, blockchain]
 models: [gpt-4, claude-3]

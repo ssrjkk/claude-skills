@@ -1,6 +1,6 @@
 ---
 name: burpsuite-compliance
-description: Compliance with Burp Suite. compliance.
+description: "Compliance with Burp Suite. compliance."
 category: security
 tags: [burpsuite-compliance, security, russian]
 models: [sonnet, opus]

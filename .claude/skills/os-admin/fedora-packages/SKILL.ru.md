@@ -1,6 +1,6 @@
 ---
 name: fedora-packages
-description: Packages with Fedora. package management.
+description: "Packages with Fedora. package management."
 category: os-admin
 tags: [fedora-packages, os-admin, russian]
 models: [sonnet, opus]

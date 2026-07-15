@@ -1,6 +1,6 @@
 ---
 name: mailgun-voice
-description: Voice with Mailgun. voice calls.
+description: "Voice with Mailgun. voice calls."
 category: communications
 tags: [mailgun-voice, communications, russian]
 models: [sonnet, opus]

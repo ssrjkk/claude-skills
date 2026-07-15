@@ -1,6 +1,6 @@
 ---
 name: sketch-setup
-description: Setup with Sketch. workspace.
+description: "Setup with Sketch. workspace."
 category: design
 tags: [sketch, setup, design, design]
 models: [gpt-4, claude-3]

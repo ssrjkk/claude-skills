@@ -1,6 +1,6 @@
 ---
 name: openlayers-geocoding
-description: Geocoding with OpenLayers. geocoding.
+description: "Geocoding with OpenLayers. geocoding."
 category: geospatial
 tags: [openlayers, geocoding, geospatial, gis]
 models: [gpt-4, claude-3]

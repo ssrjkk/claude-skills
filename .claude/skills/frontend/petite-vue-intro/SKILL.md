@@ -1,6 +1,6 @@
 ---
 name: petite-vue-intro
-description: Intro for Petite-Vue: introduction
+description: "Intro for Petite-Vue: introduction"
 category: frontend
 tags: [petite-vue, intro, frontend]
 models: [sonnet, opus]

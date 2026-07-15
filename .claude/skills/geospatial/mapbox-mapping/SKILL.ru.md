@@ -1,6 +1,6 @@
 ---
 name: mapbox-mapping
-description: Mapping with Mapbox. mapping.
+description: "Mapping with Mapbox. mapping."
 category: geospatial
 tags: [mapbox-mapping, geospatial, russian]
 models: [sonnet, opus]

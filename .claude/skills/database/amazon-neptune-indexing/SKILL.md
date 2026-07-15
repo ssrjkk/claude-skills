@@ -1,6 +1,6 @@
 ---
 name: amazon-neptune-indexing
-description: Indexing with Amazon Neptune. indexes.
+description: "Indexing with Amazon Neptune. indexes."
 category: database
 tags: [amazon-neptune, indexing, database, graph-database]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: shopify-storefront-integration
-description: Integration with Shopify Storefront. frontend integration.
+description: "Integration with Shopify Storefront. frontend integration."
 category: ecommerce
 tags: [shopify-storefront, integration, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

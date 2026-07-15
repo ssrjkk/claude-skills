@@ -1,6 +1,6 @@
 ---
 name: masonite-database
-description: Database with Masonite. DB access.
+description: "Database with Masonite. DB access."
 category: backend
 tags: [masonite-database, backend, russian]
 models: [sonnet, opus]

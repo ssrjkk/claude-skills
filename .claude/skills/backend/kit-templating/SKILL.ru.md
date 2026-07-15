@@ -1,6 +1,6 @@
 ---
 name: kit-templating
-description: Templating with Go Kit. HTML templates.
+description: "Templating with Go Kit. HTML templates."
 category: backend
 tags: [kit-templating, backend, russian]
 models: [sonnet, opus]

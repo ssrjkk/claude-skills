@@ -1,6 +1,6 @@
 ---
 name: algorand-staking
-description: Staking with Algorand. staking.
+description: "Staking with Algorand. staking."
 category: blockchain
 tags: [algorand-staking, blockchain, russian]
 models: [sonnet, opus]

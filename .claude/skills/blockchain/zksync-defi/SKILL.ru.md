@@ -1,6 +1,6 @@
 ---
 name: zksync-defi
-description: DeFi with zkSync. DeFi.
+description: "DeFi with zkSync. DeFi."
 category: blockchain
 tags: [zksync-defi, blockchain, russian]
 models: [sonnet, opus]

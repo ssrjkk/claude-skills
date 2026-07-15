@@ -1,6 +1,6 @@
 ---
 name: self-hosted-examples
-description: Examples for Self-Hosted: practical examples
+description: "Examples for Self-Hosted: practical examples"
 category: devops
 tags: [self-hosted-examples, devops, russian]
 models: [sonnet, opus]

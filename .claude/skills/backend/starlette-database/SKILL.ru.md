@@ -1,6 +1,6 @@
 ---
 name: starlette-database
-description: Database with Starlette. DB access.
+description: "Database with Starlette. DB access."
 category: backend
 tags: [starlette-database, backend, russian]
 models: [sonnet, opus]

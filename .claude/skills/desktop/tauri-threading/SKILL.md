@@ -1,6 +1,6 @@
 ---
 name: tauri-threading
-description: Threading with Tauri. multithreading.
+description: "Threading with Tauri. multithreading."
 category: desktop
 tags: [tauri, threading, desktop, desktop]
 models: [gpt-4, claude-3]

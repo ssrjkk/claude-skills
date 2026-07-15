@@ -1,6 +1,6 @@
 ---
 name: solid-deployment
-description: Deployment for Solid: deployment and release
+description: "Deployment for Solid: deployment and release"
 category: frontend
 tags: [solid, deployment, frontend]
 models: [sonnet, opus]

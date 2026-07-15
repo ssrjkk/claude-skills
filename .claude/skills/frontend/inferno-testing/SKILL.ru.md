@@ -1,6 +1,6 @@
 ---
 name: inferno-testing
-description: Testing with Inferno. component testing.
+description: "Testing with Inferno. component testing."
 category: frontend
 tags: [inferno-testing, frontend, russian]
 models: [sonnet, opus]

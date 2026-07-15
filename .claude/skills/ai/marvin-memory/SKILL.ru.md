@@ -1,6 +1,6 @@
 ---
 name: marvin-memory
-description: Memory with Marvin. conversation memory.
+description: "Memory with Marvin. conversation memory."
 category: ai
 tags: [marvin-memory, ai, russian]
 models: [sonnet, opus]

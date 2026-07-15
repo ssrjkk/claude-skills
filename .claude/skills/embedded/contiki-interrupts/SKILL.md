@@ -1,6 +1,6 @@
 ---
 name: contiki-interrupts
-description: Interrupts with Contiki-NG. ISR handling.
+description: "Interrupts with Contiki-NG. ISR handling."
 category: embedded
 tags: [contiki, interrupts, embedded, rtos]
 models: [gpt-4, claude-3]

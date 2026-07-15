@@ -1,6 +1,6 @@
 ---
 name: pillow-image-filtering
-description: Image Filtering with Pillow. image filters.
+description: "Image Filtering with Pillow. image filters."
 category: ai
 tags: [pillow-image-filtering, ai, russian]
 models: [sonnet, opus]

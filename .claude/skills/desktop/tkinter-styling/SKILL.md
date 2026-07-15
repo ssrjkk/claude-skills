@@ -1,6 +1,6 @@
 ---
 name: tkinter-styling
-description: Styling with Tkinter. styling.
+description: "Styling with Tkinter. styling."
 category: desktop
 tags: [tkinter, styling, desktop, desktop]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: sagemath-simulation
-description: Simulation with SageMath. Monte Carlo.
+description: "Simulation with SageMath. Monte Carlo."
 category: scientific
 tags: [sagemath-simulation, scientific, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: mcp-server
-description: Model Context Protocol server implementation in Python/TypeScript
+description: "Model Context Protocol server implementation in Python/TypeScript"
 category: ai
 tags: [mcp, protocol, ai, integration, python, typescript]
 models: [sonnet, opus]

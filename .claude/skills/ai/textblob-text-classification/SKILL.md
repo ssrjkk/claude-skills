@@ -1,6 +1,6 @@
 ---
 name: textblob-text-classification
-description: Text Classification with Textblob. document categorization.
+description: "Text Classification with Textblob. document categorization."
 category: ai
 tags: [textblob, text-classification, ai, nlp]
 models: [gpt-4, claude-3]

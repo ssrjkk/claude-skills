@@ -1,6 +1,6 @@
 ---
 name: ionic-deployment
-description: Deployment with Ionic. app store.
+description: "Deployment with Ionic. app store."
 category: mobile
 tags: [ionic, deployment, mobile, mobile]
 models: [gpt-4, claude-3]

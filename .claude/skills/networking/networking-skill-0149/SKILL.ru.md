@@ -1,6 +1,6 @@
 ---
 name: networking-skill-0149
-description: Specialized skill #0149 for networking development
+description: "Specialized skill #0149 for networking development"
 category: networking
 tags: [skill-0149, networking, russian]
 models: [sonnet, opus]

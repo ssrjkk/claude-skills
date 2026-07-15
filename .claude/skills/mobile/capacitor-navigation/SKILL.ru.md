@@ -1,6 +1,6 @@
 ---
 name: capacitor-navigation
-description: Navigation with Capacitor. navigation.
+description: "Navigation with Capacitor. navigation."
 category: mobile
 tags: [capacitor-navigation, mobile, russian]
 models: [sonnet, opus]

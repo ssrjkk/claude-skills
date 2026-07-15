@@ -1,6 +1,6 @@
 ---
 name: swift-test-ci
-description: CI with Swift Testing. CI integration.
+description: "CI with Swift Testing. CI integration."
 category: qa
 tags: [swift-test, ci, qa, testing]
 models: [gpt-4, claude-3]

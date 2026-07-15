@@ -1,6 +1,6 @@
 ---
 name: webxr-tracking
-description: Tracking with WebXR. spatial tracking.
+description: "Tracking with WebXR. spatial tracking."
 category: ar-vr
 tags: [webxr, tracking, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

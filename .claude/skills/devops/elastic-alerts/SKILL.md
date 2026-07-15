@@ -1,6 +1,6 @@
 ---
 name: elastic-alerts
-description: Alerts with Elastic Stack. alerting rules.
+description: "Alerts with Elastic Stack. alerting rules."
 category: devops
 tags: [elastic, alerts, devops, monitoring]
 models: [gpt-4, claude-3]

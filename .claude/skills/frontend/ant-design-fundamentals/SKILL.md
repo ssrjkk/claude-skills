@@ -1,6 +1,6 @@
 ---
 name: ant-design-fundamentals
-description: Fundamentals for Ant-Design: core concepts
+description: "Fundamentals for Ant-Design: core concepts"
 category: frontend
 tags: [ant-design, fundamentals, frontend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: neon
-description: Development with Neon: tools and best practices
+description: "Development with Neon: tools and best practices"
 category: iot
 tags: [neon, iot, development]
 models: [sonnet, opus]

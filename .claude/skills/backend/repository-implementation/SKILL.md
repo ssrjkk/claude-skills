@@ -1,6 +1,6 @@
 ---
 name: repository-implementation
-description: Implementation with Repository. practical implementation.
+description: "Implementation with Repository. practical implementation."
 category: backend
 tags: [repository, implementation, backend, architecture]
 models: [gpt-4, claude-3]

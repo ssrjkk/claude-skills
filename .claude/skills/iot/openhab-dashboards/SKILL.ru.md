@@ -1,6 +1,6 @@
 ---
 name: openhab-dashboards
-description: Dashboards with openHAB. dashboards.
+description: "Dashboards with openHAB. dashboards."
 category: iot
 tags: [openhab-dashboards, iot, russian]
 models: [sonnet, opus]

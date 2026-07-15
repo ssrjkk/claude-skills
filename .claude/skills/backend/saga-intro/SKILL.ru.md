@@ -1,6 +1,6 @@
 ---
 name: saga-intro
-description: Introduction with Saga. understanding the pattern.
+description: "Introduction with Saga. understanding the pattern."
 category: backend
 tags: [saga-intro, backend, russian]
 models: [sonnet, opus]

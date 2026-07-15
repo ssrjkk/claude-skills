@@ -1,6 +1,6 @@
 ---
 name: jest-unit-tests
-description: Unit Tests with Jest. unit testing.
+description: "Unit Tests with Jest. unit testing."
 category: qa
 tags: [jest-unit-tests, qa, russian]
 models: [sonnet, opus]

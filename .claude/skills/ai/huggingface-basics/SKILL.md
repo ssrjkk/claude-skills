@@ -1,6 +1,6 @@
 ---
 name: huggingface-basics
-description: Basics for Huggingface: fundamentals and core concepts
+description: "Basics for Huggingface: fundamentals and core concepts"
 category: ai
 tags: [huggingface, basics, ai]
 models: [sonnet, opus]

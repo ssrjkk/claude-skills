@@ -1,6 +1,6 @@
 ---
 name: claude-basics
-description: Basics for Claude: fundamentals and core concepts
+description: "Basics for Claude: fundamentals and core concepts"
 category: ai
 tags: [claude-basics, ai, russian]
 models: [sonnet, opus]

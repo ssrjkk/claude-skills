@@ -1,6 +1,6 @@
 ---
 name: laminas-database
-description: Database with Laminas. Eloquent.
+description: "Database with Laminas. Eloquent."
 category: backend
 tags: [laminas, database, backend, backend]
 models: [gpt-4, claude-3]

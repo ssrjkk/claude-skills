@@ -1,6 +1,6 @@
 ---
 name: xstate-persistence
-description: Persistence with XState. state persistence.
+description: "Persistence with XState. state persistence."
 category: frontend
 tags: [xstate-persistence, frontend, russian]
 models: [sonnet, opus]

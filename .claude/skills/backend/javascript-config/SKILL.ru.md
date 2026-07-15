@@ -1,6 +1,6 @@
 ---
 name: javascript-config
-description: Configuration with Javascript. config management.
+description: "Configuration with Javascript. config management."
 category: backend
 tags: [javascript-config, backend, russian]
 models: [sonnet, opus]

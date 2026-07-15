@@ -1,6 +1,6 @@
 ---
 name: docusaurus-api-routes
-description: API Routes with Docusaurus. API endpoints.
+description: "API Routes with Docusaurus. API endpoints."
 category: frontend
 tags: [docusaurus-api-routes, frontend, russian]
 models: [sonnet, opus]

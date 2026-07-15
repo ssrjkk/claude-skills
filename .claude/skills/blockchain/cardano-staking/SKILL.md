@@ -1,6 +1,6 @@
 ---
 name: cardano-staking
-description: Staking with Cardano. staking.
+description: "Staking with Cardano. staking."
 category: blockchain
 tags: [cardano, staking, blockchain, blockchain]
 models: [gpt-4, claude-3]

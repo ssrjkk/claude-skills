@@ -1,6 +1,6 @@
 ---
 name: gcp-networking
-description: Networking with GCP. VPC.
+description: "Networking with GCP. VPC."
 category: devops
 tags: [gcp-networking, devops, russian]
 models: [sonnet, opus]

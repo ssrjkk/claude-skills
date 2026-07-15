@@ -1,6 +1,6 @@
 ---
 name: ngrx-actions
-description: Actions with NgRx. actions.
+description: "Actions with NgRx. actions."
 category: frontend
 tags: [ngrx, actions, frontend, state-management]
 models: [gpt-4, claude-3]

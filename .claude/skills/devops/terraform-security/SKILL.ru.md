@@ -1,6 +1,6 @@
 ---
 name: terraform-security
-description: Security with Terraform. security groups.
+description: "Security with Terraform. security groups."
 category: devops
 tags: [terraform-security, devops, russian]
 models: [sonnet, opus]

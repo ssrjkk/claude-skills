@@ -1,6 +1,6 @@
 ---
 name: meilisearch-indexing
-description: Indexing with Meilisearch. document indexing.
+description: "Indexing with Meilisearch. document indexing."
 category: database
 tags: [meilisearch-indexing, database, russian]
 models: [sonnet, opus]

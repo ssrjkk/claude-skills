@@ -1,6 +1,6 @@
 ---
 name: examples
-description: API testing code examples for REST and GraphQL
+description: "API testing code examples for REST and GraphQL"
 category: api-testing
 tags: [examples, api-testing, russian]
 models: [sonnet, opus]

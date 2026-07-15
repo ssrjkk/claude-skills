@@ -1,6 +1,6 @@
 ---
 name: battery-storage-optimization
-description: Optimization with Battery Storage. optimization.
+description: "Optimization with Battery Storage. optimization."
 category: energy
 tags: [battery-storage-optimization, energy, russian]
 models: [sonnet, opus]

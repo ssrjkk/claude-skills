@@ -1,6 +1,6 @@
 ---
 name: prometheus-api
-description: API for Prometheus: API development and integration
+description: "API for Prometheus: API development and integration"
 category: devops
 tags: [prometheus, api, devops]
 models: [sonnet, opus]

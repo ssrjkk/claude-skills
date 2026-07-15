@@ -1,6 +1,6 @@
 ---
 name: tornado-deployment
-description: Deployment with Tornado. production deploy.
+description: "Deployment with Tornado. production deploy."
 category: backend
 tags: [tornado-deployment, backend, russian]
 models: [sonnet, opus]

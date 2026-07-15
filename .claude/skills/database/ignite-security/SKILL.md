@@ -1,6 +1,6 @@
 ---
 name: ignite-security
-description: Security with Apache Ignite. security.
+description: "Security with Apache Ignite. security."
 category: database
 tags: [ignite, security, database, caching]
 models: [gpt-4, claude-3]

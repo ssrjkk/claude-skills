@@ -1,6 +1,6 @@
 ---
 name: chain-of-thought
-description: Implements step-by-step reasoning with Chain-of-Thought, Tree-of-Thought, and self-consistency techniques. Use for complex multi-step problems.
+description: "Implements step-by-step reasoning with Chain-of-Thought, Tree-of-Thought, and self-consistency techniques. Use for complex multi-step problems."
 category: ai
 tags: [prompt, reasoning, chain-of-thought, step-by-step, llm]
 models: [sonnet, opus]

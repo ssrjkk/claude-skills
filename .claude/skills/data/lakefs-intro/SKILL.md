@@ -1,6 +1,6 @@
 ---
 name: lakefs-intro
-description: Intro for Lakefs: introduction
+description: "Intro for Lakefs: introduction"
 category: data
 tags: [lakefs, intro, data]
 models: [sonnet, opus]

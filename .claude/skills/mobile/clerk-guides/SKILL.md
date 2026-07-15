@@ -1,6 +1,6 @@
 ---
 name: clerk-guides
-description: Guides for Clerk: how-to guides
+description: "Guides for Clerk: how-to guides"
 category: mobile
 tags: [clerk, guides, mobile]
 models: [sonnet, opus]

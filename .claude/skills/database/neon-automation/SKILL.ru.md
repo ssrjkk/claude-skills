@@ -1,6 +1,6 @@
 ---
 name: neon-automation
-description: Automation for Neon: automation and scripting
+description: "Automation for Neon: automation and scripting"
 category: database
 tags: [neon-automation, database, russian]
 models: [sonnet, opus]

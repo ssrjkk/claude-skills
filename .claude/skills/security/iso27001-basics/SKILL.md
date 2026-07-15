@@ -1,6 +1,6 @@
 ---
 name: iso27001-basics
-description: Basics with ISO 27001. fundamentals.
+description: "Basics with ISO 27001. fundamentals."
 category: security
 tags: [iso27001, basics, security, security]
 models: [gpt-4, claude-3]

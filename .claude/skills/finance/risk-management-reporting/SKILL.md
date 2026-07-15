@@ -1,6 +1,6 @@
 ---
 name: risk-management-reporting
-description: Reporting with Risk Management. reports.
+description: "Reporting with Risk Management. reports."
 category: finance
 tags: [risk-management, reporting, finance, trading]
 models: [gpt-4, claude-3]

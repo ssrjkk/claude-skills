@@ -1,6 +1,6 @@
 ---
 name: ember-forms
-description: Forms with Ember. form handling.
+description: "Forms with Ember. form handling."
 category: frontend
 tags: [ember-forms, frontend, russian]
 models: [sonnet, opus]

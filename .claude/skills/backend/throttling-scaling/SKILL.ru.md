@@ -1,6 +1,6 @@
 ---
 name: throttling-scaling
-description: Scaling with Throttling. scaling considerations.
+description: "Scaling with Throttling. scaling considerations."
 category: backend
 tags: [throttling-scaling, backend, russian]
 models: [sonnet, opus]

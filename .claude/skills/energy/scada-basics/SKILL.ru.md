@@ -1,6 +1,6 @@
 ---
 name: scada-basics
-description: Basics with SCADA. fundamentals.
+description: "Basics with SCADA. fundamentals."
 category: energy
 tags: [scada-basics, energy, russian]
 models: [sonnet, opus]

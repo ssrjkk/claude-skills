@@ -1,6 +1,6 @@
 ---
 name: evidently-automation
-description: Automation for Evidently: automation and scripting
+description: "Automation for Evidently: automation and scripting"
 category: data
 tags: [evidently-automation, data, russian]
 models: [sonnet, opus]

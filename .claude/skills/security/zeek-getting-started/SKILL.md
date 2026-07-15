@@ -1,6 +1,6 @@
 ---
 name: zeek-getting-started
-description: Getting Started for Zeek: initial setup and first steps
+description: "Getting Started for Zeek: initial setup and first steps"
 category: security
 tags: [zeek, getting-started, security]
 models: [sonnet, opus]

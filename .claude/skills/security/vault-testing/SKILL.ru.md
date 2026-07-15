@@ -1,6 +1,6 @@
 ---
 name: vault-testing
-description: Testing for Vault: testing and validation
+description: "Testing for Vault: testing and validation"
 category: security
 tags: [vault-testing, security, russian]
 models: [sonnet, opus]

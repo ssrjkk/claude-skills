@@ -1,6 +1,6 @@
 ---
 name: spring-boot-database
-description: Database with Spring Boot. DB access.
+description: "Database with Spring Boot. DB access."
 category: backend
 tags: [spring-boot, database, backend, backend]
 models: [gpt-4, claude-3]

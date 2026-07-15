@@ -1,6 +1,6 @@
 ---
 name: zephyr-synchronization
-description: Sync with Zephyr. mutexes.
+description: "Sync with Zephyr. mutexes."
 category: embedded
 tags: [zephyr, synchronization, embedded, rtos]
 models: [gpt-4, claude-3]

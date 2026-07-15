@@ -1,6 +1,6 @@
 ---
 name: vllm-memory
-description: Memory with Vllm. conversation memory.
+description: "Memory with Vllm. conversation memory."
 category: ai
 tags: [vllm-memory, ai, russian]
 models: [sonnet, opus]

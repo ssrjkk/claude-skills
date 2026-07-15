@@ -1,6 +1,6 @@
 ---
 name: registry-monitoring
-description: Monitoring with Windows Registry. monitoring.
+description: "Monitoring with Windows Registry. monitoring."
 category: os-admin
 tags: [registry, monitoring, os-admin, windows]
 models: [gpt-4, claude-3]

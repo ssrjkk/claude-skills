@@ -1,6 +1,6 @@
 ---
 name: purecss-grid
-description: Grid with Pure.css. layout grids.
+description: "Grid with Pure.css. layout grids."
 category: frontend
 tags: [purecss-grid, frontend, russian]
 models: [sonnet, opus]

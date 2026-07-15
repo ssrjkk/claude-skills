@@ -1,6 +1,6 @@
 ---
 name: phalcon-testing
-description: Testing with Phalcon. PHPUnit.
+description: "Testing with Phalcon. PHPUnit."
 category: backend
 tags: [phalcon, testing, backend, backend]
 models: [gpt-4, claude-3]

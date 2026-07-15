@@ -1,6 +1,6 @@
 ---
 name: sentinelone-getting-started
-description: Getting Started for Sentinelone: initial setup and first steps
+description: "Getting Started for Sentinelone: initial setup and first steps"
 category: security
 tags: [sentinelone, getting-started, security]
 models: [sonnet, opus]

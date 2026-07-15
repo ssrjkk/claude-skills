@@ -1,6 +1,6 @@
 ---
 name: hashcat-remediation
-description: Remediation with Hashcat. fixing vulns.
+description: "Remediation with Hashcat. fixing vulns."
 category: security
 tags: [hashcat, remediation, security, security-tool]
 models: [gpt-4, claude-3]

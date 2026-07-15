@@ -1,6 +1,6 @@
 ---
 name: keydb-fundamentals
-description: Fundamentals for Keydb: core concepts
+description: "Fundamentals for Keydb: core concepts"
 category: database
 tags: [keydb-fundamentals, database, russian]
 models: [sonnet, opus]

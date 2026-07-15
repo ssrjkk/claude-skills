@@ -1,6 +1,6 @@
 ---
 name: expo-advanced
-description: Advanced for Expo: advanced patterns and techniques
+description: "Advanced for Expo: advanced patterns and techniques"
 category: mobile
 tags: [expo, advanced, mobile]
 models: [sonnet, opus]

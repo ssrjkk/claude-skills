@@ -1,6 +1,6 @@
 ---
 name: ddd-basics
-description: Basics with Domain-Driven Design. fundamentals.
+description: "Basics with Domain-Driven Design. fundamentals."
 category: engineering
 tags: [ddd, basics, engineering, engineering]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: salvo-routing
-description: Routing with Salvo. HTTP routing.
+description: "Routing with Salvo. HTTP routing."
 category: backend
 tags: [salvo-routing, backend, russian]
 models: [sonnet, opus]

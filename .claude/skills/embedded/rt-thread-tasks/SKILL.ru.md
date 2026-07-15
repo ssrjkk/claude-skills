@@ -1,6 +1,6 @@
 ---
 name: rt-thread-tasks
-description: Tasks with RT-Thread. task management.
+description: "Tasks with RT-Thread. task management."
 category: embedded
 tags: [rt-thread-tasks, embedded, russian]
 models: [sonnet, opus]

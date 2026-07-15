@@ -1,6 +1,6 @@
 ---
 name: gatling-setup
-description: Setup with Gatling. installation.
+description: "Setup with Gatling. installation."
 category: qa
 tags: [gatling, setup, qa, performance-testing]
 models: [gpt-4, claude-3]

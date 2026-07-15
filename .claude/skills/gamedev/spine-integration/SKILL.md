@@ -1,6 +1,6 @@
 ---
 name: spine-integration
-description: Integration for Spine: integration with other tools
+description: "Integration for Spine: integration with other tools"
 category: gamedev
 tags: [spine, integration, gamedev]
 models: [sonnet, opus]

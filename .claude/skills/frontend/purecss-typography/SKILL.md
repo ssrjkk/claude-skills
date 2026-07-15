@@ -1,6 +1,6 @@
 ---
 name: purecss-typography
-description: Typography with Pure.css. text styling.
+description: "Typography with Pure.css. text styling."
 category: frontend
 tags: [purecss, typography, frontend, css]
 models: [gpt-4, claude-3]

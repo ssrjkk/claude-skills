@@ -1,6 +1,6 @@
 ---
 name: arangodb-aggregation
-description: Aggregation with ArangoDB. aggregation pipelines.
+description: "Aggregation with ArangoDB. aggregation pipelines."
 category: database
 tags: [arangodb-aggregation, database, russian]
 models: [sonnet, opus]

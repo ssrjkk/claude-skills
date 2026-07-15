@@ -1,6 +1,6 @@
 ---
 name: trivy-monitoring
-description: Monitoring for Trivy: monitoring and observability
+description: "Monitoring for Trivy: monitoring and observability"
 category: security
 tags: [trivy-monitoring, security, russian]
 models: [sonnet, opus]

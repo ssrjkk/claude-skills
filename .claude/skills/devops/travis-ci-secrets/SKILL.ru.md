@@ -1,6 +1,6 @@
 ---
 name: travis-ci-secrets
-description: Secrets with Travis CI. secret management.
+description: "Secrets with Travis CI. secret management."
 category: devops
 tags: [travis-ci-secrets, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sakai-assessments
-description: Assessments with Sakai. quizzes.
+description: "Assessments with Sakai. quizzes."
 category: education
 tags: [sakai, assessments, education, education-platform]
 models: [gpt-4, claude-3]

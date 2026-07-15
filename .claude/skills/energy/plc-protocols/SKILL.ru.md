@@ -1,6 +1,6 @@
 ---
 name: plc-protocols
-description: Protocols with PLC Programming. communication.
+description: "Protocols with PLC Programming. communication."
 category: energy
 tags: [plc-protocols, energy, russian]
 models: [sonnet, opus]

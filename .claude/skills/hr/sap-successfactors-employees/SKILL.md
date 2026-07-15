@@ -1,6 +1,6 @@
 ---
 name: sap-successfactors-employees
-description: Employees with SAP SuccessFactors. employee mgmt.
+description: "Employees with SAP SuccessFactors. employee mgmt."
 category: hr
 tags: [sap-successfactors, employees, hr, hr-tech]
 models: [gpt-4, claude-3]

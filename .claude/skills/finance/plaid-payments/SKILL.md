@@ -1,6 +1,6 @@
 ---
 name: plaid-payments
-description: Payments with Plaid. payments.
+description: "Payments with Plaid. payments."
 category: finance
 tags: [plaid, payments, finance, fintech]
 models: [gpt-4, claude-3]

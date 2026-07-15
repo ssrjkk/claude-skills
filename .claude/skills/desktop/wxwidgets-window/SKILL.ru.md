@@ -1,6 +1,6 @@
 ---
 name: wxwidgets-window
-description: Window with wxWidgets. windows.
+description: "Window with wxWidgets. windows."
 category: desktop
 tags: [wxwidgets-window, desktop, russian]
 models: [sonnet, opus]

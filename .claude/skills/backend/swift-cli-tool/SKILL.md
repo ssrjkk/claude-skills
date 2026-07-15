@@ -1,6 +1,6 @@
 ---
 name: swift-cli-tool
-description: CLI Tool with Swift. building CLI tools.
+description: "CLI Tool with Swift. building CLI tools."
 category: backend
 tags: [swift, cli-tool, backend, backend]
 models: [gpt-4, claude-3]

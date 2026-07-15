@@ -1,6 +1,6 @@
 ---
 name: iot-skill-0045
-description: iot specialized skill #0045 for iot development
+description: "iot specialized skill #0045 for iot development"
 category: iot
 tags: [iot, skill, 0045]
 models: [sonnet, opus]

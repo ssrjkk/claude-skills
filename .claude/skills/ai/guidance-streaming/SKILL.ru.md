@@ -1,6 +1,6 @@
 ---
 name: guidance-streaming
-description: Streaming with Guidance. token streaming.
+description: "Streaming with Guidance. token streaming."
 category: ai
 tags: [guidance-streaming, ai, russian]
 models: [sonnet, opus]

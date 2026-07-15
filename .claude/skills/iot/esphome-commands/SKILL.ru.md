@@ -1,6 +1,6 @@
 ---
 name: esphome-commands
-description: Commands with ESPHome. device commands.
+description: "Commands with ESPHome. device commands."
 category: iot
 tags: [esphome-commands, iot, russian]
 models: [sonnet, opus]

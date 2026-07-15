@@ -1,6 +1,6 @@
 ---
 name: hubstaff-performance
-description: Performance with Hubstaff. performance mgmt.
+description: "Performance with Hubstaff. performance mgmt."
 category: hr
 tags: [hubstaff-performance, hr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: material-ui-dark-mode
-description: Dark Mode with MUI. dark theme.
+description: "Dark Mode with MUI. dark theme."
 category: frontend
 tags: [material-ui, dark-mode, frontend, css]
 models: [gpt-4, claude-3]

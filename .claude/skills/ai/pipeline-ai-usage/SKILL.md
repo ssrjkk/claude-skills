@@ -1,6 +1,6 @@
 ---
 name: pipeline-ai-usage
-description: Usage for Pipeline-Ai: usage reference
+description: "Usage for Pipeline-Ai: usage reference"
 category: ai
 tags: [pipeline-ai, usage, ai]
 models: [sonnet, opus]

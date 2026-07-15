@@ -1,6 +1,6 @@
 ---
 name: tailwind-v4
-description: Tailwind CSS v4 features
+description: "Tailwind CSS v4 features"
 category: frontend
 tags: [tailwind, css, v4, design, styling]
 models: [sonnet, opus]

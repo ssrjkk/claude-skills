@@ -1,6 +1,6 @@
 ---
 name: hanami-auth
-description: Auth with Hanami. authentication.
+description: "Auth with Hanami. authentication."
 category: backend
 tags: [hanami, auth, backend, backend]
 models: [gpt-4, claude-3]

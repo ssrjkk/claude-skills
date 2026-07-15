@@ -1,6 +1,6 @@
 ---
 name: jenkins-monitoring
-description: Monitoring with Jenkins. monitoring.
+description: "Monitoring with Jenkins. monitoring."
 category: devops
 tags: [jenkins, monitoring, devops, ci-cd]
 models: [gpt-4, claude-3]

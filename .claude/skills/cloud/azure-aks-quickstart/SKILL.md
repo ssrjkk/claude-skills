@@ -1,6 +1,6 @@
 ---
 name: azure-aks-quickstart
-description: Quickstart for Azure-Aks: quick start guide
+description: "Quickstart for Azure-Aks: quick start guide"
 category: cloud
 tags: [azure-aks, quickstart, cloud]
 models: [sonnet, opus]

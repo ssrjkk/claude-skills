@@ -1,6 +1,6 @@
 ---
 name: whylabs-best-practices
-description: Best Practices for Whylabs: best practices and patterns
+description: "Best Practices for Whylabs: best practices and patterns"
 category: data
 tags: [whylabs, best-practices, data]
 models: [sonnet, opus]

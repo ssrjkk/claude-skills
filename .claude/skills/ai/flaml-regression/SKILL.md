@@ -1,6 +1,6 @@
 ---
 name: flaml-regression
-description: Regression with Flaml. predicting values.
+description: "Regression with Flaml. predicting values."
 category: ai
 tags: [flaml, regression, ai, ml]
 models: [gpt-4, claude-3]

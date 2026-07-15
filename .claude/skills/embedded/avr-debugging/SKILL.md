@@ -1,6 +1,6 @@
 ---
 name: avr-debugging
-description: Debugging with AVR. debug.
+description: "Debugging with AVR. debug."
 category: embedded
 tags: [avr, debugging, embedded, embedded-arch]
 models: [gpt-4, claude-3]

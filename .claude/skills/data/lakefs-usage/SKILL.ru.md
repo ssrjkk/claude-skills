@@ -1,6 +1,6 @@
 ---
 name: lakefs-usage
-description: Usage for Lakefs: usage reference
+description: "Usage for Lakefs: usage reference"
 category: data
 tags: [lakefs-usage, data, russian]
 models: [sonnet, opus]

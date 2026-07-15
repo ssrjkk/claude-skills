@@ -1,6 +1,6 @@
 ---
 name: commercetools-cart
-description: Cart with commercetools. cart.
+description: "Cart with commercetools. cart."
 category: ecommerce
 tags: [commercetools, cart, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

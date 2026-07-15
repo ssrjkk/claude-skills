@@ -1,6 +1,6 @@
 ---
 name: heatmaps-tools
-description: Tools with Heatmaps. tools.
+description: "Tools with Heatmaps. tools."
 category: design
 tags: [heatmaps-tools, design, russian]
 models: [sonnet, opus]

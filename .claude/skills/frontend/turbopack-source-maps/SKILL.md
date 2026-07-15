@@ -1,6 +1,6 @@
 ---
 name: turbopack-source-maps
-description: Source Maps with Turbopack. debugging.
+description: "Source Maps with Turbopack. debugging."
 category: frontend
 tags: [turbopack, source-maps, frontend, build-tool]
 models: [gpt-4, claude-3]

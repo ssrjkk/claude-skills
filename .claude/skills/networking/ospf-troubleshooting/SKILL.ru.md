@@ -1,6 +1,6 @@
 ---
 name: ospf-troubleshooting
-description: Troubleshooting with OSPF. diagnostics.
+description: "Troubleshooting with OSPF. diagnostics."
 category: networking
 tags: [ospf-troubleshooting, networking, russian]
 models: [sonnet, opus]

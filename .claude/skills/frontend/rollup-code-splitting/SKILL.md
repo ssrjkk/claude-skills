@@ -1,6 +1,6 @@
 ---
 name: rollup-code-splitting
-description: Code Splitting with Rollup. lazy loading.
+description: "Code Splitting with Rollup. lazy loading."
 category: frontend
 tags: [rollup, code-splitting, frontend, build-tool]
 models: [gpt-4, claude-3]

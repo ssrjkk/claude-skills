@@ -1,6 +1,6 @@
 ---
 name: dspy-guides
-description: Guides for Dspy: how-to guides
+description: "Guides for Dspy: how-to guides"
 category: ai
 tags: [dspy, guides, ai]
 models: [sonnet, opus]

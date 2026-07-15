@@ -1,6 +1,6 @@
 ---
 name: headless-ui-guides
-description: Guides for Headless-Ui: how-to guides
+description: "Guides for Headless-Ui: how-to guides"
 category: frontend
 tags: [headless-ui, guides, frontend]
 models: [sonnet, opus]

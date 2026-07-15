@@ -1,6 +1,6 @@
 ---
 name: magic-leap-tracking
-description: Tracking with Magic Leap. spatial tracking.
+description: "Tracking with Magic Leap. spatial tracking."
 category: ar-vr
 tags: [magic-leap, tracking, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

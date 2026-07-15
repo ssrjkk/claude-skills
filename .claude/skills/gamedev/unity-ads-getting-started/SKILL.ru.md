@@ -1,6 +1,6 @@
 ---
 name: unity-ads-getting-started
-description: Getting Started for Unity-Ads: initial setup and first steps
+description: "Getting Started for Unity-Ads: initial setup and first steps"
 category: gamedev
 tags: [unity-ads-getting-started, gamedev, russian]
 models: [sonnet, opus]

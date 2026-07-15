@@ -1,6 +1,6 @@
 ---
 name: arkit-audio
-description: Audio with ARKit. spatial audio.
+description: "Audio with ARKit. spatial audio."
 category: ar-vr
 tags: [arkit-audio, ar-vr, russian]
 models: [sonnet, opus]

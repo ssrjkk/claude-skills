@@ -1,6 +1,6 @@
 ---
 name: sveltekit-routing
-description: Routing with SvelteKit. file-based routing.
+description: "Routing with SvelteKit. file-based routing."
 category: frontend
 tags: [sveltekit-routing, frontend, russian]
 models: [sonnet, opus]

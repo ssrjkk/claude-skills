@@ -1,6 +1,6 @@
 ---
 name: loinc-compliance
-description: Compliance with LOINC. compliance.
+description: "Compliance with LOINC. compliance."
 category: healthcare
 tags: [loinc-compliance, healthcare, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: gensim-similarity
-description: Similarity with Gensim. text similarity.
+description: "Similarity with Gensim. text similarity."
 category: ai
 tags: [gensim, similarity, ai, nlp]
 models: [gpt-4, claude-3]

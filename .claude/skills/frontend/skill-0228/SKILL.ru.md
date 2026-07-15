@@ -1,6 +1,6 @@
 ---
 name: skill-0228
-description: Specialized skill #0228 for frontend development
+description: "Specialized skill #0228 for frontend development"
 category: frontend
 tags: [skill-0228, frontend, russian]
 models: [sonnet, opus]

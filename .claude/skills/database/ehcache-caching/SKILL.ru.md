@@ -1,6 +1,6 @@
 ---
 name: ehcache-caching
-description: Caching with Ehcache. caching strategies.
+description: "Caching with Ehcache. caching strategies."
 category: database
 tags: [ehcache-caching, database, russian]
 models: [sonnet, opus]

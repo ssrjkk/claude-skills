@@ -1,6 +1,6 @@
 ---
 name: nuke-editing
-description: Editing with Nuke. editing.
+description: "Editing with Nuke. editing."
 category: media
 tags: [nuke-editing, media, russian]
 models: [sonnet, opus]

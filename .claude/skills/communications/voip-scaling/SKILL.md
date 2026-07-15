@@ -1,6 +1,6 @@
 ---
 name: voip-scaling
-description: Scaling with VoIP. scaling.
+description: "Scaling with VoIP. scaling."
 category: communications
 tags: [voip, scaling, communications, communication-protocol]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: nmap-remediation
-description: Remediation with Nmap. fixing vulns.
+description: "Remediation with Nmap. fixing vulns."
 category: security
 tags: [nmap, remediation, security, security-tool]
 models: [gpt-4, claude-3]

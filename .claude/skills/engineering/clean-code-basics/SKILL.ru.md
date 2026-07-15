@@ -1,6 +1,6 @@
 ---
 name: clean-code-basics
-description: Basics with Clean Code. fundamentals.
+description: "Basics with Clean Code. fundamentals."
 category: engineering
 tags: [clean-code-basics, engineering, russian]
 models: [sonnet, opus]

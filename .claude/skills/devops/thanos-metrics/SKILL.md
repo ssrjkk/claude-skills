@@ -1,6 +1,6 @@
 ---
 name: thanos-metrics
-description: Metrics with Thanos. collecting metrics.
+description: "Metrics with Thanos. collecting metrics."
 category: devops
 tags: [thanos, metrics, devops, monitoring]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: dspy-fine-tuning
-description: Fine-Tuning with Dspy. model customization.
+description: "Fine-Tuning with Dspy. model customization."
 category: ai
 tags: [dspy, fine-tuning, ai, llm]
 models: [gpt-4, claude-3]

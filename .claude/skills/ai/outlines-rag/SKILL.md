@@ -1,6 +1,6 @@
 ---
 name: outlines-rag
-description: RAG with Outlines. building RAG systems.
+description: "RAG with Outlines. building RAG systems."
 category: ai
 tags: [outlines, rag, ai, llm]
 models: [gpt-4, claude-3]

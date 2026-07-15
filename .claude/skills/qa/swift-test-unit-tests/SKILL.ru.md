@@ -1,6 +1,6 @@
 ---
 name: swift-test-unit-tests
-description: Unit Tests with Swift Testing. unit testing.
+description: "Unit Tests with Swift Testing. unit testing."
 category: qa
 tags: [swift-test-unit-tests, qa, russian]
 models: [sonnet, opus]

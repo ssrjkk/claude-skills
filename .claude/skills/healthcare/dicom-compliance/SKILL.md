@@ -1,6 +1,6 @@
 ---
 name: dicom-compliance
-description: Compliance with DICOM. compliance.
+description: "Compliance with DICOM. compliance."
 category: healthcare
 tags: [dicom, compliance, healthcare, healthcare]
 models: [gpt-4, claude-3]

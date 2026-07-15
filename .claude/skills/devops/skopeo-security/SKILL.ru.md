@@ -1,6 +1,6 @@
 ---
 name: skopeo-security
-description: Security with Skopeo. container security.
+description: "Security with Skopeo. container security."
 category: devops
 tags: [skopeo-security, devops, russian]
 models: [sonnet, opus]

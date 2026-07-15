@@ -1,6 +1,6 @@
 ---
 name: stripe-webhooks
-description: Webhooks with Stripe. webhooks.
+description: "Webhooks with Stripe. webhooks."
 category: payments
 tags: [stripe, webhooks, payments, payments]
 models: [gpt-4, claude-3]

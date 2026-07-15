@@ -1,6 +1,6 @@
 ---
 name: telegram-bot-chat
-description: Chat with Telegram Bot. chat.
+description: "Chat with Telegram Bot. chat."
 category: communications
 tags: [telegram-bot-chat, communications, russian]
 models: [sonnet, opus]

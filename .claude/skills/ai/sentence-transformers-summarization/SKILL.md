@@ -1,6 +1,6 @@
 ---
 name: sentence-transformers-summarization
-description: Summarization with Sentence Transformers. text summarization.
+description: "Summarization with Sentence Transformers. text summarization."
 category: ai
 tags: [sentence-transformers, summarization, ai, nlp]
 models: [gpt-4, claude-3]

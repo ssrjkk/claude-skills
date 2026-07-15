@@ -1,6 +1,6 @@
 ---
 name: gcc
-description: Development with Gcc: tools and best practices
+description: "Development with Gcc: tools and best practices"
 category: iot
 tags: [gcc, iot, development]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: magento-analytics
-description: Analytics with Magento. analytics.
+description: "Analytics with Magento. analytics."
 category: ecommerce
 tags: [magento, analytics, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

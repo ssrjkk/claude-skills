@@ -1,6 +1,6 @@
 ---
 name: appcenter-troubleshooting
-description: Troubleshooting for Appcenter: troubleshooting common issues
+description: "Troubleshooting for Appcenter: troubleshooting common issues"
 category: mobile
 tags: [appcenter-troubleshooting, mobile, russian]
 models: [sonnet, opus]

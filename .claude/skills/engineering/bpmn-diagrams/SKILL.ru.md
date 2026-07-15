@@ -1,6 +1,6 @@
 ---
 name: bpmn-diagrams
-description: Diagrams with BPMN. diagramming.
+description: "Diagrams with BPMN. diagramming."
 category: engineering
 tags: [bpmn-diagrams, engineering, russian]
 models: [sonnet, opus]

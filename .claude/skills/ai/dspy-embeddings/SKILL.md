@@ -1,6 +1,6 @@
 ---
 name: dspy-embeddings
-description: Embeddings with Dspy. text embeddings.
+description: "Embeddings with Dspy. text embeddings."
 category: ai
 tags: [dspy, embeddings, ai, llm]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: angelist-analytics
-description: Analytics with AngelList/Wellfound. analytics.
+description: "Analytics with AngelList/Wellfound. analytics."
 category: hr
 tags: [angelist-analytics, hr, russian]
 models: [sonnet, opus]

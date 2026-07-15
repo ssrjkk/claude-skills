@@ -1,6 +1,6 @@
 ---
 name: shiny-layout
-description: Layout with Shiny. app layout.
+description: "Layout with Shiny. app layout."
 category: data
 tags: [shiny-layout, data, russian]
 models: [sonnet, opus]

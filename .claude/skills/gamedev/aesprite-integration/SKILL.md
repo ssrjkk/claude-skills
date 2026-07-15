@@ -1,6 +1,6 @@
 ---
 name: aesprite-integration
-description: Integration for Aesprite: integration with other tools
+description: "Integration for Aesprite: integration with other tools"
 category: gamedev
 tags: [aesprite, integration, gamedev]
 models: [sonnet, opus]

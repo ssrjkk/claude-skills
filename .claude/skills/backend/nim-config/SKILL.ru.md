@@ -1,6 +1,6 @@
 ---
 name: nim-config
-description: Configuration with Nim. config management.
+description: "Configuration with Nim. config management."
 category: backend
 tags: [nim-config, backend, russian]
 models: [sonnet, opus]

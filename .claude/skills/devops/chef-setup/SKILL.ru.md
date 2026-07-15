@@ -1,6 +1,6 @@
 ---
 name: chef-setup
-description: Setup with Chef. installation.
+description: "Setup with Chef. installation."
 category: devops
 tags: [chef-setup, devops, russian]
 models: [sonnet, opus]

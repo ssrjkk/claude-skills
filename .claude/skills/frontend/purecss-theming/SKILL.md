@@ -1,6 +1,6 @@
 ---
 name: purecss-theming
-description: Theming with Pure.css. custom themes.
+description: "Theming with Pure.css. custom themes."
 category: frontend
 tags: [purecss, theming, frontend, css]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: tcpdump-scripting
-description: Scripting with tcpdump. automation.
+description: "Scripting with tcpdump. automation."
 category: networking
 tags: [tcpdump, scripting, networking, networking-tool]
 models: [gpt-4, claude-3]

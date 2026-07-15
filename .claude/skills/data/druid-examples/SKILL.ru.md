@@ -1,6 +1,6 @@
 ---
 name: druid-examples
-description: Examples for Druid: practical examples
+description: "Examples for Druid: practical examples"
 category: data
 tags: [druid-examples, data, russian]
 models: [sonnet, opus]

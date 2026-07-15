@@ -1,6 +1,6 @@
 ---
 name: memcached-setup
-description: Setup with Memcached. installation.
+description: "Setup with Memcached. installation."
 category: database
 tags: [memcached-setup, database, russian]
 models: [sonnet, opus]

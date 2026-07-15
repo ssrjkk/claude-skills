@@ -1,6 +1,6 @@
 ---
 name: victoria-metrics-metrics
-description: Metrics with VictoriaMetrics. collecting metrics.
+description: "Metrics with VictoriaMetrics. collecting metrics."
 category: devops
 tags: [victoria-metrics, metrics, devops, monitoring]
 models: [gpt-4, claude-3]

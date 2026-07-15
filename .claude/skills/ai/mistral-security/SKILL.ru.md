@@ -1,6 +1,6 @@
 ---
 name: mistral-security
-description: Security for Mistral: security best practices
+description: "Security for Mistral: security best practices"
 category: ai
 tags: [mistral-security, ai, russian]
 models: [sonnet, opus]

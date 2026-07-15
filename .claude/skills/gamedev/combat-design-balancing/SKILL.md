@@ -1,6 +1,6 @@
 ---
 name: combat-design-balancing
-description: Balancing with Combat Design. balancing.
+description: "Balancing with Combat Design. balancing."
 category: gamedev
 tags: [combat-design, balancing, gamedev, game-design]
 models: [gpt-4, claude-3]

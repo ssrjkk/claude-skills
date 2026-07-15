@@ -1,6 +1,6 @@
 ---
 name: stm32-wifi
-description: WiFi with STM32. wireless.
+description: "WiFi with STM32. wireless."
 category: iot
 tags: [stm32, wifi, iot, iot]
 models: [gpt-4, claude-3]

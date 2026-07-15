@@ -1,6 +1,6 @@
 ---
 name: flutter-desktop-styling
-description: Styling with Flutter Desktop. styling.
+description: "Styling with Flutter Desktop. styling."
 category: desktop
 tags: [flutter-desktop, styling, desktop, desktop]
 models: [gpt-4, claude-3]

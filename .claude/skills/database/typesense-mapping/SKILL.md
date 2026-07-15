@@ -1,6 +1,6 @@
 ---
 name: typesense-mapping
-description: Mapping with Typesense. field mapping.
+description: "Mapping with Typesense. field mapping."
 category: database
 tags: [typesense, mapping, database, search-engine]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: figma-setup
-description: Setup with Figma. workspace.
+description: "Setup with Figma. workspace."
 category: design
 tags: [figma-setup, design, russian]
 models: [sonnet, opus]

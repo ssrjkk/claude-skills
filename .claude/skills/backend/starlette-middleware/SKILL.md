@@ -1,6 +1,6 @@
 ---
 name: starlette-middleware
-description: Middleware with Starlette. middleware pipelines.
+description: "Middleware with Starlette. middleware pipelines."
 category: backend
 tags: [starlette, middleware, backend, backend]
 models: [gpt-4, claude-3]

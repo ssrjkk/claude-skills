@@ -1,6 +1,6 @@
 ---
 name: scipy-numerical
-description: Numerical with SciPy. numerical methods.
+description: "Numerical with SciPy. numerical methods."
 category: scientific
 tags: [scipy-numerical, scientific, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: journey-mapping-analysis
-description: Analysis with Journey Mapping. data analysis.
+description: "Analysis with Journey Mapping. data analysis."
 category: design
 tags: [journey-mapping, analysis, design, ux-research]
 models: [gpt-4, claude-3]

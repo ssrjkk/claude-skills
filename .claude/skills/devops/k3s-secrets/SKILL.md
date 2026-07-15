@@ -1,6 +1,6 @@
 ---
 name: k3s-secrets
-description: Secrets with K3s. secret management.
+description: "Secrets with K3s. secret management."
 category: devops
 tags: [k3s, secrets, devops, kubernetes]
 models: [gpt-4, claude-3]

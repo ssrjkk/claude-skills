@@ -1,6 +1,6 @@
 ---
 name: duckdb-troubleshooting
-description: Troubleshooting for Duckdb: troubleshooting common issues
+description: "Troubleshooting for Duckdb: troubleshooting common issues"
 category: database
 tags: [duckdb-troubleshooting, database, russian]
 models: [sonnet, opus]

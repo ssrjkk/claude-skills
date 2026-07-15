@@ -1,6 +1,6 @@
 ---
 name: microk8s-configmap
-description: ConfigMap with MicroK8s. config management.
+description: "ConfigMap with MicroK8s. config management."
 category: devops
 tags: [microk8s, configmap, devops, kubernetes]
 models: [gpt-4, claude-3]

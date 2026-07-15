@@ -1,6 +1,6 @@
 ---
 name: unreal-multiplayer
-description: Multiplayer with Unreal Engine. networking.
+description: "Multiplayer with Unreal Engine. networking."
 category: gamedev
 tags: [unreal, multiplayer, gamedev, game-engine]
 models: [gpt-4, claude-3]

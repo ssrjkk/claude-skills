@@ -1,6 +1,6 @@
 ---
 name: chi-deployment
-description: Deployment with Chi. build.
+description: "Deployment with Chi. build."
 category: backend
 tags: [chi-deployment, backend, russian]
 models: [sonnet, opus]

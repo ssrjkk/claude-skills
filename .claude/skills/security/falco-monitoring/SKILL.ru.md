@@ -1,6 +1,6 @@
 ---
 name: falco-monitoring
-description: Monitoring for Falco: monitoring and observability
+description: "Monitoring for Falco: monitoring and observability"
 category: security
 tags: [falco-monitoring, security, russian]
 models: [sonnet, opus]

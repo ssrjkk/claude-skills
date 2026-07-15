@@ -1,6 +1,6 @@
 ---
 name: dgraph-setup
-description: Setup with Dgraph. installation.
+description: "Setup with Dgraph. installation."
 category: database
 tags: [dgraph-setup, database, russian]
 models: [sonnet, opus]

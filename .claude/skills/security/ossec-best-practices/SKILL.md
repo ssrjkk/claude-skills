@@ -1,6 +1,6 @@
 ---
 name: ossec-best-practices
-description: Best Practices for Ossec: best practices and patterns
+description: "Best Practices for Ossec: best practices and patterns"
 category: security
 tags: [ossec, best-practices, security]
 models: [sonnet, opus]

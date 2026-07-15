@@ -1,6 +1,6 @@
 ---
 name: systemd-automation
-description: Automation with systemd. scripting.
+description: "Automation with systemd. scripting."
 category: os-admin
 tags: [systemd, automation, os-admin, linux]
 models: [gpt-4, claude-3]

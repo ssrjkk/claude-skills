@@ -1,6 +1,6 @@
 ---
 name: minikube-deployment
-description: Deployment with Minikube. apps deployment.
+description: "Deployment with Minikube. apps deployment."
 category: devops
 tags: [minikube-deployment, devops, russian]
 models: [sonnet, opus]

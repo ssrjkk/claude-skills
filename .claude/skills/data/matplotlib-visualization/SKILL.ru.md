@@ -1,6 +1,6 @@
 ---
 name: matplotlib-visualization
-description: Visualization with Matplotlib. charting.
+description: "Visualization with Matplotlib. charting."
 category: data
 tags: [matplotlib-visualization, data, russian]
 models: [sonnet, opus]

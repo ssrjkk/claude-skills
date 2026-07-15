@@ -1,6 +1,6 @@
 ---
 name: esp8266-power
-description: Power with ESP8266. power management.
+description: "Power with ESP8266. power management."
 category: iot
 tags: [esp8266-power, iot, russian]
 models: [sonnet, opus]

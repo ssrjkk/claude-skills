@@ -1,6 +1,6 @@
 ---
 name: haskell-orm
-description: ORM with Haskell. database access.
+description: "ORM with Haskell. database access."
 category: backend
 tags: [haskell-orm, backend, russian]
 models: [sonnet, opus]

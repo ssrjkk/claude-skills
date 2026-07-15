@@ -1,6 +1,6 @@
 ---
 name: redis-troubleshooting
-description: Troubleshooting for Redis: troubleshooting common issues
+description: "Troubleshooting for Redis: troubleshooting common issues"
 category: backend
 tags: [redis, troubleshooting, backend]
 models: [sonnet, opus]

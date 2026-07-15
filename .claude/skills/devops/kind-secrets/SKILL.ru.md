@@ -1,6 +1,6 @@
 ---
 name: kind-secrets
-description: Secrets with Kind. secret management.
+description: "Secrets with Kind. secret management."
 category: devops
 tags: [kind-secrets, devops, russian]
 models: [sonnet, opus]

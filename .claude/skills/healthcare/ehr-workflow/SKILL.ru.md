@@ -1,6 +1,6 @@
 ---
 name: ehr-workflow
-description: Workflow with EHR Systems. clinical workflow.
+description: "Workflow with EHR Systems. clinical workflow."
 category: healthcare
 tags: [ehr-workflow, healthcare, russian]
 models: [sonnet, opus]

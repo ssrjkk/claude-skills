@@ -1,6 +1,6 @@
 ---
 name: tensorflow-visualization
-description: Visualization with Tensorflow. model viz.
+description: "Visualization with Tensorflow. model viz."
 category: ai
 tags: [tensorflow, visualization, ai, deep-learning]
 models: [gpt-4, claude-3]

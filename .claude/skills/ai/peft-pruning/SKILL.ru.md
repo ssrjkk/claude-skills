@@ -1,6 +1,6 @@
 ---
 name: peft-pruning
-description: Pruning with Peft. model pruning.
+description: "Pruning with Peft. model pruning."
 category: ai
 tags: [peft-pruning, ai, russian]
 models: [sonnet, opus]

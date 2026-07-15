@@ -1,6 +1,6 @@
 ---
 name: vuex-store
-description: Store with Vuex. state store.
+description: "Store with Vuex. state store."
 category: frontend
 tags: [vuex, store, frontend, state-management]
 models: [gpt-4, claude-3]

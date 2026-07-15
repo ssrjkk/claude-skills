@@ -1,6 +1,6 @@
 ---
 name: turso-production
-description: Production for Turso: production deployment
+description: "Production for Turso: production deployment"
 category: database
 tags: [turso, production, database]
 models: [sonnet, opus]

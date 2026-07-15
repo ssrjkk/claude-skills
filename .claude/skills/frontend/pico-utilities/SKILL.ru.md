@@ -1,6 +1,6 @@
 ---
 name: pico-utilities
-description: Utilities with Pico CSS. utility classes.
+description: "Utilities with Pico CSS. utility classes."
 category: frontend
 tags: [pico-utilities, frontend, russian]
 models: [sonnet, opus]

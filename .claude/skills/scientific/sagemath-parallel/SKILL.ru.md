@@ -1,6 +1,6 @@
 ---
 name: sagemath-parallel
-description: Parallel with SageMath. parallel computing.
+description: "Parallel with SageMath. parallel computing."
 category: scientific
 tags: [sagemath-parallel, scientific, russian]
 models: [sonnet, opus]

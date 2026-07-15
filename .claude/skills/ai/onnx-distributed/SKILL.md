@@ -1,6 +1,6 @@
 ---
 name: onnx-distributed
-description: Distributed with Onnx. distributed training.
+description: "Distributed with Onnx. distributed training."
 category: ai
 tags: [onnx, distributed, ai, deep-learning]
 models: [gpt-4, claude-3]

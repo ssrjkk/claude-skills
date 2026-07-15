@@ -1,6 +1,6 @@
 ---
 name: helm-advanced
-description: Advanced for Helm: advanced patterns and techniques
+description: "Advanced for Helm: advanced patterns and techniques"
 category: devops
 tags: [helm, advanced, devops]
 models: [sonnet, opus]

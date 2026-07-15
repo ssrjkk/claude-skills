@@ -1,6 +1,6 @@
 ---
 name: mocha-parameterization
-description: Parameterization with Mocha. parametrized tests.
+description: "Parameterization with Mocha. parametrized tests."
 category: qa
 tags: [mocha, parameterization, qa, testing]
 models: [gpt-4, claude-3]

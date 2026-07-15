@@ -1,6 +1,6 @@
 ---
 name: xtensa-bootstrap
-description: Bootstrap with Xtensa. startup code.
+description: "Bootstrap with Xtensa. startup code."
 category: embedded
 tags: [xtensa-bootstrap, embedded, russian]
 models: [sonnet, opus]

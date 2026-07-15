@@ -1,6 +1,6 @@
 ---
 name: tkinter-threading
-description: Threading with Tkinter. multithreading.
+description: "Threading with Tkinter. multithreading."
 category: desktop
 tags: [tkinter, threading, desktop, desktop]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: minikube-monitoring
-description: Monitoring with Minikube. monitoring.
+description: "Monitoring with Minikube. monitoring."
 category: devops
 tags: [minikube-monitoring, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: zap-scanning
-description: Scanning with ZAP. security scanning.
+description: "Scanning with ZAP. security scanning."
 category: security
 tags: [zap, scanning, security, security-tool]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: linode-compute
-description: Compute with Linode. VM/compute.
+description: "Compute with Linode. VM/compute."
 category: devops
 tags: [linode, compute, devops, cloud]
 models: [gpt-4, claude-3]

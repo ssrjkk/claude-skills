@@ -1,6 +1,6 @@
 ---
 name: tide-deployment
-description: Deployment with Tide. build.
+description: "Deployment with Tide. build."
 category: backend
 tags: [tide-deployment, backend, russian]
 models: [sonnet, opus]

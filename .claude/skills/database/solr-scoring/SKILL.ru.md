@@ -1,6 +1,6 @@
 ---
 name: solr-scoring
-description: Scoring with Solr. relevance scoring.
+description: "Scoring with Solr. relevance scoring."
 category: database
 tags: [solr-scoring, database, russian]
 models: [sonnet, opus]

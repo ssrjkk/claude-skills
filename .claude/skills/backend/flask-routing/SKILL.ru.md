@@ -1,6 +1,6 @@
 ---
 name: flask-routing
-description: Routing with Flask. HTTP routing.
+description: "Routing with Flask. HTTP routing."
 category: backend
 tags: [flask-routing, backend, russian]
 models: [sonnet, opus]

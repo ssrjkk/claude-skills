@@ -1,6 +1,6 @@
 ---
 name: paddlepaddle-quantization
-description: Quantization with Paddlepaddle. model quantization.
+description: "Quantization with Paddlepaddle. model quantization."
 category: ai
 tags: [paddlepaddle, quantization, ai, deep-learning]
 models: [gpt-4, claude-3]

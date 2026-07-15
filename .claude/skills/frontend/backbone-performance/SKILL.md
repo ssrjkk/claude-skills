@@ -1,6 +1,6 @@
 ---
 name: backbone-performance
-description: Performance with Backbone. optimization.
+description: "Performance with Backbone. optimization."
 category: frontend
 tags: [backbone, performance, frontend, frontend]
 models: [gpt-4, claude-3]

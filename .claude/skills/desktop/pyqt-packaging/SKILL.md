@@ -1,6 +1,6 @@
 ---
 name: pyqt-packaging
-description: Packaging with PyQt. app packaging.
+description: "Packaging with PyQt. app packaging."
 category: desktop
 tags: [pyqt, packaging, desktop, desktop]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: jobs-to-be-done-best-practices
-description: Best Practices with Jobs to be Done. tips.
+description: "Best Practices with Jobs to be Done. tips."
 category: product
 tags: [jobs-to-be-done, best-practices, product, product-framework]
 models: [gpt-4, claude-3]

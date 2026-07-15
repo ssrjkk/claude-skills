@@ -1,6 +1,6 @@
 ---
 name: diffusers-checkpointing
-description: Checkpointing with Diffusers. model saving.
+description: "Checkpointing with Diffusers. model saving."
 category: ai
 tags: [diffusers, checkpointing, ai, deep-learning]
 models: [gpt-4, claude-3]

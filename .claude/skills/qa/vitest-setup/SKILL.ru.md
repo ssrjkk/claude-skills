@@ -1,6 +1,6 @@
 ---
 name: vitest-setup
-description: Setup with Vitest. installation.
+description: "Setup with Vitest. installation."
 category: qa
 tags: [vitest-setup, qa, russian]
 models: [sonnet, opus]

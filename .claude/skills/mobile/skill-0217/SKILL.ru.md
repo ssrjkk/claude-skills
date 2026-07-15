@@ -1,6 +1,6 @@
 ---
 name: skill-0217
-description: Specialized skill #0217 for mobile development
+description: "Specialized skill #0217 for mobile development"
 category: mobile
 tags: [skill-0217, mobile, russian]
 models: [sonnet, opus]

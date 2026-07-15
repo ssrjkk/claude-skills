@@ -1,6 +1,6 @@
 ---
 name: jmeter-reports
-description: Reports with JMeter. report generation.
+description: "Reports with JMeter. report generation."
 category: qa
 tags: [jmeter, reports, qa, performance-testing]
 models: [gpt-4, claude-3]

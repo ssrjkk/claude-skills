@@ -1,6 +1,6 @@
 ---
 name: kepler-tiles
-description: Tiles with Kepler.gl. tile serving.
+description: "Tiles with Kepler.gl. tile serving."
 category: geospatial
 tags: [kepler-tiles, geospatial, russian]
 models: [sonnet, opus]

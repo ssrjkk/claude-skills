@@ -1,6 +1,6 @@
 ---
 name: sasb-reporting
-description: Reporting with SASB. reporting.
+description: "Reporting with SASB. reporting."
 category: sustainability
 tags: [sasb-reporting, sustainability, russian]
 models: [sonnet, opus]

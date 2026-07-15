@@ -1,6 +1,6 @@
 ---
 name: whisper-troubleshooting
-description: Troubleshooting for Whisper: troubleshooting common issues
+description: "Troubleshooting for Whisper: troubleshooting common issues"
 category: ai
 tags: [whisper-troubleshooting, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: stripe-payments
-description: Integrates Stripe payment processing — checkout sessions, subscriptions, webhooks, and customer portals.
+description: "Integrates Stripe payment processing — checkout sessions, subscriptions, webhooks, and customer portals."
 category: payments
 tags: [stripe-payments, payments, russian]
 models: [sonnet, opus]

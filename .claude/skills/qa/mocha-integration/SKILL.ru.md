@@ -1,6 +1,6 @@
 ---
 name: mocha-integration
-description: Integration with Mocha. integration tests.
+description: "Integration with Mocha. integration tests."
 category: qa
 tags: [mocha-integration, qa, russian]
 models: [sonnet, opus]

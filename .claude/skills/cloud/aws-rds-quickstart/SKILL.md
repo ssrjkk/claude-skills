@@ -1,6 +1,6 @@
 ---
 name: aws-rds-quickstart
-description: Quickstart for Aws-Rds: quick start guide
+description: "Quickstart for Aws-Rds: quick start guide"
 category: cloud
 tags: [aws-rds, quickstart, cloud]
 models: [sonnet, opus]

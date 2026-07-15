@@ -1,6 +1,6 @@
 ---
 name: kafka-deployment
-description: Deployment for Kafka: deployment and release
+description: "Deployment for Kafka: deployment and release"
 category: data
 tags: [kafka-deployment, data, russian]
 models: [sonnet, opus]

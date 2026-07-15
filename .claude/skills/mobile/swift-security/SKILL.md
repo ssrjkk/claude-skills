@@ -1,6 +1,6 @@
 ---
 name: swift-security
-description: Security for Swift: security best practices
+description: "Security for Swift: security best practices"
 category: mobile
 tags: [swift, security, mobile]
 models: [sonnet, opus]

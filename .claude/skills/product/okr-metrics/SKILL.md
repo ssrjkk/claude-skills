@@ -1,6 +1,6 @@
 ---
 name: okr-metrics
-description: Metrics with OKRs. measurement.
+description: "Metrics with OKRs. measurement."
 category: product
 tags: [okr, metrics, product, product-framework]
 models: [gpt-4, claude-3]

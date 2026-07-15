@@ -1,6 +1,6 @@
 ---
 name: game-maker-setup
-description: Setup with GameMaker. engine setup.
+description: "Setup with GameMaker. engine setup."
 category: gamedev
 tags: [game-maker, setup, gamedev, game-engine]
 models: [gpt-4, claude-3]

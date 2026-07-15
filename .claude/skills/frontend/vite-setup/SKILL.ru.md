@@ -1,6 +1,6 @@
 ---
 name: vite-setup
-description: Setup with Vite. initial setup.
+description: "Setup with Vite. initial setup."
 category: frontend
 tags: [vite-setup, frontend, russian]
 models: [sonnet, opus]

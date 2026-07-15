@@ -1,6 +1,6 @@
 ---
 name: tezos-bridge
-description: Bridge with Tezos. cross-chain.
+description: "Bridge with Tezos. cross-chain."
 category: blockchain
 tags: [tezos-bridge, blockchain, russian]
 models: [sonnet, opus]

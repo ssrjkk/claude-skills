@@ -1,6 +1,6 @@
 ---
 name: vonage-webhooks
-description: Webhooks with Vonage. webhooks.
+description: "Webhooks with Vonage. webhooks."
 category: communications
 tags: [vonage-webhooks, communications, russian]
 models: [sonnet, opus]

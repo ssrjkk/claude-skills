@@ -1,6 +1,6 @@
 ---
 name: promptflow-rag
-description: RAG with Promptflow. building RAG systems.
+description: "RAG with Promptflow. building RAG systems."
 category: ai
 tags: [promptflow, rag, ai, llm]
 models: [gpt-4, claude-3]

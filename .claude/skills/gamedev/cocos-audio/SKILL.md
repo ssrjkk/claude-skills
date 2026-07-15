@@ -1,6 +1,6 @@
 ---
 name: cocos-audio
-description: Audio with Cocos Creator. audio.
+description: "Audio with Cocos Creator. audio."
 category: gamedev
 tags: [cocos, audio, gamedev, game-engine]
 models: [gpt-4, claude-3]

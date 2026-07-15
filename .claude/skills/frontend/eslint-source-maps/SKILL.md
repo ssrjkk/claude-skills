@@ -1,6 +1,6 @@
 ---
 name: eslint-source-maps
-description: Source Maps with ESLint. debugging.
+description: "Source Maps with ESLint. debugging."
 category: frontend
 tags: [eslint, source-maps, frontend, build-tool]
 models: [gpt-4, claude-3]

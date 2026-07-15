@@ -1,6 +1,6 @@
 ---
 name: maya-configuration
-description: Configuration for Maya: configuration and setup
+description: "Configuration for Maya: configuration and setup"
 category: gamedev
 tags: [maya, configuration, gamedev]
 models: [sonnet, opus]

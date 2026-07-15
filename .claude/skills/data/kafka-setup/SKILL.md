@@ -1,6 +1,6 @@
 ---
 name: kafka-setup
-description: Setup with Kafka. installation.
+description: "Setup with Kafka. installation."
 category: data
 tags: [kafka, setup, data, data-engineering]
 models: [gpt-4, claude-3]

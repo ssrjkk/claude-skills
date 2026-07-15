@@ -1,6 +1,6 @@
 ---
 name: pinia-store
-description: Store with Pinia. state store.
+description: "Store with Pinia. state store."
 category: frontend
 tags: [pinia, store, frontend, state-management]
 models: [gpt-4, claude-3]

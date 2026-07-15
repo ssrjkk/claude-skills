@@ -1,6 +1,6 @@
 ---
 name: angular-forms
-description: Forms with Angular. form handling.
+description: "Forms with Angular. form handling."
 category: frontend
 tags: [angular, forms, frontend, frontend]
 models: [gpt-4, claude-3]

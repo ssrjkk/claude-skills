@@ -1,6 +1,6 @@
 ---
 name: telehealth-data
-description: Data with Telehealth. data management.
+description: "Data with Telehealth. data management."
 category: healthcare
 tags: [telehealth-data, healthcare, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: pusher-analytics
-description: Analytics with Pusher. analytics.
+description: "Analytics with Pusher. analytics."
 category: communications
 tags: [pusher-analytics, communications, russian]
 models: [sonnet, opus]

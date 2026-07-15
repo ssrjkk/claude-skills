@@ -1,6 +1,6 @@
 ---
 name: mobx-persistence
-description: Persistence with MobX. state persistence.
+description: "Persistence with MobX. state persistence."
 category: frontend
 tags: [mobx-persistence, frontend, russian]
 models: [sonnet, opus]

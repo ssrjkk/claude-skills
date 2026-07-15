@@ -1,6 +1,6 @@
 ---
 name: cypress-cloud-integration
-description: Integration for Cypress-Cloud: integration with other tools
+description: "Integration for Cypress-Cloud: integration with other tools"
 category: qa
 tags: [cypress-cloud-integration, qa, russian]
 models: [sonnet, opus]

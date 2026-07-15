@@ -1,6 +1,6 @@
 ---
 name: stimulus-intro
-description: Intro for Stimulus: introduction
+description: "Intro for Stimulus: introduction"
 category: frontend
 tags: [stimulus, intro, frontend]
 models: [sonnet, opus]

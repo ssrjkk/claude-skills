@@ -1,6 +1,6 @@
 ---
 name: arkit-interaction
-description: Interaction with ARKit. hand tracking.
+description: "Interaction with ARKit. hand tracking."
 category: ar-vr
 tags: [arkit, interaction, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

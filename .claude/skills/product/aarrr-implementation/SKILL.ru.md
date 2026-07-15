@@ -1,6 +1,6 @@
 ---
 name: aarrr-implementation
-description: Implementation with AARRR. execution.
+description: "Implementation with AARRR. execution."
 category: product
 tags: [aarrr-implementation, product, russian]
 models: [sonnet, opus]

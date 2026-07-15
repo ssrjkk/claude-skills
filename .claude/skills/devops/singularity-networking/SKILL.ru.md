@@ -1,6 +1,6 @@
 ---
 name: singularity-networking
-description: Networking with Singularity. container networks.
+description: "Networking with Singularity. container networks."
 category: devops
 tags: [singularity-networking, devops, russian]
 models: [sonnet, opus]

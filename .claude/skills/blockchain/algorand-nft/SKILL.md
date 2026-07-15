@@ -1,6 +1,6 @@
 ---
 name: algorand-nft
-description: NFT with Algorand. tokens.
+description: "NFT with Algorand. tokens."
 category: blockchain
 tags: [algorand, nft, blockchain, blockchain]
 models: [gpt-4, claude-3]

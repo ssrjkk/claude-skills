@@ -1,6 +1,6 @@
 ---
 name: django-api
-description: API for Django: API development and integration
+description: "API for Django: API development and integration"
 category: backend
 tags: [django-api, backend, russian]
 models: [sonnet, opus]

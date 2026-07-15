@@ -1,6 +1,6 @@
 ---
 name: aiohttp-middleware
-description: Middleware with aiohttp. middleware pipelines.
+description: "Middleware with aiohttp. middleware pipelines."
 category: backend
 tags: [aiohttp-middleware, backend, russian]
 models: [sonnet, opus]

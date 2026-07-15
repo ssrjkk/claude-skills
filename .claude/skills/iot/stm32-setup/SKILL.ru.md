@@ -1,6 +1,6 @@
 ---
 name: stm32-setup
-description: Setup with STM32. board setup.
+description: "Setup with STM32. board setup."
 category: iot
 tags: [stm32-setup, iot, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: purecss-forms
-description: Forms with Pure.css. form styling.
+description: "Forms with Pure.css. form styling."
 category: frontend
 tags: [purecss-forms, frontend, russian]
 models: [sonnet, opus]

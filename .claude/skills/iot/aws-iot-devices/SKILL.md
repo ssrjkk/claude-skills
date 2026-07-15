@@ -1,6 +1,6 @@
 ---
 name: aws-iot-devices
-description: Devices with AWS IoT. device management.
+description: "Devices with AWS IoT. device management."
 category: iot
 tags: [aws-iot, devices, iot, iot-platform]
 models: [gpt-4, claude-3]

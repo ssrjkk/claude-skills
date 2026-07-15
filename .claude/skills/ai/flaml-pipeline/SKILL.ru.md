@@ -1,6 +1,6 @@
 ---
 name: flaml-pipeline
-description: Pipeline with Flaml. ML pipelines.
+description: "Pipeline with Flaml. ML pipelines."
 category: ai
 tags: [flaml-pipeline, ai, russian]
 models: [sonnet, opus]

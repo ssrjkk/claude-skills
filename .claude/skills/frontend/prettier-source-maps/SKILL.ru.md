@@ -1,6 +1,6 @@
 ---
 name: prettier-source-maps
-description: Source Maps with Prettier. debugging.
+description: "Source Maps with Prettier. debugging."
 category: frontend
 tags: [prettier-source-maps, frontend, russian]
 models: [sonnet, opus]

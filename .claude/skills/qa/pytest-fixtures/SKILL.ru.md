@@ -1,6 +1,6 @@
 ---
 name: pytest-fixtures
-description: Fixtures with pytest. test fixtures.
+description: "Fixtures with pytest. test fixtures."
 category: qa
 tags: [pytest-fixtures, qa, russian]
 models: [sonnet, opus]

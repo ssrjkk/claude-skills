@@ -1,6 +1,6 @@
 ---
 name: mariadb-monitoring
-description: Monitoring with MariaDB. monitoring.
+description: "Monitoring with MariaDB. monitoring."
 category: database
 tags: [mariadb, monitoring, database, sql]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: vitest-mocking
-description: Mocking with Vitest. mocks.
+description: "Mocking with Vitest. mocks."
 category: qa
 tags: [vitest-mocking, qa, russian]
 models: [sonnet, opus]

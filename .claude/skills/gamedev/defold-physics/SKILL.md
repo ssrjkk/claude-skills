@@ -1,6 +1,6 @@
 ---
 name: defold-physics
-description: Physics with Defold. physics.
+description: "Physics with Defold. physics."
 category: gamedev
 tags: [defold, physics, gamedev, game-engine]
 models: [gpt-4, claude-3]

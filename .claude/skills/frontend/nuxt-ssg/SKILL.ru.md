@@ -1,6 +1,6 @@
 ---
 name: nuxt-ssg
-description: SSG with Nuxt. static generation.
+description: "SSG with Nuxt. static generation."
 category: frontend
 tags: [nuxt-ssg, frontend, russian]
 models: [sonnet, opus]

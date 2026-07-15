@@ -1,6 +1,6 @@
 ---
 name: gdpr-testing
-description: Testing with GDPR. security testing.
+description: "Testing with GDPR. security testing."
 category: security
 tags: [gdpr, testing, security, security]
 models: [gpt-4, claude-3]

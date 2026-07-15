@@ -1,6 +1,6 @@
 ---
 name: fastly-storage
-description: Storage with Fastly. object storage.
+description: "Storage with Fastly. object storage."
 category: devops
 tags: [fastly, storage, devops, cloud]
 models: [gpt-4, claude-3]

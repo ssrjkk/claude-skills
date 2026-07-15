@@ -1,6 +1,6 @@
 ---
 name: steam-sdk-workflow
-description: Workflow for Steam-Sdk: workflow optimization
+description: "Workflow for Steam-Sdk: workflow optimization"
 category: gamedev
 tags: [steam-sdk-workflow, gamedev, russian]
 models: [sonnet, opus]

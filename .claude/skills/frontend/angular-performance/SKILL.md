@@ -1,6 +1,6 @@
 ---
 name: angular-performance
-description: Performance with Angular. optimization.
+description: "Performance with Angular. optimization."
 category: frontend
 tags: [angular, performance, frontend, frontend]
 models: [gpt-4, claude-3]

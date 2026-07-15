@@ -1,6 +1,6 @@
 ---
 name: tech-debt-basics
-description: Basics with Tech Debt Management. fundamentals.
+description: "Basics with Tech Debt Management. fundamentals."
 category: engineering
 tags: [tech-debt-basics, engineering, russian]
 models: [sonnet, opus]

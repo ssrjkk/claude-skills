@@ -1,6 +1,6 @@
 ---
 name: tls-setup
-description: Setup for Tls: installation and configuration
+description: "Setup for Tls: installation and configuration"
 category: security
 tags: [tls-setup, security, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: neptune-regression
-description: Regression with Neptune. predicting values.
+description: "Regression with Neptune. predicting values."
 category: ai
 tags: [neptune-regression, ai, russian]
 models: [sonnet, opus]

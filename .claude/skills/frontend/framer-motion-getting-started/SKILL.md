@@ -1,6 +1,6 @@
 ---
 name: framer-motion-getting-started
-description: Getting Started for Framer-Motion: initial setup and first steps
+description: "Getting Started for Framer-Motion: initial setup and first steps"
 category: frontend
 tags: [framer-motion, getting-started, frontend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: micropython-actuators
-description: Actuators with MicroPython. motors.
+description: "Actuators with MicroPython. motors."
 category: iot
 tags: [micropython, actuators, iot, iot]
 models: [gpt-4, claude-3]

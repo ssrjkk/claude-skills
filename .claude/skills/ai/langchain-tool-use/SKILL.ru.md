@@ -1,6 +1,6 @@
 ---
 name: langchain-tool-use
-description: Tool Use with Langchain. function calling.
+description: "Tool Use with Langchain. function calling."
 category: ai
 tags: [langchain-tool-use, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: msw-fundamentals
-description: Fundamentals for Msw: core concepts
+description: "Fundamentals for Msw: core concepts"
 category: qa
 tags: [msw, fundamentals, qa]
 models: [sonnet, opus]

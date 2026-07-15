@@ -1,6 +1,6 @@
 ---
 name: dart-deployment
-description: Deployment for Dart: deployment and release
+description: "Deployment for Dart: deployment and release"
 category: mobile
 tags: [dart, deployment, mobile]
 models: [sonnet, opus]

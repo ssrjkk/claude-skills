@@ -1,6 +1,6 @@
 ---
 name: opentofu-state
-description: State with OpenTofu. state management.
+description: "State with OpenTofu. state management."
 category: devops
 tags: [opentofu-state, devops, russian]
 models: [sonnet, opus]

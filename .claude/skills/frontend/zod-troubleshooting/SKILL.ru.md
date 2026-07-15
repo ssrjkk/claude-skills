@@ -1,6 +1,6 @@
 ---
 name: zod-troubleshooting
-description: Troubleshooting for Zod: troubleshooting common issues
+description: "Troubleshooting for Zod: troubleshooting common issues"
 category: frontend
 tags: [zod-troubleshooting, frontend, russian]
 models: [sonnet, opus]

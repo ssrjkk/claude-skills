@@ -1,6 +1,6 @@
 ---
 name: telegram-bot-voice
-description: Voice with Telegram Bot. voice calls.
+description: "Voice with Telegram Bot. voice calls."
 category: communications
 tags: [telegram-bot-voice, communications, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: artillery-scenarios
-description: Scenarios with Artillery. test scenarios.
+description: "Scenarios with Artillery. test scenarios."
 category: qa
 tags: [artillery, scenarios, qa, performance-testing]
 models: [gpt-4, claude-3]

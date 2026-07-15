@@ -1,6 +1,6 @@
 ---
 name: iis-users
-description: Users with IIS. user mgmt.
+description: "Users with IIS. user mgmt."
 category: os-admin
 tags: [iis, users, os-admin, windows]
 models: [gpt-4, claude-3]

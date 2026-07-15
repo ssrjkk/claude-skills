@@ -1,6 +1,6 @@
 ---
 name: squid-examples
-description: Examples for Squid: practical examples
+description: "Examples for Squid: practical examples"
 category: backend
 tags: [squid-examples, backend, russian]
 models: [sonnet, opus]

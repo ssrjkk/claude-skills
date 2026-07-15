@@ -1,6 +1,6 @@
 ---
 name: selenium-ci
-description: CI with Selenium. CI integration.
+description: "CI with Selenium. CI integration."
 category: qa
 tags: [selenium-ci, qa, russian]
 models: [sonnet, opus]

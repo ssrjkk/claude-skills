@@ -1,6 +1,6 @@
 ---
 name: google-maps-integration
-description: Integration with Google Maps API. integration.
+description: "Integration with Google Maps API. integration."
 category: geospatial
 tags: [google-maps, integration, geospatial, gis]
 models: [gpt-4, claude-3]

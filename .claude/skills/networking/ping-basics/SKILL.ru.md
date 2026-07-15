@@ -1,6 +1,6 @@
 ---
 name: ping-basics
-description: Basics with ping/traceroute. basic usage.
+description: "Basics with ping/traceroute. basic usage."
 category: networking
 tags: [ping-basics, networking, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: nginx-examples
-description: Examples for Nginx: practical examples
+description: "Examples for Nginx: practical examples"
 category: backend
 tags: [nginx, examples, backend]
 models: [sonnet, opus]

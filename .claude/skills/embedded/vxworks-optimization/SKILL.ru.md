@@ -1,6 +1,6 @@
 ---
 name: vxworks-optimization
-description: Optimization with VxWorks. optimization.
+description: "Optimization with VxWorks. optimization."
 category: embedded
 tags: [vxworks-optimization, embedded, russian]
 models: [sonnet, opus]

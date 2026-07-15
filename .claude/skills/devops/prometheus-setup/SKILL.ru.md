@@ -1,6 +1,6 @@
 ---
 name: prometheus-setup
-description: Setup with Prometheus. installation.
+description: "Setup with Prometheus. installation."
 category: devops
 tags: [prometheus-setup, devops, russian]
 models: [sonnet, opus]

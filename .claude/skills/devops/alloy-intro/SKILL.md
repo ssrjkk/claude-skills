@@ -1,6 +1,6 @@
 ---
 name: alloy-intro
-description: Intro for Alloy: introduction
+description: "Intro for Alloy: introduction"
 category: devops
 tags: [alloy, intro, devops]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cassandra-testing
-description: Testing for Cassandra: testing and validation
+description: "Testing for Cassandra: testing and validation"
 category: database
 tags: [cassandra-testing, database, russian]
 models: [sonnet, opus]

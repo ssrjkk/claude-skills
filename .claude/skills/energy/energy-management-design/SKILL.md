@@ -1,6 +1,6 @@
 ---
 name: energy-management-design
-description: Design with Energy Management. system design.
+description: "Design with Energy Management. system design."
 category: energy
 tags: [energy-management, design, energy, renewable-energy]
 models: [gpt-4, claude-3]

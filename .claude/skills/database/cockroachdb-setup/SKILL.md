@@ -1,6 +1,6 @@
 ---
 name: cockroachdb-setup
-description: Setup with CockroachDB. installation.
+description: "Setup with CockroachDB. installation."
 category: database
 tags: [cockroachdb, setup, database, sql]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: go-async
-description: Async with Go. async operations.
+description: "Async with Go. async operations."
 category: backend
 tags: [go, async, backend, backend]
 models: [gpt-4, claude-3]

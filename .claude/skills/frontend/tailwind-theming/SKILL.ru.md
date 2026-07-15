@@ -1,6 +1,6 @@
 ---
 name: tailwind-theming
-description: Theming with Tailwind CSS. custom themes.
+description: "Theming with Tailwind CSS. custom themes."
 category: frontend
 tags: [tailwind-theming, frontend, russian]
 models: [sonnet, opus]

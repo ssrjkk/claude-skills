@@ -1,6 +1,6 @@
 ---
 name: fastify-websocket
-description: WebSocket with Fastify. Socket.io.
+description: "WebSocket with Fastify. Socket.io."
 category: backend
 tags: [fastify, websocket, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: netstat-troubleshooting
-description: Troubleshooting with netstat/ss. debugging.
+description: "Troubleshooting with netstat/ss. debugging."
 category: networking
 tags: [netstat-troubleshooting, networking, russian]
 models: [sonnet, opus]

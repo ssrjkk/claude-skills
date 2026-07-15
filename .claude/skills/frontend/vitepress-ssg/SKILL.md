@@ -1,6 +1,6 @@
 ---
 name: vitepress-ssg
-description: SSG with VitePress. static generation.
+description: "SSG with VitePress. static generation."
 category: frontend
 tags: [vitepress, ssg, frontend, meta-framework]
 models: [gpt-4, claude-3]

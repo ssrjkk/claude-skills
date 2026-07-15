@@ -1,6 +1,6 @@
 ---
 name: bokeh-performance
-description: Performance with Bokeh. optimization.
+description: "Performance with Bokeh. optimization."
 category: data
 tags: [bokeh, performance, data, data-science]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: bottle-deployment
-description: Deployment with Bottle. production deploy.
+description: "Deployment with Bottle. production deploy."
 category: backend
 tags: [bottle-deployment, backend, russian]
 models: [sonnet, opus]

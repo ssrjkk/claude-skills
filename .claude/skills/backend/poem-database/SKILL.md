@@ -1,6 +1,6 @@
 ---
 name: poem-database
-description: Database with Poem. DB access.
+description: "Database with Poem. DB access."
 category: backend
 tags: [poem, database, backend, backend]
 models: [gpt-4, claude-3]

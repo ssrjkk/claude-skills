@@ -1,6 +1,6 @@
 ---
 name: llama-index-tool-use
-description: Tool Use with Llama Index. function calling.
+description: "Tool Use with Llama Index. function calling."
 category: ai
 tags: [llama-index, tool-use, ai, llm]
 models: [gpt-4, claude-3]

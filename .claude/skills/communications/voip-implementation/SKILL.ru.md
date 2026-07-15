@@ -1,6 +1,6 @@
 ---
 name: voip-implementation
-description: Implementation with VoIP. implementation.
+description: "Implementation with VoIP. implementation."
 category: communications
 tags: [voip-implementation, communications, russian]
 models: [sonnet, opus]

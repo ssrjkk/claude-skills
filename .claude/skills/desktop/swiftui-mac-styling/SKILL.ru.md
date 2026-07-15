@@ -1,6 +1,6 @@
 ---
 name: swiftui-mac-styling
-description: Styling with SwiftUI Mac. styling.
+description: "Styling with SwiftUI Mac. styling."
 category: desktop
 tags: [swiftui-mac-styling, desktop, russian]
 models: [sonnet, opus]

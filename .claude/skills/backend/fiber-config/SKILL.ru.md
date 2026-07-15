@@ -1,6 +1,6 @@
 ---
 name: fiber-config
-description: Config with Fiber. config management.
+description: "Config with Fiber. config management."
 category: backend
 tags: [fiber-config, backend, russian]
 models: [sonnet, opus]

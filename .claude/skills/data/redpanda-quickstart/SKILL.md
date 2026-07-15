@@ -1,6 +1,6 @@
 ---
 name: redpanda-quickstart
-description: Quickstart for Redpanda: quick start guide
+description: "Quickstart for Redpanda: quick start guide"
 category: data
 tags: [redpanda, quickstart, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: langchain-api
-description: API for Langchain: API development and integration
+description: "API for Langchain: API development and integration"
 category: ai
 tags: [langchain-api, ai, russian]
 models: [sonnet, opus]

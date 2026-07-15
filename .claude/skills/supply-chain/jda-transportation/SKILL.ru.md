@@ -1,6 +1,6 @@
 ---
 name: jda-transportation
-description: Transportation with JDA/Blue Yonder. TMS.
+description: "Transportation with JDA/Blue Yonder. TMS."
 category: supply-chain
 tags: [jda-transportation, supply-chain, russian]
 models: [sonnet, opus]

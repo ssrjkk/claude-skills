@@ -1,6 +1,6 @@
 ---
 name: recoil-middleware
-description: Middleware with Recoil. side effects.
+description: "Middleware with Recoil. side effects."
 category: frontend
 tags: [recoil-middleware, frontend, russian]
 models: [sonnet, opus]

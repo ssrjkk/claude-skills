@@ -1,6 +1,6 @@
 ---
 name: aks-configmap
-description: ConfigMap with Azure AKS. config management.
+description: "ConfigMap with Azure AKS. config management."
 category: devops
 tags: [aks-configmap, devops, russian]
 models: [sonnet, opus]

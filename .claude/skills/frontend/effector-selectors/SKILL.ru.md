@@ -1,6 +1,6 @@
 ---
 name: effector-selectors
-description: Selectors with Effector. derived data.
+description: "Selectors with Effector. derived data."
 category: frontend
 tags: [effector-selectors, frontend, russian]
 models: [sonnet, opus]

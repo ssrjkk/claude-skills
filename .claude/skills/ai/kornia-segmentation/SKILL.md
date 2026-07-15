@@ -1,6 +1,6 @@
 ---
 name: kornia-segmentation
-description: Segmentation with Kornia. image segmentation.
+description: "Segmentation with Kornia. image segmentation."
 category: ai
 tags: [kornia, segmentation, ai, computer-vision]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: x509-basics
-description: Basics with X.509. fundamentals.
+description: "Basics with X.509. fundamentals."
 category: security
 tags: [x509, basics, security, security]
 models: [gpt-4, claude-3]

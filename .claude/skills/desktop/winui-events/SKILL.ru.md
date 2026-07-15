@@ -1,6 +1,6 @@
 ---
 name: winui-events
-description: Events with WinUI. event handling.
+description: "Events with WinUI. event handling."
 category: desktop
 tags: [winui-events, desktop, russian]
 models: [sonnet, opus]

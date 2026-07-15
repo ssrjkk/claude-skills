@@ -1,6 +1,6 @@
 ---
 name: valtio-persistence
-description: Persistence with Valtio. state persistence.
+description: "Persistence with Valtio. state persistence."
 category: frontend
 tags: [valtio, persistence, frontend, state-management]
 models: [gpt-4, claude-3]

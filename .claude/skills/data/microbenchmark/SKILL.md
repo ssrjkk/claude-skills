@@ -1,6 +1,6 @@
 ---
 name: microbenchmark
-description: Development with Microbenchmark: tools and best practices
+description: "Development with Microbenchmark: tools and best practices"
 category: data
 tags: [microbenchmark, data, development]
 models: [sonnet, opus]

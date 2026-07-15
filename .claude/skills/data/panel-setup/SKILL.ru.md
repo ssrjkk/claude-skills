@@ -1,6 +1,6 @@
 ---
 name: panel-setup
-description: Setup with Panel. installation.
+description: "Setup with Panel. installation."
 category: data
 tags: [panel-setup, data, russian]
 models: [sonnet, opus]

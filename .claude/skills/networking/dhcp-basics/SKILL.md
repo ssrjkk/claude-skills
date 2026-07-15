@@ -1,6 +1,6 @@
 ---
 name: dhcp-basics
-description: Basics with DHCP. fundamentals.
+description: "Basics with DHCP. fundamentals."
 category: networking
 tags: [dhcp, basics, networking, networking]
 models: [gpt-4, claude-3]

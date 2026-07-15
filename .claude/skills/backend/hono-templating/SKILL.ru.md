@@ -1,6 +1,6 @@
 ---
 name: hono-templating
-description: Templating with Hono. Pug.
+description: "Templating with Hono. Pug."
 category: backend
 tags: [hono-templating, backend, russian]
 models: [sonnet, opus]

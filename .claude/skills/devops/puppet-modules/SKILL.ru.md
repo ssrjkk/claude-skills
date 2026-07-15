@@ -1,6 +1,6 @@
 ---
 name: puppet-modules
-description: Modules with Puppet. modules.
+description: "Modules with Puppet. modules."
 category: devops
 tags: [puppet-modules, devops, russian]
 models: [sonnet, opus]

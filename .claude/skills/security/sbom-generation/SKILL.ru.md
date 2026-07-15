@@ -1,6 +1,6 @@
 ---
 name: sbom-generation
-description: Generates Software Bill of Materials (SBOM) for tracking dependencies and vulnerabilities. Use for supply chain security.
+description: "Generates Software Bill of Materials (SBOM) for tracking dependencies and vulnerabilities. Use for supply chain security."
 category: security
 tags: [sbom-generation, security, russian]
 models: [sonnet, opus]

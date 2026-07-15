@@ -1,6 +1,6 @@
 ---
 name: elixir-orm
-description: ORM with Elixir. database access.
+description: "ORM with Elixir. database access."
 category: backend
 tags: [elixir, orm, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: fastify-deployment
-description: Deployment with Fastify. deploy.
+description: "Deployment with Fastify. deploy."
 category: backend
 tags: [fastify-deployment, backend, russian]
 models: [sonnet, opus]

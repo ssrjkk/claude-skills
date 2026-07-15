@@ -1,6 +1,6 @@
 ---
 name: locust-scenarios
-description: Scenarios with Locust. test scenarios.
+description: "Scenarios with Locust. test scenarios."
 category: qa
 tags: [locust-scenarios, qa, russian]
 models: [sonnet, opus]

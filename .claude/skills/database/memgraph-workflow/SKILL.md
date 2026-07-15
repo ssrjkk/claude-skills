@@ -1,6 +1,6 @@
 ---
 name: memgraph-workflow
-description: Workflow for Memgraph: workflow optimization
+description: "Workflow for Memgraph: workflow optimization"
 category: database
 tags: [memgraph, workflow, database]
 models: [sonnet, opus]

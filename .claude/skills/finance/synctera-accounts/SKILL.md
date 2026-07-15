@@ -1,6 +1,6 @@
 ---
 name: synctera-accounts
-description: Accounts with Synctera. account linking.
+description: "Accounts with Synctera. account linking."
 category: finance
 tags: [synctera, accounts, finance, fintech]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: sentinelone-best-practices
-description: Best Practices for Sentinelone: best practices and patterns
+description: "Best Practices for Sentinelone: best practices and patterns"
 category: security
 tags: [sentinelone-best-practices, security, russian]
 models: [sonnet, opus]

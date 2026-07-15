@@ -1,6 +1,6 @@
 ---
 name: prime-react-fundamentals
-description: Fundamentals for Prime-React: core concepts
+description: "Fundamentals for Prime-React: core concepts"
 category: frontend
 tags: [prime-react, fundamentals, frontend]
 models: [sonnet, opus]

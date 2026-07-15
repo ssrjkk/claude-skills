@@ -1,6 +1,6 @@
 ---
 name: solid-animations
-description: Animations with Solid. UI animations.
+description: "Animations with Solid. UI animations."
 category: frontend
 tags: [solid-animations, frontend, russian]
 models: [sonnet, opus]

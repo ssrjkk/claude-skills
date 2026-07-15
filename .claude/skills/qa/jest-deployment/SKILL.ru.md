@@ -1,6 +1,6 @@
 ---
 name: jest-deployment
-description: Deployment for Jest: deployment and release
+description: "Deployment for Jest: deployment and release"
 category: qa
 tags: [jest-deployment, qa, russian]
 models: [sonnet, opus]

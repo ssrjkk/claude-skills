@@ -1,6 +1,6 @@
 ---
 name: security-skill-0007
-description: Specialized skill #0007 for security development
+description: "Specialized skill #0007 for security development"
 category: security
 tags: [skill-0007, security, russian]
 models: [sonnet, opus]

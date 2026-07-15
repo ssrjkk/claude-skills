@@ -1,6 +1,6 @@
 ---
 name: journey-mapping-execution
-description: Execution with Journey Mapping. running sessions.
+description: "Execution with Journey Mapping. running sessions."
 category: design
 tags: [journey-mapping-execution, design, russian]
 models: [sonnet, opus]

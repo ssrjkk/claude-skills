@@ -1,6 +1,6 @@
 ---
 name: group-policy-backup
-description: Backup with Group Policy. backup.
+description: "Backup with Group Policy. backup."
 category: os-admin
 tags: [group-policy-backup, os-admin, russian]
 models: [sonnet, opus]

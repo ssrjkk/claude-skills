@@ -1,6 +1,6 @@
 ---
 name: ragas-production
-description: Production for Ragas: production deployment
+description: "Production for Ragas: production deployment"
 category: ai
 tags: [ragas-production, ai, russian]
 models: [sonnet, opus]

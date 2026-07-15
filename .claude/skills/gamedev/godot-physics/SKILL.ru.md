@@ -1,6 +1,6 @@
 ---
 name: godot-physics
-description: Physics with Godot. physics.
+description: "Physics with Godot. physics."
 category: gamedev
 tags: [godot-physics, gamedev, russian]
 models: [sonnet, opus]

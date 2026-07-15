@@ -1,6 +1,6 @@
 ---
 name: purecss-responsive
-description: Responsive with Pure.css. mobile-first.
+description: "Responsive with Pure.css. mobile-first."
 category: frontend
 tags: [purecss-responsive, frontend, russian]
 models: [sonnet, opus]

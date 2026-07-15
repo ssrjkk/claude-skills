@@ -1,6 +1,6 @@
 ---
 name: testng-parameterization
-description: Parameterization with TestNG. parametrized tests.
+description: "Parameterization with TestNG. parametrized tests."
 category: qa
 tags: [testng, parameterization, qa, testing]
 models: [gpt-4, claude-3]

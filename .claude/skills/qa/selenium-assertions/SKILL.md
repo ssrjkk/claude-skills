@@ -1,6 +1,6 @@
 ---
 name: selenium-assertions
-description: Assertions with Selenium. assertions.
+description: "Assertions with Selenium. assertions."
 category: qa
 tags: [selenium, assertions, qa, e2e]
 models: [gpt-4, claude-3]

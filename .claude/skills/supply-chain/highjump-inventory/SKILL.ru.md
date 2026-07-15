@@ -1,6 +1,6 @@
 ---
 name: highjump-inventory
-description: Inventory with HighJump. inventory mgmt.
+description: "Inventory with HighJump. inventory mgmt."
 category: supply-chain
 tags: [highjump-inventory, supply-chain, russian]
 models: [sonnet, opus]

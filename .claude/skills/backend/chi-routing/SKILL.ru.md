@@ -1,6 +1,6 @@
 ---
 name: chi-routing
-description: Routing with Chi. HTTP routing.
+description: "Routing with Chi. HTTP routing."
 category: backend
 tags: [chi-routing, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: siege-thresholds
-description: Thresholds with Siege. pass/fail.
+description: "Thresholds with Siege. pass/fail."
 category: qa
 tags: [siege, thresholds, qa, performance-testing]
 models: [gpt-4, claude-3]

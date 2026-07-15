@@ -1,6 +1,6 @@
 ---
 name: mxnet-distributed
-description: Distributed with Mxnet. distributed training.
+description: "Distributed with Mxnet. distributed training."
 category: ai
 tags: [mxnet-distributed, ai, russian]
 models: [sonnet, opus]

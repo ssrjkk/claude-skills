@@ -1,6 +1,6 @@
 ---
 name: meilisearch-clustering
-description: Clustering with Meilisearch. cluster setup.
+description: "Clustering with Meilisearch. cluster setup."
 category: database
 tags: [meilisearch, clustering, database, search-engine]
 models: [gpt-4, claude-3]

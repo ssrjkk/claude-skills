@@ -1,6 +1,6 @@
 ---
 name: mollie-fraud
-description: Fraud with Mollie. fraud detection.
+description: "Fraud with Mollie. fraud detection."
 category: payments
 tags: [mollie-fraud, payments, russian]
 models: [sonnet, opus]

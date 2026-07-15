@@ -1,6 +1,6 @@
 ---
 name: pmp-coaching
-description: Coaching with PMP. team coaching.
+description: "Coaching with PMP. team coaching."
 category: product
 tags: [pmp-coaching, product, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: react-hook-form-workflow
-description: Workflow for React-Hook-Form: workflow optimization
+description: "Workflow for React-Hook-Form: workflow optimization"
 category: frontend
 tags: [react-hook-form-workflow, frontend, russian]
 models: [sonnet, opus]

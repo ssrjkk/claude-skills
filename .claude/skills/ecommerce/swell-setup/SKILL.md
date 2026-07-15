@@ -1,6 +1,6 @@
 ---
 name: swell-setup
-description: Setup with Swell. setup.
+description: "Setup with Swell. setup."
 category: ecommerce
 tags: [swell, setup, ecommerce, headless-commerce]
 models: [gpt-4, claude-3]

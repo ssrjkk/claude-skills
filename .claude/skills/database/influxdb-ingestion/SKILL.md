@@ -1,6 +1,6 @@
 ---
 name: influxdb-ingestion
-description: Ingestion with InfluxDB. data ingestion.
+description: "Ingestion with InfluxDB. data ingestion."
 category: database
 tags: [influxdb, ingestion, database, time-series]
 models: [gpt-4, claude-3]

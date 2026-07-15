@@ -1,6 +1,6 @@
 ---
 name: solar-pv-integration
-description: Integration with Solar PV. grid integration.
+description: "Integration with Solar PV. grid integration."
 category: energy
 tags: [solar-pv, integration, energy, renewable-energy]
 models: [gpt-4, claude-3]

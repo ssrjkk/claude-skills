@@ -1,6 +1,6 @@
 ---
 name: hyperdx-usage
-description: Usage for Hyperdx: usage reference
+description: "Usage for Hyperdx: usage reference"
 category: devops
 tags: [hyperdx, usage, devops]
 models: [sonnet, opus]

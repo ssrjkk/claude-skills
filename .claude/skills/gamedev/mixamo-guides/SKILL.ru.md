@@ -1,6 +1,6 @@
 ---
 name: mixamo-guides
-description: Guides for Mixamo: how-to guides
+description: "Guides for Mixamo: how-to guides"
 category: gamedev
 tags: [mixamo-guides, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: chromadb-troubleshooting
-description: Troubleshooting for Chromadb: troubleshooting common issues
+description: "Troubleshooting for Chromadb: troubleshooting common issues"
 category: ai
 tags: [chromadb, troubleshooting, ai]
 models: [sonnet, opus]

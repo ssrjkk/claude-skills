@@ -1,6 +1,6 @@
 ---
 name: selenoid-production
-description: Production for Selenoid: production deployment
+description: "Production for Selenoid: production deployment"
 category: qa
 tags: [selenoid, production, qa]
 models: [sonnet, opus]

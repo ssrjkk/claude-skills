@@ -1,6 +1,6 @@
 ---
 name: steamvr-optimization
-description: Optimization with SteamVR. performance.
+description: "Optimization with SteamVR. performance."
 category: ar-vr
 tags: [steamvr-optimization, ar-vr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: esbuild-config
-description: Config with esbuild. configuration.
+description: "Config with esbuild. configuration."
 category: frontend
 tags: [esbuild-config, frontend, russian]
 models: [sonnet, opus]

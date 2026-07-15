@@ -1,6 +1,6 @@
 ---
 name: pulsar-fundamentals
-description: Fundamentals for Pulsar: core concepts
+description: "Fundamentals for Pulsar: core concepts"
 category: data
 tags: [pulsar-fundamentals, data, russian]
 models: [sonnet, opus]

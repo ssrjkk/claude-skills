@@ -1,6 +1,6 @@
 ---
 name: sanic-routing
-description: Routing with Sanic. HTTP routing.
+description: "Routing with Sanic. HTTP routing."
 category: backend
 tags: [sanic-routing, backend, russian]
 models: [sonnet, opus]

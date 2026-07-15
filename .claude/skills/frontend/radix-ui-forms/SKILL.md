@@ -1,6 +1,6 @@
 ---
 name: radix-ui-forms
-description: Forms with Radix UI. form styling.
+description: "Forms with Radix UI. form styling."
 category: frontend
 tags: [radix-ui, forms, frontend, css]
 models: [gpt-4, claude-3]

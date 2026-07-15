@@ -1,6 +1,6 @@
 ---
 name: visual-scripting-guides
-description: Guides for Visual-Scripting: how-to guides
+description: "Guides for Visual-Scripting: how-to guides"
 category: gamedev
 tags: [visual-scripting-guides, gamedev, russian]
 models: [sonnet, opus]

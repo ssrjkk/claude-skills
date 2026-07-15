@@ -1,6 +1,6 @@
 ---
 name: bgp-troubleshooting
-description: Troubleshooting with BGP. diagnostics.
+description: "Troubleshooting with BGP. diagnostics."
 category: networking
 tags: [bgp-troubleshooting, networking, russian]
 models: [sonnet, opus]

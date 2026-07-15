@@ -1,6 +1,6 @@
 ---
 name: phpunit-fixtures
-description: Fixtures with PHPUnit. test fixtures.
+description: "Fixtures with PHPUnit. test fixtures."
 category: qa
 tags: [phpunit, fixtures, qa, testing]
 models: [gpt-4, claude-3]

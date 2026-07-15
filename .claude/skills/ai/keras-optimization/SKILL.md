@@ -1,6 +1,6 @@
 ---
 name: keras-optimization
-description: Optimization with Keras. model optimization.
+description: "Optimization with Keras. model optimization."
 category: ai
 tags: [keras, optimization, ai, deep-learning]
 models: [gpt-4, claude-3]

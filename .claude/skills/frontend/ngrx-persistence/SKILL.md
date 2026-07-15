@@ -1,6 +1,6 @@
 ---
 name: ngrx-persistence
-description: Persistence with NgRx. state persistence.
+description: "Persistence with NgRx. state persistence."
 category: frontend
 tags: [ngrx, persistence, frontend, state-management]
 models: [gpt-4, claude-3]

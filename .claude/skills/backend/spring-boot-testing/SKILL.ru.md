@@ -1,6 +1,6 @@
 ---
 name: spring-boot-testing
-description: Testing with Spring Boot. unit tests.
+description: "Testing with Spring Boot. unit tests."
 category: backend
 tags: [spring-boot-testing, backend, russian]
 models: [sonnet, opus]

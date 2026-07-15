@@ -1,6 +1,6 @@
 ---
 name: qgis-mapping
-description: Mapping with QGIS. mapping.
+description: "Mapping with QGIS. mapping."
 category: geospatial
 tags: [qgis, mapping, geospatial, gis]
 models: [gpt-4, claude-3]

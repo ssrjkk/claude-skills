@@ -1,6 +1,6 @@
 ---
 name: circleci-secrets
-description: Secrets with CircleCI. secret management.
+description: "Secrets with CircleCI. secret management."
 category: devops
 tags: [circleci-secrets, devops, russian]
 models: [sonnet, opus]

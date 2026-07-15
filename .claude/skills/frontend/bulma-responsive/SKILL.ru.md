@@ -1,6 +1,6 @@
 ---
 name: bulma-responsive
-description: Responsive with Bulma. mobile-first.
+description: "Responsive with Bulma. mobile-first."
 category: frontend
 tags: [bulma-responsive, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: shiny-theming
-description: Theming with Shiny. themes.
+description: "Theming with Shiny. themes."
 category: data
 tags: [shiny, theming, data, data-apps]
 models: [gpt-4, claude-3]

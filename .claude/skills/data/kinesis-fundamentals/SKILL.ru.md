@@ -1,6 +1,6 @@
 ---
 name: kinesis-fundamentals
-description: Fundamentals for Kinesis: core concepts
+description: "Fundamentals for Kinesis: core concepts"
 category: data
 tags: [kinesis-fundamentals, data, russian]
 models: [sonnet, opus]

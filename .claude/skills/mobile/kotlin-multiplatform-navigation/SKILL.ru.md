@@ -1,6 +1,6 @@
 ---
 name: kotlin-multiplatform-navigation
-description: Navigation with Kotlin Multiplatform. navigation.
+description: "Navigation with Kotlin Multiplatform. navigation."
 category: mobile
 tags: [kotlin-multiplatform-navigation, mobile, russian]
 models: [sonnet, opus]

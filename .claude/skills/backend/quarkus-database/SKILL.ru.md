@@ -1,6 +1,6 @@
 ---
 name: quarkus-database
-description: Database with Quarkus. DB access.
+description: "Database with Quarkus. DB access."
 category: backend
 tags: [quarkus-database, backend, russian]
 models: [sonnet, opus]

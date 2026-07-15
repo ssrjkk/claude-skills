@@ -1,6 +1,6 @@
 ---
 name: rabbitmq-configuration
-description: Configuration for Rabbitmq: configuration and setup
+description: "Configuration for Rabbitmq: configuration and setup"
 category: backend
 tags: [rabbitmq-configuration, backend, russian]
 models: [sonnet, opus]

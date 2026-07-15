@@ -1,6 +1,6 @@
 ---
 name: nock-guides
-description: Guides for Nock: how-to guides
+description: "Guides for Nock: how-to guides"
 category: qa
 tags: [nock, guides, qa]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: telehealth-compliance
-description: Compliance with Telehealth. compliance.
+description: "Compliance with Telehealth. compliance."
 category: healthcare
 tags: [telehealth, compliance, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

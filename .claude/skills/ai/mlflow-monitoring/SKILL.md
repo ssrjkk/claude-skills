@@ -1,6 +1,6 @@
 ---
 name: mlflow-monitoring
-description: Monitoring with Mlflow. model monitoring.
+description: "Monitoring with Mlflow. model monitoring."
 category: ai
 tags: [mlflow, monitoring, ai, ml]
 models: [gpt-4, claude-3]

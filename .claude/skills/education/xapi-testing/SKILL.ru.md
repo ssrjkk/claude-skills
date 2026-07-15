@@ -1,6 +1,6 @@
 ---
 name: xapi-testing
-description: Testing with xAPI. testing.
+description: "Testing with xAPI. testing."
 category: education
 tags: [xapi-testing, education, russian]
 models: [sonnet, opus]

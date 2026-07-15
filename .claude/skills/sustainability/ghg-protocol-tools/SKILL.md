@@ -1,6 +1,6 @@
 ---
 name: ghg-protocol-tools
-description: Tools with GHG Protocol. tools.
+description: "Tools with GHG Protocol. tools."
 category: sustainability
 tags: [ghg-protocol, tools, sustainability, sustainability]
 models: [gpt-4, claude-3]

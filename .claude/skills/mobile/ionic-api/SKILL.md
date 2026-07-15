@@ -1,6 +1,6 @@
 ---
 name: ionic-api
-description: API for Ionic: API development and integration
+description: "API for Ionic: API development and integration"
 category: mobile
 tags: [ionic, api, mobile]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: turbopack-bundling
-description: Bundling with Turbopack. code bundling.
+description: "Bundling with Turbopack. code bundling."
 category: frontend
 tags: [turbopack-bundling, frontend, russian]
 models: [sonnet, opus]

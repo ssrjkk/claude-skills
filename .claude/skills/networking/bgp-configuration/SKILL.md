@@ -1,6 +1,6 @@
 ---
 name: bgp-configuration
-description: Config with BGP. setup.
+description: "Config with BGP. setup."
 category: networking
 tags: [bgp, configuration, networking, networking]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: ehcache-optimization
-description: Optimization with Ehcache. performance tuning.
+description: "Optimization with Ehcache. performance tuning."
 category: database
 tags: [ehcache-optimization, database, russian]
 models: [sonnet, opus]

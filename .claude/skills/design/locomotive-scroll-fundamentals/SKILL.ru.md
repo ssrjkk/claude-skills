@@ -1,6 +1,6 @@
 ---
 name: locomotive-scroll-fundamentals
-description: Fundamentals for Locomotive-Scroll: core concepts
+description: "Fundamentals for Locomotive-Scroll: core concepts"
 category: design
 tags: [locomotive-scroll-fundamentals, design, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: bash-backup
-description: Backup with Bash Scripting. backup.
+description: "Backup with Bash Scripting. backup."
 category: os-admin
 tags: [bash, backup, os-admin, linux]
 models: [gpt-4, claude-3]

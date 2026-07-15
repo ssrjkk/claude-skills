@@ -1,6 +1,6 @@
 ---
 name: postgis-analysis
-description: Analysis with PostGIS. spatial analysis.
+description: "Analysis with PostGIS. spatial analysis."
 category: geospatial
 tags: [postgis, analysis, geospatial, gis]
 models: [gpt-4, claude-3]

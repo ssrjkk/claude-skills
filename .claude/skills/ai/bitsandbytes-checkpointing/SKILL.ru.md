@@ -1,6 +1,6 @@
 ---
 name: bitsandbytes-checkpointing
-description: Checkpointing with Bitsandbytes. model saving.
+description: "Checkpointing with Bitsandbytes. model saving."
 category: ai
 tags: [bitsandbytes-checkpointing, ai, russian]
 models: [sonnet, opus]

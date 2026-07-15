@@ -1,6 +1,6 @@
 ---
 name: ragas-configuration
-description: Configuration for Ragas: configuration and setup
+description: "Configuration for Ragas: configuration and setup"
 category: ai
 tags: [ragas, configuration, ai]
 models: [sonnet, opus]

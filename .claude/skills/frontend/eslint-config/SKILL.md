@@ -1,6 +1,6 @@
 ---
 name: eslint-config
-description: Config with ESLint. configuration.
+description: "Config with ESLint. configuration."
 category: frontend
 tags: [eslint, config, frontend, build-tool]
 models: [gpt-4, claude-3]

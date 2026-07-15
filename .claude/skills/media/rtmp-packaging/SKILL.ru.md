@@ -1,6 +1,6 @@
 ---
 name: rtmp-packaging
-description: Packaging with RTMP. packaging.
+description: "Packaging with RTMP. packaging."
 category: media
 tags: [rtmp-packaging, media, russian]
 models: [sonnet, opus]

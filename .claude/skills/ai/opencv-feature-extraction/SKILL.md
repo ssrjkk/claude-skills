@@ -1,6 +1,6 @@
 ---
 name: opencv-feature-extraction
-description: Feature Extraction with Opencv. extracting features.
+description: "Feature Extraction with Opencv. extracting features."
 category: ai
 tags: [opencv, feature-extraction, ai, computer-vision]
 models: [gpt-4, claude-3]

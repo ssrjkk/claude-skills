@@ -1,6 +1,6 @@
 ---
 name: zustand-store
-description: Store with Zustand. state store.
+description: "Store with Zustand. state store."
 category: frontend
 tags: [zustand-store, frontend, russian]
 models: [sonnet, opus]

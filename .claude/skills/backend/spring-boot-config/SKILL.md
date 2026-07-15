@@ -1,6 +1,6 @@
 ---
 name: spring-boot-config
-description: Config with Spring Boot. configuration.
+description: "Config with Spring Boot. configuration."
 category: backend
 tags: [spring-boot, config, backend, backend]
 models: [gpt-4, claude-3]

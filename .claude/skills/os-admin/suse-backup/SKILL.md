@@ -1,6 +1,6 @@
 ---
 name: suse-backup
-description: Backup with SUSE. backup.
+description: "Backup with SUSE. backup."
 category: os-admin
 tags: [suse, backup, os-admin, linux]
 models: [gpt-4, claude-3]

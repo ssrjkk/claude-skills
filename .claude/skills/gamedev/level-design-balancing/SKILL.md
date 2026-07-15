@@ -1,6 +1,6 @@
 ---
 name: level-design-balancing
-description: Balancing with Level Design. balancing.
+description: "Balancing with Level Design. balancing."
 category: gamedev
 tags: [level-design, balancing, gamedev, game-design]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: grails-middleware
-description: Middleware with Grails. request processing.
+description: "Middleware with Grails. request processing."
 category: backend
 tags: [grails, middleware, backend, backend]
 models: [gpt-4, claude-3]

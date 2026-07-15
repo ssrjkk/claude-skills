@@ -1,6 +1,6 @@
 ---
 name: kinesis-monitoring
-description: Monitoring with Kinesis. monitoring.
+description: "Monitoring with Kinesis. monitoring."
 category: data
 tags: [kinesis, monitoring, data, data-engineering]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: user-stories-tools
-description: Tools with User Stories. tools.
+description: "Tools with User Stories. tools."
 category: product
 tags: [user-stories, tools, product, product-framework]
 models: [gpt-4, claude-3]

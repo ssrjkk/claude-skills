@@ -1,6 +1,6 @@
 ---
 name: grpc-automation
-description: Automation for Grpc: automation and scripting
+description: "Automation for Grpc: automation and scripting"
 category: backend
 tags: [grpc, automation, backend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: tailwind-theming
-description: Theming with Tailwind CSS. custom themes.
+description: "Theming with Tailwind CSS. custom themes."
 category: frontend
 tags: [tailwind, theming, frontend, css]
 models: [gpt-4, claude-3]

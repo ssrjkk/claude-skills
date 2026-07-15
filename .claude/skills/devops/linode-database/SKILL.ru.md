@@ -1,6 +1,6 @@
 ---
 name: linode-database
-description: Database with Linode. managed databases.
+description: "Database with Linode. managed databases."
 category: devops
 tags: [linode-database, devops, russian]
 models: [sonnet, opus]

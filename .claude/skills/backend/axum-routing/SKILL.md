@@ -1,6 +1,6 @@
 ---
 name: axum-routing
-description: Routing with Axum. HTTP routing.
+description: "Routing with Axum. HTTP routing."
 category: backend
 tags: [axum, routing, backend, backend]
 models: [gpt-4, claude-3]

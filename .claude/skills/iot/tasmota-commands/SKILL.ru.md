@@ -1,6 +1,6 @@
 ---
 name: tasmota-commands
-description: Commands with Tasmota. device commands.
+description: "Commands with Tasmota. device commands."
 category: iot
 tags: [tasmota-commands, iot, russian]
 models: [sonnet, opus]

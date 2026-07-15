@@ -1,6 +1,6 @@
 ---
 name: ngrx-optimization
-description: Optimization with NgRx. performance.
+description: "Optimization with NgRx. performance."
 category: frontend
 tags: [ngrx, optimization, frontend, state-management]
 models: [gpt-4, claude-3]

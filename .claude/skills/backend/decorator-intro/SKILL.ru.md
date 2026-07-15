@@ -1,6 +1,6 @@
 ---
 name: decorator-intro
-description: Introduction with Decorator. understanding the pattern.
+description: "Introduction with Decorator. understanding the pattern."
 category: backend
 tags: [decorator-intro, backend, russian]
 models: [sonnet, opus]

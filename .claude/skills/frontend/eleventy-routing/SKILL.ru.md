@@ -1,6 +1,6 @@
 ---
 name: eleventy-routing
-description: Routing with Eleventy. file-based routing.
+description: "Routing with Eleventy. file-based routing."
 category: frontend
 tags: [eleventy-routing, frontend, russian]
 models: [sonnet, opus]

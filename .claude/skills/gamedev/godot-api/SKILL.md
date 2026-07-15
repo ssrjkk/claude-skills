@@ -1,6 +1,6 @@
 ---
 name: godot-api
-description: API for Godot: API development and integration
+description: "API for Godot: API development and integration"
 category: gamedev
 tags: [godot, api, gamedev]
 models: [sonnet, opus]

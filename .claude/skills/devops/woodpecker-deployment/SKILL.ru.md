@@ -1,6 +1,6 @@
 ---
 name: woodpecker-deployment
-description: Deployment with Woodpecker. auto-deploy.
+description: "Deployment with Woodpecker. auto-deploy."
 category: devops
 tags: [woodpecker-deployment, devops, russian]
 models: [sonnet, opus]

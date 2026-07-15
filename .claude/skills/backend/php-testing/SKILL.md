@@ -1,6 +1,6 @@
 ---
 name: php-testing
-description: Testing with Php. writing tests.
+description: "Testing with Php. writing tests."
 category: backend
 tags: [php, testing, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: circleci
-description: Configures CI/CD pipelines with CircleCI using orbs, workspaces, and parallelism. Use for automating builds, tests, and deployments.
+description: "Configures CI/CD pipelines with CircleCI using orbs, workspaces, and parallelism. Use for automating builds, tests, and deployments."
 category: devops
 tags: [circleci, devops, russian]
 models: [sonnet, opus]

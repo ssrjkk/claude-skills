@@ -1,6 +1,6 @@
 ---
 name: greenhouse-integration
-description: Integration with Greenhouse. integration.
+description: "Integration with Greenhouse. integration."
 category: hr
 tags: [greenhouse-integration, hr, russian]
 models: [sonnet, opus]

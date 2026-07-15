@@ -1,6 +1,6 @@
 ---
 name: avalonia-setup
-description: Setup with Avalonia. SDK setup.
+description: "Setup with Avalonia. SDK setup."
 category: desktop
 tags: [avalonia-setup, desktop, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: minikube-autoscaling
-description: Autoscaling with Minikube. HPA.
+description: "Autoscaling with Minikube. HPA."
 category: devops
 tags: [minikube-autoscaling, devops, russian]
 models: [sonnet, opus]

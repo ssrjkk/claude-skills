@@ -1,6 +1,6 @@
 ---
 name: pmp-metrics
-description: Metrics with PMP. measurement.
+description: "Metrics with PMP. measurement."
 category: product
 tags: [pmp, metrics, product, methodology]
 models: [gpt-4, claude-3]

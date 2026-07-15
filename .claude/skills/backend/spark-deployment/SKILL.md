@@ -1,6 +1,6 @@
 ---
 name: spark-deployment
-description: Deployment with Spark. build.
+description: "Deployment with Spark. build."
 category: backend
 tags: [spark, deployment, backend, backend]
 models: [gpt-4, claude-3]

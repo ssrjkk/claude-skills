@@ -1,6 +1,6 @@
 ---
 name: arbitrum-smart-contracts
-description: Smart Contracts with Arbitrum. contracts.
+description: "Smart Contracts with Arbitrum. contracts."
 category: blockchain
 tags: [arbitrum-smart-contracts, blockchain, russian]
 models: [sonnet, opus]

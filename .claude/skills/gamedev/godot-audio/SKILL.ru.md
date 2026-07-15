@@ -1,6 +1,6 @@
 ---
 name: godot-audio
-description: Audio with Godot. audio.
+description: "Audio with Godot. audio."
 category: gamedev
 tags: [godot-audio, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: textblob-similarity
-description: Similarity with Textblob. text similarity.
+description: "Similarity with Textblob. text similarity."
 category: ai
 tags: [textblob, similarity, ai, nlp]
 models: [gpt-4, claude-3]

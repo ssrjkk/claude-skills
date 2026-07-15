@@ -1,6 +1,6 @@
 ---
 name: narrative-basics
-description: Basics with Narrative Design. fundamentals.
+description: "Basics with Narrative Design. fundamentals."
 category: gamedev
 tags: [narrative-basics, gamedev, russian]
 models: [sonnet, opus]

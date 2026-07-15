@@ -1,6 +1,6 @@
 ---
 name: arduino
-description: Programs Arduino boards for hardware projects and prototyping. Use for simple IoT and robotics projects.
+description: "Programs Arduino boards for hardware projects and prototyping. Use for simple IoT and robotics projects."
 category: iot
 tags: [arduino, iot, microcontroller, c, prototyping]
 models: [haiku, sonnet]

@@ -1,6 +1,6 @@
 ---
 name: tide-database
-description: Database with Tide. DB access.
+description: "Database with Tide. DB access."
 category: backend
 tags: [tide-database, backend, russian]
 models: [sonnet, opus]

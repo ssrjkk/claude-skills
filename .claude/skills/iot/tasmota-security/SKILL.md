@@ -1,6 +1,6 @@
 ---
 name: tasmota-security
-description: Security with Tasmota. device security.
+description: "Security with Tasmota. device security."
 category: iot
 tags: [tasmota, security, iot, iot-platform]
 models: [gpt-4, claude-3]

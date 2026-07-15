@@ -1,6 +1,6 @@
 ---
 name: arcgis-integration
-description: Integration with ArcGIS. integration.
+description: "Integration with ArcGIS. integration."
 category: geospatial
 tags: [arcgis-integration, geospatial, russian]
 models: [sonnet, opus]

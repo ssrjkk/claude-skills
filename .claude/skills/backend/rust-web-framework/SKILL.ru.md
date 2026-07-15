@@ -1,6 +1,6 @@
 ---
 name: rust-web-framework
-description: Web Framework with Rust. web dev.
+description: "Web Framework with Rust. web dev."
 category: backend
 tags: [rust-web-framework, backend, russian]
 models: [sonnet, opus]

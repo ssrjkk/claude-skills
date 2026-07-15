@@ -1,6 +1,6 @@
 ---
 name: ember-state-management
-description: State Management with Ember. state handling.
+description: "State Management with Ember. state handling."
 category: frontend
 tags: [ember, state-management, frontend, frontend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: bitlocker-automation
-description: Automation with BitLocker. PowerShell.
+description: "Automation with BitLocker. PowerShell."
 category: os-admin
 tags: [bitlocker, automation, os-admin, windows]
 models: [gpt-4, claude-3]

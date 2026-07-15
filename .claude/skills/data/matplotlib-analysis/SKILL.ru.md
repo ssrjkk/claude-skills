@@ -1,6 +1,6 @@
 ---
 name: matplotlib-analysis
-description: Analysis with Matplotlib. data analysis.
+description: "Analysis with Matplotlib. data analysis."
 category: data
 tags: [matplotlib-analysis, data, russian]
 models: [sonnet, opus]

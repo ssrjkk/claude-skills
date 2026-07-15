@@ -1,6 +1,6 @@
 ---
 name: guidance-memory
-description: Memory with Guidance. conversation memory.
+description: "Memory with Guidance. conversation memory."
 category: ai
 tags: [guidance-memory, ai, russian]
 models: [sonnet, opus]

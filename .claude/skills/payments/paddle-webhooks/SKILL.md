@@ -1,6 +1,6 @@
 ---
 name: paddle-webhooks
-description: Webhooks with Paddle. webhooks.
+description: "Webhooks with Paddle. webhooks."
 category: payments
 tags: [paddle, webhooks, payments, payments]
 models: [gpt-4, claude-3]

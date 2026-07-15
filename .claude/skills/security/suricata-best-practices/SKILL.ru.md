@@ -1,6 +1,6 @@
 ---
 name: suricata-best-practices
-description: Best Practices for Suricata: best practices and patterns
+description: "Best Practices for Suricata: best practices and patterns"
 category: security
 tags: [suricata-best-practices, security, russian]
 models: [sonnet, opus]

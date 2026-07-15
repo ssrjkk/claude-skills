@@ -1,6 +1,6 @@
 ---
 name: flutter-api
-description: API for Flutter: API development and integration
+description: "API for Flutter: API development and integration"
 category: mobile
 tags: [flutter-api, mobile, russian]
 models: [sonnet, opus]

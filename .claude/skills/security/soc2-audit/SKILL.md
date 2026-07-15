@@ -1,6 +1,6 @@
 ---
 name: soc2-audit
-description: Audit with SOC 2. security audit.
+description: "Audit with SOC 2. security audit."
 category: security
 tags: [soc2, audit, security, security]
 models: [gpt-4, claude-3]

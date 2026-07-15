@@ -1,6 +1,6 @@
 ---
 name: oracle-setup
-description: Setup with Oracle. installation.
+description: "Setup with Oracle. installation."
 category: database
 tags: [oracle-setup, database, russian]
 models: [sonnet, opus]

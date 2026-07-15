@@ -1,6 +1,6 @@
 ---
 name: sap-successfactors-setup
-description: Setup with SAP SuccessFactors. setup.
+description: "Setup with SAP SuccessFactors. setup."
 category: hr
 tags: [sap-successfactors, setup, hr, hr-tech]
 models: [gpt-4, claude-3]

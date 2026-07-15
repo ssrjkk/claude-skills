@@ -1,6 +1,6 @@
 ---
 name: movidius
-description: Development with Movidius: tools and best practices
+description: "Development with Movidius: tools and best practices"
 category: database
 tags: [movidius, database, russian]
 models: [sonnet, opus]

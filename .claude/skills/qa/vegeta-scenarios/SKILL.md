@@ -1,6 +1,6 @@
 ---
 name: vegeta-scenarios
-description: Scenarios with Vegeta. test scenarios.
+description: "Scenarios with Vegeta. test scenarios."
 category: qa
 tags: [vegeta, scenarios, qa, performance-testing]
 models: [gpt-4, claude-3]

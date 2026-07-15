@@ -1,6 +1,6 @@
 ---
 name: soda-best-practices
-description: Best Practices for Soda: best practices and patterns
+description: "Best Practices for Soda: best practices and patterns"
 category: data
 tags: [soda, best-practices, data]
 models: [sonnet, opus]

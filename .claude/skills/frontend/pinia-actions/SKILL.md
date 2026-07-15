@@ -1,6 +1,6 @@
 ---
 name: pinia-actions
-description: Actions with Pinia. actions.
+description: "Actions with Pinia. actions."
 category: frontend
 tags: [pinia, actions, frontend, state-management]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: chromadb-best-practices
-description: Best Practices for Chromadb: best practices and patterns
+description: "Best Practices for Chromadb: best practices and patterns"
 category: ai
 tags: [chromadb, best-practices, ai]
 models: [sonnet, opus]

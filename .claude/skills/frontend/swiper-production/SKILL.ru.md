@@ -1,6 +1,6 @@
 ---
 name: swiper-production
-description: Production for Swiper: production deployment
+description: "Production for Swiper: production deployment"
 category: frontend
 tags: [swiper-production, frontend, russian]
 models: [sonnet, opus]

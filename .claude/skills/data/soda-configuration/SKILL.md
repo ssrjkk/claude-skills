@@ -1,6 +1,6 @@
 ---
 name: soda-configuration
-description: Configuration for Soda: configuration and setup
+description: "Configuration for Soda: configuration and setup"
 category: data
 tags: [soda, configuration, data]
 models: [sonnet, opus]

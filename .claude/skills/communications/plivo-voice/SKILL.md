@@ -1,6 +1,6 @@
 ---
 name: plivo-voice
-description: Voice with Plivo. voice calls.
+description: "Voice with Plivo. voice calls."
 category: communications
 tags: [plivo, voice, communications, communication-platform]
 models: [gpt-4, claude-3]

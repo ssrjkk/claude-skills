@@ -1,6 +1,6 @@
 ---
 name: fourkites-tracking
-description: Tracking with FourKites. tracking.
+description: "Tracking with FourKites. tracking."
 category: supply-chain
 tags: [fourkites, tracking, supply-chain, logistics]
 models: [gpt-4, claude-3]

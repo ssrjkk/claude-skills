@@ -1,6 +1,6 @@
 ---
 name: dropwizard-auth
-description: Auth with Dropwizard. security.
+description: "Auth with Dropwizard. security."
 category: backend
 tags: [dropwizard-auth, backend, russian]
 models: [sonnet, opus]

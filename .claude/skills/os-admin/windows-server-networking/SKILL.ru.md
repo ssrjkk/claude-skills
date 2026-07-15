@@ -1,6 +1,6 @@
 ---
 name: windows-server-networking
-description: Networking with Windows Server. network.
+description: "Networking with Windows Server. network."
 category: os-admin
 tags: [windows-server-networking, os-admin, russian]
 models: [sonnet, opus]

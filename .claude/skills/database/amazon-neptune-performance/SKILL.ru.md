@@ -1,6 +1,6 @@
 ---
 name: amazon-neptune-performance
-description: Performance with Amazon Neptune. optimization.
+description: "Performance with Amazon Neptune. optimization."
 category: database
 tags: [amazon-neptune-performance, database, russian]
 models: [sonnet, opus]

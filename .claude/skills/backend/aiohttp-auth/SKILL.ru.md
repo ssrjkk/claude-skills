@@ -1,6 +1,6 @@
 ---
 name: aiohttp-auth
-description: Authentication with aiohttp. user auth.
+description: "Authentication with aiohttp. user auth."
 category: backend
 tags: [aiohttp-auth, backend, russian]
 models: [sonnet, opus]

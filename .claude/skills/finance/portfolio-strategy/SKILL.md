@@ -1,6 +1,6 @@
 ---
 name: portfolio-strategy
-description: Strategy with Portfolio Management. strategy dev.
+description: "Strategy with Portfolio Management. strategy dev."
 category: finance
 tags: [portfolio, strategy, finance, trading]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: k6-monitoring
-description: Monitoring for K6: monitoring and observability
+description: "Monitoring for K6: monitoring and observability"
 category: qa
 tags: [k6, monitoring, qa]
 models: [sonnet, opus]

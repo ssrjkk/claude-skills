@@ -1,6 +1,6 @@
 ---
 name: kerberos-incident-response
-description: Incident Response with Kerberos. incident response.
+description: "Incident Response with Kerberos. incident response."
 category: security
 tags: [kerberos-incident-response, security, russian]
 models: [sonnet, opus]

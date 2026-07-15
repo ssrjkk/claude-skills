@@ -1,6 +1,6 @@
 ---
 name: htmx-usage
-description: Usage for Htmx: usage reference
+description: "Usage for Htmx: usage reference"
 category: frontend
 tags: [htmx, usage, frontend]
 models: [sonnet, opus]

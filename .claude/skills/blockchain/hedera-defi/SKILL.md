@@ -1,6 +1,6 @@
 ---
 name: hedera-defi
-description: DeFi with Hedera. DeFi.
+description: "DeFi with Hedera. DeFi."
 category: blockchain
 tags: [hedera, defi, blockchain, blockchain]
 models: [gpt-4, claude-3]

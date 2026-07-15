@@ -1,6 +1,6 @@
 ---
 name: redis-clustering
-description: Clustering with Redis. cluster setup.
+description: "Clustering with Redis. cluster setup."
 category: database
 tags: [redis-clustering, database, russian]
 models: [sonnet, opus]

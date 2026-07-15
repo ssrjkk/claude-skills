@@ -1,6 +1,6 @@
 ---
 name: azure-functions-quickstart
-description: Quickstart for Azure-Functions: quick start guide
+description: "Quickstart for Azure-Functions: quick start guide"
 category: cloud
 tags: [azure-functions-quickstart, cloud, russian]
 models: [sonnet, opus]

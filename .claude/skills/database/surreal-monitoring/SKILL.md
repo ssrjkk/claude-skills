@@ -1,6 +1,6 @@
 ---
 name: surreal-monitoring
-description: Monitoring with SurrealDB. monitoring.
+description: "Monitoring with SurrealDB. monitoring."
 category: database
 tags: [surreal, monitoring, database, nosql]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: aarrr-tools
-description: Tools with AARRR. tools.
+description: "Tools with AARRR. tools."
 category: product
 tags: [aarrr, tools, product, product-framework]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: wireframing-tools
-description: Tools with Wireframing. tools.
+description: "Tools with Wireframing. tools."
 category: design
 tags: [wireframing-tools, design, russian]
 models: [sonnet, opus]

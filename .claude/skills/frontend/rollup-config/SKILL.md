@@ -1,6 +1,6 @@
 ---
 name: rollup-config
-description: Config with Rollup. configuration.
+description: "Config with Rollup. configuration."
 category: frontend
 tags: [rollup, config, frontend, build-tool]
 models: [gpt-4, claude-3]

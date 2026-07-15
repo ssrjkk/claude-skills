@@ -1,6 +1,6 @@
 ---
 name: marqeta-payments
-description: Payments with Marqeta. payments.
+description: "Payments with Marqeta. payments."
 category: finance
 tags: [marqeta-payments, finance, russian]
 models: [sonnet, opus]

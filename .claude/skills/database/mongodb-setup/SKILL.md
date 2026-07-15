@@ -1,6 +1,6 @@
 ---
 name: mongodb-setup
-description: Setup with MongoDB. installation.
+description: "Setup with MongoDB. installation."
 category: database
 tags: [mongodb, setup, database, nosql]
 models: [gpt-4, claude-3]

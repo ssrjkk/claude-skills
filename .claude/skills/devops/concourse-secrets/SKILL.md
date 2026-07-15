@@ -1,6 +1,6 @@
 ---
 name: concourse-secrets
-description: Secrets with Concourse. secret management.
+description: "Secrets with Concourse. secret management."
 category: devops
 tags: [concourse, secrets, devops, ci-cd]
 models: [gpt-4, claude-3]

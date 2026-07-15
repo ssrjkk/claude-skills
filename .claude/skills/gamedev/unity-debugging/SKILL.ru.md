@@ -1,6 +1,6 @@
 ---
 name: unity-debugging
-description: Debugging for Unity: debugging and troubleshooting
+description: "Debugging for Unity: debugging and troubleshooting"
 category: gamedev
 tags: [unity-debugging, gamedev, russian]
 models: [sonnet, opus]

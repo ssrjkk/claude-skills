@@ -1,6 +1,6 @@
 ---
 name: mixamo-fundamentals
-description: Fundamentals for Mixamo: core concepts
+description: "Fundamentals for Mixamo: core concepts"
 category: gamedev
 tags: [mixamo, fundamentals, gamedev]
 models: [sonnet, opus]

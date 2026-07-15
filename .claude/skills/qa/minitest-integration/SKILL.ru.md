@@ -1,6 +1,6 @@
 ---
 name: minitest-integration
-description: Integration with Minitest. integration tests.
+description: "Integration with Minitest. integration tests."
 category: qa
 tags: [minitest-integration, qa, russian]
 models: [sonnet, opus]

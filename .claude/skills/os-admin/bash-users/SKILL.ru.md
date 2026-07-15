@@ -1,6 +1,6 @@
 ---
 name: bash-users
-description: Users with Bash Scripting. user management.
+description: "Users with Bash Scripting. user management."
 category: os-admin
 tags: [bash-users, os-admin, russian]
 models: [sonnet, opus]

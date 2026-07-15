@@ -1,6 +1,6 @@
 ---
 name: express-testing
-description: Testing with Express. Jest.
+description: "Testing with Express. Jest."
 category: backend
 tags: [express-testing, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ansible-networking
-description: Networking with Ansible. network infra.
+description: "Networking with Ansible. network infra."
 category: devops
 tags: [ansible-networking, devops, russian]
 models: [sonnet, opus]

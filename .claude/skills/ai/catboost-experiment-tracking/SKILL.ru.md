@@ -1,6 +1,6 @@
 ---
 name: catboost-experiment-tracking
-description: Experiment Tracking with Catboost. tracking experiments.
+description: "Experiment Tracking with Catboost. tracking experiments."
 category: ai
 tags: [catboost-experiment-tracking, ai, russian]
 models: [sonnet, opus]

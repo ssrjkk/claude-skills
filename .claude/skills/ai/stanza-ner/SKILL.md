@@ -1,6 +1,6 @@
 ---
 name: stanza-ner
-description: NER with Stanza. named entity recognition.
+description: "NER with Stanza. named entity recognition."
 category: ai
 tags: [stanza, ner, ai, nlp]
 models: [gpt-4, claude-3]

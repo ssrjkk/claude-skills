@@ -1,6 +1,6 @@
 ---
 name: sip-security
-description: Security with SIP. security.
+description: "Security with SIP. security."
 category: communications
 tags: [sip-security, communications, russian]
 models: [sonnet, opus]

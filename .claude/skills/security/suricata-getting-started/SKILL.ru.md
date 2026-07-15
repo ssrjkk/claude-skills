@@ -1,6 +1,6 @@
 ---
 name: suricata-getting-started
-description: Getting Started for Suricata: initial setup and first steps
+description: "Getting Started for Suricata: initial setup and first steps"
 category: security
 tags: [suricata-getting-started, security, russian]
 models: [sonnet, opus]

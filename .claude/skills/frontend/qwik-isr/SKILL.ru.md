@@ -1,6 +1,6 @@
 ---
 name: qwik-isr
-description: ISR with Qwik. incremental.
+description: "ISR with Qwik. incremental."
 category: frontend
 tags: [qwik-isr, frontend, russian]
 models: [sonnet, opus]

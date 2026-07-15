@@ -1,6 +1,6 @@
 ---
 name: pulumi-security
-description: Security with Pulumi. security groups.
+description: "Security with Pulumi. security groups."
 category: devops
 tags: [pulumi-security, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: jenkins-deployment
-description: Deployment with Jenkins. auto-deploy.
+description: "Deployment with Jenkins. auto-deploy."
 category: devops
 tags: [jenkins, deployment, devops, ci-cd]
 models: [gpt-4, claude-3]

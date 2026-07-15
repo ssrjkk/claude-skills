@@ -1,6 +1,6 @@
 ---
 name: bamboo-testing
-description: Testing with Bamboo. automated tests.
+description: "Testing with Bamboo. automated tests."
 category: devops
 tags: [bamboo, testing, devops, ci-cd]
 models: [gpt-4, claude-3]

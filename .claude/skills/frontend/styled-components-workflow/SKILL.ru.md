@@ -1,6 +1,6 @@
 ---
 name: styled-components-workflow
-description: Workflow for Styled-Components: workflow optimization
+description: "Workflow for Styled-Components: workflow optimization"
 category: frontend
 tags: [styled-components-workflow, frontend, russian]
 models: [sonnet, opus]

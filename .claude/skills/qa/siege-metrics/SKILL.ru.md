@@ -1,6 +1,6 @@
 ---
 name: siege-metrics
-description: Metrics with Siege. performance metrics.
+description: "Metrics with Siege. performance metrics."
 category: qa
 tags: [siege-metrics, qa, russian]
 models: [sonnet, opus]

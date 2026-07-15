@@ -1,6 +1,6 @@
 ---
 name: linkerd-integration
-description: Integration for Linkerd: integration with other tools
+description: "Integration for Linkerd: integration with other tools"
 category: devops
 tags: [linkerd-integration, devops, russian]
 models: [sonnet, opus]

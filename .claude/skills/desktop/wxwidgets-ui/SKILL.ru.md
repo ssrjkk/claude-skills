@@ -1,6 +1,6 @@
 ---
 name: wxwidgets-ui
-description: UI with wxWidgets. UI components.
+description: "UI with wxWidgets. UI components."
 category: desktop
 tags: [wxwidgets-ui, desktop, russian]
 models: [sonnet, opus]

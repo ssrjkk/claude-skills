@@ -1,6 +1,6 @@
 ---
 name: containerd-registry
-description: Registry with containerd. image registry.
+description: "Registry with containerd. image registry."
 category: devops
 tags: [containerd, registry, devops, container]
 models: [gpt-4, claude-3]

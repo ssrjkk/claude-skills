@@ -1,6 +1,6 @@
 ---
 name: jaeger-storage
-description: Storage with Jaeger. data retention.
+description: "Storage with Jaeger. data retention."
 category: devops
 tags: [jaeger, storage, devops, monitoring]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: agile-implementation
-description: Implementation with Agile. adoption.
+description: "Implementation with Agile. adoption."
 category: product
 tags: [agile-implementation, product, russian]
 models: [sonnet, opus]

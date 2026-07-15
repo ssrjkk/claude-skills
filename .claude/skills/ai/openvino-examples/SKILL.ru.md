@@ -1,6 +1,6 @@
 ---
 name: openvino-examples
-description: Examples for Openvino: practical examples
+description: "Examples for Openvino: practical examples"
 category: ai
 tags: [openvino-examples, ai, russian]
 models: [sonnet, opus]

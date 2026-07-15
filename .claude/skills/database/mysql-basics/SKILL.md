@@ -1,6 +1,6 @@
 ---
 name: mysql-basics
-description: Basics for Mysql: fundamentals and core concepts
+description: "Basics for Mysql: fundamentals and core concepts"
 category: database
 tags: [mysql, basics, database]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: docker-compose-setup
-description: Setup with Docker Compose. installation.
+description: "Setup with Docker Compose. installation."
 category: devops
 tags: [docker-compose, setup, devops, container]
 models: [gpt-4, claude-3]

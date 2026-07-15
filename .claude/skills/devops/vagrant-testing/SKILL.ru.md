@@ -1,6 +1,6 @@
 ---
 name: vagrant-testing
-description: Testing with Vagrant. infra testing.
+description: "Testing with Vagrant. infra testing."
 category: devops
 tags: [vagrant-testing, devops, russian]
 models: [sonnet, opus]

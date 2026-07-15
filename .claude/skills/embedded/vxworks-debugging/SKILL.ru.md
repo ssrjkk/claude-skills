@@ -1,6 +1,6 @@
 ---
 name: vxworks-debugging
-description: Debugging with VxWorks. debug.
+description: "Debugging with VxWorks. debug."
 category: embedded
 tags: [vxworks-debugging, embedded, russian]
 models: [sonnet, opus]

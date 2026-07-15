@@ -1,6 +1,6 @@
 ---
 name: neptune-hyperparameter-tuning
-description: Hyperparameter Tuning with Neptune. optimizing params.
+description: "Hyperparameter Tuning with Neptune. optimizing params."
 category: ai
 tags: [neptune, hyperparameter-tuning, ai, ml]
 models: [gpt-4, claude-3]

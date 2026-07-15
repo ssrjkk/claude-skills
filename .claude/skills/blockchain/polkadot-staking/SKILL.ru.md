@@ -1,6 +1,6 @@
 ---
 name: polkadot-staking
-description: Staking with Polkadot. staking.
+description: "Staking with Polkadot. staking."
 category: blockchain
 tags: [polkadot-staking, blockchain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: laravel-middleware
-description: Middleware with Laravel. pipeline.
+description: "Middleware with Laravel. pipeline."
 category: backend
 tags: [laravel-middleware, backend, russian]
 models: [sonnet, opus]

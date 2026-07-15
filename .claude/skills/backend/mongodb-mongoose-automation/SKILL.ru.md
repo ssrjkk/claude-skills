@@ -1,6 +1,6 @@
 ---
 name: mongodb-mongoose-automation
-description: Automation for Mongodb-Mongoose: automation and scripting
+description: "Automation for Mongodb-Mongoose: automation and scripting"
 category: backend
 tags: [mongodb-mongoose-automation, backend, russian]
 models: [sonnet, opus]

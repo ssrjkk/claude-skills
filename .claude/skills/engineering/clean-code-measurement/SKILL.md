@@ -1,6 +1,6 @@
 ---
 name: clean-code-measurement
-description: Measurement with Clean Code. metrics.
+description: "Measurement with Clean Code. metrics."
 category: engineering
 tags: [clean-code, measurement, engineering, engineering]
 models: [gpt-4, claude-3]

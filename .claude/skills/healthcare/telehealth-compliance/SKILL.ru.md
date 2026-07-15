@@ -1,6 +1,6 @@
 ---
 name: telehealth-compliance
-description: Compliance with Telehealth. compliance.
+description: "Compliance with Telehealth. compliance."
 category: healthcare
 tags: [telehealth-compliance, healthcare, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: supabase-auth-fundamentals
-description: Fundamentals for Supabase-Auth: core concepts
+description: "Fundamentals for Supabase-Auth: core concepts"
 category: mobile
 tags: [supabase-auth, fundamentals, mobile]
 models: [sonnet, opus]

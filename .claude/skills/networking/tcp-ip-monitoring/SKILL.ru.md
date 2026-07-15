@@ -1,6 +1,6 @@
 ---
 name: tcp-ip-monitoring
-description: Monitoring with TCP/IP. monitoring.
+description: "Monitoring with TCP/IP. monitoring."
 category: networking
 tags: [tcp-ip-monitoring, networking, russian]
 models: [sonnet, opus]

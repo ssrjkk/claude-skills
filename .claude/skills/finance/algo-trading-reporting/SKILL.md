@@ -1,6 +1,6 @@
 ---
 name: algo-trading-reporting
-description: Reporting with Algorithmic Trading. reports.
+description: "Reporting with Algorithmic Trading. reports."
 category: finance
 tags: [algo-trading, reporting, finance, trading]
 models: [gpt-4, claude-3]

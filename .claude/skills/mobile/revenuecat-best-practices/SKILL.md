@@ -1,6 +1,6 @@
 ---
 name: revenuecat-best-practices
-description: Best Practices for Revenuecat: best practices and patterns
+description: "Best Practices for Revenuecat: best practices and patterns"
 category: mobile
 tags: [revenuecat, best-practices, mobile]
 models: [sonnet, opus]

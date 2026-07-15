@@ -1,6 +1,6 @@
 ---
 name: mbed-pwm
-description: PWM with Mbed OS. PWM signals.
+description: "PWM with Mbed OS. PWM signals."
 category: iot
 tags: [mbed, pwm, iot, iot]
 models: [gpt-4, claude-3]

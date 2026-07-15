@@ -1,6 +1,6 @@
 ---
 name: figma-plugins
-description: Plugins with Figma. plugins.
+description: "Plugins with Figma. plugins."
 category: design
 tags: [figma-plugins, design, russian]
 models: [sonnet, opus]

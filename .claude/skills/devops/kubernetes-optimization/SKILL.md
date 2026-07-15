@@ -1,6 +1,6 @@
 ---
 name: kubernetes-optimization
-description: Optimization for Kubernetes: performance tuning and optimization
+description: "Optimization for Kubernetes: performance tuning and optimization"
 category: devops
 tags: [kubernetes, optimization, devops]
 models: [sonnet, opus]

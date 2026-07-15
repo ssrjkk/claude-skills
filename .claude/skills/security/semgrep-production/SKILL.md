@@ -1,6 +1,6 @@
 ---
 name: semgrep-production
-description: Production for Semgrep: production deployment
+description: "Production for Semgrep: production deployment"
 category: security
 tags: [semgrep, production, security]
 models: [sonnet, opus]

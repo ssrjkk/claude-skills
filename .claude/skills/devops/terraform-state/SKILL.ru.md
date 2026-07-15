@@ -1,6 +1,6 @@
 ---
 name: terraform-state
-description: State with Terraform. state management.
+description: "State with Terraform. state management."
 category: devops
 tags: [terraform-state, devops, russian]
 models: [sonnet, opus]

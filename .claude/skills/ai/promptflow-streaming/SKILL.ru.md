@@ -1,6 +1,6 @@
 ---
 name: promptflow-streaming
-description: Streaming with Promptflow. token streaming.
+description: "Streaming with Promptflow. token streaming."
 category: ai
 tags: [promptflow-streaming, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: trl-training
-description: Training with Trl. training models.
+description: "Training with Trl. training models."
 category: ai
 tags: [trl-training, ai, russian]
 models: [sonnet, opus]

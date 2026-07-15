@@ -1,6 +1,6 @@
 ---
 name: saucelabs-best-practices
-description: Best Practices for Saucelabs: best practices and patterns
+description: "Best Practices for Saucelabs: best practices and patterns"
 category: qa
 tags: [saucelabs, best-practices, qa]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sinatra-deployment
-description: Deployment with Sinatra. deploy.
+description: "Deployment with Sinatra. deploy."
 category: backend
 tags: [sinatra, deployment, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: yodlee-accounts
-description: Accounts with Yodlee. account linking.
+description: "Accounts with Yodlee. account linking."
 category: finance
 tags: [yodlee-accounts, finance, russian]
 models: [sonnet, opus]

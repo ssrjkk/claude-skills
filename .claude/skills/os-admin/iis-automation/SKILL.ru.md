@@ -1,6 +1,6 @@
 ---
 name: iis-automation
-description: Automation with IIS. PowerShell.
+description: "Automation with IIS. PowerShell."
 category: os-admin
 tags: [iis-automation, os-admin, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: axum-api
-description: API for Axum: API development and integration
+description: "API for Axum: API development and integration"
 category: backend
 tags: [axum-api, backend, russian]
 models: [sonnet, opus]

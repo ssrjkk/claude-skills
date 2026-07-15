@@ -1,6 +1,6 @@
 ---
 name: magic-leap-spatial
-description: Spatial with Magic Leap. room mapping.
+description: "Spatial with Magic Leap. room mapping."
 category: ar-vr
 tags: [magic-leap, spatial, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

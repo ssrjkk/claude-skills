@@ -1,6 +1,6 @@
 ---
 name: elastic-dashboards
-description: Dashboards with Elastic Stack. dashboards.
+description: "Dashboards with Elastic Stack. dashboards."
 category: devops
 tags: [elastic-dashboards, devops, russian]
 models: [sonnet, opus]

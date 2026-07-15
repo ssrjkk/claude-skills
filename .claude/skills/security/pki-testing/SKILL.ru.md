@@ -1,6 +1,6 @@
 ---
 name: pki-testing
-description: Testing with PKI. security testing.
+description: "Testing with PKI. security testing."
 category: security
 tags: [pki-testing, security, russian]
 models: [sonnet, opus]

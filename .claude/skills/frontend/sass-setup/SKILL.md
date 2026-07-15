@@ -1,6 +1,6 @@
 ---
 name: sass-setup
-description: Setup with Sass. initial setup.
+description: "Setup with Sass. initial setup."
 category: frontend
 tags: [sass, setup, frontend, build-tool]
 models: [gpt-4, claude-3]

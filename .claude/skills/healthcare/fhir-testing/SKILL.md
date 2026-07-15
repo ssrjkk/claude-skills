@@ -1,6 +1,6 @@
 ---
 name: fhir-testing
-description: Testing with FHIR. testing.
+description: "Testing with FHIR. testing."
 category: healthcare
 tags: [fhir, testing, healthcare, healthcare]
 models: [gpt-4, claude-3]

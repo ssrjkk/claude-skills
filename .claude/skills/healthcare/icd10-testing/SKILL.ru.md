@@ -1,6 +1,6 @@
 ---
 name: icd10-testing
-description: Testing with ICD-10. testing.
+description: "Testing with ICD-10. testing."
 category: healthcare
 tags: [icd10-testing, healthcare, russian]
 models: [sonnet, opus]

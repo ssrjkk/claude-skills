@@ -1,6 +1,6 @@
 ---
 name: stomp-implementation
-description: Implementation with STOMP. implementation.
+description: "Implementation with STOMP. implementation."
 category: communications
 tags: [stomp-implementation, communications, russian]
 models: [sonnet, opus]

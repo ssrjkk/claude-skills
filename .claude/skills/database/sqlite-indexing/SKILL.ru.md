@@ -1,6 +1,6 @@
 ---
 name: sqlite-indexing
-description: Indexing with SQLite. indexes.
+description: "Indexing with SQLite. indexes."
 category: database
 tags: [sqlite-indexing, database, russian]
 models: [sonnet, opus]

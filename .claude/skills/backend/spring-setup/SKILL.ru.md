@@ -1,6 +1,6 @@
 ---
 name: spring-setup
-description: Setup for Spring: installation and configuration
+description: "Setup for Spring: installation and configuration"
 category: backend
 tags: [spring-setup, backend, russian]
 models: [sonnet, opus]

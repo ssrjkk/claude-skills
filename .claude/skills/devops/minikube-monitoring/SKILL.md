@@ -1,6 +1,6 @@
 ---
 name: minikube-monitoring
-description: Monitoring with Minikube. monitoring.
+description: "Monitoring with Minikube. monitoring."
 category: devops
 tags: [minikube, monitoring, devops, kubernetes]
 models: [gpt-4, claude-3]

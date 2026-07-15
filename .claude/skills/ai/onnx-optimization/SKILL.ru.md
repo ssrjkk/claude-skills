@@ -1,6 +1,6 @@
 ---
 name: onnx-optimization
-description: Optimization with Onnx. model optimization.
+description: "Optimization with Onnx. model optimization."
 category: ai
 tags: [onnx-optimization, ai, russian]
 models: [sonnet, opus]

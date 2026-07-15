@@ -1,6 +1,6 @@
 ---
 name: kinde-fundamentals
-description: Fundamentals for Kinde: core concepts
+description: "Fundamentals for Kinde: core concepts"
 category: mobile
 tags: [kinde-fundamentals, mobile, russian]
 models: [sonnet, opus]

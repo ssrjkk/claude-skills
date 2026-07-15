@@ -1,6 +1,6 @@
 ---
 name: lxc-security
-description: Security with LXC. container security.
+description: "Security with LXC. container security."
 category: devops
 tags: [lxc-security, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: amplify-auth-guides
-description: Guides for Amplify-Auth: how-to guides
+description: "Guides for Amplify-Auth: how-to guides"
 category: mobile
 tags: [amplify-auth-guides, mobile, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: expo-dev-usage
-description: Usage for Expo-Dev: usage reference
+description: "Usage for Expo-Dev: usage reference"
 category: mobile
 tags: [expo-dev-usage, mobile, russian]
 models: [sonnet, opus]

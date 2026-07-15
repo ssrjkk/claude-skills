@@ -1,6 +1,6 @@
 ---
 name: devops-skill-0139
-description: Specialized skill #0139 for devops development
+description: "Specialized skill #0139 for devops development"
 category: devops
 tags: [skill-0139, devops, russian]
 models: [sonnet, opus]

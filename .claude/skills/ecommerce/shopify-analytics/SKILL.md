@@ -1,6 +1,6 @@
 ---
 name: shopify-analytics
-description: Analytics with Shopify. analytics.
+description: "Analytics with Shopify. analytics."
 category: ecommerce
 tags: [shopify, analytics, ecommerce, ecommerce]
 models: [gpt-4, claude-3]

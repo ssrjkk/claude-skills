@@ -1,6 +1,6 @@
 ---
 name: helm-basics
-description: Basics for Helm: fundamentals and core concepts
+description: "Basics for Helm: fundamentals and core concepts"
 category: devops
 tags: [helm-basics, devops, russian]
 models: [sonnet, opus]

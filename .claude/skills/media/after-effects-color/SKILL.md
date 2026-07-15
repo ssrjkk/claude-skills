@@ -1,6 +1,6 @@
 ---
 name: after-effects-color
-description: Color with After Effects. color grading.
+description: "Color with After Effects. color grading."
 category: media
 tags: [after-effects, color, media, media-production]
 models: [gpt-4, claude-3]

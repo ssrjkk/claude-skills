@@ -1,6 +1,6 @@
 ---
 name: mpls-configuration
-description: Config with MPLS. setup.
+description: "Config with MPLS. setup."
 category: networking
 tags: [mpls-configuration, networking, russian]
 models: [sonnet, opus]

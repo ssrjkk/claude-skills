@@ -1,6 +1,6 @@
 ---
 name: llama-monitoring
-description: Monitoring for Llama: monitoring and observability
+description: "Monitoring for Llama: monitoring and observability"
 category: ai
 tags: [llama-monitoring, ai, russian]
 models: [sonnet, opus]

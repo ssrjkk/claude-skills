@@ -1,6 +1,6 @@
 ---
 name: commercetools-integration
-description: Integration with commercetools. frontend integration.
+description: "Integration with commercetools. frontend integration."
 category: ecommerce
 tags: [commercetools-integration, ecommerce, russian]
 models: [sonnet, opus]

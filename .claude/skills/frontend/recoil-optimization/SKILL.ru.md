@@ -1,6 +1,6 @@
 ---
 name: recoil-optimization
-description: Optimization with Recoil. performance.
+description: "Optimization with Recoil. performance."
 category: frontend
 tags: [recoil-optimization, frontend, russian]
 models: [sonnet, opus]

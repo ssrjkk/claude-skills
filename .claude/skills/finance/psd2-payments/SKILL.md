@@ -1,6 +1,6 @@
 ---
 name: psd2-payments
-description: Payments with PSD2. payments.
+description: "Payments with PSD2. payments."
 category: finance
 tags: [psd2, payments, finance, fintech]
 models: [gpt-4, claude-3]

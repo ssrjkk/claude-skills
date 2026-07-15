@@ -1,6 +1,6 @@
 ---
 name: skopeo-security
-description: Security with Skopeo. container security.
+description: "Security with Skopeo. container security."
 category: devops
 tags: [skopeo, security, devops, container]
 models: [gpt-4, claude-3]

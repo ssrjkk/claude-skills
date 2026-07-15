@@ -1,6 +1,6 @@
 ---
 name: remote-analytics
-description: Analytics with Remote.com. analytics.
+description: "Analytics with Remote.com. analytics."
 category: hr
 tags: [remote-analytics, hr, russian]
 models: [sonnet, opus]

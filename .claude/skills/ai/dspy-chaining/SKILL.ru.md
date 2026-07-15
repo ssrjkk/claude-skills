@@ -1,6 +1,6 @@
 ---
 name: dspy-chaining
-description: Chaining with Dspy. multi-step workflows.
+description: "Chaining with Dspy. multi-step workflows."
 category: ai
 tags: [dspy-chaining, ai, russian]
 models: [sonnet, opus]

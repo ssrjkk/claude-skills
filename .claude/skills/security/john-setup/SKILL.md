@@ -1,6 +1,6 @@
 ---
 name: john-setup
-description: Setup with John the Ripper. installation.
+description: "Setup with John the Ripper. installation."
 category: security
 tags: [john, setup, security, security-tool]
 models: [gpt-4, claude-3]

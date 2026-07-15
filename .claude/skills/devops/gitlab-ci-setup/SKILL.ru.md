@@ -1,6 +1,6 @@
 ---
 name: gitlab-ci-setup
-description: Setup with GitLab CI. pipeline setup.
+description: "Setup with GitLab CI. pipeline setup."
 category: devops
 tags: [gitlab-ci-setup, devops, russian]
 models: [sonnet, opus]

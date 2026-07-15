@@ -1,6 +1,6 @@
 ---
 name: wrk-thresholds
-description: Thresholds with wrk. pass/fail.
+description: "Thresholds with wrk. pass/fail."
 category: qa
 tags: [wrk-thresholds, qa, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: storybook-middleware
-description: Middleware with Storybook. request middleware.
+description: "Middleware with Storybook. request middleware."
 category: frontend
 tags: [storybook, middleware, frontend, meta-framework]
 models: [gpt-4, claude-3]

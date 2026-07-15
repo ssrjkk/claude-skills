@@ -1,6 +1,6 @@
 ---
 name: soc2-best-practices
-description: Best Practices with SOC 2. best practices.
+description: "Best Practices with SOC 2. best practices."
 category: security
 tags: [soc2-best-practices, security, russian]
 models: [sonnet, opus]

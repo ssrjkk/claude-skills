@@ -1,6 +1,6 @@
 ---
 name: avalonia-styling
-description: Styling with Avalonia. styling.
+description: "Styling with Avalonia. styling."
 category: desktop
 tags: [avalonia, styling, desktop, desktop]
 models: [gpt-4, claude-3]

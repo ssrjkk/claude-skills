@@ -1,6 +1,6 @@
 ---
 name: oracle-scm-transportation
-description: Transportation with Oracle SCM. TMS.
+description: "Transportation with Oracle SCM. TMS."
 category: supply-chain
 tags: [oracle-scm-transportation, supply-chain, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ultra-setup
-description: Setup for Ultra: setup guide
+description: "Setup for Ultra: setup guide"
 category: frontend
 tags: [ultra, setup, frontend]
 models: [sonnet, opus]

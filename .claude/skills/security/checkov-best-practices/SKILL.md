@@ -1,6 +1,6 @@
 ---
 name: checkov-best-practices
-description: Best Practices for Checkov: best practices and patterns
+description: "Best Practices for Checkov: best practices and patterns"
 category: security
 tags: [checkov, best-practices, security]
 models: [sonnet, opus]

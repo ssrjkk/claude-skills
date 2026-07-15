@@ -1,6 +1,6 @@
 ---
 name: infor-setup
-description: Setup with Infor SCM. setup.
+description: "Setup with Infor SCM. setup."
 category: supply-chain
 tags: [infor, setup, supply-chain, supply-chain]
 models: [gpt-4, claude-3]

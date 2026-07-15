@@ -1,6 +1,6 @@
 ---
 name: spark-monitoring
-description: Monitoring with Spark. metrics.
+description: "Monitoring with Spark. metrics."
 category: backend
 tags: [spark, monitoring, backend, backend]
 models: [gpt-4, claude-3]

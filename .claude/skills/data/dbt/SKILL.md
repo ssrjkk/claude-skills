@@ -1,6 +1,6 @@
 ---
 name: dbt
-description: Transforms data in warehouses using dbt with SQL models, tests, and documentation. Use for analytics engineering and data transformation.
+description: "Transforms data in warehouses using dbt with SQL models, tests, and documentation. Use for analytics engineering and data transformation."
 category: data
 tags: [dbt, sql, data-warehouse, analytics, etl]
 models: [sonnet, opus]

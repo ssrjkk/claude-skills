@@ -1,6 +1,6 @@
 ---
 name: blockchain-skill-0211
-description: blockchain specialized skill #0211 for blockchain development
+description: "blockchain specialized skill #0211 for blockchain development"
 category: blockchain
 tags: [blockchain, skill, 0211]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: okr-metrics
-description: Metrics with OKRs. measurement.
+description: "Metrics with OKRs. measurement."
 category: product
 tags: [okr-metrics, product, russian]
 models: [sonnet, opus]

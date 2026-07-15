@@ -1,6 +1,6 @@
 ---
 name: avalonia-native
-description: Native with Avalonia. native APIs.
+description: "Native with Avalonia. native APIs."
 category: desktop
 tags: [avalonia, native, desktop, desktop]
 models: [gpt-4, claude-3]

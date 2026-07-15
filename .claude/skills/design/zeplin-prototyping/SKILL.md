@@ -1,6 +1,6 @@
 ---
 name: zeplin-prototyping
-description: Prototyping with Zeplin. prototypes.
+description: "Prototyping with Zeplin. prototypes."
 category: design
 tags: [zeplin, prototyping, design, design]
 models: [gpt-4, claude-3]

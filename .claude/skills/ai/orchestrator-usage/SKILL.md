@@ -1,6 +1,6 @@
 ---
 name: orchestrator-usage
-description: Usage for Orchestrator: usage reference
+description: "Usage for Orchestrator: usage reference"
 category: ai
 tags: [orchestrator, usage, ai]
 models: [sonnet, opus]

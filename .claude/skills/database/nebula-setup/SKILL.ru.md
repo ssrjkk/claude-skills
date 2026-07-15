@@ -1,6 +1,6 @@
 ---
 name: nebula-setup
-description: Setup with Nebula Graph. installation.
+description: "Setup with Nebula Graph. installation."
 category: database
 tags: [nebula-setup, database, russian]
 models: [sonnet, opus]

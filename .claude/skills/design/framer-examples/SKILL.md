@@ -1,6 +1,6 @@
 ---
 name: framer-examples
-description: Examples for Framer: practical examples
+description: "Examples for Framer: practical examples"
 category: design
 tags: [framer, examples, design]
 models: [sonnet, opus]

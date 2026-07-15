@@ -1,6 +1,6 @@
 ---
 name: llama-advanced
-description: Advanced for Llama: advanced patterns and techniques
+description: "Advanced for Llama: advanced patterns and techniques"
 category: ai
 tags: [llama, advanced, ai]
 models: [sonnet, opus]

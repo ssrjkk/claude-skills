@@ -1,6 +1,6 @@
 ---
 name: micropython-communication
-description: Comm with MicroPython. I2C.
+description: "Comm with MicroPython. I2C."
 category: iot
 tags: [micropython, communication, iot, iot]
 models: [gpt-4, claude-3]

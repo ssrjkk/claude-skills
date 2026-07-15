@@ -1,6 +1,6 @@
 ---
 name: user-research-planning
-description: Planning with User Research. study planning.
+description: "Planning with User Research. study planning."
 category: design
 tags: [user-research, planning, design, ux-research]
 models: [gpt-4, claude-3]

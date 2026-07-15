@@ -1,6 +1,6 @@
 ---
 name: avr-debugging
-description: Debugging with AVR. debug.
+description: "Debugging with AVR. debug."
 category: embedded
 tags: [avr-debugging, embedded, russian]
 models: [sonnet, opus]

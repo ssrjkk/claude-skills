@@ -1,6 +1,6 @@
 ---
 name: deno-usage
-description: Usage for Deno: usage guide
+description: "Usage for Deno: usage guide"
 category: backend
 tags: [deno-usage, backend, russian]
 models: [sonnet, opus]

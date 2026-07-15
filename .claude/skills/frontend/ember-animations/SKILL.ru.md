@@ -1,6 +1,6 @@
 ---
 name: ember-animations
-description: Animations with Ember. UI animations.
+description: "Animations with Ember. UI animations."
 category: frontend
 tags: [ember-animations, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: ionic-networking
-description: Networking with Ionic. API calls.
+description: "Networking with Ionic. API calls."
 category: mobile
 tags: [ionic-networking, mobile, russian]
 models: [sonnet, opus]

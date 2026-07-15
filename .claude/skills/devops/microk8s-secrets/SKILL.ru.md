@@ -1,6 +1,6 @@
 ---
 name: microk8s-secrets
-description: Secrets with MicroK8s. secret management.
+description: "Secrets with MicroK8s. secret management."
 category: devops
 tags: [microk8s-secrets, devops, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: prometheus-metrics
-description: Metrics with Prometheus. collecting metrics.
+description: "Metrics with Prometheus. collecting metrics."
 category: devops
 tags: [prometheus, metrics, devops, monitoring]
 models: [gpt-4, claude-3]

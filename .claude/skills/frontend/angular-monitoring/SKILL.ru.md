@@ -1,6 +1,6 @@
 ---
 name: angular-monitoring
-description: Monitoring for Angular: monitoring and observability
+description: "Monitoring for Angular: monitoring and observability"
 category: frontend
 tags: [angular-monitoring, frontend, russian]
 models: [sonnet, opus]

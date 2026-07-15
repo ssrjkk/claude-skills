@@ -1,6 +1,6 @@
 ---
 name: mapbox-gl-routing
-description: Routing with Mapbox GL. routing.
+description: "Routing with Mapbox GL. routing."
 category: geospatial
 tags: [mapbox-gl-routing, geospatial, russian]
 models: [sonnet, opus]

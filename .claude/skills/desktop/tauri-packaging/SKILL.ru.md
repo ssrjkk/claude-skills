@@ -1,6 +1,6 @@
 ---
 name: tauri-packaging
-description: Packaging with Tauri. app packaging.
+description: "Packaging with Tauri. app packaging."
 category: desktop
 tags: [tauri-packaging, desktop, russian]
 models: [sonnet, opus]

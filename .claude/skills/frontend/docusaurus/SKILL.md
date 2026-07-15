@@ -1,6 +1,6 @@
 ---
 name: docusaurus
-description: Creates documentation websites with Docusaurus, MDX, versioning, and search. Use for open-source docs and knowledge bases.
+description: "Creates documentation websites with Docusaurus, MDX, versioning, and search. Use for open-source docs and knowledge bases."
 category: frontend
 tags: [docusaurus, docs, mdx, documentation, static-site]
 models: [sonnet, opus]

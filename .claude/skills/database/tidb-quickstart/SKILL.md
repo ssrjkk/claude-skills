@@ -1,6 +1,6 @@
 ---
 name: tidb-quickstart
-description: Quickstart for Tidb: quick start guide
+description: "Quickstart for Tidb: quick start guide"
 category: database
 tags: [tidb, quickstart, database]
 models: [sonnet, opus]

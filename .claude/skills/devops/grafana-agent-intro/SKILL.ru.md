@@ -1,6 +1,6 @@
 ---
 name: grafana-agent-intro
-description: Intro for Grafana-Agent: introduction
+description: "Intro for Grafana-Agent: introduction"
 category: devops
 tags: [grafana-agent-intro, devops, russian]
 models: [sonnet, opus]

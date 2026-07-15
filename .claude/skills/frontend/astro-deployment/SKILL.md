@@ -1,6 +1,6 @@
 ---
 name: astro-deployment
-description: Deployment with Astro. production.
+description: "Deployment with Astro. production."
 category: frontend
 tags: [astro, deployment, frontend, meta-framework]
 models: [gpt-4, claude-3]

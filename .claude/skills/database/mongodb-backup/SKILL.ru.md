@@ -1,6 +1,6 @@
 ---
 name: mongodb-backup
-description: Backup with MongoDB. backup.
+description: "Backup with MongoDB. backup."
 category: database
 tags: [mongodb-backup, database, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: sphinx-indexing
-description: Indexing with Sphinx. document indexing.
+description: "Indexing with Sphinx. document indexing."
 category: database
 tags: [sphinx-indexing, database, russian]
 models: [sonnet, opus]

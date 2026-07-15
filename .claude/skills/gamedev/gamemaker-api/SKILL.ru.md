@@ -1,6 +1,6 @@
 ---
 name: gamemaker-api
-description: API for Gamemaker: API development and integration
+description: "API for Gamemaker: API development and integration"
 category: gamedev
 tags: [gamemaker-api, gamedev, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: stanza-sentiment
-description: Sentiment Analysis with Stanza. sentiment detection.
+description: "Sentiment Analysis with Stanza. sentiment detection."
 category: ai
 tags: [stanza-sentiment, ai, russian]
 models: [sonnet, opus]

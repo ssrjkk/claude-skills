@@ -1,6 +1,6 @@
 ---
 name: memcached-quickstart
-description: Quickstart for Memcached: quick start guide
+description: "Quickstart for Memcached: quick start guide"
 category: backend
 tags: [memcached, quickstart, backend]
 models: [sonnet, opus]

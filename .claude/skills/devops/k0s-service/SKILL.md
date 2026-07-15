@@ -1,6 +1,6 @@
 ---
 name: k0s-service
-description: Service with K0s. services.
+description: "Service with K0s. services."
 category: devops
 tags: [k0s, service, devops, kubernetes]
 models: [gpt-4, claude-3]

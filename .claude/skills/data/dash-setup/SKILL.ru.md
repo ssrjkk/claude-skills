@@ -1,6 +1,6 @@
 ---
 name: dash-setup
-description: Setup with Dash. installation.
+description: "Setup with Dash. installation."
 category: data
 tags: [dash-setup, data, russian]
 models: [sonnet, opus]

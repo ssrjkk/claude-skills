@@ -1,6 +1,6 @@
 ---
 name: datadog-dashboards
-description: Dashboards with Datadog. dashboards.
+description: "Dashboards with Datadog. dashboards."
 category: devops
 tags: [datadog, dashboards, devops, monitoring]
 models: [gpt-4, claude-3]

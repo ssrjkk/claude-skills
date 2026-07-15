@@ -1,6 +1,6 @@
 ---
 name: skill-0178
-description: Specialized skill #0178 for design development
+description: "Specialized skill #0178 for design development"
 category: design
 tags: [design, skill, 0178]
 models: [sonnet, opus]

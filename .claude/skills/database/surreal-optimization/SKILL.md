@@ -1,6 +1,6 @@
 ---
 name: surreal-optimization
-description: Optimization with SurrealDB. performance.
+description: "Optimization with SurrealDB. performance."
 category: database
 tags: [surreal, optimization, database, nosql]
 models: [gpt-4, claude-3]

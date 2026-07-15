@@ -1,6 +1,6 @@
 ---
 name: redshift-setup
-description: Setup for Redshift: installation and configuration
+description: "Setup for Redshift: installation and configuration"
 category: data
 tags: [redshift-setup, data, russian]
 models: [sonnet, opus]

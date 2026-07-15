@@ -1,6 +1,6 @@
 ---
 name: hipaa-interoperability
-description: Interop with HIPAA. interoperability.
+description: "Interop with HIPAA. interoperability."
 category: healthcare
 tags: [hipaa, interoperability, healthcare, healthcare]
 models: [gpt-4, claude-3]

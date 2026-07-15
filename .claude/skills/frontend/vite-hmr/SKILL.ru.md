@@ -1,6 +1,6 @@
 ---
 name: vite-hmr
-description: HMR with Vite. hot reload.
+description: "HMR with Vite. hot reload."
 category: frontend
 tags: [vite-hmr, frontend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: dicom-compliance
-description: Compliance with DICOM. compliance.
+description: "Compliance with DICOM. compliance."
 category: healthcare
 tags: [dicom-compliance, healthcare, russian]
 models: [sonnet, opus]

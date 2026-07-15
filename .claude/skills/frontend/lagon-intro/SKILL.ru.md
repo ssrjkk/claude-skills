@@ -1,6 +1,6 @@
 ---
 name: lagon-intro
-description: Intro for Lagon: introduction
+description: "Intro for Lagon: introduction"
 category: frontend
 tags: [lagon-intro, frontend, russian]
 models: [sonnet, opus]

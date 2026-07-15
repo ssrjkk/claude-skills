@@ -1,6 +1,6 @@
 ---
 name: google-iot-commands
-description: Commands with Google IoT. device commands.
+description: "Commands with Google IoT. device commands."
 category: iot
 tags: [google-iot, commands, iot, iot-platform]
 models: [gpt-4, claude-3]

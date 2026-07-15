@@ -1,6 +1,6 @@
 ---
 name: r-lang-parallel
-description: Parallel with R. parallel computing.
+description: "Parallel with R. parallel computing."
 category: scientific
 tags: [r-lang-parallel, scientific, russian]
 models: [sonnet, opus]

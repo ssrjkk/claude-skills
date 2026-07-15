@@ -1,6 +1,6 @@
 ---
 name: bamboo-security
-description: Security with Bamboo. security scanning.
+description: "Security with Bamboo. security scanning."
 category: devops
 tags: [bamboo, security, devops, ci-cd]
 models: [gpt-4, claude-3]

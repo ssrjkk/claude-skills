@@ -1,6 +1,6 @@
 ---
 name: energy-management-optimization
-description: Optimization with Energy Management. optimization.
+description: "Optimization with Energy Management. optimization."
 category: energy
 tags: [energy-management-optimization, energy, russian]
 models: [sonnet, opus]

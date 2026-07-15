@@ -1,6 +1,6 @@
 ---
 name: yii-api
-description: API with Yii. APIs.
+description: "API with Yii. APIs."
 category: backend
 tags: [yii-api, backend, russian]
 models: [sonnet, opus]

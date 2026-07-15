@@ -1,6 +1,6 @@
 ---
 name: cockroachdb-schema
-description: Schema Design with CockroachDB. schema.
+description: "Schema Design with CockroachDB. schema."
 category: database
 tags: [cockroachdb, schema, database, sql]
 models: [gpt-4, claude-3]

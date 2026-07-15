@@ -1,6 +1,6 @@
 ---
 name: phaser-advanced
-description: Advanced for Phaser: advanced patterns and techniques
+description: "Advanced for Phaser: advanced patterns and techniques"
 category: gamedev
 tags: [phaser, advanced, gamedev]
 models: [sonnet, opus]

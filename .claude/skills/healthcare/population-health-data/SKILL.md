@@ -1,6 +1,6 @@
 ---
 name: population-health-data
-description: Data with Population Health. data management.
+description: "Data with Population Health. data management."
 category: healthcare
 tags: [population-health, data, healthcare, healthcare-system]
 models: [gpt-4, claude-3]

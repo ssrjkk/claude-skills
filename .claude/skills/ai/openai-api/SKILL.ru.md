@@ -1,6 +1,6 @@
 ---
 name: openai-api
-description: Integrates OpenAI API for chat completions, embeddings, and function calling in applications. Use for adding LLM capabilities.
+description: "Integrates OpenAI API for chat completions, embeddings, and function calling in applications. Use for adding LLM capabilities."
 category: ai
 tags: [openai-api, ai, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cakephp-api
-description: API with CakePHP. APIs.
+description: "API with CakePHP. APIs."
 category: backend
 tags: [cakephp, api, backend, backend]
 models: [gpt-4, claude-3]

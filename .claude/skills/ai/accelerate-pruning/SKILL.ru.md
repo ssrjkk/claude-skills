@@ -1,6 +1,6 @@
 ---
 name: accelerate-pruning
-description: Pruning with Accelerate. model pruning.
+description: "Pruning with Accelerate. model pruning."
 category: ai
 tags: [accelerate-pruning, ai, russian]
 models: [sonnet, opus]

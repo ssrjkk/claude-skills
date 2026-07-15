@@ -1,6 +1,6 @@
 ---
 name: bokeh-integration
-description: Integration with Bokeh. data sources.
+description: "Integration with Bokeh. data sources."
 category: data
 tags: [bokeh-integration, data, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: cakephp-testing
-description: Testing with CakePHP. PHPUnit.
+description: "Testing with CakePHP. PHPUnit."
 category: backend
 tags: [cakephp, testing, backend, backend]
 models: [gpt-4, claude-3]

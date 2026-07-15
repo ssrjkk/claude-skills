@@ -1,6 +1,6 @@
 ---
 name: ant-design-utilities
-description: Utilities with Ant Design. utility classes.
+description: "Utilities with Ant Design. utility classes."
 category: frontend
 tags: [ant-design, utilities, frontend, css]
 models: [gpt-4, claude-3]

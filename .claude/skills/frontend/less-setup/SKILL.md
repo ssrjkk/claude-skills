@@ -1,6 +1,6 @@
 ---
 name: less-setup
-description: Setup with Less. initial setup.
+description: "Setup with Less. initial setup."
 category: frontend
 tags: [less, setup, frontend, build-tool]
 models: [gpt-4, claude-3]

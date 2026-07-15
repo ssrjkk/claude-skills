@@ -1,6 +1,6 @@
 ---
 name: llama-debugging
-description: Debugging for Llama: debugging and troubleshooting
+description: "Debugging for Llama: debugging and troubleshooting"
 category: ai
 tags: [llama, debugging, ai]
 models: [sonnet, opus]

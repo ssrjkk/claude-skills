@@ -1,6 +1,6 @@
 ---
 name: factory-bot-fundamentals
-description: Fundamentals for Factory-Bot: core concepts
+description: "Fundamentals for Factory-Bot: core concepts"
 category: qa
 tags: [factory-bot, fundamentals, qa]
 models: [sonnet, opus]

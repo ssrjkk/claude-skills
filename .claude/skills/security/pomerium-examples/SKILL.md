@@ -1,6 +1,6 @@
 ---
 name: pomerium-examples
-description: Examples for Pomerium: practical examples
+description: "Examples for Pomerium: practical examples"
 category: security
 tags: [pomerium, examples, security]
 models: [sonnet, opus]

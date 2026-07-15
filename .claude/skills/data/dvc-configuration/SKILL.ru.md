@@ -1,6 +1,6 @@
 ---
 name: dvc-configuration
-description: Configuration for Dvc: configuration and setup
+description: "Configuration for Dvc: configuration and setup"
 category: data
 tags: [dvc-configuration, data, russian]
 models: [sonnet, opus]

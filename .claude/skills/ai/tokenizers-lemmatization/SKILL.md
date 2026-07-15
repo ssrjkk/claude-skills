@@ -1,6 +1,6 @@
 ---
 name: tokenizers-lemmatization
-description: Lemmatization with Tokenizers. word lemmatization.
+description: "Lemmatization with Tokenizers. word lemmatization."
 category: ai
 tags: [tokenizers, lemmatization, ai, nlp]
 models: [gpt-4, claude-3]

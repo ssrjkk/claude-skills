@@ -1,6 +1,6 @@
 ---
 name: mpls-troubleshooting
-description: Troubleshooting with MPLS. diagnostics.
+description: "Troubleshooting with MPLS. diagnostics."
 category: networking
 tags: [mpls, troubleshooting, networking, networking]
 models: [gpt-4, claude-3]

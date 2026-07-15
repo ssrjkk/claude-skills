@@ -1,6 +1,6 @@
 ---
 name: actix-testing
-description: Testing for Actix: testing and validation
+description: "Testing for Actix: testing and validation"
 category: backend
 tags: [actix-testing, backend, russian]
 models: [sonnet, opus]

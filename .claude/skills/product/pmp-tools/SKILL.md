@@ -1,6 +1,6 @@
 ---
 name: pmp-tools
-description: Tools with PMP. tooling.
+description: "Tools with PMP. tooling."
 category: product
 tags: [pmp, tools, product, methodology]
 models: [gpt-4, claude-3]

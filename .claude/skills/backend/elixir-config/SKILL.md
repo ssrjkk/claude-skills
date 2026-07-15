@@ -1,6 +1,6 @@
 ---
 name: elixir-config
-description: Configuration with Elixir. config management.
+description: "Configuration with Elixir. config management."
 category: backend
 tags: [elixir, config, backend, backend]
 models: [gpt-4, claude-3]

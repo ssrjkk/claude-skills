@@ -1,6 +1,6 @@
 ---
 name: http-automation
-description: Automation with HTTP. network automation.
+description: "Automation with HTTP. network automation."
 category: networking
 tags: [http-automation, networking, russian]
 models: [sonnet, opus]

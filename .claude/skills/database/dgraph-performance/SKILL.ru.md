@@ -1,6 +1,6 @@
 ---
 name: dgraph-performance
-description: Performance with Dgraph. optimization.
+description: "Performance with Dgraph. optimization."
 category: database
 tags: [dgraph-performance, database, russian]
 models: [sonnet, opus]

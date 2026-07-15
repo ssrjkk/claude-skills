@@ -1,6 +1,6 @@
 ---
 name: docker-debugging
-description: Debugging for Docker: debugging and troubleshooting
+description: "Debugging for Docker: debugging and troubleshooting"
 category: devops
 tags: [docker-debugging, devops, russian]
 models: [sonnet, opus]

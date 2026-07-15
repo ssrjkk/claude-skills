@@ -1,6 +1,6 @@
 ---
 name: go-dependency-injection
-description: DI with Go. DI containers.
+description: "DI with Go. DI containers."
 category: backend
 tags: [go, dependency-injection, backend, backend]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: dbt-setup
-description: Setup with dbt. installation.
+description: "Setup with dbt. installation."
 category: data
 tags: [dbt, setup, data, data-engineering]
 models: [gpt-4, claude-3]

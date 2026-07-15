@@ -1,6 +1,6 @@
 ---
 name: magento-products
-description: Products with Magento. product management.
+description: "Products with Magento. product management."
 category: ecommerce
 tags: [magento-products, ecommerce, russian]
 models: [sonnet, opus]

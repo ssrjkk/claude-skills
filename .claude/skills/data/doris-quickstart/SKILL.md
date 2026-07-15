@@ -1,6 +1,6 @@
 ---
 name: doris-quickstart
-description: Quickstart for Doris: quick start guide
+description: "Quickstart for Doris: quick start guide"
 category: data
 tags: [doris, quickstart, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: debezium-getting-started
-description: Getting Started for Debezium: initial setup and first steps
+description: "Getting Started for Debezium: initial setup and first steps"
 category: database
 tags: [debezium-getting-started, database, russian]
 models: [sonnet, opus]

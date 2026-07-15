@@ -1,6 +1,6 @@
 ---
 name: motion-variants-setup
-description: Setup for Motion-Variants: setup guide
+description: "Setup for Motion-Variants: setup guide"
 category: frontend
 tags: [motion-variants-setup, frontend, russian]
 models: [sonnet, opus]

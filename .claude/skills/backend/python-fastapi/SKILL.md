@@ -1,6 +1,6 @@
 ---
 name: python-fastapi
-description: Creates REST API templates with FastAPI, Pydantic validation, and auto-generated documentation. Use for building new microservices or API endpoints.
+description: "Creates REST API templates with FastAPI, Pydantic validation, and auto-generated documentation. Use for building new microservices or API endpoints."
 category: backend
 tags: [python, fastapi, rest, pydantic, async]
 models: [sonnet, opus]

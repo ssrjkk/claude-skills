@@ -1,6 +1,6 @@
 ---
 name: tls-ssl-automation
-description: Automation with TLS/SSL. network automation.
+description: "Automation with TLS/SSL. network automation."
 category: networking
 tags: [tls-ssl-automation, networking, russian]
 models: [sonnet, opus]

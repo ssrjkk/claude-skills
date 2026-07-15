@@ -1,6 +1,6 @@
 ---
 name: warpspeed-guides
-description: Guides for Warpspeed: how-to guides
+description: "Guides for Warpspeed: how-to guides"
 category: data
 tags: [warpspeed-guides, data, russian]
 models: [sonnet, opus]

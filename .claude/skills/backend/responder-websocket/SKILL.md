@@ -1,6 +1,6 @@
 ---
 name: responder-websocket
-description: WebSocket with Responder. real-time.
+description: "WebSocket with Responder. real-time."
 category: backend
 tags: [responder, websocket, backend, backend]
 models: [gpt-4, claude-3]

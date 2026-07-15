@@ -1,6 +1,6 @@
 ---
 name: iso27001-implementation
-description: Implementation with ISO 27001. implementation.
+description: "Implementation with ISO 27001. implementation."
 category: security
 tags: [iso27001-implementation, security, russian]
 models: [sonnet, opus]

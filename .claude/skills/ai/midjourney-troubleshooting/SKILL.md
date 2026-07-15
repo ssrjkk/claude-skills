@@ -1,6 +1,6 @@
 ---
 name: midjourney-troubleshooting
-description: Troubleshooting for Midjourney: troubleshooting common issues
+description: "Troubleshooting for Midjourney: troubleshooting common issues"
 category: ai
 tags: [midjourney, troubleshooting, ai]
 models: [sonnet, opus]

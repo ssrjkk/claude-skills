@@ -1,6 +1,6 @@
 ---
 name: react-security
-description: Security for React: security best practices
+description: "Security for React: security best practices"
 category: frontend
 tags: [react, security, frontend]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: dbt-batch
-description: Batch with dbt. batch processing.
+description: "Batch with dbt. batch processing."
 category: data
 tags: [dbt, batch, data, data-engineering]
 models: [gpt-4, claude-3]

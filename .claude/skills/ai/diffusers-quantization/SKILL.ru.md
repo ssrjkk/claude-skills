@@ -1,6 +1,6 @@
 ---
 name: diffusers-quantization
-description: Quantization with Diffusers. model quantization.
+description: "Quantization with Diffusers. model quantization."
 category: ai
 tags: [diffusers-quantization, ai, russian]
 models: [sonnet, opus]

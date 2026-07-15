@@ -1,6 +1,6 @@
 ---
 name: lean-metrics
-description: Metrics with Lean. measurement.
+description: "Metrics with Lean. measurement."
 category: product
 tags: [lean, metrics, product, methodology]
 models: [gpt-4, claude-3]

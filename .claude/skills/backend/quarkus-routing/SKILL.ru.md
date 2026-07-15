@@ -1,6 +1,6 @@
 ---
 name: quarkus-routing
-description: Routing with Quarkus. HTTP routing.
+description: "Routing with Quarkus. HTTP routing."
 category: backend
 tags: [quarkus-routing, backend, russian]
 models: [sonnet, opus]

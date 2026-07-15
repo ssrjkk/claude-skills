@@ -1,6 +1,6 @@
 ---
 name: voila-widgets
-description: Widgets with Voila. input widgets.
+description: "Widgets with Voila. input widgets."
 category: data
 tags: [voila-widgets, data, russian]
 models: [sonnet, opus]

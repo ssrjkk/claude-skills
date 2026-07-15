@@ -1,6 +1,6 @@
 ---
 name: esp8266-actuators
-description: Actuators with ESP8266. motors.
+description: "Actuators with ESP8266. motors."
 category: iot
 tags: [esp8266-actuators, iot, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: redshift-testing
-description: Testing for Redshift: testing and validation
+description: "Testing for Redshift: testing and validation"
 category: data
 tags: [redshift, testing, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: svelte-api
-description: API for Svelte: API development and integration
+description: "API for Svelte: API development and integration"
 category: frontend
 tags: [svelte, api, frontend]
 models: [sonnet, opus]

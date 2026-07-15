@@ -1,6 +1,6 @@
 ---
 name: jda-procurement
-description: Procurement with JDA/Blue Yonder. procurement.
+description: "Procurement with JDA/Blue Yonder. procurement."
 category: supply-chain
 tags: [jda-procurement, supply-chain, russian]
 models: [sonnet, opus]

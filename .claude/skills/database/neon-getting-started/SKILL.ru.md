@@ -1,6 +1,6 @@
 ---
 name: neon-getting-started
-description: Getting Started for Neon: initial setup and first steps
+description: "Getting Started for Neon: initial setup and first steps"
 category: database
 tags: [neon-getting-started, database, russian]
 models: [sonnet, opus]

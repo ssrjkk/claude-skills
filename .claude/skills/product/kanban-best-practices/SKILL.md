@@ -1,6 +1,6 @@
 ---
 name: kanban-best-practices
-description: Best Practices with Kanban. practices.
+description: "Best Practices with Kanban. practices."
 category: product
 tags: [kanban, best-practices, product, methodology]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: usability-testing-reporting
-description: Reporting with Usability Testing. reports.
+description: "Reporting with Usability Testing. reports."
 category: design
 tags: [usability-testing, reporting, design, ux-research]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: vagrant-provisioning
-description: Provisioning with Vagrant. provisioning.
+description: "Provisioning with Vagrant. provisioning."
 category: devops
 tags: [vagrant, provisioning, devops, iac]
 models: [gpt-4, claude-3]

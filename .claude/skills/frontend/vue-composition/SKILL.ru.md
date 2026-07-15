@@ -1,6 +1,6 @@
 ---
 name: vue-composition
-description: Creates Vue 3 components with Composition API and TypeScript. Use for modern Vue applications with reactive state.
+description: "Creates Vue 3 components with Composition API and TypeScript. Use for modern Vue applications with reactive state."
 category: frontend
 tags: [vue-composition, frontend, russian]
 models: [sonnet, opus]

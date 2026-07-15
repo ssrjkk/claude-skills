@@ -1,6 +1,6 @@
 ---
 name: tensorrt-quickstart
-description: Quickstart for Tensorrt: quick start guide
+description: "Quickstart for Tensorrt: quick start guide"
 category: ai
 tags: [tensorrt, quickstart, ai]
 models: [sonnet, opus]

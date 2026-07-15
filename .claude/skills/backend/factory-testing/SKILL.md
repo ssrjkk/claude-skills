@@ -1,6 +1,6 @@
 ---
 name: factory-testing
-description: Testing with Factory. testing the pattern.
+description: "Testing with Factory. testing the pattern."
 category: backend
 tags: [factory, testing, backend, architecture]
 models: [gpt-4, claude-3]

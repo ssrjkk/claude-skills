@@ -1,6 +1,6 @@
 ---
 name: argo-workflows-guides
-description: Guides for Argo-Workflows: how-to guides
+description: "Guides for Argo-Workflows: how-to guides"
 category: devops
 tags: [argo-workflows-guides, devops, russian]
 models: [sonnet, opus]

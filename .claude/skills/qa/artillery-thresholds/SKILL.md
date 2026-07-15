@@ -1,6 +1,6 @@
 ---
 name: artillery-thresholds
-description: Thresholds with Artillery. pass/fail.
+description: "Thresholds with Artillery. pass/fail."
 category: qa
 tags: [artillery, thresholds, qa, performance-testing]
 models: [gpt-4, claude-3]

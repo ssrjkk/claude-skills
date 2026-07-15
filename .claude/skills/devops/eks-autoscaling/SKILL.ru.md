@@ -1,6 +1,6 @@
 ---
 name: eks-autoscaling
-description: Autoscaling with Amazon EKS. HPA.
+description: "Autoscaling with Amazon EKS. HPA."
 category: devops
 tags: [eks-autoscaling, devops, russian]
 models: [sonnet, opus]

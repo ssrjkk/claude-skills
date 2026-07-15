@@ -1,6 +1,6 @@
 ---
 name: figma-plugin
-description: Develops Figma plugins using TypeScript and Figma Plugin API. Use for automating design processes.
+description: "Develops Figma plugins using TypeScript and Figma Plugin API. Use for automating design processes."
 category: design
 tags: [figma, plugin, typescript, design, automation]
 models: [sonnet, opus]

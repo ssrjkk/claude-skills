@@ -1,6 +1,6 @@
 ---
 name: kepler-data
-description: Data with Kepler.gl. geospatial data.
+description: "Data with Kepler.gl. geospatial data."
 category: geospatial
 tags: [kepler, data, geospatial, gis]
 models: [gpt-4, claude-3]

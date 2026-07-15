@@ -1,6 +1,6 @@
 ---
 name: express-deployment
-description: Deployment with Express. deploy.
+description: "Deployment with Express. deploy."
 category: backend
 tags: [express-deployment, backend, russian]
 models: [sonnet, opus]

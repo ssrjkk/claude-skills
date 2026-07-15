@@ -1,6 +1,6 @@
 ---
 name: home-assistant-automation
-description: Automation with Home Assistant. automation.
+description: "Automation with Home Assistant. automation."
 category: iot
 tags: [home-assistant, automation, iot, iot-platform]
 models: [gpt-4, claude-3]

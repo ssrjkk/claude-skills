@@ -1,6 +1,6 @@
 ---
 name: final-cut-audio
-description: Audio with Final Cut Pro. audio editing.
+description: "Audio with Final Cut Pro. audio editing."
 category: media
 tags: [final-cut, audio, media, media-production]
 models: [gpt-4, claude-3]

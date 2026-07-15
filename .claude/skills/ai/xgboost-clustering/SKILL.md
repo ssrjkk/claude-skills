@@ -1,6 +1,6 @@
 ---
 name: xgboost-clustering
-description: Clustering with Xgboost. grouping data.
+description: "Clustering with Xgboost. grouping data."
 category: ai
 tags: [xgboost, clustering, ai, ml]
 models: [gpt-4, claude-3]

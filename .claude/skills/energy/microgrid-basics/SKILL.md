@@ -1,6 +1,6 @@
 ---
 name: microgrid-basics
-description: Basics with Microgrid. fundamentals.
+description: "Basics with Microgrid. fundamentals."
 category: energy
 tags: [microgrid, basics, energy, renewable-energy]
 models: [gpt-4, claude-3]

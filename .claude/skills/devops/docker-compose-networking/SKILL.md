@@ -1,6 +1,6 @@
 ---
 name: docker-compose-networking
-description: Networking with Docker Compose. container networks.
+description: "Networking with Docker Compose. container networks."
 category: devops
 tags: [docker-compose, networking, devops, container]
 models: [gpt-4, claude-3]

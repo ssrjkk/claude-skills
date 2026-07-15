@@ -1,6 +1,6 @@
 ---
 name: information-architecture-execution
-description: Execution with Information Architecture. running sessions.
+description: "Execution with Information Architecture. running sessions."
 category: design
 tags: [information-architecture, execution, design, ux-research]
 models: [gpt-4, claude-3]

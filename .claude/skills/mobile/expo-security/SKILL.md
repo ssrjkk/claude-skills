@@ -1,6 +1,6 @@
 ---
 name: expo-security
-description: Security for Expo: security best practices
+description: "Security for Expo: security best practices"
 category: mobile
 tags: [expo, security, mobile]
 models: [sonnet, opus]

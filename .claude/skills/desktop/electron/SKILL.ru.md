@@ -1,6 +1,6 @@
 ---
 name: electron
-description: Builds cross-platform desktop applications with Electron, React, and IPC communication. Use for native desktop apps with web tech.
+description: "Builds cross-platform desktop applications with Electron, React, and IPC communication. Use for native desktop apps with web tech."
 category: desktop
 tags: [electron, desktop, russian]
 models: [sonnet, opus]

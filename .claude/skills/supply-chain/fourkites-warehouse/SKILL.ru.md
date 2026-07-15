@@ -1,6 +1,6 @@
 ---
 name: fourkites-warehouse
-description: Warehouse with FourKites. warehouse ops.
+description: "Warehouse with FourKites. warehouse ops."
 category: supply-chain
 tags: [fourkites-warehouse, supply-chain, russian]
 models: [sonnet, opus]

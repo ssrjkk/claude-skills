@@ -1,6 +1,6 @@
 ---
 name: apache-spark-sql
-description: SQL with Apache Spark. SQL queries.
+description: "SQL with Apache Spark. SQL queries."
 category: data
 tags: [apache-spark-sql, data, russian]
 models: [sonnet, opus]

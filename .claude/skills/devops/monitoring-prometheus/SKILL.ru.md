@@ -1,6 +1,6 @@
 ---
 name: monitoring-prometheus
-description: Sets up application and infrastructure monitoring with Prometheus and Grafana. Use for metrics collection and alerting.
+description: "Sets up application and infrastructure monitoring with Prometheus and Grafana. Use for metrics collection and alerting."
 category: devops
 tags: [monitoring-prometheus, devops, russian]
 models: [sonnet, opus]

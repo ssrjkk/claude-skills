@@ -1,6 +1,6 @@
 ---
 name: dart-error-handling
-description: Error Handling with Dart. error management.
+description: "Error Handling with Dart. error management."
 category: backend
 tags: [dart-error-handling, backend, russian]
 models: [sonnet, opus]

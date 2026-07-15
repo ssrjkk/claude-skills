@@ -1,6 +1,6 @@
 ---
 name: panel-performance
-description: Performance with Panel. performance.
+description: "Performance with Panel. performance."
 category: data
 tags: [panel, performance, data, data-apps]
 models: [gpt-4, claude-3]

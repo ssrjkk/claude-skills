@@ -1,6 +1,6 @@
 ---
 name: elixir-logging
-description: Logging with Elixir. app logging.
+description: "Logging with Elixir. app logging."
 category: backend
 tags: [elixir-logging, backend, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: pic-interrupts
-description: Interrupts with PIC. interrupts.
+description: "Interrupts with PIC. interrupts."
 category: embedded
 tags: [pic, interrupts, embedded, embedded-arch]
 models: [gpt-4, claude-3]

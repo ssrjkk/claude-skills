@@ -1,6 +1,6 @@
 ---
 name: ubuntu-backup
-description: Backup with Ubuntu. backup.
+description: "Backup with Ubuntu. backup."
 category: os-admin
 tags: [ubuntu-backup, os-admin, russian]
 models: [sonnet, opus]

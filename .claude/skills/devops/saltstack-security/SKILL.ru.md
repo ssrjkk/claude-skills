@@ -1,6 +1,6 @@
 ---
 name: saltstack-security
-description: Security with SaltStack. security groups.
+description: "Security with SaltStack. security groups."
 category: devops
 tags: [saltstack-security, devops, russian]
 models: [sonnet, opus]

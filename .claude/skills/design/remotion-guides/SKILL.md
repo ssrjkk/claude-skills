@@ -1,6 +1,6 @@
 ---
 name: remotion-guides
-description: Guides for Remotion: how-to guides
+description: "Guides for Remotion: how-to guides"
 category: design
 tags: [remotion, guides, design]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: puzzle-design-tools
-description: Tools with Puzzle Design. tools.
+description: "Tools with Puzzle Design. tools."
 category: gamedev
 tags: [puzzle-design-tools, gamedev, russian]
 models: [sonnet, opus]

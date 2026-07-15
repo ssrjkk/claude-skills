@@ -1,6 +1,6 @@
 ---
 name: playwright-assertions
-description: Assertions with Playwright. assertions.
+description: "Assertions with Playwright. assertions."
 category: qa
 tags: [playwright-assertions, qa, russian]
 models: [sonnet, opus]

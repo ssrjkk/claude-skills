@@ -1,6 +1,6 @@
 ---
 name: csharp-orm
-description: ORM with Csharp. database access.
+description: "ORM with Csharp. database access."
 category: backend
 tags: [csharp-orm, backend, russian]
 models: [sonnet, opus]

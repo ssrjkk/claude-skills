@@ -1,6 +1,6 @@
 ---
 name: blender-best-practices
-description: Best Practices for Blender: best practices and patterns
+description: "Best Practices for Blender: best practices and patterns"
 category: gamedev
 tags: [blender, best-practices, gamedev]
 models: [sonnet, opus]

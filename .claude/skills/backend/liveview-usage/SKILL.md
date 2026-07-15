@@ -1,6 +1,6 @@
 ---
 name: liveview-usage
-description: Usage for Liveview: usage reference
+description: "Usage for Liveview: usage reference"
 category: backend
 tags: [liveview, usage, backend]
 models: [sonnet, opus]

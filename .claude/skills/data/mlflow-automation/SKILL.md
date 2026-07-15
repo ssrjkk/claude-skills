@@ -1,6 +1,6 @@
 ---
 name: mlflow-automation
-description: Automation for Mlflow: automation and scripting
+description: "Automation for Mlflow: automation and scripting"
 category: data
 tags: [mlflow, automation, data]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: tcp-ip-configuration
-description: Config with TCP/IP. setup.
+description: "Config with TCP/IP. setup."
 category: networking
 tags: [tcp-ip, configuration, networking, networking]
 models: [gpt-4, claude-3]

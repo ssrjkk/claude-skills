@@ -1,6 +1,6 @@
 ---
 name: gradio-performance
-description: Performance with Gradio. performance.
+description: "Performance with Gradio. performance."
 category: data
 tags: [gradio, performance, data, data-apps]
 models: [gpt-4, claude-3]

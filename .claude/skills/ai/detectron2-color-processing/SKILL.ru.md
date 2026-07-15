@@ -1,6 +1,6 @@
 ---
 name: detectron2-color-processing
-description: Color Processing with Detectron2. color manipulation.
+description: "Color Processing with Detectron2. color manipulation."
 category: ai
 tags: [detectron2-color-processing, ai, russian]
 models: [sonnet, opus]

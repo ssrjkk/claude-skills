@@ -1,6 +1,6 @@
 ---
 name: mobile-skill-0173
-description: Specialized skill #0173 for mobile development
+description: "Specialized skill #0173 for mobile development"
 category: mobile
 tags: [skill-0173, mobile, russian]
 models: [sonnet, opus]

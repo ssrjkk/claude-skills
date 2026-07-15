@@ -1,6 +1,6 @@
 ---
 name: prometheus-basics
-description: Basics for Prometheus: fundamentals and core concepts
+description: "Basics for Prometheus: fundamentals and core concepts"
 category: devops
 tags: [prometheus-basics, devops, russian]
 models: [sonnet, opus]

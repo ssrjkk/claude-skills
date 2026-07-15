@@ -1,6 +1,6 @@
 ---
 name: nuxt-deployment
-description: Deployment with Nuxt. production.
+description: "Deployment with Nuxt. production."
 category: frontend
 tags: [nuxt-deployment, frontend, russian]
 models: [sonnet, opus]

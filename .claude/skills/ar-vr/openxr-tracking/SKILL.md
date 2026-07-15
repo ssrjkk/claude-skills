@@ -1,6 +1,6 @@
 ---
 name: openxr-tracking
-description: Tracking with OpenXR. spatial tracking.
+description: "Tracking with OpenXR. spatial tracking."
 category: ar-vr
 tags: [openxr, tracking, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

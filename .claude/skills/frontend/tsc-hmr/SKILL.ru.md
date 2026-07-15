@@ -1,6 +1,6 @@
 ---
 name: tsc-hmr
-description: HMR with TypeScript. hot reload.
+description: "HMR with TypeScript. hot reload."
 category: frontend
 tags: [tsc-hmr, frontend, russian]
 models: [sonnet, opus]

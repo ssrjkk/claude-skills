@@ -1,6 +1,6 @@
 ---
 name: freertos-synchronization
-description: Sync with FreeRTOS. mutexes.
+description: "Sync with FreeRTOS. mutexes."
 category: embedded
 tags: [freertos, synchronization, embedded, rtos]
 models: [gpt-4, claude-3]

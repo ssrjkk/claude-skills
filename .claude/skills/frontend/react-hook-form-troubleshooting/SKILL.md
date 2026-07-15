@@ -1,6 +1,6 @@
 ---
 name: react-hook-form-troubleshooting
-description: Troubleshooting for React-Hook-Form: troubleshooting common issues
+description: "Troubleshooting for React-Hook-Form: troubleshooting common issues"
 category: frontend
 tags: [react-hook-form, troubleshooting, frontend]
 models: [sonnet, opus]

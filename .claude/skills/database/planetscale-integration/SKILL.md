@@ -1,6 +1,6 @@
 ---
 name: planetscale-integration
-description: Integration for Planetscale: integration with other tools
+description: "Integration for Planetscale: integration with other tools"
 category: database
 tags: [planetscale, integration, database]
 models: [sonnet, opus]

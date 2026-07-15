@@ -1,6 +1,6 @@
 ---
 name: arkit-rendering
-description: Rendering with ARKit. stereoscopic.
+description: "Rendering with ARKit. stereoscopic."
 category: ar-vr
 tags: [arkit, rendering, ar-vr, ar-vr]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: google-maps-mapping
-description: Mapping with Google Maps API. mapping.
+description: "Mapping with Google Maps API. mapping."
 category: geospatial
 tags: [google-maps-mapping, geospatial, russian]
 models: [sonnet, opus]

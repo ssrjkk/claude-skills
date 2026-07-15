@@ -1,6 +1,6 @@
 ---
 name: playmaker-quickstart
-description: Quickstart for Playmaker: quick start guide
+description: "Quickstart for Playmaker: quick start guide"
 category: gamedev
 tags: [playmaker, quickstart, gamedev]
 models: [sonnet, opus]

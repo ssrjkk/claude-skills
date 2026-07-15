@@ -1,6 +1,6 @@
 ---
 name: bgp-optimization
-description: Optimization with BGP. tuning.
+description: "Optimization with BGP. tuning."
 category: networking
 tags: [bgp-optimization, networking, russian]
 models: [sonnet, opus]

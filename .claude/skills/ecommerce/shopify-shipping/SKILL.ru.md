@@ -1,6 +1,6 @@
 ---
 name: shopify-shipping
-description: Shipping with Shopify. shipping.
+description: "Shipping with Shopify. shipping."
 category: ecommerce
 tags: [shopify-shipping, ecommerce, russian]
 models: [sonnet, opus]

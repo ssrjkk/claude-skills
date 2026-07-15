@@ -1,6 +1,6 @@
 ---
 name: ubuntu-filesystem
-description: Filesystem with Ubuntu. filesystem.
+description: "Filesystem with Ubuntu. filesystem."
 category: os-admin
 tags: [ubuntu-filesystem, os-admin, russian]
 models: [sonnet, opus]

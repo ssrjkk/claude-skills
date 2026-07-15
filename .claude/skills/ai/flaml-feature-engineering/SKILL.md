@@ -1,6 +1,6 @@
 ---
 name: flaml-feature-engineering
-description: Feature Engineering with Flaml. creating features.
+description: "Feature Engineering with Flaml. creating features."
 category: ai
 tags: [flaml, feature-engineering, ai, ml]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: expo-router-intro
-description: Intro for Expo-Router: introduction
+description: "Intro for Expo-Router: introduction"
 category: mobile
 tags: [expo-router-intro, mobile, russian]
 models: [sonnet, opus]

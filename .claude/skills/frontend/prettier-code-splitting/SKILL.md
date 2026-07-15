@@ -1,6 +1,6 @@
 ---
 name: prettier-code-splitting
-description: Code Splitting with Prettier. lazy loading.
+description: "Code Splitting with Prettier. lazy loading."
 category: frontend
 tags: [prettier, code-splitting, frontend, build-tool]
 models: [gpt-4, claude-3]

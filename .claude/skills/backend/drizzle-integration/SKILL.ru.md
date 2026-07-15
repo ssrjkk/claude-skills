@@ -1,6 +1,6 @@
 ---
 name: drizzle-integration
-description: Integration for Drizzle: integration with other tools
+description: "Integration for Drizzle: integration with other tools"
 category: backend
 tags: [drizzle-integration, backend, russian]
 models: [sonnet, opus]

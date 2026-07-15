@@ -1,6 +1,6 @@
 ---
 name: flutter-desktop-threading
-description: Threading with Flutter Desktop. multithreading.
+description: "Threading with Flutter Desktop. multithreading."
 category: desktop
 tags: [flutter-desktop-threading, desktop, russian]
 models: [sonnet, opus]

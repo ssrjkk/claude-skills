@@ -1,6 +1,6 @@
 ---
 name: docker-compose-images
-description: Images with Docker Compose. building images.
+description: "Images with Docker Compose. building images."
 category: devops
 tags: [docker-compose, images, devops, container]
 models: [gpt-4, claude-3]

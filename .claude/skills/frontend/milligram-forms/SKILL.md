@@ -1,6 +1,6 @@
 ---
 name: milligram-forms
-description: Forms with Milligram. form styling.
+description: "Forms with Milligram. form styling."
 category: frontend
 tags: [milligram, forms, frontend, css]
 models: [gpt-4, claude-3]

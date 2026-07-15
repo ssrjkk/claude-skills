@@ -1,6 +1,6 @@
 ---
 name: icd10-interoperability
-description: Interop with ICD-10. interoperability.
+description: "Interop with ICD-10. interoperability."
 category: healthcare
 tags: [icd10-interoperability, healthcare, russian]
 models: [sonnet, opus]

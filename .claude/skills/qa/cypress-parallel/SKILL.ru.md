@@ -1,6 +1,6 @@
 ---
 name: cypress-parallel
-description: Parallel with Cypress. parallel execution.
+description: "Parallel with Cypress. parallel execution."
 category: qa
 tags: [cypress-parallel, qa, russian]
 models: [sonnet, opus]

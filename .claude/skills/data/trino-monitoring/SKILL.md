@@ -1,6 +1,6 @@
 ---
 name: trino-monitoring
-description: Monitoring with Trino. monitoring.
+description: "Monitoring with Trino. monitoring."
 category: data
 tags: [trino, monitoring, data, data-engineering]
 models: [gpt-4, claude-3]

@@ -1,6 +1,6 @@
 ---
 name: opensearch-scoring
-description: Scoring with OpenSearch. relevance scoring.
+description: "Scoring with OpenSearch. relevance scoring."
 category: database
 tags: [opensearch, scoring, database, search-engine]
 models: [gpt-4, claude-3]

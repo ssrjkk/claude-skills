@@ -1,6 +1,6 @@
 ---
 name: couchdb-setup
-description: Setup with CouchDB. installation.
+description: "Setup with CouchDB. installation."
 category: database
 tags: [couchdb-setup, database, russian]
 models: [sonnet, opus]

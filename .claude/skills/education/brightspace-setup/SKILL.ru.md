@@ -1,6 +1,6 @@
 ---
 name: brightspace-setup
-description: Setup with Brightspace. setup.
+description: "Setup with Brightspace. setup."
 category: education
 tags: [brightspace-setup, education, russian]
 models: [sonnet, opus]

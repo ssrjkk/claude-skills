@@ -1,6 +1,6 @@
 ---
 name: woocommerce-payments
-description: Payments with WooCommerce. payment integration.
+description: "Payments with WooCommerce. payment integration."
 category: ecommerce
 tags: [woocommerce-payments, ecommerce, russian]
 models: [sonnet, opus]

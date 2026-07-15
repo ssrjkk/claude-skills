@@ -1,6 +1,6 @@
 ---
 name: memgraph-automation
-description: Automation for Memgraph: automation and scripting
+description: "Automation for Memgraph: automation and scripting"
 category: database
 tags: [memgraph-automation, database, russian]
 models: [sonnet, opus]

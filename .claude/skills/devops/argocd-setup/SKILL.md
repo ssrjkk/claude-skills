@@ -1,6 +1,6 @@
 ---
 name: argocd-setup
-description: Setup for Argocd: installation and configuration
+description: "Setup for Argocd: installation and configuration"
 category: devops
 tags: [argocd, setup, devops]
 models: [sonnet, opus]

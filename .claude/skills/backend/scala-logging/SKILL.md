@@ -1,6 +1,6 @@
 ---
 name: scala-logging
-description: Logging with Scala. app logging.
+description: "Logging with Scala. app logging."
 category: backend
 tags: [scala, logging, backend, backend]
 models: [gpt-4, claude-3]

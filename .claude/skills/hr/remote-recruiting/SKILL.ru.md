@@ -1,6 +1,6 @@
 ---
 name: remote-recruiting
-description: Recruiting with Remote.com. ATS.
+description: "Recruiting with Remote.com. ATS."
 category: hr
 tags: [remote-recruiting, hr, russian]
 models: [sonnet, opus]

@@ -1,6 +1,6 @@
 ---
 name: responder-testing
-description: Testing with Responder. integration tests.
+description: "Testing with Responder. integration tests."
 category: backend
 tags: [responder-testing, backend, russian]
 models: [sonnet, opus]

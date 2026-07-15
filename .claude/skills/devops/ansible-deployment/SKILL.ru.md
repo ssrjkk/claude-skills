@@ -1,6 +1,6 @@
 ---
 name: ansible-deployment
-description: Deployment for Ansible: deployment and release
+description: "Deployment for Ansible: deployment and release"
 category: devops
 tags: [ansible-deployment, devops, russian]
 models: [sonnet, opus]

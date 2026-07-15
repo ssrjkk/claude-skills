@@ -1,6 +1,6 @@
 ---
 name: poem-templating
-description: Templating with Poem. templates.
+description: "Templating with Poem. templates."
 category: backend
 tags: [poem-templating, backend, russian]
 models: [sonnet, opus]
