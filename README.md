@@ -1,4 +1,4 @@
-<p align="center">
+д<p align="center">
   <img src="https://img.shields.io/github/stars/ssrjkk/claude-skills?style=for-the-badge&color=gold" alt="Stars">
   <img src="https://img.shields.io/badge/skills-10,000+-blue?style=for-the-badge" alt="Skills">
   <img src="https://img.shields.io/badge/languages-EN%20%7C%20RU-green?style=for-the-badge" alt="Languages">
@@ -16,8 +16,6 @@ Keywords: claude skills, claude code, ai skills, prompt engineering, claude temp
 -->
 
 ---
-
-
 
 ## Quick Start
 
