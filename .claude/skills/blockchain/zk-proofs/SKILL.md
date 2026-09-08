@@ -6,6 +6,7 @@ tags: [zk-proofs, circom, snarkjs, cryptography, blockchain]
 models: [sonnet, opus]
 version: 1.0.0
 created: 2026-05-14
+updated: 2026-09-06
 ---
 # Zero-Knowledge Proofs
 
@@ -71,6 +72,42 @@ ZK proofs let you prove statements without revealing inputs. Circom defines arit
 - Blockchain scaling (zk-rollups, validiums)
 - Verifiable computation (outsource computation with proof)
 - Compliance (prove age, KYC, credit score without exposing data)
+
+## Step-by-Step
+1. Author the circuit in Citcom: `circom age-check.circom --r1cs --wasm --sym` compiles to constraints, wasm, and symbols.
+2. Generate the powers-of-tau ceremony artifact: `snarkjs powersoftau new bn128 12 pot12_0000.ptau` then `snarkjs powersoftau prepare phase2`.
+3. Build proving + verification keys: `snarkjs groth16 setup circuit.r1cs pot12_final.ptau circuit.zkey`.
+4. Export the verification key and solidity verifier: `snarkjs zkey export verificationkey` and `snarkjs zkey export solidityverifier`.
+5. Compute a witness offline with `snarkjs wtns calculate` then generate the proof with `groth16 prove` (timed for tester's threshold).
+6. Verify in the dApp: call the on-chain verifier (or `snarkjs groth16 verify`) with public inputs + proof.
+
+## Examples
+```javascript
+// Client-side proof generation for private age check
+import { buildPoseidon } from "circomlibjs";
+import snarkjs from "snarkjs";
+import fs from "fs";
+
+const wc = await snarkjs.wtns.calculate(
+  { age: 25, threshold: 18 },
+  "age-check.wasm",
+  "witness.wtns"
+);
+const { proof, publicSignals } = await snarkjs.groth16.prove(
+  "circuit_final.zkey",
+  "witness.wtns"
+);
+
+const vkey = JSON.parse(fs.readFileSync("verification_key.json", "utf8"));
+const ok = await snarkjs.groth16.verify(vkey, publicSignals, proof);
+console.log("age >= 18 proven:", ok, "public threshold:", publicSignals[0]);
+```
+```bash
+# On-chain: deploy Verifier.sol, then verify with the packed call data
+snarkjs zkey export solidityverifier circuit_final.zkey Verifier.sol
+snarkjs generatecall
+# paste the returned inputs into `verifier.verifyProof(...)`
+```
 
 ## Validation
 1. Circuit compiles with `circom` without errors

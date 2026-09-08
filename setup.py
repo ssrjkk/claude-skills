@@ -1,4 +1,4 @@
-"""Claude Skills Library — 10,000+ battle-tested bilingual skills."""
+"""Claude Skills Library — curated bilingual (EN + RU) skills for Claude Code."""
 
 from pathlib import Path
 
@@ -10,7 +10,7 @@ README = (HERE / "README.md").read_text(encoding="utf-8")
 setup(
     name="claude-skills",
     version="3.0.0",
-    description="Claude Skills Library — 10,000+ bilingual skills across 39 domains",
+    description="Claude Skills Library — curated bilingual skills for Claude Code",
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/ssrjkk/claude-skills",
@@ -36,7 +36,7 @@ setup(
     },
     entry_points={
         "console_scripts": [
-            "claude-skills=claude_skills.cli:main",
+            "claude-skills=claude_skills.cli:cli",
         ],
     },
     classifiers=[

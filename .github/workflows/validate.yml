@@ -45,13 +45,16 @@ jobs:
         run: python -m claude_skills.cli validate --dir .claude/skills
 
       - name: Quality analysis
-        run: python -m claude_skills.cli quality --dir .claude/skills --json docs/api/quality-report.json
+        run: python -m claude_skills.cli quality --dir .claude/skills --json quality-report.json
 
       - name: Generate catalog
-        run: python -m claude_skills.cli catalog -o skills_catalog.json
+        run: python -m claude_skills.cli catalog
 
       - name: Anti-pattern detection
         run: python scripts/detect_anti_patterns.py skills_catalog.json
+
+      - name: Agent-interop compatibility (universal format)
+        run: python scripts/check_agent_interop.py
 
       - name: Run tests with coverage
         run: python -m pytest tests/ -v --tb=short --cov=src/claude_skills --cov-report=term-missing

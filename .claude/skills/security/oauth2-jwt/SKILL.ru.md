@@ -8,30 +8,81 @@ version: "1.0"
 language: ru
 original: oauth2-jwt
 ---
+# OAuth2 & JWT
 
-# Oauth2 Jwt
-
-> Implements OAuth 2.0 authentication and JWT-based authorization with refresh tokens. Use for secure API access.
+> Безопасная аутентификация API с OAuth 2.0 и JSON Web Tokens.
 
 ## Быстрый старт
-Этот навык на русском языке. Оригинал: `oauth2-jwt`.
+```typescript
+import jwt from 'jsonwebtoken';
+import bcrypt from 'bcrypt';
+
+// Логин
+const user = await db.user.findUnique({ where: { email } });
+const valid = await bcrypt.compare(password, user.password);
+if (!valid) throw new Error('Invalid credentials');
+
+// Генерация токенов
+const accessToken = jwt.sign(
+  { userId: user.id, role: user.role },
+  process.env.JWT_SECRET!,
+  { expiresIn: '15m' }
+);
+const refreshToken = jwt.sign(
+  { userId: user.id },
+  process.env.JWT_REFRESH_SECRET!,
+  { expiresIn: '7d' }
+);
+
+// Middleware
+function authMiddleware(req, res, next) {
+  const token = req.headers.authorization?.split(' ')[1];
+  try {
+    const decoded = jwt.verify(token, process.env.JWT_SECRET!);
+    req.user = decoded;
+    next();
+  } catch {
+    res.status(401).json({ error: 'Invalid token' });
+  }
+}
+```
 
 ## Когда использовать
-- Работа с Безопасность
-- Выполнение задач, связанных с Oauth2 Jwt
-- Профессиональное развитие
+- Аутентификация и авторизация API
+- Single sign-on (SSO) c OAuth-провайдерами
+- Не для server-to-server с API-ключами
 
-## Инструкции
-1. Ознакомьтесь с описанием навыка
-2. Изучите английскую версию для полных инструкций
-3. Примените полученные знания на практике
+## Пошаговые инструкции
+1. Установите пакеты: `npm install jsonwebtoken bcrypt`
+2. Настройте модель пользователя с хэшированными паролями
+3. Создайте login-эндпоинт с access + refresh токенами
+4. Добавьте auth middleware на защищённые маршруты
+
+## Зависимости
+```bash
+npm install jsonwebtoken bcrypt
+# Для OAuth-провайдеров: passport, passport-google-oauth20 и др.
+```
+
+## Примеры
+Вход: логин email/password → Выход: `{ accessToken, refreshToken, expiresIn }`
 
 ## Ресурсы
-- Оригинальный навык: `security/oauth2-jwt/SKILL.md`
-- Категория: Безопасность
-- Язык: Русский
+- [JWT.io](https://jwt.io/)
+- [OAuth 2.0 Spec](https://oauth.net/2/)
+- [Examples](./examples/)
+
+## Устранение неполадок
+- **Не совпадает `kid` в JWT** — ротация ключей подписи, а клиент кэшировал
+  старый JWKS. Обновите набор ключей и уважайте `cache-control` на JWKS.
+- **Ревью `exp` после рассинхрона часов** — дайте допуск (~30s) при
+  верификации и сравнивайте с `nbf`/`iat` эмитента, а не с локальным временем.
+- **Audience утекает между приложениями** — токены одного клиента
+  валидируются в другом. Привяжите `aud` на клиента и отклоняйте без него.
+- **Refresh-токен украден из localStorage** — не храните его в браузере.
+  Используйте httpOnly/SameSite-cookie или серверную сессию.
 
 ## Валидация
-- Прочитайте английскую версию для проверки
-- Выполните описанные шаги
-- Убедитесь в правильности результата
+1. Токены подписываются и верифицируются корректно
+2. Истёкшие токены отклоняются
+3. Refresh-токены выдают новые access-токены

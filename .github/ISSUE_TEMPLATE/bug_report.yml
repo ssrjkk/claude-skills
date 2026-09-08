@@ -1,4 +1,4 @@
-name: "🐛 Bug Report"
+name: " Bug Report"
 description: Report a skill content issue or SDK bug
 labels: ["bug"]
 body:

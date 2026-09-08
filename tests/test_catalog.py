@@ -107,6 +107,23 @@ class TestCatalogBuilder:
         assert builder._parse_list("") == []
         assert builder._parse_list("[]") == []
 
+    def test_parse_list_non_string_value(self, builder: CatalogBuilder):
+        assert builder._parse_list(42) == []
+        assert builder._parse_list(None) == []
+
+    def test_unreadable_frontmatter_skipped(self, tmp_path: Path):
+        skills_dir = tmp_path / ".claude" / "skills" / "qa" / "bad-enc"
+        skills_dir.mkdir(parents=True)
+        (skills_dir / "SKILL.md").write_bytes(b"\xff\xfe\x00\xff not valid utf-8")
+        builder = CatalogBuilder(root=tmp_path)
+        skills = builder.scan()
+        assert len(skills) == 0
+
+    def test_missing_directory(self, tmp_path: Path):
+        builder = CatalogBuilder(root=tmp_path)
+        skills = builder.scan()
+        assert skills == []
+
 
 class TestCatalogBuilderDuplicate:
     def test_scan_deduplicates(self, tmp_path: Path):

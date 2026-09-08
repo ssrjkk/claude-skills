@@ -471,9 +471,11 @@ After using a skill successfully:
 
 ### How to Share a Skill
 ```bash
-python scripts/create-skill.py --domain backend --category fastapi
-# Edit the skill file
-python scripts/validate-all.py
+# Create the skill directory and file
+mkdir -p .claude/skills/{domain}/{skill-name}
+# Write SKILL.md (primary) and SKILL.ru.md (translation), then:
+python scripts/check_agent_interop.py   # cross-agent portability
+python -m claude_skills.cli validate --dir .claude/skills
 # Submit PR
 ```
 

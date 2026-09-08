@@ -83,7 +83,7 @@ def audit_skill(skill_path: Path) -> dict:
 
     # 5. Required sections (20 pts)
     sections = ["Quick Start", "When to Use", "Step-by-Step", "Examples", "Validation", "Dependencies"]
-    found_sections = [s for s in sections if s in body or f"🚀 {s}" in body or f"📋 {s}" in body]
+    found_sections = [s for s in sections if s in body or f" {s}" in body or f" {s}" in body]
     score += 20 * len(found_sections) / len(sections)
     if len(found_sections) < 3:
         warnings.append(f"Only {len(found_sections)}/{len(sections)} sections found")

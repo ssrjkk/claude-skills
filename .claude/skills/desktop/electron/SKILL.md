@@ -6,6 +6,7 @@ tags: [electron, desktop, react, native, cross-platform]
 models: [sonnet, opus]
 version: 1.0.0
 created: 2026-05-14
+updated: 2026-09-06
 ---
 # Electron
 
@@ -46,9 +47,9 @@ contextBridge.exposeInMainWorld('electronAPI', {
 ```
 
 ## When to Use
-- ✅ Cross-platform desktop apps (Windows, Mac, Linux)
-- ✅ Apps built with web frameworks (React, Vue, Svelte)
-- ❌ Not for lightweight apps (better Tauri)
+- Cross-platform desktop apps (Windows, Mac, Linux)
+- Apps built with web frameworks (React, Vue, Svelte)
+- Not for lightweight apps (better Tauri)
 
 ## Step-by-Step Instructions
 1. Init: `npm init; npm install electron --save-dev`
@@ -68,6 +69,16 @@ Input: `npm run start` → Output: Native desktop window with web app
 ## Resources
 - [Electron Docs](https://www.electronjs.org/docs)
 - [Examples](./examples/)
+
+## Troubleshooting
+- **App bloat from `node_modules`** — the build packed everything.
+  Use `electron-builder` `files`/`asar` and exclude dev dependencies.
+- **Blank white screen** — renderer crashed. Check DevTools console and
+  verify the preload script has `contextIsolation`-safe IPC wiring.
+- **App not restarting** — main window destroys on close. Prevent `window-all-closed`
+  quit on macOS, or attach the `before-quit` lifecycle hook.
+- **Native modules fail to load** — ABI mismatch after a Node upgrade.
+  Rebuild with `electron-rebuild` and pin the Electron ABI version.
 
 ## Validation
 1. App window opens correctly

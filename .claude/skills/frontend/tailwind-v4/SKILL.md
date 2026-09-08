@@ -6,6 +6,7 @@ tags: [tailwind, css, v4, design, styling]
 models: [sonnet, opus]
 version: 1.0.0
 created: 2026-05-14
+updated: 2026-09-06
 ---
 # Tailwind CSS v4
 
@@ -82,6 +83,45 @@ Tailwind v4 is CSS-first (no tailwind.config.js). New features: `@theme` directi
 - New projects starting with Tailwind v4
 - Upgrading from v3 for smaller config and new features
 - Projects needing container queries or 3D transforms
+
+## Step-by-Step
+1. Install v4: `npm install tailwindcss @tailwindcss/vite` and add the Vite plugin (or the PostCSS equivalent).
+2. Create CSS entry: `@import "tailwindcss";` in your main CSS file — no `tailwind.config.js` needed.
+3. Theme via `@theme`: define design tokens (colors, fonts, breakpoints, animations) as CSS custom properties.
+4. Use v4 utilities: container queries (`@container`, `@min-*`/`@max-*`), 3D transforms, `text-balance`, `field-sizing`.
+5. Compose with `@apply` inside modern CSS (`@layer`, nesting) and reference `@theme` tokens.
+6. Build and verify: run the dev server, then compare production CSS size vs a v3 baseline; no v3 migration warnings.
+
+## Examples
+```css
+/* app.css — custom variant + data attribute styling */
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #6c5ce7;
+  --font-display: "Inter", sans-serif;
+}
+
+@custom-variant data-active (&[data-active="true"]);
+
+.card[data-active="true"] {
+  @apply border-brand text-brand bg-brand/10;
+}
+```
+```html
+<!-- v4 responsive + container query combo -->
+<div class="@container">
+  <div class="
+    grid grid-cols-1
+    @min-lg:grid-cols-3
+    max-md:flex-col
+    space-y-4
+  ">
+    <section class="text-balance shadow-inner-sm">Card A</section>
+    <section class="bg-linear-to-r from-violet-500 to-fuchsia-500">Card B</section>
+  </div>
+</div>
+```
 
 ## Validation
 1. `@theme` custom properties are available in all utility classes

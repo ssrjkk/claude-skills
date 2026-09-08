@@ -33,12 +33,16 @@ def build_index_html(catalog_path: Path, output_dir: Path) -> str:
         '  <div class="container">',
         '    <header>',
         '      <h1>Claude Skills Library</h1>',
-        f'      <p class="subtitle">{meta["total_skills"]} skills across {len(meta["domains"])} domains · '
-        f'{meta["total_ru"]} Russian translations</p>',
+        (
+            f'      <p class="subtitle">{meta["total_skills"]} skills across {len(meta["domains"])} domains · '
+            f'{meta["total_ru"]} Russian translations</p>'
+        ),
         "    </header>",
         '    <div class="search-bar">',
-        '      <input type="text" id="search" placeholder="Search skills by name, domain, or tag..." '
-        'oninput="filterSkills(this.value)">',
+        (
+            '      <input type="text" id="search" placeholder="Search skills by name, domain, or tag..." '
+            'oninput="filterSkills(this.value)">'
+        ),
         "    </div>",
         '    <section id="stats">',
         "      <div class=stats-grid>",
@@ -58,14 +62,16 @@ def build_index_html(catalog_path: Path, output_dir: Path) -> str:
         ru = sum(1 for s in domain_skills if s.get("has_ru"))
         lines.extend([
             f'        <div class="domain" data-domain="{domain}">',
-            f'          <button class="domain-header" onclick="toggleDomain(this)">'
-            f'            <strong>{domain}</strong>'
-            f'            <span class="domain-meta">{len(domain_skills)} skills, {ru} RU</span>'
-            f"          </button>",
+            (
+                f'          <button class="domain-header" onclick="toggleDomain(this)">'
+                f'            <strong>{domain}</strong>'
+                f'            <span class="domain-meta">{len(domain_skills)} skills, {ru} RU</span>'
+                f"          </button>"
+            ),
             '          <ul class="skill-list" style="display:none">',
         ])
         for s in sorted(domain_skills, key=lambda x: x["name"]):
-            flags = " 🇷🇺" if s.get("has_ru") else ""
+            flags = " " if s.get("has_ru") else ""
             tags = ", ".join(s.get("tags", [])[:3])
             esc_name = s["name"].replace("'", "\\'")
             lines.append(
@@ -85,10 +91,14 @@ def build_index_html(catalog_path: Path, output_dir: Path) -> str:
         "      </div>",
         "    </section>",
         "    <footer>",
-        f"      <p>Generated on {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')} · "
-        f'{skill_count} total skills</p>',
-        '      <p><a href="https://github.com/ssrjkk/claude-skills">GitHub</a> · '
-        '<a href="https://github.com/ssrjkk/claude-skills/issues">Report Issue</a></p>',
+        (
+            f"      <p>Generated on {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')} · "
+            f'{skill_count} total skills</p>'
+        ),
+        (
+            '      <p><a href="https://github.com/ssrjkk/claude-skills">GitHub</a> · '
+            '<a href="https://github.com/ssrjkk/claude-skills/issues">Report Issue</a></p>'
+        ),
         "    </footer>",
         "  </div>",
         "  <script>",
@@ -118,7 +128,7 @@ def build_index_html(catalog_path: Path, output_dir: Path) -> str:
         "  function copySkill(name) {",
         "    var path = '.claude/skills/' + name;",
         "    navigator.clipboard.writeText(path);",
-        "    alert('📋 Copied: ' + path);",
+        "    alert(' Copied: ' + path);",
         "  }",
         "  </script>",
         "</body>",

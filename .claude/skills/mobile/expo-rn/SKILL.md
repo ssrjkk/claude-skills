@@ -6,6 +6,7 @@ tags: [expo, react-native, mobile, ios, android, cross-platform]
 models: [sonnet, opus]
 version: 1.0.0
 created: 2026-05-14
+updated: 2026-09-06
 ---
 # Expo SDK
 
@@ -82,6 +83,41 @@ Expo provides a managed workflow with built-in APIs (camera, location, SQLite, n
 - Apps needing native features (camera, GPS, biometrics)
 - MVPs requiring fast iteration with OTA updates
 - Teams wanting to avoid native build tooling setup
+
+## Step-by-Step
+1. Scaffold: `npx create-expo-app my-app --template blank-typescript`, then `cd my-app && npx expo start`.
+2. Add routing: install `expo-router` and use file-based routes under `app/` (or run with the default router template).
+3. Configure native APIs: run `npx expo install expo-camera expo-location expo-sqlite` and add the plugin config in `app.json`.
+4. Develop on device: open in Expo Go or run `npx expo run:ios`/`run:android` for a native dev build.
+5. Store data locally: use `expo-sqlite` (SQL via `db.getAllAsync`) or AsyncStorage for key-value state.
+6. Ship: `eas build --platform all`, then `eas submit`; iterate with `npx expo update` (OTA).
+
+## Examples
+```tsx
+// app/todo/[id].tsx — dynamic route with local SQLite
+import { useLocalSearchParams } from 'expo-router';
+import { useSQLiteContext } from 'expo-sqlite';
+import { View, Text } from 'react-native';
+
+export default function TodoDetail() {
+  const { id } = useLocalSearchParams<{ id: string }>();
+  const db = useSQLiteContext();
+  const todo = db.getFirstSync('SELECT * FROM todos WHERE id = ?', [id]);
+
+  return (
+    <View className="p-4">
+      <Text className="text-xl">{todo?.title}</Text>
+      <Text>{todo?.completed ? 'Done' : 'Pending'}</Text>
+    </View>
+  );
+}
+```
+```bash
+# Native build & OTA
+npx expo prebuild
+eas build --platform android --profile preview
+npx expo update
+```
 
 ## Validation
 1. `npx expo start` launches Metro bundler successfully

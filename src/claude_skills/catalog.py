@@ -5,19 +5,17 @@ import os
 import re
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Optional
 
-import yaml  # type: ignore[import-untyped]
-
-from claude_skills.models import Catalog, CatalogMetadata, Skill
+from claude_skills.models import Catalog, CatalogMetadata, Skill, parse_frontmatter
 
 
 class CatalogBuilder:
     BASE = ".claude/skills"
 
-    def __init__(self, root: Optional[Path] = None):
+    def __init__(self, root: Path | None = None, base: str | None = None):
         self.root = Path(root or os.getcwd())
-        self.skills_dir = self.root / self.BASE
+        self.base = base or self.BASE
+        self.skills_dir = self.root / self.base
 
     def scan(self) -> list[Skill]:
         skills: list[Skill] = []
@@ -55,7 +53,7 @@ class CatalogBuilder:
 
     def build_catalog(self) -> Catalog:
         skills = self.scan()
-        domains = sorted(set(s.category for s in skills))
+        domains = sorted({s.category for s in skills})
         now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
         metadata = CatalogMetadata(
@@ -68,7 +66,7 @@ class CatalogBuilder:
         )
         return Catalog(metadata=metadata, skills=skills)
 
-    def to_json(self, catalog: Catalog, path: Optional[Path] = None) -> str:
+    def to_json(self, catalog: Catalog, path: Path | None = None) -> str:
         data = {
             "metadata": {
                 "schema_version": catalog.metadata.schema_version,
@@ -100,20 +98,16 @@ class CatalogBuilder:
             path.write_text(text, encoding="utf-8")
         return text
 
-    def _parse_frontmatter(self, filepath: Path) -> Optional[dict]:
+    def _parse_frontmatter(self, filepath: Path) -> dict | None:
         try:
             content = filepath.read_text(encoding="utf-8")
-            if not content.startswith("---"):
-                return None
-            end = content.find("---", 3)
-            if end < 0:
-                return None
-            front = content[3:end].strip()
-            return yaml.safe_load(front) or {}
-        except (yaml.YAMLError, OSError, UnicodeDecodeError):
+            frontmatter, _, ok = parse_frontmatter(content)
+            return frontmatter if ok else None
+        except (OSError, UnicodeDecodeError):
             return None
 
-    def _parse_list(self, value) -> list[str]:
+    @staticmethod
+    def _parse_list(value) -> list[str]:
         if isinstance(value, list):
             return [str(v).strip() for v in value if v]
         if isinstance(value, str):
@@ -135,21 +129,14 @@ class CatalogBuilder:
             domains=meta.get("domains", []),
             bilingual=meta.get("bilingual", True),
         )
-        def _ensure_list(val):
-            if isinstance(val, list):
-                return val
-            if isinstance(val, str):
-                cleaned = val.strip().strip("[]").strip()
-                return [v.strip().strip("\"'") for v in re.split(r"[\s,]+", cleaned) if v.strip()] if cleaned else []
-            return []
 
         skills = [
             Skill(
                 name=s["name"],
                 description=s.get("description", ""),
                 category=s.get("category", ""),
-                tags=_ensure_list(s.get("tags", [])),
-                models=_ensure_list(s.get("models", [])),
+                tags=CatalogBuilder._parse_list(s.get("tags", [])),
+                models=CatalogBuilder._parse_list(s.get("models", [])),
                 version=str(s.get("version", "1.0.0")),
                 path=Path(s.get("path", "")),
                 languages=s.get("languages", ["en"]),

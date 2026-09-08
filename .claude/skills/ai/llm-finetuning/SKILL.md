@@ -6,6 +6,7 @@ tags: [finetuning, lora, llama, mistral, unsloth, llm]
 models: [opus]
 version: 1.0.0
 created: 2026-05-14
+updated: 2026-09-06
 ---
 # LLM Fine-Tuning
 
@@ -45,9 +46,9 @@ trainer.train()
 ```
 
 ## When to Use
-- ✅ Domain-specific model adaptation
-- ✅ Task-specific fine-tuning (chat, code, classification)
-- ❌ Not for simple prompt engineering tasks
+- Domain-specific model adaptation
+- Task-specific fine-tuning (chat, code, classification)
+- Not for simple prompt engineering tasks
 
 ## Step-by-Step Instructions
 1. Choose base model (Llama 3, Mistral, Qwen)
@@ -67,6 +68,16 @@ Input: Training dataset of 1000 examples → Output: Fine-tuned LoRA adapter (50
 - [Unsloth](https://github.com/unslothai/unsloth)
 - [HuggingFace SFT](https://huggingface.co/docs/trl/sft_trainer)
 - [Examples](./examples/)
+
+## Troubleshooting
+- **Loss plateaus early** — the learning rate is too high. Cut it by 10×
+  and lower batch size so validation loss keeps dropping.
+- **Catastrophic forgetting** — mix 5–10% of the original dataset into
+  each epoch, or freeze the first third of the network with LoRA.
+- **OOM during training** — use gradient accumulation, `gradient_checkpointing`
+  (training-time), and 4-bit QLoRA quantization for consumer GPUs.
+- **Model regurgitates training data** — you overfit. Raise dropout,
+  shrink epochs, and add a validation split with early stopping.
 
 ## Validation
 1. Training loss decreases consistently

@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import datetime
 from pathlib import Path
 
 import pytest
@@ -26,14 +27,8 @@ class TestQualityAnalyzer:
         return sf
 
     def test_complete_skill_score(self, analyzer: QualityAnalyzer):
-        body = "\n\n".join([
-            "## 🚀 Quick Start\nContent",
-            "## 📋 When to Use\nContent",
-            "## 🔧 Step-by-Step\nContent",
-            "## 🧪 Examples\nContent",
-            "## ✅ Validation\nContent",
-        ])
-        sf = self._make_skill_file(body=body, created="2026-06-01", ru_body="\n\n".join(["## Быстрый старт\n", "## Когда использовать\n"]))
+        body = "## Quick Start\nContent\n## When to Use\nContent\n## Step-by-Step\nContent\n## Examples\nContent\n## Validation\nContent"
+        sf = self._make_skill_file(body=body, created="2026-06-01", ru_body="## Быстрый старт\n\n## Когда использовать\n")
         score = analyzer.analyze(sf)
         assert score.completeness > 80
         assert score.depth > 0
@@ -62,16 +57,51 @@ class TestQualityAnalyzer:
         assert analyzer._score_code_quality(sf) >= 70
 
     def test_freshness_recent(self, analyzer: QualityAnalyzer):
-        sf = self._make_skill_file(body="Content", created="2026-06-30")
-        assert analyzer._score_freshness(sf) >= 80
+        recent = datetime.datetime.now(tz=datetime.timezone.utc).date() - datetime.timedelta(days=10)
+        sf = self._make_skill_file(body="Content", created=recent.isoformat())
+        assert analyzer._score_freshness(sf) == 100.0
 
     def test_freshness_old(self, analyzer: QualityAnalyzer):
-        sf = self._make_skill_file(body="Content", created="2025-01-01")
+        old = datetime.datetime.now(tz=datetime.timezone.utc).date() - datetime.timedelta(days=400)
+        sf = self._make_skill_file(body="Content", created=old.isoformat())
         assert analyzer._score_freshness(sf) < 80
 
     def test_freshness_no_date(self, analyzer: QualityAnalyzer):
         sf = self._make_skill_file(body="Content")
         assert analyzer._score_freshness(sf) == 30.0
+
+    def test_freshness_pyaml_date_object_regression(self, analyzer: QualityAnalyzer):
+        from datetime import date
+
+        sf = self._make_skill_file(body="Content")
+        today = datetime.datetime.now(tz=datetime.timezone.utc).date()
+        sf.en_frontmatter = {"created": date(today.year, today.month, today.day)}
+        assert analyzer._score_freshness(sf) == 100.0
+
+    def test_freshness_updated_overrides_created(self, analyzer: QualityAnalyzer):
+        sf = self._make_skill_file(body="Content")
+        today = datetime.datetime.now(tz=datetime.timezone.utc).date()
+        sf.en_frontmatter = {"created": "2025-01-01", "updated": today.isoformat()}
+        assert analyzer._score_freshness(sf) >= 80
+
+    def test_freshness_iso_with_z_suffix(self, analyzer: QualityAnalyzer):
+        sf = self._make_skill_file(body="Content")
+        today = datetime.datetime.now(tz=datetime.timezone.utc).date()
+        iso = f"{today.isoformat()}T12:00:00Z"
+        sf.en_frontmatter = {"updated": iso}
+        assert analyzer._score_freshness(sf) == 100.0
+
+    def test_freshness_datetime_object(self, analyzer: QualityAnalyzer):
+        sf = self._make_skill_file(body="Content")
+        today = datetime.datetime.now(tz=datetime.timezone.utc)
+        sf.en_frontmatter = {"updated": today}
+        assert analyzer._score_freshness(sf) == 100.0
+
+    def test_freshness_created_fallback_two_digit_days(self, analyzer: QualityAnalyzer):
+        sf = self._make_skill_file(body="Content")
+        old = datetime.datetime.now(tz=datetime.timezone.utc).date() - datetime.timedelta(days=45)
+        sf.en_frontmatter = {"created": old.isoformat()}
+        assert analyzer._score_freshness(sf) == 80.0
 
     def test_bilingual_no_ru(self, analyzer: QualityAnalyzer):
         sf = self._make_skill_file(body="Content")
@@ -80,6 +110,47 @@ class TestQualityAnalyzer:
     def test_bilingual_with_ru(self, analyzer: QualityAnalyzer):
         sf = self._make_skill_file(body="EN content\n## Quick Start\nMore", ru_body="RU content\n## Быстрый старт\nMore")
         assert analyzer._score_bilingual(sf) > 0
+
+    def test_bilingual_ru_path_but_empty_body(self, analyzer: QualityAnalyzer):
+        sf = self._make_skill_file(body="## Quick Start\nContent", ru_body="")
+        sf.ru_path = Path("test/SKILL.ru.md")
+        sf.ru_content = ""
+        assert analyzer._score_bilingual(sf) == 10.0
+
+    def test_bilingual_ru_content_without_body(self, analyzer: QualityAnalyzer):
+        sf = self._make_skill_file(body="## Quick Start\nContent")
+        sf.ru_path = Path("test/SKILL.ru.md")
+        sf.ru_content = "### body never extracted"
+        sf.ru_body = ""
+        assert analyzer._score_bilingual(sf) == 10.0
+
+    def test_depth_sub_10_lines(self, analyzer: QualityAnalyzer):
+        sf = self._make_skill_file(body="a\nb\nc\nd\ne")
+        assert analyzer._score_depth(sf) == 25.0
+
+    def test_depth_linear_range(self, analyzer: QualityAnalyzer):
+        body = "\n".join(f"Line {i}" for i in range(30))
+        sf = self._make_skill_file(body=body)
+        score = analyzer._score_depth(sf)
+        assert 10 < score < 100
+
+    def test_code_quality_two_fences(self, analyzer: QualityAnalyzer):
+        sf = self._make_skill_file(body="a\n```python\nx\n```\nb\n")
+        assert analyzer._score_code_quality(sf) == 70.0
+
+    def test_code_quality_inline_code(self, analyzer: QualityAnalyzer):
+        sf = self._make_skill_file(body="Use `foo()` and `bar()` plus `baz()` and `qux()` with `last()`.\n")
+        assert analyzer._score_code_quality(sf) == 50.0
+
+    def test_freshness_greater_than_180_days(self, analyzer: QualityAnalyzer):
+        old = datetime.datetime.now(tz=datetime.timezone.utc).date() - datetime.timedelta(days=400)
+        sf = self._make_skill_file(body="Content", created=old.isoformat())
+        score = analyzer._score_freshness(sf)
+        assert 10.0 <= score < 60.0
+
+    def test_freshness_invalid_value(self, analyzer: QualityAnalyzer):
+        sf = self._make_skill_file(body="Content", created="not-a-date")
+        assert analyzer._score_freshness(sf) == 30.0
 
     def test_completeness_sections(self, analyzer: QualityAnalyzer):
         sf = self._make_skill_file(body="## Quick Start\nContent\n## Validation\nContent")

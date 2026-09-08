@@ -2,16 +2,14 @@ from __future__ import annotations
 
 import re
 from pathlib import Path
-from typing import Optional
+from typing import ClassVar
 
-import yaml  # type: ignore[import-untyped]
-
-from claude_skills.models import Severity, ValidationResult
+from claude_skills.models import Severity, ValidationResult, parse_frontmatter
 
 
 class SkillValidator:
-    REQUIRED_FIELDS = {"name", "description", "category", "tags", "models", "version"}
-    VALID_CATEGORIES = {
+    REQUIRED_FIELDS: ClassVar[set[str]] = {"name", "description", "category", "tags", "models", "version"}
+    VALID_CATEGORIES: ClassVar[set[str]] = {
         "ai", "ar-vr", "backend", "block", "blockchain", "ci-cd-setup", "cloud",
         "communications", "data", "database", "database-migration", "design", "desktop",
         "devops", "ecommerce", "education", "embedded", "energy", "engineering",
@@ -20,8 +18,8 @@ class SkillValidator:
         "scientific", "security", "supply-chain", "sustainability", "test-reporting",
         "api-testing",
     }
-    PLACEHOLDER_NAMES = re.compile(r"^(skill-\d+|.*-skill-\d+)$")
-    BAD_PATTERNS = re.compile(r"\b(TODO|FIXME|HACK|XXX|UNDONE)\b")
+    PLACEHOLDER_NAMES: ClassVar[re.Pattern] = re.compile(r"^(skill-\d+|.*-skill-\d+)$")
+    BAD_PATTERNS: ClassVar[re.Pattern] = re.compile(r"\b(TODO|FIXME|HACK|XXX|UNDONE)\b")
 
     def validate_skill_file(self, filepath: Path) -> list[ValidationResult]:
         results: list[ValidationResult] = []
@@ -36,7 +34,7 @@ class SkillValidator:
             results.append(ValidationResult(str(filepath), Severity.ERROR, "E010", "Missing opening frontmatter ---"))
             return results
 
-        frontmatter, body, parse_ok = self._parse_frontmatter(content)
+        frontmatter, body, parse_ok = parse_frontmatter(content)
         if not parse_ok:
             results.append(ValidationResult(str(filepath), Severity.ERROR, "E011", "Malformed frontmatter"))
             return results
@@ -107,18 +105,6 @@ class SkillValidator:
 
         return results
 
-    def _parse_frontmatter(self, content: str) -> tuple[Optional[dict], str, bool]:
-        try:
-            end = content.find("---", 3)
-            if end < 0:
-                return None, "", False
-            front = content[3:end].strip()
-            body = content[end + 3 :].strip()
-            parsed = yaml.safe_load(front)
-            return (parsed, body, True) if isinstance(parsed, dict) else (None, body, False)
-        except yaml.YAMLError:
-            return None, "", False
-
     def _find_duplicates(self, items: list) -> list:
         seen = {}
         dupes = []
@@ -154,7 +140,7 @@ class ValidationPipeline:
         stats = {"total": len(results), "errors": 0, "warnings": 0, "info": 0}
         all_errors: list[str] = []
         all_warnings: list[str] = []
-        for skill_name, skill_results in results.items():
+        for skill_results in results.values():
             for r in skill_results:
                 if r.severity == Severity.ERROR:
                     stats["errors"] += 1

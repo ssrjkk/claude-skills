@@ -8,30 +8,81 @@ version: "1.0"
 language: ru
 original: aws-lambda
 ---
+# AWS Lambda
 
-# Aws Lambda
-
-> Builds and deploys serverless functions with AWS Lambda, API Gateway, and SAM/CDK. Use for event-driven architectures.
+> Серверные функции на AWS Lambda, API Gateway и событийные триггеры.
 
 ## Быстрый старт
-Этот навык на русском языке. Оригинал: `aws-lambda`.
+```typescript
+import { Handler, APIGatewayProxyEvent, APIGatewayProxyResult } from 'aws-lambda';
+
+export const handler: Handler = async (event: APIGatewayProxyEvent): Promise<APIGatewayProxyResult> => {
+  return {
+    statusCode: 200,
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      message: 'Hello from Lambda!',
+      path: event.path,
+      method: event.httpMethod,
+    }),
+  };
+};
+```
+
+```yaml
+# template.yaml (SAM)
+AWSTemplateFormatVersion: '2010-09-09'
+Resources:
+  HelloFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: src/
+      Handler: index.handler
+      Runtime: nodejs20.x
+      Events:
+        Api:
+          Type: Api
+          Properties:
+            Path: /hello
+            Method: GET
+```
 
 ## Когда использовать
-- Работа с DevOps
-- Выполнение задач, связанных с Aws Lambda
-- Профессиональное развитие
+- Событийно-ориентированные serverless API
+- Фоновая обработка (ресайз изображений, отправка email)
+- Не для длительных процессов (> 15 минут)
 
-## Инструкции
-1. Ознакомьтесь с описанием навыка
-2. Изучите английскую версию для полных инструкций
-3. Примените полученные знания на практике
+## Пошаговые инструкции
+1. Установите AWS SAM CLI
+2. Создайте SAM-шаблон с Lambda-функциями
+3. Напишите Handler-код
+4. Деплой: `sam deploy --guided`
+
+## Зависимости
+```bash
+# Установка AWS SAM CLI
+# https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/install-sam-cli.html
+npm install aws-lambda @types/aws-lambda
+```
+
+## Примеры
+Вход: GET /hello → Выход: `{ "message": "Hello from Lambda!" }`
 
 ## Ресурсы
-- Оригинальный навык: `devops/aws-lambda/SKILL.md`
-- Категория: DevOps
-- Язык: Русский
+- [AWS Lambda Docs](https://docs.aws.amazon.com/lambda/)
+- [Examples](./examples/)
+
+## Устранение неполадок
+- **Всплески cold start** — не раздувайте зависимости, включите provisioned
+  concurrency для горячих путей и выбирайте лёгкие рантаймы (Node/Go).
+- **Таймауты на 6s в VPC** — дефолтное время Lambda слишком мало.
+  Увеличьте таймаут и проверьте маршруты NAT-шлюза в приватные подсети.
+- **SDK отвечает Permission denied** — у execution role нет политик.
+  Выдайте least-privilege IAM-политику и повторите запрос без них.
+- **`/tmp` переполняется** — 512MB общего хранилища между вызовами.
+  Очищайте его в finally-блоке или храните там только мелкие файлы.
 
 ## Валидация
-- Прочитайте английскую версию для проверки
-- Выполните описанные шаги
-- Убедитесь в правильности результата
+1. Функция успешно деплоится
+2. Endpoint API Gateway отвечает
+3. CloudWatch логи показывают выполнение

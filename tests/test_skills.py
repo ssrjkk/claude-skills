@@ -1,7 +1,7 @@
 """Tests for Claude Skills Library."""
 
-import json
 import glob
+import json
 from pathlib import Path
 
 ROOT = Path(__file__).parent.parent

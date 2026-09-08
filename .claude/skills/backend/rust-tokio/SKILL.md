@@ -6,6 +6,7 @@ tags: [rust, tokio, async, concurrency, runtime]
 models: [sonnet, opus]
 version: 1.0.0
 created: 2026-05-14
+updated: 2026-09-06
 ---
 # Rust Tokio
 
@@ -107,6 +108,104 @@ Tokio is an async runtime for Rust providing I/O, timers, synchronization primit
 - Real-time systems (chat, gaming, streaming)
 - Concurrent data processing pipelines
 - Microservices requiring maximum performance
+
+## Step-by-Step
+1. Add Tokio: `cargo add tokio --features full` and set an async `main` with `#[tokio::main]`.
+2. Pick the I/O primitive: `TcpListener`/`TcpStream` for sockets, `UnixListener` for local pipes, `tokio::fs` for async file access.
+3. Handle each connection by `tokio::spawn` — never block tokio worker threads with synchronous work.
+4. Share state via `tokio::sync::Mutex`/`RwLock` (or actor channels) cloned into tasks.
+5. Add concurrency: use `tokio::join!`/`try_join!` for parallel awaits and `tokio::time::timeout` for deadlines.
+6. Tune the runtime: set worker threads and run tests with `cargo test` under `--cfg tokio_unstable` if multi-thread stats are needed.
+
+## Examples
+```rust
+// Fan-out to N concurrent tasks and aggregate results
+use tokio::time::{sleep, Duration};
+
+#[tokio::main]
+async fn main() -> Result<(), Box<dyn std::error::Error>> {
+    let handles: Vec<_> = (0..5)
+        .map(|i| tokio::spawn(async move {
+            sleep(Duration::from_millis(100 * i)).await;
+            i * i
+        }))
+        .collect();
+
+    let mut total = 0;
+    for h in handles {
+        total += h.await?;
+    }
+    println!("sum of squares = {total}");
+    Ok(())
+}
+```
+```rust
+// Graceful shutdown with CancellationToken
+use tokio_util::sync::CancellationToken;
+
+#[tokio::main]
+async fn main() {
+    let token = CancellationToken::new();
+    let child = token.clone();
+    tokio::spawn(async move {
+        tokio::select! {
+            _ = child.cancelled() => println!("task cancelled"),
+            _ = tokio::time::sleep(Duration::from_secs(60)) => println!("task done"),
+        }
+    });
+    tokio::time::sleep(Duration::from_millis(50)).await;
+    token.cancel();
+    tokio::time::sleep(Duration::from_millis(50)).await;
+}
+```
+
+1. Add Tokio: `cargo add tokio --features full` and set an async `main` with `#[tokio::main]`.
+2. Pick the I/O primitive: `TcpListener`/`TcpStream` for sockets, `UnixListener` for local pipes, `tokio::fs` for async file access.
+3. Handle each connection by `tokio::spawn` — never block tokio worker threads with synchronous work.
+4. Share state via `tokio::sync::Mutex`/`RwLock` (or actor channels) cloned into tasks.
+5. Add concurrency: use `tokio::join!`/`try_join!` for parallel awaits and `tokio::time::timeout` for deadlines.
+6. Tune the runtime: set worker threads and run tests with `cargo test` under `--cfg tokio_unstable` if multi-thread stats are needed.
+
+```rust
+// Fan-out to N concurrent tasks and aggregate results
+use tokio::time::{sleep, Duration};
+
+#[tokio::main]
+async fn main() -> Result<(), Box<dyn std::error::Error>> {
+    let handles: Vec<_> = (0..5)
+        .map(|i| tokio::spawn(async move {
+            sleep(Duration::from_millis(100 * i)).await;
+            i * i
+        }))
+        .collect();
+
+    let mut total = 0;
+    for h in handles {
+        total += h.await?;
+    }
+    println!("sum of squares = {total}");
+    Ok(())
+}
+```
+```rust
+// Graceful shutdown with CancellationToken
+use tokio_util::sync::CancellationToken;
+
+#[tokio::main]
+async fn main() {
+    let token = CancellationToken::new();
+    let child = token.clone();
+    tokio::spawn(async move {
+        tokio::select! {
+            _ = child.cancelled() => println!("task cancelled"),
+            _ = tokio::time::sleep(Duration::from_secs(60)) => println!("task done"),
+        }
+    });
+    tokio::time::sleep(Duration::from_millis(50)).await;
+    token.cancel();
+    tokio::time::sleep(Duration::from_millis(50)).await;
+}
+```
 
 ## Validation
 1. `cargo run` starts server without panics

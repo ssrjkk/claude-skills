@@ -6,6 +6,7 @@ tags: [nestjs, nodejs, typescript, api, decorators]
 models: [sonnet, opus]
 version: 1.0.0
 created: 2026-05-14
+updated: 2026-09-06
 ---
 # NestJS
 
@@ -54,6 +55,38 @@ export class UsersService {
 2. Generate: `nest g module users`, `nest g controller users`, `nest g service users`
 3. Define entities and DTOs
 4. Run: `npm run start:dev`
+
+## Examples
+```typescript
+// Full module wired with DI: controller + provider + repository
+import { Module } from '@nestjs/common';
+import { TypeOrmModule } from '@nestjs/typeorm';
+import { UsersController } from './users.controller';
+import { UsersService } from './users.service';
+import { User } from './user.entity';
+
+@Module({
+  imports: [TypeOrmModule.forFeature([User])],
+  controllers: [UsersController],
+  providers: [UsersService],
+  exports: [UsersService],
+})
+export class UsersModule {}
+
+// Validation DTO with class-validator
+import { IsEmail, IsString, MinLength } from 'class-validator';
+
+export class CreateUserDto {
+  @IsEmail() email!: string;
+  @IsString() @MinLength(2) name!: string;
+}
+```
+```bash
+# Generate a module with CRUD scaffold, then hit the endpoint
+nest g resource users --no-spec
+curl http://localhost:3000/users
+curl -X POST http://localhost:3000/users -H "content-type: application/json" -d '{"email":"a@b.c","name":"Alice"}'
+```
 
 ## Validation
 1. Server starts on port 3000

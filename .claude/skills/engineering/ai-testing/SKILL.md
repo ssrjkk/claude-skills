@@ -6,6 +6,7 @@ tags: [testing, ai, test-generation, quality, automation]
 models: [sonnet, opus]
 version: 1.0.0
 created: 2026-05-14
+updated: 2026-09-06
 ---
 # AI Testing
 
@@ -99,6 +100,32 @@ AI generates tests faster but needs validation. Combine AI generation with tradi
 - Rapid prototyping where manual test writing is slow
 - Generating test data and fixtures
 - CI pipeline to suggest tests for new code
+
+## Step-by-Step
+1. Parse the target module: walk the AST to list public functions, classes, and their signatures.
+2. Build a prompt: instruct the model to generate pytest with fixtures, edge cases, and mocked external deps.
+3. Generate and save: write the AI-produced tests into `tests/` (name like `test_<module>.py`).
+4. Run coverage: `pytest tests/ --cov=src --cov-report=term-missing` to see gaps.
+5. Validate quality: ask the model to score coverage/isolation/maintainability and list missing cases; fix hallucinations by re-running tests.
+6. Automate in CI: regenerate tests when coverage drops > 5%; add adversarial cases (property-based) for numeric/logic functions.
+
+## Examples
+```python
+# Regenerate tests automatically after a source change
+import subprocess, pathlib
+
+def regenerate_for(source: str) -> None:
+    tests = generate_tests(source)          # from Quick Start
+    out = pathlib.Path("tests") / f"test_{pathlib.Path(source).stem}.py"
+    out.write_text(tests)
+    subprocess.run(["pytest", str(out), "--cov=src", "--cov-report=term-missing"], check=False)
+```
+```bash
+# Enforce quality gate in CI
+pytest tests/ --cov=src --cov-fail-under=80 --cov-report=term-missing
+# Mutation testing spot-check
+pip install mutmut && mutmut run --paths-to-mutate src/
+```
 
 ## Validation
 1. AI-generated tests pass when run against the source

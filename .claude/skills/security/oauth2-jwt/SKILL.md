@@ -6,6 +6,7 @@ tags: [oauth2, jwt, auth, security, authentication]
 models: [sonnet, opus]
 version: 1.0.0
 created: 2026-05-14
+updated: 2026-09-06
 ---
 # OAuth2 & JWT
 
@@ -47,9 +48,9 @@ function authMiddleware(req, res, next) {
 ```
 
 ## When to Use
-- ✅ API authentication and authorization
-- ✅ Single sign-on (SSO) with OAuth providers
-- ❌ Not for server-to-server with API keys
+- API authentication and authorization
+- Single sign-on (SSO) with OAuth providers
+- Not for server-to-server with API keys
 
 ## Step-by-Step Instructions
 1. Install packages: `npm install jsonwebtoken bcrypt`
@@ -70,6 +71,16 @@ Input: Login with email/password → Output: `{ accessToken, refreshToken, expir
 - [JWT.io](https://jwt.io/)
 - [OAuth 2.0 Spec](https://oauth.net/2/)
 - [Examples](./examples/)
+
+## Troubleshooting
+- **JWT `kid` mismatch** — the signing key rotated but the client cached
+  the old JWKS. Refresh the key set and honor `cache-control` on the JWKS.
+- **`exp` claims rejected after a clock skew** — allow leeway (~30s) on
+  verification and compare with the issuer's `nbf`/`iat`, not wall time.
+- **Audience leaks cross-app** — tokens minted for one audience validate
+  elsewhere. Pin `aud` per client and reject tokens without an `aud` claim.
+- **Refresh tokens stolen in localStorage** — never store them in the
+  browser. Use httpOnly, SameSite cookies or a backend session.
 
 ## Validation
 1. Tokens sign and verify correctly

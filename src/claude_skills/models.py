@@ -4,7 +4,8 @@ import re
 from dataclasses import dataclass, field
 from enum import Enum
 from pathlib import Path
-from typing import Optional
+
+import yaml  # type: ignore[import-untyped]
 
 
 class Severity(Enum):
@@ -19,7 +20,7 @@ class ValidationResult:
     severity: Severity
     code: str
     message: str
-    line: Optional[int] = None
+    line: int | None = None
 
     def __str__(self) -> str:
         prefix = {
@@ -61,7 +62,7 @@ class QualityScore:
 @dataclass
 class SkillFile:
     en_path: Path
-    ru_path: Optional[Path] = None
+    ru_path: Path | None = None
     en_content: str = ""
     ru_content: str = ""
     en_frontmatter: dict = field(default_factory=dict)
@@ -81,9 +82,9 @@ class Skill:
     path: Path
     languages: list[str] = field(default_factory=lambda: ["en"])
     has_ru: bool = False
-    created: Optional[str] = None
-    updated: Optional[str] = None
-    quality: Optional[QualityScore] = None
+    created: str | None = None
+    updated: str | None = None
+    quality: QualityScore | None = None
     validation_results: list[ValidationResult] = field(default_factory=list)
 
     NAME_RE = re.compile(r"^[a-z0-9][a-z0-9-]*[a-z0-9]$|^[a-z0-9]$")
@@ -136,7 +137,7 @@ class Catalog:
                 result.setdefault(tag, []).append(s)
         return result
 
-    def get(self, name: str) -> Optional[Skill]:
+    def get(self, name: str) -> Skill | None:
         for s in self.skills:
             if s.name == name:
                 return s
@@ -154,3 +155,26 @@ class SkillSet:
     @property
     def ru_count(self) -> int:
         return sum(1 for s in self.skills if s.ru_path)
+
+
+def parse_frontmatter(content: str) -> tuple[dict | None, str, bool]:
+    """Split a SKILL.md file into (frontmatter dict, body, ok).
+
+    Handles both ``---`` delimiters (opening/closing) regardless of whether
+    the file uses LF or CRLF line endings. Missing/empty frontmatter is not
+    an error at this level - callers decide how to react.
+    """
+    try:
+        if not content.startswith("---"):
+            return None, content.strip(), False
+        end = content.find("---", 3)
+        if end < 0:
+            return None, content.strip(), False
+        front = content[3:end].strip()
+        body = content[end + 3 :].lstrip("\r\n")
+        parsed = yaml.safe_load(front)
+        if not isinstance(parsed, dict):
+            return None, body, False
+        return parsed, body, True
+    except yaml.YAMLError:
+        return None, "", False

@@ -1,6 +1,9 @@
-# Contributing to Claude Skills Library
+# Contributing to Skills Library
 
-First off, thanks for taking the time to contribute! 
+First off, thanks for taking the time to contribute! This library follows the
+**universal Agent Skills format**, so skills you contribute work not only in
+Claude Code but in OpenCode, Cursor, Windsurf and any Agent Skills-compatible
+agent. 
 
 ## Table of Contents
 
@@ -75,9 +78,14 @@ description: Brief description of what this skill does
 category: domain-name
 tags: [tag1, tag2, tag3]
 models: [claude-sonnet-4-20250514]
-version: "1.0"
+version: "1.0.0"
 ---
 ```
+
+`name` and `description` are the **only** mandatory fields for cross-agent
+portability (lowercase-kebab name, single-line description ≤1024 chars). The
+remaining fields (`category`, `tags`, `models`, `version`, `created`,
+`updated`) are library-specific metadata that other agents safely ignore.
 
 Followed by the skill content in markdown. Keep it:
 - **Concise** — Claude has a context window, use it wisely
@@ -95,11 +103,11 @@ Followed by the skill content in markdown. Keep it:
 Always validate before submitting:
 
 ```bash
-# Validate ALL skills
-python scripts/validate-all.py
+# Validate ALL skills (EN + RU)
+python -m claude_skills.cli validate --dir .claude/skills
 
-# Deep validation (checks frontmatter, structure, references)
-python scripts/deep-validate.py
+# Cross-agent portability (universal Agent Skills format)
+python scripts/check_agent_interop.py
 
 # List all skills
 python scripts/list-skills.py
@@ -124,12 +132,13 @@ python scripts/list-skills.py
 ### PR Checklist
 
 - [ ] Skill name is in `kebab-case`, ≤64 characters
-- [ ] Description is in 3rd person, ≤1024 characters
+- [ ] `name` matches the directory name (required for portability)
+- [ ] Description is single-line, ≤1024 characters
 - [ ] `SKILL.md` has valid YAML frontmatter
 - [ ] Tags and category are correct
-- [ ] Tested in Claude (minimum Sonnet)
-- [ ] `skills_catalog.json` is updated (if new skill)
-- [ ] `python scripts/validate-all.py` passes
+- [ ] Tested with an agent (minimum Claude Sonnet)
+- [ ] `python scripts/check_agent_interop.py` passes
+- [ ] `python -m claude_skills.cli validate --dir .claude/skills` passes
 
 ## Style Guides
 

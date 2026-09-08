@@ -1,24 +1,18 @@
 from __future__ import annotations
 
-
+import datetime
+from typing import ClassVar
 
 from claude_skills.models import QualityScore, SkillFile
 
 
 class QualityAnalyzer:
-    SECTION_WEIGHT = 0.2
-    CODE_WEIGHT = 0.2
-    DEPTH_WEIGHT = 0.3
-    FRESHNESS_WEIGHT = 0.15
-    BILINGUAL_WEIGHT = 0.15
-
-    KEY_SECTIONS = ["Quick Start", "When to Use", "Step-by-Step", "Examples", "Validation"]
-    EMOJI_MAP = {
-        "Quick Start": ["🚀 Quick Start", "Quick Start"],
-        "When to Use": ["📋 When to Use", "When to Use"],
-        "Step-by-Step": ["🔧 Step-by-Step", "Step-by-Step"],
-        "Examples": ["🧪 Examples", "Examples"],
-        "Validation": ["✅ Validation", "Validation"],
+    SECTION_VARIANTS: ClassVar[dict[str, list[str]]] = {
+        "Quick Start": ["Quick Start"],
+        "When to Use": ["When to Use"],
+        "Step-by-Step": ["Step-by-Step"],
+        "Examples": ["Examples"],
+        "Validation": ["Validation"],
     }
 
     def analyze(self, skill_file: SkillFile) -> QualityScore:
@@ -34,9 +28,9 @@ class QualityAnalyzer:
         if not skill.en_body:
             return 0.0
         score = 0.0
-        for section, variants in self.EMOJI_MAP.items():
+        for variants in self.SECTION_VARIANTS.values():
             if any(v in skill.en_body for v in variants):
-                score += 100.0 / len(self.EMOJI_MAP)
+                score += 100.0 / len(self.SECTION_VARIANTS)
         has_frontmatter = bool(skill.en_frontmatter)
         if has_frontmatter:
             present = [k for k in ("name", "description", "category", "tags", "models", "version") if k in skill.en_frontmatter]
@@ -65,14 +59,21 @@ class QualityAnalyzer:
         return 20.0 if inline_code > 0 else 0.0
 
     def _score_freshness(self, skill: SkillFile) -> float:
-        import datetime
-
-        created = skill.en_frontmatter.get("created", "")
-        if not created:
+        last = skill.en_frontmatter.get("updated") or skill.en_frontmatter.get("created")
+        if not last:
             return 30.0
         try:
-            dt = datetime.datetime.fromisoformat(created)
-            days_old = (datetime.datetime.now(dt.tzinfo) - dt).days if dt.tzinfo else (datetime.datetime.now() - dt).days
+            if isinstance(last, datetime.datetime):
+                dt = last
+            elif isinstance(last, datetime.date):
+                dt = datetime.datetime.combine(last, datetime.time.min)
+            else:
+                iso = str(last)
+                iso = iso.replace("Z", "+00:00") if iso.endswith("Z") else iso
+                dt = datetime.datetime.fromisoformat(iso)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=datetime.timezone.utc)
+            days_old = (datetime.datetime.now(tz=datetime.timezone.utc) - dt).days
             if days_old < 30:
                 return 100.0
             if days_old < 90:

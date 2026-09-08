@@ -79,6 +79,7 @@ def test_analyzer_empty_body(tags):
 @given(st.integers(min_value=0, max_value=200))
 def test_depth_never_exceeds_100(line_count):
     from pathlib import Path
+
     from claude_skills.models import SkillFile
 
     body = "\n".join([f"Line {i}" for i in range(line_count)])

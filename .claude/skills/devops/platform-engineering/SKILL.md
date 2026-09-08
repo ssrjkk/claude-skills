@@ -6,6 +6,7 @@ tags: [platform-engineering, backstage, port, developer-portal, internal-develop
 models: [sonnet, opus]
 version: 1.0.0
 created: 2026-05-14
+updated: 2026-09-06
 ---
 # Platform Engineering
 
@@ -79,6 +80,48 @@ Platform engineering treats the developer platform as a product. Backstage/Port 
 - Teams spending too much time on infrastructure configuration
 - Standardizing deployment workflows and environments
 - Improving developer experience and reducing onboarding time
+
+## Step-by-Step
+1. Bootstrap a developer portal: scaffold Backstage (`npx @backstage/create-app`) or create a Port blueprint with service metadata fields.
+2. Model the golden path: define service templates for standard components (API, service, worker) using software templates / Port self-service actions.
+3. Register the catalog: commit `catalog-info.yaml` for each service with owner, system, dependencies, and API boundaries.
+4. Wire CI/CD: connect the SCM integration, add repository-backend events so new repos auto-register.
+5. Publish docs: enable TechDocs from repo markdown with cookstyle/plugins to render living documentation.
+6. Add governance: create scorecards with maturity checks (SLO covered, dependency updates, cost tags) and report in the portal.
+
+## Examples
+```yaml
+# catalog-info.yaml — full entity with relations
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: payment-platform
+  description: Core payments system
+spec:
+  owner: platform-team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: payment-service
+  annotations:
+    github.com/project-slug: org/payment-service
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  lifecycle: production
+  owner: platform-team
+  system: payment-platform
+  dependsOn:
+    - resource:default/postgres-main
+  providesApis: [payment-api]
+  consumedApis: [fraud-detection-api]
+```
+```bash
+# Add the entity to catalog locations, then push to trigger sync
+kubectl port-forward svc/backstage-backend 7007:7007
+curl http://localhost:7007/api/catalog/entities?filter=kind=component
+```
 
 ## Validation
 1. Backstage/Port starts and renders the service catalog

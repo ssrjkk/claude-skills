@@ -8,30 +8,119 @@ version: "1.0"
 language: ru
 original: expo-rn
 ---
+# Expo SDK
 
-# Expo Rn
-
-> Expo SDK for React Native development
+> Создавайте кросс-платформенные мобильные приложения с Expo SDK и React Native.
 
 ## Быстрый старт
-Этот навык на русском языке. Оригинал: `expo-rn`.
+```tsx
+// app/index.tsx — file-based роутинг Expo Router
+import { router } from 'expo-router';
+import { View, Text, FlatList, TouchableOpacity } from 'react-native';
+import { useSQLiteContext } from 'expo-sqlite';
+
+export default function HomeScreen() {
+  const db = useSQLiteContext();
+
+  const [items, setItems] = useState<Todo[]>([]);
+
+  useEffect(() => {
+    db.getAllAsync('SELECT * FROM todos ORDER BY created_at DESC')
+      .then(setItems);
+  }, []);
+
+  return (
+    <View className="flex-1 p-4">
+      <FlatList
+        data={items}
+        keyExtractor={(item) => item.id.toString()}
+        renderItem={({ item }) => (
+          <TouchableOpacity
+            onPress={() => router.push(`/todo/${item.id}`)}
+            className="p-3 bg-white rounded-lg mb-2 shadow"
+          >
+            <Text className={`text-lg ${item.completed ? 'line-through text-gray-400' : ''}`}>
+              {item.title}
+            </Text>
+          </TouchableOpacity>
+        )}
+      />
+      <TouchableOpacity
+        onPress={() => router.push('/todo/new')}
+        className="bg-blue-500 p-4 rounded-full absolute bottom-8 right-8 shadow-lg"
+      >
+        <Text className="text-white text-2xl text-center">+</Text>
+      </TouchableOpacity>
+    </View>
+  );
+}
+```
+
+```bash
+# Создание и разработка
+npx create-expo-app my-app --template blank-typescript
+cd my-app
+npx expo start
+
+# Нативные сборки
+npx expo run:ios    # iOS-симулятор
+npx expo run:android  # Android-эмулятор
+
+# Продакшн-сборки
+eas build --platform all
+eas submit --platform ios
+eas submit --platform android
+
+# OTA-обновления
+npx expo update
+```
+
+## Ключевые концепции
+Expo даёт managed workflow со встроенными API (камера, геолокация, SQLite, уведомления, auth). Expo Router — file-based навигация. EAS Build делает нативную компиляцию. OTA-обновления минуют ревью в сторах.
 
 ## Когда использовать
-- Работа с Мобильная разработка
-- Выполнение задач, связанных с Expo Rn
-- Профессиональное развитие
+- Кросс-платформенные iOS + Android из одной кодовой базы
+- Приложения с нативными фичами (камера, GPS, биометрия)
+- MVP с быстрой итерацией и OTA-обновлениями
+- Команды без настройки нативной сборки
 
-## Инструкции
-1. Ознакомьтесь с описанием навыка
-2. Изучите английскую версию для полных инструкций
-3. Примените полученные знания на практике
+## Пошаговое руководство
+1. Скаффолд: `npx create-expo-app my-app --template blank-typescript`, затем `cd my-app && npx expo start`.
+2. Роутинг: установите `expo-router` и используйте file-based маршруты в `app/`.
+3. Нативные API: `npx expo install expo-camera expo-location expo-sqlite` и плагин-конфиг в `app.json`.
+4. Разработка на устройстве: откройте в Expo Go или `npx expo run:ios`/`run:android` для нативного dev-билда.
+5. Локальные данные: `expo-sqlite` (SQL через `db.getAllAsync`) или AsyncStorage для key-value состояния.
+6. Релиз: `eas build --platform all`, затем `eas submit`; итерации через `npx expo update` (OTA).
 
-## Ресурсы
-- Оригинальный навык: `mobile/expo-rn/SKILL.md`
-- Категория: Мобильная разработка
-- Язык: Русский
+## Примеры
+```tsx
+// app/todo/[id].tsx — динамический маршрут с локальным SQLite
+import { useLocalSearchParams } from 'expo-router';
+import { useSQLiteContext } from 'expo-sqlite';
+import { View, Text } from 'react-native';
+
+export default function TodoDetail() {
+  const { id } = useLocalSearchParams<{ id: string }>();
+  const db = useSQLiteContext();
+  const todo = db.getFirstSync('SELECT * FROM todos WHERE id = ?', [id]);
+
+  return (
+    <View className="p-4">
+      <Text className="text-xl">{todo?.title}</Text>
+      <Text>{todo?.completed ? 'Done' : 'Pending'}</Text>
+    </View>
+  );
+}
+```
+```bash
+# Нативная сборка и OTA
+npx expo prebuild
+eas build --platform android --profile preview
+npx expo update
+```
 
 ## Валидация
-- Прочитайте английскую версию для проверки
-- Выполните описанные шаги
-- Убедитесь в правильности результата
+1. `npx expo start` запускает Metro Bundler успешно
+2. Приложение рендерится на iOS-симуляторе и Android-эмуляторе
+3. Нативные фичи (камера, SQLite) работают на обеих платформах
+4. `eas build` собирает устанавливаемые бинарники

@@ -6,6 +6,7 @@ tags: [prisma, orm, database, typescript, postgresql]
 models: [sonnet, opus]
 version: 1.0.0
 created: 2026-05-14
+updated: 2026-09-06
 ---
 # Prisma ORM
 
@@ -45,9 +46,9 @@ const user = await prisma.user.create({
 ```
 
 ## When to Use
-- ✅ Type-safe database access
-- ✅ Rapid schema evolution with migrations
-- ❌ Not for complex raw SQL queries
+- Type-safe database access
+- Rapid schema evolution with migrations
+- Not for complex raw SQL queries
 
 ## Step-by-Step Instructions
 1. Install: `npm install prisma @prisma/client`
@@ -67,6 +68,16 @@ Input: `prisma.user.findMany({ where: { email: { contains: "@" } } })` → Outpu
 ## Resources
 - [Prisma Docs](https://www.prisma.io/docs)
 - [Examples](./examples/)
+
+## Troubleshooting
+- **`PrismaClientInitializationError`** — the schema is out of sync.
+  Re-run `npx prisma generate` and check the `DATABASE_URL` is reachable.
+- **Introspection overwrites custom types** — treat `prisma db pull` as
+  an initial scaffold; re-apply manual types and relations afterwards.
+- **Relation queries are slow** — missing index. Add `@@index` on foreign
+  keys and use the Prisma Data Platform for query analysis.
+- **Migrations drift on team branches** — run `prisma migrate dev` early
+  and often; rebase migrations instead of resetting the database.
 
 ## Validation
 1. Schema validates: `npx prisma validate`

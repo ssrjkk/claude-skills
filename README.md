@@ -1,77 +1,109 @@
-д<p align="center">
-  <img src="https://img.shields.io/github/stars/ssrjkk/claude-skills?style=for-the-badge&color=gold" alt="Stars">
-  <img src="https://img.shields.io/badge/skills-10,000+-blue?style=for-the-badge" alt="Skills">
+<p align="center">
+  <img src="https://img.shields.io/badge/skills-21-blue?style=for-the-badge" alt="Skills">
   <img src="https://img.shields.io/badge/languages-EN%20%7C%20RU-green?style=for-the-badge" alt="Languages">
-  <img src="https://img.shields.io/badge/domains-39-orange?style=for-the-badge" alt="Domains">
-  <img src="https://img.shields.io/badge/license-MIT-purple?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/badge/coverage-93%25-brightgreen?style=for-the-badge" alt="Coverage">
+  <img src="https://img.shields.io/badge/domains-11-orange?style=for-the-badge" alt="Domains">
+  <img src="https://img.shields.io/badge/quality-A%20(99.6%25)-brightgreen?style=for-the-badge" alt="Quality">
+  <img src="https://img.shields.io/badge/coverage-100%25-brightgreen?style=for-the-badge" alt="Coverage">
+  <img src="https://img.shields.io/badge/agents-universal-purple?style=for-the-badge" alt="Agent-agnostic">
 </p>
 
-<h1 align="center">Claude Skills Library</h1>
-<p align="center"><strong>10,000+ skills for Claude Code · 39 domains · English + Russian</strong></p>
-<p align="center">Bilingual AI skills library</p>
-
-<!--
-Keywords: claude skills, claude code, ai skills, prompt engineering, claude templates, developer tools
--->
+<h1 align="center">Skills Library</h1>
+<p align="center"><strong>Curated bilingual (EN + RU) skills in the universal Agent Skills format</strong></p>
+<p align="center">Works with Claude Code, OpenCode, Cursor, Windsurf and every Agent Skills-compatible tool</p>
 
 ---
+
+## What is this?
+
+21 production-grade, bilingual (English + Russian) skills following the
+**universal Agent Skills format** — the `SKILL.md` convention shared by Claude
+Code, OpenCode, Cursor, Windsurf and other agents. Each skill is a folder with
+a `SKILL.md` (primary, English) and an optional `SKILL.ru.md` (parallel
+Russian translation). Any agent that implements the Agent Skills spec can
+consume them directly.
+
+The library ships with a Python SDK + CLI for validation, quality scoring,
+cataloging and search, all enforced in CI.
 
 ## Quick Start
 
 ```bash
-# One-liner install
-curl -fsSL https://raw.githubusercontent.com/ssrjkk/claude-skills/main/install.sh | bash
-
-# Or via pip
+# Install (editable)
 pip install -e .
 
-# Install a skill (from local repo or GitHub)
-claude-skills install k8s-debugger
-
-# Search the catalog
-claude-skills search kubernetes
-
-# Generate a new skill from a prompt
-claude-skills generate "Debug PostgreSQL slow queries"
-
-# Validate & explore
+# Explore the library
 claude-skills stats          # Library statistics
-claude-skills validate       # Validate all skills
+claude-skills search <query> # Search skills
+claude-skills validate       # Validate all skills (EN + RU)
 claude-skills quality        # Quality analysis
+claude-skills catalog        # Rebuild skills_catalog.json
 ```
 
-## Why Claude Skills?
+## Using the skills with your agent
 
-| Without skills | With skills |
-|---|---|
-| "Write a React component with tests" → generic output | "Write a React component with tests" → domain-optimized, production-ready code |
-| You manually context-switch between 39 domains | Skills auto-load the right context for each task |
-| No quality guarantees | 93% tested coverage, multi-dimensional quality scoring |
-| English only | Full English + Russian parallel translations |
-
-## Stats
-
-| Metric | Value |
-|--------|-------|
-| Total skills | **10,000+** |
-| Russian translations | **10,000** |
-| Domains | **39** |
-| Bilingual coverage | **100%** |
-| Test coverage | **93%** |
-| Quality grades | A–F scoring |
-| Validation speed | **7.8s** for all 10K files |
-| License | MIT |
-
-## Structure
+Every skill is a standard Agent Skills directory:
 
 ```
 .claude/skills/
   {domain}/
     {skill-name}/
-      ├── SKILL.md        ← English (primary)
-      └── SKILL.ru.md     ← Russian (parallel)
+      SKILL.md        <- English (primary)
+      SKILL.ru.md     <- Russian (parallel)
 ```
+
+To install a skill into another agent, point it at the same folder — the file
+format is identical, only the root directory changes:
+
+| Agent      | Default skills root     | Notes |
+|------------|-------------------------|-------|
+| Claude Code | `.claude/skills/`       | Native |
+| OpenCode   | `.opencode/skills/`     | Same `SKILL.md` format |
+| Cursor     | `.cursor/skills/`       | Same `SKILL.md` format |
+| Windsurf   | `.windsurf/skills/`     | Same `SKILL.md` format |
+
+Frontmatter is strictly validated for cross-agent portability in CI
+(`scripts/check_agent_interop.py`): portable `name`, single-line
+`description`, no duplicate names.
+
+## Stats
+
+| Metric | Value |
+|--------|-------|
+| Total skills | **21** |
+| Russian translations | **21 (100%)** |
+| Domains | **11** |
+| Quality score | **99.6% (Grade A)** |
+| Test coverage | **100%** |
+| License | MIT |
+
+Only skills meeting the quality bar (Grade A, no validation errors) are kept
+in `main`. Everything else is archived in the `archive/v1-legacy` branch.
+
+## Skills by domain
+
+| Domain | Skill | Description |
+|--------|-------|-------------|
+| `ai` | `few-shot-learning` | Few-shot prompt design with example selection |
+| `ai` | `llm-finetuning` | Fine-tuning LLMs end-to-end |
+| `backend` | `deno-runtime` | Deno realtime apps & Workers |
+| `backend` | `nestjs` | NestJS modular backends |
+| `backend` | `rust-tokio` | Async Rust with Tokio |
+| `blockchain` | `zk-proofs` | Zero-knowledge proofs |
+| `database` | `prisma-orm` | Prisma ORM data layer |
+| `desktop` | `electron` | Electron cross-platform apps |
+| `devops` | `aws-lambda` | Serverless on AWS Lambda |
+| `devops` | `cloud-native-ai` | Cloud-native AI platforms |
+| `devops` | `gitlab-ci` | GitLab CI/CD pipelines |
+| `devops` | `observability-llm` | LLM observability |
+| `devops` | `platform-engineering` | Internal developer platforms |
+| `devops` | `serverless-ai` | Serverless AI workloads |
+| `devops` | `sre-slos` | SLOs & reliability |
+| `embedded` | `rust-embedded` | Embedded Rust |
+| `engineering` | `ai-testing` | AI/LLM testing |
+| `frontend` | `bun-runtime` | Bun runtime & tooling |
+| `frontend` | `tailwind-v4` | Tailwind CSS v4 |
+| `mobile` | `expo-rn` | Expo & React Native |
+| `security` | `oauth2-jwt` | OAuth 2.0 & JWT |
 
 ## SDK
 
@@ -82,11 +114,9 @@ from claude_skills.catalog import CatalogBuilder
 from claude_skills.validator import ValidationPipeline
 from claude_skills.quality import QualityAnalyzer
 
-# Build & explore catalog
 catalog = CatalogBuilder().build_catalog()
 print(f"{catalog.metadata.total_skills} skills, {catalog.metadata.total_ru} RU")
 
-# Validate all 10K skills in ~8s
 pipeline = ValidationPipeline(Path(".claude/skills"))
 report = pipeline.report(pipeline.run_all())
 print(f"Errors: {report['errors']}, Warnings: {report['warnings']}")
@@ -94,24 +124,14 @@ print(f"Errors: {report['errors']}, Warnings: {report['warnings']}")
 
 ### CLI
 
+Commands: `stats`, `search`, `validate`, `quality`, `catalog`.
+
 ```bash
-claude-skills install <name>           # Install a skill from catalog/GitHub
-claude-skills search <query>           # Search skills by name, description, tags
-claude-skills generate <prompt>        # Generate a skill via template (or --api for LLM)
-claude-skills share <path>             # Share a skill (--github for issue, --text for summary)
-claude-skills validate                 # Full validation pipeline
-claude-skills quality --json report.json
-claude-skills catalog                  # Rebuild catalog JSON
-claude-skills stats                    # Library statistics
-```
-
-### TypeScript
-
-```typescript
-import { Catalog, search, byCategory } from 'claude-skills';
-const catalog: Catalog = await loadCatalog();
-const qaSkills = byCategory(catalog.skills)['qa'];
-const results = search(catalog.skills, 'kubernetes');
+claude-skills search <query>      # Search by name, description, tags
+claude-skills validate --json out.json
+claude-skills quality --json out.json
+claude-skills catalog             # Rebuild catalog JSON
+claude-skills stats               # Library statistics
 ```
 
 ## Quality Pipeline
@@ -126,11 +146,10 @@ Every skill is scored on 5 dimensions:
 | Freshness | 15% | Recency of last update |
 | Bilingual | 15% | Russian translation quality |
 
-**Current library score: 59.4% (Grade D)** — actively improving every week.
+## Domains (11)
 
-## Domains (39)
-
-`ai` · `ar-vr` · `backend` · `block` · `blockchain` · `ci-cd-setup` · `cloud` · `communications` · `data` · `database` · `database-migration` · `design` · `desktop` · `devops` · `ecommerce` · `education` · `embedded` · `energy` · `engineering` · `finance` · `frontend` · `gamedev` · `geospatial` · `healthcare` · `hr` · `iot` · `media` · `mobile` · `networking` · `os-admin` · `payments` · `product` · `qa` · `scientific` · `security` · `supply-chain` · `sustainability` · `test-reporting`
+`ai` · `backend` · `blockchain` · `database` · `desktop` · `devops` ·
+`embedded` · `engineering` · `frontend` · `mobile` · `security`
 
 ## Author
 
@@ -146,44 +165,29 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Quick checklist:
 - [ ] `SKILL.md` has frontmatter with name, description, category, tags, models, version
 - [ ] `SKILL.ru.md` is a **real translation** (not auto-generated)
 - [ ] Code examples compile and run
+- [ ] `SKILL.md` passes `scripts/check_agent_interop.py` (portable to all agents)
 - [ ] `make test` passes
-- [ ] `ruff check src/` passes
-
-## Product Components
-
-| Component | Description |
-|-----------|-------------|
-| **Python CLI** | `claude-skills` — install, search, generate, validate, quality, catalog, stats |
-| **TypeScript SDK** | `npm install claude-skills` — types + utilities for Node.js |
-| **GitHub Action** | `ssrjkk/claude-skills` — validate skills in CI/CD |
-| **VS Code Extension** | Browse 10K skills, one-click install from sidebar |
-| **Next.js Site** | [ssrjkk.github.io/claude-skills/](https://ssrjkk.github.io/claude-skills/) — 10K+ static pages |
-| **Featured Skills** | 50 curated starter skills across 15 core domains |
+- [ ] `make lint` passes
 
 ## Links
 
-- [Documentation Site](https://ssrjkk.github.io/claude-skills/) — searchable catalog
-- [Launch Checklist](docs/launch-checklist.md) — launch readiness
-- [Launch Summary](docs/launch/launch-summary.md) — launch plan overview
-- [Growth Metrics](docs/metrics.md) — tracking progress
-- [Quality Report](docs/api/quality-report.json)
 - [Architecture Guide](docs/ARCHITECTURE.md)
-- [API Reference](docs/api/README.md)
+- [Release Notes](docs/RELEASE_NOTES_v3.1.md)
 - [Issue Tracker](https://github.com/ssrjkk/claude-skills/issues)
 
-## Star History
+## Legacy Version
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ssrjkk/claude-skills&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ssrjkk/claude-skills&type=Date" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ssrjkk/claude-skills&type=Date" />
-</picture>
+Version 2.0 is a complete rewrite focused on quality — 21 carefully curated,
+bilingual, Grade A skills with a validated SDK instead of thousands of
+auto-generated ones.
+
+The original v1.0 library (10,000+ auto-generated skills) is archived:
+
+```bash
+git checkout archive/v1-legacy
+git tag v1.0-legacy
+```
 
 ## License
 
-MIT. Free for personal and commercial use.
-
----
-
-<p align="center"><strong>Bilingual AI skills library.</strong>
-</p>
+MIT.

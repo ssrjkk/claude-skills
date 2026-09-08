@@ -135,6 +135,105 @@ class TestSkillValidator:
         warnings = [r for r in results if r.severity == Severity.WARNING]
         assert any("W012" in r.code for r in warnings)
 
+    def test_unreadable_file(self, validator: SkillValidator, tmp_path: Path):
+        path = tmp_path / "test" / "SKILL.md"
+        path.parent.mkdir(parents=True)
+        path.write_bytes(b"\xff\xfe invalid utf8 that cannot decode \x00")
+        path.write_bytes(bytes([0xff, 0xfe, 0x00, 0xff]))
+        results = validator.validate_skill_file(path)
+        errors = [r for r in results if r.severity == Severity.ERROR]
+        assert any("E001" in r.code for r in errors)
+
+    def test_malformed_frontmatter(self, validator: SkillValidator, tmp_path: Path):
+        path = tmp_path / "test" / "SKILL.md"
+        path.parent.mkdir(parents=True)
+        path.write_text("---\nname: [unclosed\n---\nContent\n")
+        results = validator.validate_skill_file(path)
+        assert any("E011" in r.code for r in results)
+
+    def test_empty_frontmatter(self, validator: SkillValidator, tmp_path: Path):
+        path = tmp_path / "test" / "SKILL.md"
+        path.parent.mkdir(parents=True)
+        path.write_text("---\n# not a dict\n---\nContent\n")
+        results = validator.validate_skill_file(path)
+        assert any("E011" in r.code for r in results)
+
+    def test_name_mismatch_warning(self, validator: SkillValidator, tmp_path: Path):
+        path = tmp_path / "actual-name" / "SKILL.md"
+        path.parent.mkdir(parents=True)
+        path.write_text(
+            "---\n"
+            "name: other-name\ndescription: desc\ncategory: qa\n"
+            "tags: []\nmodels: []\nversion: 1.0.0\n"
+            "---\n"
+            "## Quick Start\n\nContent\n\n## Validation\n\nContent\n"
+        )
+        results = validator.validate_skill_file(path)
+        warnings = [r for r in results if r.severity == Severity.WARNING]
+        assert any("W010" in r.code for r in warnings)
+
+    def test_nonstandard_version(self, validator: SkillValidator, tmp_path: Path):
+        path = tmp_path / "test" / "SKILL.md"
+        path.parent.mkdir(parents=True)
+        path.write_text(
+            "---\n"
+            "name: test\ndescription: desc\ncategory: qa\n"
+            "tags: []\nmodels: []\nversion: 1.0-beta\n"
+            "---\n"
+            "## Quick Start\n\nContent\n\n## Validation\n\nContent\n"
+        )
+        results = validator.validate_skill_file(path)
+        assert any("W014" in r.code for r in results)
+
+    def test_critically_short_body(self, validator: SkillValidator, tmp_path: Path):
+        path = tmp_path / "test" / "SKILL.md"
+        path.parent.mkdir(parents=True)
+        path.write_text(
+            "---\n"
+            "name: test\ndescription: desc\ncategory: qa\n"
+            "tags: []\nmodels: []\nversion: 1.0.0\n"
+            "---\n"
+            "Tiny.\n"
+        )
+        results = validator.validate_skill_file(path)
+        codes = [r.code for r in results]
+        assert "W020" in codes
+        assert "W030" in codes
+
+    def test_todo_placeholder(self, validator: SkillValidator, tmp_path: Path):
+        path = tmp_path / "test" / "SKILL.md"
+        path.parent.mkdir(parents=True)
+        path.write_text(
+            "---\n"
+            "name: test\ndescription: desc\ncategory: qa\n"
+            "tags: []\nmodels: []\nversion: 1.0.0\n"
+            "---\n"
+            "## Quick Start\nTODO: write this later\n## Validation\nContent\n"
+        )
+        results = validator.validate_skill_file(path)
+        assert any("W021" in r.code for r in results)
+
+    def test_empty_dict_frontmatter(self, validator: SkillValidator, tmp_path: Path):
+        path = tmp_path / "test" / "SKILL.md"
+        path.parent.mkdir(parents=True)
+        path.write_text("---\n{}\n---\nContent\n")
+        results = validator.validate_skill_file(path)
+        assert any(r.code in ("E011", "E012") for r in results)
+
+    def test_missing_info_sections(self, validator: SkillValidator, tmp_path: Path):
+        path = tmp_path / "test" / "SKILL.md"
+        path.parent.mkdir(parents=True)
+        path.write_text(
+            "---\n"
+            "name: test\ndescription: desc\ncategory: qa\n"
+            "tags: []\nmodels: []\nversion: 1.0.0\n"
+            "---\n"
+            "No sections here, just prose.\n"
+        )
+        results = validator.validate_skill_file(path)
+        infos = [r for r in results if r.severity == Severity.INFO]
+        assert any("I020" in r.code for r in infos)
+
 
 class TestValidationPipeline:
     @pytest.fixture
@@ -170,6 +269,32 @@ class TestValidationPipeline:
         report = pipeline.report(results)
         assert report["total"] == 3
         assert report["errors"] == 0
+
+    def test_report_counts_info_and_warnings(self, pipeline: ValidationPipeline, tmp_path: Path):
+        path = tmp_path / ".claude" / "skills" / "qa" / "skill-bad" / "SKILL.md"
+        path.parent.mkdir(parents=True)
+        path.write_text(
+            "---\nname: skill-bad\ndescription: desc\ncategory: qa\n"
+            "tags: []\nmodels: []\nversion: 1.0.0\n"
+            "---\n## Quick Start\nContent\n"
+        )
+        results = pipeline.run_all()
+        report = pipeline.report(results)
+        assert report["total"] == 4
+        assert report["errors"] == 0
+        assert report["info"] >= 1
+        assert "warning_details" in report
+        assert len(report["warning_details"]) <= 50
+
+    def test_report_counts_errors(self, pipeline: ValidationPipeline, tmp_path: Path):
+        path = tmp_path / ".claude" / "skills" / "qa" / "skill-broken" / "SKILL.md"
+        path.parent.mkdir(parents=True)
+        path.write_text("Just content without any frontmatter at all\n")
+        results = pipeline.run_all()
+        report = pipeline.report(results)
+        assert report["total"] == 4
+        assert report["errors"] >= 1
+        assert report["error_details"]
 
     def test_run_ru_all(self, pipeline: ValidationPipeline, tmp_path: Path):
         ru_path = tmp_path / ".claude" / "skills" / "qa" / "skill-a" / "SKILL.ru.md"

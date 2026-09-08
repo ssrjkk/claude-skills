@@ -6,6 +6,7 @@ tags: [observability, llm, langfuse, langsmith, tracing, monitoring]
 models: [sonnet, opus]
 version: 1.0.0
 created: 2026-05-14
+updated: 2026-09-06
 ---
 # LLM Observability
 
@@ -67,6 +68,45 @@ Trace every LLM call with latency, tokens, cost, and metadata. Track prompt vers
 - Tracking token usage and costs across teams
 - A/B testing prompt variations
 - Monitoring response quality and latency regressions
+
+## Step-by-Step
+1. Install: `pip install langfuse` and set env keys `LANGFUSE_PUBLIC_KEY`/`LANGFUSE_SECRET_KEY`.
+2. Add decorators: wrap your generation/RAG functions with `@observe` so the SDK traces latency, tokens, and metadata.
+3. Add context: capture input/output, usage dict, and retrieval metadata (doc ids, model name, versions).
+4. Build dashboards: use Langfuse/LangSmith views to group by session, project, or prompt version.
+5. Set monitoring: alerts for cost spikes, latency regressions, and error rates per prompt/model.
+6. Iterate on prompts: use trace comparison and prompt playground to A/B versions and pin winners.
+
+## Examples
+```python
+# Trace a full RAG pipeline as nested spans
+from langfuse.decorators import observe, langfuse_context
+
+@observe(name="retrieve")
+def retrieve(query: str) -> list[str]:
+    return ["doc-1", "doc-2"]  # from your vector store
+
+@observe(name="generate")
+def generate(query: str, docs: list[str]) -> str:
+    langfuse_context.update_current_generation(
+        input=query,
+        output="answer text",
+        usage={"promptTokens": 120, "completionTokens": 40, "totalTokens": 160},
+        metadata={"docs": docs, "model": "claude-sonnet-4"},
+    )
+    return "answer text"
+
+@observe(name="rag")
+def rag(question: str) -> str:
+    docs = retrieve(question)
+    return generate(question, docs)
+```
+```bash
+# Export traces for offline analysis
+python -m langfuse export-json --project your-project --output ./traces.json
+# or use the CLI dashboard
+langfuse-compose up    # self-hosted Langfuse stack
+```
 
 ## Validation
 1. Traces appear in Langfuse/LangSmith dashboard

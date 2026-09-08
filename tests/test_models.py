@@ -5,6 +5,7 @@ from __future__ import annotations
 from pathlib import Path
 
 import pytest
+
 from claude_skills.models import (
     Catalog,
     CatalogMetadata,
@@ -14,6 +15,7 @@ from claude_skills.models import (
     SkillFile,
     SkillSet,
     ValidationResult,
+    parse_frontmatter,
 )
 
 
@@ -38,6 +40,18 @@ class TestSkill:
 
     def test_invalid_version_format(self):
         assert not Skill(name="t", description="", category="qa", tags=[], models=[], version="v1.0.0", path=Path("")).is_valid_semver
+
+    def test_dir_path(self):
+        skill = Skill(name="t", description="", category="qa", tags=[], models=[], version="1.0.0", path=Path(".claude/skills/qa/t/SKILL.md"))
+        assert skill.dir_path.name == "t"
+
+    def test_category_path(self):
+        skill = Skill(name="t", description="", category="qa", tags=[], models=[], version="1.0.0", path=Path(".claude/skills/qa/t/SKILL.md"))
+        assert skill.category_path == "qa"
+
+    def test_category_path_empty(self):
+        skill = Skill(name="t", description="", category="qa", tags=[], models=[], version="1.0.0", path=Path(""))
+        assert skill.category_path == ""
 
 
 class TestQualityScore:
@@ -76,6 +90,46 @@ class TestValidationResult:
     def test_str_with_line(self):
         vr = ValidationResult("path/to/skill", Severity.ERROR, "E001", "Error", line=42)
         assert ":42" in str(vr)
+
+
+class TestParseFrontmatter:
+    def test_valid_frontmatter(self):
+        fm, body, ok = parse_frontmatter("---\nname: test\n---\n# Body\ncontent")
+        assert ok
+        assert fm == {"name": "test"}
+        assert "# Body\ncontent" in body
+
+    def test_crlf_frontmatter(self):
+        fm, body, ok = parse_frontmatter("---\r\nname: test\r\nversion: 1.0.0\r\n---\r\n## Section\r\ntext")
+        assert ok
+        assert fm["name"] == "test"
+        assert fm["version"] == "1.0.0"
+        assert body.startswith("## Section")
+
+    def test_missing_frontmatter(self):
+        fm, _body, ok = parse_frontmatter("Just text without frontmatter")
+        assert not ok
+        assert fm is None
+
+    def test_empty_frontmatter(self):
+        fm, _body, ok = parse_frontmatter("---\n---\nbody content")
+        assert not ok
+        assert fm is None
+
+    def test_non_dict_frontmatter(self):
+        fm, _body, ok = parse_frontmatter("---\n[1, 2, 3]\n---\nbody")
+        assert not ok
+        assert fm is None
+
+    def test_missing_closing_delimiter(self):
+        fm, _body, ok = parse_frontmatter("---\nname: test\nno closing marker")
+        assert not ok
+        assert fm is None
+
+    def test_invalid_yaml_error(self):
+        fm, _body, ok = parse_frontmatter("---\nname: [unclosed\n---\nbody")
+        assert not ok
+        assert fm is None
 
 
 class TestCatalog:

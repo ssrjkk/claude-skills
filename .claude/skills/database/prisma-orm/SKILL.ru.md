@@ -8,30 +8,78 @@ version: "1.0"
 language: ru
 original: prisma-orm
 ---
+# Prisma ORM
 
-# Prisma Orm
-
-> Models databases and writes type-safe queries with Prisma ORM. Use for modern Node.js/TypeScript database access.
+> Type-safe доступ к БД с автоматически генерируемыми запросами.
 
 ## Быстрый старт
-Этот навык на русском языке. Оригинал: `prisma-orm`.
+```prisma
+// schema.prisma
+model User {
+  id    Int     @id @default(autoincrement())
+  email String  @unique
+  name  String?
+  posts Post[]
+}
+
+model Post {
+  id        Int      @id @default(autoincrement())
+  title     String
+  content   String?
+  author    User     @relation(fields: [authorId], references: [id])
+  authorId  Int
+}
+```
+
+```typescript
+import { PrismaClient } from '@prisma/client';
+const prisma = new PrismaClient();
+
+// Type-safe запрос
+const user = await prisma.user.create({
+  data: {
+    email: 'alice@example.com',
+    posts: { create: { title: 'Hello Prisma' } }
+  },
+  include: { posts: true }
+});
+```
 
 ## Когда использовать
-- Работа с Базы данных
-- Выполнение задач, связанных с Prisma Orm
-- Профессиональное развитие
+- Type-safe доступ к БД
+- Быстрая эволюция схемы с миграциями
+- Не для сложных сырых SQL-запросов
 
-## Инструкции
-1. Ознакомьтесь с описанием навыка
-2. Изучите английскую версию для полных инструкций
-3. Примените полученные знания на практике
+## Пошаговые инструкции
+1. Установка: `npm install prisma @prisma/client`
+2. Инициализация: `npx prisma init`
+3. Опишите модели в `schema.prisma`
+4. Миграция: `npx prisma migrate dev`
+
+## Зависимости
+```bash
+npm install prisma @prisma/client
+npx prisma init
+```
+
+## Примеры
+Вход: `prisma.user.findMany({ where: { email: { contains: "@" } } })` → Выход: все пользователи с @ в email
 
 ## Ресурсы
-- Оригинальный навык: `database/prisma-orm/SKILL.md`
-- Категория: Базы данных
-- Язык: Русский
+- [Prisma Docs](https://www.prisma.io/docs)
+- [Examples](./examples/)
+
+## Устранение неполадок
+- **`PrismaClientInitializationError`** — схема не синхронизирована.
+  Повторно выполните `npx prisma generate` и проверьте `DATABASE_URL`.
+- **Интроспекция перезаписывает кастомные типы** — `prisma db pull`
+  работает как черновик; заново наложите типы и связи вручную.
+- **Медленные relation-запросы** — не хватает индекса. Добавьте `@@index`
+  на внешние ключи и анализируйте запросы через Prisma Data Platform.
+- **Миграции расходятся на командных ветках** — запускайте
+  `prisma migrate dev` чаще и делайте rebase миграций, а не reset БД.
 
 ## Валидация
-- Прочитайте английскую версию для проверки
-- Выполните описанные шаги
-- Убедитесь в правильности результата
+1. Схема валидна: `npx prisma validate`
+2. Миграция применяется успешно
+3. Сгенерированный клиент type-safe

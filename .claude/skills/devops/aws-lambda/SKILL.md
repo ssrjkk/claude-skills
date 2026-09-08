@@ -6,6 +6,7 @@ tags: [aws, lambda, serverless, api-gateway, sam]
 models: [sonnet, opus]
 version: 1.0.0
 created: 2026-05-14
+updated: 2026-09-06
 ---
 # AWS Lambda
 
@@ -47,9 +48,9 @@ Resources:
 ```
 
 ## When to Use
-- ✅ Event-driven serverless APIs
-- ✅ Background processing (resize images, send emails)
-- ❌ Not for long-running processes (>15 min)
+- Event-driven serverless APIs
+- Background processing (resize images, send emails)
+- Not for long-running processes (>15 min)
 
 ## Step-by-Step Instructions
 1. Install AWS SAM CLI
@@ -70,6 +71,16 @@ Input: GET /hello → Output: `{ "message": "Hello from Lambda!" }`
 ## Resources
 - [AWS Lambda Docs](https://docs.aws.amazon.com/lambda/)
 - [Examples](./examples/)
+
+## Troubleshooting
+- **Cold start spikes** — keep dependencies lean, enable provisioned
+  concurrency for hot paths, and prefer lighter runtimes (Node/Go).
+- **Timeouts at 6s in VPC** — the default Lambda timeout is too low.
+  Raise the timeout and check NAT gateway routes to private subnets.
+- **Permission denied on SDK calls** — the execution role lacks policy.
+  Attach the least-privilege IAM policy and re-test with `--no-sign-request`.
+- **`/tmp` fills up** — the 512MB scratch space is shared between invokes.
+  Clean it in a finally block or use `/tmp` only for small artifacts.
 
 ## Validation
 1. Function deploys successfully

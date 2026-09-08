@@ -22,27 +22,25 @@ body:
  id: domain
  attributes:
  label: "Domain"
- options:
- - ai, ar-vr, backend, block, blockchain, cloud, communications
- - data, database, design, desktop, devops, ecommerce, education
- - embedded, energy, engineering, finance, frontend, gamedev
- - geospatial, healthcare, hr, iot, media, mobile, networking
- - os-admin, payments, product, qa, scientific, security
- - supply-chain, sustainability
+options:
+  - ai, backend, blockchain, database, desktop, devops
+  - embedded, engineering, frontend, mobile, security
  validations:
  required: true
 
- - type: checkboxes
- id: checklist
- attributes:
- label: "PR Checklist"
- options:
- - label: "SKILL.md has all required frontmatter"
- required: true
- - label: "SKILL.ru.md is a real translation (not auto-generated)"
- - label: "Code examples compile and run"
- required: true
- - label: "`make validate` passes"
- required: true
- - label: "`make test` passes"
- required: true
+- type: checkboxes
+  id: checklist
+  attributes:
+  label: "PR Checklist"
+  options:
+  - label: "SKILL.md has all required frontmatter"
+  required: true
+  - label: "`python scripts/check_agent_interop.py` passes (cross-agent portable)"
+  required: true
+  - label: "SKILL.ru.md is a real translation (not auto-generated)"
+  - label: "Code examples compile and run"
+  required: true
+  - label: "`make validate` passes"
+  required: true
+  - label: "`make test` passes"
+  required: true

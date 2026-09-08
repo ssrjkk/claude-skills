@@ -6,6 +6,7 @@ tags: [sre, sli, slo, sla, reliability, monitoring]
 models: [sonnet, opus]
 version: 1.0.0
 created: 2026-05-14
+updated: 2026-09-06
 ---
 # SRE SLOs
 
@@ -96,6 +97,37 @@ SLIs measure service reliability (latency, availability, durability). SLOs set t
 - Defining reliability expectations for services
 - Making data-driven decisions about deployment velocity
 - Balancing feature development with reliability investment
+
+## Step-by-Step
+1. Pick service boundaries: define the user-visible promise (e.g., "API replies within 300ms p50, 99.9% available").
+2. Define SLIs as ratios: good events / valid events, per endpoint, aggregated over a rolling window.
+3. Set SLO targets with error budgets: availability = 99.9% over 28 days → budget = 43 min of downtime.
+4. Wire monitoring: export latency histograms and counters from Prometheus; compute SLIs with recording rules.
+5. Add burn-rate alerts: page on 2h lookback at 14.4x budget consumption, ticket on 6h/1d windows.
+6. Gate change velocity: pause deployments when remaining budget crosses the policy threshold (e.g., 20%).
+
+## Examples
+```yaml
+# Multi-window burn-rate alert (two tiers)
+groups:
+  - name: slo-alerts
+    rules:
+      - alert: APIAvailabilityBurnRate
+        expr: |
+          sum(rate(http_requests_total{status=~"5.."}[2h]))
+          / sum(rate(http_requests_total[2h])) > 0.02
+        # 2h window, ~14.4x budget consumption at 99.9% SLO
+        annotations:
+          summary: "API availability error budget burning fast"
+```
+```python
+# Compute SLO compliance from a Prometheus Query API response
+from prometheus_api_client import PrometheusConnect
+p = PrometheusConnect(url="http://prometheus:9090")
+sli_good = p.custom_query('sum(rate(http_requests_total{status<"500"}[28d]))')
+sli_valid = p.custom_query('sum(rate(http_requests_total[28d]))')
+print("availability:", float(sli_good[0]["value"][1]) / float(sli_valid[0]["value"][1]))
+```
 
 ## Validation
 1. SLIs are accurately measured and reported

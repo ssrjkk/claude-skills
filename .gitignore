@@ -43,6 +43,8 @@ credentials
 .pytest_cache/
 .benchmarks/
 .coverage
+.mypy_cache/
+.ruff_cache/
 
 # Next.js
 web/.next/
