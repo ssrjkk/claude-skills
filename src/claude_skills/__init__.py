@@ -14,7 +14,7 @@ from claude_skills.models import (
 from claude_skills.quality import QualityAnalyzer, QualityReport
 from claude_skills.validator import SkillValidator, ValidationPipeline
 
-__version__ = "3.0.0"
+__version__ = "3.1.0"
 __all__ = [
     "Catalog",
     "CatalogBuilder",
