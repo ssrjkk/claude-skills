@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text(encoding="utf-8")
 
 setup(
     name="claude-skills",
-    version="3.0.0",
+    version="3.1.0",
     description="Claude Skills Library — curated bilingual skills for Claude Code",
     long_description=README,
     long_description_content_type="text/markdown",

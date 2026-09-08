@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/skills-21-blue?style=for-the-badge" alt="Skills">
   <img src="https://img.shields.io/badge/languages-EN%20%7C%20RU-green?style=for-the-badge" alt="Languages">
   <img src="https://img.shields.io/badge/domains-11-orange?style=for-the-badge" alt="Domains">
-  <img src="https://img.shields.io/badge/quality-A%20(99.6%25)-brightgreen?style=for-the-badge" alt="Quality">
+  <img src="https://img.shields.io/badge/quality-A%20(100%25)-brightgreen?style=for-the-badge" alt="Quality">
   <img src="https://img.shields.io/badge/coverage-100%25-brightgreen?style=for-the-badge" alt="Coverage">
   <img src="https://img.shields.io/badge/agents-universal-purple?style=for-the-badge" alt="Agent-agnostic">
 </p>
@@ -72,7 +72,7 @@ Frontmatter is strictly validated for cross-agent portability in CI
 | Total skills | **21** |
 | Russian translations | **21 (100%)** |
 | Domains | **11** |
-| Quality score | **99.6% (Grade A)** |
+| Quality score | **100% (Grade A)** |
 | Test coverage | **100%** |
 | License | MIT |
 
