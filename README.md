@@ -77,7 +77,7 @@ Frontmatter is strictly validated for cross-agent portability in CI
 | License | MIT |
 
 Only skills meeting the quality bar (Grade A, no validation errors) are kept
-in `main`. Everything else is archived in the `archive/v1-legacy` branch.
+in `main`. Everything else is archived under the `v1.0-legacy` tag.
 
 ## Skills by domain
 
@@ -181,11 +181,11 @@ Version 2.0 is a complete rewrite focused on quality — 21 carefully curated,
 bilingual, Grade A skills with a validated SDK instead of thousands of
 auto-generated ones.
 
-The original v1.0 library (10,000+ auto-generated skills) is archived:
+The original v1.0 library (10,000+ auto-generated skills) is archived under
+the `v1.0-legacy` tag:
 
 ```bash
-git checkout archive/v1-legacy
-git tag v1.0-legacy
+git checkout v1.0-legacy
 ```
 
 ## License
