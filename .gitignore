@@ -33,6 +33,11 @@ node_modules/
 credentials
 .credentials
 
+# Virtual envs
+.venv/
+venv/
+env/
+
 # Generated
 *.cert
 *.key
@@ -43,6 +48,7 @@ credentials
 .pytest_cache/
 .benchmarks/
 .coverage
+.coverage.*
 .mypy_cache/
 .ruff_cache/
 
@@ -52,6 +58,7 @@ web/out/
 
 # Generated catalog (built by CI)
 skills_catalog.json
+quality-report.json
 
 # One-time scripts (should not be tracked)
 /scripts/breakthrough.py
